@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: Lato, sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  background: #73ba25;
+  padding: 1em;
+}
+
+h1 {
+  margin: 0.4em 0;
+  display: inline-block;
+}
+
+button {
+  color: #fff;
+  background: #73ba25;
+  font-family: Lato, sans-serif;
+  font-size: 1.3em;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  outline: 0;
+}
+
+button:hover {
+  background: rgb(23, 63, 79);
+}
+
+button:active {
+  background: rgb(23, 63, 79);
+}
+
+.container {
+  width: 70%;
+  max-width: 1100px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px;
+}
+
+.quizzes {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.quizzes button {
+  margin: 5px 0;
+}
+
+.correct-count {
+  float: right;
+  margin: 0.4em 0;
+  font-size: 1.2em;
+}
+
+.q-container .btn-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 5px;
+  margin: 10px 0;
+}
+
+.q-container .btn-grid button {
+  display: block;
+}
+
+.question {
+  font-weight: 500;
+  font-size: 1.5em;
+}
+
+.btn-container {
+  margin: 10px 0;
+}
+
+input[type="text"] {
+  outline: none;
+  border: 1px solid #ccc;
+  font-family: Lato, sans-serif;
+  padding: 10px;
+  float: left;
+  display: block;
+  width: 70%;
+  height: 40px;
+}
+
+.check-btn {
+  height: 40px;
+  line-height: 40px;
+  padding: 0 10px;
+}
+
+.hide {
+  display: none;
+}
+
+.correct {
+  background: #23a833 !important;
+}
+
+.wrong {
+  background: #ff3e51 !important;
+}
+
+@media screen and (max-width: 894px) {
+  .container {
+    width: 90%;
+  }
+
+  .q-container .btn-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .correct-count {
+    float: none;
+  }
+}
+
+/* results */
+table .results {
+  border: 0;
+}
+
+table.results th,td  {
+  border-bottom: 1px solid black;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Quiz App</title>
+    <link href="./styles.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+<h1>openSUSE Quiz Leaderboard</h1>
+<table class="results">
+  <thead>
+    <tr><th>Nickname</th><th>Correct</th><th>Wrong</th></tr>
+  </thead>
+  <tbody>
+  <% Object.keys(results).forEach(function(user) { %>
+      <td style="width: 200px;"><%= user %></td>
+      <td style="width: 100px;"><%= results[user].correct %></td>
+      <td style="width: 100px;"><%= results[user].total %></td>
+    </tr>
+  <% }); %>
+  </tbody>
+</table>
+</body>
+</html>

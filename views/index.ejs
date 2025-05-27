@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Find a quiz</title>
+  <link href="./styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Quizzes</h1>
+    <p>Find all available quizzes here</h1>
+    <div class="quizzes">
+      <% quizzes.forEach(quiz => { %>
+        <a href="./quiz?name=<%- quiz.slug %>"><button><%= quiz.title %></button></a>
+      <% }) %>
+    </div>
+  </div>
+</body>
+</html>
