@@ -1,9 +1,0 @@
-msgid ""
-msgstr ""
-"Language: en\n"
-
-msgid "Find a quiz"
-msgstr "Find a quiz"
-
-msgid "Start"
-msgstr "Start"
