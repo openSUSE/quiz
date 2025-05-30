@@ -46,10 +46,9 @@ At an agreed time we call out winners by one of two ways.
 2. Go to http://localhost:3000/bingo and pick three winners
 3. Visit http://localhost:3000/reset?token=supersecret or restart the service to reset stats
 
-## Screenshots
+# Instance
 
-![image](https://github.com/user-attachments/assets/9704ff88-d9f1-4054-9c6c-aafbac88b7d1)
+https://quiz-o-o.netlify.app/
 
-![image](https://github.com/user-attachments/assets/908b0650-0485-428e-a2af-02ffc691f1c1)
-
-![image](https://github.com/user-attachments/assets/1da951bf-c2cd-497c-a32a-3a6dd7aad7f8)
+**Booth staff tip**
+You can make individual instances for conferences by create a new pull request "e.g. Devconf 2025" which will spawn a new instance of quiz-o-o in netlify.app
