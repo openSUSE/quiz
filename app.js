@@ -3,6 +3,8 @@ const fs = require("fs");
 const path = require("path");
 
 const app = express();
+const dataDirBasePath = process.env.LAMBDA_TASK_ROOT || __dirname;
+const dataDirPath = path.join(dataDirBasePath, "data");
 
 const RESET_TOKEN = process.env.RESET_TOKEN || "nots3cr3t";
 
@@ -14,8 +16,7 @@ app.set("view engine", "ejs");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
-
-const dataDirPath = path.join(__dirname, "data");
+app.use("/data", express.static(path.join(__dirname, "data")));
 
 const quizFileDir = fs
   .readdirSync(dataDirPath)
