@@ -36,18 +36,21 @@ const quizzes = quizFileDir.map((file) => {
 async function loadTranslations(lang) {
   const { po } = await import("gettext-parser");
   const filePath = path.join(
-    __dirname,
+    dataDirBasePath,
     "locales",
     lang,
     "LC_MESSAGES",
     "messages.po",
   );
   if (fs.existsSync(filePath)) {
-    const poFileContent = fs.readFileSync(filePath); // Renamed 'po' to 'poFileContent'
-    const translations = po.parse(poFileContent); // Use destructured 'po'
+    const poFileContent = fs.readFileSync(filePath);
+    const translations = po.parse(poFileContent);
     gt.addTranslations(lang, "messages", translations);
     gt.setLocale(lang);
   } else {
+    console.error(
+      `Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.`,
+    );
     gt.setLocale("en");
   }
 }
