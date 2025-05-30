@@ -1,9 +1,11 @@
 [build]
-  command = "npm install"
+  command = "npm install && npm run build:css"
   publish = "public"
   functions = "netlify/functions"
 
 [functions]
+  external_node_modules = ["express"]
+  node_bundler = "esbuild"
   included_files = ["data/**"]
 
 [[redirects]]
