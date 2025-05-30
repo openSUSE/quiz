@@ -3,7 +3,6 @@ const fs = require("fs");
 const path = require("path");
 require("ejs");
 const Gettext = require("node-gettext");
-const gettextParser = require("gettext-parser");
 
 const app = express();
 const dataDirBasePath = process.env.LAMBDA_TASK_ROOT || __dirname;
@@ -34,7 +33,8 @@ const quizzes = quizFileDir.map((file) => {
   };
 });
 
-function loadTranslations(lang) {
+async function loadTranslations(lang) {
+  const { po } = await import("gettext-parser");
   const filePath = path.join(
     __dirname,
     "locales",
@@ -43,8 +43,8 @@ function loadTranslations(lang) {
     "messages.po",
   );
   if (fs.existsSync(filePath)) {
-    const po = fs.readFileSync(filePath);
-    const translations = gettextParser.po.parse(po);
+    const poFileContent = fs.readFileSync(filePath); // Renamed 'po' to 'poFileContent'
+    const translations = po.parse(poFileContent); // Use destructured 'po'
     gt.addTranslations(lang, "messages", translations);
     gt.setLocale(lang);
   } else {
@@ -53,19 +53,19 @@ function loadTranslations(lang) {
 }
 
 // Routes
-app.get("/", (req, res) => {
+app.get("/", async (req, res) => {
   const lang = req.query.lang || "en";
-  loadTranslations(lang);
+  await loadTranslations(lang);
   res.render("index", {
     quizzes,
     lang,
     t: (text) => gt.gettext(text),
   });
 });
-app.get("/quiz", (req, res) => {
+app.get("/quiz", async (req, res) => {
   const lang = req.query.lang || "en";
   const name = req.query.name;
-  loadTranslations(lang);
+  await loadTranslations(lang);
 
   res.render("quiz", {
     lang: lang,
