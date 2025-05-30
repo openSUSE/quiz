@@ -1,5 +1,8 @@
 const quizData = {
   title: "test",
+  subtitle: "test",
+  submitAnytime: false,
+  randomizeQuestions: false
 };
 
 const questions = [
@@ -14,4 +17,10 @@ const questions = [
     ],
   },
 ];
+
+// Randomize questions here if enabled
+if (quizData.randomizeQuestions) {
+  questions.sort(() => Math.random() - 0.5);
+}
+
 module.exports = { quizData, questions };

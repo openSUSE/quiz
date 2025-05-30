@@ -1,5 +1,6 @@
 const quizData = {
   title: "openSUSE Brutal",
+  subtitle: "Challenge other users in our leaderboard. Stop anytime.",
   submitAnytime: true,
   randomizeQuestions: true
 };
@@ -166,5 +167,10 @@ const questions = [
     ]
   }
 ];
+
+// Randomize questions here if enabled
+if (quizData.randomizeQuestions) {
+  questions.sort(() => Math.random() - 0.5);
+}
 
 module.exports = { quizData, questions };
