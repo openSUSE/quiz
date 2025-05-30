@@ -12,7 +12,9 @@ body {
   font-family: Lato, sans-serif;
   font-size: 1em;
   line-height: 1.5;
-  background: @quiz-background;
+  background: linear-gradient(135deg, @quiz-background 0%, @opensuse-light-green 25%, @opensuse-green 75%, @opensuse-blue 100%);
+  background-size: 400% 400%;
+  animation: gradientShift 8s ease infinite;
   padding: 1em;
   display: flex;
   flex-direction: column;
@@ -20,10 +22,25 @@ body {
   justify-content: center;
 }
 
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 h1 {
   margin: 0.4em 0;
   display: inline-block;
   text-align: center;
+}
+
+.quiz-subtitle {
+  display: block;
+  font-size: 1em;
+  font-weight: 300;
+  color: @opensuse-blue;
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 button {
@@ -45,6 +62,13 @@ button:active {
   background: @quiz-button-hover-background;
 }
 
+.back-btn {
+  background: @opensuse-blue;
+  &:hover {
+    background: darken(@opensuse-green, 10%);
+  }
+}
+
 .container {
   width: 90%;
   max-width: 1100px;
@@ -55,6 +79,20 @@ button:active {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.main-page-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
 .quiz-header {
   display: flex;
   flex-direction: column;
@@ -62,14 +100,60 @@ button:active {
   margin-bottom: 20px;
 }
 
+.status-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 20px 0;
+  justify-content: center;
+  align-items: center;
+}
+
+#timer {
+  background: @opensuse-blue;
+  color: #fff;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid @opensuse-green;
+  min-width: 160px;
+  justify-content: center;
+
+  &.warning {
+    background: @opensuse-orange;
+    border-color: darken(@opensuse-orange, 10%);
+    animation: pulse 1s infinite;
+  }
+
+  &.critical {
+    background: @quiz-wrong-answer;
+    border-color: darken(@quiz-wrong-answer, 10%);
+    animation: pulse 0.5s infinite;
+  }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
 .correct-count {
   margin: 0.5em 0;
   font-size: 1.2em;
-  padding: 8px 15px;
-  border-radius: 5px;
-  background-color: #f0f0f0;
-  color: #333;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 12px 20px;
+  border-radius: 8px;
+  background: #fff;
+  color: @opensuse-blue;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid @opensuse-light-green;
+  min-width: 200px;
+  text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -79,6 +163,7 @@ button:active {
 .correct-count .username-display {
   font-weight: bold;
   margin-right: 10px;
+  color: @opensuse-blue;
 }
 
 .correct-count .score {
@@ -86,15 +171,157 @@ button:active {
 }
 
 .quizzes {
-  text-align: center;
-  margin: 10px 0;
+  // text-align: center; // Original
+  // margin: 10px 0; // Original
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px 0;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto; // Centering the container
 }
 
-.quizzes button {
-  margin: 5px;
-  width: calc(50% - 10px);
-  @media screen and (max-width: 600px) {
-    width: calc(100% - 10px);
+// Removing the old .quizzes button style as new .quiz-link/.quiz-btn is used
+// .quizzes button {
+//   margin: 5px;
+//   width: calc(50% - 10px);
+//   @media screen and (max-width: 600px) {
+//     width: calc(100% - 10px);
+//   }
+// }
+
+.quiz-link {
+  text-decoration: none;
+  width: 100%;
+  max-width: 500px; // From styles.css
+}
+
+.quiz-btn {
+  width: 100%;
+  padding: 25px 20px;
+  border: none;
+  border-radius: 15px;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2em;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  position: relative;
+  overflow: hidden;
+  color: #fff; // Default text color
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+  }
+
+  &:hover::before {
+    left: 100%;
+  }
+}
+
+.quiz-btn-icon {
+  font-size: 1.5em;
+  display: block;
+}
+
+.quiz-btn-title {
+  flex: 1;
+  text-align: center;
+}
+
+// openSUSE Color Cycling for Quiz Buttons
+.quiz-btn-color-0 {
+  background: linear-gradient(135deg, @opensuse-blue 0%, darken(@opensuse-blue, 5%) 100%);
+  border: 3px solid @opensuse-green;
+  &:hover {
+    background: linear-gradient(135deg, darken(@opensuse-blue, 5%) 0%, @opensuse-blue 100%);
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px fade(@opensuse-blue, 40%);
+  }
+}
+
+.quiz-btn-color-1 {
+  background: linear-gradient(135deg, @opensuse-green 0%, darken(@opensuse-green, 5%) 100%);
+  border: 3px solid @opensuse-blue;
+  &:hover {
+    background: linear-gradient(135deg, darken(@opensuse-green, 5%) 0%, @opensuse-green 100%);
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px fade(@opensuse-green, 40%);
+  }
+}
+
+.quiz-btn-color-2 {
+  background: linear-gradient(135deg, @opensuse-light-green 0%, darken(@opensuse-light-green, 5%) 100%);
+  border: 3px solid @opensuse-orange;
+  &:hover {
+    background: linear-gradient(135deg, darken(@opensuse-light-green, 5%) 0%, @opensuse-light-green 100%);
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px fade(@opensuse-light-green, 40%);
+  }
+}
+
+.quiz-btn-color-3 {
+  background: linear-gradient(135deg, @opensuse-orange 0%, darken(@opensuse-orange, 5%) 100%);
+  border: 3px solid @opensuse-light-green;
+  &:hover {
+    background: linear-gradient(135deg, darken(@opensuse-orange, 5%) 0%, @opensuse-orange 100%);
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px fade(@opensuse-orange, 40%);
+  }
+}
+
+/* Responsive Design for Quiz Main Page from styles.css */
+@media screen and (max-width: 768px) {
+  .quiz-main-header h1 {
+    font-size: 2.2em;
+  }
+  
+  .quiz-main-subtitle { // Assuming this is the one in .quiz-main-header
+    font-size: 1.1em;
+  }
+  
+  .quizzes {
+    gap: 10px;
+    padding: 15px; // Overwrites the 20px 0 from above
+  }
+  
+  .quiz-btn {
+    padding: 20px 15px;
+    font-size: 1.1em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .quiz-main-header h1 {
+    font-size: 1.8em;
+  }
+  
+  .quizzes {
+    gap: 8px;
+  }
+  
+  .quiz-btn {
+    padding: 18px 12px;
+    font-size: 1em;
+    gap: 10px;
+  }
+  
+  .quiz-btn-icon {
+    font-size: 1.3em;
   }
 }
 
