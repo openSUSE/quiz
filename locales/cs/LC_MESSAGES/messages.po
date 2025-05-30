@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "openSUSE Quizzes"
+msgstr "openSUSE Kvízy"
+
+msgid "Available quizzes"
+msgstr "Dostupné kvízy"
+
+msgid "openSUSE Expert"
+msgstr "openSUSE Expert"
+
+msgid "Devconf 2025"
+msgstr "Devconf 2025"
+
+msgid "Question"
+msgstr "Otázka"

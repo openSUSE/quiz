@@ -2,10 +2,13 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 require("ejs");
+const Gettext = require("node-gettext");
+const gettextParser = require("gettext-parser");
 
 const app = express();
 const dataDirBasePath = process.env.LAMBDA_TASK_ROOT || __dirname;
 const dataDirPath = path.join(dataDirBasePath, "data");
+const gt = new Gettext();
 
 const RESET_TOKEN = process.env.RESET_TOKEN || "nots3cr3t";
 
@@ -31,9 +34,45 @@ const quizzes = quizFileDir.map((file) => {
   };
 });
 
+function loadTranslations(lang) {
+  const filePath = path.join(
+    __dirname,
+    "locales",
+    lang,
+    "LC_MESSAGES",
+    "messages.po",
+  );
+  if (fs.existsSync(filePath)) {
+    const po = fs.readFileSync(filePath);
+    const translations = gettextParser.po.parse(po);
+    gt.addTranslations(lang, "messages", translations);
+    gt.setLocale(lang);
+  } else {
+    gt.setLocale("en");
+  }
+}
+
 // Routes
-app.get("/", (req, res) => res.render("index", { quizzes }));
-app.get("/quiz", (req, res) => res.render("quiz", { query: req.query.name }));
+app.get("/", (req, res) => {
+  const lang = req.query.lang || "en";
+  loadTranslations(lang);
+  res.render("index", {
+    quizzes,
+    lang,
+    t: (text) => gt.gettext(text),
+  });
+});
+app.get("/quiz", (req, res) => {
+  const lang = req.query.lang || "en";
+  const name = req.query.name;
+  loadTranslations(lang);
+
+  res.render("quiz", {
+    lang: lang,
+    query: req.query.name,
+    t: (text) => gt.gettext(text),
+  });
+});
 app.get("/stats", (req, res) => res.render("stats", { results }));
 app.get("/bingo", (req, res) => res.render("bingo", { results }));
 
