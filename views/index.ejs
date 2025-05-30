@@ -9,11 +9,12 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700&display=swap" rel="stylesheet">
   <link href="/styles.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
   <div class="main-page-container">
-      <div>
+    <div class="language-selector-container"> 
         <label for="lang-select">🌐 <%= t("Language") %>:</label>
         <select id="lang-select">
           <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
@@ -21,7 +22,13 @@
         </select>
       </div>
     <div class="quiz-main-header">
-      <h1>🦎 <%= t("openSUSE Quizzes") %></h1>
+      <div class="opensuse-quiz-logo-header">
+        <img src="/img/button-colour.png" alt="openSUSE Logo" class="opensuse-quiz-logo-header__image">
+        <div class="opensuse-quiz-logo-header__text-block">
+          <span class="opensuse-quiz-logo-header__text--opensuse">openSUSE</span>
+          <span class="opensuse-quiz-logo-header__text--quiz">QU1Z!</span>
+        </div>
+      </div>
       <p class="quiz-main-subtitle"><%= t("Available quizzes") %></p>
     </div>
     <div class="quizzes">
