@@ -11,12 +11,19 @@
   <link href="./styles.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <div class="container">
-    <h1>Quizzes</h1>
-    <p>Find all available quizzes here</h1>
+  <div class="main-page-container">
+    <div class="quiz-main-header">
+      <h1>🦎 openSUSE Quizzes</h1>
+      <p class="quiz-main-subtitle">Find all available quizzes here</p>
+    </div>
     <div class="quizzes">
-      <% quizzes.forEach(quiz => { %>
-        <a href="./quiz?name=<%- quiz.slug %>"><button><%= quiz.title %></button></a>
+      <% quizzes.forEach((quiz, index) => { %>
+        <a href="./quiz?name=<%- quiz.slug %>" class="quiz-link">
+          <button class="quiz-btn quiz-btn-color-<%= index % 4 %>">
+            <span class="quiz-btn-icon">📋</span>
+            <span class="quiz-btn-title"><%= quiz.title %></span>
+          </button>
+        </a>
       <% }) %>
     </div>
   </div>
