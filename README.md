@@ -8,6 +8,8 @@ A goal of this project is to provide openSUSE booth staff with a local instance 
 
 [x] **Getting familiar with openSUSE** mode, where we keep track of attendees and provide a mini interactive (press enter) lottery at the end. So everybody can win some prices.
 
+[x] No worries about GDPR. The database is in-memory only, holds only nicknames and data is erased after process is stopped or re-started. You can also reset stats by simply visiting /reset.
+
 ## License
 
 SPDX-License-Identifier: MIT
