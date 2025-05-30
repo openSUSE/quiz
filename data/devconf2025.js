@@ -1,5 +1,7 @@
 const quizData = {
-  title: "openSUSE Devconf 2025"
+  title: "openSUSE Devconf 2025",
+  submitAnytime: false,
+  randomizeQuestions: true
 };
 
 const questions = [
