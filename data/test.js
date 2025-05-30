@@ -2,7 +2,7 @@ const quizData = {
   title: "test",
   subtitle: "test",
   submitAnytime: false,
-  randomizeQuestions: false
+  randomizeQuestions: false,
 };
 
 const questions = [

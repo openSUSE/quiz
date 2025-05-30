@@ -28,7 +28,7 @@ $ zypper in git nodejs
 $ git clone https://github.com/openSUSE/quiz.git
 $ cd quiz
 $ npm install
-$ node server.js
+$ npm start # port overriding RESET_TOKEN=supersecret PORT=4000 npm start
 ```
 
 Visit http://localhost:3000 in your browser
@@ -44,7 +44,7 @@ At an agreed time we call out winners by one of two ways.
 
 1. Based on http://localhost:3000/stats
 2. Go to http://localhost:3000/bingo and pick three winners
-3. Visit http://localhost:3000/reset or restart the service
+3. Visit http://localhost:3000/reset?token=supersecret or restart the service to reset stats
 
 ## Screenshots
 
