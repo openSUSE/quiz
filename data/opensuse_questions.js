@@ -1,7 +1,8 @@
 const quizData = {
   title: "openSUSE Brutal",
-  subtitle: "Challenge other users in our leaderboard. Stop anytime.",
+  subtitle: "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime.",
   submitAnytime: true,
+  timeout: 30,
   randomizeQuestions: true
 };
 

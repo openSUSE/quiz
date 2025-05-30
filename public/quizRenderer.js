@@ -10,6 +10,7 @@ var startBtn = document.querySelector(".start-btn"),
 
 let currentQuestion = 0;
 let correct = 0;
+let questionTimeout = null;
 
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
@@ -60,13 +61,44 @@ function endQuiz() {
   questionElement.classList.add("hide");
   answersContainer.classList.add("hide");
 
-  correctCount.innerHTML = `${usernameBox.value} Correct: ${correct}/${currentQuestion}`;
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
 }
 
 function loadQuestion(questionNum) {
   var usernameBox = document.getElementById("username");
   var correctBox = document.getElementById("correct");
   var totalBox = document.getElementById("total");
+
+  clearTimeout(questionTimeout); // clear any previous timeout
+
+  if (quizData.timeout && !isNaN(quizData.timeout)) {
+    let timerDisplay = document.getElementById("timer");
+    timerDisplay.classList.remove("hide");
+    if (!timerDisplay) {
+      timerDisplay = document.createElement("div");
+      timerDisplay.id = "timer";
+      timerDisplay.style.fontWeight = "bold";
+      document.body.insertBefore(timerDisplay, answersContainer);
+    }
+
+    let timeLeft = quizData.timeout;
+    timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+
+    let timer = setInterval(() => {
+      timeLeft--;
+      timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+      if (timeLeft <= 0) {
+        clearInterval(timer);
+      }
+    }, 1000);
+
+    // Clear timer after question ends
+    questionTimeout = setTimeout(() => {
+      clearInterval(timer);
+      checkAnswer(true);
+    }, quizData.timeout * 1000);
+  }
+
 
   // set values before posting
   correctBox.value = correct;
@@ -79,7 +111,7 @@ function loadQuestion(questionNum) {
     questionElement.classList.add("hide");
     answersContainer.classList.add("hide");
     startBtn.innerHTML = "Restart";
-    correctCount.innerHTML = `${usernameBox.value} Correct: ${correct}/${questions.length}`;
+    correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
 
     correct = 0;
     currentQuestion = 0;
@@ -126,12 +158,18 @@ function loadQuestion(questionNum) {
 
     //End types
 
-    correctCount.innerHTML = `${usernameBox.value} Correct: ${correct}`;
+    correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
+
+    if (quizData.timeout && !isNaN(quizData.timeout)) {
+    questionTimeout = setTimeout(() => {
+      checkAnswer(true); // Indicate timeout
+    }, quizData.timeout * 1000);
+  }
   }
 }
 
-function checkAnswer() {
-  // Check different types
+function checkAnswer(isTimeout = false) {
+  clearTimeout(questionTimeout); // cancel timeout to avoid multiple calls
 
   switch (answersContainer.dataset.type) {
     case "mc":
@@ -139,36 +177,35 @@ function checkAnswer() {
         if (button.dataset.correct === "true") {
           button.classList.add("correct");
           if (
-            button.dataset.correct === "true" &&
-            button.dataset.clicked === "true"
+            button.dataset.clicked === "true" &&
+            !isTimeout
           ) {
             correct++;
           }
         } else {
           button.classList.add("wrong");
         }
+        button.disabled = true; // Disable all buttons
       });
-      currentQuestion++;
       break;
 
     case "txt":
       var qInputElement = answersContainer.children[0];
       var foundValues = questions[currentQuestion].answers.find(
-        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase(),
+        (answer) =>
+          answer.toUpperCase() === qInputElement.value.toUpperCase(),
       );
-      if (foundValues) {
+      if (foundValues && !isTimeout) {
         qInputElement.classList.add("correct");
         correct++;
       } else {
         qInputElement.classList.add("wrong");
       }
-      currentQuestion++;
       break;
 
     default:
       return;
-      break;
   }
 
-  //End different types
+  currentQuestion++;
 }

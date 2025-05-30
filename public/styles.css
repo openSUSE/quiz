@@ -24,6 +24,8 @@ h1 {
 .quiz-subtitle {
   display: block;
   font-size: 1em;
+  font-weight: light;
+  color: #173f4f;
 }
 button {
   color: #fff;
@@ -35,6 +37,15 @@ button {
   cursor: pointer;
   outline: 0;
 }
+
+.back-btn {
+  background: #173f4f;
+}
+
+.back-btn:hover {
+  background: #2a9186;
+}
+
 button:hover {
   background: #173f4f;
 }
@@ -116,6 +127,14 @@ button:active {
   display: flex;
   gap: 8px; /* small spacing between buttons */
   align-items: center; /* vertically center buttons if needed */
+}
+
+.status-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
 }
 
 input[type="text"] {
