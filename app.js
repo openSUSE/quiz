@@ -14,14 +14,15 @@ app.set("view engine", "ejs");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
-app.use("/data", express.static(path.join(__dirname, "data")));
+
+const dataDirPath = path.join(__dirname, "data");
 
 const quizFileDir = fs
-  .readdirSync("./data")
+  .readdirSync(dataDirPath)
   .filter((name) => name.endsWith(".js"));
 
 const quizzes = quizFileDir.map((file) => {
-  const quizFile = require(`./data/${file}`);
+  const quizFile = require(path.join(dataDirPath, file));
   return {
     title: quizFile.quizData.title,
     slug: file.replace(".js", ""),
