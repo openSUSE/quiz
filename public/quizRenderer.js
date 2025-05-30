@@ -4,24 +4,37 @@ var startBtn = document.querySelector(".start-btn"),
   questionElement = document.querySelector(".question"),
   answersContainer = document.querySelector(".q-container"),
   quizTitleElement = document.querySelector(".quiz-title"),
-  correctCount = document.querySelector(".correct-count");
+  quizSubTitleElement = document.querySelector(".quiz-subtitle"),
+  correctCount = document.querySelector(".correct-count"),
+  submitAnytimeBtn = document.querySelector(".submit-anytime-btn");
+
 let currentQuestion = 0;
 let correct = 0;
 
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
+  quizSubTitleElement.innerHTML = quizData.subtitle;
 });
 
 startBtn.addEventListener("click", () => {
-  username = document.getElementById("username");
-  if (username.value != "") {
+  const username = document.getElementById("username");
+  if (username.value !== "") {
     username.style.display = "none";
+
+    if (quizData.submitAnytime) {
+      submitAnytimeBtn.classList.remove("hide");
+    }
+
     startQuiz();
   }
 });
 
 nextBtn.addEventListener("click", () => {
   loadQuestion(currentQuestion);
+});
+
+submitAnytimeBtn.addEventListener("click", () => {
+  endQuiz();
 });
 
 function startQuiz() {
@@ -32,6 +45,22 @@ function startQuiz() {
   answersContainer.classList.remove("hide");
   correctCount.classList.remove("hide");
   loadQuestion(currentQuestion);
+}
+
+function endQuiz() {
+  const usernameBox = document.getElementById("username");
+  const correctBox = document.getElementById("correct");
+  const totalBox = document.getElementById("total");
+
+  correctBox.value = correct;
+  totalBox.value = currentQuestion;
+
+  submitBtn.classList.remove("hide");
+  nextBtn.classList.add("hide");
+  questionElement.classList.add("hide");
+  answersContainer.classList.add("hide");
+
+  correctCount.innerHTML = `${usernameBox.value} Correct: ${correct}/${currentQuestion}`;
 }
 
 function loadQuestion(questionNum) {

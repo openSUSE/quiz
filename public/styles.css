@@ -21,6 +21,10 @@ h1 {
   display: inline-block;
   text-align: center;
 }
+.quiz-subtitle {
+  display: block;
+  font-size: 1em;
+}
 button {
   color: #fff;
   background: #73ba25;
@@ -109,7 +113,11 @@ button:active {
 }
 .btn-container {
   margin: 10px 0;
+  display: flex;
+  gap: 8px; /* small spacing between buttons */
+  align-items: center; /* vertically center buttons if needed */
 }
+
 input[type="text"] {
   outline: none;
   border: 1px solid #ccc;

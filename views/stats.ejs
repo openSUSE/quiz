@@ -8,6 +8,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
     <link href="./styles.css" rel="stylesheet" type="text/css" />
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const icons = ["🥇", "🥈", "🥉"];
+        const rows = document.querySelectorAll(".results tbody tr");
+
+        rows.forEach((row, index) => {
+          if (index < 3) {
+            const nameCell = row.querySelector("td:first-child");
+            nameCell.innerHTML = `${icons[index]} ${nameCell.innerHTML}`;
+          }
+        });
+      });
+    </script>
   </head>
   <body>
 <h1>openSUSE Quiz Leaderboard</h1>
@@ -16,11 +29,35 @@
     <tr><th>Nickname</th><th>Correct</th><th>Wrong</th></tr>
   </thead>
   <tbody>
-  <% Object.keys(results).forEach(function(user) { %>
-      <td style="width: 200px;"><%= user %></td>
-      <td style="width: 100px;"><%= results[user].correct %></td>
-      <td style="width: 100px;"><%= results[user].total %></td>
-    </tr>
+    <!-- 
+    Let's make sure that somebody who spends time to answer 1000 questions and has two wrong
+    is in leaderboard above the person who did 10 with 0 wrong answers.
+
+    score = correct * (1 + total / 1000)
+    This way:
+      A perfect score on 10 questions = 10 * (1 + 10/1000) = 10.1
+      998/1000 = 998 * (1 + 1000/1000) = 998 * 2 = 1996 → clearly better-->
+  <%
+    const sorted = Object.entries(results).sort((a, b) => {
+      const [userA, dataA] = a;
+      const [userB, dataB] = b;
+
+      const scoreA = dataA.correct * (1 + dataA.total / 1000);
+      const scoreB = dataB.correct * (1 + dataB.total / 1000);
+
+      if (scoreB !== scoreA) {
+        return scoreB - scoreA; // primary: score
+      }
+      return userA.localeCompare(userB); // secondary: alphabetical
+    });
+
+    sorted.forEach(([user, data]) => {
+  %>
+      <tr>
+        <td style="width: 200px;"><%= user %></td>
+        <td style="width: 100px;"><%= data.correct %></td>
+        <td style="width: 100px;"><%= data.total - data.correct %></td>
+      </tr>
   <% }); %>
   </tbody>
 </table>
