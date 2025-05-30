@@ -16,6 +16,7 @@ A goal of this project is to provide openSUSE booth staff with a local instance 
 ## License
 
 SPDX-License-Identifier: MIT
+
 This project is under MIT License.
 
 It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sandbox/nodejs-quiz-app-l5hig) at codesandbox.io. Many thanks to the author for making it.
