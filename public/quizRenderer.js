@@ -16,7 +16,7 @@ let timerInterval = null;
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
   quizSubTitleElement.innerHTML = quizData.subtitle;
-  
+
   const usernameInput = document.getElementById("username");
   usernameInput.addEventListener("input", () => {
     if (usernameInput.classList.contains("input-error")) {
@@ -28,7 +28,7 @@ window.addEventListener("load", () => {
   // Add event listener to the form for the submit event
   const usernameForm = document.querySelector(".username-form");
   if (usernameForm) {
-    usernameForm.addEventListener('submit', () => {
+    usernameForm.addEventListener("submit", () => {
       const actualUsernameInput = document.getElementById("username");
       if (actualUsernameInput) {
         actualUsernameInput.disabled = false;
@@ -45,7 +45,7 @@ startBtn.addEventListener("click", (event) => {
 
   if (startBtn.textContent === "Restart") {
     // Handle Restart action
-    usernameForm.classList.remove("hide"); 
+    usernameForm.classList.remove("hide");
     usernameInput.disabled = false;
     usernameInput.value = "";
     usernameInput.classList.remove("input-error");
@@ -69,7 +69,7 @@ startBtn.addEventListener("click", (event) => {
 
   // Handle Start action
   if (usernameInput.value.trim() !== "") {
-    usernameInput.disabled = true; 
+    usernameInput.disabled = true;
     usernameInput.classList.remove("input-error");
     usernameInput.removeAttribute("title");
 
@@ -129,8 +129,8 @@ function loadQuestion(questionNum) {
   var correctBox = document.getElementById("correct");
   var totalBox = document.getElementById("total");
 
-  clearTimeout(questionTimeout);   // Clear previous timeout
-  clearInterval(timerInterval);    // Clear previous interval too
+  clearTimeout(questionTimeout); // Clear previous timeout
+  clearInterval(timerInterval); // Clear previous interval too
 
   let timerDisplay = document.getElementById("timer");
   if (!timerDisplay) {
@@ -140,7 +140,7 @@ function loadQuestion(questionNum) {
     timerDisplay.className = "hide";
     document.querySelector(".status-container").appendChild(timerDisplay);
   }
-  
+
   if (quizData.timeout && !isNaN(quizData.timeout)) {
     timerDisplay.classList.remove("hide");
     let timeLeft = quizData.timeout;
@@ -149,7 +149,7 @@ function loadQuestion(questionNum) {
     timerInterval = setInterval(() => {
       timeLeft--;
       updateTimerDisplay(timerDisplay, timeLeft);
-      
+
       // Add visual warnings based on time left
       if (timeLeft <= 5) {
         timerDisplay.className = "critical";
@@ -158,7 +158,7 @@ function loadQuestion(questionNum) {
       } else {
         timerDisplay.className = "";
       }
-      
+
       if (timeLeft <= 0) {
         clearInterval(timerInterval);
       }
@@ -171,8 +171,6 @@ function loadQuestion(questionNum) {
   } else {
     timerDisplay.classList.add("hide");
   }
-
-
 
   // set values before posting
   correctBox.value = correct;
@@ -189,7 +187,6 @@ function loadQuestion(questionNum) {
     answersContainer.classList.add("hide");
     startBtn.textContent = "Restart";
     updateScoreDisplay(usernameBox.value, true);
-
   } else {
     while (answersContainer.firstChild) {
       answersContainer.removeChild(answersContainer.firstChild);
@@ -245,10 +242,7 @@ function checkAnswer(isTimeout = false) {
       Array.from(answersContainer.children[0].children).forEach((button) => {
         if (button.dataset.correct === "true") {
           button.classList.add("correct");
-          if (
-            button.dataset.clicked === "true" &&
-            !isTimeout
-          ) {
+          if (button.dataset.clicked === "true" && !isTimeout) {
             correct++;
           }
         } else {
@@ -261,8 +255,7 @@ function checkAnswer(isTimeout = false) {
     case "txt":
       var qInputElement = answersContainer.children[0];
       var foundValues = questions[currentQuestion].answers.find(
-        (answer) =>
-          answer.toUpperCase() === qInputElement.value.toUpperCase(),
+        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase(),
       );
       if (foundValues && !isTimeout) {
         qInputElement.classList.add("correct");
@@ -283,10 +276,11 @@ function checkAnswer(isTimeout = false) {
 function updateTimerDisplay(timerElement, timeLeft) {
   const minutes = Math.floor(timeLeft / 60);
   const seconds = timeLeft % 60;
-  const timeString = minutes > 0 ? 
-    `${minutes}:${seconds.toString().padStart(2, '0')}` : 
-    `${seconds}s`;
-  
+  const timeString =
+    minutes > 0
+      ? `${minutes}:${seconds.toString().padStart(2, "0")}`
+      : `${seconds}s`;
+
   timerElement.innerHTML = `⏱️ ${timeString}`;
 }
 
@@ -295,7 +289,7 @@ function updateScoreDisplay(username, isFinal = false) {
   const correctSpan = `<span class="score-correct">${correct}</span>`;
   const totalSpan = `<span class="score-total">${questions.length}</span>`;
   const separator = '<span class="score-separator">/</span>';
-  
+
   if (isFinal) {
     correctCount.innerHTML = `
       <span class="username-display">🎯 ${username}</span>
