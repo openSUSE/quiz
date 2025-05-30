@@ -1,8 +1,11 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
+require("ejs");
 
 const app = express();
+const dataDirBasePath = process.env.LAMBDA_TASK_ROOT || __dirname;
+const dataDirPath = path.join(dataDirBasePath, "data");
 
 const RESET_TOKEN = process.env.RESET_TOKEN || "nots3cr3t";
 
@@ -17,11 +20,11 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use("/data", express.static(path.join(__dirname, "data")));
 
 const quizFileDir = fs
-  .readdirSync("./data")
+  .readdirSync(dataDirPath)
   .filter((name) => name.endsWith(".js"));
 
 const quizzes = quizFileDir.map((file) => {
-  const quizFile = require(`./data/${file}`);
+  const quizFile = require(path.join(dataDirPath, file));
   return {
     title: quizFile.quizData.title,
     slug: file.replace(".js", ""),

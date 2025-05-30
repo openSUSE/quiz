@@ -220,7 +220,7 @@ function loadQuestion(questionNum) {
       checkBtn.innerHTML = "Check";
       checkBtn.classList.add("check-btn");
       inputElement.type = "text";
-      checkBtn.addEventListener("click", (e) => {
+      checkBtn.addEventListener("click", () => {
         checkAnswer();
       });
       answersContainer.appendChild(inputElement);
