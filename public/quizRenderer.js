@@ -10,13 +10,66 @@ let correct = 0;
 
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
+  const usernameInput = document.getElementById("username");
+  usernameInput.addEventListener("input", () => {
+    if (usernameInput.classList.contains("input-error")) {
+      usernameInput.classList.remove("input-error");
+      usernameInput.removeAttribute("title");
+    }
+  });
+
+  // Add event listener to the form for the submit event
+  const usernameForm = document.querySelector(".username-form");
+  if (usernameForm) {
+    usernameForm.addEventListener('submit', () => {
+      const actualUsernameInput = document.getElementById("username");
+      if (actualUsernameInput) {
+        actualUsernameInput.disabled = false;
+      }
+      // The form will now submit with the username field enabled.
+    });
+  }
 });
 
-startBtn.addEventListener("click", () => {
-  username = document.getElementById("username");
-  if (username.value != "") {
-    username.style.display = "none";
+startBtn.addEventListener("click", (event) => {
+  event.preventDefault();
+  const usernameInput = document.getElementById("username");
+  const usernameForm = document.querySelector(".username-form");
+
+  if (startBtn.textContent === "Restart") {
+    // Handle Restart action
+    usernameForm.classList.remove("hide"); 
+    usernameInput.disabled = false;
+    usernameInput.value = "";
+    usernameInput.classList.remove("input-error");
+    usernameInput.removeAttribute("title");
+
+    // Hide quiz elements
+    questionElement.classList.add("hide");
+    answersContainer.classList.add("hide");
+    correctCount.classList.add("hide");
+    nextBtn.classList.add("hide");
+    submitBtn.classList.add("hide");
+
+    // Reset quiz variables
+    correct = 0;
+    currentQuestion = 0;
+
+    startBtn.textContent = "Start";
+    usernameInput.focus();
+    return;
+  }
+
+  // Handle Start action
+  if (usernameInput.value.trim() !== "") {
+    usernameInput.disabled = true; 
+    usernameInput.classList.remove("input-error");
+    usernameInput.removeAttribute("title");
     startQuiz();
+  } else {
+    usernameInput.classList.add("input-error");
+    usernameInput.setAttribute("title", "Please enter a username to start.");
+    usernameInput.focus();
   }
 });
 
@@ -25,12 +78,17 @@ nextBtn.addEventListener("click", () => {
 });
 
 function startQuiz() {
-  startBtn.classList.add("hide");
-  //submitBtn.classList.add("hide");
+  const usernameForm = document.querySelector(".username-form");
+  usernameForm.classList.add("hide");
+
   nextBtn.classList.remove("hide");
   questionElement.classList.remove("hide");
   answersContainer.classList.remove("hide");
   correctCount.classList.remove("hide");
+
+  const usernameBox = document.getElementById("username");
+  correctCount.innerHTML = `<span class="username-display">${usernameBox.value}</span> <span class="score">Correct: ${correct} / ${questions.length}</span>`;
+
   loadQuestion(currentQuestion);
 }
 
@@ -41,19 +99,20 @@ function loadQuestion(questionNum) {
 
   // set values before posting
   correctBox.value = correct;
-  total.value = questions.length;
+  totalBox.value = questions.length;
 
   if (currentQuestion === questions.length) {
-    //startBtn.classList.remove("hide"); // allow restart
+    const usernameForm = document.querySelector(".username-form");
+    usernameForm.classList.remove("hide");
+    usernameBox.disabled = true;
+
     submitBtn.classList.remove("hide");
     nextBtn.classList.add("hide");
     questionElement.classList.add("hide");
     answersContainer.classList.add("hide");
-    startBtn.innerHTML = "Restart";
-    correctCount.innerHTML = `${usernameBox.value} Correct: ${correct}/${questions.length}`;
+    startBtn.textContent = "Restart";
+    correctCount.innerHTML = `<span class="username-display">${usernameBox.value}</span> <span class="score">FINAL: ${correct} / ${questions.length}</span>`;
 
-    correct = 0;
-    currentQuestion = 0;
   } else {
     while (answersContainer.firstChild) {
       answersContainer.removeChild(answersContainer.firstChild);
@@ -96,8 +155,8 @@ function loadQuestion(questionNum) {
     }
 
     //End types
-
-    correctCount.innerHTML = `${usernameBox.value} Correct: ${correct}`;
+    // Update score display format
+    correctCount.innerHTML = `<span class="username-display">${usernameBox.value}</span> <span class="score">Correct: ${correct} / ${questions.length}</span>`;
   }
 }
 
