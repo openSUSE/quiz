@@ -4,10 +4,11 @@ A goal of this project is to provide openSUSE booth staff with a local instance 
 
 ## Key goals
 
-[] **Knowledge challenge**m ode where ve value individuals knowledge about the project and we pick the ultimate winner based on stats.
+[x] **Knowledge challenge**m ode where ve value individuals knowledge about the project and we pick the ultimate winner based on stats.
 
-[] **Getting familiar with openSUSE** mode, where we keep track of attendees and provide a mini interactive (press enter) lottery at the end. So everybody can win some prices.
+[x] **Getting familiar with openSUSE** mode, where we keep track of attendees and provide a mini interactive (press enter) lottery at the end. So everybody can win some prices.
 
 
+## Screenshot
 
 ![quiz](https://github.com/user-attachments/assets/8d945102-d7b0-4f0e-88b9-c6541dadfec7)
