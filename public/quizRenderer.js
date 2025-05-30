@@ -103,7 +103,7 @@ function startQuiz() {
   correctCount.classList.remove("hide");
 
   const usernameBox = document.getElementById("username");
-  correctCount.innerHTML = `<span class="username-display">${usernameBox.value}</span> <span class="score">Correct: ${correct} / ${questions.length}</span>`;
+  updateScoreDisplay(usernameBox.value);
 
   loadQuestion(currentQuestion);
 }
@@ -121,7 +121,7 @@ function endQuiz() {
   questionElement.classList.add("hide");
   answersContainer.classList.add("hide");
 
-  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ <span class="score-correct">${correct}</span>/<span class="score-total">${currentQuestion}</span>`;
 }
 
 function loadQuestion(questionNum) {
@@ -134,20 +134,31 @@ function loadQuestion(questionNum) {
 
   let timerDisplay = document.getElementById("timer");
   if (!timerDisplay) {
+    // Timer should already exist in the HTML, but create if missing
     timerDisplay = document.createElement("div");
     timerDisplay.id = "timer";
-    timerDisplay.style.fontWeight = "bold";
-    document.body.insertBefore(timerDisplay, answersContainer);
+    timerDisplay.className = "hide";
+    document.querySelector(".status-container").appendChild(timerDisplay);
   }
   
   if (quizData.timeout && !isNaN(quizData.timeout)) {
     timerDisplay.classList.remove("hide");
     let timeLeft = quizData.timeout;
-    timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+    updateTimerDisplay(timerDisplay, timeLeft);
 
     timerInterval = setInterval(() => {
       timeLeft--;
-      timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+      updateTimerDisplay(timerDisplay, timeLeft);
+      
+      // Add visual warnings based on time left
+      if (timeLeft <= 5) {
+        timerDisplay.className = "critical";
+      } else if (timeLeft <= 10) {
+        timerDisplay.className = "warning";
+      } else {
+        timerDisplay.className = "";
+      }
+      
       if (timeLeft <= 0) {
         clearInterval(timerInterval);
       }
@@ -177,7 +188,7 @@ function loadQuestion(questionNum) {
     questionElement.classList.add("hide");
     answersContainer.classList.add("hide");
     startBtn.textContent = "Restart";
-    correctCount.innerHTML = `<span class="username-display">${usernameBox.value}</span> <span class="score">FINAL: ${correct} / ${questions.length}</span>`;
+    updateScoreDisplay(usernameBox.value, true);
 
   } else {
     while (answersContainer.firstChild) {
@@ -221,8 +232,8 @@ function loadQuestion(questionNum) {
     }
 
     //End types
-    // Update score display format
-    correctCount.innerHTML = `<span class="username-display">${usernameBox.value}</span> <span class="score">Correct: ${correct} / ${questions.length}</span>`;
+    // Update score display
+    updateScoreDisplay(usernameBox.value);
   }
 }
 
@@ -266,4 +277,34 @@ function checkAnswer(isTimeout = false) {
   }
 
   currentQuestion++;
+}
+
+// Helper function to update timer display with better formatting
+function updateTimerDisplay(timerElement, timeLeft) {
+  const minutes = Math.floor(timeLeft / 60);
+  const seconds = timeLeft % 60;
+  const timeString = minutes > 0 ? 
+    `${minutes}:${seconds.toString().padStart(2, '0')}` : 
+    `${seconds}s`;
+  
+  timerElement.innerHTML = `⏱️ ${timeString}`;
+}
+
+// Helper function to update score display with green color for correct answers
+function updateScoreDisplay(username, isFinal = false) {
+  const correctSpan = `<span class="score-correct">${correct}</span>`;
+  const totalSpan = `<span class="score-total">${questions.length}</span>`;
+  const separator = '<span class="score-separator">/</span>';
+  
+  if (isFinal) {
+    correctCount.innerHTML = `
+      <span class="username-display">🎯 ${username}</span>
+      <span class="score">FINAL: ${correctSpan}${separator}${totalSpan}</span>
+    `;
+  } else {
+    correctCount.innerHTML = `
+      <span class="username-display">👤 ${username}</span>
+      <span class="score">Score: ${correctSpan}${separator}${totalSpan}</span>
+    `;
+  }
 }

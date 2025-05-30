@@ -156,12 +156,99 @@ button:active {
 
 .status-container {
   display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 20px 0;
+  justify-content: center;
   align-items: center;
-  gap: 12px;
-  font-size: 0.8rem;
-  margin-bottom: 10px;
 }
 
+#timer {
+  background: #173f4f;
+  color: #fff;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #35b9ab;
+  min-width: 160px;
+  justify-content: center;
+}
+
+#timer.warning {
+  background: #f57900;
+  border-color: #c26000;
+  animation: pulse 1s infinite;
+}
+
+#timer.critical {
+  background: #ff3e51;
+  border-color: #d32f40;
+  animation: pulse 0.5s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.correct-count {
+  background: #fff;
+  color: #173f4f;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #73ba25;
+  min-width: 200px;
+  text-align: center;
+}
+
+.username-display {
+  color: #173f4f;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.score {
+  font-weight: bold;
+}
+
+.score-correct {
+  color: #23a833;
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(35, 168, 51, 0.3);
+}
+
+.score-total {
+  color: #173f4f;
+  font-weight: bold;
+}
+
+.score-separator {
+  color: #666;
+  margin: 0 4px;
+}
+
+/* Responsive design for status container */
+@media screen and (max-width: 600px) {
+  .status-container {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  #timer,
+  .correct-count {
+    width: 100%;
+    max-width: 300px;
+  }
+}
 input[type="text"] {
   outline: none;
   border: 1px solid #ccc;
