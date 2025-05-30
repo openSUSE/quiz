@@ -22,7 +22,7 @@ for (const file of quizFileDir) {
   const quizFile = require(`./data/${file}`);
   quizzes.push({
     title: quizFile.quizData.title,
-    slug: file.replace(".js", "")
+    slug: file.replace(".js", ""),
   });
 }
 
@@ -40,7 +40,7 @@ app.get("/stats", (req, res) => {
 });
 
 app.get("/bingo", (req, res) => {
-  sresults=JSON.stringify(results);
+  sresults = JSON.stringify(results);
   const html = ` 
         <!DOCTYPE html> 
         <html lang="en"> 
@@ -58,22 +58,25 @@ app.get("/bingo", (req, res) => {
             console.log(results); // Use the variable in client-side JavaScript 
         </script> 
         </html> 
-    `; 
- 
-    res.end(html); 
+    `;
+
+  res.end(html);
 });
 
 app.get("/reset", (req, res) => {
-  results={}
+  results = {};
   res.statusCode = 302;
-  res.setHeader('Location', '/stats');
+  res.setHeader("Location", "/stats");
   return res.end();
 });
 
 app.post("/submit", (req, res) => {
-  results[req.body.username] = { correct: req.body.correct, total: req.body.total }
+  results[req.body.username] = {
+    correct: req.body.correct,
+    total: req.body.total,
+  };
   res.statusCode = 302;
-  res.setHeader('Location', '/stats');
+  res.setHeader("Location", "/stats");
   return res.end();
 });
 app.listen(3000);

@@ -13,9 +13,9 @@ window.addEventListener("load", () => {
 });
 
 startBtn.addEventListener("click", () => {
-  username=document.getElementById("username")
+  username = document.getElementById("username");
   if (username.value != "") {
-    username.style.display="none";
+    username.style.display = "none";
     startQuiz();
   }
 });
@@ -42,7 +42,7 @@ function loadQuestion(questionNum) {
   // set values before posting
   correctBox.value = correct;
   total.value = questions.length;
-  
+
   if (currentQuestion === questions.length) {
     //startBtn.classList.remove("hide"); // allow restart
     submitBtn.classList.remove("hide");
@@ -73,7 +73,7 @@ function loadQuestion(questionNum) {
         answerElement.dataset.correct = answer.correct;
         answerElement.addEventListener("click", (e) => {
           Array.from(btnGrid.children).forEach(
-            (element) => (element.disabled = true)
+            (element) => (element.disabled = true),
           );
           e.target.dataset.clicked = "true";
           checkAnswer();
@@ -125,7 +125,7 @@ function checkAnswer() {
     case "txt":
       var qInputElement = answersContainer.children[0];
       var foundValues = questions[currentQuestion].answers.find(
-        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase()
+        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase(),
       );
       if (foundValues) {
         qInputElement.classList.add("correct");

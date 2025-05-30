@@ -1,5 +1,5 @@
 const quizData = {
-  title: "test"
+  title: "test",
 };
 
 const questions = [
@@ -10,8 +10,8 @@ const questions = [
       { text: "Pascal", correct: false },
       { text: "TwoPac", correct: false },
       { text: "Geeko", correct: true },
-      { text: "BeefyMiracle", correct: false }
-    ]
-  }
+      { text: "BeefyMiracle", correct: false },
+    ],
+  },
 ];
 module.exports = { quizData, questions };

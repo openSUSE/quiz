@@ -3,14 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "build:css": "lessc public/less/styles.less public/styles.css",
+    "watch:css": "lessc -w public/less/styles.less public/styles.css",
+    "format": "prettier --write \"**/*.{js,json,md}\" \"!**/data/**\"",
+    "format:check": "prettier --check \"**/*.{js,json,md}\" \"!**/data/**\"",
+    "lint": "eslint . --ext .js",
+    "lint:check": "eslint . --ext .js"
   },
   "dependencies": {
     "ejs": "3.1.5",
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "less": "^4.3.0"
   },
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "1.18.4",
+    "prettier": "^3.5.3",
+    "eslint": "^8.0.0"
   },
   "keywords": []
 }

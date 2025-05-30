@@ -1,29 +1,34 @@
+@import "variables.less";
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   width: 100%;
   min-height: 100vh;
   font-family: Lato, sans-serif;
   font-size: 1em;
   line-height: 1.5;
-  background: #73ba25;
+  background: @quiz-background;
   padding: 1em;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
+
 h1 {
   margin: 0.4em 0;
   display: inline-block;
   text-align: center;
 }
+
 button {
   color: #fff;
-  background: #73ba25;
+  background: @quiz-button-background;
   font-family: Lato, sans-serif;
   font-size: 1.3em;
   border: none;
@@ -31,12 +36,15 @@ button {
   cursor: pointer;
   outline: 0;
 }
+
 button:hover {
-  background: #173f4f;
+  background: @quiz-button-hover-background;
 }
+
 button:active {
-  background: #173f4f;
+  background: @quiz-button-hover-background;
 }
+
 .container {
   width: 90%;
   max-width: 1100px;
@@ -46,30 +54,33 @@ button:active {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 .quizzes {
   text-align: center;
   margin: 10px 0;
 }
+
 .quizzes button {
   margin: 5px;
   width: calc(50% - 10px);
-}
-@media screen and (max-width: 600px) {
-  .quizzes button {
+  @media screen and (max-width: 600px) {
     width: calc(100% - 10px);
   }
 }
+
 .correct-count {
   float: right;
   margin: 0.4em 0;
   font-size: 1.2em;
 }
+
 .q-container .btn-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
   margin: 20px 0;
 }
+
 .q-container .btn-grid button {
   display: block;
   width: 100%;
@@ -77,39 +88,44 @@ button:active {
   font-size: 1.1em;
   border-radius: 5px;
   transition: background-color 0.3s ease;
-  color: #fff;
+  color: #fff; // Ensure text is white by default
+
+  // 4-color scheme for default state
+  &:not(.correct):not(.wrong):nth-child(4n+1) {
+    background-color: @opensuse-blue;
+    &:hover {
+      background-color: darken(@opensuse-blue, 10%);
+    }
+  }
+  &:not(.correct):not(.wrong):nth-child(4n+2) {
+    background-color: @opensuse-green;
+    &:hover {
+      background-color: darken(@opensuse-green, 10%);
+    }
+  }
+  &:not(.correct):not(.wrong):nth-child(4n+3) {
+    background-color: @opensuse-light-green;
+    &:hover {
+      background-color: darken(@opensuse-light-green, 10%);
+    }
+  }
+  &:not(.correct):not(.wrong):nth-child(4n+4) {
+    background-color: @opensuse-orange;
+    &:hover {
+      background-color: darken(@opensuse-orange, 10%);
+    }
+  }
 }
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+1) {
-  background-color: #173f4f;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+1):hover {
-  background-color: #0c2028;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+2) {
-  background-color: #35b9ab;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+2):hover {
-  background-color: #2a9186;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+3) {
-  background-color: #6da741;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+3):hover {
-  background-color: #558233;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+4) {
-  background-color: #f57900;
-}
-.q-container .btn-grid button:not(.correct):not(.wrong):nth-child(4n+4):hover {
-  background-color: #c26000;
-}
+
 .question {
   font-weight: 500;
   font-size: 1.5em;
 }
+
 .btn-container {
   margin: 10px 0;
 }
+
 input[type="text"] {
   outline: none;
   border: 1px solid #ccc;
@@ -120,38 +136,46 @@ input[type="text"] {
   width: 70%;
   height: 40px;
 }
+
 .check-btn {
   height: 40px;
   line-height: 40px;
   padding: 0 10px;
 }
+
 .hide {
   display: none;
 }
+
 .correct {
-  background: #23a833 !important;
+  background: @quiz-correct-answer !important;
   color: #fff !important;
 }
+
 .wrong {
-  background: #ff3e51 !important;
+  background: @quiz-wrong-answer !important;
   color: #fff !important;
 }
+
 @media screen and (max-width: 894px) {
   .container {
     width: 90%;
   }
+
   .q-container .btn-grid {
     grid-template-columns: 1fr;
   }
+
   .correct-count {
     float: none;
   }
 }
+
 /* results */
 table .results {
   border: 0;
 }
-table.results th,
-td {
+
+table.results th,td  {
   border-bottom: 1px solid black;
 }
