@@ -11,6 +11,7 @@ var startBtn = document.querySelector(".start-btn"),
 let currentQuestion = 0;
 let correct = 0;
 let questionTimeout = null;
+let timerInterval = null;
 
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
@@ -69,35 +70,38 @@ function loadQuestion(questionNum) {
   var correctBox = document.getElementById("correct");
   var totalBox = document.getElementById("total");
 
-  clearTimeout(questionTimeout); // clear any previous timeout
+  clearTimeout(questionTimeout);   // Clear previous timeout
+  clearInterval(timerInterval);    // Clear previous interval too
 
+  let timerDisplay = document.getElementById("timer");
+  if (!timerDisplay) {
+    timerDisplay = document.createElement("div");
+    timerDisplay.id = "timer";
+    timerDisplay.style.fontWeight = "bold";
+    document.body.insertBefore(timerDisplay, answersContainer);
+  }
+  
   if (quizData.timeout && !isNaN(quizData.timeout)) {
-    let timerDisplay = document.getElementById("timer");
     timerDisplay.classList.remove("hide");
-    if (!timerDisplay) {
-      timerDisplay = document.createElement("div");
-      timerDisplay.id = "timer";
-      timerDisplay.style.fontWeight = "bold";
-      document.body.insertBefore(timerDisplay, answersContainer);
-    }
-
     let timeLeft = quizData.timeout;
     timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
 
-    let timer = setInterval(() => {
+    timerInterval = setInterval(() => {
       timeLeft--;
       timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
       if (timeLeft <= 0) {
-        clearInterval(timer);
+        clearInterval(timerInterval);
       }
     }, 1000);
 
-    // Clear timer after question ends
     questionTimeout = setTimeout(() => {
-      clearInterval(timer);
+      clearInterval(timerInterval);
       checkAnswer(true);
     }, quizData.timeout * 1000);
+  } else {
+    timerDisplay.classList.add("hide");
   }
+
 
 
   // set values before posting
@@ -159,12 +163,6 @@ function loadQuestion(questionNum) {
     //End types
 
     correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
-
-    if (quizData.timeout && !isNaN(quizData.timeout)) {
-    questionTimeout = setTimeout(() => {
-      checkAnswer(true); // Indicate timeout
-    }, quizData.timeout * 1000);
-  }
   }
 }
 
