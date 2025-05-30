@@ -1,6 +1,7 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
+require('ejs');
 
 const app = express();
 const dataDirBasePath = process.env.LAMBDA_TASK_ROOT || __dirname;
