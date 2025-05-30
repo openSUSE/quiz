@@ -12,20 +12,35 @@
 </head>
 <body>
   <div class="main-page-container">
+      <div>
+        <label for="lang-select">🌐 <%= t("Language") %>:</label>
+        <select id="lang-select">
+          <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
+          <option value="cs" <%= lang === "cs" ? "selected" : "" %>>Čeština</option>
+        </select>
+      </div>
     <div class="quiz-main-header">
-      <h1>🦎 openSUSE Quizzes</h1>
-      <p class="quiz-main-subtitle">Find all available quizzes here</p>
+      <h1>🦎 <%= t("openSUSE Quizzes") %></h1>
+      <p class="quiz-main-subtitle"><%= t("Available quizzes") %></p>
     </div>
     <div class="quizzes">
       <% quizzes.forEach((quiz, index) => { %>
-        <a href="./quiz?name=<%- quiz.slug %>" class="quiz-link">
+        <a href="./quiz?name=<%- quiz.slug %>&lang=<%= lang %>" class="quiz-link">
           <button class="quiz-btn quiz-btn-color-<%= index % 4 %>">
             <span class="quiz-btn-icon">📋</span>
-            <span class="quiz-btn-title"><%= quiz.title %></span>
+            <span class="quiz-btn-title"><%= t(quiz.title) %></span>
           </button>
         </a>
       <% }) %>
     </div>
   </div>
+  <script>
+    const langSelect = document.getElementById("lang-select");
+    langSelect.addEventListener("change", () => {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lang", langSelect.value);
+      window.location.href = url.toString();
+    });
+  </script>
 </body>
 </html>

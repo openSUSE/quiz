@@ -2,10 +2,12 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 require("ejs");
+const Gettext = require("node-gettext");
 
 const app = express();
 const dataDirBasePath = process.env.LAMBDA_TASK_ROOT || __dirname;
 const dataDirPath = path.join(dataDirBasePath, "data");
+const gt = new Gettext();
 
 const RESET_TOKEN = process.env.RESET_TOKEN || "nots3cr3t";
 
@@ -31,9 +33,46 @@ const quizzes = quizFileDir.map((file) => {
   };
 });
 
+async function loadTranslations(lang) {
+  const { po } = await import("gettext-parser");
+  const filePath = path.join(
+    __dirname,
+    "locales",
+    lang,
+    "LC_MESSAGES",
+    "messages.po",
+  );
+  if (fs.existsSync(filePath)) {
+    const poFileContent = fs.readFileSync(filePath); // Renamed 'po' to 'poFileContent'
+    const translations = po.parse(poFileContent); // Use destructured 'po'
+    gt.addTranslations(lang, "messages", translations);
+    gt.setLocale(lang);
+  } else {
+    gt.setLocale("en");
+  }
+}
+
 // Routes
-app.get("/", (req, res) => res.render("index", { quizzes }));
-app.get("/quiz", (req, res) => res.render("quiz", { query: req.query.name }));
+app.get("/", async (req, res) => {
+  const lang = req.query.lang || "en";
+  await loadTranslations(lang);
+  res.render("index", {
+    quizzes,
+    lang,
+    t: (text) => gt.gettext(text),
+  });
+});
+app.get("/quiz", async (req, res) => {
+  const lang = req.query.lang || "en";
+  const name = req.query.name;
+  await loadTranslations(lang);
+
+  res.render("quiz", {
+    lang: lang,
+    query: req.query.name,
+    t: (text) => gt.gettext(text),
+  });
+});
 app.get("/stats", (req, res) => res.render("stats", { results }));
 app.get("/bingo", (req, res) => res.render("bingo", { results }));
 
