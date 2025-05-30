@@ -43,7 +43,6 @@ app.get("/reset", (req, res) => {
   res.redirect("/stats");
 });
 
-
 app.post("/submit", (req, res) => {
   results[req.body.username] = {
     correct: req.body.correct,

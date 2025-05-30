@@ -41,10 +41,10 @@ They can take various quizzes.
 Booth displays http://localhost:3000/stats
 
 At an agreed time we call out winners by one of two ways.
-1) Based on http://localhost:3000/stats
-2) Go to http://localhost:3000/bingo and pick three winners
-3) Visit http://localhost:3000/reset?token=supersecret or restart the service to reset stats
 
+1. Based on http://localhost:3000/stats
+2. Go to http://localhost:3000/bingo and pick three winners
+3. Visit http://localhost:3000/reset?token=supersecret or restart the service to reset stats
 
 ## Screenshots
 
