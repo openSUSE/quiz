@@ -8,11 +8,6 @@ A goal of this project is to provide openSUSE booth staff with a local instance 
 
 [x] **Getting familiar with openSUSE** mode, where we keep track of attendees and provide a mini interactive (press enter) lottery at the end. So everybody can win some prices.
 
-
-## Screenshot
-
-![quiz](https://github.com/user-attachments/assets/8d945102-d7b0-4f0e-88b9-c6541dadfec7)
-
 ## License
 
 SPDX-License-Identifier: MIT
@@ -20,5 +15,14 @@ SPDX-License-Identifier: MIT
 This project is under MIT License.
 
 It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sandbox/nodejs-quiz-app-l5hig) at codesandbox.io. Many thanks to the author for making it.
+
+
+## Screenshots
+
+![quiz](https://github.com/user-attachments/assets/8d945102-d7b0-4f0e-88b9-c6541dadfec7)
+
+![image](https://github.com/user-attachments/assets/908b0650-0485-428e-a2af-02ffc691f1c1)
+
+![image](https://github.com/user-attachments/assets/1da951bf-c2cd-497c-a32a-3a6dd7aad7f8)
 
 
