@@ -32,6 +32,20 @@ $ node server.js
 
 Visit http://localhost:3000 in your browser
 
+## Typical usage & Howto
+
+Users go to a page referenced by QRcode at the openSUSE booth.
+They can take various quizzes.
+
+Booth displays http://localhost:3000/stats
+
+At an agreed time we call out winners by one of two ways.
+1) Based on http://localhost:3000/stats
+2) Go to http://localhost:3000/bingo and pick three winners
+3) Visit http://localhost:3000/reset or restart the service
+
+
+
 
 ## Screenshots
 
