@@ -12,33 +12,29 @@
   </head>
   <body>
     <div class="container">
-      <h1 class="quiz-title">Quiz Title</h1>
-      <p class="quiz-subtitle">Quiz SubTitle</p>
-
-      <div class="status-container">
-        <p id="timer" class="hide">⏱️ Time left: 0</p>
-        <p class="correct-count hide">`👤 ✅</p>
+      <div class="quiz-header">
+        <h1 class="quiz-title">Quiz Title</h1>
+        <p class="quiz-subtitle">Quiz SubTitle</p>
+        <div class="status-container">
+          <p id="timer" class="hide">⏱️ Time left: 0</p>
+          <p class="correct-count hide">Correct:</p> <!-- This will be populated by JS -->
+        </div>
       </div>
-
-
       <p class="question hide">Question</p>
       <div class="q-container hide">
         <div class="btn-grid">
-          <div>Q1</div>
-          <div>Q2</div>
-          <div>Q3</div>
-          <div>Q4</div>
+          <!-- Options will be dynamically inserted here by quizRenderer.js -->
         </div>
       </div>
-      <div class="btn-container">
-        <form type="submit" action="/submit" method="POST">
-          <input id="username" name="username" style="height: 45px; width: 250px;" type="text" placeholder="Please enter a username to start"/>
+      <div class="controls-container">
+        <form class="username-form" action="/submit" method="POST">
+          <input id="username" name="username" type="text" placeholder="Please enter a username to start"/>
           <input id="correct" style="display:none" type="text" name="correct"/>
           <input id="total" style="display:none" type="text" name="total"/>
-          <button class="submit-btn hide" action="submit">Submit</button>
+          <button class="start-btn">Start</button>
+          <button class="submit-btn hide" type="submit">Submit</button>
           <button class="submit-anytime-btn hide">Quit and Submit</button>
         </form>
-        <button class="start-btn">Start</button>
         <button class="next-btn hide">Next</button>
       </div>
     </div>

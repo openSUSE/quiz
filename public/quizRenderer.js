@@ -16,18 +16,72 @@ let timerInterval = null;
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
   quizSubTitleElement.innerHTML = quizData.subtitle;
+
+  const usernameInput = document.getElementById("username");
+  usernameInput.addEventListener("input", () => {
+    if (usernameInput.classList.contains("input-error")) {
+      usernameInput.classList.remove("input-error");
+      usernameInput.removeAttribute("title");
+    }
+  });
+
+  // Add event listener to the form for the submit event
+  const usernameForm = document.querySelector(".username-form");
+  if (usernameForm) {
+    usernameForm.addEventListener("submit", () => {
+      const actualUsernameInput = document.getElementById("username");
+      if (actualUsernameInput) {
+        actualUsernameInput.disabled = false;
+      }
+      // The form will now submit with the username field enabled.
+    });
+  }
 });
 
-startBtn.addEventListener("click", () => {
-  const username = document.getElementById("username");
-  if (username.value !== "") {
-    username.style.display = "none";
+startBtn.addEventListener("click", (event) => {
+  event.preventDefault();
+  const usernameInput = document.getElementById("username");
+  const usernameForm = document.querySelector(".username-form");
+
+  if (startBtn.textContent === "Restart") {
+    // Handle Restart action
+    usernameForm.classList.remove("hide");
+    usernameInput.disabled = false;
+    usernameInput.value = "";
+    usernameInput.classList.remove("input-error");
+    usernameInput.removeAttribute("title");
+
+    // Hide quiz elements
+    questionElement.classList.add("hide");
+    answersContainer.classList.add("hide");
+    correctCount.classList.add("hide");
+    nextBtn.classList.add("hide");
+    submitBtn.classList.add("hide");
+
+    // Reset quiz variables
+    correct = 0;
+    currentQuestion = 0;
+
+    startBtn.textContent = "Start";
+    usernameInput.focus();
+    return;
+  }
+
+  // Handle Start action
+  if (usernameInput.value.trim() !== "") {
+    usernameInput.disabled = true;
+    usernameInput.classList.remove("input-error");
+    usernameInput.removeAttribute("title");
 
     if (quizData.submitAnytime) {
       submitAnytimeBtn.classList.remove("hide");
     }
 
     startQuiz();
+  } else {
+    usernameInput.classList.add("input-error");
+    usernameInput.setAttribute("title", "Please enter a username to start.");
+    usernameInput.focus();
   }
 });
 
@@ -40,12 +94,17 @@ submitAnytimeBtn.addEventListener("click", () => {
 });
 
 function startQuiz() {
-  startBtn.classList.add("hide");
-  //submitBtn.classList.add("hide");
+  const usernameForm = document.querySelector(".username-form");
+  usernameForm.classList.add("hide");
+
   nextBtn.classList.remove("hide");
   questionElement.classList.remove("hide");
   answersContainer.classList.remove("hide");
   correctCount.classList.remove("hide");
+
+  const usernameBox = document.getElementById("username");
+  updateScoreDisplay(usernameBox.value);
+
   loadQuestion(currentQuestion);
 }
 
@@ -62,7 +121,7 @@ function endQuiz() {
   questionElement.classList.add("hide");
   answersContainer.classList.add("hide");
 
-  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ <span class="score-correct">${correct}</span>/<span class="score-total">${currentQuestion}</span>`;
 }
 
 function loadQuestion(questionNum) {
@@ -70,25 +129,36 @@ function loadQuestion(questionNum) {
   var correctBox = document.getElementById("correct");
   var totalBox = document.getElementById("total");
 
-  clearTimeout(questionTimeout);   // Clear previous timeout
-  clearInterval(timerInterval);    // Clear previous interval too
+  clearTimeout(questionTimeout); // Clear previous timeout
+  clearInterval(timerInterval); // Clear previous interval too
 
   let timerDisplay = document.getElementById("timer");
   if (!timerDisplay) {
+    // Timer should already exist in the HTML, but create if missing
     timerDisplay = document.createElement("div");
     timerDisplay.id = "timer";
-    timerDisplay.style.fontWeight = "bold";
-    document.body.insertBefore(timerDisplay, answersContainer);
+    timerDisplay.className = "hide";
+    document.querySelector(".status-container").appendChild(timerDisplay);
   }
-  
+
   if (quizData.timeout && !isNaN(quizData.timeout)) {
     timerDisplay.classList.remove("hide");
     let timeLeft = quizData.timeout;
-    timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+    updateTimerDisplay(timerDisplay, timeLeft);
 
     timerInterval = setInterval(() => {
       timeLeft--;
-      timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+      updateTimerDisplay(timerDisplay, timeLeft);
+
+      // Add visual warnings based on time left
+      if (timeLeft <= 5) {
+        timerDisplay.className = "critical";
+      } else if (timeLeft <= 10) {
+        timerDisplay.className = "warning";
+      } else {
+        timerDisplay.className = "";
+      }
+
       if (timeLeft <= 0) {
         clearInterval(timerInterval);
       }
@@ -102,23 +172,21 @@ function loadQuestion(questionNum) {
     timerDisplay.classList.add("hide");
   }
 
-
-
   // set values before posting
   correctBox.value = correct;
-  total.value = questions.length;
+  totalBox.value = questions.length;
 
   if (currentQuestion === questions.length) {
-    //startBtn.classList.remove("hide"); // allow restart
+    const usernameForm = document.querySelector(".username-form");
+    usernameForm.classList.remove("hide");
+    usernameBox.disabled = true;
+
     submitBtn.classList.remove("hide");
     nextBtn.classList.add("hide");
     questionElement.classList.add("hide");
     answersContainer.classList.add("hide");
-    startBtn.innerHTML = "Restart";
-    correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
-
-    correct = 0;
-    currentQuestion = 0;
+    startBtn.textContent = "Restart";
+    updateScoreDisplay(usernameBox.value, true);
   } else {
     while (answersContainer.firstChild) {
       answersContainer.removeChild(answersContainer.firstChild);
@@ -161,8 +229,8 @@ function loadQuestion(questionNum) {
     }
 
     //End types
-
-    correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
+    // Update score display
+    updateScoreDisplay(usernameBox.value);
   }
 }
 
@@ -174,10 +242,7 @@ function checkAnswer(isTimeout = false) {
       Array.from(answersContainer.children[0].children).forEach((button) => {
         if (button.dataset.correct === "true") {
           button.classList.add("correct");
-          if (
-            button.dataset.clicked === "true" &&
-            !isTimeout
-          ) {
+          if (button.dataset.clicked === "true" && !isTimeout) {
             correct++;
           }
         } else {
@@ -190,8 +255,7 @@ function checkAnswer(isTimeout = false) {
     case "txt":
       var qInputElement = answersContainer.children[0];
       var foundValues = questions[currentQuestion].answers.find(
-        (answer) =>
-          answer.toUpperCase() === qInputElement.value.toUpperCase(),
+        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase(),
       );
       if (foundValues && !isTimeout) {
         qInputElement.classList.add("correct");
@@ -206,4 +270,35 @@ function checkAnswer(isTimeout = false) {
   }
 
   currentQuestion++;
+}
+
+// Helper function to update timer display with better formatting
+function updateTimerDisplay(timerElement, timeLeft) {
+  const minutes = Math.floor(timeLeft / 60);
+  const seconds = timeLeft % 60;
+  const timeString =
+    minutes > 0
+      ? `${minutes}:${seconds.toString().padStart(2, "0")}`
+      : `${seconds}s`;
+
+  timerElement.innerHTML = `⏱️ ${timeString}`;
+}
+
+// Helper function to update score display with green color for correct answers
+function updateScoreDisplay(username, isFinal = false) {
+  const correctSpan = `<span class="score-correct">${correct}</span>`;
+  const totalSpan = `<span class="score-total">${questions.length}</span>`;
+  const separator = '<span class="score-separator">/</span>';
+
+  if (isFinal) {
+    correctCount.innerHTML = `
+      <span class="username-display">🎯 ${username}</span>
+      <span class="score">FINAL: ${correctSpan}${separator}${totalSpan}</span>
+    `;
+  } else {
+    correctCount.innerHTML = `
+      <span class="username-display">👤 ${username}</span>
+      <span class="score">Score: ${correctSpan}${separator}${totalSpan}</span>
+    `;
+  }
 }

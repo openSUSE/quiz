@@ -18,9 +18,10 @@ This project is under MIT License.
 
 It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sandbox/nodejs-quiz-app-l5hig) at codesandbox.io. Many thanks to the author for making it.
 
-## Runme 
+## Runme
 
 Distrobox example
+
 ```
 $ distrobox enter quiz
 $ zypper in git nodejs
@@ -40,12 +41,10 @@ They can take various quizzes.
 Booth displays http://localhost:3000/stats
 
 At an agreed time we call out winners by one of two ways.
-1) Based on http://localhost:3000/stats
-2) Go to http://localhost:3000/bingo and pick three winners
-3) Visit http://localhost:3000/reset or restart the service
 
-
-
+1. Based on http://localhost:3000/stats
+2. Go to http://localhost:3000/bingo and pick three winners
+3. Visit http://localhost:3000/reset or restart the service
 
 ## Screenshots
 
@@ -54,6 +53,3 @@ At an agreed time we call out winners by one of two ways.
 ![image](https://github.com/user-attachments/assets/908b0650-0485-428e-a2af-02ffc691f1c1)
 
 ![image](https://github.com/user-attachments/assets/1da951bf-c2cd-497c-a32a-3a6dd7aad7f8)
-
-
-
