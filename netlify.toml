@@ -3,6 +3,9 @@
   publish = "public"
   functions = "netlify/functions"
 
+[functions]
+  included_files = ["data/**"]
+
 [[redirects]]
   from = "/*"
   to = "/.netlify/functions/server"
