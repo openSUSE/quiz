@@ -72,7 +72,7 @@ app.get("/quiz", async (req, res) => {
 
   res.render("quiz", {
     lang: lang,
-    query: req.query.name,
+    query: name,
     t: (text) => gt.gettext(text),
   });
 });
