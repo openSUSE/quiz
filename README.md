@@ -33,8 +33,6 @@ Visit http://localhost:3000 in your browser
 
 ## Screenshots
 
-![quiz](https://github.com/user-attachments/assets/8d945102-d7b0-4f0e-88b9-c6541dadfec7)
-
 ![image](https://github.com/user-attachments/assets/9704ff88-d9f1-4054-9c6c-aafbac88b7d1)
 
 ![image](https://github.com/user-attachments/assets/908b0650-0485-428e-a2af-02ffc691f1c1)
