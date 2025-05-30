@@ -4,12 +4,19 @@ var startBtn = document.querySelector(".start-btn"),
   questionElement = document.querySelector(".question"),
   answersContainer = document.querySelector(".q-container"),
   quizTitleElement = document.querySelector(".quiz-title"),
-  correctCount = document.querySelector(".correct-count");
+  quizSubTitleElement = document.querySelector(".quiz-subtitle"),
+  correctCount = document.querySelector(".correct-count"),
+  submitAnytimeBtn = document.querySelector(".submit-anytime-btn");
+
 let currentQuestion = 0;
 let correct = 0;
+let questionTimeout = null;
+let timerInterval = null;
 
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
+  quizSubTitleElement.innerHTML = quizData.subtitle;
+  
   const usernameInput = document.getElementById("username");
   usernameInput.addEventListener("input", () => {
     if (usernameInput.classList.contains("input-error")) {
@@ -65,6 +72,11 @@ startBtn.addEventListener("click", (event) => {
     usernameInput.disabled = true; 
     usernameInput.classList.remove("input-error");
     usernameInput.removeAttribute("title");
+
+    if (quizData.submitAnytime) {
+      submitAnytimeBtn.classList.remove("hide");
+    }
+
     startQuiz();
   } else {
     usernameInput.classList.add("input-error");
@@ -75,6 +87,10 @@ startBtn.addEventListener("click", (event) => {
 
 nextBtn.addEventListener("click", () => {
   loadQuestion(currentQuestion);
+});
+
+submitAnytimeBtn.addEventListener("click", () => {
+  endQuiz();
 });
 
 function startQuiz() {
@@ -92,10 +108,60 @@ function startQuiz() {
   loadQuestion(currentQuestion);
 }
 
+function endQuiz() {
+  const usernameBox = document.getElementById("username");
+  const correctBox = document.getElementById("correct");
+  const totalBox = document.getElementById("total");
+
+  correctBox.value = correct;
+  totalBox.value = currentQuestion;
+
+  submitBtn.classList.remove("hide");
+  nextBtn.classList.add("hide");
+  questionElement.classList.add("hide");
+  answersContainer.classList.add("hide");
+
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ ${correct}/${currentQuestion}`;
+}
+
 function loadQuestion(questionNum) {
   var usernameBox = document.getElementById("username");
   var correctBox = document.getElementById("correct");
   var totalBox = document.getElementById("total");
+
+  clearTimeout(questionTimeout);   // Clear previous timeout
+  clearInterval(timerInterval);    // Clear previous interval too
+
+  let timerDisplay = document.getElementById("timer");
+  if (!timerDisplay) {
+    timerDisplay = document.createElement("div");
+    timerDisplay.id = "timer";
+    timerDisplay.style.fontWeight = "bold";
+    document.body.insertBefore(timerDisplay, answersContainer);
+  }
+  
+  if (quizData.timeout && !isNaN(quizData.timeout)) {
+    timerDisplay.classList.remove("hide");
+    let timeLeft = quizData.timeout;
+    timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+
+    timerInterval = setInterval(() => {
+      timeLeft--;
+      timerDisplay.textContent = `⏱️ Time left: ${timeLeft}s`;
+      if (timeLeft <= 0) {
+        clearInterval(timerInterval);
+      }
+    }, 1000);
+
+    questionTimeout = setTimeout(() => {
+      clearInterval(timerInterval);
+      checkAnswer(true);
+    }, quizData.timeout * 1000);
+  } else {
+    timerDisplay.classList.add("hide");
+  }
+
+
 
   // set values before posting
   correctBox.value = correct;
@@ -160,8 +226,8 @@ function loadQuestion(questionNum) {
   }
 }
 
-function checkAnswer() {
-  // Check different types
+function checkAnswer(isTimeout = false) {
+  clearTimeout(questionTimeout); // cancel timeout to avoid multiple calls
 
   switch (answersContainer.dataset.type) {
     case "mc":
@@ -169,36 +235,35 @@ function checkAnswer() {
         if (button.dataset.correct === "true") {
           button.classList.add("correct");
           if (
-            button.dataset.correct === "true" &&
-            button.dataset.clicked === "true"
+            button.dataset.clicked === "true" &&
+            !isTimeout
           ) {
             correct++;
           }
         } else {
           button.classList.add("wrong");
         }
+        button.disabled = true; // Disable all buttons
       });
-      currentQuestion++;
       break;
 
     case "txt":
       var qInputElement = answersContainer.children[0];
       var foundValues = questions[currentQuestion].answers.find(
-        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase(),
+        (answer) =>
+          answer.toUpperCase() === qInputElement.value.toUpperCase(),
       );
-      if (foundValues) {
+      if (foundValues && !isTimeout) {
         qInputElement.classList.add("correct");
         correct++;
       } else {
         qInputElement.classList.add("wrong");
       }
-      currentQuestion++;
       break;
 
     default:
       return;
-      break;
   }
 
-  //End different types
+  currentQuestion++;
 }

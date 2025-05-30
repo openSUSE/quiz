@@ -21,6 +21,12 @@ h1 {
   display: inline-block;
   text-align: center;
 }
+.quiz-subtitle {
+  display: block;
+  font-size: 1em;
+  font-weight: light;
+  color: #173f4f;
+}
 button {
   color: #fff;
   background: #73ba25;
@@ -31,6 +37,19 @@ button {
   cursor: pointer;
   outline: 0;
 }
+
+.submit-anytime-btn {
+  background: red;
+}
+
+.back-btn {
+  background: #173f4f;
+}
+
+.back-btn:hover {
+  background: #2a9186;
+}
+
 button:hover {
   background: #173f4f;
 }
@@ -130,7 +149,19 @@ button:active {
 }
 .btn-container {
   margin: 10px 0;
+  display: flex;
+  gap: 8px; /* small spacing between buttons */
+  align-items: center; /* vertically center buttons if needed */
 }
+
+.status-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+}
+
 input[type="text"] {
   outline: none;
   border: 1px solid #ccc;

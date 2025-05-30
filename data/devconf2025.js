@@ -1,5 +1,8 @@
 const quizData = {
-  title: "openSUSE Devconf 2025"
+  title: "openSUSE Devconf 2025",
+  subtitle: "Don't worry this quiz is mostly educational. No need to know all the answers.",
+  submitAnytime: false,
+  randomizeQuestions: false // quiz tells a story some questions might be relevant
 };
 
 const questions = [
@@ -94,5 +97,10 @@ const questions = [
     ]
   },
 ];
+
+// Randomize questions here if enabled
+if (quizData.randomizeQuestions) {
+  questions.sort(() => Math.random() - 0.5);
+}
 
 module.exports = { quizData, questions };

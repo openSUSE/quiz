@@ -40,27 +40,7 @@ app.get("/stats", (req, res) => {
 });
 
 app.get("/bingo", (req, res) => {
-  sresults = JSON.stringify(results);
-  const html = ` 
-        <!DOCTYPE html> 
-        <html lang="en"> 
-        <head> 
-            <meta charset="UTF-8"> 
-            <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-            <title>Bingo</title> 
-        </head> 
-        <body> 
-            <container></container>
-        </body> 
-        <script src="./bingo.js"> 
-            // Accessing the server-side variable from the HTML 
-            const results = "${sresults}"; 
-            console.log(results); // Use the variable in client-side JavaScript 
-        </script> 
-        </html> 
-    `;
-
-  res.end(html);
+  res.render("bingo.ejs", { results });
 });
 
 app.get("/reset", (req, res) => {
