@@ -92,7 +92,6 @@ function handleStartAction() {
 
     correct = 0;
     currentQuestion = 0;
-
     startBtn.textContent = "Start";
     usernameInput.focus();
     return;
@@ -178,6 +177,10 @@ function endQuiz(isQuitAndSubmit = false) {
   usernameForm.classList.remove("hide");
   startBtn.textContent = "Restart";
   usernameBox.disabled = true;
+}
+
+function isFinalQuestion() {
+  return currentQuestion === questions.length;
 }
 
 function loadQuestion(questionNum) {
