@@ -14,13 +14,25 @@
 </head>
 <body>
   <div class="main-page-container">
-    <div class="language-selector-container"> 
-        <label for="lang-select">🌐 <%= t("Language") %>:</label>
-        <select id="lang-select">
-          <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
-          <option value="cs" <%= lang === "cs" ? "selected" : "" %>>Čeština</option>
-        </select>
-      </div>
+    <div class="top-bar-container">
+      <div class="user-controls-block"> <!-- New wrapper div -->
+        <div class="language-selector-container"> 
+          <label for="lang-select">🌐 <%= t("Language") %>:</label>
+          <select id="lang-select">
+            <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
+            <option value="cs" <%= lang === "cs" ? "selected" : "" %>>Čeština</option>
+          </select>
+        </div>
+        <div class="stats-link-container">
+          <a href="/stats?lang=<%= lang %>" style="text-decoration:none;">
+            <button class="quiz-btn stats-btn slim-stats-btn">
+              <span class="quiz-btn-icon">📊</span>
+              <span style="color:rgb(255,255,255);" class="quiz-btn-title"><%= t("Stats") %></span>
+            </button>
+          </a>
+        </div>
+      </div> <!-- End of user-controls-block -->
+    </div>
     <div class="quiz-main-header">
       <div class="opensuse-quiz-logo-header">
         <img src="/img/button-colour.png" alt="openSUSE Logo" class="opensuse-quiz-logo-header__image">

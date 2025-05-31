@@ -172,8 +172,8 @@ button:active {
 }
 
 .quizzes {
-  // text-align: center; // Original
-  // margin: 10px 0; // Original
+  
+  
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -181,22 +181,22 @@ button:active {
   align-items: center;
   width: 100%;
   max-width: 600px;
-  margin: 0 auto; // Centering the container
+  margin: 0 auto; 
 }
 
-// Removing the old .quizzes button style as new .quiz-link/.quiz-btn is used
-// .quizzes button {
-//   margin: 5px;
-//   width: calc(50% - 10px);
-//   @media screen and (max-width: 600px) {
-//     width: calc(100% - 10px);
-//   }
-// }
+
+
+
+
+
+
+
+
 
 .quiz-link {
   text-decoration: none;
   width: 100%;
-  max-width: 500px; // From styles.css
+  max-width: 500px; 
 }
 
 .quiz-btn {
@@ -216,7 +216,7 @@ button:active {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   position: relative;
   overflow: hidden;
-  color: #fff; // Default text color
+  color: #fff; 
 
   &::before {
     content: '';
@@ -244,7 +244,7 @@ button:active {
   text-align: center;
 }
 
-// openSUSE Color Cycling for Quiz Buttons
+
 .quiz-btn-color-0 {
   background: linear-gradient(135deg, @opensuse-blue 0%, darken(@opensuse-blue, 5%) 100%);
   border: 3px solid @opensuse-green;
@@ -291,13 +291,13 @@ button:active {
     font-size: 2.2em;
   }
   
-  .quiz-main-subtitle { // Assuming this is the one in .quiz-main-header
+  .quiz-main-subtitle { 
     font-size: 1.1em;
   }
   
   .quizzes {
     gap: 10px;
-    padding: 15px; // Overwrites the 20px 0 from above
+    padding: 15px; 
   }
   
   .quiz-btn {
@@ -340,9 +340,9 @@ button:active {
   font-size: 1.1em;
   border-radius: 5px;
   transition: background-color 0.3s ease;
-  color: #fff; // Ensure text is white by default
+  color: #fff; 
 
-  // 4-color scheme for default state
+  
   &:not(.correct):not(.wrong):nth-child(4n+1) {
     background-color: @opensuse-blue;
     &:hover {
@@ -403,7 +403,7 @@ input[type="text"]:disabled {
   margin-top: 20px;
 }
 
-.username-form {
+.submit-form-bottom {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -411,16 +411,16 @@ input[type="text"]:disabled {
   max-width: 350px;
 }
 
-.username-form input[type="text"].input-error {
+.submit-form-bottom input[type="text"].input-error {
   border-color: @quiz-wrong-answer;
-  box-shadow: 0 0 5px rgba(red(@quiz-wrong-answer), green(@quiz-wrong-answer), blue(@quiz-wrong-answer), 0.5); // Add a red glow
+  box-shadow: 0 0 5px rgba(red(@quiz-wrong-answer), green(@quiz-wrong-answer), blue(@quiz-wrong-answer), 0.5); 
 }
 
-.username-form input[type="text"] {
+.submit-form-bottom input[type="text"] {
   margin-bottom: 10px;
 }
 
-.username-form button,
+.submit-form-bottom button,
 .next-btn {
   width: 100%;
   max-width: 200px;
@@ -467,8 +467,8 @@ input[type="text"]:disabled {
     width: 100%;
   }
 
-  .username-form input[type="text"],
-  .username-form button,
+  .submit-form-bottom input[type="text"],
+  .submit-form-bottom button,
   .next-btn {
     max-width: 100%;
   }
