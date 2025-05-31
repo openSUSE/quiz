@@ -6,7 +6,8 @@ var startBtn = document.querySelector(".start-btn"),
   quizTitleElement = document.querySelector(".quiz-title"),
   quizSubTitleElement = document.querySelector(".quiz-subtitle"),
   correctCount = document.querySelector(".correct-count"),
-  submitAnytimeBtn = document.querySelector(".submit-anytime-btn");
+  submitAnytimeBtn = document.querySelector(".submit-anytime-btn"),
+  quitBtn = document.querySelector(".quit-btn");
 
 let currentQuestion = 0;
 let correct = 0;
@@ -23,42 +24,72 @@ window.addEventListener("load", () => {
       usernameInput.classList.remove("input-error");
       usernameInput.removeAttribute("title");
     }
+
+    document.getElementById("username-top-hidden").value = usernameInput.value;
   });
 
-  // Add event listener to the form for the submit event
+  const topForm = document.querySelector(".submit-form-top");
+  if (topForm) {
+    topForm.addEventListener("submit", (event) => {
+      if (!confirm("Are you sure you want to submit?")) {
+        event.preventDefault();
+        return;
+      }
+      const actualUsernameInput = document.getElementById("username");
+      document.getElementById("username-top-hidden").value =
+        actualUsernameInput.value;
+      document.getElementById("username-top-hidden").disabled = false;
+    });
+  }
+
+  if (submitAnytimeBtn) {
+    submitAnytimeBtn.addEventListener("click", () => {
+      if (confirm("Are you sure you want to quit and submit?")) {
+        endQuiz(true);
+      }
+    });
+  }
+
+  if (quitBtn) {
+    quitBtn.addEventListener("click", () => {
+      if (
+        confirm(
+          "Are you sure you want to quit? Your progress will not be saved.",
+        )
+      ) {
+        window.location.href = "/";
+      }
+    });
+  }
+
   const usernameForm = document.querySelector(".username-form");
   if (usernameForm) {
-    usernameForm.addEventListener("submit", () => {
-      const actualUsernameInput = document.getElementById("username");
-      if (actualUsernameInput) {
-        actualUsernameInput.disabled = false;
-      }
-      // The form will now submit with the username field enabled.
+    usernameForm.addEventListener("submit", (event) => {
+      event.preventDefault();
+      handleStartAction();
     });
   }
 });
 
-startBtn.addEventListener("click", (event) => {
-  event.preventDefault();
+function handleStartAction() {
   const usernameInput = document.getElementById("username");
-  const usernameForm = document.querySelector(".username-form");
+  const topForm = document.querySelector(".submit-form-top");
 
   if (startBtn.textContent === "Restart") {
-    // Handle Restart action
-    usernameForm.classList.remove("hide");
     usernameInput.disabled = false;
     usernameInput.value = "";
     usernameInput.classList.remove("input-error");
     usernameInput.removeAttribute("title");
 
-    // Hide quiz elements
     questionElement.classList.add("hide");
     answersContainer.classList.add("hide");
     correctCount.classList.add("hide");
     nextBtn.classList.add("hide");
     submitBtn.classList.add("hide");
+    submitAnytimeBtn.classList.add("hide");
+    quitBtn.classList.add("hide");
+    topForm.classList.add("hide");
 
-    // Reset quiz variables
     correct = 0;
     currentQuestion = 0;
 
@@ -67,15 +98,17 @@ startBtn.addEventListener("click", (event) => {
     return;
   }
 
-  // Handle Start action
   if (usernameInput.value.trim() !== "") {
     usernameInput.disabled = true;
+    document.getElementById("username-top-hidden").value = usernameInput.value;
     usernameInput.classList.remove("input-error");
     usernameInput.removeAttribute("title");
 
+    topForm.classList.remove("hide");
     if (quizData.submitAnytime) {
       submitAnytimeBtn.classList.remove("hide");
     }
+    quitBtn.classList.remove("hide");
 
     startQuiz();
   } else {
@@ -83,14 +116,15 @@ startBtn.addEventListener("click", (event) => {
     usernameInput.setAttribute("title", "Please enter a username to start.");
     usernameInput.focus();
   }
+}
+
+startBtn.addEventListener("click", (event) => {
+  event.preventDefault();
+  handleStartAction();
 });
 
 nextBtn.addEventListener("click", () => {
   loadQuestion(currentQuestion);
-});
-
-submitAnytimeBtn.addEventListener("click", () => {
-  endQuiz();
 });
 
 function startQuiz() {
@@ -108,33 +142,54 @@ function startQuiz() {
   loadQuestion(currentQuestion);
 }
 
-function endQuiz() {
+function endQuiz(isQuitAndSubmit = false) {
   const usernameBox = document.getElementById("username");
-  const correctBox = document.getElementById("correct");
-  const totalBox = document.getElementById("total");
+  const correctBoxTop = document.getElementById("correct-top-hidden");
+  const totalBoxTop = document.getElementById("total-top-hidden");
 
-  correctBox.value = correct;
-  totalBox.value = currentQuestion;
+  if (!isQuitAndSubmit && !isFinalQuestion()) {
+    window.location.href = "/";
+    return;
+  }
 
-  submitBtn.classList.remove("hide");
+  correctBoxTop.value = correct;
+  totalBoxTop.value = currentQuestion > 0 ? currentQuestion : questions.length;
+  document.getElementById("username-top-hidden").value = usernameBox.value;
+
+  submitBtn.classList.add("hide");
   nextBtn.classList.add("hide");
   questionElement.classList.add("hide");
   answersContainer.classList.add("hide");
+  submitAnytimeBtn.classList.add("hide");
+  quitBtn.classList.add("hide");
 
-  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ <span class="score-correct">${correct}</span>/<span class="score-total">${currentQuestion}</span>`;
+  const topForm = document.querySelector(".submit-form-top");
+
+  const usernameTopHidden = document.getElementById("username-top-hidden");
+  usernameTopHidden.disabled = false;
+
+  if (isQuitAndSubmit || currentQuestion === questions.length) {
+    topForm.submit();
+  }
+
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ <span class="score-correct">${correct}</span>/<span class="score-total">${currentQuestion > 0 ? currentQuestion : questions.length}</span>`;
+
+  const usernameForm = document.querySelector(".username-form");
+  usernameForm.classList.remove("hide");
+  startBtn.textContent = "Restart";
+  usernameBox.disabled = true;
 }
 
 function loadQuestion(questionNum) {
   var usernameBox = document.getElementById("username");
-  var correctBox = document.getElementById("correct");
-  var totalBox = document.getElementById("total");
+  var correctBoxTop = document.getElementById("correct-top-hidden");
+  var totalBoxTop = document.getElementById("total-top-hidden");
 
-  clearTimeout(questionTimeout); // Clear previous timeout
-  clearInterval(timerInterval); // Clear previous interval too
+  clearTimeout(questionTimeout);
+  clearInterval(timerInterval);
 
   let timerDisplay = document.getElementById("timer");
   if (!timerDisplay) {
-    // Timer should already exist in the HTML, but create if missing
     timerDisplay = document.createElement("div");
     timerDisplay.id = "timer";
     timerDisplay.className = "hide";
@@ -150,7 +205,6 @@ function loadQuestion(questionNum) {
       timeLeft--;
       updateTimerDisplay(timerDisplay, timeLeft);
 
-      // Add visual warnings based on time left
       if (timeLeft <= 5) {
         timerDisplay.className = "critical";
       } else if (timeLeft <= 10) {
@@ -172,9 +226,9 @@ function loadQuestion(questionNum) {
     timerDisplay.classList.add("hide");
   }
 
-  // set values before posting
-  correctBox.value = correct;
-  totalBox.value = questions.length;
+  correctBoxTop.value = correct;
+  totalBoxTop.value = questions.length;
+  document.getElementById("username-top-hidden").value = usernameBox.value;
 
   if (currentQuestion === questions.length) {
     const usernameForm = document.querySelector(".username-form");
@@ -182,19 +236,24 @@ function loadQuestion(questionNum) {
     usernameBox.disabled = true;
 
     submitBtn.classList.remove("hide");
+    submitAnytimeBtn.classList.add("hide");
+    quitBtn.classList.add("hide");
     nextBtn.classList.add("hide");
     questionElement.classList.add("hide");
     answersContainer.classList.add("hide");
     startBtn.textContent = "Restart";
     updateScoreDisplay(usernameBox.value, true);
   } else {
+    submitBtn.classList.add("hide");
+    if (quizData.submitAnytime) {
+      submitAnytimeBtn.classList.remove("hide");
+    }
+    quitBtn.classList.remove("hide");
     while (answersContainer.firstChild) {
       answersContainer.removeChild(answersContainer.firstChild);
     }
     answersContainer.dataset.type = null;
     questionElement.innerHTML = questions[questionNum].text;
-
-    // Question types
 
     if (questions[questionNum].type === "mc") {
       var btnGrid = document.createElement("div");
@@ -228,14 +287,12 @@ function loadQuestion(questionNum) {
       answersContainer.dataset.type = "txt";
     }
 
-    //End types
-    // Update score display
     updateScoreDisplay(usernameBox.value);
   }
 }
 
 function checkAnswer(isTimeout = false) {
-  clearTimeout(questionTimeout); // cancel timeout to avoid multiple calls
+  clearTimeout(questionTimeout);
 
   switch (answersContainer.dataset.type) {
     case "mc":
@@ -248,7 +305,7 @@ function checkAnswer(isTimeout = false) {
         } else {
           button.classList.add("wrong");
         }
-        button.disabled = true; // Disable all buttons
+        button.disabled = true;
       });
       break;
 
@@ -272,7 +329,6 @@ function checkAnswer(isTimeout = false) {
   currentQuestion++;
 }
 
-// Helper function to update timer display with better formatting
 function updateTimerDisplay(timerElement, timeLeft) {
   const minutes = Math.floor(timeLeft / 60);
   const seconds = timeLeft % 60;
@@ -284,7 +340,6 @@ function updateTimerDisplay(timerElement, timeLeft) {
   timerElement.innerHTML = `⏱️ ${timeString}`;
 }
 
-// Helper function to update score display with green color for correct answers
 function updateScoreDisplay(username, isFinal = false) {
   const correctSpan = `<span class="score-correct">${correct}</span>`;
   const totalSpan = `<span class="score-total">${questions.length}</span>`;

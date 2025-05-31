@@ -1,14 +1,19 @@
-.language-selector-container {
+.top-bar-container {
   width: 100%;
   display: flex;
-  justify-content: center;
-  padding: 10px 0;
-  margin-bottom: 10px;
+  justify-content: flex-end;
+  padding: 10px 0px;
+  margin-bottom: 15px;
 }
-@media (min-width: 769px) {
-  .language-selector-container {
-    justify-content: flex-end;
-  }
+.user-controls-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.language-selector-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
 }
 .language-selector-container label {
   margin-right: 8px;
@@ -27,6 +32,27 @@
   outline: none;
   border-color: #35b9ab;
   box-shadow: 0 0 0 2px rgba(53, 185, 171, 0.5);
+}
+.slim-stats-btn {
+  padding: 8px 15px !important;
+  font-size: 0.9em !important;
+  max-width: 150px;
+  background: linear-gradient(135deg, #6da741 0%, #61953a 100%) !important;
+  border: 2px solid #35b9ab !important;
+  color: #247e74 !important;
+  font-weight: 600 !important;
+}
+.slim-stats-btn:hover {
+  background: linear-gradient(135deg, #61953a 0%, #6da741 100%) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 10px rgba(109, 167, 65, 0.3) !important;
+}
+.slim-stats-btn .quiz-btn-icon {
+  font-size: 1.1em !important;
+  margin-right: 5px;
+}
+.slim-stats-btn .quiz-btn-title {
+  text-align: left;
 }
 .opensuse-quiz-logo-header {
   display: flex;
@@ -66,10 +92,6 @@
   color: darkgray;
 }
 @media (max-width: 768px) {
-  .language-selector-container {
-    justify-content: center;
-    margin-top: 15px;
-  }
   .opensuse-quiz-logo-header {
     flex-direction: column;
     text-align: center;
