@@ -1,3 +1,94 @@
+.language-selector-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+@media (min-width: 769px) {
+  .language-selector-container {
+    justify-content: flex-end;
+  }
+}
+.language-selector-container label {
+  margin-right: 8px;
+  color: darkgray;
+  font-family: 'Source Sans 3', sans-serif;
+}
+.language-selector-container select {
+  padding: 5px 8px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  background-color: #fff;
+  font-family: 'Source Sans 3', sans-serif;
+  cursor: pointer;
+}
+.language-selector-container select:focus {
+  outline: none;
+  border-color: #35b9ab;
+  box-shadow: 0 0 0 2px rgba(53, 185, 171, 0.5);
+}
+.opensuse-quiz-logo-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-family: 'Source Sans 3', sans-serif;
+}
+.opensuse-quiz-logo-header__image {
+  height: 100px;
+  width: auto;
+  margin-right: 20px;
+}
+.opensuse-quiz-logo-header__text-block {
+  line-height: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.opensuse-quiz-logo-header__text--opensuse {
+  font-size: 2.5em;
+  color: #000000;
+  font-weight: 400;
+  margin-bottom: -0.2em;
+}
+.opensuse-quiz-logo-header__text--quiz {
+  font-size: 2.7em;
+  font-weight: 700;
+  color: #2C5A6C;
+  /* Dark teal/blue from image */
+}
+.quiz-main-header .quiz-main-subtitle {
+  text-align: center;
+  font-family: 'Source Sans 3', sans-serif;
+  margin-top: 0;
+  font-size: 1.3em;
+  color: darkgray;
+}
+@media (max-width: 768px) {
+  .language-selector-container {
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .opensuse-quiz-logo-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .opensuse-quiz-logo-header__image {
+    height: 60px;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  .opensuse-quiz-logo-header__text--opensuse {
+    font-size: 2.2em;
+  }
+  .opensuse-quiz-logo-header__text--quiz {
+    font-size: 2.4em;
+  }
+  .quiz-main-header .quiz-main-subtitle {
+    font-size: 1.1em;
+  }
+}
 * {
   margin: 0;
   padding: 0;
