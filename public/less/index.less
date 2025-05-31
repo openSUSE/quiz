@@ -1,15 +1,24 @@
 @import "variables.less";
 
-.language-selector-container {
+.top-bar-container {
   width: 100%;
   display: flex;
-  justify-content: center;
-  padding: 10px 0;
-  margin-bottom: 10px;
+  justify-content: flex-end;
+  padding: 10px 0px;
+  margin-bottom: 15px;
+}
 
-  @media (min-width: 769px) {
-    justify-content: flex-end;
-  }
+.user-controls-block {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-end; 
+}
+
+.language-selector-container {
+  display: flex;
+  align-items: center; 
+  margin-bottom: 8px; 
+  
 
   label {
     margin-right: 8px;
@@ -33,6 +42,30 @@
   }
 }
 
+.slim-stats-btn {
+  padding: 8px 15px !important; 
+  font-size: 0.9em !important; 
+  max-width: 150px; 
+  background: linear-gradient(135deg, @opensuse-light-green 0%, darken(@opensuse-light-green, 5%) 100%) !important;
+  border: 2px solid @opensuse-green !important;
+  color: @opensuse-dark-green !important; 
+  font-weight: 600 !important;
+
+  &:hover {
+    background: linear-gradient(135deg, darken(@opensuse-light-green, 5%) 0%, @opensuse-light-green 100%) !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 4px 10px fade(@opensuse-light-green, 30%) !important;
+  }
+
+  .quiz-btn-icon {
+    font-size: 1.1em !important;
+    margin-right: 5px; 
+  }
+  .quiz-btn-title {
+    text-align: left; 
+  }
+}
+
 .opensuse-quiz-logo-header {
   display: flex;
   align-items: center; 
@@ -48,7 +81,7 @@
 }
 
 .opensuse-quiz-logo-header__text-block {
-  line-height: 1; // Adjust line-height to bring texts closer
+  line-height: 1; 
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58,7 +91,7 @@
   font-size: 2.5em; 
   color: #000000;
   font-weight: 400;
-  margin-bottom: -0.2em; // Negative margin to reduce space, adjust as needed
+  margin-bottom: -0.2em; 
 }
 
 .opensuse-quiz-logo-header__text--quiz {
@@ -77,11 +110,6 @@
 
 
 @media (max-width: 768px) {
-  .language-selector-container {
-    justify-content: center; 
-    margin-top: 15px;
-  }
-
   .opensuse-quiz-logo-header {
     flex-direction: column; 
     text-align: center;

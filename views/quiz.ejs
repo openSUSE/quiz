@@ -12,6 +12,16 @@
   </head>
   <body>
     <div class="container">
+      <div class="controls-container top-controls">
+        <form class="submit-form-top" action="/submit" method="POST">
+          <input id="username-top-hidden" name="username" type="hidden"/>
+          <input id="correct-top-hidden" name="correct" type="hidden"/>
+          <input id="total-top-hidden" name="total" type="hidden"/>
+          <button class="quit-btn hide" type="button">Quit</button> <!-- New Quit button -->
+          <button class="submit-anytime-btn hide" type="button">Quit and Submit</button>
+          <button class="submit-btn hide" type="submit">Submit</button>
+        </form>
+      </div>
       <div class="quiz-header">
         <h1 class="quiz-title">Quiz Title</h1>
         <p class="quiz-subtitle">Quiz SubTitle</p>
@@ -26,14 +36,13 @@
           <!-- Options will be dynamically inserted here by quizRenderer.js -->
         </div>
       </div>
-      <div class="controls-container">
-        <form class="username-form" action="/submit" method="POST">
+      <div class="controls-container bottom-controls">
+        <form class="username-form" action="/submit" method="POST"> <!-- This form will primarily be for starting, not submitting final answers -->
           <input id="username" name="username" type="text" placeholder="Please enter a username to start"/>
-          <input id="correct" style="display:none" type="text" name="correct"/>
-          <input id="total" style="display:none" type="text" name="total"/>
+          <!-- These hidden fields are for the original structure, might not be strictly needed if top form handles all submissions -->
+          <input id="correct-bottom-hidden" name="correct" type="hidden"/>
+          <input id="total-bottom-hidden" name="total" type="hidden"/>
           <button class="start-btn">Start</button>
-          <button class="submit-btn hide" type="submit">Submit</button>
-          <button class="submit-anytime-btn hide">Quit and Submit</button>
         </form>
         <button class="next-btn hide">Next</button>
       </div>
