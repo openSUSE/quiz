@@ -403,7 +403,7 @@ input[type="text"]:disabled {
   margin-top: 20px;
 }
 
-.username-form {
+.submit-form-bottom {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -411,16 +411,16 @@ input[type="text"]:disabled {
   max-width: 350px;
 }
 
-.username-form input[type="text"].input-error {
+.submit-form-bottom input[type="text"].input-error {
   border-color: @quiz-wrong-answer;
   box-shadow: 0 0 5px rgba(red(@quiz-wrong-answer), green(@quiz-wrong-answer), blue(@quiz-wrong-answer), 0.5); 
 }
 
-.username-form input[type="text"] {
+.submit-form-bottom input[type="text"] {
   margin-bottom: 10px;
 }
 
-.username-form button,
+.submit-form-bottom button,
 .next-btn {
   width: 100%;
   max-width: 200px;
@@ -467,8 +467,8 @@ input[type="text"]:disabled {
     width: 100%;
   }
 
-  .username-form input[type="text"],
-  .username-form button,
+  .submit-form-bottom input[type="text"],
+  .submit-form-bottom button,
   .next-btn {
     max-width: 100%;
   }

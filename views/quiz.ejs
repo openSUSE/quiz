@@ -17,9 +17,8 @@
           <input id="username-top-hidden" name="username" type="hidden"/>
           <input id="correct-top-hidden" name="correct" type="hidden"/>
           <input id="total-top-hidden" name="total" type="hidden"/>
-          <button class="quit-btn hide" type="button">Quit</button> <!-- New Quit button -->
+          <button class="quit-btn hide" type="button">Quit</button>
           <button class="submit-anytime-btn hide" type="button">Quit and Submit</button>
-          <button class="submit-btn hide" type="submit">Submit</button>
         </form>
       </div>
       <div class="quiz-header">
@@ -27,7 +26,7 @@
         <p class="quiz-subtitle">Quiz SubTitle</p>
         <div class="status-container">
           <p id="timer" class="hide">⏱️ Time left: 0</p>
-          <p class="correct-count hide">Correct:</p> <!-- This will be populated by JS -->
+          <p class="correct-count hide">Correct:</p>
         </div>
       </div>
       <p class="question hide">Question</p>
@@ -37,12 +36,12 @@
         </div>
       </div>
       <div class="controls-container bottom-controls">
-        <form class="username-form" action="/submit" method="POST"> <!-- This form will primarily be for starting, not submitting final answers -->
+        <form class="submit-form-bottom" action="/submit" method="POST">
           <input id="username" name="username" type="text" placeholder="Please enter a username to start"/>
-          <!-- These hidden fields are for the original structure, might not be strictly needed if top form handles all submissions -->
           <input id="correct-bottom-hidden" name="correct" type="hidden"/>
           <input id="total-bottom-hidden" name="total" type="hidden"/>
           <button class="start-btn">Start</button>
+          <button class="submit-btn hide" type="submit">Submit</button>
         </form>
         <button class="next-btn hide">Next</button>
       </div>

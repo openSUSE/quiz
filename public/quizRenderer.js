@@ -62,11 +62,37 @@ window.addEventListener("load", () => {
     });
   }
 
-  const usernameForm = document.querySelector(".username-form");
+  const usernameForm = document.querySelector(".submit-form-bottom");
   if (usernameForm) {
     usernameForm.addEventListener("submit", (event) => {
-      event.preventDefault();
-      handleStartAction();
+      // Triggered by the submitBtn in this form
+      event.preventDefault(); // Prevent the default HTML form submission
+
+      const usernameInput = document.getElementById("username");
+      const username = usernameInput.value.trim();
+
+      if (username === "") {
+        usernameInput.classList.add("input-error");
+        usernameInput.setAttribute(
+          "title",
+          "Please enter a username to submit.",
+        );
+        usernameInput.focus();
+        return; // Stop if username is missing
+      }
+      if (username.length < 3) {
+        usernameInput.classList.add("input-error");
+        usernameInput.setAttribute(
+          "title",
+          "Username must be at least 3 characters long.",
+        );
+        usernameInput.focus();
+        return; // Stop if username is too short
+      }
+
+      // Call endQuiz(true) to handle <the submission of results.
+      // endQuiz will populate the hidden fields in the topForm and submit it.
+      endQuiz(true);
     });
   }
 });
@@ -97,7 +123,17 @@ function handleStartAction() {
     return;
   }
 
-  if (usernameInput.value.trim() !== "") {
+  const username = usernameInput.value.trim();
+  if (username !== "") {
+    if (username.length < 3) {
+      usernameInput.classList.add("input-error");
+      usernameInput.setAttribute(
+        "title",
+        "Username must be at least 3 characters long.",
+      );
+      usernameInput.focus();
+      return;
+    }
     usernameInput.disabled = true;
     document.getElementById("username-top-hidden").value = usernameInput.value;
     usernameInput.classList.remove("input-error");
@@ -127,7 +163,7 @@ nextBtn.addEventListener("click", () => {
 });
 
 function startQuiz() {
-  const usernameForm = document.querySelector(".username-form");
+  const usernameForm = document.querySelector(".submit-form-bottom");
   usernameForm.classList.add("hide");
 
   nextBtn.classList.remove("hide");
@@ -173,7 +209,7 @@ function endQuiz(isQuitAndSubmit = false) {
 
   correctCount.innerHTML = `👤 ${usernameBox.value} ✅ <span class="score-correct">${correct}</span>/<span class="score-total">${currentQuestion > 0 ? currentQuestion : questions.length}</span>`;
 
-  const usernameForm = document.querySelector(".username-form");
+  const usernameForm = document.querySelector(".submit-form-bottom");
   usernameForm.classList.remove("hide");
   startBtn.textContent = "Restart";
   usernameBox.disabled = true;
@@ -234,7 +270,7 @@ function loadQuestion(questionNum) {
   document.getElementById("username-top-hidden").value = usernameBox.value;
 
   if (currentQuestion === questions.length) {
-    const usernameForm = document.querySelector(".username-form");
+    const usernameForm = document.querySelector(".submit-form-bottom");
     usernameForm.classList.remove("hide");
     usernameBox.disabled = true;
 
