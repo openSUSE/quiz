@@ -5,7 +5,6 @@ const Gettext = require("node-gettext");
 const consts = require("./consts");
 const app = express();
 const routes = require("./route");
-const e = require("express");
 require("ejs");
 
 const gt = new Gettext();
@@ -88,7 +87,7 @@ async function loadTranslations(lang) {
     gt.setLocale(lang);
   } else {
     console.error(
-      `Translation file not found for lang \'\${lang}\' at path: \${filePath}. Falling back to \'en\'.`,
+      "Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.",
     );
     gt.setLocale("en");
   }
