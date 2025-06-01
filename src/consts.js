@@ -7,7 +7,13 @@ const DATA_DIR_BASEPATH = process.env.LAMBDA_TASK_ROOT
 const DATA_DIR_PATH = path.join(DATA_DIR_BASEPATH, "..", "data");
 const RESET_TOKEN = process.env.RESET_TOKEN || "nots3cr3t";
 const STATS_MODE = process.env.STATS_MODE || "STATS_FILE"; // "STATS_FILE" or "STATS_MEMORY"
-const STATS_FILE_PATH = path.join(__dirname, "..", "public", "stats.json");
+
+let STATS_FILE_PATH;
+if (process.env.LAMBDA_TASK_ROOT) {
+  STATS_FILE_PATH = "/tmp/stats.json";
+} else {
+  STATS_FILE_PATH = path.join(__dirname, "..", "public", "stats.json");
+}
 
 module.exports = {
   DATA_DIR_BASEPATH,
