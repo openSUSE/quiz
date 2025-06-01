@@ -1,3 +1,5 @@
+/* global uiStrings */
+
 var startBtn = document.querySelector(".start-btn"),
   submitBtn = document.querySelector(".submit-btn"),
   nextBtn = document.querySelector(".next-btn"),
@@ -20,6 +22,7 @@ window.addEventListener("load", () => {
   quizSubTitleElement.innerHTML = quizData.subtitle;
 
   const usernameInput = document.getElementById("username");
+
   usernameInput.addEventListener("input", () => {
     if (usernameInput.classList.contains("input-error")) {
       usernameInput.classList.remove("input-error");
@@ -45,7 +48,7 @@ window.addEventListener("load", () => {
 
   if (submitAnytimeBtn) {
     submitAnytimeBtn.addEventListener("click", () => {
-      if (confirm("Are you sure you want to quit and submit?")) {
+      if (confirm(uiStrings.confirmSubmit)) {
         endQuiz(true);
       }
     });
@@ -53,11 +56,7 @@ window.addEventListener("load", () => {
 
   if (quitBtn) {
     quitBtn.addEventListener("click", () => {
-      if (
-        confirm(
-          "Are you sure you want to quit? Your progress will not be saved.",
-        )
-      ) {
+      if (confirm(uiStrings.confirmQuit)) {
         window.location.href = "/";
       }
     });
@@ -157,7 +156,7 @@ function handleStartAction() {
     startQuiz();
   } else {
     usernameInput.classList.add("input-error");
-    usernameInput.setAttribute("title", "Please enter a username to start.");
+    usernameInput.setAttribute("title", uiStrings.usernamePrompt);
     usernameInput.focus();
   }
 }
@@ -396,12 +395,12 @@ function updateScoreDisplay(username, isFinal = false) {
   if (isFinal) {
     correctCount.innerHTML = `
       <span class="username-display">🎯 ${username}</span>
-      <span class="score">FINAL: ${correctSpan}${separator}${totalSpan}</span>
+      <span class="score">${uiStrings.final}: ${correctSpan}${separator}${totalSpan}</span>
     `;
   } else {
     correctCount.innerHTML = `
       <span class="username-display">👤 ${username}</span>
-      <span class="score">Score: ${correctSpan}${separator}${totalSpan}</span>
+      <span class="score">${uiStrings.score}: ${correctSpan}${separator}${totalSpan}</span>
     `;
   }
 }
