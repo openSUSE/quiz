@@ -1,8 +1,14 @@
 const express = require("express");
 const path = require("path");
-const consts = require("./consts");
-const { localizeQuizData, getUiStrings } = require("./i18nHelpers");
 const fs = require("fs");
+const consts = require("./consts");
+const PO_DIR = path.join(consts.DATA_DIR_BASEPATH, "..", "po");
+const {
+  localizeQuizData,
+  getUiStrings,
+  getAvailableLanguages,
+} = require("./i18nHelpers");
+const availableLanguages = getAvailableLanguages(PO_DIR);
 
 module.exports = (dependencies) => {
   const router = express.Router();
@@ -22,6 +28,7 @@ module.exports = (dependencies) => {
     res.render("index", {
       quizzes,
       lang,
+      availableLanguages,
       t: (text) => gt.gettext(text),
     });
   });
@@ -48,6 +55,7 @@ module.exports = (dependencies) => {
     res.render("quiz", {
       nickname: name,
       lang,
+      availableLanguages,
       quizData: JSON.stringify(localized.quizData),
       questions: JSON.stringify(localized.questions),
       uiStrings: uiStrings,
@@ -60,6 +68,7 @@ module.exports = (dependencies) => {
     res.render("stats", {
       results,
       lang,
+      availableLanguages,
       t: (text) => gt.gettext(text),
     });
   });

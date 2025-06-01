@@ -3,8 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: cs\n"
 
+
 msgid "Language"
 msgstr "Jazyk"
+
+msgid "lang_name_cs"
+msgstr "Čeština"
+
+msgid "lang_name_en"
+msgstr "Angličtina"
+
 
 msgid "Stats"
 msgstr "Výsledky"

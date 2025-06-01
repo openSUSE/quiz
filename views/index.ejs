@@ -19,8 +19,11 @@
         <div class="language-selector-container"> 
           <label for="lang-select">🌐 <%= t("Language") %>:</label>
           <select id="lang-select">
-            <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
-            <option value="cs" <%= lang === "cs" ? "selected" : "" %>>Čeština</option>
+            <% availableLanguages.forEach(function(language) { %>
+              <option value="<%= language %>" <%= lang === language ? "selected" : "" %>>
+                <%= t("lang_name_" + language) %>
+              </option>
+            <% }); %>
           </select>
         </div>
         <div class="stats-link-container">

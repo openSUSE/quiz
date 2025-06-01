@@ -6,6 +6,12 @@ msgstr ""
 msgid "Language"
 msgstr "Language"
 
+msgid "lang_name_en"
+msgstr "English"
+
+msgid "lang_name_cs"
+msgstr "Czech"
+
 msgid "Stats"
 msgstr "Stats"
 

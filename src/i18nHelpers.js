@@ -1,3 +1,6 @@
+const fs = require("fs");
+const path = require("path");
+
 function localizeQuizData({ quizData, questions }, __) {
   return {
     quizData: {
@@ -40,7 +43,15 @@ function getUiStrings(_, name = "Anonymous") {
   };
 }
 
+function getAvailableLanguages(poDirPath) {
+  return fs
+    .readdirSync(poDirPath)
+    .filter((file) => file.endsWith(".po") && !file.includes("template"))
+    .map((file) => path.basename(file, ".po")); // strips ".po"
+}
+
 module.exports = {
   localizeQuizData,
   getUiStrings,
+  getAvailableLanguages,
 };
