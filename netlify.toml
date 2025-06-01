@@ -5,7 +5,7 @@
 
 [functions]
   node_bundler = "esbuild"
-  included_files = ["data/**", "views/**", "locales/**", "app.js"]
+  included_files = ["data/**", "views/**", "po/**", "app.js"]
   external_node_modules = ["express", "ejs"]
 
 [[redirects]]
