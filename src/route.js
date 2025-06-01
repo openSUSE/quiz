@@ -2,7 +2,7 @@ const express = require("express");
 
 module.exports = (dependencies) => {
   const router = express.Router();
-  const { loadTranslations, quizzes, gt, results, RESET_TOKEN, clearResults } =
+  const { loadTranslations, quizzes, gt, results, RESET_TOKEN, clearResults, saveResultsToFile } =
     dependencies;
 
   router.get("/", async (req, res) => {
@@ -50,6 +50,7 @@ module.exports = (dependencies) => {
       correct: req.body.correct,
       total: req.body.total,
     };
+    saveResultsToFile(); // Save results after submit
     res.redirect("/stats");
   });
 

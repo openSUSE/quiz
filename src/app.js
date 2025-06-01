@@ -9,12 +9,37 @@ require("ejs");
 
 const gt = new Gettext();
 
-// Temporary in-memory database
-let results = {}; // { nickname: { correct: 0, total: 0 } }
+const STATS_FILE_PATH = path.join(__dirname, "..", "public", "stats.json");
+
+// Initialize results
+let results = {};
+
+// Function to load results from file
+function loadResultsFromFile() {
+  if (fs.existsSync(STATS_FILE_PATH)) {
+    const fileContent = fs.readFileSync(STATS_FILE_PATH, "utf-8");
+    results = JSON.parse(fileContent);
+  } else {
+    results = {};
+  }
+}
+
+// Function to save results to file
+function saveResultsToFile() {
+  fs.writeFileSync(STATS_FILE_PATH, JSON.stringify(results, null, 2), "utf-8");
+}
 
 // Function to clear results
 function clearResults() {
   results = {};
+  if (consts.STATS_MODE === "STATS_FILE") {
+    saveResultsToFile();
+  }
+}
+
+// Load results based on STATS_MODE
+if (consts.STATS_MODE === "STATS_FILE") {
+  loadResultsFromFile();
 }
 
 app.set("view engine", "ejs");
@@ -53,7 +78,7 @@ async function loadTranslations(lang) {
     gt.setLocale(lang);
   } else {
     console.error(
-      `Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.`,
+      `Translation file not found for lang \'\${lang}\' at path: \${filePath}. Falling back to \'en\'.`,
     );
     gt.setLocale("en");
   }
@@ -67,6 +92,7 @@ const router = routes({
   results,
   RESET_TOKEN: consts.RESET_TOKEN,
   clearResults,
+  saveResultsToFile: consts.STATS_MODE === "STATS_FILE" ? saveResultsToFile : () => {},
 });
 app.use("/", router);
 
