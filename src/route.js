@@ -26,7 +26,15 @@ module.exports = (dependencies) => {
     });
   });
 
-  router.get("/stats", (req, res) => res.render("stats", { results }));
+  router.get("/stats", async (req, res) => {
+    const lang = req.query.lang || "en";
+    await loadTranslations(lang);
+    res.render("stats", {
+      results,
+      lang,
+      t: (text) => gt.gettext(text),
+    });
+  });
   router.get("/bingo", (req, res) => res.render("bingo", { results }));
 
   router.get("/reset", (req, res) => {
