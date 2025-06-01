@@ -75,10 +75,8 @@ async function loadTranslations(lang) {
   const filePath = path.join(
     consts.DATA_DIR_BASEPATH,
     "..",
-    "locales",
-    lang,
-    "LC_MESSAGES",
-    "messages.po",
+    "po",
+    `${lang}.po`,
   );
   if (fs.existsSync(filePath)) {
     const poFileContent = fs.readFileSync(filePath);
@@ -87,7 +85,7 @@ async function loadTranslations(lang) {
     gt.setLocale(lang);
   } else {
     console.error(
-      "Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.",
+      `Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.`,
     );
     gt.setLocale("en");
   }

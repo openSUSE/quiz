@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "lang_name_en"
+msgstr "English"
+
+msgid "lang_name_cs"
+msgstr "Czech"
+
+msgid "Stats"
+msgstr "Stats"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Time left"
+msgstr "Time left"
+
+msgid "Back to Main Page"
+msgstr "Back to Main Page"
+
+msgid "Nickname"
+msgstr "Nickname"
+
+msgid "Score"
+msgstr "Score"
+
+msgid "Correct"
+msgstr "Correct"
+
+msgid "Wrong"
+msgstr "Wrong"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Submit and Quit"
+msgstr "Submit and Quit"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Are you sure you want to quit and submit?"
+msgstr "Are you sure you want to quit and submit?"
+
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Are you sure you want to quit? Your progress will not be saved."
+
+msgid "openSUSE Quizzes"
+msgstr "openSUSE Quizzes"
+
+msgid "Available quizzes"
+msgstr "Available quizzes"
+
+msgid "openSUSE Expert"
+msgstr "openSUSE Expert"
+
+msgid "Devconf 2025"
+msgstr "Devconf 2025"
+
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "Don't worry this quiz is mostly educational. No need to know all the answers."
+
+msgid "What is the mascot of openSUSE project?"
+msgstr "What is the mascot of openSUSE project?"
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr "What is the main goal of the openSUSE project?"
+
+msgid "Supporting and spreading open-source software"
+msgstr "Supporting and spreading open-source software"
+
+msgid "Developing mobile applications"
+msgstr "Developing mobile applications"
+
+msgid "Producing video games"
+msgstr "Producing video games"
+
+msgid "Research in artificial intelligence"
+msgstr "Research in artificial intelligence"
+
+msgid "What are Aeon and Kalpa?"
+msgstr "What are Aeon and Kalpa?"
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr "Modern 'Immutable' desktops with GNOME and KDE"
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Rolling distributions with transactional updates using flatpaks on the desktop"
+
+msgid "Distributions built on top of MicroOS"
+msgstr "Distributions built on top of MicroOS"
+
+msgid "All options are correct"
+msgstr "All options are correct"
+
+msgid "Where was the openSUSE project founded?"
+msgstr "Where was the openSUSE project founded?"
+
+msgid "In Choustníkovo Hradiště"
+msgstr "In Choustníkovo Hradiště"
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr "At LinuxWorld Conference & Expo 2005 in San Francisco"
+
+msgid "In Redmont"
+msgstr "In Redmont"
+
+msgid "At the University of Helsinky"
+msgstr "At the University of Helsinky"
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr "What is the default filesystem in openSUSE?"
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr "What’s the name of the new installer in Leap 16?"
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Which openSUSE distribution is optimized for running containers and micro services?"
+
+msgid "MicroOS and Leap Micro"
+msgstr "MicroOS and Leap Micro"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Which of the following package managers is commonly used in openSUSE?"
+
+msgid "What is Leap 16.0?"
+msgstr "What is Leap 16.0?"
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr "An immutable distribution with GNOME and KDE"
+
+msgid "A rolling release for mobile devices"
+msgstr "A rolling release for mobile devices"
+
+msgid "A container-focused system like MicroOS"
+msgstr "A container-focused system like MicroOS"

@@ -14,13 +14,16 @@
     <div class="main-page-container">
       <div class="top-bar-container">
         <div class="user-controls-block">
-          <div class="language-selector-container">
-            <label for="lang-select">🌐 <%= t("Language") %>:</label>
-            <select id="lang-select">
-              <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
-              <option value="cs" <%= lang === "cs" ? "selected" : "" %>>Čeština</option>
-            </select>
-          </div>
+        <div class="language-selector-container"> 
+          <label for="lang-select">🌐 <%= t("Language") %>:</label>
+          <select id="lang-select">
+            <% availableLanguages.forEach(function(language) { %>
+              <option value="<%= language %>" <%= lang === language ? "selected" : "" %>>
+                <%= t("lang_name_" + language) %>
+              </option>
+            <% }); %>
+          </select>
+        </div>
           <div class="back-link-container"> <!-- Renamed for clarity -->
             <a href="/?lang=<%= lang %>" style="text-decoration:none;">
               <button id="back-btn" class="quiz-btn stats-btn slim-stats-btn"> <!-- Removed back-btn class as it might conflict -->
