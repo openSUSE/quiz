@@ -178,6 +178,12 @@ button:active {
 .back-btn:hover {
   background: #2a9186;
 }
+.quit-btn {
+  background: #ff3e51;
+}
+.quit-btn:hover {
+  background: #ff0b23;
+}
 .container {
   width: 90%;
   max-width: 1100px;
