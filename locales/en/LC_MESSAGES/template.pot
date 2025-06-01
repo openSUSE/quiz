@@ -3,6 +3,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: en\n"
 
-msgid "Example string to be translated"
+msgid "Language"
+msgstr ""
+
+msgid "Stats"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Time left"
+msgstr ""
+
+msgid "Back to Main Page"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+msgid "Correct"
+msgstr ""
+
+msgid "Wrong"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Submit and Quit"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Are you sure you want to quit and submit?"
+msgstr ""
+
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr ""
+
+msgid "openSUSE Quizzes"
+msgstr ""
+
+msgid "Available quizzes"
 msgstr ""
 
