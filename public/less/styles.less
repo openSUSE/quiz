@@ -53,6 +53,7 @@ button {
   padding: 10px 15px;
   cursor: pointer;
   outline: 0;
+  border-radius: 8px;
 }
 
 button:hover {
@@ -67,6 +68,13 @@ button:active {
   background: @opensuse-blue;
   &:hover {
     background: darken(@opensuse-green, 10%);
+  }
+}
+
+.quit-btn {
+  background: @quiz-wrong-answer;
+  &:hover {
+    background: darken(@quiz-wrong-answer, 10%);
   }
 }
 

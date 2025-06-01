@@ -164,6 +164,7 @@ button {
   padding: 10px 15px;
   cursor: pointer;
   outline: 0;
+  border-radius: 8px;
 }
 button:hover {
   background: #173f4f;
@@ -176,6 +177,12 @@ button:active {
 }
 .back-btn:hover {
   background: #2a9186;
+}
+.quit-btn {
+  background: #ff3e51;
+}
+.quit-btn:hover {
+  background: #ff0b23;
 }
 .container {
   width: 90%;

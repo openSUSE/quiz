@@ -7,66 +7,101 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700&display=swap" rel="stylesheet">
     <link href="/styles.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-<h1>openSUSE Quiz Leaderboard</h1>
-<table class="results">
-  <thead>
-    <tr><th>Nickname</th><th>Correct</th><th>Wrong</th></tr>
-  </thead>
-  <tbody>
-    <!-- 
-    Let's make sure that somebody who spends time to answer 1000 questions and has two wrong
-    is in leaderboard above the person who did 10 with 0 wrong answers.
+    <div class="main-page-container">
+      <div class="top-bar-container">
+        <div class="user-controls-block">
+          <div class="language-selector-container">
+            <label for="lang-select">🌐 <%= t("Language") %>:</label>
+            <select id="lang-select">
+              <option value="en" <%= lang === "en" ? "selected" : "" %>>English</option>
+              <option value="cs" <%= lang === "cs" ? "selected" : "" %>>Čeština</option>
+            </select>
+          </div>
+          <div class="back-link-container"> <!-- Renamed for clarity -->
+            <a href="/?lang=<%= lang %>" style="text-decoration:none;">
+              <button id="back-btn" class="quiz-btn stats-btn slim-stats-btn"> <!-- Removed back-btn class as it might conflict -->
+                <span class="quiz-btn-title" style="color:white;"><%= t("Back to Main Page") %></span>
+              </button>
+            </a>
+          </div>
+        </div> <!-- End of user-controls-block -->
+      </div>
+      <div class="quiz-main-header">
+        <div class="opensuse-quiz-logo-header">
+          <img src="/img/button-colour.png" alt="openSUSE Logo" class="opensuse-quiz-logo-header__image">
+          <div class="opensuse-quiz-logo-header__text-block">
+            <span class="opensuse-quiz-logo-header__text--opensuse">openSUSE</span>
+            <span class="opensuse-quiz-logo-header__text--quiz">QU1Z!</span>
+          </div>
+        </div>
+        <p class="quiz-main-subtitle"><%= t("Leaderboard") %></p>
+      </div>
+      <% if (Object.keys(results).length === 0) { %>
+        <p><%= t("No users found") %></p>
+      <% } else { %>
+      <table class="results">
+        <thead>
+          <tr><th>Nickname</th><th>Correct</th><th>Wrong</th></tr>
+        </thead>
+        <tbody>
+          <!-- 
+          Let's make sure that somebody who spends time to answer 1000 questions and has two wrong
+          is in leaderboard above the person who did 10 with 0 wrong answers.
 
-    score = correct * (1 + total / 1000)
-    This way:
-      A perfect score on 10 questions = 10 * (1 + 10/1000) = 10.1
-      998/1000 = 998 * (1 + 1000/1000) = 998 * 2 = 1996 → clearly better-->
-  <%
-    const sorted = Object.entries(results).sort((a, b) => {
-      const [userA, dataA] = a;
-      const [userB, dataB] = b;
+          score = correct * (1 + total / 1000)
+          This way:
+            A perfect score on 10 questions = 10 * (1 + 10/1000) = 10.1
+            998/1000 = 998 * (1 + 1000/1000) = 998 * 2 = 1996 → clearly better-->
+        <%
+          const sorted = Object.entries(results).sort((a, b) => {
+            const [userA, dataA] = a;
+            const [userB, dataB] = b;
 
-      const scoreA = dataA.correct * (1 + dataA.total / 1000);
-      const scoreB = dataB.correct * (1 + dataB.total / 1000);
+            const scoreA = dataA.correct * (1 + dataA.total / 1000);
+            const scoreB = dataB.correct * (1 + dataB.total / 1000);
 
-      if (scoreB !== scoreA) {
-        return scoreB - scoreA; // primary: score
-      }
-      return userA.localeCompare(userB); // secondary: alphabetical
-    });
+            if (scoreB !== scoreA) {
+              return scoreB - scoreA; // primary: score
+            }
+            return userA.localeCompare(userB); // secondary: alphabetical
+          });
 
-    sorted.forEach(([user, data]) => {
-  %>
-      <tr>
-        <td style="width: 200px;"><%= user %></td>
-        <td style="width: 100px;"><%= data.correct %></td>
-        <td style="width: 100px;"><%= data.total - data.correct %></td>
-      </tr>
-  <% }); %>
-  </tbody>
-</table>
+          sorted.forEach(([user, data]) => {
+        %>
+            <tr>
+              <td style="width: 200px;"><%= user %></td>
+              <td style="width: 100px; text-align: center;"><%= data.correct %></td>
+              <td style="width: 100px; text-align: center;"><%= data.total - data.correct %></td>
+            </tr>
+        <% }); %>
+        </tbody>
+      </table>
+      <% } %>
 
-  <button id="back-btn" class="back-btn">Back to Main Page</button>
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          const icons = ["🥇", "🥈", "🥉"];
+          const rows = document.querySelectorAll(".results tbody tr");
 
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const icons = ["🥇", "🥈", "🥉"];
-      const rows = document.querySelectorAll(".results tbody tr");
+          rows.forEach((row, index) => {
+            if (index < 3) {
+              const nameCell = row.querySelector("td:first-child");
+              nameCell.innerHTML = `${icons[index]} ${nameCell.innerHTML}`;
+            }
+          });
 
-      rows.forEach((row, index) => {
-        if (index < 3) {
-          const nameCell = row.querySelector("td:first-child");
-          nameCell.innerHTML = `${icons[index]} ${nameCell.innerHTML}`;
-        }
-      });
-    });
-
-    document.getElementById("back-btn").addEventListener("click", () => {
-      window.location.href = "/";
-    });
-  </script>
-</body>
+          const langSelect = document.getElementById("lang-select");
+          langSelect.addEventListener("change", () => {
+            const url = new URL(window.location.href);
+            url.searchParams.set("lang", langSelect.value);
+            window.location.href = url.toString();
+          });
+        });
+      </script>
+    </div>
+  </body>
 </html>

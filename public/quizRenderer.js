@@ -7,7 +7,8 @@ var startBtn = document.querySelector(".start-btn"),
   quizSubTitleElement = document.querySelector(".quiz-subtitle"),
   correctCount = document.querySelector(".correct-count"),
   submitAnytimeBtn = document.querySelector(".submit-anytime-btn"),
-  quitBtn = document.querySelector(".quit-btn");
+  quitBtn = document.querySelector(".quit-btn"),
+  backBtnQuiz = document.querySelector(".back-btn-quiz");
 
 let currentQuestion = 0;
 let correct = 0;
@@ -59,6 +60,12 @@ window.addEventListener("load", () => {
       ) {
         window.location.href = "/";
       }
+    });
+  }
+
+  if (backBtnQuiz) {
+    backBtnQuiz.addEventListener("click", () => {
+      window.location.href = "/";
     });
   }
 
@@ -120,6 +127,7 @@ function handleStartAction() {
     currentQuestion = 0;
     startBtn.textContent = "Start";
     usernameInput.focus();
+    backBtnQuiz.classList.remove("hide");
     return;
   }
 
@@ -144,6 +152,7 @@ function handleStartAction() {
       submitAnytimeBtn.classList.remove("hide");
     }
     quitBtn.classList.remove("hide");
+    backBtnQuiz.classList.add("hide");
 
     startQuiz();
   } else {
