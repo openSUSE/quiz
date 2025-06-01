@@ -23,15 +23,41 @@ It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sand
 Distrobox example:
 
 ```bash
-$ distrobox enter quiz
-$ zypper in git nodejs
-$ git clone https://github.com/openSUSE/quiz.git
-$ cd quiz
-$ npm install
-$ npm start # For port overriding: RESET_TOKEN=supersecret PORT=4000 npm start
+distrobox create --name quiz --image opensuse/leap:15.5 --install zypper
+```
+
+Then install the required packages and run the app:
+
+```bash
+distrobox enter quiz
+zypper in git nodejs
+git clone https://github.com/openSUSE/quiz.git
+cd quiz
+npm install
+npm start # For port overriding: RESET_TOKEN=supersecret PORT=4000 npm start
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser. 🌐
+
+### Docker
+
+Alternatively, you can use Docker to run the application.
+
+First, build the Docker image:
+
+```bash
+docker build -t opensuse-quiz .
+```
+
+Then, run the container:
+
+```bash
+docker run -p 3000:3000 -e RESET_TOKEN=supersecret -e PORT=3000 opensuse-quiz
+```
+
+You can change the `RESET_TOKEN` and `PORT` environment variables as needed.
+
+Visit [http://localhost:3000](http://localhost:3000) (or your specified port) in your browser. 🐳
 
 ## 🛠️ Typical usage & Howto
 
