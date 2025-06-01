@@ -2,8 +2,15 @@ const express = require("express");
 
 module.exports = (dependencies) => {
   const router = express.Router();
-  const { loadTranslations, quizzes, gt, results, RESET_TOKEN, clearResults, saveResultsToFile } =
-    dependencies;
+  const {
+    loadTranslations,
+    quizzes,
+    gt,
+    results,
+    RESET_TOKEN,
+    clearResults,
+    saveResultsToFile,
+  } = dependencies;
 
   router.get("/", async (req, res) => {
     const lang = req.query.lang || "en";

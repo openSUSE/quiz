@@ -5,19 +5,25 @@ const Gettext = require("node-gettext");
 const consts = require("./consts");
 const app = express();
 const routes = require("./route");
+const e = require("express");
 require("ejs");
 
 const gt = new Gettext();
 
-const STATS_FILE_PATH = path.join(__dirname, "..", "public", "stats.json");
+if (
+  !fs.existsSync(consts.STATS_FILE_PATH) &&
+  consts.STATS_MODE === "STATS_FILE"
+) {
+  fs.writeFileSync(consts.STATS_FILE_PATH, JSON.stringify({}), "utf-8");
+}
 
 // Initialize results
 let results = {};
 
 // Function to load results from file
 function loadResultsFromFile() {
-  if (fs.existsSync(STATS_FILE_PATH)) {
-    const fileContent = fs.readFileSync(STATS_FILE_PATH, "utf-8");
+  if (fs.existsSync(consts.STATS_FILE_PATH)) {
+    const fileContent = fs.readFileSync(consts.STATS_FILE_PATH, "utf-8");
     results = JSON.parse(fileContent);
   } else {
     results = {};
@@ -26,7 +32,11 @@ function loadResultsFromFile() {
 
 // Function to save results to file
 function saveResultsToFile() {
-  fs.writeFileSync(STATS_FILE_PATH, JSON.stringify(results, null, 2), "utf-8");
+  fs.writeFileSync(
+    consts.STATS_FILE_PATH,
+    JSON.stringify(results, null, 2),
+    "utf-8",
+  );
 }
 
 // Function to clear results
@@ -92,7 +102,8 @@ const router = routes({
   results,
   RESET_TOKEN: consts.RESET_TOKEN,
   clearResults,
-  saveResultsToFile: consts.STATS_MODE === "STATS_FILE" ? saveResultsToFile : () => {},
+  saveResultsToFile:
+    consts.STATS_MODE === "STATS_FILE" ? saveResultsToFile : () => {},
 });
 app.use("/", router);
 
