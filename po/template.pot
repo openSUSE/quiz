@@ -1,9 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: \n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Language"
+msgstr ""
+
+msgid "lang_name_en"
+msgstr ""
+
+msgid "lang_name_cs"
 msgstr ""
 
 msgid "Stats"
@@ -57,3 +68,89 @@ msgstr ""
 msgid "Available quizzes"
 msgstr ""
 
+msgid "openSUSE Expert"
+msgstr ""
+
+msgid "Devconf 2025"
+msgstr ""
+
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr ""
+
+msgid "What is the mascot of openSUSE project?"
+msgstr ""
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr ""
+
+msgid "Supporting and spreading open-source software"
+msgstr ""
+
+msgid "Developing mobile applications"
+msgstr ""
+
+msgid "Producing video games"
+msgstr ""
+
+msgid "Research in artificial intelligence"
+msgstr ""
+
+msgid "What are Aeon and Kalpa?"
+msgstr ""
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr ""
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr ""
+
+msgid "Distributions built on top of MicroOS"
+msgstr ""
+
+msgid "All options are correct"
+msgstr ""
+
+msgid "Where was the openSUSE project founded?"
+msgstr ""
+
+msgid "In Choustníkovo Hradiště"
+msgstr ""
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr ""
+
+msgid "In Redmont"
+msgstr ""
+
+msgid "At the University of Helsinky"
+msgstr ""
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr ""
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr ""
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr ""
+
+msgid "MicroOS and Leap Micro"
+msgstr ""
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr ""
+
+msgid "What is Leap 16.0?"
+msgstr ""
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr ""
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr ""
+
+msgid "A rolling release for mobile devices"
+msgstr ""
+
+msgid "A container-focused system like MicroOS"
+msgstr ""
