@@ -136,6 +136,19 @@ At an agreed time, we call out winners in one of two ways: 🏆
 2. Go to [http://localhost:3000/bingo](http://localhost:3000/bingo) and pick three winners 🎰
 3. Visit [http://localhost:3000/reset?token=supersecret](http://localhost:3000/reset?token=supersecret) or restart the service to reset stats. 🔄
 
+## Contributing 📝
+
+New questions can be added into existing Quizes inside data dir.
+Simply create a new data/\*.js to add a new Quiz.
+
+In order to allow localization all questions need to be placed in `data/*.js` but also in
+`locales/en/LC_MESSAGES`. Its duplicating but also rewarding. I guess we could write some extractor later.
+
+The questions and answers in `data/*.js` **absolutely must match** the msgid in all `LC_MESSAGES` files.
+So please avoid various corrections in data/\*.js in case you'll not willing to update at least locales/en/LC_MESSAGES.
+
+Translations can be done in our Weblate https://l10n.opensuse.org/
+
 ## 🌐 Instance
 
 [https://quiz-o-o.netlify.app/](https://quiz-o-o.netlify.app/) 🌍

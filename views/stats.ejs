@@ -45,7 +45,7 @@
       <% } else { %>
       <table class="results">
         <thead>
-          <tr><th>Nickname</th><th>Correct</th><th>Wrong</th></tr>
+          <tr><th><%= t("Nickname") %></th><th><%= t("Correct") %></th><th><%= t("Wrong") %></th></tr>
         </thead>
         <tbody>
           <!-- 
@@ -76,6 +76,7 @@
               <td style="width: 200px;"><%= user %></td>
               <td style="width: 100px; text-align: center;"><%= data.correct %></td>
               <td style="width: 100px; text-align: center;"><%= data.total - data.correct %></td>
+
             </tr>
         <% }); %>
         </tbody>

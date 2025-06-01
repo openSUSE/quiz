@@ -6,6 +6,52 @@ msgstr ""
 msgid "Language"
 msgstr "Jazyk"
 
+msgid "Stats"
+msgstr "Výsledky"
+
+msgid "Start"
+msgstr "Začít"
+
+msgid "Back"
+msgstr "Zpět"
+
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "Submit and Quit"
+msgstr "Odeslat a Skončit"
+
+
+msgid "Quit"
+msgstr "Skončit"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "Time left"
+msgstr "Zbývající čas"
+
+msgid "Back to Main Page"
+msgstr "Zpět na Hlavní stránku"
+
+msgid "Nickname"
+msgstr "Přezdívka"
+
+msgid "Score"
+msgstr "Skóre"
+
+msgid "Correct"
+msgstr "Správně"
+
+msgid "Correct"
+msgstr "Špatně"
+
+msgid "Are you sure you want to quit and submit?"
+msgstr "Jste si jistí, že chcete skončit a odeslat odpovědi?"
+
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Opravdu chcete skončit? Odpovědi nebudou uloženy."
+
 msgid "openSUSE Quizzes"
 msgstr "openSUSE Kvízy"
 
@@ -18,5 +64,87 @@ msgstr "openSUSE Expert"
 msgid "Devconf 2025"
 msgstr "Devconf 2025"
 
-msgid "Question"
-msgstr "Otázka"
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "Tento kvíz je tu od toho aby jste se něco dozvěděli. Nemusíte znát všechny odpovědi."
+
+msgid "Please enter a username to start."
+msgstr "Pro zahájení zadejte uživatelské jméno."
+
+msgid "What is the mascot of openSUSE project?"
+msgstr "Jaký je maskot projektu openSUSE?"
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr "Jaký je hlavní cíl projektu openSUSE?"
+
+msgid "Supporting and spreading open-source software"
+msgstr "Podpora a šíření open-source softwaru"
+
+msgid "Developing mobile applications"
+msgstr "Vývoj mobilních aplikací"
+
+msgid "Producing video games"
+msgstr "Vývoj videoher"
+
+msgid "Research in artificial intelligence"
+msgstr "Výzkum umělé inteligence"
+
+msgid "What are Aeon and Kalpa?"
+msgstr "Co jsou Aeon a Kalpa?"
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr "Moderní 'Immutable' desktopy s GNOME a KDE"
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Rolling distribuce s transakčními aktualizacemi a flatpaky na desktopu"
+
+msgid "Distributions built on top of MicroOS"
+msgstr "Distribuce postavené na MicroOS"
+
+msgid "All options are correct"
+msgstr "Všechny možnosti jsou správné"
+
+msgid "Where was the openSUSE project founded?"
+msgstr "Kde byl založen projekt openSUSE?"
+
+msgid "In Choustníkovo Hradiště"
+msgstr "V Choustníkově Hradišti"
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr "Na LinuxWorld Conference & Expo 2005 v San Franciscu"
+
+msgid "In Redmont"
+msgstr "V Redmontu"
+
+msgid "At the University of Helsinky"
+msgstr "Na Helsinské univerzitě"
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr "Jaký je výchozí souborový systém v openSUSE?"
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr "Jak se jmenuje nový instalátor v Leap 16?"
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Která distribuce openSUSE je optimalizovaná pro kontejnery a mikroslužby?"
+
+msgid "MicroOS and Leap Micro"
+msgstr "MicroOS a Leap Micro"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+
+msgid "What is Leap 16.0?"
+msgstr "Co je Leap 16.0?"
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Tradiční linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr "Immutable distribuce s GNOME a KDE"
+
+msgid "A rolling release for mobile devices"
+msgstr "Rolling release pro mobilní zařízení"
+
+msgid "A container-focused system like MicroOS"
+msgstr "Systém zaměřený na kontejnery, podobně jako MicroOS"
+

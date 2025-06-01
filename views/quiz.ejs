@@ -8,7 +8,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
     <link href="/styles.css" rel="stylesheet" type="text/css" />
-    <script src="/data/<%= query %>.js"></script>
   </head>
   <body>
     <div class="container">
@@ -17,19 +16,20 @@
           <input id="username-top-hidden" name="username" type="hidden"/>
           <input id="correct-top-hidden" name="correct" type="hidden"/>
           <input id="total-top-hidden" name="total" type="hidden"/>
-          <button class="quit-btn hide" type="button">Quit</button>
-          <button class="submit-anytime-btn hide" type="button">Quit and Submit</button>
+          <button class="quit-btn hide" type="button"><%= uiStrings.quit %></button>
+          <button class="submit-anytime-btn hide" type="button"><%= uiStrings.quitAndSubmit %></button>
+          <input type="hidden" name="lang" value="<%= lang %>" /> <!-- preserve lang -->
         </form>
       </div>
       <div class="quiz-header">
         <h1 class="quiz-title">Quiz Title</h1>
         <p class="quiz-subtitle">Quiz SubTitle</p>
         <div class="status-container">
-          <p id="timer" class="hide">⏱️ Time left: 0</p>
+          <p id="timer" class="hide">⏱️ <%= uiStrings.timeLeft %>: 0</p>
           <p class="correct-count hide">Correct:</p>
         </div>
       </div>
-      <p class="question hide">Question</p>
+      <p class="question hide"><%- uiStrings.question %></p>
       <div class="q-container hide">
         <div class="btn-grid">
           <!-- Options will be dynamically inserted here by quizRenderer.js -->
@@ -37,16 +37,27 @@
       </div>
       <div class="controls-container bottom-controls">
         <form class="submit-form-bottom" action="/submit" method="POST">
-          <input id="username" name="username" type="text" placeholder="Please enter a username to start"/>
+          <input id="username" name="username" type="text" placeholder="<%= uiStrings.usernamePrompt %>"/>
           <input id="correct-bottom-hidden" name="correct" type="hidden"/>
           <input id="total-bottom-hidden" name="total" type="hidden"/>
-          <button class="start-btn">Start</button>
-          <button class="back-btn-quiz">Back</button>
-          <button class="submit-btn hide" type="submit">Submit</button>
+          <button class="start-btn"><%= uiStrings.startButton %></button>
+          <button class="back-btn-quiz"><%= uiStrings.backButton %></button>
+          <button class="submit-btn hide" type="submit"><%= uiStrings.submitButton %></button>
+          <input type="hidden" name="lang" value="<%= lang %>" /> <!-- preserve lang -->
         </form>
-        <button class="next-btn hide">Next</button>
+        <button class="next-btn hide"><%= uiStrings.nextButton %></button>
       </div>
     </div>
+    <script>
+      const lang = "<%= lang %>";
+      const nickname = "<%= nickname %>";
+      const quizData = <%- quizData %>;
+      const questions = <%- questions %>;
+      // If we pass it via route without stringify
+      // then we can still reference uiStrings.variable in server-rendered HTML
+      // stringify is still required for javascript references
+      const uiStrings = <%- JSON.stringify(uiStrings) %>;
+    </script>
     <script src="./quizRenderer.js"></script>
   </body>
 </html>
