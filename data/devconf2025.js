@@ -53,7 +53,7 @@ const questions = [
         correct: true,
       },
       { text: "In Redmont", correct: false },
-      { text: "At the University of Helsinky", correct: false },
+      { text: "At the University of Helsinki", correct: false },
     ],
   },
   {
@@ -63,7 +63,7 @@ const questions = [
       { text: "ReiserFS", correct: false },
       { text: "Btrfs", correct: true },
       { text: "XFS", correct: false },
-      { text: " InterPlanetary File System", correct: false },
+      { text: "InterPlanetary File System", correct: false },
     ],
   },
   {
@@ -73,7 +73,7 @@ const questions = [
       { text: "Sypper", correct: false },
       { text: "Agama", correct: true },
       { text: "Anaconda", correct: false },
-      { text: " Cayman", correct: false },
+      { text: "Cayman", correct: false },
     ],
   },
   {
@@ -109,6 +109,16 @@ const questions = [
       { text: "A container-focused system like MicroOS", correct: false },
     ],
   },
+  {
+    text: "Can you play Windows games on openSUSE?",
+    type: "mc",
+    answers: [
+      { text: "No way, only Windows can do that", correct: false },
+      { text: "Of course! Just fire up Steam and game on", correct: true },
+      { text: "Only if you summon the gaming gods", correct: false },
+      { text: "You need a secret handshake first", correct: false },
+    ],
+  }
 ];
 
 // Randomize questions here if enabled
