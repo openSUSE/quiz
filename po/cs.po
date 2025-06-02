@@ -15,19 +15,15 @@ msgstr ""
 msgid "Language"
 msgstr "Jazyk"
 
-#. no-translate
 msgid "lang_name_en"
 msgstr "Angličtina"
 
-#. no-translate
 msgid "lang_name_cs"
 msgstr "Čeština"
 
-#. no-translate
 msgid "lang_name_tr"
 msgstr "Turečtina"
 
-#. no-translate
 msgid "lang_name_de"
 msgstr "Němčina"
 
@@ -626,6 +622,194 @@ msgstr "https://l10n.opensuse.org/projects/quiz/"
 
 msgid "In the IRC chat"
 msgstr "Na IRC chatu"
+
+msgid "What’s the difference between Big Endian and Little Endian?"
+msgstr ""
+
+msgid "s390x are using only 31b, that’s why they’re called Little Endian"
+msgstr ""
+
+msgid "It’s about byte ordering; s390x being Big Endian"
+msgstr ""
+
+msgid "It’s about byte ordering; s390x being Little Endian"
+msgstr ""
+
+msgid "It’s not used anymore, s390x are Bi-endianess"
+msgstr ""
+
+msgid "DASD is:"
+msgstr ""
+
+msgid "A German word"
+msgstr ""
+
+msgid "Direct-access storage device"
+msgstr ""
+
+msgid "Swear word repeated often by s390x administrators"
+msgstr ""
+
+msgid "A scsi disk"
+msgstr ""
+
+msgid "HMC is:"
+msgstr ""
+
+msgid "Home mc, just a new friendlier Midnight Commander"
+msgstr ""
+
+msgid ""
+"The administration of mainframe machine through web interface from the 90’s"
+msgstr ""
+
+msgid "A command for listing hardware network addresses."
+msgstr ""
+
+msgid "A hidden module control unit"
+msgstr ""
+
+msgid "z/VM is:"
+msgstr ""
+
+msgid "Virtual Machine on Z (meaning s390x)"
+msgstr ""
+
+msgid "z/VM is operating system with the best backward compatibility"
+msgstr ""
+
+msgid "Remote desktop viewer"
+msgstr ""
+
+msgid "Zombie Virtual Memory"
+msgstr ""
+
+msgid "Storage in mainframe world means:"
+msgstr ""
+
+msgid "Memory (RAM)"
+msgstr ""
+
+msgid "Data storage (disks) counted in cylinders"
+msgstr ""
+
+msgid "A room where the mainframe is located"
+msgstr ""
+
+msgid "Compartment within a mainframe where the disks are located"
+msgstr ""
+
+msgid "x3270 means:"
+msgstr ""
+
+msgid "Special file encoding, which is a must for files on s390x"
+msgstr ""
+
+msgid "Terminal using unsecured telnet for connection to a machine"
+msgstr ""
+
+msgid "Hexa code used as default admin password"
+msgstr ""
+
+msgid "None of these ridiculous choices"
+msgstr ""
+
+msgid "IPL 150 means"
+msgstr ""
+
+msgid "Give me additional 150MB of memory"
+msgstr ""
+
+msgid "IP to my Linux machine"
+msgstr ""
+
+msgid "Boot from disk 150."
+msgstr ""
+
+msgid "Install Python Libraries version 1.5.0"
+msgstr ""
+
+msgid "IFL is"
+msgstr ""
+
+msgid "A variant of lung disease"
+msgstr ""
+
+msgid "A core to run Linux on mainframe"
+msgstr ""
+
+msgid "Made up word to confuse laptop users"
+msgstr ""
+
+msgid "Integrated FLat circuit"
+msgstr ""
+
+msgid "cio_ignore is"
+msgstr ""
+
+msgid "A command masking visibility of devices"
+msgstr ""
+
+msgid "Ignore input/output data until the line is ready to receive"
+msgstr ""
+
+msgid "It actually means ignore CIO"
+msgstr ""
+
+msgid "A z/VM syslog filter"
+msgstr ""
+
+msgid "Operating system on s390x is administered via:"
+msgstr ""
+
+#. no-translate
+msgid "Prolog"
+msgstr ""
+
+#. no-translate
+msgid "Lisp"
+msgstr ""
+
+#. no-translate
+msgid "HMC"
+msgstr ""
+
+msgid "Linux (installed on bare metal)"
+msgstr ""
+
+msgid ""
+"AI must be mentioned. In which language(s) you can work with data models on "
+"s390x using hardware exploitation (multiple choices):"
+msgstr ""
+
+#. no-translate
+msgid "C/C++"
+msgstr ""
+
+#. no-translate
+msgid "Python"
+msgstr ""
+
+#. no-translate
+msgid "Java"
+msgstr ""
+
+msgid "Which I/O-Devices does a Mainframe have (multiple choices)?"
+msgstr ""
+
+msgid "Disks"
+msgstr ""
+
+#. no-translate
+msgid "Bluetooth"
+msgstr ""
+
+#. no-translate
+msgid "USB"
+msgstr ""
+
+msgid "Network"
+msgstr ""
 
 #~ msgid "Pascal"
 #~ msgstr "Pascal"
