@@ -46,44 +46,47 @@
       <% if (Object.keys(results).length === 0) { %>
         <p><%= t("No users found") %></p>
       <% } else { %>
+
+      <%
+      // Build an aggregate leaderboard
+      const leaderboard = Object.entries(results).map(([user, quizzes]) => {
+        let totalCorrect = 0;
+        let totalQuestions = 0;
+
+        Object.values(quizzes).forEach(({ correct, total }) => {
+          totalCorrect += Number(correct);
+          totalQuestions += Number(total);
+        });
+
+        const wrong = totalQuestions - totalCorrect;
+        let score = totalCorrect * (1 + totalQuestions / 1000);
+        // Optional: subtract points for wrong answers (e.g. 0.1 per wrong)
+        score -= wrong * 0.1;
+
+        return { user, totalCorrect, wrong, score };
+      });
+
+      // Sort leaderboard by score descending
+      leaderboard.sort((a, b) => b.score - a.score || a.user.localeCompare(b.user));
+      %>
       <table class="results">
-        <thead>
-          <tr><th><%= t("Nickname") %></th><th><%= t("Correct") %></th><th><%= t("Wrong") %></th></tr>
-        </thead>
-        <tbody>
-          <!-- 
-          Let's make sure that somebody who spends time to answer 1000 questions and has two wrong
-          is in leaderboard above the person who did 10 with 0 wrong answers.
-
-          score = correct * (1 + total / 1000)
-          This way:
-            A perfect score on 10 questions = 10 * (1 + 10/1000) = 10.1
-            998/1000 = 998 * (1 + 1000/1000) = 998 * 2 = 1996 → clearly better-->
-        <%
-          const sorted = Object.entries(results).sort((a, b) => {
-            const [userA, dataA] = a;
-            const [userB, dataB] = b;
-
-            const scoreA = dataA.correct * (1 + dataA.total / 1000);
-            const scoreB = dataB.correct * (1 + dataB.total / 1000);
-
-            if (scoreB !== scoreA) {
-              return scoreB - scoreA; // primary: score
-            }
-            return userA.localeCompare(userB); // secondary: alphabetical
-          });
-
-          sorted.forEach(([user, data]) => {
-        %>
-            <tr>
-              <td style="width: 200px;"><%= user %></td>
-              <td style="width: 100px; text-align: center;"><%= data.correct %></td>
-              <td style="width: 100px; text-align: center;"><%= data.total - data.correct %></td>
-
-            </tr>
-        <% }); %>
-        </tbody>
-      </table>
+  <thead>
+    <tr>
+      <th><%= t("Nickname") %></th>
+      <th><%= t("Correct") %></th>
+      <th><%= t("Wrong") %></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% leaderboard.forEach(({ user, totalCorrect, wrong }) => { %>
+      <tr>
+        <td style="width: 200px;"><%= user %></td>
+        <td style="width: 100px; text-align: center;"><%= totalCorrect %></td>
+        <td style="width: 100px; text-align: center;"><%= wrong %></td>
+      </tr>
+    <% }); %>
+  </tbody>
+</table>
       <% } %>
 
       <script>
