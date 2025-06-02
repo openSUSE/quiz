@@ -606,25 +606,6 @@ msgstr ""
 msgid "In the IRC chat"
 msgstr ""
 
-# Translations template for openSUSE Quiz.
-# Copyright (C) 2025 ORGANIZATION
-# This file is distributed under the same license as the openSUSE Quiz project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-#
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz 1.0\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-06-02 15:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
-
 msgid "s390x Expert"
 msgstr ""
 
@@ -667,7 +648,8 @@ msgstr ""
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr ""
 
-msgid "The administration of mainframe machine through web interface from the 90’s"
+msgid ""
+"The administration of mainframe machine through web interface from the 90’s"
 msgstr ""
 
 msgid "A command for listing hardware network addresses."
@@ -804,7 +786,8 @@ msgstr ""
 msgid "Java"
 msgstr ""
 
-msgid "Which of the following I/O devices is typically not used with mainframes?"
+msgid ""
+"Which of the following I/O devices is typically not used with mainframes?"
 msgstr ""
 
 msgid "Disks"
@@ -818,12 +801,6 @@ msgstr ""
 
 msgid "Bluetooth"
 msgstr ""
-
-msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 
 msgid "Chameleon Fun for kids!"
 msgstr ""
@@ -876,21 +853,6 @@ msgid "Because they are cold-blooded robots"
 msgstr ""
 
 msgid "To glow in the dark"
-msgstr ""
-
-msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
-
-msgid "South America"
-msgstr ""
-
-msgid "Africa and Madagascar"
-msgstr ""
-
-msgid "Southeast Asia"
-msgstr ""
-
-msgid "Antarctica"
 msgstr ""
 
 msgid "How do chameleons catch their food?"
