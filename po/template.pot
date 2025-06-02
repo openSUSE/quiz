@@ -24,6 +24,9 @@ msgstr "Türkçe"
 msgid "lang_name_de"
 msgstr "Deutsch"
 
+msgid "lang_name_ca"
+msgstr "Català"
+
 msgid "Stats"
 msgstr ""
 
