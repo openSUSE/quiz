@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-02 14:36+0000\n"
+"PO-Revision-Date: 2025-06-02 18:25+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
 "Language: ca\n"
@@ -741,23 +741,21 @@ msgstr ""
 msgid "Install Python Libraries version 1.5.0"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is IFL?"
-msgstr "Què és Leap 16.0?"
+msgstr "Què és IFL?"
 
 msgid "A variant of lung disease"
-msgstr ""
+msgstr "Una variant d'una malaltia pulmonar"
 
 #. no-translate
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Un nucli per executar Linux en un ordinador central"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Paraula inventada per confondre els usuaris d'ordinadors portàtils"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Circuit pla integrat"
 
 msgid "What is cio_ignore?"
 msgstr ""
