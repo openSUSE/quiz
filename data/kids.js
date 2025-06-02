@@ -66,16 +66,16 @@ const questions = [
       { text: "Hot dogs", correct: false },
     ],
   },
- {
-  text: "What makes openSUSE special?",
-  type: "mc",
-  answers: [
-    { text: "It can talk to animals", correct: false },
-    { text: "It’s a modern, free operating system anyone can use — including you!", correct: true },
-    { text: "It’s made of chameleon scales", correct: false },
-    { text: "It’s only for secret agents", correct: false },
-  ],
- }
+  {
+    text: "What makes openSUSE special?",
+    type: "mc",
+    answers: [
+      { text: "It can talk to animals", correct: false },
+      { text: "It’s a modern, free operating system anyone can use — including you!", correct: true },
+      { text: "It’s made of chameleon scales", correct: false },
+      { text: "It’s only for secret agents", correct: false },
+    ],
+  },
   {
     text: "Do all chameleons look the same?",
     type: "mc",
