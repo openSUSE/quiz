@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-02 11:32+0000\n"
+"PO-Revision-Date: 2025-06-02 12:30+0000\n"
 "Last-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
 "Language: tr\n"
@@ -12,8 +12,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.11.4\n"
 
+#, fuzzy
 msgid "Language"
-msgstr "Dil"
+msgstr "Dil Seçimi"
 
 #. no-translate
 msgid "lang_name_en"
