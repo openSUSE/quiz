@@ -4,40 +4,31 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language-Team: \n"
+"Language-Team: Czech <translation@opensuse.org>\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: cs\n"
 
-
 msgid "Language"
 msgstr "Jazyk"
-
-msgid "lang_name_cs"
-msgstr "Čeština"
 
 msgid "lang_name_en"
 msgstr "Angličtina"
 
+msgid "lang_name_cs"
+msgstr "Čeština"
+
+msgid "lang_name_de"
+msgstr "Němčina"
 
 msgid "Stats"
-msgstr "Výsledky"
+msgstr "Statistiky"
 
 msgid "Start"
-msgstr "Začít"
+msgstr "Start"
 
 msgid "Back"
 msgstr "Zpět"
-
-msgid "Submit"
-msgstr "Odeslat"
-
-msgid "Submit and Quit"
-msgstr "Odeslat a Skončit"
-
-
-msgid "Quit"
-msgstr "Skončit"
 
 msgid "Next"
 msgstr "Další"
@@ -46,7 +37,7 @@ msgid "Time left"
 msgstr "Zbývající čas"
 
 msgid "Back to Main Page"
-msgstr "Zpět na Hlavní stránku"
+msgstr "Zpět na hlavní stránku"
 
 msgid "Nickname"
 msgstr "Přezdívka"
@@ -57,35 +48,62 @@ msgstr "Skóre"
 msgid "Correct"
 msgstr "Správně"
 
-msgid "Correct"
+msgid "Wrong"
 msgstr "Špatně"
 
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "Submit and Quit"
+msgstr "Odeslat a ukončit"
+
+msgid "Quit"
+msgstr "Ukončit"
+
 msgid "Are you sure you want to quit and submit?"
-msgstr "Jste si jistí, že chcete skončit a odeslat odpovědi?"
+msgstr "Opravdu chcete ukončit a odeslat?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Opravdu chcete skončit? Odpovědi nebudou uloženy."
+msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 
 msgid "openSUSE Quizzes"
-msgstr "openSUSE Kvízy"
+msgstr "openSUSE kvízy"
 
 msgid "Available quizzes"
 msgstr "Dostupné kvízy"
 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Quiz metadata
 msgid "openSUSE Expert"
 msgstr "openSUSE Expert"
 
-msgid "Devconf 2025"
-msgstr "Devconf 2025"
+msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
+msgstr "Zapojujte se do soutěže s ostatními uživateli. 30 sekund na otázku. Můžete kdykoli skončit."
 
-msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr "Tento kvíz je tu od toho aby jste se něco dozvěděli. Nemusíte znát všechny odpovědi."
-
-msgid "Please enter a username to start."
-msgstr "Pro zahájení zadejte uživatelské jméno."
-
+#. Questions
 msgid "What is the mascot of openSUSE project?"
 msgstr "Jaký je maskot projektu openSUSE?"
+
+#. no-translate
+msgid "Pascal"
+msgstr "Pascal"
+
+#. no-translate
+msgid "TwoPac"
+msgstr "TwoPac"
+
+#. no-translate
+msgid "Geeko"
+msgstr "Geeko"
+
+#. no-translate
+msgid "BeefyMiracle"
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr "Jaký je hlavní cíl projektu openSUSE?"
@@ -97,28 +115,28 @@ msgid "Developing mobile applications"
 msgstr "Vývoj mobilních aplikací"
 
 msgid "Producing video games"
-msgstr "Vývoj videoher"
+msgstr "Výroba videoher"
 
 msgid "Research in artificial intelligence"
-msgstr "Výzkum umělé inteligence"
+msgstr "Výzkum v oblasti umělé inteligence"
 
 msgid "What are Aeon and Kalpa?"
 msgstr "Co jsou Aeon a Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "Moderní 'Immutable' desktopy s GNOME a KDE"
+msgstr "Moderní 'Immutable' desktopové systémy s GNOME a KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Rolling distribuce s transakčními aktualizacemi a flatpaky na desktopu"
+msgstr "Rolling distribuce s transakčními aktualizacemi používající flatpaky na desktopu"
 
 msgid "Distributions built on top of MicroOS"
-msgstr "Distribuce postavené na MicroOS"
+msgstr "Distribuce založené na MicroOS"
 
 msgid "All options are correct"
 msgstr "Všechny možnosti jsou správné"
 
 msgid "Where was the openSUSE project founded?"
-msgstr "Kde byl založen projekt openSUSE?"
+msgstr "Kde byl projekt openSUSE založen?"
 
 msgid "In Choustníkovo Hradiště"
 msgstr "V Choustníkově Hradišti"
@@ -129,29 +147,108 @@ msgstr "Na LinuxWorld Conference & Expo 2005 v San Franciscu"
 msgid "In Redmont"
 msgstr "V Redmontu"
 
-msgid "At the University of Helsinky"
-msgstr "Na Helsinské univerzitě"
+msgid "At the University of Helsinki"
+msgstr "Na Univerzitě v Helsinkách"
 
 msgid "What is the default filesystem in openSUSE?"
 msgstr "Jaký je výchozí souborový systém v openSUSE?"
 
+#. no-translate
+msgid "ReiserFS"
+msgstr "ReiserFS"
+
+#. no-translate
+msgid "Btrfs"
+msgstr "Btrfs"
+
+#. no-translate
+msgid "XFS"
+msgstr "XFS"
+
+#. no-translate
+msgid "InterPlanetary File System"
+msgstr "InterPlanetary File System"
+
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Jak se jmenuje nový instalátor v Leap 16?"
 
+#. no-translate
+msgid "Sypper"
+msgstr "Sypper"
+
+#. no-translate
+msgid "Agama"
+msgstr "Agama"
+
+#. no-translate
+msgid "Anaconda"
+msgstr "Anaconda"
+
+#. no-translate
+msgid "Cayman"
+msgstr "Cayman"
+
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Která distribuce openSUSE je optimalizovaná pro kontejnery a mikroslužby?"
+msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS a Leap Micro"
 
+#. no-translate
+msgid "Tumbleweed"
+msgstr "Tumbleweed"
+
+#. no-translate
+msgid "Leap"
+msgstr "Leap"
+
+#. no-translate
+msgid "Slowroll"
+msgstr "Slowroll"
+
+msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
+msgstr "Která rolling distribuce openSUSE nabízí klidnější alternativu k Tumbleweed pro uživatele, kteří preferují méně překvapení?"
+
+#. no-translate
+msgid "Tumblebleed"
+msgstr "Tumblebleed"
+
+#. no-translate
+msgid "Leapfrog"
+msgstr "Leapfrog"
+
+#. no-translate
+msgid "Slowroll"
+msgstr "Slowroll"
+
+#. no-translate
+msgid "Zyppernap"
+msgstr "Zyppernap"
+
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+
+#. no-translate
+msgid "Yum"
+msgstr "Yum"
+
+#. no-translate
+msgid "DNF"
+msgstr "DNF"
+
+#. no-translate
+msgid "Zypper"
+msgstr "Zypper"
+
+#. no-translate
+msgid "Pacman"
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
 msgstr "Co je Leap 16.0?"
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Tradiční linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
+msgstr "Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Immutable distribuce s GNOME a KDE"
@@ -160,5 +257,134 @@ msgid "A rolling release for mobile devices"
 msgstr "Rolling release pro mobilní zařízení"
 
 msgid "A container-focused system like MicroOS"
-msgstr "Systém zaměřený na kontejnery, podobně jako MicroOS"
+msgstr "Systém zaměřený na kontejnery jako MicroOS"
 
+msgid "Which desktop environment is the default for openSUSE Leap 15?"
+msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
+
+#. no-translate
+msgid "GNOME"
+msgstr "GNOME"
+
+#. no-translate
+msgid "KDE Plasma"
+msgstr "KDE Plasma"
+
+#. no-translate
+msgid "Xfce"
+msgstr "Xfce"
+
+msgid "There is no default. We leave choice to the user."
+msgstr "Neexistuje výchozí. Volbu ponecháváme uživateli."
+
+msgid "What is the name of the openSUSE build system?"
+msgstr "Jak se jmenuje build systém openSUSE?"
+
+#. no-translate
+msgid "OBS (Open Build Service)"
+msgstr "OBS (Open Build Service)"
+
+#. no-translate
+msgid "Weblate"
+msgstr "Weblate"
+
+#. no-translate
+msgid "Koji"
+msgstr "Koji"
+
+#. no-translate
+msgid "Autobuilder"
+msgstr "Autobuilder"
+
+msgid "How can you make changes to a root partition on a transactional-update based system?"
+msgstr "Jak můžete provést změny na root oddílu v systému s transactional-update?"
+
+msgid "Use transactional-update command and reboot into a new snapshot"
+msgstr "Použijte příkaz transactional-update a restartujte do nového snapshotu"
+
+msgid "By using sudo-sudo to gain giga privileges"
+msgstr "Použitím sudo-sudo pro získání giga práv"
+
+msgid "By using Salt or Ansible"
+msgstr "Použitím Salt nebo Ansible"
+
+msgid "You have to edit files under a user netrunner and cross fingers"
+msgstr "Musíte upravit soubory pod uživatelem netrunner a držet palce"
+
+msgid "What is 'YaST'?"
+msgstr "Co je 'YaST'?"
+
+msgid "A chameleon species native to Africa"
+msgstr "Druh chameleona pocházející z Afriky"
+
+msgid "A free software for configuration of operating system"
+msgstr "Svobodný software pro konfiguraci operačního systému"
+
+msgid "The default web browser"
+msgstr "Výchozí webový prohlížeč"
+
+msgid "A programming language"
+msgstr "Programovací jazyk"
+
+msgid "What is the primary goal of the openSUSE Aeon distribution?"
+msgstr "Jaký je hlavní cíl distribuce openSUSE Aeon?"
+
+msgid "A modern transactional-desktop system with GNOME"
+msgstr "Moderní transakční desktopový systém s GNOME"
+
+msgid "Scientific research"
+msgstr "Vědecký výzkum"
+
+msgid "Containerization"
+msgstr "Kontejnerizace"
+
+msgid "Enterprise use"
+msgstr "Podnikové použití"
+
+msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
+msgstr "Kde se nejlépe dozvíte o projektech od Rancher a SUSE?"
+
+#. no-translate
+msgid "Rancher Academy"
+msgstr "Rancher Academy"
+
+#. no-translate
+msgid "Cow College"
+msgstr "Cow College"
+
+#. no-translate
+msgid "Moo University"
+msgstr "Moo University"
+
+#. no-translate
+msgid "Cowboy Hat"
+msgstr "Cowboy Hat"
+
+msgid "Chameleons are primarily found in which part of the world?"
+msgstr "Kde se přirozeně vyskytují chameleoni?"
+
+msgid "South America"
+msgstr "Jižní Amerika"
+
+msgid "Africa and Madagascar"
+msgstr "Afrika a Madagaskar"
+
+msgid "Southeast Asia"
+msgstr "Jihovýchodní Asie"
+
+msgid "Antarctica"
+msgstr "Antarktida"
+
+msgid "Where can you check the current status of openSUSE infrastructure?"
+msgstr "Kde můžete zkontrolovat aktuální stav infrastruktury openSUSE?"
+
+#. no-translate
+msgid "status.opensuse.org"
+msgstr "status.opensuse.org"
+
+#. no-translate
+msgid "isopensusedown.com"
+msgstr "isopensusedown.com"
+
+#. no-translate
+msgid "yast
