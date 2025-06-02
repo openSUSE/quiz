@@ -12,19 +12,15 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#. no-translate
 msgid "lang_name_en"
 msgstr "English"
 
-#. no-translate
 msgid "lang_name_cs"
 msgstr "Čeština"
 
-#. no-translate
 msgid "lang_name_tr"
 msgstr "Türkçe"
 
-#. no-translate
 msgid "lang_name_de"
 msgstr "Deutsch"
 
