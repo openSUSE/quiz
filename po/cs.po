@@ -12,11 +12,21 @@ msgstr ""
 msgid "Language"
 msgstr "Jazyk"
 
+#. no-translate
 msgid "lang_name_en"
-msgstr "Angličtina"
+msgstr ""
 
+#. no-translate
 msgid "lang_name_cs"
-msgstr "Čeština"
+msgstr ""
+
+#. no-translate
+msgid "lang_name_tr"
+msgstr ""
+
+#. no-translate
+msgid "lang_name_de"
+msgstr "" 
 
 msgid "Stats"
 msgstr "Statistiky"
@@ -641,8 +651,6 @@ msgstr ""
 msgid "In the IRC chat"
 msgstr ""
 
-#~ msgid "lang_name_de"
-#~ msgstr "Němčina"
 
 #~ msgid "Pascal"
 #~ msgstr "Pascal"

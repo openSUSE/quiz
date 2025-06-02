@@ -12,11 +12,21 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+#. no-translate
 msgid "lang_name_en"
 msgstr ""
 
+#. no-translate
 msgid "lang_name_cs"
 msgstr ""
+
+#. no-translate
+msgid "lang_name_tr"
+msgstr ""
+
+#. no-translate
+msgid "lang_name_de"
+msgstr "" 
 
 msgid "Stats"
 msgstr ""
