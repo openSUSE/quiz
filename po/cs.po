@@ -18,6 +18,14 @@ msgstr "Angličtina"
 msgid "lang_name_cs"
 msgstr "Čeština"
 
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_tr"
+msgstr "Angličtina"
+
+msgid "lang_name_de"
+msgstr "Němčina"
+
 msgid "Stats"
 msgstr "Statistiky"
 
@@ -640,9 +648,6 @@ msgstr ""
 
 msgid "In the IRC chat"
 msgstr ""
-
-#~ msgid "lang_name_de"
-#~ msgstr "Němčina"
 
 #~ msgid "Pascal"
 #~ msgstr "Pascal"

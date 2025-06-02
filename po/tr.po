@@ -21,6 +21,16 @@ msgstr "İngilizce"
 msgid "lang_name_cs"
 msgstr "Çekçe"
 
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_tr"
+msgstr "İngilizce"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_de"
+msgstr "İngilizce"
+
 msgid "Stats"
 msgstr "İstatistikler"
 
