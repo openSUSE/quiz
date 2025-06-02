@@ -138,16 +138,61 @@ At an agreed time, we call out winners in one of two ways: 🏆
 
 ## Contributing 📝
 
-New questions can be added into existing Quizes inside data dir.
-Simply create a new data/\*.js to add a new Quiz.
+# 🧠 Contributing to the openSUSE Quiz App
 
-In order to allow localization all questions need to be placed in `data/*.js` but also in
-`locales/en/LC_MESSAGES`. Its duplicating but also rewarding. I guess we could write some extractor later.
+We welcome all contributions! Whether you're improving translations, adding new quiz questions, or localizing into a new language — thank you for making this better for everyone. 💚
 
-The questions and answers in `data/*.js` **absolutely must match** the msgid in all `LC_MESSAGES` files.
-So please avoid various corrections in data/\*.js in case you'll not willing to update at least locales/en/LC_MESSAGES.
+---
 
-Translations can be easily done in our Weblate [https://l10n.opensuse.org/](https://l10n.opensuse.org/projects/quiz/quiz/).
+## 🈷️ Improving Translations
+
+To add or correct translations in an existing language, head over to Weblate:
+
+🔗 [https://l10n.opensuse.org/projects/quiz/quiz/](https://l10n.opensuse.org/projects/quiz/quiz/)
+
+Weblate will automatically commit translations approximately two hours after the last change.
+
+---
+
+## ❓ Adding New Questions
+
+You can add new questions by modifying or creating quiz files inside the `data/` directory.
+
+📁 To add a new quiz:
+- Create a new file like `data/s390x.js`.
+- Follow the format used in existing quiz files.
+- Refer to [PR #35](https://github.com/openSUSE/quiz/pull/35) for a working example.
+
+> ⚠️ **Important:** All questions and answers must appear in both:
+> - The appropriate `data/*.js` file
+> - The `po/template.pot` file
+
+This duplication is required for proper translation support.
+
+🔁 If you change any text in `data/*.js`, you **must** update `po/template.pot` accordingly.  
+Please also update at least `locales/en/LC_MESSAGES` to avoid untranslated strings in the app.
+
+---
+
+## 🌍 Adding a New Language
+
+To add support for a new language:
+
+1. Start a new language at Weblate:  
+   [https://l10n.opensuse.org/projects/quiz/quiz/](https://l10n.opensuse.org/projects/quiz/quiz/)
+
+2. Weblate will create and commit the new language file (e.g., `po/ca.po`) after a short delay.  
+   If needed, feel free to contact maintainers to speed up the process.
+
+3. Once the file exists in the repository, add a user-friendly name to the language selector:  
+   Add a line like `lang_name_ca` to `po/template.pot`.
+
+📌 See [PR #36](https://github.com/openSUSE/quiz/pull/36) for an example of adding Catalan.
+
+---
+
+Thanks for your contribution! 🐲💚
+
 
 ## 🌐 Instance
 
