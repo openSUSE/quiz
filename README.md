@@ -159,11 +159,13 @@ Weblate will automatically commit translations approximately two hours after the
 You can add new questions by modifying or creating quiz files inside the `data/` directory.
 
 📁 To add a new quiz:
+
 - Create a new file like `data/s390x.js`.
 - Follow the format used in existing quiz files.
 - Refer to [PR #35](https://github.com/openSUSE/quiz/pull/35) for a working example.
 
 > ⚠️ **Important:** All questions and answers must appear in both:
+>
 > - The appropriate `data/*.js` file
 > - The `po/template.pot` file
 
@@ -192,7 +194,6 @@ To add support for a new language:
 ---
 
 Thanks for your contribution! 🐲💚
-
 
 ## 🌐 Instance
 
