@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-02 16:13+0000\n"
+"PO-Revision-Date: 2025-06-02 18:25+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -909,16 +909,16 @@ msgid "Hot dogs"
 msgstr "Párky v rohlíku"
 
 msgid "What makes openSUSE special?"
-msgstr "Čím je maskot openSUSE jedinečný?"
+msgstr "Čím je openSUSE jedinečné?"
 
 msgid "It can talk to animals"
-msgstr "Může mluvit se zvířaty"
+msgstr "Umí mluvit se zvířaty"
 
 msgid "It’s a powerful and free operating system"
 msgstr "Je to výkonný operační systém, který je zdarma"
 
 msgid "It’s made of chameleon scales"
-msgstr "Je vyroben z chameleonových šupin"
+msgstr "Je vyroben z chameleoních šupin"
 
 msgid "It’s only for secret agents"
 msgstr "Je pouze pro tajné agenty"
