@@ -18,6 +18,9 @@ msgstr "English"
 msgid "lang_name_cs"
 msgstr "Čeština"
 
+msgid "lang_name_tr"
+msgstr "Türkçe"
+
 msgid "Stats"
 msgstr ""
 
