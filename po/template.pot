@@ -83,10 +83,6 @@ msgid "What is the mascot of openSUSE project?"
 msgstr ""
 
 #. no-translate
-msgid ""
-msgstr ""
-
-#. no-translate
 msgid "TwoPac"
 msgstr ""
 
