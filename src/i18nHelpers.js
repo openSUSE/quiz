@@ -46,10 +46,16 @@ function getUiStrings(_, name = "Anonymous") {
 function getAvailableLanguages(poDirPath) {
   return fs
     .readdirSync(poDirPath)
-    .filter((file) => file.endsWith(".po") && !file.includes("template"))
-    .map((file) => path.basename(file, ".po")); // strips ".po"
+    .filter((file) => {
+      return (
+        (file.endsWith(".po") && !file.includes("template")) ||
+        file === "template.pot"
+      );
+    })
+    .map((file) => {
+      return file === "template.pot" ? "en" : path.basename(file, ".po");
+    });
 }
-
 module.exports = {
   localizeQuizData,
   getUiStrings,

@@ -88,7 +88,7 @@ const questions = [
     ],
   },
   {
-    text: "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?",  
+    text: "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?",
     type: "mc",
     answers: [
       { text: "Tumblebleed", correct: false },
@@ -205,7 +205,7 @@ const questions = [
       { text: "Antarctica", correct: false },
     ],
   },
-    {
+  {
     text: "Where can you check the current status of openSUSE infrastructure?",
     type: "mc",
     answers: [
@@ -219,9 +219,18 @@ const questions = [
     text: "Where can you install additional packages or packages with changes that didn't make it into the main distribution?",
     type: "mc",
     answers: [
-      { text: "With a single click from software.opensuse.org", correct: false },
-      { text: "By browsing the myriad of projects on OBS build.opensuse.org", correct: false },
-      { text: "Through command opi, from the Packman repository or from Flathub", correct: false },
+      {
+        text: "With a single click from software.opensuse.org",
+        correct: false,
+      },
+      {
+        text: "By browsing the myriad of projects on OBS build.opensuse.org",
+        correct: false,
+      },
+      {
+        text: "Through command opi, from the Packman repository or from Flathub",
+        correct: false,
+      },
       { text: "All options are correct", correct: true },
     ],
   },
@@ -235,7 +244,7 @@ const questions = [
       { text: "Via smoke signals from Nuremberg", correct: false },
     ],
   },
-    {
+  {
     text: "Where can you check the current status of openSUSE infrastructure?",
     type: "mc",
     answers: [
@@ -439,7 +448,10 @@ const questions = [
     text: "What does the new openSUSE-repos package manage?",
     type: "mc",
     answers: [
-      { text: "Repository definitions in /etc/zypp/repos.d/ managed by RIS", correct: true },
+      {
+        text: "Repository definitions in /etc/zypp/repos.d/ managed by RIS",
+        correct: true,
+      },
       { text: "Kernel modules for openSUSE Leap", correct: false },
       { text: "Desktop themes and icons", correct: false },
       { text: "System logs and journal settings", correct: false },
