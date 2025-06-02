@@ -4,6 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,65 +13,65 @@ msgid "Language"
 msgstr "Language"
 
 msgid "lang_name_en"
-msgstr "English"
+msgstr ""
 
 msgid "lang_name_cs"
-msgstr "Czech"
+msgstr ""
 
 msgid "Stats"
-msgstr "Stats"
+msgstr ""
 
 msgid "Start"
-msgstr "Start"
+msgstr ""
 
 msgid "Back"
-msgstr "Back"
+msgstr ""
 
 msgid "Next"
-msgstr "Next"
+msgstr ""
 
 msgid "Time left"
 msgstr "Time left"
 
 msgid "Back to Main Page"
-msgstr "Back to Main Page"
+msgstr ""
 
 msgid "Nickname"
-msgstr "Nickname"
+msgstr ""
 
 msgid "Score"
-msgstr "Score"
+msgstr ""
 
 msgid "Correct"
-msgstr "Correct"
+msgstr ""
 
 msgid "Wrong"
-msgstr "Wrong"
+msgstr ""
 
 msgid "Submit"
-msgstr "Submit"
+msgstr ""
 
 msgid "Submit and Quit"
-msgstr "Submit and Quit"
+msgstr ""
 
 msgid "Quit"
-msgstr "Quit"
+msgstr ""
 
 msgid "Are you sure you want to quit and submit?"
-msgstr "Are you sure you want to quit and submit?"
+msgstr ""
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Are you sure you want to quit? Your progress will not be saved."
+msgstr ""
 
 msgid "openSUSE Quizzes"
-msgstr "openSUSE Quizzes"
+msgstr ""
 
 msgid "Available quizzes"
-msgstr "Available quizzes"
+msgstr ""
 
 #. Quiz metadata
 msgid "openSUSE Expert"
-msgstr "openSUSE Expert"
+msgstr ""
 
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
@@ -82,20 +83,20 @@ msgid "What is the mascot of openSUSE project?"
 msgstr ""
 
 #. no-translate
-msgid "Pascal"
-msgstr "Pascal"
+msgid ""
+msgstr ""
 
 #. no-translate
 msgid "TwoPac"
-msgstr "TwoPac"
+msgstr ""
 
 #. no-translate
 msgid "Geeko"
-msgstr "Geeko"
+msgstr ""
 
 #. no-translate
 msgid "BeefyMiracle"
-msgstr "BeefyMiracle"
+msgstr ""
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr ""

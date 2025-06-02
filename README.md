@@ -147,7 +147,7 @@ In order to allow localization all questions need to be placed in `data/*.js` bu
 The questions and answers in `data/*.js` **absolutely must match** the msgid in all `LC_MESSAGES` files.
 So please avoid various corrections in data/\*.js in case you'll not willing to update at least locales/en/LC_MESSAGES.
 
-Translations can be done in our Weblate https://l10n.opensuse.org/
+Translations can be easily done in our Weblate [https://l10n.opensuse.org/](https://l10n.opensuse.org/projects/quiz/quiz/).
 
 ## 🌐 Instance
 
