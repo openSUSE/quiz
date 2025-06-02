@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-02 12:30+0000\n"
+"PO-Revision-Date: 2025-06-02 15:51+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -624,167 +624,169 @@ msgid "In the IRC chat"
 msgstr "Na IRC chatu"
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "Jaký je rozdíl mezi Big Endian a Little Endian?"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s390x používá pouze 31b proto se nazývá Little Endian"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "Jde o řazení bajtů; s390x je Big Endian"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "Jde o řazení bajtů; s390x je Little Endian"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "Toto rozlišování je již zastaralé, s390x je BI-endian"
 
 msgid "DASD is:"
-msgstr ""
+msgstr "DASD je:"
 
 msgid "A German word"
-msgstr ""
+msgstr "Německé slovo"
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Direct-access storage device"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "Je to nadávka, kterou často používají s390x administrátoři"
 
 msgid "A scsi disk"
-msgstr ""
+msgstr "scsi disk"
 
 msgid "HMC is:"
-msgstr ""
+msgstr "HMC je:"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Home mc, trochu více přátelský Midnight Commander"
 
 msgid ""
 "The administration of mainframe machine through web interface from the 90’s"
-msgstr ""
+msgstr "Administrativní webové rozhradní pro mainframy z 90tých let"
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "Příkaz pro listování hardwarových síťových adres."
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "Skrytý kontrolní modul (Hidden Module Control unit)"
 
 msgid "z/VM is:"
-msgstr ""
+msgstr "z/VM je:"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Virtuální stroj na Z (myšleno s390x)"
 
 msgid "z/VM is operating system with the best backward compatibility"
-msgstr ""
+msgstr "z/VM je operační system s nejlepší zpětnou kompatabilitou"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Prohlížeč vzdálené plochy"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombie Virtual Memory"
 
 msgid "Storage in mainframe world means:"
-msgstr ""
+msgstr "Storage ve světě mainframů znamená:"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Operační paměť (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Datové uložiště (disky) měřené v cylindrech"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Místnost kde je mainframe umístěný"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Přihrádka v mainframe, kde jsou umístěny disky"
 
 msgid "x3270 means:"
-msgstr ""
+msgstr "x3270 znamená:"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "Speciální kódování souborů, které je pro soubory na S390X nutností"
 
 msgid "Terminal using unsecured telnet for connection to a machine"
-msgstr ""
+msgstr "Terminál používající nezabezpečený telnet pro připojení ke stroji"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "Hexa kód použitý jako výchozí heslo administátora"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Žádná z těchto absurdní voleb"
 
 msgid "IPL 150 means"
-msgstr ""
+msgstr "IPL 150 znamená"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Dej mi dodatečných 150MB operační paměti"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "IP meho Linuxového stroje"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Nabootuj z disku 150."
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Nainstaluj Pythonní knihovny verze 1.5.0"
 
 msgid "IFL is"
-msgstr ""
+msgstr "IFL je"
 
 msgid "A variant of lung disease"
-msgstr ""
+msgstr "Varianta plicní choroby"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Jádro pro spuštění Linuxu na mainframe"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Vymyšlené slovo pro zmatení uživatelů laptopů"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Integrated FLat circuit"
 
 msgid "cio_ignore is"
-msgstr ""
+msgstr "cio_ignore je"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Příkaz maskující viditelnost zařízení"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "Ignorovat vstupní/výstupní data, dokud linka není připravena k příjmu"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "Ve skutečnosti to znamená ignoruj CIO"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "z/VM syslog filtr"
 
 msgid "Operating system on s390x is administered via:"
-msgstr ""
+msgstr "Operační systém je na s390x spravován skrze:"
 
 #. no-translate
 msgid "Prolog"
-msgstr ""
+msgstr "Prolog"
 
 #. no-translate
 msgid "Lisp"
-msgstr ""
+msgstr "Lisp"
 
 #. no-translate
 msgid "HMC"
 msgstr ""
 
 msgid "Linux (installed on bare metal)"
-msgstr ""
+msgstr "Linux (nainstalovaný na holém železe)"
 
 msgid ""
 "AI must be mentioned. In which language(s) you can work with data models on "
 "s390x using hardware exploitation (multiple choices):"
 msgstr ""
+"Je nutné zmínit umělou inteligenci. Ve kterém(ých) jazyce(ech) lze pracovat "
+"s datovými modely na S390X s využitím hardwarového využití (více možností):"
 
 #. no-translate
 msgid "C/C++"
-msgstr ""
+msgstr "C/C++"
 
 #. no-translate
 msgid "Python"
@@ -795,10 +797,10 @@ msgid "Java"
 msgstr ""
 
 msgid "Which I/O-Devices does a Mainframe have (multiple choices)?"
-msgstr ""
+msgstr "Která I/O zařízení má mainframe (více možností)?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Disky"
 
 #. no-translate
 msgid "Bluetooth"
@@ -809,7 +811,7 @@ msgid "USB"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Síť"
 
 #~ msgid "Pascal"
 #~ msgstr "Pascal"
