@@ -24,9 +24,6 @@ msgstr "Türkçe"
 msgid "lang_name_de"
 msgstr "Deutsch"
 
-msgid "lang_name_ca"
-msgstr "Català"
-
 msgid "Stats"
 msgstr ""
 
@@ -606,6 +603,31 @@ msgstr ""
 msgid "In the IRC chat"
 msgstr ""
 
+# Translations template for openSUSE Quiz.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the openSUSE Quiz project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: openSUSE Quiz 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-02 15:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+msgid "s390x Expert"
+msgstr ""
+
+msgid "A quiz for friends of mainframes and exotic architectures."
+msgstr ""
+
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr ""
 
@@ -621,7 +643,7 @@ msgstr ""
 msgid "It’s not used anymore, s390x are Bi-endianess"
 msgstr ""
 
-msgid "DASD is:"
+msgid "DASD is?"
 msgstr ""
 
 msgid "A German word"
@@ -636,14 +658,13 @@ msgstr ""
 msgid "A scsi disk"
 msgstr ""
 
-msgid "HMC is:"
+msgid "HMC is?"
 msgstr ""
 
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr ""
 
-msgid ""
-"The administration of mainframe machine through web interface from the 90’s"
+msgid "The administration of mainframe machine through web interface from the 90’s"
 msgstr ""
 
 msgid "A command for listing hardware network addresses."
@@ -652,7 +673,7 @@ msgstr ""
 msgid "A hidden module control unit"
 msgstr ""
 
-msgid "z/VM is:"
+msgid "z/VM is?"
 msgstr ""
 
 msgid "Virtual Machine on Z (meaning s390x)"
@@ -667,7 +688,7 @@ msgstr ""
 msgid "Zombie Virtual Memory"
 msgstr ""
 
-msgid "Storage in mainframe world means:"
+msgid "What does storage mean in the mainframe world?"
 msgstr ""
 
 msgid "Memory (RAM)"
@@ -682,7 +703,7 @@ msgstr ""
 msgid "Compartment within a mainframe where the disks are located"
 msgstr ""
 
-msgid "x3270 means:"
+msgid "What is x3270?"
 msgstr ""
 
 msgid "Special file encoding, which is a must for files on s390x"
@@ -697,27 +718,30 @@ msgstr ""
 msgid "None of these ridiculous choices"
 msgstr ""
 
-msgid "IPL 150 means"
+msgid "What does IPL 150 mean?"
 msgstr ""
 
 msgid "Give me additional 150MB of memory"
 msgstr ""
 
+#. no-translate
 msgid "IP to my Linux machine"
 msgstr ""
 
 msgid "Boot from disk 150."
 msgstr ""
 
+#. no-translate
 msgid "Install Python Libraries version 1.5.0"
 msgstr ""
 
-msgid "IFL is"
+msgid "What is IFL?"
 msgstr ""
 
 msgid "A variant of lung disease"
 msgstr ""
 
+#. no-translate
 msgid "A core to run Linux on mainframe"
 msgstr ""
 
@@ -727,7 +751,7 @@ msgstr ""
 msgid "Integrated FLat circuit"
 msgstr ""
 
-msgid "cio_ignore is"
+msgid "What is cio_ignore?"
 msgstr ""
 
 msgid "A command masking visibility of devices"
@@ -742,14 +766,13 @@ msgstr ""
 msgid "A z/VM syslog filter"
 msgstr ""
 
-msgid "Operating system on s390x is administered via:"
+msgid "How is the operating system on s390x administered?"
 msgstr ""
 
 #. no-translate
 msgid "Prolog"
 msgstr ""
 
-#. no-translate
 msgid "Lisp"
 msgstr ""
 
@@ -757,12 +780,13 @@ msgstr ""
 msgid "HMC"
 msgstr ""
 
+#. no-translate
 msgid "Linux (installed on bare metal)"
 msgstr ""
 
 msgid ""
-"AI must be mentioned. In which language(s) you can work with data models on "
-"s390x using hardware exploitation (multiple choices):"
+"AI must be mentioned :) In which language(s) can’t you work with data models "
+"on s390x using hardware exploitation?"
 msgstr ""
 
 #. no-translate
@@ -777,19 +801,17 @@ msgstr ""
 msgid "Java"
 msgstr ""
 
-msgid "Which I/O-Devices does a Mainframe have (multiple choices)?"
+msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgstr ""
 
 msgid "Disks"
 msgstr ""
 
-#. no-translate
-msgid "Bluetooth"
-msgstr ""
-
-#. no-translate
-msgid "USB"
+msgid "Tape drives"
 msgstr ""
 
 msgid "Network"
+msgstr ""
+
+msgid "Bluetooth"
 msgstr ""
