@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-02 15:51+0000\n"
+"PO-Revision-Date: 2025-06-02 16:13+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -27,10 +27,8 @@ msgstr "Turečtina"
 msgid "lang_name_de"
 msgstr "Němčina"
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_ca"
-msgstr "Čeština"
+msgstr "Katalánština"
 
 msgid "Stats"
 msgstr "Statistiky"
@@ -629,10 +627,10 @@ msgid "In the IRC chat"
 msgstr "Na IRC chatu"
 
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x Expert"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "Kvíz pro přátele mainframů a exotických architektur."
 
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr "Jaký je rozdíl mezi Big Endian a Little Endian?"
@@ -649,10 +647,8 @@ msgstr "Jde o řazení bajtů; s390x je Little Endian"
 msgid "It’s not used anymore, s390x are Bi-endianess"
 msgstr "Toto rozlišování je již zastaralé, s390x je BI-endian"
 
-#, fuzzy
-#| msgid "DASD is:"
 msgid "DASD is?"
-msgstr "DASD je:"
+msgstr "DASD je?"
 
 msgid "A German word"
 msgstr "Německé slovo"
@@ -666,10 +662,8 @@ msgstr "Je to nadávka, kterou často používají s390x administrátoři"
 msgid "A scsi disk"
 msgstr "scsi disk"
 
-#, fuzzy
-#| msgid "HMC is:"
 msgid "HMC is?"
-msgstr "HMC je:"
+msgstr "HMC je?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, trochu více přátelský Midnight Commander"
@@ -684,10 +678,8 @@ msgstr "Příkaz pro listování hardwarových síťových adres."
 msgid "A hidden module control unit"
 msgstr "Skrytý kontrolní modul (Hidden Module Control unit)"
 
-#, fuzzy
-#| msgid "z/VM is:"
 msgid "z/VM is?"
-msgstr "z/VM je:"
+msgstr "z/VM je?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
 msgstr "Virtuální stroj na Z (myšleno s390x)"
@@ -701,10 +693,8 @@ msgstr "Prohlížeč vzdálené plochy"
 msgid "Zombie Virtual Memory"
 msgstr "Zombie Virtual Memory"
 
-#, fuzzy
-#| msgid "Storage in mainframe world means:"
 msgid "What does storage mean in the mainframe world?"
-msgstr "Storage ve světě mainframů znamená:"
+msgstr "Uložiště (Storage) ve světě mainframů znamená?"
 
 msgid "Memory (RAM)"
 msgstr "Operační paměť (RAM)"
@@ -718,10 +708,8 @@ msgstr "Místnost kde je mainframe umístěný"
 msgid "Compartment within a mainframe where the disks are located"
 msgstr "Přihrádka v mainframe, kde jsou umístěny disky"
 
-#, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is x3270?"
-msgstr "Co je Leap 16.0?"
+msgstr "Co je x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr "Speciální kódování souborů, které je pro soubory na S390X nutností"
@@ -735,10 +723,8 @@ msgstr "Hexa kód použitý jako výchozí heslo administátora"
 msgid "None of these ridiculous choices"
 msgstr "Žádná z těchto absurdní voleb"
 
-#, fuzzy
-#| msgid "IPL 150 means"
 msgid "What does IPL 150 mean?"
-msgstr "IPL 150 znamená"
+msgstr "Co znamená IPL 150?"
 
 msgid "Give me additional 150MB of memory"
 msgstr "Dej mi dodatečných 150MB operační paměti"
@@ -754,10 +740,8 @@ msgstr "Nabootuj z disku 150."
 msgid "Install Python Libraries version 1.5.0"
 msgstr "Nainstaluj Pythonní knihovny verze 1.5.0"
 
-#, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is IFL?"
-msgstr "Co je Leap 16.0?"
+msgstr "Co je IFL?"
 
 msgid "A variant of lung disease"
 msgstr "Varianta plicní choroby"
@@ -772,10 +756,8 @@ msgstr "Vymyšlené slovo pro zmatení uživatelů laptopů"
 msgid "Integrated FLat circuit"
 msgstr "Integrated FLat circuit"
 
-#, fuzzy
-#| msgid "cio_ignore is"
 msgid "What is cio_ignore?"
-msgstr "cio_ignore je"
+msgstr "Co je cio_ignore?"
 
 msgid "A command masking visibility of devices"
 msgstr "Příkaz maskující viditelnost zařízení"
@@ -789,10 +771,8 @@ msgstr "Ve skutečnosti to znamená ignoruj CIO"
 msgid "A z/VM syslog filter"
 msgstr "z/VM syslog filtr"
 
-#, fuzzy
-#| msgid "Operating system on s390x is administered via:"
 msgid "How is the operating system on s390x administered?"
-msgstr "Operační systém je na s390x spravován skrze:"
+msgstr "Skrze co je spravován Operační systém je na s390x?"
 
 #. no-translate
 msgid "Prolog"
@@ -803,22 +783,18 @@ msgstr "Lisp"
 
 #. no-translate
 msgid "HMC"
-msgstr ""
+msgstr "HMC"
 
 #. no-translate
 msgid "Linux (installed on bare metal)"
 msgstr "Linux (nainstalovaný na holém železe)"
 
-#, fuzzy
-#| msgid ""
-#| "AI must be mentioned. In which language(s) you can work with data models "
-#| "on s390x using hardware exploitation (multiple choices):"
 msgid ""
 "AI must be mentioned :) In which language(s) can’t you work with data models "
 "on s390x using hardware exploitation?"
 msgstr ""
-"Je nutné zmínit umělou inteligenci. Ve kterém(ých) jazyce(ech) lze pracovat "
-"s datovými modely na S390X s využitím hardwarového využití (více možností):"
+"Je nutné zmínit umělou inteligenci. Ve kterém(ých) jazyce(ech) nelze "
+"pracovat s datovými modely na S390X s využitím hardwarového využití?"
 
 #. no-translate
 msgid "C/C++"
@@ -826,181 +802,171 @@ msgstr "C/C++"
 
 #. no-translate
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #. no-translate
 msgid "Java"
-msgstr ""
+msgstr "Java"
 
-#, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
 msgid ""
 "Which of the following I/O devices is typically not used with mainframes?"
-msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+msgstr ""
+"Které z následujících I/O zařízení se obvykle nepoužívá u sálových počítačů?"
 
 msgid "Disks"
 msgstr "Disky"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Páskové zařízení"
 
 msgid "Network"
 msgstr "Síť"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Zábava s Chameleony pro děti!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Barevný kvíz o chameleonech a openSUSE pro zvídavé děti!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Do jaké barvy se může chameleon proměnit?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Pouze do zelené"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Do jakákoliv barvy, dokonce i fialové!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Do různých barvev jako zelené, hnědé, žluté"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Pouze do bilé a černé"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the mascot of openSUSE?"
-msgstr "Jaký je maskot projektu openSUSE?"
+msgstr "Co je maskotem openSUSE?"
 
 #. no-translate
 msgid "A penguin"
-msgstr ""
+msgstr "Tučnák"
 
 #. no-translate
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Chameleon, který se jmenuje Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Drak"
 
 msgid "A robot"
-msgstr ""
+msgstr "Robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Proč mění chameleoni barvu?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Aby ukázali, jak se cítí, nebo aby se skryli"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Protože se nudí"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Protože jsou to chladnokrevní roboti"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Aby svítili ve tmě"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Jak chameleoni chytají svou potravu?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "S jejich rukama"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "S jejich dlouhým lepkavým jazykem"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Tím, že na ní pořvávájí"
 
 msgid "With a net"
-msgstr ""
+msgstr "Chytají ji do sítě"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Co chameleoni jedí?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Zmrzlinu"
 
 msgid "Insects"
-msgstr ""
+msgstr "Hmyz"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Ananasy"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Párky v rohlíku"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What makes openSUSE special?"
-msgstr "Jaký je maskot projektu openSUSE?"
+msgstr "Čím je maskot openSUSE jedinečný?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Může mluvit se zvířaty"
 
-#, fuzzy
-#| msgid "A free software for configuration of operating system"
 msgid "It’s a powerful and free operating system"
-msgstr "Svobodný software pro konfiguraci operačního systému"
+msgstr "Je to výkonný operační systém, který je zdarma"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Je vyroben z chameleonových šupin"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Je pouze pro tajné agenty"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Vypadají všichni chameleoni stejně?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Ano, včichni jsou zelení a mrzutí"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Ne, mají mnoho tvarů, velikostí a barev"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Ano, všichni nosí klobouky"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Všichni nosí openSUSE nálepky"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr "Jaký je maskot projektu openSUSE?"
+msgstr "Co znamená slovo 'open' (otevřený) v openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Je to heslo"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Znamená to, že jej může používat každý a pomáhat s jeho vylepšením"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Je pouze pro otevírání dveří"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Jde o otevírání obalů od bonbonů"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Mohou chameleoni pohybovat očima odděleně?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Ne, mrkají oběma očima najednou"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Ano, můžou se dívat dvěma směry najednou!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Zavírají jedno oko, když spí"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Ne, jejich oči jsou pořád zavřené"
 
 #~ msgid "x3270 means:"
 #~ msgstr "x3270 znamená:"
