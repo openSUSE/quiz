@@ -72,19 +72,30 @@ msgstr "openSUSE Soruları"
 msgid "Available quizzes"
 msgstr "Mevcut Sınavlar"
 
+#. Quiz metadata
 msgid "openSUSE Expert"
 msgstr "openSUSE Uzman"
 
-msgid "Devconf 2025"
-msgstr "Devconf 2025"
-
-msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgid ""
+"Challenge other users in our leaderboard. 30 seconds per question. Stop "
+"anytime."
 msgstr ""
-"Endişelenmeyin bu sınav çoğunlukla eğitici. Tüm cevapları bilmenize gerek "
-"yok."
 
+#. Questions
 msgid "What is the mascot of openSUSE project?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
+
+#. no-translate
+msgid "TwoPac"
+msgstr ""
+
+#. no-translate
+msgid "Geeko"
+msgstr ""
+
+#. no-translate
+msgid "BeefyMiracle"
+msgstr ""
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr "OpenSUSE projesinin temel amacı nedir?"
@@ -107,7 +118,9 @@ msgstr "Aeon ve Kalpa nedir?"
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "GNOME ve KDE ile modern 'Değiştirilemez' masaüstleri"
 
-msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgid ""
+"Rolling distributions with transactional updates using flatpaks on the "
+"desktop"
 msgstr ""
 "Masaüstünde flatpak kullanarak \"işlemsel güncelleme\" yapabilen sürekli "
 "güncellenen dağıtımlardır"
@@ -130,16 +143,52 @@ msgstr "2005 yılındaki San Francisco'daki LinuxWorld Konferansı ve Fuarı"
 msgid "In Redmont"
 msgstr "Redmont"
 
-msgid "At the University of Helsinky"
+#, fuzzy
+#| msgid "At the University of Helsinky"
+msgid "At the University of Helsinki"
 msgstr "Helsinky Üniversitesi"
 
 msgid "What is the default filesystem in openSUSE?"
 msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
 
+#. no-translate
+msgid "ReiserFS"
+msgstr ""
+
+#. no-translate
+msgid "Btrfs"
+msgstr ""
+
+#. no-translate
+msgid "XFS"
+msgstr ""
+
+#. no-translate
+msgid "InterPlanetary File System"
+msgstr ""
+
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
 
-msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+#. no-translate
+msgid "Sypper"
+msgstr ""
+
+#. no-translate
+msgid "Agama"
+msgstr ""
+
+#. no-translate
+msgid "Anaconda"
+msgstr ""
+
+#. no-translate
+msgid "Cayman"
+msgstr ""
+
+msgid ""
+"Which openSUSE distribution is optimized for running containers and micro "
+"services?"
 msgstr ""
 "Hangi openSUSE dağıtımı konteyner ve mikro servisleri çalıştırmak için "
 "optimize edilmiştir?"
@@ -147,15 +196,62 @@ msgstr ""
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS ve Leap Micro"
 
+#. no-translate
+msgid "Tumbleweed"
+msgstr ""
+
+#. no-translate
+msgid "Leap"
+msgstr ""
+
+#. no-translate
+msgid "Slowroll"
+msgstr ""
+
+msgid ""
+"Which openSUSE rolling distribution offers a calmer alternative to "
+"Tumbleweed for users who prefer fewer surprises?"
+msgstr ""
+
+#. no-translate
+msgid "Tumblebleed"
+msgstr ""
+
+#. no-translate
+msgid "Leapfrog"
+msgstr ""
+
+#. no-translate
+msgid "Zyppernap"
+msgstr ""
+
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr ""
 "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket "
 "yöneticisidir?"
 
+#. no-translate
+msgid "Yum"
+msgstr ""
+
+#. no-translate
+msgid "DNF"
+msgstr ""
+
+#. no-translate
+msgid "Zypper"
+msgstr ""
+
+#. no-translate
+msgid "Pacman"
+msgstr ""
+
 msgid "What is Leap 16.0?"
 msgstr "Leap 16.0 nedir ?"
 
-msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgid ""
+"A traditional Linux distribution, the successor to Leap 15.6, released in "
+"Fall 2025"
 msgstr ""
 "Leap 15.6'nın halefi olan ve 2025 Sonbaharında piyasaya sürülen geleneksel "
 "bir Linux dağıtımı"
@@ -168,3 +264,370 @@ msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
 
 msgid "A container-focused system like MicroOS"
 msgstr "MicroOS gibi konteyner odaklı bir sistem"
+
+msgid "Which desktop environment is the default for openSUSE Leap 15?"
+msgstr ""
+
+#. no-translate
+msgid "GNOME"
+msgstr ""
+
+#. no-translate
+msgid "KDE Plasma"
+msgstr ""
+
+#. no-translate
+msgid "Xfce"
+msgstr ""
+
+msgid "There is no default. We leave choice to the user."
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the main goal of the openSUSE project?"
+msgid "What is the name of the openSUSE build system?"
+msgstr "OpenSUSE projesinin temel amacı nedir?"
+
+#. no-translate
+msgid "OBS (Open Build Service)"
+msgstr ""
+
+#. no-translate
+msgid "Weblate"
+msgstr ""
+
+#. no-translate
+msgid "Koji"
+msgstr ""
+
+#. no-translate
+msgid "Autobuilder"
+msgstr ""
+
+msgid ""
+"How can you make changes to a root partition on a transactional-update based "
+"system?"
+msgstr ""
+
+msgid "Use transactional-update command and reboot into a new snapshot"
+msgstr ""
+
+msgid "By using sudo-sudo to gain giga privileges"
+msgstr ""
+
+msgid "By using Salt or Ansible"
+msgstr ""
+
+msgid "You have to edit files under a user netrunner and cross fingers"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is Leap 16.0?"
+msgid "What is 'YaST'?"
+msgstr "Leap 16.0 nedir ?"
+
+msgid "A chameleon species native to Africa"
+msgstr ""
+
+msgid "A free software for configuration of operating system"
+msgstr ""
+
+msgid "The default web browser"
+msgstr ""
+
+msgid "A programming language"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the main goal of the openSUSE project?"
+msgid "What is the primary goal of the openSUSE Aeon distribution?"
+msgstr "OpenSUSE projesinin temel amacı nedir?"
+
+msgid "A modern transactional-desktop system with GNOME"
+msgstr ""
+
+msgid "Scientific research"
+msgstr ""
+
+msgid "Containerization"
+msgstr ""
+
+msgid "Enterprise use"
+msgstr ""
+
+msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
+msgstr ""
+
+#. no-translate
+msgid "Rancher Academy"
+msgstr ""
+
+#. no-translate
+msgid "Cow College"
+msgstr ""
+
+#. no-translate
+msgid "Moo University"
+msgstr ""
+
+#. no-translate
+msgid "Cowboy Hat"
+msgstr ""
+
+msgid "Chameleons are primarily found in which part of the world?"
+msgstr ""
+
+msgid "South America"
+msgstr ""
+
+msgid "Africa and Madagascar"
+msgstr ""
+
+msgid "Southeast Asia"
+msgstr ""
+
+msgid "Antarctica"
+msgstr ""
+
+msgid "Where can you check the current status of openSUSE infrastructure?"
+msgstr ""
+
+#. no-translate
+msgid "status.opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "isopensusedown.com"
+msgstr ""
+
+#. no-translate
+msgid "yast-status-viewer"
+msgstr ""
+
+#. no-translate
+msgid "zypper up --ping"
+msgstr ""
+
+msgid ""
+"Where can you install additional packages or packages with changes that "
+"didn't make it into the main distribution?"
+msgstr ""
+
+msgid "With a single click from software.opensuse.org"
+msgstr ""
+
+msgid "By browsing the myriad of projects on OBS build.opensuse.org"
+msgstr ""
+
+msgid "Through command opi, from the Packman repository or from Flathub"
+msgstr ""
+
+msgid ""
+"When submitting packages to openSUSE, where do you send them "
+"(metaphorically)?"
+msgstr ""
+
+msgid "build.opensuse.org, not a carrier pigeon"
+msgstr ""
+
+msgid "To the cloud (literally)"
+msgstr ""
+
+msgid "By email to the Geeko mascot"
+msgstr ""
+
+msgid "Via smoke signals from Nuremberg"
+msgstr ""
+
+#, fuzzy
+#| msgid "What’s the name of the new installer in Leap 16?"
+msgid "What is the name of the new package manager GUI replacing YaST?"
+msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
+
+#. no-translate
+msgid "Gandalf"
+msgstr ""
+
+#. no-translate
+msgid "Zypperella"
+msgstr ""
+
+#. no-translate
+msgid "Myrlyn"
+msgstr ""
+
+#. no-translate
+msgid "DnfDumbledore"
+msgstr ""
+
+msgid "How often does openSUSE Leap release a new stable version?"
+msgstr ""
+
+msgid "Every 5 years when the stars align"
+msgstr ""
+
+msgid "Monthly, to keep everyone on their toes"
+msgstr ""
+
+msgid "Annually"
+msgstr ""
+
+msgid "Every time a tumbleweed rolls by"
+msgstr ""
+
+msgid "Which openSUSE mailing list is focused on development discussions?"
+msgstr ""
+
+#. no-translate
+msgid "factory@lists.opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "support@opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "users@opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "fun@opensuse.org"
+msgstr ""
+
+msgid ""
+"openSUSE's build service allows you to build packages for how many different "
+"distributions?"
+msgstr ""
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "Just openSUSE Leap"
+msgstr "openSUSE Uzman"
+
+msgid "Over 100, including Fedora and Debian"
+msgstr ""
+
+msgid "Only Tumbleweed"
+msgstr ""
+
+msgid "None, it only builds source code"
+msgstr ""
+
+msgid "openSUSE Leap is based on which upstream distribution?"
+msgstr ""
+
+#. no-translate
+msgid "Fedora"
+msgstr ""
+
+#. no-translate
+msgid "Debian"
+msgstr ""
+
+msgid "SUSE Linux Enterprise"
+msgstr ""
+
+#. no-translate
+msgid "Arch Linux"
+msgstr ""
+
+msgid "Which tool does openSUSE use for system snapshots and rollback?"
+msgstr ""
+
+#. no-translate
+#, fuzzy
+#| msgid "Time left"
+msgid "Timeshift"
+msgstr "Zaman kaldı"
+
+#. no-translate
+msgid "Snapper"
+msgstr ""
+
+#. no-translate
+msgid "Btrfs Manager"
+msgstr ""
+
+#. no-translate
+msgid "Rollbackinator"
+msgstr ""
+
+msgid "What command can you use to refresh zypper repositories?"
+msgstr ""
+
+#. no-translate
+msgid "zypper refresh"
+msgstr ""
+
+#. no-translate
+msgid "zypper update"
+msgstr ""
+
+#. no-translate
+msgid "zypper reload"
+msgstr ""
+
+#. no-translate
+msgid "zypper repolist"
+msgstr ""
+
+msgid "Where can you submit bug reports related to openSUSE packages?"
+msgstr ""
+
+#. no-translate
+msgid "bugzilla.opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "issues.opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "bugs.opensuse.com"
+msgstr ""
+
+#. no-translate
+msgid "bugs.opensuse.net"
+msgstr ""
+
+msgid ""
+"Which openSUSE service mirrors openSUSE software repositories worldwide?"
+msgstr ""
+
+#. no-translate
+msgid "mirror.opensuse.org"
+msgstr ""
+
+#. no-translate
+msgid "mirror.opensuse.net"
+msgstr ""
+
+#. no-translate
+msgid "mirrors.opensuse.com"
+msgstr ""
+
+msgid "Where can you help translate this quiz?"
+msgstr ""
+
+msgid "At the openSUSE forum"
+msgstr ""
+
+msgid "On GitHub issues"
+msgstr ""
+
+#. no-translate
+msgid "https://l10n.opensuse.org/projects/quiz/"
+msgstr ""
+
+msgid "In the IRC chat"
+msgstr ""
+
+#~ msgid "Devconf 2025"
+#~ msgstr "Devconf 2025"
+
+#~ msgid ""
+#~ "Don't worry this quiz is mostly educational. No need to know all the "
+#~ "answers."
+#~ msgstr ""
+#~ "Endişelenmeyin bu sınav çoğunlukla eğitici. Tüm cevapları bilmenize gerek "
+#~ "yok."
