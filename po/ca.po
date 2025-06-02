@@ -921,7 +921,7 @@ msgstr ""
 
 #, fuzzy
 #| msgid "A free software for configuration of operating system"
-msgid "It’s a powerful and free operating system"
+msgid "It’s a free modern, and secure operating system anyone can use"
 msgstr "Un programari gratuït per a la configuració del sistema operatiu"
 
 msgid "It’s made of chameleon scales"

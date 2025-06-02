@@ -914,7 +914,9 @@ msgstr "Čím je openSUSE jedinečné?"
 msgid "It can talk to animals"
 msgstr "Umí mluvit se zvířaty"
 
-msgid "It’s a powerful and free operating system"
+#, fuzzy
+#| msgid "It’s a powerful and free operating system"
+msgid "It’s a free modern, and secure operating system anyone can use"
 msgstr "Je to výkonný operační systém, který je zdarma"
 
 msgid "It’s made of chameleon scales"

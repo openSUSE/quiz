@@ -932,7 +932,7 @@ msgstr "OpenSUSE projesinin maskotu nedir?"
 msgid "It can talk to animals"
 msgstr ""
 
-msgid "It’s a powerful and free operating system"
+msgid "It’s a free modern, and secure operating system anyone can use"
 msgstr ""
 
 msgid "It’s made of chameleon scales"
