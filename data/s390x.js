@@ -26,7 +26,7 @@ const questions = [
     ],
   },
   {
-    text: "DASD is:",
+    text: "DASD is?",
     type: "mc",
     answers: [
       { text: "A German word", correct: false },
@@ -39,7 +39,7 @@ const questions = [
     ],
   },
   {
-    text: "HMC is:",
+    text: "HMC is?",
     type: "mc",
     answers: [
       {
@@ -58,7 +58,7 @@ const questions = [
     ],
   },
   {
-    text: "z/VM is:",
+    text: "z/VM is?",
     type: "mc",
     answers: [
       { text: "Virtual Machine on Z (meaning s390x)", correct: true },
@@ -71,7 +71,7 @@ const questions = [
     ],
   },
   {
-    text: "Storage in mainframe world means:",
+    text: "What does storage mean in the mainframe world?",
     type: "mc",
     answers: [
       { text: "Memory (RAM)", correct: false },
@@ -84,7 +84,7 @@ const questions = [
     ],
   },
   {
-    text: "x3270 means:",
+    text: "What is x3270?",
     type: "mc",
     answers: [
       {
@@ -100,7 +100,7 @@ const questions = [
     ],
   },
   {
-    text: "IPL 150 means",
+    text: "What does IPL 150 mean?",
     type: "mc",
     answers: [
       { text: "Give me additional 150MB of memory", correct: false },
@@ -110,7 +110,7 @@ const questions = [
     ],
   },
   {
-    text: "IFL is",
+    text: "What is IFL?",
     type: "mc",
     answers: [
       { text: "A variant of lung disease", correct: false },
@@ -120,7 +120,7 @@ const questions = [
     ],
   },
   {
-    text: "cio_ignore is",
+    text: "What is cio_ignore?",
     type: "mc",
     answers: [
       { text: "A command masking visibility of devices", correct: true },
@@ -133,7 +133,7 @@ const questions = [
     ],
   },
   {
-    text: "Operating system on s390x is administered via:",
+    text: "How is the operating system on s390x administered?",
     type: "mc",
     answers: [
       { text: "Prolog", correct: false },
@@ -143,7 +143,7 @@ const questions = [
     ],
   },
   {
-    text: "AI must be mentioned. In which language(s) you can work with data models on s390x using hardware exploitation (multiple choices):",
+    text: "AI must be mentioned :) In which language(s) can’t you work with data models on s390x using hardware exploitation?",
     type: "mc",
     answers: [
       { text: "Prolog", correct: false },
@@ -153,13 +153,13 @@ const questions = [
     ],
   },
   {
-    text: "Which I/O-Devices does a Mainframe have (multiple choices)?",
+    text: "Which of the following I/O devices is typically not used with mainframes?",
     type: "mc",
     answers: [
-      { text: "Disks", correct: true },
-      { text: "Bluetooth", correct: false },
-      { text: "USB", correct: false },
-      { text: "Network", correct: true },
+      { text: "Disks", correct: false },
+      { text: "Tape drives", correct: false },
+      { text: "Network", correct: false },
+      { text: "Bluetooth", correct: true },
     ],
   },
 ];
