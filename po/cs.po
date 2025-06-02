@@ -651,7 +651,6 @@ msgstr ""
 msgid "In the IRC chat"
 msgstr ""
 
-
 #~ msgid "Pascal"
 #~ msgstr "Pascal"
 
