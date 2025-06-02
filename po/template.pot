@@ -13,10 +13,10 @@ msgid "Language"
 msgstr ""
 
 msgid "lang_name_en"
-msgstr ""
+msgstr "English"
 
 msgid "lang_name_cs"
-msgstr ""
+msgstr "Čeština"
 
 msgid "Stats"
 msgstr ""

@@ -72,12 +72,11 @@ const quizzes = quizFileDir.map((file) => {
 
 async function loadTranslations(lang) {
   const { po } = await import("gettext-parser");
-  const filePath = path.join(
-    consts.DATA_DIR_BASEPATH,
-    "..",
-    "po",
-    `${lang}.po`,
-  );
+
+  // Special case for English – map 'en' to 'template.pot'
+  const filename = lang === "en" ? "template.pot" : `${lang}.po`;
+  const filePath = path.join(consts.DATA_DIR_BASEPATH, "..", "po", filename);
+
   if (fs.existsSync(filePath)) {
     const poFileContent = fs.readFileSync(filePath);
     const translations = po.parse(poFileContent);

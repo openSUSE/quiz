@@ -118,7 +118,7 @@ const questions = [
       { text: "Only if you summon the gaming gods", correct: false },
       { text: "You need a secret handshake first", correct: false },
     ],
-  }
+  },
 ];
 
 // Randomize questions here if enabled
