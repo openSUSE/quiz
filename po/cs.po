@@ -12,17 +12,21 @@ msgstr ""
 msgid "Language"
 msgstr "Jazyk"
 
+#. no-translate
 msgid "lang_name_en"
 msgstr "Angličtina"
 
+#. no-translate
 msgid "lang_name_cs"
 msgstr "Čeština"
 
+#. no-translate
 #, fuzzy
 #| msgid "lang_name_en"
 msgid "lang_name_tr"
 msgstr "Angličtina"
 
+#. no-translate
 msgid "lang_name_de"
 msgstr "Němčina"
 

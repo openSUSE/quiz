@@ -15,15 +15,19 @@ msgstr ""
 msgid "Language"
 msgstr "Dil"
 
+#. no-translate
 msgid "lang_name_en"
 msgstr "İngilizce"
 
+#. no-translate
 msgid "lang_name_cs"
 msgstr "Çekçe"
 
+#. no-translate
 msgid "lang_name_tr"
 msgstr "Türkçe"
 
+#. no-translate
 msgid "lang_name_de"
 msgstr "Almanca"
 
