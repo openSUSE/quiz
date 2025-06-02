@@ -3,155 +3,168 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-02 07:52+0000\n"
+"Last-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\n"
+"Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 msgid "lang_name_en"
-msgstr ""
+msgstr "İngilizce"
 
 msgid "lang_name_cs"
-msgstr ""
+msgstr "Çekçe"
 
 msgid "Stats"
-msgstr ""
+msgstr "İstatistikler"
 
 msgid "Start"
-msgstr ""
+msgstr "Başla"
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Next"
-msgstr ""
+msgstr "Sonraki"
 
 msgid "Time left"
-msgstr ""
+msgstr "Zaman kaldı"
 
 msgid "Back to Main Page"
-msgstr ""
+msgstr "Ana sayfaya geri dön"
 
 msgid "Nickname"
-msgstr ""
+msgstr "Takma Ad"
 
 msgid "Score"
-msgstr ""
+msgstr "Skor"
 
 msgid "Correct"
-msgstr ""
+msgstr "Doğru"
 
 msgid "Wrong"
-msgstr ""
+msgstr "Yanlış"
 
 msgid "Submit"
-msgstr ""
+msgstr "Gönder"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Gönder ve Çık"
 
 msgid "Quit"
-msgstr ""
+msgstr "Çıkış"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Çıkıp cevapları göndermek istediğinizden emin misiniz?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek."
 
 msgid "openSUSE Quizzes"
-msgstr ""
+msgstr "openSUSE Soruları"
 
 msgid "Available quizzes"
-msgstr ""
+msgstr "Mevcut Sınavlar"
 
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "openSUSE Uzman"
 
 msgid "Devconf 2025"
-msgstr ""
+msgstr "Devconf 2025"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr ""
+"Endişelenmeyin bu sınav çoğunlukla eğitici. Tüm cevapları bilmenize gerek "
+"yok."
 
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "OpenSUSE projesinin temel amacı nedir?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Açık kaynaklı yazılımların desteklenmesi ve yaygınlaştırılması"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Mobil uygulama geliştirme"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Video oyunları üretmek"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Yapay zeka alanında araştırmak yapmak"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Aeon ve Kalpa nedir?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "GNOME ve KDE ile modern 'Değiştirilemez' masaüstleri"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
 msgstr ""
+"Masaüstünde flatpak kullanarak \"işlemsel güncelleme\" yapabilen sürekli "
+"güncellenen dağıtımlardır"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "MicroOS üzerine inşa edilen dağıtımlar"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Tüm seçenekler doğrudur"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "OpenSUSE projesi nerede kuruldu?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "Choustníkovo Hradiště'de"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "2005 yılındaki San Francisco'daki LinuxWorld Konferansı ve Fuarı"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "Redmont"
 
 msgid "At the University of Helsinky"
-msgstr ""
+msgstr "Helsinky Üniversitesi"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgstr ""
+"Hangi openSUSE dağıtımı konteyner ve mikro servisleri çalıştırmak için "
+"optimize edilmiştir?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS ve Leap Micro"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr ""
+"Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket "
+"yöneticisidir?"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Leap 16.0 nedir ?"
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
 msgstr ""
+"Leap 15.6'nın halefi olan ve 2025 Sonbaharında piyasaya sürülen geleneksel "
+"bir Linux dağıtımı"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "GNOME ve KDE ile değiştirilemez bir dağıtım"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "MicroOS gibi konteyner odaklı bir sistem"
