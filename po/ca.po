@@ -3,374 +3,390 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-02 14:36+0000\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Language"
-msgstr ""
+msgstr "Llengua"
 
 #. no-translate
 msgid "lang_name_en"
-msgstr ""
+msgstr "lang_name_en"
 
 #. no-translate
 msgid "lang_name_cs"
-msgstr ""
+msgstr "lang_name_cs"
 
 #. no-translate
 msgid "lang_name_tr"
-msgstr ""
+msgstr "lang_name_tr"
 
 #. no-translate
 msgid "lang_name_de"
-msgstr ""
+msgstr "lang_name_de"
 
 msgid "Stats"
-msgstr ""
+msgstr "Estat"
 
 msgid "Start"
-msgstr ""
+msgstr "Inicia"
 
 msgid "Back"
-msgstr ""
+msgstr "Enrere"
 
 msgid "Next"
-msgstr ""
+msgstr "Següent"
 
 msgid "Time left"
-msgstr ""
+msgstr "Temps restant"
 
 msgid "Back to Main Page"
-msgstr ""
+msgstr "Torna a la pàgina principal"
 
 msgid "Nickname"
-msgstr ""
+msgstr "Sobrenom"
 
 msgid "Score"
-msgstr ""
+msgstr "Puntuació"
 
 msgid "Correct"
-msgstr ""
+msgstr "Correcte"
 
 msgid "Wrong"
-msgstr ""
+msgstr "Incorrecte"
 
 msgid "Submit"
-msgstr ""
+msgstr "Envia"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Envia i surt"
 
 msgid "Quit"
-msgstr ""
+msgstr "Surt"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Segur que ho voleu enviar i sortir-ne?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 
 msgid "openSUSE Quizzes"
-msgstr ""
+msgstr "Qüestionaris d'openSUSE"
 
 msgid "Available quizzes"
-msgstr ""
+msgstr "Qüestionaris disponibles"
 
 #. Quiz metadata
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "Expert d'openSUSE"
 
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
 "anytime."
 msgstr ""
+"Desafieu altres usuaris a la nostra taula de classificació. 30 segons per "
+"pregunta. Atureu-vos en qualsevol moment."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Quina és la mascota del projecte openSUSE?"
 
 #. no-translate
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 #. no-translate
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 #. no-translate
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "Quin és l'objectiu principal del projecte openSUSE?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Suport i difusió de programari de codi obert"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Desenvolupament d'aplicacions mòbils"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Producció de videojocs"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Recerca en intel·ligència artificial"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Què són Aeon i Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Escriptoris moderns immutables amb GNOME i KDE"
 
 msgid ""
 "Rolling distributions with transactional updates using flatpaks on the "
 "desktop"
 msgstr ""
+"Distribucions progressives amb actualitzacions transaccionals mitjançant "
+"flatpaks a l'escriptori"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "Distribucions creades sobre MicroOS"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Totes les opcions són correctes"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "On es va fundar el projecte openSUSE?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "A Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "A la conferència i exposició LinuxWorld de 2005 a San Francisco"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "A Redmont"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "A la Universitat de Hèlsinki"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
 
 #. no-translate
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 #. no-translate
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 #. no-translate
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 #. no-translate
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "Sistema de fitxers interplanetari"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Com es diu l'instal·lador nou del Leap 16?"
 
 #. no-translate
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 #. no-translate
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 #. no-translate
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 #. no-translate
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid ""
 "Which openSUSE distribution is optimized for running containers and micro "
 "services?"
 msgstr ""
+"Quina distribució d'openSUSE està optimitzada per executar contenidors i "
+"microserveis?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroSO i Leap Micro"
 
 #. no-translate
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 #. no-translate
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 #. no-translate
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid ""
 "Which openSUSE rolling distribution offers a calmer alternative to "
 "Tumbleweed for users who prefer fewer surprises?"
 msgstr ""
+"Quina distribució progressiva d'openSUSE ofereix una alternativa més "
+"tranquil·la respecte del Tumbleweed per als usuaris que prefereixen menys "
+"sorpreses?"
 
 #. no-translate
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 #. no-translate
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 #. no-translate
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
+msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
 
 #. no-translate
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 #. no-translate
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 #. no-translate
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 #. no-translate
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Què és Leap 16.0?"
 
 msgid ""
 "A traditional Linux distribution, the successor to Leap 15.6, released in "
 "Fall 2025"
 msgstr ""
+"Una distribució tradicional de Linux, la successora de Leap 15.6, publicada "
+"a la tardor de 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "Una distribució immutable amb GNOME i KDE"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "Una versió contínua per a dispositius mòbils"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "Un sistema centrat en contenidors com ara MicroSO"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
 
 #. no-translate
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #. no-translate
 msgid "KDE Plasma"
-msgstr ""
+msgstr "Plasma, de KDE"
 
 #. no-translate
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "No hi ha cap valor per defecte. Deixem que l'usuari triï."
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
 
 #. no-translate
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Servei de construcció obert)"
 
 #. no-translate
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 #. no-translate
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 #. no-translate
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autoconstructor"
 
 msgid ""
 "How can you make changes to a root partition on a transactional-update based "
 "system?"
 msgstr ""
+"Com podeu fer canvis en una partició d'arrel en un sistema basat en "
+"actualitzacions transaccionals?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "Useu l'ordre transactional-update i reinicieu en una instantània nova"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Ús de sudo-sudo per obtenir privilegis de giga"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Ús de Salt o Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "Cal editar fitxers amb un usuari de netrunner i creuar els dits."
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "Què és el YaST?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "Una espècie de camaleó originària d'Àfrica"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "Un programari gratuït per a la configuració del sistema operatiu"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "El navegador web predeterminat"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Un llenguatge de programació"
 
 msgid "What is the primary goal of the openSUSE Aeon distribution?"
-msgstr ""
+msgstr "Quin és l'objectiu principal de la distribució openSUSE Aeon?"
 
 msgid "A modern transactional-desktop system with GNOME"
-msgstr ""
+msgstr "Un sistema d'escriptori transaccional modern amb GNOME"
 
 msgid "Scientific research"
-msgstr ""
+msgstr "Investigació científica"
 
 msgid "Containerization"
-msgstr ""
+msgstr "Contenidorització"
 
 msgid "Enterprise use"
-msgstr ""
+msgstr "Ús empresarial"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr ""
+"Quin és el lloc per obtenir informació sobre els projectes de Rancher i SUSE?"
 
 #. no-translate
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Acadèmia de Ranchers"
 
 #. no-translate
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 #. no-translate
 msgid "Moo University"
-msgstr ""
+msgstr "Universitat de Moo"
 
 #. no-translate
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "A quina part del món es troben principalment els camaleons?"
 
 msgid "South America"
-msgstr ""
+msgstr "Amèrica del Sud"
 
 msgid "Africa and Madagascar"
 msgstr ""
