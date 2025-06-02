@@ -72,18 +72,16 @@ msgstr "openSUSE kvízy"
 msgid "Available quizzes"
 msgstr "Dostupné kvízy"
 
-msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
 #. Quiz metadata
 msgid "openSUSE Expert"
 msgstr "openSUSE Expert"
 
-msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
-msgstr "Zapojujte se do soutěže s ostatními uživateli. 30 sekund na otázku. Můžete kdykoli skončit."
+msgid ""
+"Challenge other users in our leaderboard. 30 seconds per question. Stop "
+"anytime."
+msgstr ""
+"Zapojujte se do soutěže s ostatními uživateli. 30 sekund na otázku. Můžete "
+"kdykoli skončit."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
@@ -126,8 +124,12 @@ msgstr "Co jsou Aeon a Kalpa?"
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "Moderní 'Immutable' desktopové systémy s GNOME a KDE"
 
-msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Rolling distribuce s transakčními aktualizacemi používající flatpaky na desktopu"
+msgid ""
+"Rolling distributions with transactional updates using flatpaks on the "
+"desktop"
+msgstr ""
+"Rolling distribuce s transakčními aktualizacemi používající flatpaky na "
+"desktopu"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Distribuce založené na MicroOS"
@@ -188,8 +190,12 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
-msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
+msgid ""
+"Which openSUSE distribution is optimized for running containers and micro "
+"services?"
+msgstr ""
+"Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro "
+"služeb?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS a Leap Micro"
@@ -206,8 +212,12 @@ msgstr "Leap"
 msgid "Slowroll"
 msgstr "Slowroll"
 
-msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr "Která rolling distribuce openSUSE nabízí klidnější alternativu k Tumbleweed pro uživatele, kteří preferují méně překvapení?"
+msgid ""
+"Which openSUSE rolling distribution offers a calmer alternative to "
+"Tumbleweed for users who prefer fewer surprises?"
+msgstr ""
+"Která rolling distribuce openSUSE nabízí klidnější alternativu k Tumbleweed "
+"pro uživatele, kteří preferují méně překvapení?"
 
 #. no-translate
 msgid "Tumblebleed"
@@ -216,10 +226,6 @@ msgstr "Tumblebleed"
 #. no-translate
 msgid "Leapfrog"
 msgstr "Leapfrog"
-
-#. no-translate
-msgid "Slowroll"
-msgstr "Slowroll"
 
 #. no-translate
 msgid "Zyppernap"
@@ -247,8 +253,11 @@ msgstr "Pacman"
 msgid "What is Leap 16.0?"
 msgstr "Co je Leap 16.0?"
 
-msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
+msgid ""
+"A traditional Linux distribution, the successor to Leap 15.6, released in "
+"Fall 2025"
+msgstr ""
+"Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Immutable distribuce s GNOME a KDE"
@@ -296,8 +305,11 @@ msgstr "Koji"
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
-msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr "Jak můžete provést změny na root oddílu v systému s transactional-update?"
+msgid ""
+"How can you make changes to a root partition on a transactional-update based "
+"system?"
+msgstr ""
+"Jak můžete provést změny na root oddílu v systému s transactional-update?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
 msgstr "Použijte příkaz transactional-update a restartujte do nového snapshotu"
@@ -387,4 +399,5 @@ msgid "isopensusedown.com"
 msgstr "isopensusedown.com"
 
 #. no-translate
-msgid "yast
+msgid "yast"
+msgstr "yast"
