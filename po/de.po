@@ -24,6 +24,11 @@ msgstr "Türkçe"
 msgid "lang_name_de"
 msgstr "Deutsch"
 
+#, fuzzy
+#| msgid "lang_name_tr"
+msgid "lang_name_ca"
+msgstr "Türkçe"
+
 msgid "Stats"
 msgstr ""
 
@@ -603,6 +608,12 @@ msgstr ""
 msgid "In the IRC chat"
 msgstr ""
 
+msgid "s390x Expert"
+msgstr ""
+
+msgid "A quiz for friends of mainframes and exotic architectures."
+msgstr ""
+
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr ""
 
@@ -618,7 +629,7 @@ msgstr ""
 msgid "It’s not used anymore, s390x are Bi-endianess"
 msgstr ""
 
-msgid "DASD is:"
+msgid "DASD is?"
 msgstr ""
 
 msgid "A German word"
@@ -633,7 +644,7 @@ msgstr ""
 msgid "A scsi disk"
 msgstr ""
 
-msgid "HMC is:"
+msgid "HMC is?"
 msgstr ""
 
 msgid "Home mc, just a new friendlier Midnight Commander"
@@ -649,7 +660,7 @@ msgstr ""
 msgid "A hidden module control unit"
 msgstr ""
 
-msgid "z/VM is:"
+msgid "z/VM is?"
 msgstr ""
 
 msgid "Virtual Machine on Z (meaning s390x)"
@@ -664,7 +675,7 @@ msgstr ""
 msgid "Zombie Virtual Memory"
 msgstr ""
 
-msgid "Storage in mainframe world means:"
+msgid "What does storage mean in the mainframe world?"
 msgstr ""
 
 msgid "Memory (RAM)"
@@ -679,7 +690,7 @@ msgstr ""
 msgid "Compartment within a mainframe where the disks are located"
 msgstr ""
 
-msgid "x3270 means:"
+msgid "What is x3270?"
 msgstr ""
 
 msgid "Special file encoding, which is a must for files on s390x"
@@ -694,27 +705,30 @@ msgstr ""
 msgid "None of these ridiculous choices"
 msgstr ""
 
-msgid "IPL 150 means"
+msgid "What does IPL 150 mean?"
 msgstr ""
 
 msgid "Give me additional 150MB of memory"
 msgstr ""
 
+#. no-translate
 msgid "IP to my Linux machine"
 msgstr ""
 
 msgid "Boot from disk 150."
 msgstr ""
 
+#. no-translate
 msgid "Install Python Libraries version 1.5.0"
 msgstr ""
 
-msgid "IFL is"
+msgid "What is IFL?"
 msgstr ""
 
 msgid "A variant of lung disease"
 msgstr ""
 
+#. no-translate
 msgid "A core to run Linux on mainframe"
 msgstr ""
 
@@ -724,7 +738,7 @@ msgstr ""
 msgid "Integrated FLat circuit"
 msgstr ""
 
-msgid "cio_ignore is"
+msgid "What is cio_ignore?"
 msgstr ""
 
 msgid "A command masking visibility of devices"
@@ -739,14 +753,13 @@ msgstr ""
 msgid "A z/VM syslog filter"
 msgstr ""
 
-msgid "Operating system on s390x is administered via:"
+msgid "How is the operating system on s390x administered?"
 msgstr ""
 
 #. no-translate
 msgid "Prolog"
 msgstr ""
 
-#. no-translate
 msgid "Lisp"
 msgstr ""
 
@@ -754,12 +767,13 @@ msgstr ""
 msgid "HMC"
 msgstr ""
 
+#. no-translate
 msgid "Linux (installed on bare metal)"
 msgstr ""
 
 msgid ""
-"AI must be mentioned. In which language(s) you can work with data models on "
-"s390x using hardware exploitation (multiple choices):"
+"AI must be mentioned :) In which language(s) can’t you work with data models "
+"on s390x using hardware exploitation?"
 msgstr ""
 
 #. no-translate
@@ -774,19 +788,161 @@ msgstr ""
 msgid "Java"
 msgstr ""
 
-msgid "Which I/O-Devices does a Mainframe have (multiple choices)?"
+msgid ""
+"Which of the following I/O devices is typically not used with mainframes?"
 msgstr ""
 
 msgid "Disks"
 msgstr ""
 
-#. no-translate
-msgid "Bluetooth"
-msgstr ""
-
-#. no-translate
-msgid "USB"
+msgid "Tape drives"
 msgstr ""
 
 msgid "Network"
+msgstr ""
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Chameleon Fun for kids!"
+msgstr ""
+
+msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
+msgstr ""
+
+msgid "What color can a chameleon turn into?"
+msgstr ""
+
+msgid "Only green"
+msgstr ""
+
+msgid "Any color, even purple!"
+msgstr ""
+
+msgid "Many colors like green, brown, yellow"
+msgstr ""
+
+msgid "Only black and white"
+msgstr ""
+
+msgid "What is the mascot of openSUSE?"
+msgstr ""
+
+#. no-translate
+msgid "A penguin"
+msgstr ""
+
+#. no-translate
+msgid "A chameleon called Geeko"
+msgstr ""
+
+msgid "A dragon"
+msgstr ""
+
+msgid "A robot"
+msgstr ""
+
+msgid "Why do chameleons change color?"
+msgstr ""
+
+msgid "To show how they feel or to hide"
+msgstr ""
+
+msgid "Because they are bored"
+msgstr ""
+
+msgid "Because they are cold-blooded robots"
+msgstr ""
+
+msgid "To glow in the dark"
+msgstr ""
+
+msgid "How do chameleons catch their food?"
+msgstr ""
+
+msgid "With their hands"
+msgstr ""
+
+msgid "With their long sticky tongue"
+msgstr ""
+
+msgid "By shouting at it"
+msgstr ""
+
+msgid "With a net"
+msgstr ""
+
+msgid "What do chameleons eat?"
+msgstr ""
+
+msgid "Ice cream"
+msgstr ""
+
+msgid "Insects"
+msgstr ""
+
+msgid "Pineapples"
+msgstr ""
+
+msgid "Hot dogs"
+msgstr ""
+
+msgid "What makes openSUSE special?"
+msgstr ""
+
+msgid "It can talk to animals"
+msgstr ""
+
+msgid "It’s a powerful and free operating system"
+msgstr ""
+
+msgid "It’s made of chameleon scales"
+msgstr ""
+
+msgid "It’s only for secret agents"
+msgstr ""
+
+msgid "Do all chameleons look the same?"
+msgstr ""
+
+msgid "Yes, they are all green and grumpy"
+msgstr ""
+
+msgid "No, they come in many shapes, sizes, and colors"
+msgstr ""
+
+msgid "Yes, they all wear hats"
+msgstr ""
+
+msgid "They all wear openSUSE stickers"
+msgstr ""
+
+msgid "What does the word 'open' in openSUSE mean?"
+msgstr ""
+
+msgid "It’s a password"
+msgstr ""
+
+msgid "It means everyone can use it and help make it better"
+msgstr ""
+
+msgid "It’s only for opening doors"
+msgstr ""
+
+msgid "It’s about opening candy wrappers"
+msgstr ""
+
+msgid "Can chameleons move their eyes separately?"
+msgstr ""
+
+msgid "No, they blink both eyes together"
+msgstr ""
+
+msgid "Yes, they can look in two directions at once!"
+msgstr ""
+
+msgid "They close one eye when sleeping"
+msgstr ""
+
+msgid "No, their eyes are always closed"
 msgstr ""
