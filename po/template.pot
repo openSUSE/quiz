@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Language"
-msgstr "Language"
+msgstr ""
 
 msgid "lang_name_en"
 msgstr ""
@@ -31,7 +31,7 @@ msgid "Next"
 msgstr ""
 
 msgid "Time left"
-msgstr "Time left"
+msgstr ""
 
 msgid "Back to Main Page"
 msgstr ""
