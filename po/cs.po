@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-02 11:32+0000\n"
+"PO-Revision-Date: 2025-06-02 12:30+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -406,253 +406,226 @@ msgstr "isopensusedown.com"
 
 #. no-translate
 msgid "yast-status-viewer"
-msgstr ""
+msgstr "yast-status-viewer"
 
 #. no-translate
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid ""
 "Where can you install additional packages or packages with changes that "
 "didn't make it into the main distribution?"
 msgstr ""
+"Odkud si můžete nainstalovat dodatečné balíčky nebo balíčky se změnami, "
+"které se nedostaly do hlavní distribuce?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "Jedním klikem na software.opensuse.org"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "Procházením nesčetným počtem projektů v OBS build.opensuse.org"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
+msgstr "Příkazem opi, z Packman repozitáře nebo z Flathubu"
 
 msgid ""
 "When submitting packages to openSUSE, where do you send them "
 "(metaphorically)?"
-msgstr ""
+msgstr "Kam je pošlete balíčky, které chcete přidat do openSUSE?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, ne poštovní holubem"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "Do mraků"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "Emailem Geeko-vi maskotu openSUSE"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "Kouřovým signálem z Norimberku"
 
-#, fuzzy
-#| msgid "What’s the name of the new installer in Leap 16?"
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr "Jak se jmenuje nový instalátor v Leap 16?"
+msgstr ""
+"Jak se jmenuje správce balíčků s Grafickým uživatelským rozhraním, který "
+"nahrazuje YaST?"
 
 #. no-translate
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 #. no-translate
-#, fuzzy
-#| msgid "Zypper"
 msgid "Zypperella"
-msgstr "Zypper"
+msgstr "Zypperella"
 
 #. no-translate
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 #. no-translate
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "Jak často vychází nová verze openSUSE Leap?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "Každých 5 let, při konjunkci hvězd"
 
 msgid "Monthly, to keep everyone on their toes"
-msgstr ""
+msgstr "Měsíčně, aby byli všichni ve střehu"
 
 msgid "Annually"
-msgstr ""
+msgstr "Jednou ročně"
 
 msgid "Every time a tumbleweed rolls by"
-msgstr ""
+msgstr "Pokaždé když se okolo prokutálí Tumbleweed"
 
 msgid "Which openSUSE mailing list is focused on development discussions?"
-msgstr ""
+msgstr "Jaký mailing list se zaměřujě na diskuzi o vývoji openSUSE?"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "factory@lists.opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "factory@lists.opensuse.org"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "support@opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "support@opensuse.org"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "users@opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "users@opensuse.org"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "fun@opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "fun@opensuse.org"
 
 msgid ""
 "openSUSE's build service allows you to build packages for how many different "
 "distributions?"
 msgstr ""
+"openSUSE Build Service vám umožňuje sestavovat balíčky pro kolik různých "
+"distribucí?"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "Just openSUSE Leap"
-msgstr "openSUSE Expert"
+msgstr "Prostě openSUSE Leap"
 
 msgid "Over 100, including Fedora and Debian"
-msgstr ""
+msgstr "Přes 100 včetně Fedory a Debianu"
 
-#, fuzzy
-#| msgid "Tumbleweed"
 msgid "Only Tumbleweed"
-msgstr "Tumbleweed"
+msgstr "Pouze Tumbleweed"
 
 msgid "None, it only builds source code"
-msgstr ""
+msgstr "Žádné, pouze sestavuje zdrojový kód"
 
 msgid "openSUSE Leap is based on which upstream distribution?"
-msgstr ""
+msgstr "Na jaké distribuci je založen openSUSE Leap?"
 
 #. no-translate
 msgid "Fedora"
-msgstr ""
+msgstr "Fedora"
 
 #. no-translate
 msgid "Debian"
-msgstr ""
+msgstr "Debian"
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 #. no-translate
 msgid "Arch Linux"
-msgstr ""
+msgstr "Arch Linux"
 
 msgid "Which tool does openSUSE use for system snapshots and rollback?"
-msgstr ""
+msgstr "Který nástroj používá openSUSE pro systémové snapshoty a obnovení?"
 
 #. no-translate
-#, fuzzy
-#| msgid "Time left"
 msgid "Timeshift"
-msgstr "Zbývající čas"
+msgstr "Timeshift"
 
 #. no-translate
-#, fuzzy
-#| msgid "Sypper"
 msgid "Snapper"
-msgstr "Sypper"
+msgstr "Snapper"
 
 #. no-translate
 msgid "Btrfs Manager"
-msgstr ""
+msgstr "Btrfs Manager"
 
 #. no-translate
 msgid "Rollbackinator"
-msgstr ""
+msgstr "Rollbackinator"
 
 msgid "What command can you use to refresh zypper repositories?"
-msgstr ""
+msgstr "Jakým příkazem aktualizujete repozitáře zypperu?"
 
 #. no-translate
 msgid "zypper refresh"
-msgstr ""
+msgstr "zypper refresh"
 
 #. no-translate
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 #. no-translate
 msgid "zypper reload"
-msgstr ""
+msgstr "zypper reload"
 
 #. no-translate
 msgid "zypper repolist"
-msgstr ""
+msgstr "zypper repolist"
 
-#, fuzzy
-#| msgid "Where can you check the current status of openSUSE infrastructure?"
 msgid "Where can you submit bug reports related to openSUSE packages?"
-msgstr "Kde můžete zkontrolovat aktuální stav infrastruktury openSUSE?"
+msgstr "Kam můžete posílat bug reporty oproti openSUSE balíčkům?"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "bugzilla.opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "bugzilla.opensuse.org"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "issues.opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "issues.opensuse.org"
 
 #. no-translate
-#, fuzzy
-#| msgid "isopensusedown.com"
 msgid "bugs.opensuse.com"
-msgstr "isopensusedown.com"
+msgstr "bugs.opensuse.com"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "bugs.opensuse.net"
-msgstr "status.opensuse.org"
+msgstr "bugs.opensuse.net"
 
 msgid ""
 "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgstr ""
+"Která openSUSE služba zrcadlí openSUSE software repozitáře po celém světě?"
 
 #. no-translate
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "mirror.opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "mirror.opensuse.org"
 
 #. no-translate
 msgid "mirror.opensuse.net"
-msgstr ""
+msgstr "mirror.opensuse.net"
 
 #. no-translate
-#, fuzzy
-#| msgid "isopensusedown.com"
 msgid "mirrors.opensuse.com"
-msgstr "isopensusedown.com"
+msgstr "mirrors.opensuse.com"
 
 msgid "Where can you help translate this quiz?"
-msgstr ""
+msgstr "Kde můžete pomoci s překladem tohoto kvízu?"
 
 msgid "At the openSUSE forum"
-msgstr ""
+msgstr "Na openSUSE fóru"
 
 msgid "On GitHub issues"
-msgstr ""
+msgstr "Na Github issues"
 
 #. no-translate
 msgid "https://l10n.opensuse.org/projects/quiz/"
-msgstr ""
+msgstr "https://l10n.opensuse.org/projects/quiz/"
 
 msgid "In the IRC chat"
-msgstr ""
+msgstr "Na IRC chatu"
 
 #~ msgid "Pascal"
 #~ msgstr "Pascal"
