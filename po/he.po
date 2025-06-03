@@ -976,3 +976,8 @@ msgstr "אנגלית"
 #| msgid "lang_name_cs"
 msgid "lang_name_sk"
 msgstr "צ'כית"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_nl"
+msgstr "אנגלית"

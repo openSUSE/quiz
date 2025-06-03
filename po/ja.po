@@ -1003,3 +1003,8 @@ msgstr "英語"
 #| msgid "lang_name_cs"
 msgid "lang_name_sk"
 msgstr "チェコ語"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_nl"
+msgstr "英語"

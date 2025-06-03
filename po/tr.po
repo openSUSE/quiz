@@ -1014,6 +1014,11 @@ msgstr "English"
 msgid "lang_name_sk"
 msgstr "Čeština"
 
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_nl"
+msgstr "English"
+
 #~ msgid "Devconf 2025"
 #~ msgstr "Devconf 2025"
 

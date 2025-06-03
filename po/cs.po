@@ -994,6 +994,11 @@ msgstr "Hebrejština"
 msgid "lang_name_sk"
 msgstr "Slovenština"
 
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_nl"
+msgstr "Angličtina"
+
 #~ msgid "x3270 means:"
 #~ msgstr "x3270 znamená:"
 
