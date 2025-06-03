@@ -9,7 +9,6 @@ const quizData = {
 const questions = [
   {
     text: "What is the mascot of openSUSE project?",
-    type: "mc",
     answers: [
       { text: "Pascal", correct: false },
       { text: "TwoPac", correct: false },
@@ -19,7 +18,6 @@ const questions = [
   },
   {
     text: "What is the main goal of the openSUSE project?",
-    type: "mc",
     answers: [
       { text: "Supporting and spreading open-source software", correct: true },
       { text: "Developing mobile applications", correct: false },
@@ -29,7 +27,6 @@ const questions = [
   },
   {
     text: "What are Aeon and Kalpa?",
-    type: "mc",
     answers: [
       {
         text: "Modern 'Immutable' desktops with GNOME and KDE",
@@ -45,7 +42,6 @@ const questions = [
   },
   {
     text: "Where was the openSUSE project founded?",
-    type: "mc",
     answers: [
       { text: "In Choustníkovo Hradiště", correct: false },
       {
@@ -58,7 +54,6 @@ const questions = [
   },
   {
     text: "What is the default filesystem in openSUSE?",
-    type: "mc",
     answers: [
       { text: "ReiserFS", correct: false },
       { text: "Btrfs", correct: true },
@@ -68,7 +63,6 @@ const questions = [
   },
   {
     text: "What’s the name of the new installer in Leap 16?",
-    type: "mc",
     answers: [
       { text: "Sypper", correct: false },
       { text: "Agama", correct: true },
@@ -78,7 +72,6 @@ const questions = [
   },
   {
     text: "Which openSUSE distribution is optimized for running containers and micro services?",
-    type: "mc",
     answers: [
       { text: "MicroOS and Leap Micro", correct: true },
       { text: "Tumbleweed", correct: false },
@@ -88,7 +81,6 @@ const questions = [
   },
   {
     text: "Which of the following package managers is commonly used in openSUSE?",
-    type: "mc",
     answers: [
       { text: "Yum", correct: false },
       { text: "DNF", correct: false },
@@ -98,7 +90,6 @@ const questions = [
   },
   {
     text: "What is Leap 16.0?",
-    type: "mc",
     answers: [
       {
         text: "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025",
@@ -111,7 +102,6 @@ const questions = [
   },
   {
     text: "Can you play Windows games on openSUSE?",
-    type: "mc",
     answers: [
       { text: "No way, only Windows can do that", correct: false },
       { text: "Of course! Just fire up Steam and game on", correct: true },

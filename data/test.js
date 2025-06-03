@@ -8,7 +8,6 @@ const quizData = {
 const questions = [
   {
     text: "What is the mascot of openSUSE project?",
-    type: "mc",
     answers: [
       { text: "Pascal", correct: false },
       { text: "TwoPac", correct: false },

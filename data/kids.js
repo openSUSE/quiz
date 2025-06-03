@@ -8,7 +8,6 @@ const quizData = {
 const questions = [
   {
     text: "What color can a chameleon turn into?",
-    type: "mc",
     answers: [
       { text: "Only green", correct: false },
       { text: "Any color, even purple!", correct: false },
@@ -18,7 +17,6 @@ const questions = [
   },
   {
     text: "What is the mascot of openSUSE?",
-    type: "mc",
     answers: [
       { text: "A penguin", correct: false },
       { text: "A chameleon called Geeko", correct: true },
@@ -28,7 +26,6 @@ const questions = [
   },
   {
     text: "Why do chameleons change color?",
-    type: "mc",
     answers: [
       { text: "To show how they feel or to hide", correct: true },
       { text: "Because they are bored", correct: false },
@@ -38,7 +35,6 @@ const questions = [
   },
   {
     text: "Chameleons are primarily found in which part of the world?",
-    type: "mc",
     answers: [
       { text: "South America", correct: false },
       { text: "Africa and Madagascar", correct: true },
@@ -48,7 +44,6 @@ const questions = [
   },
   {
     text: "How do chameleons catch their food?",
-    type: "mc",
     answers: [
       { text: "With their hands", correct: false },
       { text: "With their long sticky tongue", correct: true },
@@ -58,7 +53,6 @@ const questions = [
   },
   {
     text: "What do chameleons eat?",
-    type: "mc",
     answers: [
       { text: "Ice cream", correct: false },
       { text: "Insects", correct: true },
@@ -68,7 +62,6 @@ const questions = [
   },
   {
     text: "What makes openSUSE special?",
-    type: "mc",
     answers: [
       { text: "It can talk to animals", correct: false },
       {
@@ -81,7 +74,6 @@ const questions = [
   },
   {
     text: "Do all chameleons look the same?",
-    type: "mc",
     answers: [
       { text: "Yes, they are all green and grumpy", correct: false },
       {
@@ -94,7 +86,6 @@ const questions = [
   },
   {
     text: "What does the word 'open' in openSUSE mean?",
-    type: "mc",
     answers: [
       { text: "It’s a password", correct: false },
       {
@@ -107,7 +98,6 @@ const questions = [
   },
   {
     text: "Can chameleons move their eyes separately?",
-    type: "mc",
     answers: [
       { text: "No, they blink both eyes together", correct: false },
       { text: "Yes, they can look in two directions at once!", correct: true },

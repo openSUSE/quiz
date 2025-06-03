@@ -8,7 +8,6 @@ const quizData = {
 const questions = [
   {
     text: "What’s the difference between Big Endian and Little Endian?",
-    type: "mc",
     answers: [
       {
         text: "s390x are using only 31b, that’s why they’re called Little Endian",
@@ -27,7 +26,6 @@ const questions = [
   },
   {
     text: "DASD is?",
-    type: "mc",
     answers: [
       { text: "A German word", correct: false },
       { text: "Direct-access storage device", correct: true },
@@ -40,7 +38,6 @@ const questions = [
   },
   {
     text: "HMC is?",
-    type: "mc",
     answers: [
       {
         text: "Home mc, just a new friendlier Midnight Commander",
@@ -59,7 +56,6 @@ const questions = [
   },
   {
     text: "z/VM is?",
-    type: "mc",
     answers: [
       { text: "Virtual Machine on Z (meaning s390x)", correct: true },
       {
@@ -72,7 +68,6 @@ const questions = [
   },
   {
     text: "What does storage mean in the mainframe world?",
-    type: "mc",
     answers: [
       { text: "Memory (RAM)", correct: false },
       { text: "Data storage (disks) counted in cylinders", correct: true },
@@ -85,7 +80,6 @@ const questions = [
   },
   {
     text: "What is x3270?",
-    type: "mc",
     answers: [
       {
         text: "Special file encoding, which is a must for files on s390x",
@@ -101,7 +95,6 @@ const questions = [
   },
   {
     text: "What does IPL 150 mean?",
-    type: "mc",
     answers: [
       { text: "Give me additional 150MB of memory", correct: false },
       { text: "IP to my Linux machine", correct: false },
@@ -111,7 +104,6 @@ const questions = [
   },
   {
     text: "What is IFL?",
-    type: "mc",
     answers: [
       { text: "A variant of lung disease", correct: false },
       { text: "A core to run Linux on mainframe", correct: true },
@@ -121,7 +113,6 @@ const questions = [
   },
   {
     text: "What is cio_ignore?",
-    type: "mc",
     answers: [
       { text: "A command masking visibility of devices", correct: true },
       {
@@ -134,7 +125,6 @@ const questions = [
   },
   {
     text: "How is the operating system on s390x administered?",
-    type: "mc",
     answers: [
       { text: "Prolog", correct: false },
       { text: "Lisp", correct: false },
@@ -144,7 +134,6 @@ const questions = [
   },
   {
     text: "AI must be mentioned :) In which language(s) can’t you work with data models on s390x using hardware exploitation?",
-    type: "mc",
     answers: [
       { text: "Prolog", correct: false },
       { text: "C/C++", correct: true },
@@ -154,7 +143,6 @@ const questions = [
   },
   {
     text: "Which of the following I/O devices is typically not used with mainframes?",
-    type: "mc",
     answers: [
       { text: "Disks", correct: false },
       { text: "Tape drives", correct: false },
