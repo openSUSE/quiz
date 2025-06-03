@@ -968,3 +968,6 @@ msgstr "סלובקית"
 
 msgid "lang_name_sk"
 msgstr "Slovenčina"
+
+msgid "lang_name_nl"
+msgstr "Nederlands"
