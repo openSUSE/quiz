@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 16:19+0000\n"
+"PO-Revision-Date: 2025-06-03 21:21+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
 "Language: sk\n"
@@ -136,189 +136,198 @@ msgid ""
 "Rolling distributions with transactional updates using flatpaks on the "
 "desktop"
 msgstr ""
+"Rolujúce distribúcie s transakčnými aktualizáciami používajúce aplikácie "
+"flatpak na desktope"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "Distribúcie zostavené nad MicroOS"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Všetky možnosti sú správne"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "Kde bol založený projekt openSUSE?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "V Choustníkovom Hradišti"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "Na LinuxWorld Conference & Expo 2005 v San Franciscu"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "V Redmonte"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "Na Univerzite v Helsinkách"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "Aký je predvolený súborový systém v openSUSE?"
 
 #. no-translate
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 #. no-translate
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 #. no-translate
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 #. no-translate
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "Súborový systém InterPlanetary"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Aký je názov nového inštalátora v Leap 16?"
 
 #. no-translate
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 #. no-translate
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 #. no-translate
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 #. no-translate
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid ""
 "Which openSUSE distribution is optimized for running containers and micro "
 "services?"
 msgstr ""
+"Ktorá distribúcia openSUSE je optimalizovaná na beh kontajnerov a "
+"mikroslužieb?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS a Leap Micro"
 
 #. no-translate
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 #. no-translate
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 #. no-translate
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid ""
 "Which openSUSE rolling distribution offers a calmer alternative to "
 "Tumbleweed for users who prefer fewer surprises?"
 msgstr ""
+"Ktorá rolujúca distribúcia openSUSE ponúka pokojnejšiu alternatívu k "
+"Tumbleweed pre používateľov, ktorí uprednostňujú menej prekvapení?"
 
 #. no-translate
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 #. no-translate
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 #. no-translate
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
+msgstr "Ktorý z nasledujúcich správcov balíkov sa bežne používa v openSUSE?"
 
 #. no-translate
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 #. no-translate
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 #. no-translate
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 #. no-translate
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Čo je Leap 16.0?"
 
 msgid ""
 "A traditional Linux distribution, the successor to Leap 15.6, released in "
 "Fall 2025"
-msgstr ""
+msgstr "Tradičná linuxová distribúcia, nástupca Leap 15.6, vydaná na jeseň 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "Nemenná distribúcia s GNOME a KDE"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "Rolujúce vydanie pre mobilné zariadenia"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "Systém zameraný na kontajnery ako MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "Ktoré desktopové prostredie je predvolené pre openSUSE Leap 15?"
 
 #. no-translate
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #. no-translate
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 #. no-translate
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
 msgstr ""
+"Neexistuje žiadne predvolené nastavenie. Výber ponechávame na používateľovi."
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "Ako sa volá zostavovací systém openSUSE?"
 
 #. no-translate
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 #. no-translate
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 #. no-translate
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 #. no-translate
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid ""
 "How can you make changes to a root partition on a transactional-update based "
 "system?"
 msgstr ""
+"Ako môžete vykonať zmeny v koreňovom oddiele na systéme založenom na "
+"transakčných aktualizáciách?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "Použite príkaz transactional-update a reštartujte do novej snímky"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Použitím sudo-sudo získate giga oprávnenia"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Použitím Salt alebo Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
 msgstr ""
@@ -977,7 +986,5 @@ msgstr "Slovenčina"
 msgid "lang_name_nl"
 msgstr "Holandčina"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_es"
-msgstr "Angličtina"
+msgstr "Španielčina"
