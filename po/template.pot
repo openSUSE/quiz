@@ -27,6 +27,9 @@ msgstr "Deutsch"
 msgid "lang_name_ca"
 msgstr "Català"
 
+msgid "lang_name_ja"
+msgstr "日本語"
+
 msgid "Stats"
 msgstr ""
 
