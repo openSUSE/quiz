@@ -14,22 +14,33 @@
     <div class="main-page-container">
       <div class="top-bar-container">
         <div class="user-controls-block">
-        <div class="language-selector-container"> 
-          <label for="lang-select">🌐 <%= t("Language") %>:</label>
-          <select id="lang-select">
-            <% availableLanguages.forEach(function(language) { %>
-              <option value="<%= language %>" <%= lang === language ? "selected" : "" %>>
-                <%= t("lang_name_" + language) %>
-              </option>
-            <% }); %>
-          </select>
-        </div>
-          <div class="back-link-container"> <!-- Renamed for clarity -->
-            <a href="/?lang=<%= lang %>" style="text-decoration:none;">
-              <button id="back-btn" class="quiz-btn stats-btn slim-stats-btn"> <!-- Removed back-btn class as it might conflict -->
-                <span class="quiz-btn-title" style="color:white;"><%= t("Back to Main Page") %></span>
-              </button>
-            </a>
+          <div class="selector-group">   
+            <div class="refresh-selector-container">
+              <label for="refresh-select">⏱️ <%= t("Auto Refresh") %>:</label>
+              <select id="refresh-select">
+                <option value="10000">10s</option>
+                <option value="30000" selected>30s</option>
+                <option value="60000">60s</option>
+                <option value="300000">5min</option>
+              </select>
+            </div>
+            <div class="language-selector-container"> 
+              <label for="lang-select">🌐 <%= t("Language") %>:</label>
+              <select id="lang-select">
+                <% availableLanguages.forEach(function(language) { %>
+                  <option value="<%= language %>" <%= lang === language ? "selected" : "" %>>
+                    <%= t("lang_name_" + language) %>
+                  </option>
+                <% }); %>
+              </select>
+            </div>
+            <div class="back-link-container"> <!-- Renamed for clarity -->
+              <a href="/?lang=<%= lang %>" style="text-decoration:none;">
+                <button id="back-btn" class="quiz-btn stats-btn slim-stats-btn"> <!-- Removed back-btn class as it might conflict -->
+                  <span class="quiz-btn-title" style="color:white;"><%= t("Back to Main Page") %></span>
+                </button>
+              </a>
+            </div>
           </div>
         </div> <!-- End of user-controls-block -->
       </div>
@@ -41,7 +52,7 @@
             <span class="opensuse-quiz-logo-header__text--quiz">QU1Z!</span>
           </div>
         </div>
-        <p class="quiz-main-subtitle"><%= t("Leaderboard") %></p>
+        <h2 class="quiz-main-subtitle"><%= t("Leaderboard") %></h2>
       </div>
       <% if (Object.keys(results).length === 0) { %>
         <p><%= t("No users found") %></p>
@@ -110,5 +121,27 @@
         });
       </script>
     </div>
+    <script type="text/javascript">
+      let refreshTimeout;
+
+      function scheduleReload(interval) {
+        clearTimeout(refreshTimeout);
+        refreshTimeout = setTimeout(() => {
+          const url = new URL(window.location.href);
+          const lang = url.searchParams.get("lang") || "en";
+          url.searchParams.set("lang", lang);
+          window.location.href = url.toString();
+        }, interval);
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        const refreshSelect = document.getElementById("refresh-select");
+        scheduleReload(parseInt(refreshSelect.value));
+
+        refreshSelect.addEventListener("change", () => {
+          scheduleReload(parseInt(refreshSelect.value));
+        });
+      });
+    </script>
   </body>
 </html>

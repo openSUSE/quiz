@@ -959,3 +959,6 @@ msgstr ""
 
 msgid "Leaderboard"
 msgstr ""
+
+msgid "Auto Refresh"
+msgstr ""
