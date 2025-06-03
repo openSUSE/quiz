@@ -15,6 +15,10 @@
 <body>
   <div class="main-page-container">
     <div class="top-bar-container">
+    <div id="loggedInBanner">
+      <span id="loggedInUserText"></span>
+      <button id="logoutBtn">Forget</button>
+    </div>
       <div class="user-controls-block"> <!-- New wrapper div -->
         <div class="language-selector-container"> 
           <label for="lang-select">🌐 <%= t("Language") %>:</label>
@@ -64,6 +68,28 @@
       url.searchParams.set("lang", langSelect.value);
       window.location.href = url.toString();
     });
+
+    function showLoggedInUser() {
+      const loggedInUser = localStorage.getItem("quizNickname");  // <-- use quizNickname
+      console.log(loggedInUser);
+      const banner = document.getElementById("loggedInBanner");
+      const textSpan = document.getElementById("loggedInUserText");
+
+      if (loggedInUser && loggedInUser.trim().length > 0) {
+        textSpan.textContent = `👤 ${loggedInUser}`;
+        banner.style.display = "flex";
+      } else {
+        banner.style.display = "none";
+      }
+  }
+
+  document.getElementById("logoutBtn").addEventListener("click", () => {
+    localStorage.removeItem("quizNickname");  // <-- use quizNickname
+    showLoggedInUser();
+  });
+
+  showLoggedInUser();
   </script>
+
 </body>
 </html>

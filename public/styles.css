@@ -5,6 +5,39 @@
   padding: 10px 0px;
   margin-bottom: 15px;
 }
+
+#loggedInBanner {
+  display: none; /* Initially hidden */
+  background: #f0f0f0;
+  padding: 6px 12px;
+  font-size: 0.9em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 4px;
+  margin: 10px 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+
+  max-width: 90vw;         /* limits banner width to 90% of viewport width */
+  box-sizing: border-box;  /* to include padding in width calculations */
+  flex-wrap: wrap;         /* allow children to wrap on small screens */
+}
+
+#logoutBtn {
+  background: #e74c3c;
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  padding: 6px 12px;       /* a bit bigger tap target on mobile */
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 1em;          /* slightly bigger text for readability */
+  flex-shrink: 0;          /* prevent button from shrinking too much */
+}
+
 .user-controls-block {
   display: flex;
   flex-direction: column;

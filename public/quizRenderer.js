@@ -17,19 +17,34 @@ let correct = 0;
 let questionTimeout = null;
 let timerInterval = null;
 
+function updateUsernameValues(value) {
+  const usernameInput = document.getElementById("username");
+  const usernameTopHidden = document.getElementById("username-top-hidden");
+  if (usernameInput) usernameInput.value = value;
+  if (usernameTopHidden) usernameTopHidden.value = value;
+}
+
 window.addEventListener("load", () => {
   quizTitleElement.innerHTML = quizData.title;
   quizSubTitleElement.innerHTML = quizData.subtitle;
 
   const usernameInput = document.getElementById("username");
+  const usernameTopHidden = document.getElementById("username-top-hidden");
+
+  // Load saved nickname from localStorage, if any
+  const savedNickname = localStorage.getItem("quizNickname");
+  if (savedNickname) {
+    updateUsernameValues(savedNickname);
+  }
 
   usernameInput.addEventListener("input", () => {
+    localStorage.setItem("quizNickname", usernameInput.value);
+    if (usernameTopHidden) usernameTopHidden.value = usernameInput.value;
+
     if (usernameInput.classList.contains("input-error")) {
       usernameInput.classList.remove("input-error");
       usernameInput.removeAttribute("title");
     }
-
-    document.getElementById("username-top-hidden").value = usernameInput.value;
   });
 
   const topForm = document.querySelector(".submit-form-top");
@@ -299,10 +314,8 @@ function loadQuestion(questionNum) {
     while (answersContainer.firstChild) {
       answersContainer.removeChild(answersContainer.firstChild);
     }
-
     questionElement.innerHTML = questions[questionNum].text;
 
-    // Render MC answers only:
     const btnGrid = document.createElement("div");
     btnGrid.classList.add("btn-grid");
     answersContainer.appendChild(btnGrid);
