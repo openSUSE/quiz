@@ -1,0 +1,21 @@
+FROM registry.suse.com/bci/nodejs:22 as base
+
+# intermediary container
+FROM base as build
+
+RUN zypper -n in gcc-c++ make python3
+WORKDIR /usr/src/app
+COPY . .
+RUN npm clean-install --omit=dev
+
+# final container
+FROM base as prod
+
+WORKDIR /opt/quiz
+COPY --from=1 /usr/src/app /opt/quiz
+RUN \
+	rm -r /var/{cache,log}/* && \
+	useradd -mU quiz
+
+USER quiz
+CMD [ "node", "src/server.js" ]
