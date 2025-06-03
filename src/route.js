@@ -88,25 +88,44 @@ module.exports = (dependencies) => {
     const lang = req.body.lang || "en";
     const username = req.body.username;
     const quizTitle = req.body.quizTitle;
-    const correct = req.body.correct;
-    const total = req.body.total;
-
-    console.log(username);
-    console.log(quizTitle);
+    const correct = Number(req.body.correct) || 0;
+    const total = Number(req.body.total) || 0;
 
     if (!username || !quizTitle) {
       return res.status(400).send("Missing username or quiz title.");
     }
 
-    // Ensure user exists in results
     if (!results[username]) {
-      results[username] = {};
+      results[username] = {
+        quizzes: {},
+        aggregate: { correct: 0, wrong: 0, score: 0 },
+      };
     }
 
-    // Save or update results for this quiz
-    results[username][quizTitle] = {
-      correct,
-      total,
+    // Save or update the quiz result
+    results[username].quizzes[quizTitle] = { correct, total };
+
+    // Aggregate totals
+    let aggregateCorrect = 0;
+    let aggregateTotal = 0;
+
+    for (const quizData of Object.values(results[username].quizzes)) {
+      aggregateCorrect += quizData.correct;
+      aggregateTotal += quizData.total;
+    }
+
+    const aggregateWrong = aggregateTotal - aggregateCorrect;
+
+    // Calculate aggregate score
+    let aggregateScore =
+      aggregateCorrect * 1 + aggregateTotal * 0.05 - aggregateWrong * 0.1;
+    aggregateScore = Math.max(aggregateScore, 0);
+
+    // Store aggregate results
+    results[username].aggregate = {
+      correct: aggregateCorrect,
+      wrong: aggregateWrong,
+      score: aggregateScore,
     };
 
     saveResultsToFile();
