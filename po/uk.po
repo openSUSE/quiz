@@ -3,12 +3,15 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-03 21:21+0000\n"
+"Last-Translator: Yoshio Sato <vasua.ukraine@gmail.com>\n"
+"Language-Team: Ukrainian <https://l10n.opensuse.org/projects/quiz/quiz/uk/>\n"
 "Language: uk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Language"
 msgstr ""
@@ -20,10 +23,10 @@ msgid "lang_name_cs"
 msgstr ""
 
 msgid "lang_name_tr"
-msgstr ""
+msgstr "Турецька"
 
 msgid "lang_name_de"
-msgstr ""
+msgstr "Німецька"
 
 msgid "lang_name_ca"
 msgstr ""
@@ -35,65 +38,67 @@ msgid "Stats"
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "Розпочати"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Next"
-msgstr ""
+msgstr "Вперед"
 
 msgid "Time left"
-msgstr ""
+msgstr "Часу залишилось"
 
 msgid "Back to Main Page"
-msgstr ""
+msgstr "Назад на головну сторінку"
 
 msgid "Nickname"
 msgstr ""
 
 msgid "Score"
-msgstr ""
+msgstr "Рахунок"
 
 msgid "Correct"
-msgstr ""
+msgstr "Правильно"
 
 msgid "Wrong"
-msgstr ""
+msgstr "Неправильно"
 
 msgid "Submit"
-msgstr ""
+msgstr "Надіслати"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Надіслати та завершити"
 
 msgid "Quit"
-msgstr ""
+msgstr "Завершити"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Ви певні що бажаєте завершити та надіслати?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Ви певні що бажаєте завершити? Ваш прогрес не буде збережено."
 
 msgid "openSUSE Quizzes"
-msgstr ""
+msgstr "Вікторини openSUSE"
 
 msgid "Available quizzes"
-msgstr ""
+msgstr "Доступні вікторини"
 
 #. Quiz metadata
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "Експерт openSUSE"
 
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
 "anytime."
 msgstr ""
+"Киньте виклик іншим користувачам у нашому списку лідерів. 30 секунд на "
+"питання. Можете зупинитись будь-коли."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Хто, або що, є символом проєкту openSUSE?"
 
 #. no-translate
 msgid "TwoPac"
@@ -108,25 +113,25 @@ msgid "BeefyMiracle"
 msgstr ""
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "Яка головна мета проєкту openSUSE?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Підтримка та поширення вільного програмного забезпечення"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Розробка мобільних застосунків"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Розробка відеоігор"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Дослідження в області штучного інтелекту"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Що таке Aeon та Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Сучасні \"Immutable\" стільничні операційні системи з GNOME та KDE"
 
 msgid ""
 "Rolling distributions with transactional updates using flatpaks on the "
@@ -974,4 +979,4 @@ msgid "lang_name_nl"
 msgstr ""
 
 msgid "lang_name_es"
-msgstr "Española"
+msgstr "Іспанська"
