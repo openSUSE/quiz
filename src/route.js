@@ -59,6 +59,7 @@ module.exports = (dependencies) => {
       quizData: JSON.stringify(localized.quizData),
       questions: JSON.stringify(localized.questions),
       uiStrings: uiStrings,
+      quizTitle: localized.quizData.title,
     });
   });
 
@@ -85,13 +86,32 @@ module.exports = (dependencies) => {
 
   router.post("/submit", (req, res) => {
     const lang = req.body.lang || "en";
-    results[req.body.username] = {
-      correct: req.body.correct,
-      total: req.body.total,
+    const username = req.body.username;
+    const quizTitle = req.body.quizTitle;
+    const correct = req.body.correct;
+    const total = req.body.total;
+
+    console.log(username);
+    console.log(quizTitle);
+
+    if (!username || !quizTitle) {
+      return res.status(400).send("Missing username or quiz title.");
+    }
+
+    // Ensure user exists in results
+    if (!results[username]) {
+      results[username] = {};
+    }
+
+    // Save or update results for this quiz
+    results[username][quizTitle] = {
+      correct,
+      total,
     };
-    saveResultsToFile(); // Save results after submit
+
+    saveResultsToFile();
+
     res.redirect(`/stats?lang=${lang}`);
   });
-
   return router;
 };

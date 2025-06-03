@@ -19,6 +19,7 @@
           <button class="quit-btn hide" type="button"><%= uiStrings.quit %></button>
           <button class="submit-anytime-btn hide" type="button"><%= uiStrings.quitAndSubmit %></button>
           <input type="hidden" name="lang" value="<%= lang %>" /> <!-- preserve lang -->
+          <input type="hidden" name="quizTitle" value="<%= quizTitle %>" />
         </form>
       </div>
       <div class="quiz-header">
@@ -44,6 +45,7 @@
           <button class="back-btn-quiz"><%= uiStrings.backButton %></button>
           <button class="submit-btn hide" type="submit"><%= uiStrings.submitButton %></button>
           <input type="hidden" name="lang" value="<%= lang %>" /> <!-- preserve lang -->
+          <input type="hidden" name="quizTitle" value="<%= quizTitle %>">
         </form>
         <button class="next-btn hide"><%= uiStrings.nextButton %></button>
       </div>
