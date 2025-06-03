@@ -200,7 +200,7 @@ body {
   line-height: 1.5;
   background: linear-gradient(135deg, #73ba25 0%, #6da741 25%, #35b9ab 75%, #173f4f 100%);
   background-size: 400% 400%;
-  animation: gradientShift 8s ease infinite;
+  animation: gradientShift 60s ease infinite;
   padding: 1em;
   display: flex;
   flex-direction: column;
