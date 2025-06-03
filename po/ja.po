@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 08:18+0000\n"
+"PO-Revision-Date: 2025-06-03 11:33+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
 "Language: ja\n"
@@ -641,7 +641,7 @@ msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr "ビッグエンディアンとリトルエンディアンの違いは？"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr "s390x は 31b のみを使用するため、リトルエンディアンです"
+msgstr "s390x は 31b のみを使用するため、リトルエンディアン"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
 msgstr "バイトの表記順序で、 s390x はビッグエンディアン"
@@ -708,7 +708,7 @@ msgid "Data storage (disks) counted in cylinders"
 msgstr "シリンダ単位で管理されるデータストレージ (ディスク)"
 
 msgid "A room where the mainframe is located"
-msgstr "メインフレームの接地されている部屋"
+msgstr "メインフレームの設置されている部屋"
 
 msgid "Compartment within a mainframe where the disks are located"
 msgstr "ディスクが配置されているメインフレーム内の区画"
@@ -980,16 +980,16 @@ msgid "No, their eyes are always closed"
 msgstr "いいえ、目 (め) はずっと閉 (と) じたままです"
 
 msgid "No users found"
-msgstr ""
+msgstr "ユーザが見つかりませんでした"
 
 msgid "Please enter a username to submit."
-msgstr ""
+msgstr "送信するユーザ名を入力してください。"
 
 msgid "Username must be at least 3 characters long."
-msgstr ""
+msgstr "ユーザ名は 3 文字以上でなければなりません。"
 
 msgid "Leaderboard"
-msgstr ""
+msgstr "ランキング"
 
 msgid "Auto Refresh"
-msgstr ""
+msgstr "自動更新"
