@@ -978,3 +978,15 @@ msgstr "眠 (ねむ) るときに片方 (かたほう) だけ閉 (と) じます
 
 msgid "No, their eyes are always closed"
 msgstr "いいえ、目 (め) はずっと閉 (と) じたままです"
+
+msgid "No users found"
+msgstr ""
+
+msgid "Please enter a username to submit."
+msgstr ""
+
+msgid "Username must be at least 3 characters long."
+msgstr ""
+
+msgid "Leaderboard"
+msgstr ""

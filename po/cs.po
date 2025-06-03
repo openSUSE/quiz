@@ -973,6 +973,18 @@ msgstr "Zavírají jedno oko, když spí"
 msgid "No, their eyes are always closed"
 msgstr "Ne, jejich oči jsou pořád zavřené"
 
+msgid "No users found"
+msgstr ""
+
+msgid "Please enter a username to submit."
+msgstr ""
+
+msgid "Username must be at least 3 characters long."
+msgstr ""
+
+msgid "Leaderboard"
+msgstr ""
+
 #~ msgid "x3270 means:"
 #~ msgstr "x3270 znamená:"
 

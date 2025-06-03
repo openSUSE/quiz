@@ -989,6 +989,18 @@ msgstr ""
 msgid "No, their eyes are always closed"
 msgstr ""
 
+msgid "No users found"
+msgstr ""
+
+msgid "Please enter a username to submit."
+msgstr ""
+
+msgid "Username must be at least 3 characters long."
+msgstr ""
+
+msgid "Leaderboard"
+msgstr ""
+
 #~ msgid "Devconf 2025"
 #~ msgstr "Devconf 2025"
 

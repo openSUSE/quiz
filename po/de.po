@@ -76,7 +76,8 @@ msgid "Are you sure you want to quit and submit?"
 msgstr "Möchten Sie wirklich beenden und Antworten übermitteln?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
+msgstr ""
+"Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
 
 msgid "openSUSE Quizzes"
 msgstr "openSUSE Quizze"
@@ -951,4 +952,16 @@ msgid "They close one eye when sleeping"
 msgstr ""
 
 msgid "No, their eyes are always closed"
+msgstr ""
+
+msgid "No users found"
+msgstr ""
+
+msgid "Please enter a username to submit."
+msgstr ""
+
+msgid "Username must be at least 3 characters long."
+msgstr ""
+
+msgid "Leaderboard"
 msgstr ""
