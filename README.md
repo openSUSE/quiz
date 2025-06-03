@@ -193,22 +193,23 @@ To add support for a new language:
 
 ---
 
-## 🦎  Making linter check happy
+## 🦎 Making linter check happy
 
 You may have noticed that we're using prettiers as part of CI Checks for each Pull request.
 Users who run application locally can use the existing prettier inside quiz/nodejs_module:
 
-Run json and code cleanup:  
+Run json and code cleanup:
+
 ```bash
 cd quiz
 node_modules/prettier/bin/prettier.cjs --check "**/*.{js,json,md}" "*/data/**" --write
 git commit -am "Prettier code"
 git push
 ```
+
 ---
 
 Thanks for your contribution! 🐲💚
-
 
 ## 🌐 Instance
 

@@ -10,7 +10,6 @@ const quizData = {
 const questions = [
   {
     text: "What is the mascot of openSUSE project?",
-    type: "mc",
     answers: [
       { text: "Pascal", correct: false },
       { text: "TwoPac", correct: false },
@@ -20,7 +19,6 @@ const questions = [
   },
   {
     text: "What is the main goal of the openSUSE project?",
-    type: "mc",
     answers: [
       { text: "Supporting and spreading open-source software", correct: true },
       { text: "Developing mobile applications", correct: false },
@@ -30,7 +28,6 @@ const questions = [
   },
   {
     text: "What are Aeon and Kalpa?",
-    type: "mc",
     answers: [
       {
         text: "Modern 'Immutable' desktops with GNOME and KDE",
@@ -46,7 +43,6 @@ const questions = [
   },
   {
     text: "Where was the openSUSE project founded?",
-    type: "mc",
     answers: [
       { text: "In Choustníkovo Hradiště", correct: false },
       {
@@ -59,7 +55,6 @@ const questions = [
   },
   {
     text: "What is the default filesystem in openSUSE?",
-    type: "mc",
     answers: [
       { text: "ReiserFS", correct: false },
       { text: "Btrfs", correct: true },
@@ -69,7 +64,6 @@ const questions = [
   },
   {
     text: "What’s the name of the new installer in Leap 16?",
-    type: "mc",
     answers: [
       { text: "Sypper", correct: false },
       { text: "Agama", correct: true },
@@ -79,7 +73,6 @@ const questions = [
   },
   {
     text: "Which openSUSE distribution is optimized for running containers and micro services?",
-    type: "mc",
     answers: [
       { text: "MicroOS and Leap Micro", correct: true },
       { text: "Tumbleweed", correct: false },
@@ -89,7 +82,6 @@ const questions = [
   },
   {
     text: "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?",
-    type: "mc",
     answers: [
       { text: "Tumblebleed", correct: false },
       { text: "Leapfrog", correct: false },
@@ -99,7 +91,6 @@ const questions = [
   },
   {
     text: "Which of the following package managers is commonly used in openSUSE?",
-    type: "mc",
     answers: [
       { text: "Yum", correct: false },
       { text: "DNF", correct: false },
@@ -109,7 +100,6 @@ const questions = [
   },
   {
     text: "What is Leap 16.0?",
-    type: "mc",
     answers: [
       {
         text: "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025",
@@ -122,7 +112,6 @@ const questions = [
   },
   {
     text: "Which desktop environment is the default for openSUSE Leap 15?",
-    type: "mc",
     answers: [
       { text: "GNOME", correct: false },
       { text: "KDE Plasma", correct: false },
@@ -135,7 +124,6 @@ const questions = [
   },
   {
     text: "What is the name of the openSUSE build system?",
-    type: "mc",
     answers: [
       { text: "OBS (Open Build Service)", correct: true },
       { text: "Weblate", correct: false },
@@ -145,7 +133,6 @@ const questions = [
   },
   {
     text: "How can you make changes to a root partition on a transactional-update based system?",
-    type: "mc",
     answers: [
       {
         text: "Use transactional-update command and reboot into a new snapshot",
@@ -161,7 +148,6 @@ const questions = [
   },
   {
     text: "What is 'YaST'?",
-    type: "mc",
     answers: [
       { text: "A chameleon species native to Africa", correct: true },
       {
@@ -174,7 +160,6 @@ const questions = [
   },
   {
     text: "What is the primary goal of the openSUSE Aeon distribution?",
-    type: "mc",
     answers: [
       {
         text: "A modern transactional-desktop system with GNOME",
@@ -187,7 +172,6 @@ const questions = [
   },
   {
     text: "What is the go-to place to learn about projects from Rancher and SUSE?",
-    type: "mc",
     answers: [
       { text: "Rancher Academy", correct: true },
       { text: "Cow College", correct: false },
@@ -197,7 +181,6 @@ const questions = [
   },
   {
     text: "Chameleons are primarily found in which part of the world?",
-    type: "mc",
     answers: [
       { text: "South America", correct: false },
       { text: "Africa and Madagascar", correct: true },
@@ -207,7 +190,6 @@ const questions = [
   },
   {
     text: "Where can you check the current status of openSUSE infrastructure?",
-    type: "mc",
     answers: [
       { text: "status.opensuse.org", correct: true },
       { text: "isopensusedown.com", correct: false },
@@ -217,7 +199,6 @@ const questions = [
   },
   {
     text: "Where can you install additional packages or packages with changes that didn't make it into the main distribution?",
-    type: "mc",
     answers: [
       {
         text: "With a single click from software.opensuse.org",
@@ -236,7 +217,6 @@ const questions = [
   },
   {
     text: "When submitting packages to openSUSE, where do you send them (metaphorically)?",
-    type: "mc",
     answers: [
       { text: "build.opensuse.org, not a carrier pigeon", correct: true },
       { text: "To the cloud (literally)", correct: false },
@@ -246,7 +226,6 @@ const questions = [
   },
   {
     text: "Where can you check the current status of openSUSE infrastructure?",
-    type: "mc",
     answers: [
       { text: "status.opensuse.org", correct: true },
       { text: "isopensusedown.com", correct: false },
@@ -256,7 +235,6 @@ const questions = [
   },
   {
     text: "What is the name of the new package manager GUI replacing YaST?",
-    type: "mc",
     answers: [
       { text: "Gandalf", correct: false },
       { text: "Zypperella", correct: false },
@@ -266,7 +244,6 @@ const questions = [
   },
   {
     text: "How often does openSUSE Leap release a new stable version?",
-    type: "mc",
     answers: [
       { text: "Every 5 years when the stars align", correct: false },
       { text: "Monthly, to keep everyone on their toes", correct: false },
@@ -276,7 +253,6 @@ const questions = [
   },
   {
     text: "Which openSUSE mailing list is focused on development discussions?",
-    type: "mc",
     answers: [
       { text: "factory@lists.opensuse.org", correct: true },
       { text: "support@opensuse.org", correct: false },
@@ -286,7 +262,6 @@ const questions = [
   },
   {
     text: "openSUSE's build service allows you to build packages for how many different distributions?",
-    type: "mc",
     answers: [
       { text: "Just openSUSE Leap", correct: false },
       { text: "Over 100, including Fedora and Debian", correct: true },
@@ -296,7 +271,6 @@ const questions = [
   },
   {
     text: "openSUSE Leap is based on which upstream distribution?",
-    type: "mc",
     answers: [
       { text: "Fedora", correct: false },
       { text: "Debian", correct: false },
@@ -306,7 +280,6 @@ const questions = [
   },
   {
     text: "Which tool does openSUSE use for system snapshots and rollback?",
-    type: "mc",
     answers: [
       { text: "Timeshift", correct: false },
       { text: "Snapper", correct: true },
@@ -316,7 +289,6 @@ const questions = [
   },
   {
     text: "What command can you use to refresh zypper repositories?",
-    type: "mc",
     answers: [
       { text: "zypper refresh", correct: true },
       { text: "zypper update", correct: false },
@@ -326,7 +298,6 @@ const questions = [
   },
   {
     text: "Where can you submit bug reports related to openSUSE packages?",
-    type: "mc",
     answers: [
       { text: "bugzilla.opensuse.org", correct: true },
       { text: "issues.opensuse.org", correct: false },
@@ -336,7 +307,6 @@ const questions = [
   },
   {
     text: "Which openSUSE service mirrors openSUSE software repositories worldwide?",
-    type: "mc",
     answers: [
       { text: "mirror.opensuse.org", correct: true },
       { text: "mirror.opensuse.net", correct: false },
@@ -346,7 +316,6 @@ const questions = [
   },
   {
     text: "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?",
-    type: "mc",
     answers: [
       { text: "under Geeko’s pillow", correct: false },
       { text: "forums.opensuse.org", correct: true },
@@ -356,7 +325,6 @@ const questions = [
   },
   {
     text: "Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?",
-    type: "mc",
     answers: [
       { text: "AppArmor", correct: false },
       { text: "SELinux", correct: true },
@@ -366,7 +334,6 @@ const questions = [
   },
   {
     text: "What is the official slogan of openSUSE?",
-    type: "mc",
     answers: [
       { text: "Have a lot of fun!", correct: true },
       { text: "Innovate and Collaborate", correct: false },
@@ -376,7 +343,6 @@ const questions = [
   },
   {
     text: "When was the openSUSE project officially started?",
-    type: "mc",
     answers: [
       { text: "2047", correct: false },
       { text: "0 AD", correct: false },
@@ -386,7 +352,6 @@ const questions = [
   },
   {
     text: "What cannot be tested in openQA?",
-    type: "mc",
     answers: [
       { text: "ASCII art", correct: false },
       { text: "Displaying websites in Mozilla Firefox", correct: false },
@@ -396,7 +361,6 @@ const questions = [
   },
   {
     text: "Which of the following has the highest compression?",
-    type: "mc",
     answers: [
       { text: "tar", correct: false },
       { text: "echo", correct: false },
@@ -406,7 +370,6 @@ const questions = [
   },
   {
     text: "Who is known as the father of Linux?",
-    type: "mc",
     answers: [
       { text: "Torwald Linuksson", correct: false },
       { text: "Linus Torvalds", correct: true },
@@ -416,7 +379,6 @@ const questions = [
   },
   {
     text: "What is the default shell in openSUSE?",
-    type: "mc",
     answers: [
       { text: "ash", correct: false },
       { text: "bash", correct: true },
@@ -426,7 +388,6 @@ const questions = [
   },
   {
     text: "What does GNOME do?",
-    type: "mc",
     answers: [
       { text: "Mine gold and diamonds", correct: false },
       { text: "Create a desktop environment for Linux", correct: true },
@@ -436,7 +397,6 @@ const questions = [
   },
   {
     text: "What is the main openSUSE conference called?",
-    type: "mc",
     answers: [
       { text: "openSUSE Gathering", correct: false },
       { text: "openSUSE Fest", correct: false },
@@ -446,7 +406,6 @@ const questions = [
   },
   {
     text: "What does the new openSUSE-repos package manage?",
-    type: "mc",
     answers: [
       {
         text: "Repository definitions in /etc/zypp/repos.d/ managed by RIS",
@@ -459,7 +418,6 @@ const questions = [
   },
   {
     text: "Where can you help translate this quiz?",
-    type: "mc",
     answers: [
       { text: "At the openSUSE forum", correct: false },
       { text: "On GitHub issues", correct: false },

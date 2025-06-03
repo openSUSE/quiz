@@ -299,81 +299,49 @@ function loadQuestion(questionNum) {
     while (answersContainer.firstChild) {
       answersContainer.removeChild(answersContainer.firstChild);
     }
-    answersContainer.dataset.type = null;
+
     questionElement.innerHTML = questions[questionNum].text;
 
-    if (questions[questionNum].type === "mc") {
-      var btnGrid = document.createElement("div");
-      answersContainer.appendChild(btnGrid);
-      questions[questionNum].answers.forEach((answer) => {
-        var answerElement = document.createElement("button");
-        btnGrid.classList.add("btn-grid");
-        answerElement.innerHTML = answer.text;
-        answerElement.dataset.correct = answer.correct;
-        answerElement.addEventListener("click", (e) => {
-          Array.from(btnGrid.children).forEach(
-            (element) => (element.disabled = true),
-          );
-          e.target.dataset.clicked = "true";
-          checkAnswer();
-        });
-        btnGrid.appendChild(answerElement);
-      });
-      answersContainer.dataset.type = "mc";
-    } else if (questions[questionNum].type === "txt") {
-      var inputElement = document.createElement("input");
-      var checkBtn = document.createElement("button");
-      checkBtn.innerHTML = "Check";
-      checkBtn.classList.add("check-btn");
-      inputElement.type = "text";
-      checkBtn.addEventListener("click", () => {
+    // Render MC answers only:
+    const btnGrid = document.createElement("div");
+    btnGrid.classList.add("btn-grid");
+    answersContainer.appendChild(btnGrid);
+
+    questions[questionNum].answers.forEach((answer) => {
+      const answerElement = document.createElement("button");
+      answerElement.innerHTML = answer.text;
+      answerElement.dataset.correct = answer.correct;
+      answerElement.addEventListener("click", (e) => {
+        // disable all buttons
+        Array.from(btnGrid.children).forEach(
+          (element) => (element.disabled = true),
+        );
+        e.target.dataset.clicked = "true";
         checkAnswer();
       });
-      answersContainer.appendChild(inputElement);
-      answersContainer.appendChild(checkBtn);
-      answersContainer.dataset.type = "txt";
-    }
-
-    updateScoreDisplay(usernameBox.value);
+      btnGrid.appendChild(answerElement);
+    });
   }
 }
 
 function checkAnswer(isTimeout = false) {
   clearTimeout(questionTimeout);
 
-  switch (answersContainer.dataset.type) {
-    case "mc":
-      Array.from(answersContainer.children[0].children).forEach((button) => {
-        if (button.dataset.correct === "true") {
-          button.classList.add("correct");
-          if (button.dataset.clicked === "true" && !isTimeout) {
-            correct++;
-          }
-        } else {
-          button.classList.add("wrong");
-        }
-        button.disabled = true;
-      });
-      break;
-
-    case "txt":
-      var qInputElement = answersContainer.children[0];
-      var foundValues = questions[currentQuestion].answers.find(
-        (answer) => answer.toUpperCase() === qInputElement.value.toUpperCase(),
-      );
-      if (foundValues && !isTimeout) {
-        qInputElement.classList.add("correct");
+  Array.from(answersContainer.children[0].children).forEach((button) => {
+    if (button.dataset.correct === "true") {
+      button.classList.add("correct");
+      if (button.dataset.clicked === "true" && !isTimeout) {
         correct++;
-      } else {
-        qInputElement.classList.add("wrong");
       }
-      break;
-
-    default:
-      return;
-  }
+    } else {
+      button.classList.add("wrong");
+    }
+    button.disabled = true;
+  });
 
   currentQuestion++;
+  const usernameBox = document.getElementById("username");
+  updateScoreDisplay(usernameBox.value);
 }
 
 function updateTimerDisplay(timerElement, timeLeft) {
