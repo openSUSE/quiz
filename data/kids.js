@@ -71,7 +71,10 @@ const questions = [
     type: "mc",
     answers: [
       { text: "It can talk to animals", correct: false },
-      { text: "It’s a modern, free operating system anyone can use — including you!", correct: true },
+      {
+        text: "It’s a modern, free operating system anyone can use — including you!",
+        correct: true,
+      },
       { text: "It’s made of chameleon scales", correct: false },
       { text: "It’s only for secret agents", correct: false },
     ],
