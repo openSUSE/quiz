@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 14:15+0000\n"
+"PO-Revision-Date: 2025-06-03 16:19+0000\n"
 "Last-Translator: Victor hck <victorhck@opensuse.org>\n"
 "Language-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\n"
 "Language: es\n"
@@ -22,955 +22,1005 @@ msgid "lang_name_cs"
 msgstr "Checo"
 
 msgid "lang_name_tr"
-msgstr ""
+msgstr "Turco"
 
 msgid "lang_name_de"
-msgstr ""
+msgstr "Alemán"
 
 msgid "lang_name_ca"
-msgstr ""
+msgstr "Catalán"
 
 msgid "lang_name_ja"
-msgstr ""
+msgstr "Japonés"
 
 msgid "Stats"
-msgstr ""
+msgstr "Estadísticas"
 
 msgid "Start"
-msgstr ""
+msgstr "Comenzar"
 
 msgid "Back"
-msgstr ""
+msgstr "Atrás"
 
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 msgid "Time left"
-msgstr ""
+msgstr "Tiempo restante"
 
 msgid "Back to Main Page"
-msgstr ""
+msgstr "Regresar a la página principal"
 
 msgid "Nickname"
-msgstr ""
+msgstr "Apodo"
 
 msgid "Score"
-msgstr ""
+msgstr "Puntuación"
 
 msgid "Correct"
-msgstr ""
+msgstr "Correcto"
 
 msgid "Wrong"
-msgstr ""
+msgstr "Incorrecto"
 
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Enviar y salir"
 
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres salir y enviar?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "¿Estás seguro de que quieres dejar salir? Tu progreso no se guardará."
 
 msgid "openSUSE Quizzes"
-msgstr ""
+msgstr "Cuestionarios de openSUSE"
 
 msgid "Available quizzes"
-msgstr ""
+msgstr "Cuestionarios disponibles"
 
 #. Quiz metadata
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "Experto de openSUSE"
 
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
 "anytime."
 msgstr ""
+"Desafía a otros usuarios en nuestra tabla de clasificación. 30 segundos por "
+"pregunta. Detente en cualquier momento."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "¿Cuál es la mascota del proyecto openSUSE?"
 
 #. no-translate
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 #. no-translate
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 #. no-translate
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "¿Cuál es el objetivo principal del proyecto openSUSE?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Apoyar y difundir el software de código abierto"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Desarrollo de aplicaciones móviles"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Producción de videojuegos"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Investigación en inteligencia artificial"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "¿Qué son Aeon y Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Escritorios modernos 'Inmutables' con GNOME y KDE"
 
 msgid ""
 "Rolling distributions with transactional updates using flatpaks on the "
 "desktop"
 msgstr ""
+"Distribuciones de actualización contínua con actualizaciones transaccionales "
+"mediante flatpaks en el escritorio"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "Distribuciones desarrolladas sobre MicroOS"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Todas las opciones son correctas"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "¿Dónde se fundó el proyecto openSUSE?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "En Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "En la LinuxWorld Conference & Expo 2005 en San Francisco"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "En Redmont"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "En la Universidad de Helsinki"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "¿Cuál es el sistema de archivos predeterminado en openSUSE?"
 
 #. no-translate
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 #. no-translate
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 #. no-translate
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 #. no-translate
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "InterPlanetary File System"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "¿Cómo se llama el nuevo instalador de Leap 16?"
 
 #. no-translate
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 #. no-translate
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 #. no-translate
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 #. no-translate
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid ""
 "Which openSUSE distribution is optimized for running containers and micro "
 "services?"
 msgstr ""
+"¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y "
+"microservicios?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS y Leap Micro"
 
 #. no-translate
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 #. no-translate
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 #. no-translate
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid ""
 "Which openSUSE rolling distribution offers a calmer alternative to "
 "Tumbleweed for users who prefer fewer surprises?"
 msgstr ""
+"¿Qué distribución de actualización contínua de openSUSE ofrece una "
+"alternativa más tranquila a Tumbleweed para los usuarios que prefieren menos "
+"sorpresas?"
 
 #. no-translate
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 #. no-translate
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 #. no-translate
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr ""
+"¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en "
+"openSUSE?"
 
 #. no-translate
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 #. no-translate
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 #. no-translate
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 #. no-translate
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "¿Qué es Leap 16.0?"
 
 msgid ""
 "A traditional Linux distribution, the successor to Leap 15.6, released in "
 "Fall 2025"
 msgstr ""
+"Una distribución tradicional de Linux, sucesora de Leap 15.6, lanzada en "
+"otoño de 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "Una distribución inmutable con GNOME y KDE"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "Una versión continua para dispositivos móviles"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "Un sistema centrado en contenedores como MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "¿Qué entorno de escritorio es el predeterminado para openSUSE Leap 15?"
 
 #. no-translate
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #. no-translate
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 #. no-translate
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "No hay ningún valor predeterminado. Dejamos la elección al usuario."
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
 
 #. no-translate
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 #. no-translate
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 #. no-translate
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 #. no-translate
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid ""
 "How can you make changes to a root partition on a transactional-update based "
 "system?"
 msgstr ""
+"¿Cómo se pueden realizar cambios en una partición raíz en un sistema basado "
+"en actualizaciones transaccionales?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
 msgstr ""
+"Utilice el comando transactional-update y reinicie en una nueva instantánea"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Mediante el uso de sudo-sudo para obtener todos los privilegios"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Mediante el uso de Salt o Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
 msgstr ""
+"Tienes que editar archivos bajo un netrunner de usuario y cruzar los dedos"
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "¿Qué es 'YaST'?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "Una especie de camaleón originaria de África"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "Un software libre para la configuración del sistema operativo"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "El navegador web predeterminado"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Un lenguaje de programación"
 
 msgid "What is the primary goal of the openSUSE Aeon distribution?"
-msgstr ""
+msgstr "¿Cuál es el objetivo principal de la distribución openSUSE Aeon?"
 
 msgid "A modern transactional-desktop system with GNOME"
-msgstr ""
+msgstr "Un moderno sistema de escritorio transaccional con GNOME"
 
 msgid "Scientific research"
-msgstr ""
+msgstr "Investigación científica"
 
 msgid "Containerization"
-msgstr ""
+msgstr "Contenerización"
 
 msgid "Enterprise use"
-msgstr ""
+msgstr "Uso empresarial"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr ""
+"¿Cuál es el lugar al que acudir para obtener información sobre los proyectos "
+"de Rancher y SUSE?"
 
 #. no-translate
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Rancher Academy"
 
 #. no-translate
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 #. no-translate
 msgid "Moo University"
-msgstr ""
+msgstr "Moo University"
 
 #. no-translate
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "¿En qué parte del mundo se encuentran principalmente los camaleones?"
 
 msgid "South America"
-msgstr ""
+msgstr "Sudamérica"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "África y Madagascar"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "Sudeste Asiático"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antártida"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
 msgstr ""
+"¿Dónde se puede comprobar el estado actual de la infraestructura de openSUSE?"
 
 #. no-translate
 msgid "status.opensuse.org"
-msgstr ""
+msgstr "status.opensuse.org"
 
 #. no-translate
 msgid "isopensusedown.com"
-msgstr ""
+msgstr "isopensusedown.com"
 
 #. no-translate
 msgid "yast-status-viewer"
-msgstr ""
+msgstr "yast-status-viewer"
 
 #. no-translate
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid ""
 "Where can you install additional packages or packages with changes that "
 "didn't make it into the main distribution?"
 msgstr ""
+"¿Dónde se pueden instalar paquetes adicionales o paquetes con cambios que no "
+"llegaron a la distribución principal?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "Con un solo clic desde software.opensuse.org"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "Al navegar por la gran cantidad de proyectos en OBS build.opensuse.org"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
 msgstr ""
+"A través del comando opi, desde el repositorio de Packman o desde Flathub"
 
 msgid ""
 "When submitting packages to openSUSE, where do you send them "
 "(metaphorically)?"
-msgstr ""
+msgstr "Al enviar paquetes a openSUSE, ¿a dónde los envías (metafóricamente)?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, no una paloma mensajera"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "A la nube (literalmente)"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "Por correo electrónico a la mascota Geeko"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "A través de señales de humo desde Núremberg"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr ""
+"¿Cómo se llama la nueva interfaz gráfica de usuario del gestor de paquetes "
+"que sustituye a YaST?"
 
 #. no-translate
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 #. no-translate
 msgid "Zypperella"
-msgstr ""
+msgstr "Zypperella"
 
 #. no-translate
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 #. no-translate
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "¿Con qué frecuencia openSUSE Leap lanza una nueva versión estable?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "Cada 5 años cuando los astros se alinean"
 
 msgid "Monthly, to keep everyone on their toes"
-msgstr ""
+msgstr "Mensualmente, para mantener a todos alerta"
 
 msgid "Annually"
-msgstr ""
+msgstr "Anualmente"
 
 msgid "Every time a tumbleweed rolls by"
-msgstr ""
+msgstr "Cada vez que pasa una planta rodadora del desierto"
 
 msgid "Which openSUSE mailing list is focused on development discussions?"
 msgstr ""
+"¿Qué lista de correo de openSUSE se centra en las discusiones sobre "
+"desarrollo?"
 
 #. no-translate
 msgid "factory@lists.opensuse.org"
-msgstr ""
+msgstr "factory@lists.opensuse.org"
 
 #. no-translate
 msgid "support@opensuse.org"
-msgstr ""
+msgstr "support@opensuse.org"
 
 #. no-translate
 msgid "users@opensuse.org"
-msgstr ""
+msgstr "users@opensuse.org"
 
 #. no-translate
 msgid "fun@opensuse.org"
-msgstr ""
+msgstr "fun@opensuse.org"
 
 msgid ""
 "openSUSE's build service allows you to build packages for how many different "
 "distributions?"
 msgstr ""
+"¿El servicio de compilación de openSUSE te permite crear paquetes para "
+"cuántas distribuciones diferentes?"
 
 msgid "Just openSUSE Leap"
-msgstr ""
+msgstr "Unicamente para openSUSE Leap"
 
 msgid "Over 100, including Fedora and Debian"
-msgstr ""
+msgstr "Más de 100, incluyendo Fedora y Debian"
 
 msgid "Only Tumbleweed"
-msgstr ""
+msgstr "Solo Tumbleweed"
 
 msgid "None, it only builds source code"
-msgstr ""
+msgstr "Ninguna, solo compila código fuente"
 
 msgid "openSUSE Leap is based on which upstream distribution?"
-msgstr ""
+msgstr "¿En qué distribución principal se basa openSUSE Leap?"
 
 #. no-translate
 msgid "Fedora"
-msgstr ""
+msgstr "Fedora"
 
 #. no-translate
 msgid "Debian"
-msgstr ""
+msgstr "Debian"
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 #. no-translate
 msgid "Arch Linux"
-msgstr ""
+msgstr "Arch Linux"
 
 msgid "Which tool does openSUSE use for system snapshots and rollback?"
 msgstr ""
+"¿Qué herramienta utiliza openSUSE para las instantáneas del sistema y la "
+"reversión?"
 
 #. no-translate
 msgid "Timeshift"
-msgstr ""
+msgstr "Timeshift"
 
 #. no-translate
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
 #. no-translate
 msgid "Btrfs Manager"
-msgstr ""
+msgstr "Btrfs Manager"
 
 #. no-translate
 msgid "Rollbackinator"
-msgstr ""
+msgstr "Rollbackinator"
 
 msgid "What command can you use to refresh zypper repositories?"
-msgstr ""
+msgstr "¿Qué comando se puede usar para actualizar los repositorios con zypper?"
 
 #. no-translate
 msgid "zypper refresh"
-msgstr ""
+msgstr "zypper refresh"
 
 #. no-translate
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 #. no-translate
 msgid "zypper reload"
-msgstr ""
+msgstr "zypper reload"
 
 #. no-translate
 msgid "zypper repolist"
-msgstr ""
+msgstr "zypper repolist"
 
 msgid "Where can you submit bug reports related to openSUSE packages?"
 msgstr ""
+"¿Dónde se pueden enviar informes de errores relacionados con los paquetes de "
+"openSUSE?"
 
 #. no-translate
 msgid "bugzilla.opensuse.org"
-msgstr ""
+msgstr "bugzilla.opensuse.org"
 
 #. no-translate
 msgid "issues.opensuse.org"
-msgstr ""
+msgstr "issues.opensuse.org"
 
 #. no-translate
 msgid "bugs.opensuse.com"
-msgstr ""
+msgstr "bugs.opensuse.com"
 
 #. no-translate
 msgid "bugs.opensuse.net"
-msgstr ""
+msgstr "bugs.opensuse.net"
 
 msgid ""
 "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgstr ""
+"¿Qué servicio de openSUSE ofrece réplicas de los repositorios de software de "
+"openSUSE en todo el mundo?"
 
 #. no-translate
 msgid "mirror.opensuse.org"
-msgstr ""
+msgstr "mirror.opensuse.org"
 
 #. no-translate
 msgid "mirror.opensuse.net"
-msgstr ""
+msgstr "mirror.opensuse.net"
 
 #. no-translate
 msgid "mirrors.opensuse.com"
-msgstr ""
+msgstr "mirrors.opensuse.com"
 
 msgid "Where can you help translate this quiz?"
-msgstr ""
+msgstr "¿Dónde puedes ayudar a traducir este cuestionario?"
 
 msgid "At the openSUSE forum"
-msgstr ""
+msgstr "En el foro de openSUSE"
 
 msgid "On GitHub issues"
-msgstr ""
+msgstr "En la sección Issues de GitHub"
 
 #. no-translate
 msgid "https://l10n.opensuse.org/projects/quiz/"
-msgstr ""
+msgstr "https://l10n.opensuse.org/projects/quiz/"
 
 msgid "In the IRC chat"
-msgstr ""
+msgstr "En el chat de IRC"
 
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x Expert"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "Un cuestionario para amigos de mainframes y arquitecturas exóticas."
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "¿Cuál es la diferencia entre Big Endian y Little Endian?"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s390x usan solo 31b, por eso se llaman Little Endian"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "Se trata de la ordenación de bytes; s390x siendo Big Endian"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "Se trata de la ordenación de bytes; s390x siendo Little Endian"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "Ya no se usa, s390x son Bi-endians"
 
 msgid "DASD is?"
-msgstr ""
+msgstr "¿Qué es DASD?"
 
 msgid "A German word"
-msgstr ""
+msgstr "Una palabra alemana"
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Dispositivo de almacenamiento de acceso directo"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "Palabrotas repetidas a menudo por los administradores de s390x"
 
 msgid "A scsi disk"
-msgstr ""
+msgstr "Un disco scsi"
 
 msgid "HMC is?"
-msgstr ""
+msgstr "¿Qué es HMC?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Home mc, solo un nuevo y amigable Midnight Commander"
 
 msgid ""
 "The administration of mainframe machine through web interface from the 90’s"
 msgstr ""
+"La administración de la máquina central a través de la interfaz web de los "
+"años 90"
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "Un comando para enumerar direcciones de red de hardware."
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "Una unidad de control de módulo oculto"
 
 msgid "z/VM is?"
-msgstr ""
+msgstr "¿Qué es z/VM?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Máquina virtual en Z (es decir, s390x)"
 
 msgid "z/VM is operating system with the best backward compatibility"
 msgstr ""
+"z/VM es el sistema operativo con la mejor compatibilidad con versiones "
+"anteriores"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Visor de escritorio remoto"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombie Virtual Memory"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "¿Qué significa almacenamiento en el mundo de los mainframes?"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Memoria (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Almacenamiento de datos (discos) contados en cilindros"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Una habitación donde se encuentra el mainframe"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Compartimiento dentro de un mainframe donde se encuentran los discos"
 
 msgid "What is x3270?"
-msgstr ""
+msgstr "¿Qué es x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr ""
+"Codificación de archivos especial, que es imprescindible para los archivos "
+"en s390x"
 
 msgid "Terminal using unsecured telnet for connection to a machine"
-msgstr ""
+msgstr "Terminal que utiliza telnet no seguro para la conexión a una máquina"
 
 msgid "Hexa code used as default admin password"
 msgstr ""
+"Código hexadecimal utilizado como contraseña de administrador predeterminada"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Ninguna de estas ridículas opciones"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "¿Qué significa IPL 150?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Dame 150 MB de memoria adicionales"
 
 #. no-translate
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "IP a mi máquina Linux"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Arranque desde el disco 150."
 
 #. no-translate
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Instalar la versión 1.5.0 de las bibliotecas de Python"
 
 msgid "What is IFL?"
-msgstr ""
+msgstr "¿Qué es IFL?"
 
 msgid "A variant of lung disease"
-msgstr ""
+msgstr "Una variante de la enfermedad pulmonar"
 
 #. no-translate
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Un núcleo para ejecutar Linux en mainframe"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Palabra inventada para confundir a los usuarios de portátiles"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Integrated FLat circuit"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "¿Qué es cio_ignore?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Un comando que enmascara la visibilidad de los dispositivos"
 
 msgid "Ignore input/output data until the line is ready to receive"
 msgstr ""
+"Ignorar los datos de entrada/salida hasta que la línea esté lista para "
+"recibir"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "En realidad, significa ignorar al CIO"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "Un filtro de syslog de z/VM"
 
 msgid "How is the operating system on s390x administered?"
-msgstr ""
+msgstr "¿Cómo se administra el sistema operativo en s390x?"
 
 #. no-translate
 msgid "Prolog"
-msgstr ""
+msgstr "Prolog"
 
 msgid "Lisp"
-msgstr ""
+msgstr "Lisp"
 
 #. no-translate
 msgid "HMC"
-msgstr ""
+msgstr "HMC"
 
 #. no-translate
 msgid "Linux (installed on bare metal)"
-msgstr ""
+msgstr "Linux (instalado en hardware dedicado)"
 
 msgid ""
 "AI must be mentioned :) In which language(s) can’t you work with data models "
 "on s390x using hardware exploitation?"
 msgstr ""
+"Hay que mencionar la IA :) ¿En qué lenguaje(s) no se puede trabajar con "
+"modelos de datos en s390x utilizando la explotación de hardware?"
 
 #. no-translate
 msgid "C/C++"
-msgstr ""
+msgstr "C/C++"
 
 #. no-translate
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #. no-translate
 msgid "Java"
-msgstr ""
+msgstr "Java"
 
 msgid ""
 "Which of the following I/O devices is typically not used with mainframes?"
 msgstr ""
+"¿Cuál de los siguientes dispositivos de E/S no se utiliza normalmente con "
+"los mainframes?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Discos"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Unidades de cinta"
 
 msgid "Network"
-msgstr ""
+msgstr "Red"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "¡Diversión camaleónica para niños!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr ""
+"¡Un colorido cuestionario sobre camaleones y openSUSE para niños curiosos!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "¿De qué color puede convertirse un camaleón?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Solo verde"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "¡Cualquier color, incluso morado!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Muchos colores como verde, marrón, amarillo"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Solo blanco y negro"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "¿Cuál es la mascota de openSUSE?"
 
 #. no-translate
 msgid "A penguin"
-msgstr ""
+msgstr "Un pingüino"
 
 #. no-translate
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Un camaleón llamado Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Un dragón"
 
 msgid "A robot"
-msgstr ""
+msgstr "Un robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "¿Por qué los camaleones cambian de color?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Para mostrar cómo se sienten o para esconderse"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Porque están aburridos"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Porque son robots de sangre fría"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Para brillar en la oscuridad"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "¿Cómo atrapan su comida los camaleones?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "Con sus manos"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "Con su lengua larga y pegajosa"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Gritándola"
 
 msgid "With a net"
-msgstr ""
+msgstr "Con una red"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "¿Qué comen los camaleones?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Helado"
 
 msgid "Insects"
-msgstr ""
+msgstr "Insectos"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Piñas"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Perritos calientes"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "¿Qué hace especial a openSUSE?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Puede hablar con los animales"
 
 msgid "It’s a free modern, and secure operating system anyone can use"
 msgstr ""
+"Es un sistema operativo libre, moderno y seguro que cualquiera puede usar"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Está hecho de escamas camaleónicas"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Es solo para agentes secretos"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "¿Todos los camaleones tienen el mismo aspecto?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Sí, todos son verdes y gruñones"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "No, poseen muchas formas, tamaños y colores"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Sí, todos usan sombreros"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Todos llevan pegatinas de openSUSE"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "¿Qué significa la palabra 'open' en openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Es una contraseña"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Significa que todos pueden usarlo y ayudar a mejorarlo"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Es solo para abrir puertas"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Se trata de abrir envoltorios de caramelos"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "¿Pueden los camaleones mover los ojos por separado?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "No, parpadean con los dos ojos a la vez"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "¡Sí, pueden mirar en dos direcciones a la vez!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Cierran un ojo cuando duermen"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "No, sus ojos siempre están cerrados"
 
 msgid "No users found"
-msgstr ""
+msgstr "No se ha encontrado ningún usuario"
 
 msgid "Please enter a username to submit."
-msgstr ""
+msgstr "Ingrese un nombre de usuario para enviar."
 
 msgid "Username must be at least 3 characters long."
-msgstr ""
+msgstr "El nombre de usuario debe tener al menos 3 caracteres."
 
 msgid "Leaderboard"
-msgstr ""
+msgstr "Tabla de clasificación"
 
 msgid "Auto Refresh"
-msgstr ""
+msgstr "Actualización automática"
 
 msgid "lang_name_he"
-msgstr ""
+msgstr "Hebreo"
 
 msgid "lang_name_sk"
-msgstr ""
+msgstr "Eslovaco"
 
 msgid "lang_name_nl"
-msgstr ""
+msgstr "Holandés"
