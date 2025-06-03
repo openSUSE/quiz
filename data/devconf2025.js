@@ -1,5 +1,5 @@
 const quizData = {
-  title: "openSUSE Devconf 2025",
+  title: "Flock",
   subtitle:
     "Don't worry this quiz is mostly educational. No need to know all the answers.",
   submitAnytime: false,
