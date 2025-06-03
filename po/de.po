@@ -3,20 +3,23 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-03 06:52+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
 "Language: de\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
 msgid "lang_name_en"
-msgstr ""
+msgstr "Englisch"
 
 msgid "lang_name_cs"
-msgstr ""
+msgstr "Tschechien"
 
 msgid "lang_name_tr"
 msgstr "Türkçe"
@@ -24,75 +27,73 @@ msgstr "Türkçe"
 msgid "lang_name_de"
 msgstr "Deutsch"
 
-#, fuzzy
-#| msgid "lang_name_tr"
 msgid "lang_name_ca"
-msgstr "Türkçe"
+msgstr "Katalanisch"
 
-#, fuzzy
-#| msgid "lang_name_tr"
 msgid "lang_name_ja"
-msgstr "Türkçe"
+msgstr "Japanisch"
 
 msgid "Stats"
-msgstr ""
+msgstr "Statistik"
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
 
 msgid "Next"
-msgstr ""
+msgstr "Nächste"
 
 msgid "Time left"
-msgstr ""
+msgstr "Übrige Zeit"
 
 msgid "Back to Main Page"
-msgstr ""
+msgstr "Zurück zur Hauptseite"
 
 msgid "Nickname"
-msgstr ""
+msgstr "Spitzname"
 
 msgid "Score"
-msgstr ""
+msgstr "Punktzahl"
 
 msgid "Correct"
-msgstr ""
+msgstr "Richtig"
 
 msgid "Wrong"
-msgstr ""
+msgstr "Falsch"
 
 msgid "Submit"
-msgstr ""
+msgstr "Senden"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Senden und beenden"
 
 msgid "Quit"
-msgstr ""
+msgstr "Beenden"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Möchten Sie wirklich beenden und Antworten übermitteln?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
 
 msgid "openSUSE Quizzes"
-msgstr ""
+msgstr "openSUSE Quizze"
 
 msgid "Available quizzes"
-msgstr ""
+msgstr "Verfügbare quizze"
 
 #. Quiz metadata
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "openSUSE Experte"
 
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
 "anytime."
 msgstr ""
+"Fordern Sie andere Benutzer in unserer Bestenliste heraus. 30 Sekunden pro "
+"Frage. Sie können jederzeit aufhören."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
