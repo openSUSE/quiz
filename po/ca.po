@@ -1004,3 +1004,6 @@ msgstr "El nom d'usuari ha de tenir com a mínim 3 caràcters."
 
 msgid "Leaderboard"
 msgstr "Taula de classificació"
+
+msgid "Auto Refresh"
+msgstr ""

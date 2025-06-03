@@ -985,6 +985,9 @@ msgstr "Uživatelské jméno musí mít alespoň 3 znaky."
 msgid "Leaderboard"
 msgstr "Žebříček"
 
+msgid "Auto Refresh"
+msgstr ""
+
 #~ msgid "x3270 means:"
 #~ msgstr "x3270 znamená:"
 

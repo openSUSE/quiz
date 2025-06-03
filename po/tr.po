@@ -1001,6 +1001,9 @@ msgstr ""
 msgid "Leaderboard"
 msgstr ""
 
+msgid "Auto Refresh"
+msgstr ""
+
 #~ msgid "Devconf 2025"
 #~ msgstr "Devconf 2025"
 
