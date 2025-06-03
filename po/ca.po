@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 08:43+0000\n"
+"PO-Revision-Date: 2025-06-03 09:25+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
 "Language: ca\n"
@@ -16,22 +16,22 @@ msgid "Language"
 msgstr "Llengua"
 
 msgid "lang_name_en"
-msgstr "lang_name_en"
+msgstr "Anglès"
 
 msgid "lang_name_cs"
-msgstr "lang_name_cs"
+msgstr "Txec"
 
 msgid "lang_name_tr"
-msgstr "lang_name_tr"
+msgstr "Turc"
 
 msgid "lang_name_de"
-msgstr "lang_name_de"
+msgstr "Alemany"
 
 msgid "lang_name_ca"
-msgstr "lang_name_ca"
+msgstr "Català"
 
 msgid "lang_name_ja"
-msgstr "lang_name_ja"
+msgstr "Japonès"
 
 msgid "Stats"
 msgstr "Estat"
@@ -1006,4 +1006,4 @@ msgid "Leaderboard"
 msgstr "Taula de classificació"
 
 msgid "Auto Refresh"
-msgstr ""
+msgstr "Refresc automàtic"
