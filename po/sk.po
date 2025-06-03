@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 12:38+0000\n"
+"PO-Revision-Date: 2025-06-03 16:19+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
 "Language: sk\n"
@@ -73,62 +73,64 @@ msgid "Quit"
 msgstr "Ukončiť"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Ste si istí, že chcete ukončiť a odoslať?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Ste si istý, že chcete ukončiť? Váš postup sa neuloží."
 
 msgid "openSUSE Quizzes"
-msgstr ""
+msgstr "Kvízy openSUSE"
 
 msgid "Available quizzes"
-msgstr ""
+msgstr "Dostupné kvízy"
 
 #. Quiz metadata
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "openSUSE Expert"
 
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
 "anytime."
 msgstr ""
+"Vyzvite ostatných používateľov v našej výsledkovej tabuľke. 30 sekúnd na "
+"otázku. Môžete kedykoľvek prestať."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Aký je maskot projektu openSUSE?"
 
 #. no-translate
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 #. no-translate
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 #. no-translate
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "Čo je hlavným cieľom projektu openSUSE?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Podpora a šírenie open-source softvéru"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Vývoj mobilných aplikácií"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Produkcia videohier"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Výskum umelej inteligencie"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Čo sú Aeon a Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Moderné 'Nezmeniteľné' desktopy s GNOME a KDE"
 
 msgid ""
 "Rolling distributions with transactional updates using flatpaks on the "
@@ -521,7 +523,7 @@ msgstr ""
 
 #. no-translate
 msgid "Arch Linux"
-msgstr ""
+msgstr "Arch Linux"
 
 msgid "Which tool does openSUSE use for system snapshots and rollback?"
 msgstr ""
@@ -806,7 +808,7 @@ msgid "Network"
 msgstr ""
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Chameleon Fun for kids!"
 msgstr ""
@@ -966,17 +968,11 @@ msgstr ""
 msgid "Auto Refresh"
 msgstr ""
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_he"
-msgstr "Angličtina"
+msgstr "Hebrejčina"
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_sk"
-msgstr "Čeština"
+msgstr "Slovenčina"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_nl"
-msgstr "Angličtina"
+msgstr "Holandčina"
