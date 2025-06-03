@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 06:52+0000\n"
+"PO-Revision-Date: 2025-06-03 13:52+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
 "Language: de\n"
@@ -98,7 +98,7 @@ msgstr ""
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Was ist das Maskottchen des openSUSE-Projekts?"
 
 #. no-translate
 msgid "TwoPac"
