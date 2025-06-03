@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 16:19+0000\n"
+"PO-Revision-Date: 2025-06-03 21:21+0000\n"
 "Last-Translator: Atakan Ersen <atakanersen@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
 "Language: tr\n"
@@ -107,11 +107,11 @@ msgstr ""
 
 #. no-translate
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 #. no-translate
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr "OpenSUSE projesinin temel amacı nedir?"
