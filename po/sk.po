@@ -264,7 +264,8 @@ msgstr "Čo je Leap 16.0?"
 msgid ""
 "A traditional Linux distribution, the successor to Leap 15.6, released in "
 "Fall 2025"
-msgstr "Tradičná linuxová distribúcia, nástupca Leap 15.6, vydaná na jeseň 2025"
+msgstr ""
+"Tradičná linuxová distribúcia, nástupca Leap 15.6, vydaná na jeseň 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Nemenná distribúcia s GNOME a KDE"
@@ -988,3 +989,13 @@ msgstr "Holandčina"
 
 msgid "lang_name_es"
 msgstr "Španielčina"
+
+msgid ""
+"Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
+"Each wrong answer subtracts 0.1 points. Total score never goes below zero."
+msgstr ""
+
+#, fuzzy
+#| msgid "lang_name_sk"
+msgid "lang_name_uk"
+msgstr "Slovenčina"
