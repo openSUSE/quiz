@@ -3,33 +3,35 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-03 14:14+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
 "Language: nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 msgid "lang_name_en"
-msgstr ""
+msgstr "Engels"
 
 msgid "lang_name_cs"
-msgstr ""
+msgstr "Tsjechisch"
 
 msgid "lang_name_tr"
-msgstr ""
+msgstr "Turks"
 
 msgid "lang_name_de"
-msgstr ""
+msgstr "Duits"
 
 msgid "lang_name_ca"
-msgstr ""
+msgstr "Catalaans"
 
 msgid "lang_name_ja"
-msgstr ""
+msgstr "Japans"
 
 msgid "Stats"
 msgstr ""
@@ -965,10 +967,10 @@ msgid "Auto Refresh"
 msgstr ""
 
 msgid "lang_name_he"
-msgstr ""
+msgstr "Hebreeuws"
 
 msgid "lang_name_sk"
-msgstr ""
+msgstr "Slowaaks"
 
 msgid "lang_name_nl"
 msgstr ""
