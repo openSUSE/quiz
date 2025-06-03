@@ -1,6 +1,6 @@
 # 🦎 openSUSE-quiz 🦎
 
-A goal of this project is to provide openSUSE booth staff with a local instance of a quiz that we used to do in [a paper form](https://github.com/openSUSE/artwork/tree/master/quizzes). This saves both money 💰 and environment 🌍.
+A goal of this project is to provide openSUSE booth staff with a local instance of a quiz that we used to do in [a paper form](https://github.com/openSUSE/artwork/tree/master/quizzes). Having an [online variant](https://quiz-o-o.netlify.app) saves both money 💰 and environment 🌍.
 
 ## 🎯 Key goals
 
