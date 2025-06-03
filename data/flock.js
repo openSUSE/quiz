@@ -16,15 +16,15 @@ const questions = [
       { text: "Tux", correct: false },
     ],
   },
-  {
-    text: "What is the mascot of the Fedora Project?",
-    answers: [
-      { text: "Geeko", correct: false },
-      { text: "Tux", correct: false },
-      { text: "Beefy Miracle", correct: true },
-      { text: "Shuttleworth", correct: false },
-    ],
-  },
+{
+  text: "Who or what is Beefy Miracle in the Fedora community?",
+  answers: [
+    { text: "A Fedora release with AI tools", correct: false },
+    { text: "A legendary Linux kernel hacker", correct: false },
+    { text: "A hot dog-themed mascot symbolizing Fedora’s fun and open culture", correct: true },
+    { text: "An internal testing framework used for Rawhide", correct: false },
+  ],
+}
   {
     text: "What is Fedora Silverblue?",
     answers: [
