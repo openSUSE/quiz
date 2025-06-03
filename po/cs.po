@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 14:09+0000\n"
+"PO-Revision-Date: 2025-06-03 21:22+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -997,20 +997,18 @@ msgstr "Slovenština"
 msgid "lang_name_nl"
 msgstr "Nizozemština"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_es"
-msgstr "Angličtina"
+msgstr "Španělština"
 
 msgid ""
 "Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
 "Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
+"Každá správná odpověď dává 1 bod. Každá pokusná otázka přidává 0,05 bodu. "
+"Každá špatná odpověď odečítá 0,1 bodu. Celkové skóre nikdy neklesne pod nulu."
 
-#, fuzzy
-#| msgid "lang_name_sk"
 msgid "lang_name_uk"
-msgstr "Slovenština"
+msgstr "Ukrajinština"
 
 #~ msgid "x3270 means:"
 #~ msgstr "x3270 znamená:"
