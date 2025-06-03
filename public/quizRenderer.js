@@ -4,6 +4,7 @@ var startBtn = document.querySelector(".start-btn"),
   submitBtn = document.querySelector(".submit-btn"),
   nextBtn = document.querySelector(".next-btn"),
   questionElement = document.querySelector(".question"),
+  questionContainer = document.querySelector(".question-container"),
   answersContainer = document.querySelector(".q-container"),
   quizTitleElement = document.querySelector(".quiz-title"),
   quizSubTitleElement = document.querySelector(".quiz-subtitle"),
@@ -128,7 +129,7 @@ function handleStartAction() {
     usernameInput.classList.remove("input-error");
     usernameInput.removeAttribute("title");
 
-    questionElement.classList.add("hide");
+    questionContainer.classList.add("hide");
     answersContainer.classList.add("hide");
     correctCount.classList.add("hide");
     nextBtn.classList.add("hide");
@@ -190,7 +191,7 @@ function startQuiz() {
   usernameForm.classList.add("hide");
 
   nextBtn.classList.remove("hide");
-  questionElement.classList.remove("hide");
+  questionContainer.classList.remove("hide");
   answersContainer.classList.remove("hide");
   correctCount.classList.remove("hide");
 
@@ -216,7 +217,7 @@ function endQuiz(isQuitAndSubmit = false) {
 
   submitBtn.classList.add("hide");
   nextBtn.classList.add("hide");
-  questionElement.classList.add("hide");
+  questionContainer.classList.add("hide");
   answersContainer.classList.add("hide");
   submitAnytimeBtn.classList.add("hide");
   quitBtn.classList.add("hide");
@@ -301,7 +302,7 @@ function loadQuestion(questionNum) {
     submitAnytimeBtn.classList.add("hide");
     quitBtn.classList.add("hide");
     nextBtn.classList.add("hide");
-    questionElement.classList.add("hide");
+    questionContainer.classList.add("hide");
     answersContainer.classList.add("hide");
     startBtn.textContent = "Restart";
     updateScoreDisplay(usernameBox.value, true);
