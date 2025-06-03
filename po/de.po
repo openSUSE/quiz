@@ -983,3 +983,8 @@ msgstr "Tschechien"
 #| msgid "lang_name_en"
 msgid "lang_name_nl"
 msgstr "Englisch"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_es"
+msgstr "Englisch"

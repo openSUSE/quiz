@@ -574,7 +574,8 @@ msgid "Rollbackinator"
 msgstr "Rollbackinator"
 
 msgid "What command can you use to refresh zypper repositories?"
-msgstr "¿Qué comando se puede usar para actualizar los repositorios con zypper?"
+msgstr ""
+"¿Qué comando se puede usar para actualizar los repositorios con zypper?"
 
 #. no-translate
 msgid "zypper refresh"
@@ -1024,3 +1025,8 @@ msgstr "Eslovaco"
 
 msgid "lang_name_nl"
 msgstr "Holandés"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_es"
+msgstr "Inglés"

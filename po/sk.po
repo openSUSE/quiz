@@ -976,3 +976,8 @@ msgstr "Slovenčina"
 
 msgid "lang_name_nl"
 msgstr "Holandčina"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_es"
+msgstr "Angličtina"

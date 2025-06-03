@@ -1022,3 +1022,8 @@ msgstr "Txec"
 #| msgid "lang_name_en"
 msgid "lang_name_nl"
 msgstr "Anglès"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_es"
+msgstr "Anglès"
