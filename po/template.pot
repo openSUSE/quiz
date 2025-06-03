@@ -974,3 +974,6 @@ msgstr "Nederlands"
 
 msgid "lang_name_es"
 msgstr "Española"
+
+msgid "Each correct answer gives 1 point. Each question attempted adds 0.05 points. Each wrong answer subtracts 0.1 points. Total score never goes below zero."
+msgstr ""

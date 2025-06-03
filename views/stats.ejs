@@ -57,45 +57,35 @@
       <% if (Object.keys(results).length === 0) { %>
         <p><%= t("No users found") %></p>
       <% } else { %>
-
       <%
-      // Build an aggregate leaderboard
-      const leaderboard = Object.entries(results).map(([user, quizzes]) => {
-        let totalCorrect = 0;
-        let totalQuestions = 0;
+        // Extract leaderboard from precomputed aggregate data
+        const leaderboard = Object.entries(results)
+          .filter(([_, data]) => data.aggregate) // ensure aggregate exists
+          .map(([user, data]) => {
+            const { correct, wrong, score } = data.aggregate;
+            return { user, totalCorrect: correct, wrong, score };
+          });
 
-        Object.values(quizzes).forEach(({ correct, total }) => {
-          totalCorrect += Number(correct);
-          totalQuestions += Number(total);
-        });
-
-        const wrong = totalQuestions - totalCorrect;
-        let score = totalCorrect * (1 + totalQuestions / 1000);
-        // Optional: subtract points for wrong answers (e.g. 0.1 per wrong)
-        score -= wrong * 0.1;
-
-        return { user, totalCorrect, wrong, score };
-      });
-
-      // Sort leaderboard by score descending
-      leaderboard.sort((a, b) => b.score - a.score || a.user.localeCompare(b.user));
+        leaderboard.sort((a, b) => b.score - a.score || a.user.localeCompare(b.user));
       %>
       <table class="results">
-  <thead>
-    <tr>
-      <th><%= t("Nickname") %></th>
-      <th><%= t("Correct") %></th>
-      <th><%= t("Wrong") %></th>
-    </tr>
-  </thead>
+        <thead>
+        <tr>
+          <th><%= t("Nickname") %></th>
+          <th><%= t("Correct") %></th>
+          <th><%= t("Wrong") %></th>
+          <th><%= t("Score") %></th> <!-- New column -->
+        </tr>
+        </thead>
   <tbody>
-    <% leaderboard.forEach(({ user, totalCorrect, wrong }) => { %>
-      <tr>
-        <td style="width: 200px;"><%= user %></td>
-        <td style="width: 100px; text-align: center;"><%= totalCorrect %></td>
-        <td style="width: 100px; text-align: center;"><%= wrong %></td>
-      </tr>
-    <% }); %>
+  <% leaderboard.forEach(({ user, totalCorrect, wrong, score }) => { %>
+    <tr>
+      <td style="width: 200px;"><%= user %></td>
+      <td style="width: 100px; text-align: center;"><%= totalCorrect %></td>
+      <td style="width: 100px; text-align: center;"><%= wrong %></td>
+      <td style="width: 100px; text-align: center;"><%= score.toFixed(2) %></td>
+    </tr>
+  <% }); %>
   </tbody>
 </table>
       <% } %>
@@ -121,6 +111,9 @@
         });
       </script>
     </div>
+    <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 2em;">
+      <%= t("Each correct answer gives 1 point. Each question attempted adds 0.05 points. Each wrong answer subtracts 0.1 points. Total score never goes below zero.") %>
+    </p>
     <script type="text/javascript">
       let refreshTimeout;
 
