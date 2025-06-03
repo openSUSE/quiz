@@ -1004,6 +1004,16 @@ msgstr ""
 msgid "Auto Refresh"
 msgstr ""
 
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_he"
+msgstr "English"
+
+#, fuzzy
+#| msgid "lang_name_cs"
+msgid "lang_name_sk"
+msgstr "Čeština"
+
 #~ msgid "Devconf 2025"
 #~ msgstr "Devconf 2025"
 

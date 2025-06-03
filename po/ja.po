@@ -993,3 +993,13 @@ msgstr "ランキング"
 
 msgid "Auto Refresh"
 msgstr "自動更新"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_he"
+msgstr "英語"
+
+#, fuzzy
+#| msgid "lang_name_cs"
+msgid "lang_name_sk"
+msgstr "チェコ語"

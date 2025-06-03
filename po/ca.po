@@ -1007,3 +1007,13 @@ msgstr "Taula de classificació"
 
 msgid "Auto Refresh"
 msgstr "Refresc automàtic"
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_he"
+msgstr "Anglès"
+
+#, fuzzy
+#| msgid "lang_name_cs"
+msgid "lang_name_sk"
+msgstr "Txec"

@@ -966,3 +966,13 @@ msgstr ""
 
 msgid "Auto Refresh"
 msgstr ""
+
+#, fuzzy
+#| msgid "lang_name_en"
+msgid "lang_name_he"
+msgstr "אנגלית"
+
+#, fuzzy
+#| msgid "lang_name_cs"
+msgid "lang_name_sk"
+msgstr "צ'כית"
