@@ -16,21 +16,100 @@
     }
     #spinner {
       font-size: 2.5rem;
-      height: 3rem;
-      margin: 1.5rem 0;
-      color: #2e7d32;
+      min-height: 3.5rem;
+      margin: 1.5rem 0 0.5rem;
+      color: #173f4f;
       font-weight: bold;
+      line-height: 1.2;
+      word-wrap: break-word;
     }
     #status {
       font-size: 1.25rem;
-      margin-top: 1rem;
+      margin-top: 1.5rem;
       color: #555;
+      word-wrap: break-word;
+      min-height: 1.5rem;
+    }
+
+    /* Buttons container for layout */
+    #buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 1rem;
+      flex-wrap: wrap;
+      max-width: 300px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    button {
+      font-size: 2rem;
+      padding: 1rem 0;
+      flex: 1 1 120px;
+      border: none;
+      border-radius: 8px;
+      color: #fff;
+      cursor: pointer;
+      user-select: none;
+      transition: background-color 0.3s ease;
+    }
+
+    #drawBtn {
+      background-color: #73ba25;
+    }
+    #drawBtn:hover:not(:disabled) {
+      background-color: #555;
+    }
+
+    #stopBtn {
+      background-color: #ff3e51;
+    }
+    #stopBtn:hover:not(:disabled) {
+      background-color: #555;
+    }
+
+    button:disabled {
+      opacity: 0.6;
+      cursor: default;
+    }
+
+    /* Mobile: stack buttons vertically */
+    @media (max-width: 480px) {
+      #buttons {
+        flex-direction: column;
+      }
+      button {
+        font-size: 2.5rem;
+        padding: 1.25rem 0;
+      }
+    }
+
+    /* Spinner and status adjustments for small screens */
+    @media (max-width: 480px) {
+      #spinner {
+        font-size: 2rem;
+        min-height: 4rem;
+      }
+      #status {
+        font-size: 1rem;
+        margin-top: 1.75rem;
+      }
+      .winners-list {
+        font-size: 2rem !important;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>🎉 Bingo Draw – Pick 3 Winners 🎉</h1>
-  <p>Press <strong>Enter</strong> to spin and pick a winner!</p>
+  <h1>🎉 Bingo Draw  🎉</h1>
+  <p>Press <strong>Enter</strong> or click the dice to spin and pick a winner! Click the stop button to end and reveal winners.</p>
+  
+  <div id="buttons">
+    <button id="drawBtn" aria-label="Draw a winner" title="Draw a winner">🎲</button>
+    <button id="stopBtn" aria-label="Stop the draw" title="Stop the draw">⏹️</button>
+  </div>
+
   <div id="spinner">Press Enter to begin...</div>
   <div id="status"></div>
 
@@ -41,52 +120,61 @@
 
     const spinner = document.getElementById("spinner");
     const status = document.getElementById("status");
+    const drawBtn = document.getElementById("drawBtn");
+    const stopBtn = document.getElementById("stopBtn");
+
+    let spinning = false;
+    let stopped = false;
 
     function spinAndPickWinner() {
-      if (picked.length >= 3 || names.length === 0) {
-        spinner.textContent = "🎊 All winners drawn!";
-        status.textContent = "Auto-resetting in 5 seconds...";
-        setTimeout(() => {
-          picked = [];
-          spinner.textContent = "Press Enter to begin again...";
-          status.textContent = "";
-        }, 5000);
+      if (spinning || stopped) return;
+      const remaining = names.filter(name => !picked.includes(name));
+      if (remaining.length === 0) {
+        spinner.textContent = "🎯 No more users to draw from. All winners were drawn!";
+        status.textContent = "";
+        stopBtn.disabled = true;
+        stopped = true;
+        revealWinners();
         return;
       }
 
-      const remaining = names.filter(name => !picked.includes(name));
-      if (remaining.length === 0) return;
+      spinning = true;
 
-      let spinInterval;
       let spinIndex = 0;
-
-      // Start spinning through remaining names
-      spinInterval = setInterval(() => {
+      const spinInterval = setInterval(() => {
         spinner.textContent = remaining[spinIndex % remaining.length];
         spinIndex++;
-      }, 50); // Fast spin
+      }, 50);
 
-      // Stop after 2 seconds and pick a winner
       setTimeout(() => {
         clearInterval(spinInterval);
         const winner = remaining[Math.floor(Math.random() * remaining.length)];
         picked.push(winner);
-        spinner.textContent = `🎯 Winner ${picked.length}: ${winner}`;
-        status.textContent = picked.length < 3
-          ? "Press Enter for next winner..."
-          : "🎊 All winners drawn! Auto-reset in 5 seconds...";
-        
-        if (picked.length >= 3) {
-          setTimeout(() => {
-            picked = [];
-            spinner.textContent = "Press Enter to begin again...";
-            status.textContent = "";
-          }, 60000);
-        }
+        spinner.textContent = `Winner is ${winner}! Click 🎲 or press Enter for next. Click ⏹️ to end.`;
+        status.textContent = `Winners picked so far: ${picked.length}`;
+        spinning = false;
       }, 2000);
     }
 
-    document.addEventListener("keydown", function (e) {
+    function revealWinners() {
+      stopped = true;
+      stopBtn.disabled = true;
+      drawBtn.disabled = true;
+
+      if (picked.length === 0) {
+        spinner.textContent = "No winners picked yet!";
+        status.textContent = "";
+        return;
+      }
+      spinner.textContent = `🎊 Congratulations to all winners: 👏👏👏`;
+      status.innerHTML = picked.map((w, i) => `${i + 1}. ${w}`).join("<br>");
+      status.classList.add("winners-list");
+    }
+
+    drawBtn.addEventListener("click", spinAndPickWinner);
+    stopBtn.addEventListener("click", revealWinners);
+
+    document.addEventListener("keydown", (e) => {
       if (e.key === "Enter") {
         spinAndPickWinner();
       }
