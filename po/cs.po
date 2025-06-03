@@ -30,6 +30,11 @@ msgstr "Němčina"
 msgid "lang_name_ca"
 msgstr "Katalánština"
 
+#, fuzzy
+#| msgid "lang_name_ca"
+msgid "lang_name_ja"
+msgstr "Katalánština"
+
 msgid "Stats"
 msgstr "Statistiky"
 

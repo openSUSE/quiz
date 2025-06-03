@@ -33,6 +33,11 @@ msgstr "Deutsch"
 msgid "lang_name_ca"
 msgstr "Čeština"
 
+#, fuzzy
+#| msgid "lang_name_cs"
+msgid "lang_name_ja"
+msgstr "Čeština"
+
 msgid "Stats"
 msgstr "İstatistikler"
 

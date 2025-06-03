@@ -29,6 +29,11 @@ msgstr "Deutsch"
 msgid "lang_name_ca"
 msgstr "Türkçe"
 
+#, fuzzy
+#| msgid "lang_name_tr"
+msgid "lang_name_ja"
+msgstr "Türkçe"
+
 msgid "Stats"
 msgstr ""
 

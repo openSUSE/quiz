@@ -32,6 +32,11 @@ msgstr "lang_name_de"
 msgid "lang_name_ca"
 msgstr "lang_name_cs"
 
+#, fuzzy
+#| msgid "lang_name_cs"
+msgid "lang_name_ja"
+msgstr "lang_name_cs"
+
 msgid "Stats"
 msgstr "Estat"
 
