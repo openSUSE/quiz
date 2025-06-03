@@ -962,3 +962,9 @@ msgstr ""
 
 msgid "Auto Refresh"
 msgstr ""
+
+msgid "lang_name_he"
+msgstr "סלובקית"
+
+msgid "lang_name_sk"
+msgstr "Slovenčina"
