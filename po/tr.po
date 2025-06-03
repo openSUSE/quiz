@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 06:52+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"PO-Revision-Date: 2025-06-03 16:19+0000\n"
+"Last-Translator: Atakan Ersen <atakanersen@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,10 +89,13 @@ msgstr "Mevcut Sınavlar"
 msgid "openSUSE Expert"
 msgstr "openSUSE Uzman"
 
+#, fuzzy
 msgid ""
 "Challenge other users in our leaderboard. 30 seconds per question. Stop "
 "anytime."
 msgstr ""
+"Skor tahtamızdaki diğer kullanıcılara meydan oku. Soru başına 30 saniye. "
+"İstediğin zaman durdur."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
@@ -225,6 +228,8 @@ msgid ""
 "Which openSUSE rolling distribution offers a calmer alternative to "
 "Tumbleweed for users who prefer fewer surprises?"
 msgstr ""
+"Hangi openSUSE sürekli güncellenen dağıtımı, daha az sürprizlerle "
+"karşılaşmak isteyen kullanıcılara daha sakin bir alternatif sunar?"
 
 #. no-translate
 msgid "Tumblebleed"
@@ -278,8 +283,10 @@ msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
 msgid "A container-focused system like MicroOS"
 msgstr "MicroOS gibi konteyner odaklı bir sistem"
 
+#, fuzzy
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr ""
+"Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
 
 #. no-translate
 msgid "GNOME"
@@ -294,12 +301,12 @@ msgid "Xfce"
 msgstr ""
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "Varsayılan yok. Seçimi kullanıcıya bırakıyoruz."
 
 #, fuzzy
 #| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the name of the openSUSE build system?"
-msgstr "OpenSUSE projesinin temel amacı nedir?"
+msgstr "OpenSUSE derleme sisteminin adı nedir?"
 
 #. no-translate
 msgid "OBS (Open Build Service)"
