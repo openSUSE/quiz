@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 08:18+0000\n"
+"PO-Revision-Date: 2025-06-03 08:20+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
 "Language: ca\n"
@@ -982,22 +982,22 @@ msgid "Can chameleons move their eyes separately?"
 msgstr "Els camaleons poden moure els ulls separadament?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "No, parpellegen amb tots dos ulls alhora."
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Sí, poden mirar en dues direccions alhora!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Tanquen un ull quan dormen."
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "No, sempre tenen els ulls tancats."
 
 msgid "No users found"
-msgstr ""
+msgstr "No s'ha trobat cap usuari"
 
 msgid "Please enter a username to submit."
-msgstr ""
+msgstr "Si us plau, introduïu un nom d'usuari per enviar."
 
 msgid "Username must be at least 3 characters long."
 msgstr ""
