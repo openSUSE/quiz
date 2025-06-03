@@ -923,7 +923,9 @@ msgstr "openSUSE が特別 (とくべつ) なのはなぜ？"
 msgid "It can talk to animals"
 msgstr "動物 (どうぶつ) と話 (はな) せるから"
 
-msgid "It’s a free modern, and secure operating system anyone can use"
+#, fuzzy
+#| msgid "It’s a free modern, and secure operating system anyone can use"
+msgid "It’s a modern, free operating system anyone can use — including you!"
 msgstr ""
 "フリーでモダン、かつ安全 (あんぜん) で誰 (だれ) にでも使 (つか) いやすいオペ"
 "レーティングシステムだから"

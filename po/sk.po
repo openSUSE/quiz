@@ -909,7 +909,7 @@ msgstr ""
 msgid "It can talk to animals"
 msgstr ""
 
-msgid "It’s a free modern, and secure operating system anyone can use"
+msgid "It’s a modern, free operating system anyone can use — including you!"
 msgstr ""
 
 msgid "It’s made of chameleon scales"

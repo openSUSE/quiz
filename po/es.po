@@ -947,7 +947,9 @@ msgstr "¿Qué hace especial a openSUSE?"
 msgid "It can talk to animals"
 msgstr "Puede hablar con los animales"
 
-msgid "It’s a free modern, and secure operating system anyone can use"
+#, fuzzy
+#| msgid "It’s a free modern, and secure operating system anyone can use"
+msgid "It’s a modern, free operating system anyone can use — including you!"
 msgstr ""
 "Es un sistema operativo libre, moderno y seguro que cualquiera puede usar"
 
