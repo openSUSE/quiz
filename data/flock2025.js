@@ -1,5 +1,5 @@
 const quizData = {
-  title: "openSUSE Flock Day 1",
+  title: "openSUSE Flock 2025",
   subtitle:
     "Don't worry this quiz is mostly educational. No need to know all the answers.",
   submitAnytime: false,
@@ -16,7 +16,7 @@ const questions = [
       { text: "Tux", correct: false },
     ],
   },
-{
+  {
   text: "Who or what is Beefy Miracle in the Fedora community?",
   answers: [
     { text: "A Fedora release with AI tools", correct: false },
@@ -24,7 +24,7 @@ const questions = [
     { text: "A hot dog-themed mascot symbolizing Fedora’s fun and open culture", correct: true },
     { text: "An internal testing framework used for Rawhide", correct: false },
   ],
-}
+  }
   {
     text: "What is Fedora Silverblue?",
     answers: [
