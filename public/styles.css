@@ -5,39 +5,6 @@
   padding: 10px 0px;
   margin-bottom: 15px;
 }
-
-#loggedInBanner {
-  display: none; /* Initially hidden */
-  background: #f0f0f0;
-  padding: 6px 12px;
-  font-size: 0.9em;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  border-radius: 4px;
-  margin: 10px 0;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 10;
-
-  max-width: 90vw;         /* limits banner width to 90% of viewport width */
-  box-sizing: border-box;  /* to include padding in width calculations */
-  flex-wrap: wrap;         /* allow children to wrap on small screens */
-}
-
-#logoutBtn {
-  background: #e74c3c;
-  border: none;
-  color: #fff;
-  border-radius: 3px;
-  padding: 6px 12px;       /* a bit bigger tap target on mobile */
-  margin-left: 10px;
-  cursor: pointer;
-  font-size: 1em;          /* slightly bigger text for readability */
-  flex-shrink: 0;          /* prevent button from shrinking too much */
-}
-
 .user-controls-block {
   display: flex;
   flex-direction: column;
@@ -66,49 +33,6 @@
   border-color: #35b9ab;
   box-shadow: 0 0 0 2px rgba(53, 185, 171, 0.5);
 }
-
-.language-selector-container,
-.refresh-selector-container {
-  display: inline-block;
-  margin-right: 1em;
-}
-
-.refresh-selector-container {
-  display: flex;
-  align-items: center;
-  margin-bottom: 8px;
-  margin-right: 1em; /* aligns with shared rule */
-}
-
-.refresh-selector-container label {
-  margin-right: 8px;
-  color: darkgray;
-  font-family: 'Source Sans 3', sans-serif;
-}
-
-.refresh-selector-container select {
-  padding: 5px 8px;
-  border-radius: 5px;
-  border: 1px solid lightgray;
-  background-color: #fff;
-  font-family: 'Source Sans 3', sans-serif;
-  cursor: pointer;
-}
-
-.refresh-selector-container select:focus {
-  outline: none;
-  border-color: #35b9ab;
-  box-shadow: 0 0 0 2px rgba(53, 185, 171, 0.5);
-}
-
-.selector-group {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 16px; /* adjust spacing between selectors */
-  margin-bottom: 8px;
-}
-
 .slim-stats-btn {
   padding: 8px 15px !important;
   font-size: 0.9em !important;
@@ -200,7 +124,7 @@ body {
   line-height: 1.5;
   background: linear-gradient(135deg, #73ba25 0%, #6da741 25%, #35b9ab 75%, #173f4f 100%);
   background-size: 400% 400%;
-  animation: gradientShift 60s ease infinite;
+  animation: gradientShift 8s ease infinite;
   padding: 1em;
   display: flex;
   flex-direction: column;
@@ -583,6 +507,95 @@ input[type="text"]:disabled {
 .wrong {
   background: #ff3e51 !important;
   color: #fff !important;
+}
+#loggedInBanner {
+  display: none;
+  /* Initially hidden */
+  background: #f0f0f0;
+  padding: 6px 12px;
+  font-size: 0.9em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 4px;
+  margin: 10px 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  max-width: 90vw;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+#loggedInUserText {
+  margin-right: 10px;
+  word-break: break-word;
+}
+#logoutBtn {
+  background: #ff3e51;
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 0.8em;
+  flex-shrink: 0;
+  min-width: 60px;
+}
+/* Responsive adjustments for smaller screens */
+@media (max-width: 600px) {
+  .top-bar-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  #loggedInBanner {
+    position: static;
+    transform: none;
+    flex-direction: column;
+    /* Stack items vertically */
+    align-items: stretch;
+    /* Stretch items to fill width */
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  #loggedInUserText {
+    margin-right: 0;
+    /* Remove right margin when stacked */
+    margin-bottom: 8px;
+    /* Add bottom margin when stacked */
+  }
+  #logoutBtn {
+    width: 100%;
+    /* Make button full width */
+    margin-top: 5px;
+    /* Add some space above the button */
+    margin-left: 0;
+  }
+  .user-controls-block {
+    width: 100%;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .language-selector-container {
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+  }
+  .language-selector-container label {
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
+  .language-selector-container select {
+    width: auto;
+  }
+  .stats-link-container {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
 }
 @media screen and (max-width: 894px) {
   .container {

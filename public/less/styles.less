@@ -455,6 +455,99 @@ input[type="text"]:disabled {
   color: #fff !important;
 }
 
+#loggedInBanner {
+  display: none; /* Initially hidden */
+  background: #f0f0f0;
+  padding: 6px 12px;
+  font-size: 0.9em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 4px;
+  margin: 10px 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  max-width: 90vw;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+#loggedInUserText {
+  margin-right: 10px;
+  word-break: break-word;
+}
+
+#logoutBtn {
+  background: @quiz-wrong-answer; // Using a variable
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 0.8em;
+  flex-shrink: 0;
+  min-width: 60px;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 600px) {
+  .top-bar-container {
+    flex-direction: column;
+    align-items: center; // Center the banner and the user-controls block
+  }
+
+  #loggedInBanner {
+    position: static;   // Change from absolute to static
+    transform: none;    // Remove the transform
+    flex-direction: column; /* Stack items vertically */
+    align-items: stretch; /* Stretch items to fill width */
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px; // Add space below the banner
+  }
+
+  #loggedInUserText {
+    margin-right: 0; /* Remove right margin when stacked */
+    margin-bottom: 8px; /* Add bottom margin when stacked */
+  }
+
+  #logoutBtn {
+    width: 100%; /* Make button full width */
+    margin-top: 5px; /* Add some space above the button */
+    margin-left: 0; // Reset margin-left for stacked layout
+  }
+
+  .user-controls-block {
+    width: 100%; 
+    align-items: center; // Changed from flex-end to center
+    margin-top: 10px; 
+  }
+
+  .language-selector-container {
+    flex-direction: column; // Stack label and select
+    align-items: center;  // Changed from flex-end to center
+    width: auto; // Allow it to size based on content, will be centered by parent
+
+    label {
+      margin-right: 0; // Remove side margin as it's stacked above select
+      margin-bottom: 5px; // Add space between label and select
+    }
+    select {
+      width: auto; // Allow select to size naturally
+    }
+  }
+
+  .stats-link-container {
+    width: auto; // Allow it to size based on content, will be centered by parent
+    display: flex; 
+    justify-content: center; // Changed from flex-end to center
+    margin-top: 10px; // Add some space if language selector is also stacked
+  }
+}
+
 @media screen and (max-width: 894px) {
   .container {
     width: 90%;
