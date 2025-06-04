@@ -44,7 +44,7 @@ const questions = [
         correct: false,
       },
       {
-        text: "The administration of mainframe machine through web interface from the 90’s",
+        text: "The administration of mainframe machine through web interface",
         correct: true,
       },
       {
@@ -57,10 +57,10 @@ const questions = [
   {
     text: "z/VM is?",
     answers: [
-      { text: "Virtual Machine on Z (meaning s390x)", correct: true },
+      { text: "Virtual Machine on Z (meaning s390x)", correct: false },
       {
-        text: "z/VM is operating system with the best backward compatibility",
-        correct: false,
+        text: "z/VM is operating system usually used as hypervisor",
+        correct: true,
       },
       { text: "Remote desktop viewer", correct: false },
       { text: "Zombie Virtual Memory", correct: false },
@@ -69,8 +69,8 @@ const questions = [
   {
     text: "What does storage mean in the mainframe world?",
     answers: [
-      { text: "Memory (RAM)", correct: false },
-      { text: "Data storage (disks) counted in cylinders", correct: true },
+      { text: "Memory (RAM)", correct: true },
+      { text: "Data storage (disks) counted in cylinders", correct: false },
       { text: "A room where the mainframe is located", correct: false },
       {
         text: "Compartment within a mainframe where the disks are located",
@@ -86,7 +86,7 @@ const questions = [
         correct: false,
       },
       {
-        text: "Terminal using unsecured telnet for connection to a machine",
+        text: "Terminal emulator for connection to a machine",
         correct: true,
       },
       { text: "Hexa code used as default admin password", correct: false },
@@ -105,7 +105,7 @@ const questions = [
   {
     text: "What is IFL?",
     answers: [
-      { text: "A variant of lung disease", correct: false },
+      { text: "A filtration unit for cooling fluid", correct: false },
       { text: "A core to run Linux on mainframe", correct: true },
       { text: "Made up word to confuse laptop users", correct: false },
       { text: "Integrated FLat circuit", correct: false },
@@ -124,25 +124,25 @@ const questions = [
     ],
   },
   {
-    text: "How is the operating system on s390x administered?",
+    text: "What is the most used operating system on mainframes?",
     answers: [
-      { text: "Prolog", correct: false },
-      { text: "Lisp", correct: false },
-      { text: "HMC", correct: true },
-      { text: "Linux (installed on bare metal)", correct: false },
+      { text: "z/OS", correct: true },
+      { text: "Linux", correct: false },
+      { text: "Windows", correct: false },
+      { text: "z/VM", correct: false },
     ],
   },
   {
-    text: "AI must be mentioned :) In which language(s) can’t you work with data models on s390x using hardware exploitation?",
+    text: "Do mainframes have any special AI capabilities?",
     answers: [
-      { text: "Prolog", correct: false },
-      { text: "C/C++", correct: true },
-      { text: "Python", correct: true },
-      { text: "Java", correct: true },
+      { text: "Yes, latest models have superior AI processor called Tellum.", correct: true },
+      { text: "No, it's too old technology.", correct: false },
+      { text: "Yes, but it can't be used on Linux.", correct: false },
+      { text: "No, mainframes are not useful for running AI tasks.", correct: false },
     ],
   },
   {
-    text: "Which of the following I/O devices is typically not used with mainframes?",
+    text: "Which of the following I/O devices is not used with mainframes?",
     answers: [
       { text: "Disks", correct: false },
       { text: "Tape drives", correct: false },
