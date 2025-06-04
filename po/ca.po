@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 09:25+0000\n"
+"PO-Revision-Date: 2025-06-05 07:59+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
 "Language: ca\n"
@@ -939,10 +939,10 @@ msgstr "Què fa que l'openSUSE sigui especial?"
 msgid "It can talk to animals"
 msgstr "Pot parlar amb els animals"
 
-#, fuzzy
-#| msgid "It’s a free modern, and secure operating system anyone can use"
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr "És un sistema operatiu modern, gratuït i segur que tothom pot usar"
+msgstr ""
+"És un sistema operatiu modern i gratuït que tothom pot fer servir, fins i "
+"tot tu!"
 
 msgid "It’s made of chameleon scales"
 msgstr "Està fet d'escates de camaleó"
@@ -1010,32 +1010,25 @@ msgstr "Taula de classificació"
 msgid "Auto Refresh"
 msgstr "Refresc automàtic"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_he"
-msgstr "Anglès"
+msgstr "Hebreu"
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_sk"
-msgstr "Txec"
+msgstr "Eslovac"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_nl"
-msgstr "Anglès"
+msgstr "Neerlandès"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_es"
-msgstr "Anglès"
+msgstr "Castellà"
 
 msgid ""
 "Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
 "Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
+"Cada resposta correcta dona 1 punt. Cada pregunta intentada suma 0,05 punts. "
+"Cada resposta incorrecta resta 0,1 punts. La puntuació total mai baixa per "
+"sota de zero."
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_uk"
-msgstr "Txec"
+msgstr "Ucraïnès"
