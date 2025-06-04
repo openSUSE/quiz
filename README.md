@@ -84,17 +84,11 @@ It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sand
 
 ### Distrobox 📦🐳
 
-Distrobox example:
+Distrobox example with Tumbleweed and nodejs22/npm22 preinstalled:
 
 ```bash
-distrobox create --name quiz --image opensuse/tumbleweed --install zypper
-```
-
-Then install the required packages and run the app: ⚙️
-
-```bash
+distrobox create -i registry.opensuse.org/opensuse/tumbleweed:latest --additional-packages "git nodejs22" -n quiz
 distrobox enter quiz
-zypper in git nodejs
 git clone https://github.com/openSUSE/quiz.git
 cd quiz
 npm install
