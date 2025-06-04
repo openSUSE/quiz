@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 11:33+0000\n"
+"PO-Revision-Date: 2025-06-05 07:59+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
 "Language: ja\n"
@@ -923,12 +923,9 @@ msgstr "openSUSE が特別 (とくべつ) なのはなぜ？"
 msgid "It can talk to animals"
 msgstr "動物 (どうぶつ) と話 (はな) せるから"
 
-#, fuzzy
-#| msgid "It’s a free modern, and secure operating system anyone can use"
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
-"フリーでモダン、かつ安全 (あんぜん) で誰 (だれ) にでも使 (つか) いやすいオペ"
-"レーティングシステムだから"
+msgstr "モダンで安全 (あんぜん) 、そして誰 (だれ) にでも使 (つか) いやすい自由 "
+"(じゆう) なオペレーティングシステムだから！"
 
 msgid "It’s made of chameleon scales"
 msgstr "カメレオンの鱗 (うろこ) でできているから"
@@ -996,32 +993,24 @@ msgstr "ランキング"
 msgid "Auto Refresh"
 msgstr "自動更新"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_he"
-msgstr "英語"
+msgstr "ヘブライ語"
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_sk"
-msgstr "チェコ語"
+msgstr "スロバキア語"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_nl"
-msgstr "英語"
+msgstr "オランダ語"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_es"
-msgstr "英語"
+msgstr "スペイン語"
 
 msgid ""
 "Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
 "Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
+"それぞれ 1 問挑戦するごとに 0.05 点、 1 問正解するごとに 1 点が足され、"
+"誤答の場合は 0.1 点が引かれます。合計点は 0 点未満になることはありません。"
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_uk"
-msgstr "チェコ語"
+msgstr "ウクライナ語"
