@@ -135,7 +135,7 @@ const questions = [
   {
     text: "Do mainframes have any special AI capabilities?",
     answers: [
-      { text: "Yes, latest models have superior AI processor called Tellum.", correct: true },
+      { text: "Yes, latest models have Spyre accelerator.", correct: true },
       { text: "No, it's too old technology.", correct: false },
       { text: "Yes, but it can't be used on Linux.", correct: false },
       { text: "No, mainframes are not useful for running AI tasks.", correct: false },
