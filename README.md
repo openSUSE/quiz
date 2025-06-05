@@ -240,6 +240,19 @@ git commit -am "Prettier code"
 git push
 ```
 
+## 🦎 Test data
+
+Copy our stats.json.sample In case you need quickly some test data.
+Please avoid pushing changes to public/stats.json. We have it in .gitignore for a reson. 💚
+
+```bash
+cd quiz
+cp public/stats.json.sample public/stats.json
+npm start
+```
+
+Visit [http://localhost:4000/stats](http://localhost:4000/stats) or [http://localhost:4000/bingo](http://localhost:4000/bingo) in your browser. 🌐
+
 ---
 
 Thanks for your contribution! 🐲💚
