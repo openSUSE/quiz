@@ -49,8 +49,10 @@ module.exports = (dependencies) => {
 
     const { quizData, questions } = require(quizPath);
     const localized = localizeQuizData({ quizData, questions }, _);
-
     const uiStrings = getUiStrings(_, name);
+    const existingLoginsLower = Object.keys(results || {}).map((k) =>
+      k.toLowerCase(),
+    );
 
     res.render("quiz", {
       nickname: name,
@@ -60,6 +62,7 @@ module.exports = (dependencies) => {
       questions: JSON.stringify(localized.questions),
       uiStrings: uiStrings,
       quizTitle: localized.quizData.title,
+      existingLogins: JSON.stringify(existingLoginsLower),
     });
   });
 

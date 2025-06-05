@@ -1,4 +1,5 @@
 /* global uiStrings */
+/* global existingLogins */
 
 var startBtn = document.querySelector(".start-btn"),
   submitBtn = document.querySelector(".submit-btn"),
@@ -17,6 +18,18 @@ let currentQuestion = 0;
 let correct = 0;
 let questionTimeout = null;
 let timerInterval = null;
+
+function isLoginTaken(login) {
+  const lowerLogin = login.toLowerCase();
+  const storedNick = localStorage.getItem("quizNickname");
+
+  if (storedNick && storedNick.toLowerCase() === lowerLogin) {
+    return false;
+  }
+
+  // Otherwise, check if it's already used
+  return existingLogins.includes(lowerLogin);
+}
 
 function updateUsernameValues(value) {
   const usernameInput = document.getElementById("username");
@@ -39,6 +52,15 @@ window.addEventListener("load", () => {
   }
 
   usernameInput.addEventListener("input", () => {
+    // This needs to be checked only before
+    // we initially set local variable
+    if (isLoginTaken(usernameInput.value)) {
+      usernameInput.classList.add("input-error");
+      usernameInput.setAttribute("title", uiStrings.usernameTaken);
+      usernameInput.focus();
+      return;
+    }
+
     localStorage.setItem("quizNickname", usernameInput.value);
     if (usernameTopHidden) usernameTopHidden.value = usernameInput.value;
 
@@ -51,7 +73,7 @@ window.addEventListener("load", () => {
   const topForm = document.querySelector(".submit-form-top");
   if (topForm) {
     topForm.addEventListener("submit", (event) => {
-      if (!confirm("Are you sure you want to submit?")) {
+      if (!confirm(uiStrings.confirmSubmit)) {
         event.preventDefault();
         return;
       }
@@ -95,19 +117,13 @@ window.addEventListener("load", () => {
 
       if (username === "") {
         usernameInput.classList.add("input-error");
-        usernameInput.setAttribute(
-          "title",
-          "Please enter a username to submit.",
-        );
+        usernameInput.setAttribute("title", uiStrings.usernamePrompt);
         usernameInput.focus();
         return; // Stop if username is missing
       }
-      if (username.length < 3) {
+      if (username.length < 4) {
         usernameInput.classList.add("input-error");
-        usernameInput.setAttribute(
-          "title",
-          "Username must be at least 3 characters long.",
-        );
+        usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
         usernameInput.focus();
         return; // Stop if username is too short
       }
@@ -148,15 +164,13 @@ function handleStartAction() {
 
   const username = usernameInput.value.trim();
   if (username !== "") {
-    if (username.length < 3) {
+    if (username.length < 4) {
       usernameInput.classList.add("input-error");
-      usernameInput.setAttribute(
-        "title",
-        "Username must be at least 3 characters long.",
-      );
+      usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
       usernameInput.focus();
       return;
     }
+
     usernameInput.disabled = true;
     document.getElementById("username-top-hidden").value = usernameInput.value;
     usernameInput.classList.remove("input-error");
