@@ -1,8 +1,8 @@
-
-
 # 🦎 openSUSE-quiz 🦎
 
 <!-- Badges -->
+
+[![Powered by openSUSE](https://img.shields.io/badge/powered%20by-openSUSE-6da741?logo=opensuse&logoColor=white)](https://www.opensuse.org/)
 [![Format and Lint Check](https://github.com/openSUSE/quiz/actions/workflows/format-check.yml/badge.svg)](https://github.com/openSUSE/quiz/actions/workflows/format-check.yml)
 ![MIT License](https://img.shields.io/github/license/openSUSE/quiz)
 ![Node.js Version](https://img.shields.io/badge/node-%3E=18.0.0-brightgreen)
@@ -250,3 +250,14 @@ Thanks for your contribution! 🐲💚
 
 **💡 Booth staff tip**
 You can make individual instances for conferences by creating a new pull request (e.g., "Devconf 2025") which will spawn a new instance of quiz-o-o in netlify.app. ✨
+
+---
+
+## 🍻 openSUSE Bar
+
+[![openSUSE Bar](https://img.shields.io/badge/meetup-openSUSE%20Bar-6da741?logo=opensuse&logoColor=white)](https://meet.opensuse.org/bar)
+[![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-openSUSE-6da741?logo=opensuse&logoColor=white)](https://en.opensuse.org/Code_of_Conduct)
+
+This project is developed mostly at the [openSUSE Bar](https://en.opensuse.org/openSUSE:Bar) — a place where everyone from the community can hang out, meet new people and just have a good time. We fix stuff together, contribute, talk about basically everything, help others and have a lot of fun.
+
+The openSUSE Bar operates under the [openSUSE Code of Conduct](https://en.opensuse.org/Code_of_Conduct).
