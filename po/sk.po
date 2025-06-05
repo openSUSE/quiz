@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 21:21+0000\n"
+"PO-Revision-Date: 2025-06-05 19:39+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
 "Language: sk\n"
@@ -331,82 +331,82 @@ msgid "By using Salt or Ansible"
 msgstr "Použitím Salt alebo Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "Musíte upraviť súbory pod používateľom netrunner a držať si palce"
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "Čo je 'YaST'?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "Druh chameleóna pochádzajúci z Afriky"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "Slobodný softvér na konfiguráciu operačného systému"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "Predvolený webový prehliadač"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Programovací jazyk"
 
 msgid "What is the primary goal of the openSUSE Aeon distribution?"
-msgstr ""
+msgstr "Čo je hlavným cieľom distribúcie openSUSE Aeon?"
 
 msgid "A modern transactional-desktop system with GNOME"
-msgstr ""
+msgstr "Moderný transakčný desktopový systém s GNOME"
 
 msgid "Scientific research"
-msgstr ""
+msgstr "Vedecký výskum"
 
 msgid "Containerization"
-msgstr ""
+msgstr "Kontajnerizácia"
 
 msgid "Enterprise use"
-msgstr ""
+msgstr "Podnikové použitie"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
+msgstr "Kde sa môžete dozvedieť o projektoch od Rancher a SUSE?"
 
 #. no-translate
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Rancher Academy"
 
 #. no-translate
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 #. no-translate
 msgid "Moo University"
-msgstr ""
+msgstr "Moo University"
 
 #. no-translate
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "Chameleóny sa vyskytujú predovšetkým v ktorej časti sveta?"
 
 msgid "South America"
-msgstr ""
+msgstr "Južná Amerika"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "Afrika a Madagaskar"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "Juhovýchodná Ázia"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktída"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
+msgstr "Kde môžete skontrolovať aktuálny stav infraštruktúry openSUSE?"
 
 #. no-translate
 msgid "status.opensuse.org"
-msgstr ""
+msgstr "status.opensuse.org"
 
 #. no-translate
 msgid "isopensusedown.com"
-msgstr ""
+msgstr "isopensusedown.com"
 
 #. no-translate
 msgid "yast-status-viewer"
@@ -414,66 +414,69 @@ msgstr "yast-status-viewer"
 
 #. no-translate
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid ""
 "Where can you install additional packages or packages with changes that "
 "didn't make it into the main distribution?"
 msgstr ""
+"Odkiaľ si môžete nainštalovať ďalšie balíky alebo balíky so zmenami, ktoré "
+"sa nedostali do hlavnej distribúcie?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "Jedným kliknutím zo software.opensuse.org"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "Prechádzaním nespočetného množstva projektov na OBS build.opensuse.org"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
+msgstr "Prostredníctvom príkazu opi, z repozitára Packman alebo z Flathubu"
 
 msgid ""
 "When submitting packages to openSUSE, where do you send them "
 "(metaphorically)?"
-msgstr ""
+msgstr "Keď postupujete balíky do openSUSE, kam ich posielate (obrazne)?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, nie poštový holub"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "Do oblakov (doslova)"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "E-mailom maskotovi Geeko"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "Dymovými signálmi z Norimbergu"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr ""
+"Ako sa volá nové grafické rozhranie správcu balíkov, ktoré nahradí YaST?"
 
 #. no-translate
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 #. no-translate
 msgid "Zypperella"
-msgstr ""
+msgstr "Zypperella"
 
 #. no-translate
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 #. no-translate
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "Ako často sa vydáva nová stabilná verzia openSUSE Leap?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "Každých 5 rokov, keď sa zoskupia hviezdy"
 
 msgid "Monthly, to keep everyone on their toes"
-msgstr ""
+msgstr "Mesačne, aby boli všetci v strehu"
 
 msgid "Annually"
 msgstr ""
@@ -775,10 +778,8 @@ msgstr ""
 msgid "z/OS"
 msgstr ""
 
-#, fuzzy
-#| msgid "Arch Linux"
 msgid "Linux"
-msgstr "Arch Linux"
+msgstr "Linux"
 
 #. no-translate
 msgid "Windows"
@@ -998,10 +999,8 @@ msgid ""
 "Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
 
-#, fuzzy
-#| msgid "lang_name_sk"
 msgid "lang_name_uk"
-msgstr "Slovenčina"
+msgstr "Ukrajinčina"
 
 msgid "What does GNOME do?"
 msgstr ""
@@ -1039,40 +1038,27 @@ msgstr ""
 msgid "Firewalld"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the main openSUSE conference called?"
-msgstr "Aký je maskot projektu openSUSE?"
+msgstr "Ako sa volá hlavná konferencia openSUSE?"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Gathering"
-msgstr "openSUSE Expert"
+msgstr "openSUSE Gathering"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Fest"
-msgstr "openSUSE Expert"
+msgstr "openSUSE Fest"
 
 msgid "openSUSE Conference (OSC)"
 msgstr ""
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Flock"
-msgstr "openSUSE Expert"
+msgstr "openSUSE Flock"
 
-#, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following has the highest compression?"
-msgstr "Ktorý z nasledujúcich správcov balíkov sa bežne používa v openSUSE?"
+msgstr "Ktorý z nasledujúcich má najvyššiu kompresiu?"
 
 #. no-translate
-#, fuzzy
-#| msgid "Start"
 msgid "tar"
-msgstr "Štart"
+msgstr "tar"
 
 #. no-translate
 msgid "echo"
@@ -1094,10 +1080,8 @@ msgid "Under Geeko’s pillow"
 msgstr ""
 
 #. no-translate
-#, fuzzy
-#| msgid "issues.opensuse.org"
 msgid "forums.opensuse.org"
-msgstr "issues.opensuse.org"
+msgstr "forums.opensuse.org"
 
 #. no-translate
 msgid "i-seek-you-opensuse"
@@ -1122,10 +1106,8 @@ msgstr ""
 msgid "Sinus Urvaald"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the official slogan of openSUSE?"
-msgstr "Aký je maskot projektu openSUSE?"
+msgstr "Aký je oficiálny slogan openSUSE?"
 
 msgid "Have a lot of fun!"
 msgstr ""
@@ -1139,10 +1121,8 @@ msgstr ""
 msgid "Power to the Users"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the default shell in openSUSE?"
-msgstr "Aký je predvolený súborový systém v openSUSE?"
+msgstr "Aký je predvolený shell v openSUSE?"
 
 #. no-translate
 msgid "ash"
@@ -1160,10 +1140,8 @@ msgstr ""
 msgid "dash"
 msgstr ""
 
-#, fuzzy
-#| msgid "Where was the openSUSE project founded?"
 msgid "When was the openSUSE project officially started?"
-msgstr "Kde bol založený projekt openSUSE?"
+msgstr "Kedy bol projekt openSUSE oficiálne spustený?"
 
 #. no-translate
 msgid "2047"
