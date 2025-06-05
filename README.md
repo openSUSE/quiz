@@ -1,4 +1,14 @@
+
+
 # 🦎 openSUSE-quiz 🦎
+
+<!-- Badges -->
+[![Format and Lint Check](https://github.com/openSUSE/quiz/actions/workflows/format-check.yml/badge.svg)](https://github.com/openSUSE/quiz/actions/workflows/format-check.yml)
+![MIT License](https://img.shields.io/github/license/openSUSE/quiz)
+![Node.js Version](https://img.shields.io/badge/node-%3E=18.0.0-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/openSUSE/quiz)
+![Contributors](https://img.shields.io/github/contributors/openSUSE/quiz)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fquiz-o-o.netlify.app)](https://quiz-o-o.netlify.app)
 
 A goal of this project is to provide openSUSE booth staff with a local instance of a quiz that we used to do in [a paper form](https://github.com/openSUSE/artwork/tree/master/quizzes). Having an [online variant](https://quiz-o-o.netlify.app) saves both money 💰 and environment 🌍.
 
