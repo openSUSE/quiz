@@ -317,7 +317,7 @@ const questions = [
   {
     text: "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?",
     answers: [
-      { text: "under Geeko’s pillow", correct: false },
+      { text: "Under Geeko’s pillow", correct: false },
       { text: "forums.opensuse.org", correct: true },
       { text: "i-seek-you-opensuse", correct: false },
       { text: "yast --help", correct: false },
@@ -411,7 +411,7 @@ const questions = [
         text: "Repository definitions in /etc/zypp/repos.d/ managed by RIS",
         correct: true,
       },
-      { text: "Kernel modules for openSUSE Leap", correct: false },
+      { text: "Kernel modules for openSUSE", correct: false },
       { text: "Desktop themes and icons", correct: false },
       { text: "System logs and journal settings", correct: false },
     ],

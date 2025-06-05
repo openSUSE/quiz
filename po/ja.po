@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 11:33+0000\n"
+"PO-Revision-Date: 2025-06-05 07:59+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
 "Language: ja\n"
@@ -923,12 +923,10 @@ msgstr "openSUSE が特別 (とくべつ) なのはなぜ？"
 msgid "It can talk to animals"
 msgstr "動物 (どうぶつ) と話 (はな) せるから"
 
-#, fuzzy
-#| msgid "It’s a free modern, and secure operating system anyone can use"
 msgid "It’s a modern, free operating system anyone can use — including you!"
 msgstr ""
-"フリーでモダン、かつ安全 (あんぜん) で誰 (だれ) にでも使 (つか) いやすいオペ"
-"レーティングシステムだから"
+"モダンで安全 (あんぜん) 、そして誰 (だれ) にでも使 (つか) いやすい自由 (じゆ"
+"う) なオペレーティングシステムだから！"
 
 msgid "It’s made of chameleon scales"
 msgstr "カメレオンの鱗 (うろこ) でできているから"
@@ -996,32 +994,250 @@ msgstr "ランキング"
 msgid "Auto Refresh"
 msgstr "自動更新"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_he"
-msgstr "英語"
+msgstr "ヘブライ語"
 
-#, fuzzy
-#| msgid "lang_name_cs"
 msgid "lang_name_sk"
-msgstr "チェコ語"
+msgstr "スロバキア語"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_nl"
-msgstr "英語"
+msgstr "オランダ語"
 
-#, fuzzy
-#| msgid "lang_name_en"
 msgid "lang_name_es"
-msgstr "英語"
+msgstr "スペイン語"
 
 msgid ""
 "Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
 "Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
+"それぞれ 1 問挑戦するごとに 0.05 点、 1 問正解するごとに 1 点が足され、誤答の"
+"場合は 0.1 点が引かれます。合計点は 0 点未満になることはありません。"
+
+msgid "lang_name_uk"
+msgstr "ウクライナ語"
+
+msgid "What does GNOME do?"
+msgstr ""
+
+msgid "Mine gold and diamonds"
+msgstr ""
+
+msgid "Create a desktop environment for Linux"
+msgstr ""
+
+msgid "Install Linux programs and applications"
+msgstr ""
+
+msgid "Fix MacOS drivers"
+msgstr ""
+
+msgid ""
+"Which security module is now used by default in new openSUSE Tumbleweed and "
+"Leap 16.0 installations?"
+msgstr ""
+
+#. no-translate
+msgid "AppArmor"
+msgstr ""
+
+#. no-translate
+msgid "SELinux"
+msgstr ""
+
+#. no-translate
+msgid "grsecurity"
+msgstr ""
+
+#. no-translate
+msgid "Firewalld"
+msgstr ""
 
 #, fuzzy
-#| msgid "lang_name_cs"
-msgid "lang_name_uk"
-msgstr "チェコ語"
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What is the main openSUSE conference called?"
+msgstr "openSUSE プロジェクトのマスコットは？"
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Gathering"
+msgstr "openSUSE エキスパート"
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Fest"
+msgstr "openSUSE エキスパート"
+
+msgid "openSUSE Conference (OSC)"
+msgstr ""
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Flock"
+msgstr "openSUSE エキスパート"
+
+#, fuzzy
+#| msgid ""
+#| "Which of the following package managers is commonly used in openSUSE?"
+msgid "Which of the following has the highest compression?"
+msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+
+#. no-translate
+#, fuzzy
+#| msgid "Start"
+msgid "tar"
+msgstr "開始"
+
+#. no-translate
+msgid "echo"
+msgstr ""
+
+#. no-translate
+msgid "mkfile"
+msgstr ""
+
+msgid "steam roller"
+msgstr ""
+
+msgid ""
+"Where can you find endless wisdom, occasional rants, and a lot of helpful "
+"penguin-powered advice from the openSUSE community?"
+msgstr ""
+
+msgid "Under Geeko’s pillow"
+msgstr ""
+
+#. no-translate
+#, fuzzy
+#| msgid "fun@opensuse.org"
+msgid "forums.opensuse.org"
+msgstr "fun@opensuse.org"
+
+#. no-translate
+msgid "i-seek-you-opensuse"
+msgstr ""
+
+#. no-translate
+msgid "yast --help"
+msgstr ""
+
+msgid "Who is known as the father of Linux?"
+msgstr ""
+
+msgid "Torwald Linuksson"
+msgstr ""
+
+msgid "Linus Torvalds"
+msgstr ""
+
+msgid "Linux Tyrnux"
+msgstr ""
+
+msgid "Sinus Urvaald"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE?"
+msgid "What is the official slogan of openSUSE?"
+msgstr "openSUSE のマスコットはどれ？"
+
+msgid "Have a lot of fun!"
+msgstr ""
+
+msgid "Innovate and Collaborate"
+msgstr ""
+
+msgid "Open Source, Open Future"
+msgstr ""
+
+msgid "Power to the Users"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What is the default shell in openSUSE?"
+msgstr "openSUSE における既定のファイルシステムは？"
+
+#. no-translate
+msgid "ash"
+msgstr ""
+
+#. no-translate
+msgid "bash"
+msgstr ""
+
+#. no-translate
+msgid "zshpicture"
+msgstr ""
+
+#. no-translate
+msgid "dash"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where was the openSUSE project founded?"
+msgid "When was the openSUSE project officially started?"
+msgstr "openSUSE プロジェクトはどこで設立された？"
+
+#. no-translate
+msgid "2047"
+msgstr ""
+
+msgid "0 AD"
+msgstr ""
+
+#. no-translate
+msgid "2005"
+msgstr ""
+
+#. no-translate
+msgid "1991"
+msgstr ""
+
+msgid "What cannot be tested in openQA?"
+msgstr ""
+
+#. no-translate
+msgid "ASCII art"
+msgstr ""
+
+msgid "Displaying websites in Mozilla Firefox"
+msgstr ""
+
+msgid "Installing Debian"
+msgstr ""
+
+#. no-translate
+msgid "Covid-19"
+msgstr ""
+
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "What does the new openSUSE-repos package manage?"
+msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+
+msgid "Repository definitions in /etc/zypp/repos.d/ managed by RIS"
+msgstr ""
+
+msgid "Kernel modules for openSUSE"
+msgstr ""
+
+msgid "Desktop themes and icons"
+msgstr ""
+
+msgid "System logs and journal settings"
+msgstr ""
+
+msgid "Can you play Windows games on openSUSE?"
+msgstr ""
+
+msgid "No way, only Windows can do that"
+msgstr ""
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr ""
+
+msgid "Only if you summon the gaming gods"
+msgstr ""
+
+msgid "You need a secret handshake first"
+msgstr ""
