@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-05 20:48+0200\n"
-"PO-Revision-Date: 2025-06-05 19:39+0000\n"
+"PO-Revision-Date: 2025-06-05 20:03+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -13,11 +13,13 @@ msgstr ""
 "X-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
-msgstr ""
+msgstr "openSUSE Devconf 2025"
 
 msgid ""
 "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr ""
+"Nebojte se, tento kvíz je převážně vzdělávací. Není třeba znát všechny "
+"odpovědi."
 
 msgid "What is the mascot of openSUSE project?"
 msgstr "Jaký je maskot projektu openSUSE?"
@@ -529,20 +531,20 @@ msgid "Every 5 years when the stars align"
 msgstr "Každých 5 let, při konjunkci hvězd"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Každých 12 měsíců a 6ti mesíčním překryvem"
 
 msgid "Every month"
-msgstr ""
+msgstr "Každý měsíc"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Když se Geeko nudí"
 
 msgid ""
 "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Která služba openSUSE se používá pro správu lokalizace a překladů?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 #, fuzzy
 #| msgid "OBS (Open Build Service)"
@@ -556,6 +558,8 @@ msgid ""
 "What command would you use to update software packages on openSUSE from the "
 "terminal?"
 msgstr ""
+"Jaký příkaz byste použili k aktualizaci softwarových balíčků v openSUSE z "
+"terminálu?"
 
 msgid "zypper update"
 msgstr "zypper update"
@@ -566,7 +570,7 @@ msgid "apt-get update"
 msgstr "zypper update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
 msgstr ""
@@ -587,10 +591,10 @@ msgid "A desktop environment"
 msgstr "Vytváří desktopové prostředí pro Linux"
 
 msgid "The mascot"
-msgstr ""
+msgstr "Maskot"
 
 msgid "An installer"
-msgstr ""
+msgstr "Instalátor"
 
 #, fuzzy
 #| msgid "What command can you use to refresh zypper repositories?"
@@ -625,7 +629,7 @@ msgstr ""
 "služeb?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -642,10 +646,10 @@ msgstr ""
 "služeb?"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Hraní"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Desktopová produktivita"
 
 #, fuzzy
 #| msgid "Scientific research"
@@ -674,7 +678,7 @@ msgid "rsnapshot"
 msgstr ""
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "Jaký je výchozí textový editor na openSUSE?"
 
 msgid "vim"
 msgstr ""
@@ -689,13 +693,13 @@ msgid "gedit"
 msgstr ""
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "Který příkaz by nainstaloval balíček v openSUSE?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install package-name"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
 msgstr ""
@@ -728,6 +732,8 @@ msgid ""
 "Which tool is recommended for managing software repositories and packages in "
 "openSUSE?"
 msgstr ""
+"Který nástroj se doporučuje pro správu softwarových repozitářů a balíčků v "
+"openSUSE?"
 
 msgid "APT"
 msgstr ""
@@ -746,13 +752,13 @@ msgid "RPM"
 msgstr ""
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
 msgstr ""
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
 #, fuzzy
 #| msgid "What is the default filesystem in openSUSE?"
@@ -792,7 +798,7 @@ msgid "Apache License"
 msgstr ""
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Proprietární"
 
 #, fuzzy
 #| msgid "What does the word 'open' in openSUSE mean?"
@@ -805,13 +811,13 @@ msgid "Open Build Service"
 msgstr "OBS (Open Build Service)"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System"
 
 #, fuzzy
 #| msgid ""
@@ -828,7 +834,7 @@ msgid "Open Build Service (OBS)"
 msgstr "OBS (Open Build Service)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
 msgstr "Snapper"
@@ -844,7 +850,7 @@ msgid "Promoting and supporting free and open source software"
 msgstr "Podpora a šíření open-source softwaru"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "Vytváření proprietárního software"
 
 #, fuzzy
 #| msgid "Producing video games"
@@ -852,7 +858,7 @@ msgid "Developing video games"
 msgstr "Výroba videoher"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "Poskytování služeb v cloudu"
 
 #, fuzzy
 #| msgid "Which tool does openSUSE use for system snapshots and rollback?"
@@ -914,7 +920,7 @@ msgid "csh"
 msgstr "ash"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
 
 #, fuzzy
 #| msgid "Leapfrog"
@@ -1115,7 +1121,7 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "test"
-msgstr ""
+msgstr "test"
 
 #, fuzzy
 #| msgid "Start"
@@ -1147,7 +1153,7 @@ msgid "Score"
 msgstr "Skóre"
 
 msgid "Final"
-msgstr ""
+msgstr "Finální"
 
 #, fuzzy
 #| msgid "Start"
@@ -1155,7 +1161,7 @@ msgid "Restart"
 msgstr "Start"
 
 msgid "Question"
-msgstr ""
+msgstr "Otázka"
 
 #, fuzzy
 #| msgid "Please enter a username to submit."
@@ -1164,7 +1170,7 @@ msgstr "Pro pokračování zadejte uživatelské jméno."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Vítejte, %s"
 
 msgid "Are you sure you want to quit and submit?"
 msgstr "Opravdu chcete ukončit a odeslat?"
