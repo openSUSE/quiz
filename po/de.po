@@ -76,8 +76,7 @@ msgid "Are you sure you want to quit and submit?"
 msgstr "Möchten Sie wirklich beenden und Antworten übermitteln?"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
-"Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
+msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
 
 msgid "openSUSE Quizzes"
 msgstr "openSUSE Quizze"
@@ -89,12 +88,8 @@ msgstr "Verfügbare quizze"
 msgid "openSUSE Expert"
 msgstr "openSUSE Experte"
 
-msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
-msgstr ""
-"Fordern Sie andere Benutzer in unserer Bestenliste heraus. 30 Sekunden pro "
-"Frage. Sie können jederzeit aufhören."
+msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
+msgstr "Fordern Sie andere Benutzer in unserer Bestenliste heraus. 30 Sekunden pro Frage. Sie können jederzeit aufhören."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
@@ -133,12 +128,8 @@ msgstr "Was sind Aeon und Kalpa?"
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "Moderne 'Immutable' Desktops mit GNOME und KDE"
 
-msgid ""
-"Rolling distributions with transactional updates using flatpaks on the "
-"desktop"
-msgstr ""
-"Rolling Distributionen mit transaktionalen Updates welche Flatpaks auf dem "
-"Desktop verwenden"
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Rolling Distributionen mit transaktionalen Updates welche Flatpaks auf dem Desktop verwenden"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Auf MicroOS basierende Distributionen"
@@ -199,11 +190,8 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
-msgid ""
-"Which openSUSE distribution is optimized for running containers and micro "
-"services?"
-msgstr ""
-"Welche openSUSE Distribution ist für Container und Microservices optimiert?"
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Welche openSUSE Distribution ist für Container und Microservices optimiert?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS und Leap Micro"
@@ -220,12 +208,8 @@ msgstr "Leap"
 msgid "Slowroll"
 msgstr "Slowroll"
 
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
-"Welche openSUSE Distribution bietet eine ruhigere Alternative zu Tumbleweed "
-"für Nutzer die weniger Überraschungen bevorzugen?"
+msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
+msgstr "Welche openSUSE Distribution bietet eine ruhigere Alternative zu Tumbleweed für Nutzer die weniger Überraschungen bevorzugen?"
 
 #. no-translate
 msgid "Tumblebleed"
@@ -261,12 +245,8 @@ msgstr "Pacman"
 msgid "What is Leap 16.0?"
 msgstr "Was ist Leap 16.0?"
 
-msgid ""
-"A traditional Linux distribution, the successor to Leap 15.6, released in "
-"Fall 2025"
-msgstr ""
-"Eine traditionelle Linux Distribution, der Nachfolger von leap 15.6, "
-"veröffentlicht im Herbst 2025"
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Eine traditionelle Linux Distribution, der Nachfolger von leap 15.6, veröffentlicht im Herbst 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Eine immutable Distribution mit GNOME und KDE"
@@ -315,17 +295,11 @@ msgstr "Koji"
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
-msgid ""
-"How can you make changes to a root partition on a transactional-update based "
-"system?"
-msgstr ""
-"Wie kann man Änderungen an der root-Partition auf einem transaktionalen "
-"System vornehmen?"
+msgid "How can you make changes to a root partition on a transactional-update based system?"
+msgstr "Wie kann man Änderungen an der root-Partition auf einem transaktionalen System vornehmen?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
-"transactional-update command verwenden und beim Neustart einen neuen "
-"snapshot auswählen"
+msgstr "transactional-update command verwenden und beim Neustart einen neuen snapshot auswählen"
 
 msgid "By using sudo-sudo to gain giga privileges"
 msgstr "Indem man sudo-sudo verwendet um Giga-Rechte zu erhalten"
@@ -367,9 +341,7 @@ msgid "Enterprise use"
 msgstr "Enterprise-Nutzung"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
-"Was ist der richtige Ort um sich über Projekte von Rancher und SUSE zu "
-"informieren?"
+msgstr "Was ist der richtige Ort um sich über Projekte von Rancher und SUSE zu informieren?"
 
 #. no-translate
 msgid "Rancher Academy"
@@ -421,12 +393,8 @@ msgstr "yast-status-viewer"
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
-msgid ""
-"Where can you install additional packages or packages with changes that "
-"didn't make it into the main distribution?"
-msgstr ""
-"Wo kann man zusätzliche Pakete und Pakete mit Änderungen, die es nicht in "
-"die Hauptdistribution geschafft haben, installieren?"
+msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
+msgstr "Wo kann man zusätzliche Pakete und Pakete mit Änderungen, die es nicht in die Hauptdistribution geschafft haben, installieren?"
 
 msgid "With a single click from software.opensuse.org"
 msgstr "Mit einem einzigen Klick auf software.opensuse.org"
@@ -437,9 +405,7 @@ msgstr "Indem man die unzähligen Projekte im OBS build.opensuse.org durchsucht"
 msgid "Through command opi, from the Packman repository or from Flathub"
 msgstr "Mit dem Befehl opi, aus dem Packman repository oder von Flathub"
 
-msgid ""
-"When submitting packages to openSUSE, where do you send them "
-"(metaphorically)?"
+msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
 msgstr "Wo schickt man Pakete hin um sie nach openSUSE zu senden?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
@@ -455,9 +421,7 @@ msgid "Via smoke signals from Nuremberg"
 msgstr "Über Rauchsignale aus Nürnberg"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
-"Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die "
-"YaST ersetzt?"
+msgstr "Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die YaST ersetzt?"
 
 #. no-translate
 msgid "Gandalf"
@@ -491,8 +455,7 @@ msgid "Every time a tumbleweed rolls by"
 msgstr "Immer wenn Tumbleweed vorbeirollt"
 
 msgid "Which openSUSE mailing list is focused on development discussions?"
-msgstr ""
-"Welche openSUSE Mailingliste dreht sich um Diskussionen über Entwicklung?"
+msgstr "Welche openSUSE Mailingliste dreht sich um Diskussionen über Entwicklung?"
 
 #. no-translate
 msgid "factory@lists.opensuse.org"
@@ -510,12 +473,8 @@ msgstr "users@opensuse.org"
 msgid "fun@opensuse.org"
 msgstr "fun@opensuse.org"
 
-msgid ""
-"openSUSE's build service allows you to build packages for how many different "
-"distributions?"
-msgstr ""
-"Der openSUSE Build Service erlaubt es Pakete für wie viele Distributionen zu "
-"bauen?"
+msgid "openSUSE's build service allows you to build packages for how many different distributions?"
+msgstr "Der openSUSE Build Service erlaubt es Pakete für wie viele Distributionen zu bauen?"
 
 msgid "Just openSUSE Leap"
 msgstr "Nur openSUSE Leap"
@@ -604,8 +563,7 @@ msgstr "bugs.opensuse.com"
 msgid "bugs.opensuse.net"
 msgstr "bugs.opensuse.net"
 
-msgid ""
-"Which openSUSE service mirrors openSUSE software repositories worldwide?"
+msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgstr ""
 
 #. no-translate
@@ -680,9 +638,7 @@ msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, ein neuer freundlicher Midnight Commander"
 
 #, fuzzy
-#| msgid ""
-#| "The administration of mainframe machine through web interface from the "
-#| "90’s"
+#| msgid "The administration of mainframe machine through web interface from the 90’s"
 msgid "The administration of mainframe machine through web interface"
 msgstr "Ein Web Interface zur Administration von Mainframes aus den 90ern"
 
@@ -826,8 +782,7 @@ msgstr ""
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
-msgid ""
-"Which of the following I/O devices is typically not used with mainframes?"
+msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgstr ""
 
 msgid "Disks"
@@ -1020,9 +975,7 @@ msgstr "Englisch"
 msgid "lang_name_es"
 msgstr "Englisch"
 
-msgid ""
-"Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
-"Each wrong answer subtracts 0.1 points. Total score never goes below zero."
+msgid "Each correct answer gives 1 point. Each question attempted adds 0.05 points. Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
 
 #, fuzzy
@@ -1045,9 +998,7 @@ msgstr ""
 msgid "Fix MacOS drivers"
 msgstr ""
 
-msgid ""
-"Which security module is now used by default in new openSUSE Tumbleweed and "
-"Leap 16.0 installations?"
+msgid "Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?"
 msgstr ""
 
 #. no-translate
@@ -1107,9 +1058,7 @@ msgstr "mkfile"
 msgid "steam roller"
 msgstr "Eine Straßenwalze"
 
-msgid ""
-"Where can you find endless wisdom, occasional rants, and a lot of helpful "
-"penguin-powered advice from the openSUSE community?"
+msgid "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?"
 msgstr ""
 
 msgid "Under Geeko’s pillow"
@@ -1222,9 +1171,7 @@ msgstr ""
 #, fuzzy
 #| msgid "What is the name of the new package manager GUI replacing YaST?"
 msgid "What does the new openSUSE-repos package manage?"
-msgstr ""
-"Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die "
-"YaST ersetzt?"
+msgstr "Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die YaST ersetzt?"
 
 msgid "Repository definitions in /etc/zypp/repos.d/ managed by RIS"
 msgstr ""

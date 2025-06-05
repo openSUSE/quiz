@@ -88,12 +88,8 @@ msgstr "Cuestionarios disponibles"
 msgid "openSUSE Expert"
 msgstr "Experto de openSUSE"
 
-msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
-msgstr ""
-"Desafía a otros usuarios en nuestra tabla de clasificación. 30 segundos por "
-"pregunta. Detente en cualquier momento."
+msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
+msgstr "Desafía a otros usuarios en nuestra tabla de clasificación. 30 segundos por pregunta. Detente en cualquier momento."
 
 #. Questions
 msgid "What is the mascot of openSUSE project?"
@@ -132,12 +128,8 @@ msgstr "¿Qué son Aeon y Kalpa?"
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "Escritorios modernos 'Inmutables' con GNOME y KDE"
 
-msgid ""
-"Rolling distributions with transactional updates using flatpaks on the "
-"desktop"
-msgstr ""
-"Distribuciones de actualización contínua con actualizaciones transaccionales "
-"mediante flatpaks en el escritorio"
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Distribuciones de actualización contínua con actualizaciones transaccionales mediante flatpaks en el escritorio"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Distribuciones desarrolladas sobre MicroOS"
@@ -198,12 +190,8 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
-msgid ""
-"Which openSUSE distribution is optimized for running containers and micro "
-"services?"
-msgstr ""
-"¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y "
-"microservicios?"
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y microservicios?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS y Leap Micro"
@@ -220,13 +208,8 @@ msgstr "Leap"
 msgid "Slowroll"
 msgstr "Slowroll"
 
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
-"¿Qué distribución de actualización contínua de openSUSE ofrece una "
-"alternativa más tranquila a Tumbleweed para los usuarios que prefieren menos "
-"sorpresas?"
+msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
+msgstr "¿Qué distribución de actualización contínua de openSUSE ofrece una alternativa más tranquila a Tumbleweed para los usuarios que prefieren menos sorpresas?"
 
 #. no-translate
 msgid "Tumblebleed"
@@ -241,9 +224,7 @@ msgid "Zyppernap"
 msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
-"¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en "
-"openSUSE?"
+msgstr "¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en openSUSE?"
 
 #. no-translate
 msgid "Yum"
@@ -264,12 +245,8 @@ msgstr "Pacman"
 msgid "What is Leap 16.0?"
 msgstr "¿Qué es Leap 16.0?"
 
-msgid ""
-"A traditional Linux distribution, the successor to Leap 15.6, released in "
-"Fall 2025"
-msgstr ""
-"Una distribución tradicional de Linux, sucesora de Leap 15.6, lanzada en "
-"otoño de 2025"
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Una distribución tradicional de Linux, sucesora de Leap 15.6, lanzada en otoño de 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Una distribución inmutable con GNOME y KDE"
@@ -317,16 +294,11 @@ msgstr "Koji"
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
-msgid ""
-"How can you make changes to a root partition on a transactional-update based "
-"system?"
-msgstr ""
-"¿Cómo se pueden realizar cambios en una partición raíz en un sistema basado "
-"en actualizaciones transaccionales?"
+msgid "How can you make changes to a root partition on a transactional-update based system?"
+msgstr "¿Cómo se pueden realizar cambios en una partición raíz en un sistema basado en actualizaciones transaccionales?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
-"Utilice el comando transactional-update y reinicie en una nueva instantánea"
+msgstr "Utilice el comando transactional-update y reinicie en una nueva instantánea"
 
 msgid "By using sudo-sudo to gain giga privileges"
 msgstr "Mediante el uso de sudo-sudo para obtener todos los privilegios"
@@ -335,8 +307,7 @@ msgid "By using Salt or Ansible"
 msgstr "Mediante el uso de Salt o Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
-"Tienes que editar archivos bajo un netrunner de usuario y cruzar los dedos"
+msgstr "Tienes que editar archivos bajo un netrunner de usuario y cruzar los dedos"
 
 msgid "What is 'YaST'?"
 msgstr "¿Qué es 'YaST'?"
@@ -369,9 +340,7 @@ msgid "Enterprise use"
 msgstr "Uso empresarial"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
-"¿Cuál es el lugar al que acudir para obtener información sobre los proyectos "
-"de Rancher y SUSE?"
+msgstr "¿Cuál es el lugar al que acudir para obtener información sobre los proyectos de Rancher y SUSE?"
 
 #. no-translate
 msgid "Rancher Academy"
@@ -405,8 +374,7 @@ msgid "Antarctica"
 msgstr "Antártida"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
-"¿Dónde se puede comprobar el estado actual de la infraestructura de openSUSE?"
+msgstr "¿Dónde se puede comprobar el estado actual de la infraestructura de openSUSE?"
 
 #. no-translate
 msgid "status.opensuse.org"
@@ -424,12 +392,8 @@ msgstr "yast-status-viewer"
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
-msgid ""
-"Where can you install additional packages or packages with changes that "
-"didn't make it into the main distribution?"
-msgstr ""
-"¿Dónde se pueden instalar paquetes adicionales o paquetes con cambios que no "
-"llegaron a la distribución principal?"
+msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
+msgstr "¿Dónde se pueden instalar paquetes adicionales o paquetes con cambios que no llegaron a la distribución principal?"
 
 msgid "With a single click from software.opensuse.org"
 msgstr "Con un solo clic desde software.opensuse.org"
@@ -438,12 +402,9 @@ msgid "By browsing the myriad of projects on OBS build.opensuse.org"
 msgstr "Al navegar por la gran cantidad de proyectos en OBS build.opensuse.org"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
-"A través del comando opi, desde el repositorio de Packman o desde Flathub"
+msgstr "A través del comando opi, desde el repositorio de Packman o desde Flathub"
 
-msgid ""
-"When submitting packages to openSUSE, where do you send them "
-"(metaphorically)?"
+msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
 msgstr "Al enviar paquetes a openSUSE, ¿a dónde los envías (metafóricamente)?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
@@ -459,9 +420,7 @@ msgid "Via smoke signals from Nuremberg"
 msgstr "A través de señales de humo desde Núremberg"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
-"¿Cómo se llama la nueva interfaz gráfica de usuario del gestor de paquetes "
-"que sustituye a YaST?"
+msgstr "¿Cómo se llama la nueva interfaz gráfica de usuario del gestor de paquetes que sustituye a YaST?"
 
 #. no-translate
 msgid "Gandalf"
@@ -495,9 +454,7 @@ msgid "Every time a tumbleweed rolls by"
 msgstr "Cada vez que pasa una planta rodadora del desierto"
 
 msgid "Which openSUSE mailing list is focused on development discussions?"
-msgstr ""
-"¿Qué lista de correo de openSUSE se centra en las discusiones sobre "
-"desarrollo?"
+msgstr "¿Qué lista de correo de openSUSE se centra en las discusiones sobre desarrollo?"
 
 #. no-translate
 msgid "factory@lists.opensuse.org"
@@ -515,12 +472,8 @@ msgstr "users@opensuse.org"
 msgid "fun@opensuse.org"
 msgstr "fun@opensuse.org"
 
-msgid ""
-"openSUSE's build service allows you to build packages for how many different "
-"distributions?"
-msgstr ""
-"¿El servicio de compilación de openSUSE te permite crear paquetes para "
-"cuántas distribuciones diferentes?"
+msgid "openSUSE's build service allows you to build packages for how many different distributions?"
+msgstr "¿El servicio de compilación de openSUSE te permite crear paquetes para cuántas distribuciones diferentes?"
 
 msgid "Just openSUSE Leap"
 msgstr "Unicamente para openSUSE Leap"
@@ -553,9 +506,7 @@ msgid "Arch Linux"
 msgstr "Arch Linux"
 
 msgid "Which tool does openSUSE use for system snapshots and rollback?"
-msgstr ""
-"¿Qué herramienta utiliza openSUSE para las instantáneas del sistema y la "
-"reversión?"
+msgstr "¿Qué herramienta utiliza openSUSE para las instantáneas del sistema y la reversión?"
 
 #. no-translate
 msgid "Timeshift"
@@ -574,8 +525,7 @@ msgid "Rollbackinator"
 msgstr "Rollbackinator"
 
 msgid "What command can you use to refresh zypper repositories?"
-msgstr ""
-"¿Qué comando se puede usar para actualizar los repositorios con zypper?"
+msgstr "¿Qué comando se puede usar para actualizar los repositorios con zypper?"
 
 #. no-translate
 msgid "zypper refresh"
@@ -594,9 +544,7 @@ msgid "zypper repolist"
 msgstr "zypper repolist"
 
 msgid "Where can you submit bug reports related to openSUSE packages?"
-msgstr ""
-"¿Dónde se pueden enviar informes de errores relacionados con los paquetes de "
-"openSUSE?"
+msgstr "¿Dónde se pueden enviar informes de errores relacionados con los paquetes de openSUSE?"
 
 #. no-translate
 msgid "bugzilla.opensuse.org"
@@ -614,11 +562,8 @@ msgstr "bugs.opensuse.com"
 msgid "bugs.opensuse.net"
 msgstr "bugs.opensuse.net"
 
-msgid ""
-"Which openSUSE service mirrors openSUSE software repositories worldwide?"
-msgstr ""
-"¿Qué servicio de openSUSE ofrece réplicas de los repositorios de software de "
-"openSUSE en todo el mundo?"
+msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
+msgstr "¿Qué servicio de openSUSE ofrece réplicas de los repositorios de software de openSUSE en todo el mundo?"
 
 #. no-translate
 msgid "mirror.opensuse.org"
@@ -691,13 +636,9 @@ msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, solo un nuevo y amigable Midnight Commander"
 
 #, fuzzy
-#| msgid ""
-#| "The administration of mainframe machine through web interface from the "
-#| "90’s"
+#| msgid "The administration of mainframe machine through web interface from the 90’s"
 msgid "The administration of mainframe machine through web interface"
-msgstr ""
-"La administración de la máquina central a través de la interfaz web de los "
-"años 90"
+msgstr "La administración de la máquina central a través de la interfaz web de los años 90"
 
 msgid "A command for listing hardware network addresses."
 msgstr "Un comando para enumerar direcciones de red de hardware."
@@ -739,9 +680,7 @@ msgid "What is x3270?"
 msgstr "¿Qué es x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
-"Codificación de archivos especial, que es imprescindible para los archivos "
-"en s390x"
+msgstr "Codificación de archivos especial, que es imprescindible para los archivos en s390x"
 
 #, fuzzy
 #| msgid "Terminal using unsecured telnet for connection to a machine"
@@ -749,8 +688,7 @@ msgid "Terminal emulator for connection to a machine"
 msgstr "Terminal que utiliza telnet no seguro para la conexión a una máquina"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
-"Código hexadecimal utilizado como contraseña de administrador predeterminada"
+msgstr "Código hexadecimal utilizado como contraseña de administrador predeterminada"
 
 msgid "None of these ridiculous choices"
 msgstr "Ninguna de estas ridículas opciones"
@@ -795,9 +733,7 @@ msgid "A command masking visibility of devices"
 msgstr "Un comando que enmascara la visibilidad de los dispositivos"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
-"Ignorar los datos de entrada/salida hasta que la línea esté lista para "
-"recibir"
+msgstr "Ignorar los datos de entrada/salida hasta que la línea esté lista para recibir"
 
 msgid "It actually means ignore CIO"
 msgstr "En realidad, significa ignorar al CIO"
@@ -848,11 +784,8 @@ msgstr ""
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
-msgid ""
-"Which of the following I/O devices is typically not used with mainframes?"
-msgstr ""
-"¿Cuál de los siguientes dispositivos de E/S no se utiliza normalmente con "
-"los mainframes?"
+msgid "Which of the following I/O devices is typically not used with mainframes?"
+msgstr "¿Cuál de los siguientes dispositivos de E/S no se utiliza normalmente con los mainframes?"
 
 msgid "Disks"
 msgstr "Discos"
@@ -870,8 +803,7 @@ msgid "Chameleon Fun for kids!"
 msgstr "¡Diversión camaleónica para niños!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
-"¡Un colorido cuestionario sobre camaleones y openSUSE para niños curiosos!"
+msgstr "¡Un colorido cuestionario sobre camaleones y openSUSE para niños curiosos!"
 
 msgid "What color can a chameleon turn into?"
 msgstr "¿De qué color puede convertirse un camaleón?"
@@ -959,8 +891,7 @@ msgstr "Puede hablar con los animales"
 #, fuzzy
 #| msgid "It’s a free modern, and secure operating system anyone can use"
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
-"Es un sistema operativo libre, moderno y seguro que cualquiera puede usar"
+msgstr "Es un sistema operativo libre, moderno y seguro que cualquiera puede usar"
 
 msgid "It’s made of chameleon scales"
 msgstr "Está hecho de escamas camaleónicas"
@@ -1044,9 +975,7 @@ msgstr "Holandés"
 msgid "lang_name_es"
 msgstr "Inglés"
 
-msgid ""
-"Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
-"Each wrong answer subtracts 0.1 points. Total score never goes below zero."
+msgid "Each correct answer gives 1 point. Each question attempted adds 0.05 points. Each wrong answer subtracts 0.1 points. Total score never goes below zero."
 msgstr ""
 
 #, fuzzy
@@ -1069,9 +998,7 @@ msgstr ""
 msgid "Fix MacOS drivers"
 msgstr ""
 
-msgid ""
-"Which security module is now used by default in new openSUSE Tumbleweed and "
-"Leap 16.0 installations?"
+msgid "Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?"
 msgstr ""
 
 #. no-translate
@@ -1114,12 +1041,9 @@ msgid "openSUSE Flock"
 msgstr "Experto de openSUSE"
 
 #, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
+#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following has the highest compression?"
-msgstr ""
-"¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en "
-"openSUSE?"
+msgstr "¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en openSUSE?"
 
 #. no-translate
 #, fuzzy
@@ -1138,9 +1062,7 @@ msgstr ""
 msgid "steam roller"
 msgstr ""
 
-msgid ""
-"Where can you find endless wisdom, occasional rants, and a lot of helpful "
-"penguin-powered advice from the openSUSE community?"
+msgid "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?"
 msgstr ""
 
 msgid "Under Geeko’s pillow"
@@ -1286,9 +1208,7 @@ msgid "Sorry, this login is already taken."
 msgstr ""
 
 #~ msgid "z/VM is operating system with the best backward compatibility"
-#~ msgstr ""
-#~ "z/VM es el sistema operativo con la mejor compatibilidad con versiones "
-#~ "anteriores"
+#~ msgstr "z/VM es el sistema operativo con la mejor compatibilidad con versiones anteriores"
 
 #~ msgid "A variant of lung disease"
 #~ msgstr "Una variante de la enfermedad pulmonar"
@@ -1305,12 +1225,8 @@ msgstr ""
 #~ msgid "Linux (installed on bare metal)"
 #~ msgstr "Linux (instalado en hardware dedicado)"
 
-#~ msgid ""
-#~ "AI must be mentioned :) In which language(s) can’t you work with data "
-#~ "models on s390x using hardware exploitation?"
-#~ msgstr ""
-#~ "Hay que mencionar la IA :) ¿En qué lenguaje(s) no se puede trabajar con "
-#~ "modelos de datos en s390x utilizando la explotación de hardware?"
+#~ msgid "AI must be mentioned :) In which language(s) can’t you work with data models on s390x using hardware exploitation?"
+#~ msgstr "Hay que mencionar la IA :) ¿En qué lenguaje(s) no se puede trabajar con modelos de datos en s390x utilizando la explotación de hardware?"
 
 #~ msgid "C/C++"
 #~ msgstr "C/C++"

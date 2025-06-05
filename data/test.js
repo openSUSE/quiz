@@ -1,18 +1,24 @@
+// Marks strings for xgettext extraction without affecting runtime.
+// Useful for translation: _("translatable string") vs. plain strings.
+function _(str) {
+  return str;
+}
+
 const quizData = {
-  title: "test",
-  subtitle: "test",
+  title: _("test"),
+  subtitle: _("test"),
   submitAnytime: false,
   randomizeQuestions: false,
 };
 
 const questions = [
   {
-    text: "What is the mascot of openSUSE project?",
+    text: _("What is the mascot of openSUSE project?"),
     answers: [
-      { text: "Pascal", correct: false },
-      { text: "TwoPac", correct: false },
-      { text: "Geeko", correct: true },
-      { text: "BeefyMiracle", correct: false },
+      { text: _("Pascal"), correct: false },
+      { text: _("TwoPac"), correct: false },
+      { text: _("Geeko"), correct: true },
+      { text: _("BeefyMiracle"), correct: false },
     ],
   },
 ];
