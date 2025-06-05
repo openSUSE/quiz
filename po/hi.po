@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 20:21+0000\nLast-Translator: Aayan  Mateen <justaayan@gmail.com>\nLanguage-Team: Hindi <https://l10n.opensuse.org/projects/quiz/quiz/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 21:02+0000\nLast-Translator: Aayan  Mateen <justaayan@gmail.com>\nLanguage-Team: Hindi <https://l10n.opensuse.org/projects/quiz/quiz/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
 msgstr "ओपनसुसा देवकॉन्फ 2025"
@@ -13,25 +13,25 @@ msgid "Don't worry this quiz is mostly educational. No need to know all the answ
 msgstr ""
 
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "ओपनसुसा परियोजना का शुभंकर क्या है?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "पास्कल"
 
 msgid "TwoPac"
-msgstr ""
+msgstr "टूपैक"
 
 msgid "Geeko"
-msgstr ""
+msgstr "गीको"
 
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "बीफ़ीमिरेकल"
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr "ओपनसुसा परियोजना का मुख्य लक्ष्य क्या है?"
 
 msgid "Supporting and spreading open-source software"
-msgstr "ओपन सोर्स सॉफ्टवेयर का समर्थन और प्रसार |"
+msgstr "ओपन सोर्स सॉफ्टवेयर का समर्थन और प्रसार"
 
 msgid "Developing mobile applications"
 msgstr "मोबाइल एप्लिकेशन विकसित करना"
@@ -40,25 +40,25 @@ msgid "Producing video games"
 msgstr "वीडियो गेम का निर्माण"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "कृत्रिम बुद्धिमत्ता में अनुसंधान"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "एओन और कल्पा क्या हैं?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "गनोम और केडीई के साथ आधुनिक 'अपरिवर्तनीय' डेस्कटॉप"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
 msgstr ""
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "माइक्रोओएस पर आधारित वितरण"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "सभी विकल्प सही हैं"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "ओपनसुसा परियोजना की स्थापना कहां की गई थी?"
 
 msgid "In Choustníkovo Hradiště"
 msgstr ""
