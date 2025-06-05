@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-05 20:48+0200\n"
+"POT-Creation-Date: 2025-06-06 01:19+0200\n"
 "PO-Revision-Date: 2025-06-05 12:13+0000\n"
 "Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
@@ -15,8 +15,7 @@ msgstr ""
 msgid "openSUSE Devconf 2025"
 msgstr ""
 
-msgid ""
-"Don't worry this quiz is mostly educational. No need to know all the answers."
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr ""
 
 msgid "What is the mascot of openSUSE project?"
@@ -55,12 +54,8 @@ msgstr "Was sind Aeon und Kalpa?"
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "Moderne 'Immutable' Desktops mit GNOME und KDE"
 
-msgid ""
-"Rolling distributions with transactional updates using flatpaks on the "
-"desktop"
-msgstr ""
-"Rolling Distributionen mit transaktionalen Updates welche Flatpaks auf dem "
-"Desktop verwenden"
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Rolling Distributionen mit transaktionalen Updates welche Flatpaks auf dem Desktop verwenden"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Auf MicroOS basierende Distributionen"
@@ -113,11 +108,8 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
-msgid ""
-"Which openSUSE distribution is optimized for running containers and micro "
-"services?"
-msgstr ""
-"Welche openSUSE Distribution ist für Container und Microservices optimiert?"
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Welche openSUSE Distribution ist für Container und Microservices optimiert?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS und Leap Micro"
@@ -149,12 +141,8 @@ msgstr "Pacman"
 msgid "What is Leap 16.0?"
 msgstr "Was ist Leap 16.0?"
 
-msgid ""
-"A traditional Linux distribution, the successor to Leap 15.6, released in "
-"Fall 2025"
-msgstr ""
-"Eine traditionelle Linux Distribution, der Nachfolger von leap 15.6, "
-"veröffentlicht im Herbst 2025"
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Eine traditionelle Linux Distribution, der Nachfolger von leap 15.6, veröffentlicht im Herbst 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Eine immutable Distribution mit GNOME und KDE"
@@ -339,19 +327,11 @@ msgstr ""
 msgid "openSUSE Expert"
 msgstr "openSUSE Experte"
 
-msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
-msgstr ""
-"Fordern Sie andere Benutzer in unserer Bestenliste heraus. 30 Sekunden pro "
-"Frage. Sie können jederzeit aufhören."
+msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
+msgstr "Fordern Sie andere Benutzer in unserer Bestenliste heraus. 30 Sekunden pro Frage. Sie können jederzeit aufhören."
 
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
-"Welche openSUSE Distribution bietet eine ruhigere Alternative zu Tumbleweed "
-"für Nutzer die weniger Überraschungen bevorzugen?"
+msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
+msgstr "Welche openSUSE Distribution bietet eine ruhigere Alternative zu Tumbleweed für Nutzer die weniger Überraschungen bevorzugen?"
 
 msgid "Tumblebleed"
 msgstr "Tumblebleed"
@@ -393,17 +373,11 @@ msgstr "Koji"
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
-msgid ""
-"How can you make changes to a root partition on a transactional-update based "
-"system?"
-msgstr ""
-"Wie kann man Änderungen an der root-Partition auf einem transaktionalen "
-"System vornehmen?"
+msgid "How can you make changes to a root partition on a transactional-update based system?"
+msgstr "Wie kann man Änderungen an der root-Partition auf einem transaktionalen System vornehmen?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
-"transactional-update command verwenden und beim Neustart einen neuen "
-"snapshot auswählen"
+msgstr "transactional-update command verwenden und beim Neustart einen neuen snapshot auswählen"
 
 msgid "By using sudo-sudo to gain giga privileges"
 msgstr "Indem man sudo-sudo verwendet um Giga-Rechte zu erhalten"
@@ -445,9 +419,7 @@ msgid "Enterprise use"
 msgstr "Enterprise-Nutzung"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
-"Was ist der richtige Ort um sich über Projekte von Rancher und SUSE zu "
-"informieren?"
+msgstr "Was ist der richtige Ort um sich über Projekte von Rancher und SUSE zu informieren?"
 
 msgid "Rancher Academy"
 msgstr "Rancher Academy"
@@ -476,12 +448,8 @@ msgstr "yast-status-viewer"
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
-msgid ""
-"Where can you install additional packages or packages with changes that "
-"didn't make it into the main distribution?"
-msgstr ""
-"Wo kann man zusätzliche Pakete und Pakete mit Änderungen, die es nicht in "
-"die Hauptdistribution geschafft haben, installieren?"
+msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
+msgstr "Wo kann man zusätzliche Pakete und Pakete mit Änderungen, die es nicht in die Hauptdistribution geschafft haben, installieren?"
 
 msgid "With a single click from software.opensuse.org"
 msgstr "Mit einem einzigen Klick auf software.opensuse.org"
@@ -492,9 +460,7 @@ msgstr "Indem man die unzähligen Projekte im OBS build.opensuse.org durchsucht"
 msgid "Through command opi, from the Packman repository or from Flathub"
 msgstr "Mit dem Befehl opi, aus dem Packman repository oder von Flathub"
 
-msgid ""
-"When submitting packages to openSUSE, where do you send them "
-"(metaphorically)?"
+msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
 msgstr "Wo schickt man Pakete hin um sie nach openSUSE zu senden?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
@@ -510,9 +476,7 @@ msgid "Via smoke signals from Nuremberg"
 msgstr "Über Rauchsignale aus Nürnberg"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
-"Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die "
-"YaST ersetzt?"
+msgstr "Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die YaST ersetzt?"
 
 msgid "Gandalf"
 msgstr "Gandalf"
@@ -541,8 +505,7 @@ msgstr ""
 msgid "When the Geeko gets bored"
 msgstr ""
 
-msgid ""
-"Which openSUSE service is used for localization and translation management?"
+msgid "Which openSUSE service is used for localization and translation management?"
 msgstr ""
 
 msgid "OBS"
@@ -556,9 +519,7 @@ msgstr "OBS (Open Build Service)"
 msgid "Kickstart"
 msgstr ""
 
-msgid ""
-"What command would you use to update software packages on openSUSE from the "
-"terminal?"
+msgid "What command would you use to update software packages on openSUSE from the terminal?"
 msgstr ""
 
 msgid "zypper update"
@@ -618,12 +579,9 @@ msgid "pacman"
 msgstr "Pacman"
 
 #, fuzzy
-#| msgid ""
-#| "Which openSUSE distribution is optimized for running containers and micro "
-#| "services?"
+#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr ""
-"Welche openSUSE Distribution ist für Container und Microservices optimiert?"
+msgstr "Welche openSUSE Distribution ist für Container und Microservices optimiert?"
 
 msgid "MicroOS"
 msgstr ""
@@ -634,12 +592,9 @@ msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "Was ist das Maskottchen des openSUSE-Projekts?"
 
 #, fuzzy
-#| msgid ""
-#| "Which openSUSE distribution is optimized for running containers and micro "
-#| "services?"
+#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr ""
-"Welche openSUSE Distribution ist für Container und Microservices optimiert?"
+msgstr "Welche openSUSE Distribution ist für Container und Microservices optimiert?"
 
 msgid "Gaming"
 msgstr ""
@@ -723,9 +678,7 @@ msgstr ""
 msgid "opensuse-chat.org"
 msgstr "fun@opensuse.org"
 
-msgid ""
-"Which tool is recommended for managing software repositories and packages in "
-"openSUSE?"
+msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr ""
 
 msgid "APT"
@@ -738,9 +691,7 @@ msgstr "Was ist der Name des openSUSE Build-Systems?"
 #, fuzzy
 #| msgid "What is the name of the new package manager GUI replacing YaST?"
 msgid "Which file format does openSUSE use for package management?"
-msgstr ""
-"Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die "
-"YaST ersetzt?"
+msgstr "Was ist der Name der neuen graphischen Paketmanager-Benutzeroberfläche die YaST ersetzt?"
 
 msgid "RPM"
 msgstr ""
@@ -813,9 +764,7 @@ msgstr ""
 msgid "Official Build System"
 msgstr ""
 
-msgid ""
-"Which openSUSE service provides live build environments and package "
-"repositories?"
+msgid "Which openSUSE service provides live build environments and package repositories?"
 msgstr ""
 
 #, fuzzy
@@ -962,9 +911,7 @@ msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, ein neuer freundlicher Midnight Commander"
 
 #, fuzzy
-#| msgid ""
-#| "The administration of mainframe machine through web interface from the "
-#| "90’s"
+#| msgid "The administration of mainframe machine through web interface from the 90’s"
 msgid "The administration of mainframe machine through web interface"
 msgstr "Ein Web Interface zur Administration von Mainframes aus den 90ern"
 
@@ -1118,6 +1065,147 @@ msgstr ""
 msgid "test"
 msgstr ""
 
+msgid "The Ultimate YaST Challenge"
+msgstr ""
+
+msgid "Think you know YaST? Think again."
+msgstr ""
+
+msgid "How many YaST2 translation packages are there in Tumbleweed?"
+msgstr ""
+
+msgid "about 25"
+msgstr ""
+
+msgid "about 40"
+msgstr ""
+
+msgid "about 60"
+msgstr ""
+
+msgid "about 80"
+msgstr ""
+
+msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
+msgstr ""
+
+msgid "about 30"
+msgstr ""
+
+msgid "about 50"
+msgstr ""
+
+msgid "about 100"
+msgstr ""
+
+msgid "about 150"
+msgstr ""
+
+msgid "When was the first YaST2 released?"
+msgstr ""
+
+msgid "1999"
+msgstr ""
+
+msgid "2002"
+msgstr ""
+
+msgid "2004"
+msgstr ""
+
+msgid "2006"
+msgstr ""
+
+msgid "When did YaST2 reach the German legal drinking age?"
+msgstr ""
+
+msgid "2010"
+msgstr ""
+
+msgid "2015"
+msgstr ""
+
+msgid "2021"
+msgstr ""
+
+msgid "2024"
+msgstr ""
+
+msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
+msgstr ""
+
+msgid "You get the \"Patches\" view"
+msgstr ""
+
+msgid "It crashes"
+msgstr ""
+
+msgid "It installs a random package"
+msgstr ""
+
+msgid "The Mogwai get hungry"
+msgstr ""
+
+msgid "How can you get an xterm in a YaST2 installation?"
+msgstr ""
+
+msgid "you can't"
+msgstr ""
+
+msgid "you click the Geeko icon on the top left 7 times"
+msgstr ""
+
+msgid "Ctrl-Shift-Alt-X"
+msgstr ""
+
+msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
+msgstr ""
+
+msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
+msgstr ""
+
+msgid "Yes, click the page heading 7 times"
+msgstr ""
+
+msgid "Yes, middle-click any widget"
+msgstr ""
+
+msgid "Yes, use Ctrl-Shift-Alt-Y"
+msgstr ""
+
+msgid "No - use the source, Luke"
+msgstr ""
+
+msgid "What happens if you right-click a button in YaST2?"
+msgstr ""
+
+msgid "It opens the button's context menu"
+msgstr ""
+
+msgid "It resets the page to defaults"
+msgstr ""
+
+msgid "It asks if you want to switch the mouse to left-handed mode"
+msgstr ""
+
+msgid "It switches to the dark widget theme or back"
+msgstr ""
+
+msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes, click the sun/moon icon"
+msgstr ""
+
+msgid "Yes, use Shift-F3"
+msgstr ""
+
+msgid "Yes, right-click the \"Help\" button"
+msgstr ""
+
 #, fuzzy
 #| msgid "Start"
 msgid "Start Quiz"
@@ -1175,8 +1263,7 @@ msgid "Sorry, this login is already taken."
 msgstr ""
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
-"Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
+msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
 
 #~ msgid "Language"
 #~ msgstr "Sprache"
@@ -1230,8 +1317,7 @@ msgstr ""
 #~ msgstr "Immer wenn Tumbleweed vorbeirollt"
 
 #~ msgid "Which openSUSE mailing list is focused on development discussions?"
-#~ msgstr ""
-#~ "Welche openSUSE Mailingliste dreht sich um Diskussionen über Entwicklung?"
+#~ msgstr "Welche openSUSE Mailingliste dreht sich um Diskussionen über Entwicklung?"
 
 #~ msgid "factory@lists.opensuse.org"
 #~ msgstr "factory@lists.opensuse.org"
@@ -1242,12 +1328,8 @@ msgstr ""
 #~ msgid "users@opensuse.org"
 #~ msgstr "users@opensuse.org"
 
-#~ msgid ""
-#~ "openSUSE's build service allows you to build packages for how many "
-#~ "different distributions?"
-#~ msgstr ""
-#~ "Der openSUSE Build Service erlaubt es Pakete für wie viele Distributionen "
-#~ "zu bauen?"
+#~ msgid "openSUSE's build service allows you to build packages for how many different distributions?"
+#~ msgstr "Der openSUSE Build Service erlaubt es Pakete für wie viele Distributionen zu bauen?"
 
 #~ msgid "Just openSUSE Leap"
 #~ msgstr "Nur openSUSE Leap"

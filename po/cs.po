@@ -1,14 +1,22 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 20:21+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-06 01:19+0200\n"
+"PO-Revision-Date: 2025-06-05 20:21+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
+"Language: cs\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
 msgstr "openSUSE Devconf 2025"
 
-msgid ""
-"Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
-"Nebojte se, tento kvíz je převážně vzdělávací. Není třeba znát všechny "
-"odpovědi."
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "Nebojte se, tento kvíz je převážně vzdělávací. Není třeba znát všechny odpovědi."
 
 msgid "What is the mascot of openSUSE project?"
 msgstr "Jaký je maskot projektu openSUSE?"
@@ -46,12 +54,8 @@ msgstr "Co jsou Aeon a Kalpa?"
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "Moderní 'Immutable' desktopové systémy s GNOME a KDE"
 
-msgid ""
-"Rolling distributions with transactional updates using flatpaks on the "
-"desktop"
-msgstr ""
-"Rolling distribuce s transakčními aktualizacemi používající flatpaky na "
-"desktopu"
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Rolling distribuce s transakčními aktualizacemi používající flatpaky na desktopu"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Distribuce založené na MicroOS"
@@ -104,12 +108,8 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
-msgid ""
-"Which openSUSE distribution is optimized for running containers and micro "
-"services?"
-msgstr ""
-"Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro "
-"služeb?"
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS a Leap Micro"
@@ -141,11 +141,8 @@ msgstr "Pacman"
 msgid "What is Leap 16.0?"
 msgstr "Co je Leap 16.0?"
 
-msgid ""
-"A traditional Linux distribution, the successor to Leap 15.6, released in "
-"Fall 2025"
-msgstr ""
-"Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
 msgstr "Immutable distribuce s GNOME a KDE"
@@ -274,9 +271,7 @@ msgid "It can talk to animals"
 msgstr "Umí mluvit se zvířaty"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
-"Je to svobodný, moderní a bezpečný operační systém, který je zdarma a může "
-"jej používat každý. I ty!"
+msgstr "Je to svobodný, moderní a bezpečný operační systém, který je zdarma a může jej používat každý. I ty!"
 
 msgid "It’s made of chameleon scales"
 msgstr "Je vyroben z chameleoních šupin"
@@ -332,19 +327,11 @@ msgstr "Ne, jejich oči jsou pořád zavřené"
 msgid "openSUSE Expert"
 msgstr "openSUSE Expert"
 
-msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
-msgstr ""
-"Zapojujte se do soutěže s ostatními uživateli. 30 sekund na otázku. Můžete "
-"kdykoli skončit."
+msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
+msgstr "Zapojujte se do soutěže s ostatními uživateli. 30 sekund na otázku. Můžete kdykoli skončit."
 
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
-"Která rolling distribuce openSUSE nabízí klidnější alternativu k Tumbleweed "
-"pro uživatele, kteří preferují méně překvapení?"
+msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
+msgstr "Která rolling distribuce openSUSE nabízí klidnější alternativu k Tumbleweed pro uživatele, kteří preferují méně překvapení?"
 
 msgid "Tumblebleed"
 msgstr "Tumblebleed"
@@ -385,11 +372,8 @@ msgstr "Koji"
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
-msgid ""
-"How can you make changes to a root partition on a transactional-update based "
-"system?"
-msgstr ""
-"Jak můžete provést změny na root oddílu v systému s transactional-update?"
+msgid "How can you make changes to a root partition on a transactional-update based system?"
+msgstr "Jak můžete provést změny na root oddílu v systému s transactional-update?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
 msgstr "Použijte příkaz transactional-update a restartujte do nového snapshotu"
@@ -463,12 +447,8 @@ msgstr "yast-status-viewer"
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
-msgid ""
-"Where can you install additional packages or packages with changes that "
-"didn't make it into the main distribution?"
-msgstr ""
-"Odkud si můžete nainstalovat dodatečné balíčky nebo balíčky se změnami, "
-"které se nedostaly do hlavní distribuce?"
+msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
+msgstr "Odkud si můžete nainstalovat dodatečné balíčky nebo balíčky se změnami, které se nedostaly do hlavní distribuce?"
 
 msgid "With a single click from software.opensuse.org"
 msgstr "Jedním klikem na software.opensuse.org"
@@ -479,9 +459,7 @@ msgstr "Procházením nesčetným počtem projektů v OBS build.opensuse.org"
 msgid "Through command opi, from the Packman repository or from Flathub"
 msgstr "Příkazem opi, z Packman repozitáře nebo z Flathubu"
 
-msgid ""
-"When submitting packages to openSUSE, where do you send them "
-"(metaphorically)?"
+msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
 msgstr "Kam je pošlete balíčky, které chcete přidat do openSUSE?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
@@ -497,9 +475,7 @@ msgid "Via smoke signals from Nuremberg"
 msgstr "Kouřovým signálem z Norimberku"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
-"Jak se jmenuje správce balíčků s Grafickým uživatelským rozhraním, který "
-"nahrazuje YaST?"
+msgstr "Jak se jmenuje správce balíčků s Grafickým uživatelským rozhraním, který nahrazuje YaST?"
 
 msgid "Gandalf"
 msgstr "Gandalf"
@@ -528,8 +504,7 @@ msgstr "Každý měsíc"
 msgid "When the Geeko gets bored"
 msgstr "Když se Geeko nudí"
 
-msgid ""
-"Which openSUSE service is used for localization and translation management?"
+msgid "Which openSUSE service is used for localization and translation management?"
 msgstr "Která služba openSUSE se používá pro správu lokalizace a překladů?"
 
 msgid "OBS"
@@ -543,12 +518,8 @@ msgstr "OBS (Open Build Service)"
 msgid "Kickstart"
 msgstr "Kickstart"
 
-msgid ""
-"What command would you use to update software packages on openSUSE from the "
-"terminal?"
-msgstr ""
-"Jaký příkaz byste použili k aktualizaci softwarových balíčků v openSUSE z "
-"terminálu?"
+msgid "What command would you use to update software packages on openSUSE from the terminal?"
+msgstr "Jaký příkaz byste použili k aktualizaci softwarových balíčků v openSUSE z terminálu?"
 
 msgid "zypper update"
 msgstr "zypper update"
@@ -609,13 +580,9 @@ msgid "pacman"
 msgstr "Pacman"
 
 #, fuzzy
-#| msgid ""
-#| "Which openSUSE distribution is optimized for running containers and micro "
-#| "services?"
+#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr ""
-"Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro "
-"služeb?"
+msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
 
 msgid "MicroOS"
 msgstr "MicroOS"
@@ -626,13 +593,9 @@ msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "Jaký je maskot projektu openSUSE?"
 
 #, fuzzy
-#| msgid ""
-#| "Which openSUSE distribution is optimized for running containers and micro "
-#| "services?"
+#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr ""
-"Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro "
-"služeb?"
+msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
 
 msgid "Gaming"
 msgstr "Hraní"
@@ -717,12 +680,8 @@ msgstr "geeko-talk.net"
 msgid "opensuse-chat.org"
 msgstr "fun@opensuse.org"
 
-msgid ""
-"Which tool is recommended for managing software repositories and packages in "
-"openSUSE?"
-msgstr ""
-"Který nástroj se doporučuje pro správu softwarových repozitářů a balíčků v "
-"openSUSE?"
+msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
+msgstr "Který nástroj se doporučuje pro správu softwarových repozitářů a balíčků v openSUSE?"
 
 msgid "APT"
 msgstr "APT"
@@ -809,13 +768,9 @@ msgid "Official Build System"
 msgstr "Official Build System"
 
 #, fuzzy
-#| msgid ""
-#| "Which openSUSE service mirrors openSUSE software repositories worldwide?"
-msgid ""
-"Which openSUSE service provides live build environments and package "
-"repositories?"
-msgstr ""
-"Která openSUSE služba zrcadlí openSUSE software repozitáře po celém světě?"
+#| msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
+msgid "Which openSUSE service provides live build environments and package repositories?"
+msgstr "Která openSUSE služba zrcadlí openSUSE software repozitáře po celém světě?"
 
 #, fuzzy
 #| msgid "OBS (Open Build Service)"
@@ -1091,11 +1046,9 @@ msgid "No, mainframes are not useful for running AI tasks."
 msgstr "Ne, mainframy nejsou vhodné pro běhání AI uloh."
 
 #, fuzzy
-#| msgid ""
-#| "Which of the following I/O devices is typically not used with mainframes?"
+#| msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr ""
-"Které z následujících I/O zařízení se obvykle nepoužívá u sálových počítačů?"
+msgstr "Které z následujících I/O zařízení se obvykle nepoužívá u sálových počítačů?"
 
 msgid "Disks"
 msgstr "Disky"
@@ -1111,6 +1064,149 @@ msgstr "Bluetooth"
 
 msgid "test"
 msgstr "test"
+
+msgid "The Ultimate YaST Challenge"
+msgstr ""
+
+msgid "Think you know YaST? Think again."
+msgstr ""
+
+msgid "How many YaST2 translation packages are there in Tumbleweed?"
+msgstr ""
+
+msgid "about 25"
+msgstr ""
+
+msgid "about 40"
+msgstr ""
+
+msgid "about 60"
+msgstr ""
+
+msgid "about 80"
+msgstr ""
+
+msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
+msgstr ""
+
+msgid "about 30"
+msgstr ""
+
+msgid "about 50"
+msgstr ""
+
+msgid "about 100"
+msgstr ""
+
+msgid "about 150"
+msgstr ""
+
+msgid "When was the first YaST2 released?"
+msgstr ""
+
+msgid "1999"
+msgstr ""
+
+msgid "2002"
+msgstr ""
+
+msgid "2004"
+msgstr ""
+
+msgid "2006"
+msgstr ""
+
+msgid "When did YaST2 reach the German legal drinking age?"
+msgstr ""
+
+msgid "2010"
+msgstr ""
+
+msgid "2015"
+msgstr ""
+
+msgid "2021"
+msgstr ""
+
+msgid "2024"
+msgstr ""
+
+msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
+msgstr ""
+
+msgid "You get the \"Patches\" view"
+msgstr ""
+
+msgid "It crashes"
+msgstr ""
+
+#, fuzzy
+#| msgid "dnf install package-name"
+msgid "It installs a random package"
+msgstr "dnf install package-name"
+
+msgid "The Mogwai get hungry"
+msgstr ""
+
+msgid "How can you get an xterm in a YaST2 installation?"
+msgstr ""
+
+msgid "you can't"
+msgstr ""
+
+msgid "you click the Geeko icon on the top left 7 times"
+msgstr ""
+
+msgid "Ctrl-Shift-Alt-X"
+msgstr ""
+
+msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
+msgstr ""
+
+msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
+msgstr ""
+
+msgid "Yes, click the page heading 7 times"
+msgstr ""
+
+msgid "Yes, middle-click any widget"
+msgstr ""
+
+msgid "Yes, use Ctrl-Shift-Alt-Y"
+msgstr ""
+
+msgid "No - use the source, Luke"
+msgstr ""
+
+msgid "What happens if you right-click a button in YaST2?"
+msgstr ""
+
+msgid "It opens the button's context menu"
+msgstr ""
+
+msgid "It resets the page to defaults"
+msgstr ""
+
+msgid "It asks if you want to switch the mouse to left-handed mode"
+msgstr ""
+
+msgid "It switches to the dark widget theme or back"
+msgstr ""
+
+msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes, click the sun/moon icon"
+msgstr ""
+
+msgid "Yes, use Shift-F3"
+msgstr ""
+
+msgid "Yes, right-click the \"Help\" button"
+msgstr ""
 
 #, fuzzy
 #| msgid "Start"
@@ -1236,12 +1332,8 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "users@opensuse.org"
 #~ msgstr "users@opensuse.org"
 
-#~ msgid ""
-#~ "openSUSE's build service allows you to build packages for how many "
-#~ "different distributions?"
-#~ msgstr ""
-#~ "openSUSE Build Service vám umožňuje sestavovat balíčky pro kolik různých "
-#~ "distribucí?"
+#~ msgid "openSUSE's build service allows you to build packages for how many different distributions?"
+#~ msgstr "openSUSE Build Service vám umožňuje sestavovat balíčky pro kolik různých distribucí?"
 
 #~ msgid "Just openSUSE Leap"
 #~ msgstr "Prostě openSUSE Leap"
@@ -1336,14 +1428,8 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "lang_name_es"
 #~ msgstr "Španělština"
 
-#~ msgid ""
-#~ "Each correct answer gives 1 point. Each question attempted adds 0.05 "
-#~ "points. Each wrong answer subtracts 0.1 points. Total score never goes "
-#~ "below zero."
-#~ msgstr ""
-#~ "Každá správná odpověď dává 1 bod. Každá pokusná otázka přidává 0,05 bodu. "
-#~ "Každá špatná odpověď odečítá 0,1 bodu. Celkové skóre nikdy neklesne pod "
-#~ "nulu."
+#~ msgid "Each correct answer gives 1 point. Each question attempted adds 0.05 points. Each wrong answer subtracts 0.1 points. Total score never goes below zero."
+#~ msgstr "Každá správná odpověď dává 1 bod. Každá pokusná otázka přidává 0,05 bodu. Každá špatná odpověď odečítá 0,1 bodu. Celkové skóre nikdy neklesne pod nulu."
 
 #~ msgid "lang_name_uk"
 #~ msgstr "Ukrajinština"
@@ -1360,12 +1446,8 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "Fix MacOS drivers"
 #~ msgstr "Opravuje MacOS ovladače"
 
-#~ msgid ""
-#~ "Which security module is now used by default in new openSUSE Tumbleweed "
-#~ "and Leap 16.0 installations?"
-#~ msgstr ""
-#~ "Který bezpečnostní modul se nyní používá jako výchozí u nových "
-#~ "instalacích openSUSE Tumbleweed a Leap 16.0?"
+#~ msgid "Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?"
+#~ msgstr "Který bezpečnostní modul se nyní používá jako výchozí u nových instalacích openSUSE Tumbleweed a Leap 16.0?"
 
 #~ msgid "AppArmor"
 #~ msgstr "AppArmor"
@@ -1409,12 +1491,8 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "steam roller"
 #~ msgstr "parní válec"
 
-#~ msgid ""
-#~ "Where can you find endless wisdom, occasional rants, and a lot of helpful "
-#~ "penguin-powered advice from the openSUSE community?"
-#~ msgstr ""
-#~ "Kde můžete nalézt nekonečnou moudrost, občasné výlevy a spoustu "
-#~ "užitečných rad od komunity openSUSE?"
+#~ msgid "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?"
+#~ msgstr "Kde můžete nalézt nekonečnou moudrost, občasné výlevy a spoustu užitečných rad od komunity openSUSE?"
 
 #~ msgid "Under Geeko’s pillow"
 #~ msgstr "Pod Geekovým polštářem"
@@ -1521,12 +1599,8 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "Linux (installed on bare metal)"
 #~ msgstr "Linux (nainstalovaný na holém železe)"
 
-#~ msgid ""
-#~ "AI must be mentioned :) In which language(s) can’t you work with data "
-#~ "models on s390x using hardware exploitation?"
-#~ msgstr ""
-#~ "Je nutné zmínit umělou inteligenci. Ve kterém(ých) jazyce(ech) nelze "
-#~ "pracovat s datovými modely na S390X s využitím hardwarového využití?"
+#~ msgid "AI must be mentioned :) In which language(s) can’t you work with data models on s390x using hardware exploitation?"
+#~ msgstr "Je nutné zmínit umělou inteligenci. Ve kterém(ých) jazyce(ech) nelze pracovat s datovými modely na S390X s využitím hardwarového využití?"
 
 #~ msgid "C/C++"
 #~ msgstr "C/C++"
