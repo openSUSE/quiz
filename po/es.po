@@ -1042,3 +1042,231 @@ msgstr ""
 #| msgid "lang_name_sk"
 msgid "lang_name_uk"
 msgstr "Eslovaco"
+
+msgid "What does GNOME do?"
+msgstr ""
+
+msgid "Mine gold and diamonds"
+msgstr ""
+
+msgid "Create a desktop environment for Linux"
+msgstr ""
+
+msgid "Install Linux programs and applications"
+msgstr ""
+
+msgid "Fix MacOS drivers"
+msgstr ""
+
+msgid ""
+"Which security module is now used by default in new openSUSE Tumbleweed and "
+"Leap 16.0 installations?"
+msgstr ""
+
+#. no-translate
+msgid "AppArmor"
+msgstr ""
+
+#. no-translate
+msgid "SELinux"
+msgstr ""
+
+#. no-translate
+msgid "grsecurity"
+msgstr ""
+
+#. no-translate
+msgid "Firewalld"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What is the main openSUSE conference called?"
+msgstr "¿Cuál es la mascota del proyecto openSUSE?"
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Gathering"
+msgstr "Experto de openSUSE"
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Fest"
+msgstr "Experto de openSUSE"
+
+msgid "openSUSE Conference (OSC)"
+msgstr ""
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Flock"
+msgstr "Experto de openSUSE"
+
+#, fuzzy
+#| msgid ""
+#| "Which of the following package managers is commonly used in openSUSE?"
+msgid "Which of the following has the highest compression?"
+msgstr ""
+"¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en "
+"openSUSE?"
+
+#. no-translate
+#, fuzzy
+#| msgid "Start"
+msgid "tar"
+msgstr "Comenzar"
+
+#. no-translate
+msgid "echo"
+msgstr ""
+
+#. no-translate
+msgid "mkfile"
+msgstr ""
+
+msgid "steam roller"
+msgstr ""
+
+msgid ""
+"Where can you find endless wisdom, occasional rants, and a lot of helpful "
+"penguin-powered advice from the openSUSE community?"
+msgstr ""
+
+msgid "Under Geeko’s pillow"
+msgstr ""
+
+#. no-translate
+#, fuzzy
+#| msgid "fun@opensuse.org"
+msgid "forums.opensuse.org"
+msgstr "fun@opensuse.org"
+
+#. no-translate
+msgid "i-seek-you-opensuse"
+msgstr ""
+
+#. no-translate
+msgid "yast --help"
+msgstr ""
+
+msgid "Who is known as the father of Linux?"
+msgstr ""
+
+msgid "Torwald Linuksson"
+msgstr ""
+
+msgid "Linus Torvalds"
+msgstr ""
+
+msgid "Linux Tyrnux"
+msgstr ""
+
+msgid "Sinus Urvaald"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE?"
+msgid "What is the official slogan of openSUSE?"
+msgstr "¿Cuál es la mascota de openSUSE?"
+
+msgid "Have a lot of fun!"
+msgstr ""
+
+msgid "Innovate and Collaborate"
+msgstr ""
+
+msgid "Open Source, Open Future"
+msgstr ""
+
+msgid "Power to the Users"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What is the default shell in openSUSE?"
+msgstr "¿Cuál es el sistema de archivos predeterminado en openSUSE?"
+
+#. no-translate
+msgid "ash"
+msgstr ""
+
+#. no-translate
+msgid "bash"
+msgstr ""
+
+#. no-translate
+msgid "zshpicture"
+msgstr ""
+
+#. no-translate
+msgid "dash"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where was the openSUSE project founded?"
+msgid "When was the openSUSE project officially started?"
+msgstr "¿Dónde se fundó el proyecto openSUSE?"
+
+#. no-translate
+msgid "2047"
+msgstr ""
+
+msgid "0 AD"
+msgstr ""
+
+#. no-translate
+msgid "2005"
+msgstr ""
+
+#. no-translate
+msgid "1991"
+msgstr ""
+
+msgid "What cannot be tested in openQA?"
+msgstr ""
+
+#. no-translate
+msgid "ASCII art"
+msgstr ""
+
+msgid "Displaying websites in Mozilla Firefox"
+msgstr ""
+
+msgid "Installing Debian"
+msgstr ""
+
+#. no-translate
+msgid "Covid-19"
+msgstr ""
+
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "What does the new openSUSE-repos package manage?"
+msgstr "¿Qué significa la palabra 'open' en openSUSE?"
+
+msgid "Repository definitions in /etc/zypp/repos.d/ managed by RIS"
+msgstr ""
+
+msgid "Kernel modules for openSUSE"
+msgstr ""
+
+msgid "Desktop themes and icons"
+msgstr ""
+
+msgid "System logs and journal settings"
+msgstr ""
+
+msgid "Can you play Windows games on openSUSE?"
+msgstr ""
+
+msgid "No way, only Windows can do that"
+msgstr ""
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr ""
+
+msgid "Only if you summon the gaming gods"
+msgstr ""
+
+msgid "You need a secret handshake first"
+msgstr ""
