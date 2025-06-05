@@ -24,8 +24,8 @@
           <label for="lang-select">🌐 <%= t("Language") %>:</label>
           <select id="lang-select">
             <% availableLanguages.forEach(function(language) { %>
-              <option value="<%= language %>" <%= lang === language ? "selected" : "" %>>
-                <%= t("lang_name_" + language) %>
+              <option value="<%= language.code %>" <%= lang === language.code ? "selected" : "" %>>
+                <%= language.name %>
               </option>
             <% }); %>
           </select>
