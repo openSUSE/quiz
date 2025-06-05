@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-05 07:59+0000\n"
+"PO-Revision-Date: 2025-06-05 12:13+0000\n"
 "Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
 "Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
 "Language: de\n"
@@ -102,15 +102,15 @@ msgstr "Was ist das Maskottchen des openSUSE-Projekts?"
 
 #. no-translate
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 #. no-translate
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 #. no-translate
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr "Was ist das Hauptziel des openSUSE Projekts?"
@@ -1080,28 +1080,23 @@ msgstr ""
 msgid "openSUSE Flock"
 msgstr "openSUSE Experte"
 
-#, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following has the highest compression?"
-msgstr "Welcher der folgenden Paketmanager wird häufig auf openSUSE verwendet?"
+msgstr "Welche der folgenden Optionen hat die größte Kompressionsrate?"
 
 #. no-translate
-#, fuzzy
-#| msgid "Start"
 msgid "tar"
-msgstr "Start"
+msgstr "tar"
 
 #. no-translate
 msgid "echo"
-msgstr ""
+msgstr "echo"
 
 #. no-translate
 msgid "mkfile"
-msgstr ""
+msgstr "mkfile"
 
 msgid "steam roller"
-msgstr ""
+msgstr "Eine Straßenwalze"
 
 msgid ""
 "Where can you find endless wisdom, occasional rants, and a lot of helpful "
