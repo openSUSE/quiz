@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-05 20:48+0200\n"
+"POT-Creation-Date: 2025-06-06 01:19+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -984,6 +984,147 @@ msgid "Bluetooth"
 msgstr ""
 
 msgid "test"
+msgstr ""
+
+msgid "The Ultimate YaST Challenge"
+msgstr ""
+
+msgid "Think you know YaST? Think again."
+msgstr ""
+
+msgid "How many YaST2 translation packages are there in Tumbleweed?"
+msgstr ""
+
+msgid "about 25"
+msgstr ""
+
+msgid "about 40"
+msgstr ""
+
+msgid "about 60"
+msgstr ""
+
+msgid "about 80"
+msgstr ""
+
+msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
+msgstr ""
+
+msgid "about 30"
+msgstr ""
+
+msgid "about 50"
+msgstr ""
+
+msgid "about 100"
+msgstr ""
+
+msgid "about 150"
+msgstr ""
+
+msgid "When was the first YaST2 released?"
+msgstr ""
+
+msgid "1999"
+msgstr ""
+
+msgid "2002"
+msgstr ""
+
+msgid "2004"
+msgstr ""
+
+msgid "2006"
+msgstr ""
+
+msgid "When did YaST2 reach the German legal drinking age?"
+msgstr ""
+
+msgid "2010"
+msgstr ""
+
+msgid "2015"
+msgstr ""
+
+msgid "2021"
+msgstr ""
+
+msgid "2024"
+msgstr ""
+
+msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
+msgstr ""
+
+msgid "You get the \"Patches\" view"
+msgstr ""
+
+msgid "It crashes"
+msgstr ""
+
+msgid "It installs a random package"
+msgstr ""
+
+msgid "The Mogwai get hungry"
+msgstr ""
+
+msgid "How can you get an xterm in a YaST2 installation?"
+msgstr ""
+
+msgid "you can't"
+msgstr ""
+
+msgid "you click the Geeko icon on the top left 7 times"
+msgstr ""
+
+msgid "Ctrl-Shift-Alt-X"
+msgstr ""
+
+msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
+msgstr ""
+
+msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
+msgstr ""
+
+msgid "Yes, click the page heading 7 times"
+msgstr ""
+
+msgid "Yes, middle-click any widget"
+msgstr ""
+
+msgid "Yes, use Ctrl-Shift-Alt-Y"
+msgstr ""
+
+msgid "No - use the source, Luke"
+msgstr ""
+
+msgid "What happens if you right-click a button in YaST2?"
+msgstr ""
+
+msgid "It opens the button's context menu"
+msgstr ""
+
+msgid "It resets the page to defaults"
+msgstr ""
+
+msgid "It asks if you want to switch the mouse to left-handed mode"
+msgstr ""
+
+msgid "It switches to the dark widget theme or back"
+msgstr ""
+
+msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes, click the sun/moon icon"
+msgstr ""
+
+msgid "Yes, use Shift-F3"
+msgstr ""
+
+msgid "Yes, right-click the \"Help\" button"
 msgstr ""
 
 msgid "Start Quiz"
