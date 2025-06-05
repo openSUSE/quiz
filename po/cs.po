@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-05 12:18+0000\n"
+"PO-Revision-Date: 2025-06-05 17:19+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -691,7 +691,7 @@ msgid "Virtual Machine on Z (meaning s390x)"
 msgstr "Virtuální stroj na Z (myšleno s390x)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM je operační systém obvykle používaný jako hypervizor"
 
 msgid "Remote desktop viewer"
 msgstr "Prohlížeč vzdálené plochy"
@@ -752,7 +752,7 @@ msgid "What is IFL?"
 msgstr "Co je IFL?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "Filtrační jednotka pro chladící kapalinu"
 
 #. no-translate
 msgid "A core to run Linux on mainframe"
@@ -786,7 +786,7 @@ msgstr "Skrze co je spravován Operační systém je na s390x?"
 
 #. no-translate
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
 #, fuzzy
 #| msgid "SELinux"
@@ -795,7 +795,7 @@ msgstr "SELinux"
 
 #. no-translate
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #. no-translate
 #, fuzzy
@@ -804,23 +804,23 @@ msgid "z/VM"
 msgstr "z/VM je?"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Mají mainframy nějaké speciální podporu pro AI?"
 
 #. no-translate
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Ano, posledni modely mají Spyre akcelerátory."
 
 #. no-translate
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "Ne, je to příliš zastaralá technologie."
 
 #. no-translate
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Ano, ale nemohou být použity s Linuxem."
 
 #. no-translate
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "Ne, mainframy nejsou vhodné pro běhání AI uloh."
 
 msgid ""
 "Which of the following I/O devices is typically not used with mainframes?"
@@ -993,7 +993,7 @@ msgid "Please enter a username to proceed."
 msgstr "Pro pokračování zadejte uživatelské jméno."
 
 msgid "Username is too short."
-msgstr ""
+msgstr "Uživatelské jméno je příliš krátké."
 
 msgid "Leaderboard"
 msgstr "Žebříček"
@@ -1231,7 +1231,7 @@ msgid "You need a secret handshake first"
 msgstr "Nejdřív ale potřebuješ tajné podání ruky"
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Uživatelské jméno má již někdo jiný."
 
 #~ msgid "z/VM is operating system with the best backward compatibility"
 #~ msgstr "z/VM je operační system s nejlepší zpětnou kompatabilitou"
