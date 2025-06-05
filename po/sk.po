@@ -666,8 +666,7 @@ msgstr ""
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr ""
 
-msgid ""
-"The administration of mainframe machine through web interface from the 90’s"
+msgid "The administration of mainframe machine through web interface"
 msgstr ""
 
 msgid "A command for listing hardware network addresses."
@@ -682,7 +681,7 @@ msgstr ""
 msgid "Virtual Machine on Z (meaning s390x)"
 msgstr ""
 
-msgid "z/VM is operating system with the best backward compatibility"
+msgid "z/VM is operating system usually used as hypervisor"
 msgstr ""
 
 msgid "Remote desktop viewer"
@@ -712,7 +711,7 @@ msgstr ""
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr ""
 
-msgid "Terminal using unsecured telnet for connection to a machine"
+msgid "Terminal emulator for connection to a machine"
 msgstr ""
 
 msgid "Hexa code used as default admin password"
@@ -741,7 +740,7 @@ msgstr ""
 msgid "What is IFL?"
 msgstr ""
 
-msgid "A variant of lung disease"
+msgid "A filtration unit for cooling fluid"
 msgstr ""
 
 #. no-translate
@@ -769,39 +768,43 @@ msgstr ""
 msgid "A z/VM syslog filter"
 msgstr ""
 
-msgid "How is the operating system on s390x administered?"
+msgid "What is the most used operating system on mainframes?"
 msgstr ""
 
 #. no-translate
-msgid "Prolog"
+msgid "z/OS"
 msgstr ""
 
-msgid "Lisp"
+#, fuzzy
+#| msgid "Arch Linux"
+msgid "Linux"
+msgstr "Arch Linux"
+
+#. no-translate
+msgid "Windows"
 msgstr ""
 
 #. no-translate
-msgid "HMC"
+msgid "z/VM"
+msgstr ""
+
+msgid "Do mainframes have any special AI capabilities?"
 msgstr ""
 
 #. no-translate
-msgid "Linux (installed on bare metal)"
-msgstr ""
-
-msgid ""
-"AI must be mentioned :) In which language(s) can’t you work with data models "
-"on s390x using hardware exploitation?"
+msgid "Yes, latest models have Spyre accelerator."
 msgstr ""
 
 #. no-translate
-msgid "C/C++"
+msgid "No, it's too old technology."
 msgstr ""
 
 #. no-translate
-msgid "Python"
+msgid "Yes, but it can't be used on Linux."
 msgstr ""
 
 #. no-translate
-msgid "Java"
+msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
 msgid ""
@@ -966,10 +969,10 @@ msgstr ""
 msgid "No users found"
 msgstr ""
 
-msgid "Please enter a username to submit."
+msgid "Please enter a username to proceed."
 msgstr ""
 
-msgid "Username must be at least 3 characters long."
+msgid "Username is too short."
 msgstr ""
 
 msgid "Leaderboard"
@@ -1222,4 +1225,7 @@ msgid "Only if you summon the gaming gods"
 msgstr ""
 
 msgid "You need a secret handshake first"
+msgstr ""
+
+msgid "Sorry, this login is already taken."
 msgstr ""

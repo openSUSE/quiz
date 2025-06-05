@@ -690,8 +690,11 @@ msgstr "¿Qué es HMC?"
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, solo un nuevo y amigable Midnight Commander"
 
-msgid ""
-"The administration of mainframe machine through web interface from the 90’s"
+#, fuzzy
+#| msgid ""
+#| "The administration of mainframe machine through web interface from the "
+#| "90’s"
+msgid "The administration of mainframe machine through web interface"
 msgstr ""
 "La administración de la máquina central a través de la interfaz web de los "
 "años 90"
@@ -708,10 +711,8 @@ msgstr "¿Qué es z/VM?"
 msgid "Virtual Machine on Z (meaning s390x)"
 msgstr "Máquina virtual en Z (es decir, s390x)"
 
-msgid "z/VM is operating system with the best backward compatibility"
+msgid "z/VM is operating system usually used as hypervisor"
 msgstr ""
-"z/VM es el sistema operativo con la mejor compatibilidad con versiones "
-"anteriores"
 
 msgid "Remote desktop viewer"
 msgstr "Visor de escritorio remoto"
@@ -742,7 +743,9 @@ msgstr ""
 "Codificación de archivos especial, que es imprescindible para los archivos "
 "en s390x"
 
-msgid "Terminal using unsecured telnet for connection to a machine"
+#, fuzzy
+#| msgid "Terminal using unsecured telnet for connection to a machine"
+msgid "Terminal emulator for connection to a machine"
 msgstr "Terminal que utiliza telnet no seguro para la conexión a una máquina"
 
 msgid "Hexa code used as default admin password"
@@ -772,8 +775,8 @@ msgstr "Instalar la versión 1.5.0 de las bibliotecas de Python"
 msgid "What is IFL?"
 msgstr "¿Qué es IFL?"
 
-msgid "A variant of lung disease"
-msgstr "Una variante de la enfermedad pulmonar"
+msgid "A filtration unit for cooling fluid"
+msgstr ""
 
 #. no-translate
 msgid "A core to run Linux on mainframe"
@@ -802,42 +805,48 @@ msgstr "En realidad, significa ignorar al CIO"
 msgid "A z/VM syslog filter"
 msgstr "Un filtro de syslog de z/VM"
 
-msgid "How is the operating system on s390x administered?"
+#, fuzzy
+#| msgid "How is the operating system on s390x administered?"
+msgid "What is the most used operating system on mainframes?"
 msgstr "¿Cómo se administra el sistema operativo en s390x?"
 
 #. no-translate
-msgid "Prolog"
-msgstr "Prolog"
-
-msgid "Lisp"
-msgstr "Lisp"
-
-#. no-translate
-msgid "HMC"
-msgstr "HMC"
-
-#. no-translate
-msgid "Linux (installed on bare metal)"
-msgstr "Linux (instalado en hardware dedicado)"
-
-msgid ""
-"AI must be mentioned :) In which language(s) can’t you work with data models "
-"on s390x using hardware exploitation?"
+msgid "z/OS"
 msgstr ""
-"Hay que mencionar la IA :) ¿En qué lenguaje(s) no se puede trabajar con "
-"modelos de datos en s390x utilizando la explotación de hardware?"
+
+#, fuzzy
+#| msgid "Arch Linux"
+msgid "Linux"
+msgstr "Arch Linux"
 
 #. no-translate
-msgid "C/C++"
-msgstr "C/C++"
+msgid "Windows"
+msgstr ""
 
 #. no-translate
-msgid "Python"
-msgstr "Python"
+#, fuzzy
+#| msgid "z/VM is?"
+msgid "z/VM"
+msgstr "¿Qué es z/VM?"
+
+msgid "Do mainframes have any special AI capabilities?"
+msgstr ""
 
 #. no-translate
-msgid "Java"
-msgstr "Java"
+msgid "Yes, latest models have Spyre accelerator."
+msgstr ""
+
+#. no-translate
+msgid "No, it's too old technology."
+msgstr ""
+
+#. no-translate
+msgid "Yes, but it can't be used on Linux."
+msgstr ""
+
+#. no-translate
+msgid "No, mainframes are not useful for running AI tasks."
+msgstr ""
 
 msgid ""
 "Which of the following I/O devices is typically not used with mainframes?"
@@ -1007,11 +1016,13 @@ msgstr "No, sus ojos siempre están cerrados"
 msgid "No users found"
 msgstr "No se ha encontrado ningún usuario"
 
-msgid "Please enter a username to submit."
+#, fuzzy
+#| msgid "Please enter a username to submit."
+msgid "Please enter a username to proceed."
 msgstr "Ingrese un nombre de usuario para enviar."
 
-msgid "Username must be at least 3 characters long."
-msgstr "El nombre de usuario debe tener al menos 3 caracteres."
+msgid "Username is too short."
+msgstr ""
 
 msgid "Leaderboard"
 msgstr "Tabla de clasificación"
@@ -1270,3 +1281,45 @@ msgstr ""
 
 msgid "You need a secret handshake first"
 msgstr ""
+
+msgid "Sorry, this login is already taken."
+msgstr ""
+
+#~ msgid "z/VM is operating system with the best backward compatibility"
+#~ msgstr ""
+#~ "z/VM es el sistema operativo con la mejor compatibilidad con versiones "
+#~ "anteriores"
+
+#~ msgid "A variant of lung disease"
+#~ msgstr "Una variante de la enfermedad pulmonar"
+
+#~ msgid "Prolog"
+#~ msgstr "Prolog"
+
+#~ msgid "Lisp"
+#~ msgstr "Lisp"
+
+#~ msgid "HMC"
+#~ msgstr "HMC"
+
+#~ msgid "Linux (installed on bare metal)"
+#~ msgstr "Linux (instalado en hardware dedicado)"
+
+#~ msgid ""
+#~ "AI must be mentioned :) In which language(s) can’t you work with data "
+#~ "models on s390x using hardware exploitation?"
+#~ msgstr ""
+#~ "Hay que mencionar la IA :) ¿En qué lenguaje(s) no se puede trabajar con "
+#~ "modelos de datos en s390x utilizando la explotación de hardware?"
+
+#~ msgid "C/C++"
+#~ msgstr "C/C++"
+
+#~ msgid "Python"
+#~ msgstr "Python"
+
+#~ msgid "Java"
+#~ msgstr "Java"
+
+#~ msgid "Username must be at least 3 characters long."
+#~ msgstr "El nombre de usuario debe tener al menos 3 caracteres."
