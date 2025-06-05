@@ -1,6 +1,7 @@
 # 🦎 openSUSE-quiz 🦎
 
 <!-- Badges -->
+
 [![Powered by openSUSE](https://img.shields.io/badge/powered%20by-openSUSE-6da741?logo=opensuse&logoColor=white)](https://www.opensuse.org/)
 [![Format and Lint Check](https://github.com/openSUSE/quiz/actions/workflows/format-check.yml/badge.svg)](https://github.com/openSUSE/quiz/actions/workflows/format-check.yml)
 ![MIT License](https://img.shields.io/github/license/openSUSE/quiz)
