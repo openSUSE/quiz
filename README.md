@@ -51,6 +51,40 @@ It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sand
 
 5. Visit [http://localhost:3000](http://localhost:3000) (or your specified port) in your browser. 🌐
 
+### Formatting and Linting
+
+Before committing code, please run the following commands to ensure code quality and consistency:
+
+#### With npm
+
+```bash
+npm run format
+npm run lint
+```
+
+#### With Bun
+
+```bash
+bun run format
+bun run lint
+```
+
+### Building CSS Files
+
+This project uses LESS for styling. To compile the LESS files into CSS, run the following command:
+
+```bash
+npm run build:css
+```
+
+Alternatively you can use `bun` to compile the LESS files into CSS.
+
+```bash
+bun build:css
+```
+
+This will generate the `public/styles.css` file.
+
 ### Using Bun 🐰
 
 1. Ensure you have Bun installed. (Visit the [official Bun website](https://bun.sh/) for installation instructions). 💻
