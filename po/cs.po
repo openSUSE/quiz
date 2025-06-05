@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-05 20:48+0200\n"
-"PO-Revision-Date: 2025-06-05 20:03+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 20:21+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
 msgstr "openSUSE Devconf 2025"
@@ -552,7 +541,7 @@ msgid "Build Service"
 msgstr "OBS (Open Build Service)"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid ""
 "What command would you use to update software packages on openSUSE from the "
@@ -573,7 +562,7 @@ msgid "dnf upgrade"
 msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 #, fuzzy
 #| msgid "What does the word 'open' in openSUSE mean?"
@@ -607,7 +596,7 @@ msgid "zypper"
 msgstr "Sypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
 #, fuzzy
 #| msgid "Yum"
@@ -672,25 +661,25 @@ msgid "timeshift"
 msgstr "Timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
 msgstr "Jaký je výchozí textový editor na openSUSE?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
 msgstr "Který příkaz by nainstaloval balíček v openSUSE?"
@@ -702,10 +691,10 @@ msgid "apt-get install package-name"
 msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install package-name"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S package-name"
 
 #, fuzzy
 #| msgid "What is the name of the openSUSE build system?"
@@ -721,7 +710,7 @@ msgid "discuss.opensuse.com"
 msgstr "bugs.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
 #, fuzzy
 #| msgid "fun@opensuse.org"
@@ -736,7 +725,7 @@ msgstr ""
 "openSUSE?"
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
 #, fuzzy
 #| msgid "What is the name of the openSUSE build system?"
@@ -749,13 +738,13 @@ msgid "Which file format does openSUSE use for package management?"
 msgstr "Co spravuje nový balíček openSUSE-repos?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
 msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
 msgstr "PKG"
@@ -771,7 +760,7 @@ msgid "zypper repos"
 msgstr "zypper repolist"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
 #, fuzzy
 #| msgid "zypper repolist"
@@ -789,13 +778,13 @@ msgid "What is the primary license used by openSUSE?"
 msgstr "Co je maskotem openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT License"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache License"
 
 msgid "Proprietary"
 msgstr "Proprietární"
@@ -866,13 +855,13 @@ msgid "Which openSUSE tool is used for system configuration and management?"
 msgstr "Který nástroj používá openSUSE pro systémové snapshoty a obnovení?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE System Settings"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
 #, fuzzy
 #| msgid "What is the default filesystem in openSUSE?"
@@ -890,10 +879,10 @@ msgid "timeshift --list"
 msgstr "Timeshift"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 #, fuzzy
 #| msgid "What makes openSUSE special?"
@@ -912,7 +901,7 @@ msgid "zsh"
 msgstr "ash"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 #, fuzzy
 #| msgid "ash"
