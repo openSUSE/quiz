@@ -138,7 +138,7 @@ We welcome all contributions! Whether you're improving translations, adding new 
 
 ---
 
-## 🈷️ Improving Translations
+## 🈷️ Helping with Translations
 
 To add or correct translations in an existing language, head over to Weblate:
 
@@ -156,17 +156,12 @@ You can add new questions by modifying or creating quiz files inside the `data/`
 
 - Create a new file like `data/s390x.js`.
 - Follow the format used in existing quiz files.
+- Use `po/extract-pot.sh` to extract questions from quiz to po/template.pot for translation in l10n.opensuse.org.
 - Refer to [PR #35](https://github.com/openSUSE/quiz/pull/35) for a working example.
 
-> ⚠️ **Important:** All questions and answers must appear in both:
->
-> - The appropriate `data/*.js` file
-> - The `po/template.pot` file
+> ⚠️ **Important:** All questions and answers must match in between data/\*.js and po/template.pot or translations simply won't work and it will default to English.
 
-This duplication is required for proper translation support.
-
-🔁 If you change any text in `data/*.js`, you **must** update `po/template.pot` accordingly.  
-Please also update at least `locales/en/LC_MESSAGES` to avoid untranslated strings in the app.
+🔁 If you change any text in `data/*.js`, you **must** update `po/template.pot` accordingly.
 
 ---
 
