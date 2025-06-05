@@ -1,0 +1,399 @@
+{
+  "Ducky": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 1
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 1,
+      "score": 0
+    }
+  },
+  "Ada": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 1
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 1,
+      "score": 0
+    }
+  },
+  "Dud3 ": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 1
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 1,
+      "score": 0
+    }
+  },
+  "Ada123": {
+    "quizzes": {
+      "test": {
+        "correct": 1,
+        "total": 1
+      }
+    },
+    "aggregate": {
+      "correct": 1,
+      "wrong": 0,
+      "score": 1.05
+    }
+  },
+  "KernelPanic42": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 7,
+        "total": 10
+      }
+    },
+    "aggregate": {
+      "correct": 7,
+      "wrong": 3,
+      "score": 7.2
+    }
+  },
+  "YaST4Life": {
+    "quizzes": {
+      "test": {
+        "correct": 3,
+        "total": 5
+      },
+      "openSUSE Expert": {
+        "correct": 10,
+        "total": 15
+      }
+    },
+    "aggregate": {
+      "correct": 13,
+      "wrong": 7,
+      "score": 13.3
+    }
+  },
+  "NotASUSEBot": {
+    "quizzes": {
+      "s390x Expert": {
+        "correct": 2,
+        "total": 2
+      }
+    },
+    "aggregate": {
+      "correct": 2,
+      "wrong": 0,
+      "score": 2.1
+    }
+  },
+  "SnapperSlapper": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 3
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 3,
+      "score": 0
+    }
+  },
+  "TumbleWeedle": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 9,
+        "total": 10
+      }
+    },
+    "aggregate": {
+      "correct": 9,
+      "wrong": 1,
+      "score": 9.4
+    }
+  },
+  "GRUBbyHands": {
+    "quizzes": {
+      "s390x Expert": {
+        "correct": 4,
+        "total": 5
+      }
+    },
+    "aggregate": {
+      "correct": 4,
+      "wrong": 1,
+      "score": 4.0
+    }
+  },
+  "ZypperSnap": {
+    "quizzes": {
+      "test": {
+        "correct": 1,
+        "total": 1
+      },
+      "openSUSE Expert": {
+        "correct": 2,
+        "total": 2
+      }
+    },
+    "aggregate": {
+      "correct": 3,
+      "wrong": 0,
+      "score": 3.15
+    }
+  },
+  "MountItBaby": {
+    "quizzes": {
+      "test": {
+        "correct": 2,
+        "total": 4
+      }
+    },
+    "aggregate": {
+      "correct": 2,
+      "wrong": 2,
+      "score": 2.0
+    }
+  },
+  "FstabFanboy": {
+    "quizzes": {
+      "s390x Expert": {
+        "correct": 7,
+        "total": 10
+      },
+      "test": {
+        "correct": 3,
+        "total": 5
+      }
+    },
+    "aggregate": {
+      "correct": 10,
+      "wrong": 5,
+      "score": 10.25
+    }
+  },
+  "ChameleonChamp": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 100,
+        "total": 100
+      }
+    },
+    "aggregate": {
+      "correct": 100,
+      "wrong": 0,
+      "score": 105
+    }
+  },
+  "zypperDooDah": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 1
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 1,
+      "score": 0
+    }
+  },
+  "RootMeMaybe": {
+    "quizzes": {
+      "s390x Expert": {
+        "correct": 5,
+        "total": 6
+      }
+    },
+    "aggregate": {
+      "correct": 5,
+      "wrong": 1,
+      "score": 5.0
+    }
+  },
+  "MakeInstallWizard": {
+    "quizzes": {
+      "test": {
+        "correct": 6,
+        "total": 7
+      }
+    },
+    "aggregate": {
+      "correct": 6,
+      "wrong": 1,
+      "score": 6.0
+    }
+  },
+  "404NotFound": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 0
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 0,
+      "score": 0
+    }
+  },
+  "SUSEOrBust": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 10,
+        "total": 20
+      }
+    },
+    "aggregate": {
+      "correct": 10,
+      "wrong": 10,
+      "score": 10.0
+    }
+  },
+  "rpmDancer": {
+    "quizzes": {
+      "s390x Expert": {
+        "correct": 3,
+        "total": 3
+      }
+    },
+    "aggregate": {
+      "correct": 3,
+      "wrong": 0,
+      "score": 3.15
+    }
+  },
+  "MrKernel": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 22,
+        "total": 30
+      },
+      "s390x Expert": {
+        "correct": 8,
+        "total": 10
+      }
+    },
+    "aggregate": {
+      "correct": 30,
+      "wrong": 10,
+      "score": 30.0
+    }
+  },
+  "BtrfsBoss": {
+    "quizzes": {
+      "test": {
+        "correct": 4,
+        "total": 4
+      }
+    },
+    "aggregate": {
+      "correct": 4,
+      "wrong": 0,
+      "score": 4.2
+    }
+  },
+  "CtrlAltDelight": {
+    "quizzes": {
+      "test": {
+        "correct": 5,
+        "total": 10
+      }
+    },
+    "aggregate": {
+      "correct": 5,
+      "wrong": 5,
+      "score": 5.0
+    }
+  },
+  "Grubnado": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 18,
+        "total": 22
+      }
+    },
+    "aggregate": {
+      "correct": 18,
+      "wrong": 4,
+      "score": 18.3
+    }
+  },
+  "NoobSUSEr": {
+    "quizzes": {
+      "test": {
+        "correct": 1,
+        "total": 10
+      }
+    },
+    "aggregate": {
+      "correct": 1,
+      "wrong": 9,
+      "score": 0.6
+    }
+  },
+  "BIOSBandit": {
+    "quizzes": {
+      "test": {
+        "correct": 2,
+        "total": 3
+      }
+    },
+    "aggregate": {
+      "correct": 2,
+      "wrong": 1,
+      "score": 2.0
+    }
+  },
+  "InitDinosaur": {
+    "quizzes": {
+      "test": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "aggregate": {
+      "correct": 0,
+      "wrong": 5,
+      "score": 0
+    }
+  },
+  "ZypperJedi": {
+    "quizzes": {
+      "openSUSE Expert": {
+        "correct": 12,
+        "total": 12
+      }
+    },
+    "aggregate": {
+      "correct": 12,
+      "wrong": 0,
+      "score": 12.6
+    }
+  },
+  "LeapYearner": {
+    "quizzes": {
+      "test": {
+        "correct": 8,
+        "total": 10
+      },
+      "s390x Expert": {
+        "correct": 3,
+        "total": 5
+      }
+    },
+    "aggregate": {
+      "correct": 11,
+      "wrong": 4,
+      "score": 11.05
+    }
+  }
+}
