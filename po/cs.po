@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-03 22:41+0000\n"
+"PO-Revision-Date: 2025-06-05 12:13+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -1011,230 +1011,211 @@ msgid "lang_name_uk"
 msgstr "Ukrajinština"
 
 msgid "What does GNOME do?"
-msgstr ""
+msgstr "Co dělá GNOME?"
 
 msgid "Mine gold and diamonds"
-msgstr ""
+msgstr "Těží zlato a diamanty"
 
 msgid "Create a desktop environment for Linux"
-msgstr ""
+msgstr "Vytváří desktopové prostředí pro Linux"
 
 msgid "Install Linux programs and applications"
-msgstr ""
+msgstr "Instaluje Linuxové programy a aplikace"
 
 msgid "Fix MacOS drivers"
-msgstr ""
+msgstr "Opravuje MacOS ovladače"
 
 msgid ""
 "Which security module is now used by default in new openSUSE Tumbleweed and "
 "Leap 16.0 installations?"
 msgstr ""
+"Který bezpečnostní modul se nyní používá jako výchozí v nových instalacích "
+"openSUSE Tumbleweed a Leap 16.0?"
 
 #. no-translate
 msgid "AppArmor"
-msgstr ""
+msgstr "AppArmor"
 
 #. no-translate
 msgid "SELinux"
-msgstr ""
+msgstr "SELinux"
 
 #. no-translate
 msgid "grsecurity"
-msgstr ""
+msgstr "grsecurity"
 
 #. no-translate
 msgid "Firewalld"
-msgstr ""
+msgstr "Firewalld"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the main openSUSE conference called?"
-msgstr "Jaký je maskot projektu openSUSE?"
+msgstr "Jak se jmenuje hlavní openSUSE konference?"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Gathering"
-msgstr "openSUSE Expert"
+msgstr "openSUSE Gathering"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Fest"
-msgstr "openSUSE Expert"
+msgstr "openSUSE Fest"
 
 msgid "openSUSE Conference (OSC)"
-msgstr ""
+msgstr "openSUSE Conferencee (OSC)"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Flock"
-msgstr "openSUSE Expert"
+msgstr "openSUSE Flock"
 
-#, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following has the highest compression?"
-msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+msgstr "Který z následujících má nejvyšší kompresi?"
 
 #. no-translate
-#, fuzzy
-#| msgid "Start"
 msgid "tar"
-msgstr "Start"
+msgstr "tar"
 
 #. no-translate
 msgid "echo"
-msgstr ""
+msgstr "echo"
 
 #. no-translate
 msgid "mkfile"
-msgstr ""
+msgstr "mkfile"
 
 msgid "steam roller"
-msgstr ""
+msgstr "parní válec"
 
 msgid ""
 "Where can you find endless wisdom, occasional rants, and a lot of helpful "
 "penguin-powered advice from the openSUSE community?"
 msgstr ""
+"Kde můžete nalézt nekonečnou moudrost, občasné výlevy a spoustu užitečných "
+"rad od komunity openSUSE?"
 
 msgid "Under Geeko’s pillow"
-msgstr ""
+msgstr "Pod Geekovým polštářem"
 
 #. no-translate
-#, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "forums.opensuse.org"
-msgstr "fun@opensuse.org"
+msgstr "forums.opensuse.org"
 
 #. no-translate
 msgid "i-seek-you-opensuse"
-msgstr ""
+msgstr "i-seek-you-opensuse"
 
 #. no-translate
 msgid "yast --help"
-msgstr ""
+msgstr "yast --help"
 
 msgid "Who is known as the father of Linux?"
-msgstr ""
+msgstr "Kdo je znám jako otec Linuxu?"
 
 msgid "Torwald Linuksson"
-msgstr ""
+msgstr "Torwald Linuksson"
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Linux Tyrnux"
-msgstr ""
+msgstr "Linux Tyrnux"
 
 msgid "Sinus Urvaald"
-msgstr ""
+msgstr "Sinus Urvaald"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What is the official slogan of openSUSE?"
-msgstr "Co je maskotem openSUSE?"
+msgstr "Co je oficiálním maskotem openSUSE?"
 
 msgid "Have a lot of fun!"
-msgstr ""
+msgstr "Hodně zábavy! (Have a lot of fun!)"
 
 msgid "Innovate and Collaborate"
-msgstr ""
+msgstr "Inovujte a Spolupracujte"
 
 msgid "Open Source, Open Future"
-msgstr ""
+msgstr "Otevřený Kód, Otevřená Budoucnost"
 
 msgid "Power to the Users"
-msgstr ""
+msgstr "Moc uživatelům"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the default shell in openSUSE?"
-msgstr "Jaký je výchozí souborový systém v openSUSE?"
+msgstr "Jaký je výchozí shell pro příkazový řádek v openSUSE?"
 
 #. no-translate
 msgid "ash"
-msgstr ""
+msgstr "ash"
 
 #. no-translate
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 #. no-translate
 msgid "zshpicture"
-msgstr ""
+msgstr "zshpicture"
 
 #. no-translate
 msgid "dash"
-msgstr ""
+msgstr "dash"
 
-#, fuzzy
-#| msgid "Where was the openSUSE project founded?"
 msgid "When was the openSUSE project officially started?"
-msgstr "Kde byl projekt openSUSE založen?"
+msgstr "Kdy byl projekt openSUSE oficiálně založen?"
 
 #. no-translate
 msgid "2047"
-msgstr ""
+msgstr "2047"
 
 msgid "0 AD"
-msgstr ""
+msgstr "0 n. l."
 
 #. no-translate
 msgid "2005"
-msgstr ""
+msgstr "2005"
 
 #. no-translate
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "What cannot be tested in openQA?"
-msgstr ""
+msgstr "Co se nedá testovat v openQA?"
 
 #. no-translate
 msgid "ASCII art"
-msgstr ""
+msgstr "ASCII art"
 
 msgid "Displaying websites in Mozilla Firefox"
-msgstr ""
+msgstr "Zobrazování webových stránek ve Firefoxu"
 
 msgid "Installing Debian"
-msgstr ""
+msgstr "Instalování Debianu"
 
 #. no-translate
 msgid "Covid-19"
-msgstr ""
+msgstr "Covid-19"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the new openSUSE-repos package manage?"
-msgstr "Co znamená slovo 'open' (otevřený) v openSUSE?"
+msgstr "Co spravuje nový balíček openSUSE-repos?"
 
 msgid "Repository definitions in /etc/zypp/repos.d/ managed by RIS"
-msgstr ""
+msgstr "Definice repozitářů v /etc/zypp/repos.d/ spravované skrze RIS"
 
 msgid "Kernel modules for openSUSE"
-msgstr ""
+msgstr "Jaderné moduly v openSUSE"
 
 msgid "Desktop themes and icons"
-msgstr ""
+msgstr "Desktopové témata a ikonky"
 
 msgid "System logs and journal settings"
-msgstr ""
+msgstr "Systémove logy a nastavení žurnálu"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "Můžete hrát hry pro Windows na openSUSE?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "Vůbec, to jde jen na Windows"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "Jasně! Stačí nahodit Steam a můžu hrát"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "Pouze pokud přivoláte herní bohy"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "Nejdřív ale potřebuješ tajné podání ruky"
 
 #~ msgid "x3270 means:"
 #~ msgstr "x3270 znamená:"
