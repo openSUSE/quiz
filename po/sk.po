@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-01 00:00+0000\n"
+"POT-Creation-Date: 2025-06-05 20:48+0200\n"
 "PO-Revision-Date: 2025-06-05 19:39+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
@@ -12,102 +12,25 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 5.11.4\n"
 
-msgid "Language"
-msgstr "Jazyk"
-
-msgid "lang_name_en"
-msgstr "Angličtina"
-
-msgid "lang_name_cs"
-msgstr "Čeština"
-
-msgid "lang_name_tr"
-msgstr "Turečtina"
-
-msgid "lang_name_de"
-msgstr "Nemčina"
-
-msgid "lang_name_ca"
-msgstr "Katalánčina"
-
-msgid "lang_name_ja"
-msgstr "Japončina"
-
-msgid "Stats"
-msgstr "Štatistiky"
-
-msgid "Start"
-msgstr "Štart"
-
-msgid "Back"
-msgstr "Späť"
-
-msgid "Next"
-msgstr "Ďalej"
-
-msgid "Time left"
-msgstr "Zostávajúci čas"
-
-msgid "Back to Main Page"
-msgstr "Späť na hlavnú stránku"
-
-msgid "Nickname"
-msgstr "Prezývka"
-
-msgid "Score"
-msgstr "Skóre"
-
-msgid "Correct"
-msgstr "Správne"
-
-msgid "Wrong"
-msgstr "Nesprávne"
-
-msgid "Submit"
-msgstr "Odoslať"
-
-msgid "Submit and Quit"
-msgstr "Odoslať a ukončiť"
-
-msgid "Quit"
-msgstr "Ukončiť"
-
-msgid "Are you sure you want to quit and submit?"
-msgstr "Ste si istí, že chcete ukončiť a odoslať?"
-
-msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Ste si istý, že chcete ukončiť? Váš postup sa neuloží."
-
-msgid "openSUSE Quizzes"
-msgstr "Kvízy openSUSE"
-
-msgid "Available quizzes"
-msgstr "Dostupné kvízy"
-
-#. Quiz metadata
-msgid "openSUSE Expert"
-msgstr "openSUSE Expert"
+msgid "openSUSE Devconf 2025"
+msgstr ""
 
 msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
+"Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr ""
-"Vyzvite ostatných používateľov v našej výsledkovej tabuľke. 30 sekúnd na "
-"otázku. Môžete kedykoľvek prestať."
 
-#. Questions
 msgid "What is the mascot of openSUSE project?"
 msgstr "Aký je maskot projektu openSUSE?"
 
-#. no-translate
+msgid "Pascal"
+msgstr ""
+
 msgid "TwoPac"
 msgstr "TwoPac"
 
-#. no-translate
 msgid "Geeko"
 msgstr "Geeko"
 
-#. no-translate
 msgid "BeefyMiracle"
 msgstr "BeefyMiracle"
 
@@ -163,38 +86,30 @@ msgstr "Na Univerzite v Helsinkách"
 msgid "What is the default filesystem in openSUSE?"
 msgstr "Aký je predvolený súborový systém v openSUSE?"
 
-#. no-translate
 msgid "ReiserFS"
 msgstr "ReiserFS"
 
-#. no-translate
 msgid "Btrfs"
 msgstr "Btrfs"
 
-#. no-translate
 msgid "XFS"
 msgstr "XFS"
 
-#. no-translate
 msgid "InterPlanetary File System"
 msgstr "Súborový systém InterPlanetary"
 
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Aký je názov nového inštalátora v Leap 16?"
 
-#. no-translate
 msgid "Sypper"
 msgstr "Sypper"
 
-#. no-translate
 msgid "Agama"
 msgstr "Agama"
 
-#. no-translate
 msgid "Anaconda"
 msgstr "Anaconda"
 
-#. no-translate
 msgid "Cayman"
 msgstr "Cayman"
 
@@ -208,53 +123,27 @@ msgstr ""
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS a Leap Micro"
 
-#. no-translate
 msgid "Tumbleweed"
 msgstr "Tumbleweed"
 
-#. no-translate
 msgid "Leap"
 msgstr "Leap"
 
-#. no-translate
 msgid "Slowroll"
 msgstr "Slowroll"
-
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
-"Ktorá rolujúca distribúcia openSUSE ponúka pokojnejšiu alternatívu k "
-"Tumbleweed pre používateľov, ktorí uprednostňujú menej prekvapení?"
-
-#. no-translate
-msgid "Tumblebleed"
-msgstr "Tumblebleed"
-
-#. no-translate
-msgid "Leapfrog"
-msgstr "Leapfrog"
-
-#. no-translate
-msgid "Zyppernap"
-msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr "Ktorý z nasledujúcich správcov balíkov sa bežne používa v openSUSE?"
 
-#. no-translate
 msgid "Yum"
 msgstr "Yum"
 
-#. no-translate
 msgid "DNF"
 msgstr "DNF"
 
-#. no-translate
 msgid "Zypper"
 msgstr "Zypper"
 
-#. no-translate
 msgid "Pacman"
 msgstr "Pacman"
 
@@ -276,18 +165,212 @@ msgstr "Rolujúce vydanie pre mobilné zariadenia"
 msgid "A container-focused system like MicroOS"
 msgstr "Systém zameraný na kontajnery ako MicroOS"
 
+msgid "Can you play Windows games on openSUSE?"
+msgstr ""
+
+msgid "No way, only Windows can do that"
+msgstr ""
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr ""
+
+msgid "Only if you summon the gaming gods"
+msgstr ""
+
+msgid "You need a secret handshake first"
+msgstr ""
+
+msgid "Chameleon Fun for kids!"
+msgstr ""
+
+msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
+msgstr ""
+
+msgid "What color can a chameleon turn into?"
+msgstr ""
+
+msgid "Only green"
+msgstr ""
+
+msgid "Any color, even purple!"
+msgstr ""
+
+msgid "Many colors like green, brown, yellow"
+msgstr ""
+
+msgid "Only black and white"
+msgstr ""
+
+msgid "What is the mascot of openSUSE?"
+msgstr ""
+
+msgid "A penguin"
+msgstr ""
+
+msgid "A chameleon called Geeko"
+msgstr ""
+
+msgid "A dragon"
+msgstr ""
+
+msgid "A robot"
+msgstr ""
+
+msgid "Why do chameleons change color?"
+msgstr ""
+
+msgid "To show how they feel or to hide"
+msgstr ""
+
+msgid "Because they are bored"
+msgstr ""
+
+msgid "Because they are cold-blooded robots"
+msgstr ""
+
+msgid "To glow in the dark"
+msgstr ""
+
+msgid "Chameleons are primarily found in which part of the world?"
+msgstr "Chameleóny sa vyskytujú predovšetkým v ktorej časti sveta?"
+
+msgid "South America"
+msgstr "Južná Amerika"
+
+msgid "Africa and Madagascar"
+msgstr "Afrika a Madagaskar"
+
+msgid "Southeast Asia"
+msgstr "Juhovýchodná Ázia"
+
+msgid "Antarctica"
+msgstr "Antarktída"
+
+msgid "How do chameleons catch their food?"
+msgstr ""
+
+msgid "With their hands"
+msgstr ""
+
+msgid "With their long sticky tongue"
+msgstr ""
+
+msgid "By shouting at it"
+msgstr ""
+
+msgid "With a net"
+msgstr ""
+
+msgid "What do chameleons eat?"
+msgstr ""
+
+msgid "Ice cream"
+msgstr ""
+
+msgid "Insects"
+msgstr ""
+
+msgid "Pineapples"
+msgstr ""
+
+msgid "Hot dogs"
+msgstr ""
+
+msgid "What makes openSUSE special?"
+msgstr ""
+
+msgid "It can talk to animals"
+msgstr ""
+
+msgid "It’s a modern, free operating system anyone can use — including you!"
+msgstr ""
+
+msgid "It’s made of chameleon scales"
+msgstr ""
+
+msgid "It’s only for secret agents"
+msgstr ""
+
+msgid "Do all chameleons look the same?"
+msgstr ""
+
+msgid "Yes, they are all green and grumpy"
+msgstr ""
+
+msgid "No, they come in many shapes, sizes, and colors"
+msgstr ""
+
+msgid "Yes, they all wear hats"
+msgstr ""
+
+msgid "They all wear openSUSE stickers"
+msgstr ""
+
+msgid "What does the word 'open' in openSUSE mean?"
+msgstr ""
+
+msgid "It’s a password"
+msgstr ""
+
+msgid "It means everyone can use it and help make it better"
+msgstr ""
+
+msgid "It’s only for opening doors"
+msgstr ""
+
+msgid "It’s about opening candy wrappers"
+msgstr ""
+
+msgid "Can chameleons move their eyes separately?"
+msgstr ""
+
+msgid "No, they blink both eyes together"
+msgstr ""
+
+msgid "Yes, they can look in two directions at once!"
+msgstr ""
+
+msgid "They close one eye when sleeping"
+msgstr ""
+
+msgid "No, their eyes are always closed"
+msgstr ""
+
+msgid "openSUSE Expert"
+msgstr "openSUSE Expert"
+
+msgid ""
+"Challenge other users in our leaderboard. 30 seconds per question. Stop "
+"anytime."
+msgstr ""
+"Vyzvite ostatných používateľov v našej výsledkovej tabuľke. 30 sekúnd na "
+"otázku. Môžete kedykoľvek prestať."
+
+msgid ""
+"Which openSUSE rolling distribution offers a calmer alternative to "
+"Tumbleweed for users who prefer fewer surprises?"
+msgstr ""
+"Ktorá rolujúca distribúcia openSUSE ponúka pokojnejšiu alternatívu k "
+"Tumbleweed pre používateľov, ktorí uprednostňujú menej prekvapení?"
+
+msgid "Tumblebleed"
+msgstr "Tumblebleed"
+
+msgid "Leapfrog"
+msgstr "Leapfrog"
+
+msgid "Zyppernap"
+msgstr "Zyppernap"
+
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Ktoré desktopové prostredie je predvolené pre openSUSE Leap 15?"
 
-#. no-translate
 msgid "GNOME"
 msgstr "GNOME"
 
-#. no-translate
 msgid "KDE Plasma"
 msgstr "KDE Plasma"
 
-#. no-translate
 msgid "Xfce"
 msgstr "Xfce"
 
@@ -298,19 +381,15 @@ msgstr ""
 msgid "What is the name of the openSUSE build system?"
 msgstr "Ako sa volá zostavovací systém openSUSE?"
 
-#. no-translate
 msgid "OBS (Open Build Service)"
 msgstr "OBS (Open Build Service)"
 
-#. no-translate
 msgid "Weblate"
 msgstr "Weblate"
 
-#. no-translate
 msgid "Koji"
 msgstr "Koji"
 
-#. no-translate
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
@@ -366,53 +445,30 @@ msgstr "Podnikové použitie"
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Kde sa môžete dozvedieť o projektoch od Rancher a SUSE?"
 
-#. no-translate
 msgid "Rancher Academy"
 msgstr "Rancher Academy"
 
-#. no-translate
 msgid "Cow College"
 msgstr "Cow College"
 
-#. no-translate
 msgid "Moo University"
 msgstr "Moo University"
 
-#. no-translate
 msgid "Cowboy Hat"
 msgstr "Cowboy Hat"
-
-msgid "Chameleons are primarily found in which part of the world?"
-msgstr "Chameleóny sa vyskytujú predovšetkým v ktorej časti sveta?"
-
-msgid "South America"
-msgstr "Južná Amerika"
-
-msgid "Africa and Madagascar"
-msgstr "Afrika a Madagaskar"
-
-msgid "Southeast Asia"
-msgstr "Juhovýchodná Ázia"
-
-msgid "Antarctica"
-msgstr "Antarktída"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
 msgstr "Kde môžete skontrolovať aktuálny stav infraštruktúry openSUSE?"
 
-#. no-translate
 msgid "status.opensuse.org"
 msgstr "status.opensuse.org"
 
-#. no-translate
 msgid "isopensusedown.com"
 msgstr "isopensusedown.com"
 
-#. no-translate
 msgid "yast-status-viewer"
 msgstr "yast-status-viewer"
 
-#. no-translate
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
@@ -453,19 +509,15 @@ msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr ""
 "Ako sa volá nové grafické rozhranie správcu balíkov, ktoré nahradí YaST?"
 
-#. no-translate
 msgid "Gandalf"
 msgstr "Gandalf"
 
-#. no-translate
 msgid "Zypperella"
 msgstr "Zypperella"
 
-#. no-translate
 msgid "Myrlyn"
 msgstr "Myrlyn"
 
-#. no-translate
 msgid "DnfDumbledore"
 msgstr "DnfDumbledore"
 
@@ -475,156 +527,370 @@ msgstr "Ako často sa vydáva nová stabilná verzia openSUSE Leap?"
 msgid "Every 5 years when the stars align"
 msgstr "Každých 5 rokov, keď sa zoskupia hviezdy"
 
-msgid "Monthly, to keep everyone on their toes"
-msgstr "Mesačne, aby boli všetci v strehu"
-
-msgid "Annually"
+msgid "Every 12 months with 6 months overlap"
 msgstr ""
 
-msgid "Every time a tumbleweed rolls by"
+msgid "Every month"
 msgstr ""
 
-msgid "Which openSUSE mailing list is focused on development discussions?"
-msgstr ""
-
-#. no-translate
-msgid "factory@lists.opensuse.org"
-msgstr ""
-
-#. no-translate
-msgid "support@opensuse.org"
-msgstr ""
-
-#. no-translate
-msgid "users@opensuse.org"
-msgstr ""
-
-#. no-translate
-msgid "fun@opensuse.org"
+msgid "When the Geeko gets bored"
 msgstr ""
 
 msgid ""
-"openSUSE's build service allows you to build packages for how many different "
-"distributions?"
+"Which openSUSE service is used for localization and translation management?"
 msgstr ""
 
-msgid "Just openSUSE Leap"
+msgid "OBS"
 msgstr ""
 
-msgid "Over 100, including Fedora and Debian"
+#, fuzzy
+#| msgid "OBS (Open Build Service)"
+msgid "Build Service"
+msgstr "OBS (Open Build Service)"
+
+msgid "Kickstart"
 msgstr ""
 
-msgid "Only Tumbleweed"
+msgid ""
+"What command would you use to update software packages on openSUSE from the "
+"terminal?"
 msgstr ""
 
-msgid "None, it only builds source code"
-msgstr ""
-
-msgid "openSUSE Leap is based on which upstream distribution?"
-msgstr ""
-
-#. no-translate
-msgid "Fedora"
-msgstr ""
-
-#. no-translate
-msgid "Debian"
-msgstr ""
-
-msgid "SUSE Linux Enterprise"
-msgstr ""
-
-#. no-translate
-msgid "Arch Linux"
-msgstr "Arch Linux"
-
-msgid "Which tool does openSUSE use for system snapshots and rollback?"
-msgstr ""
-
-#. no-translate
-msgid "Timeshift"
-msgstr ""
-
-#. no-translate
-msgid "Snapper"
-msgstr ""
-
-#. no-translate
-msgid "Btrfs Manager"
-msgstr ""
-
-#. no-translate
-msgid "Rollbackinator"
-msgstr "Rollbackinator"
-
-msgid "What command can you use to refresh zypper repositories?"
-msgstr ""
-
-#. no-translate
-msgid "zypper refresh"
-msgstr ""
-
-#. no-translate
 msgid "zypper update"
 msgstr ""
 
-#. no-translate
-msgid "zypper reload"
+msgid "apt-get update"
 msgstr ""
 
-#. no-translate
-msgid "zypper repolist"
+msgid "dnf upgrade"
 msgstr ""
 
-msgid "Where can you submit bug reports related to openSUSE packages?"
+msgid "pacman -Syu"
 msgstr ""
 
-#. no-translate
-msgid "bugzilla.opensuse.org"
+#, fuzzy
+#| msgid "What is the default shell in openSUSE?"
+msgid "What does Tumbleweed represent in openSUSE?"
+msgstr "Aký je predvolený shell v openSUSE?"
+
+#, fuzzy
+#| msgid "A rolling release for mobile devices"
+msgid "A rolling release distribution"
+msgstr "Rolujúce vydanie pre mobilné zariadenia"
+
+msgid "A desktop environment"
 msgstr ""
 
-#. no-translate
-msgid "issues.opensuse.org"
+msgid "The mascot"
+msgstr ""
+
+msgid "An installer"
+msgstr ""
+
+msgid "Which command line tool is used to manage repositories in openSUSE?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sypper"
+msgid "zypper"
+msgstr "Sypper"
+
+msgid "apt"
+msgstr ""
+
+#, fuzzy
+#| msgid "Yum"
+msgid "yum"
+msgstr "Yum"
+
+#, fuzzy
+#| msgid "Pacman"
+msgid "pacman"
+msgstr "Pacman"
+
+#, fuzzy
+#| msgid ""
+#| "Which openSUSE distribution is optimized for running containers and micro "
+#| "services?"
+msgid "Which openSUSE distribution is known for being a stable point release?"
+msgstr ""
+"Ktorá distribúcia openSUSE je optimalizovaná na beh kontajnerov a "
+"mikroslužieb?"
+
+msgid "MicroOS"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What is the primary focus of openSUSE MicroOS?"
+msgstr "Aký je maskot projektu openSUSE?"
+
+#, fuzzy
+#| msgid ""
+#| "Which openSUSE distribution is optimized for running containers and micro "
+#| "services?"
+msgid "Immutable OS optimized for containers and microservices"
+msgstr ""
+"Ktorá distribúcia openSUSE je optimalizovaná na beh kontajnerov a "
+"mikroslužieb?"
+
+msgid "Gaming"
+msgstr ""
+
+msgid "Desktop productivity"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scientific research"
+msgid "Scientific computing"
+msgstr "Vedecký výskum"
+
+msgid "What tool is used to create and manage snapshots on openSUSE?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sypper"
+msgid "snapper"
+msgstr "Sypper"
+
+msgid "timeshift"
+msgstr ""
+
+msgid "btrfs-snap"
+msgstr ""
+
+msgid "rsnapshot"
+msgstr ""
+
+msgid "What is openSUSE's default text editor?"
+msgstr ""
+
+msgid "vim"
+msgstr ""
+
+msgid "nano"
+msgstr ""
+
+msgid "emacs"
+msgstr ""
+
+msgid "gedit"
+msgstr ""
+
+msgid "Which command would install a package in openSUSE?"
+msgstr ""
+
+msgid "zypper install package-name"
+msgstr ""
+
+msgid "apt-get install package-name"
+msgstr ""
+
+msgid "dnf install package-name"
+msgstr ""
+
+msgid "pacman -S package-name"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the name of the openSUSE build system?"
+msgid "What is the name of the official openSUSE community forum?"
+msgstr "Ako sa volá zostavovací systém openSUSE?"
+
+msgid "forums.opensuse.org"
+msgstr "forums.opensuse.org"
+
+#, fuzzy
+#| msgid "issues.opensuse.org"
+msgid "discuss.opensuse.com"
 msgstr "issues.opensuse.org"
 
-#. no-translate
-msgid "bugs.opensuse.com"
+msgid "geeko-talk.net"
 msgstr ""
 
-#. no-translate
-msgid "bugs.opensuse.net"
-msgstr "bugs.opensuse.net"
+#, fuzzy
+#| msgid "status.opensuse.org"
+msgid "opensuse-chat.org"
+msgstr "status.opensuse.org"
 
 msgid ""
-"Which openSUSE service mirrors openSUSE software repositories worldwide?"
+"Which tool is recommended for managing software repositories and packages in "
+"openSUSE?"
 msgstr ""
 
-#. no-translate
-msgid "mirror.opensuse.org"
-msgstr "mirror.opensuse.org"
-
-#. no-translate
-msgid "mirror.opensuse.net"
+msgid "APT"
 msgstr ""
 
-#. no-translate
-msgid "mirrors.opensuse.com"
+#, fuzzy
+#| msgid "What is the name of the openSUSE build system?"
+msgid "What is the name of openSUSE's flagship rolling release?"
+msgstr "Ako sa volá zostavovací systém openSUSE?"
+
+msgid "Which file format does openSUSE use for package management?"
 msgstr ""
 
-msgid "Where can you help translate this quiz?"
+msgid "RPM"
 msgstr ""
 
-msgid "At the openSUSE forum"
+msgid "DEB"
 msgstr ""
 
-msgid "On GitHub issues"
+msgid "APK"
 msgstr ""
 
-#. no-translate
-msgid "https://l10n.opensuse.org/projects/quiz/"
+msgid "PKG"
 msgstr ""
 
-msgid "In the IRC chat"
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What command will list all repositories in openSUSE?"
+msgstr "Aký je predvolený súborový systém v openSUSE?"
+
+msgid "zypper repos"
+msgstr ""
+
+msgid "apt list"
+msgstr ""
+
+msgid "dnf repolist"
+msgstr ""
+
+#, fuzzy
+#| msgid "Pacman"
+msgid "pacman -Q"
+msgstr "Pacman"
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What is the primary license used by openSUSE?"
+msgstr "Aký je predvolený súborový systém v openSUSE?"
+
+msgid "GPL (GNU General Public License)"
+msgstr ""
+
+msgid "MIT License"
+msgstr ""
+
+msgid "Apache License"
+msgstr ""
+
+msgid "Proprietary"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What does OBS stand for in openSUSE context?"
+msgstr "Aký je maskot projektu openSUSE?"
+
+#, fuzzy
+#| msgid "OBS (Open Build Service)"
+msgid "Open Build Service"
+msgstr "OBS (Open Build Service)"
+
+msgid "Online Backup System"
+msgstr ""
+
+msgid "Open Box Scheduler"
+msgstr ""
+
+msgid "Official Build System"
+msgstr ""
+
+msgid ""
+"Which openSUSE service provides live build environments and package "
+"repositories?"
+msgstr ""
+
+#, fuzzy
+#| msgid "OBS (Open Build Service)"
+msgid "Open Build Service (OBS)"
+msgstr "OBS (Open Build Service)"
+
+msgid "YaST"
+msgstr ""
+
+msgid "Snapper"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What is the openSUSE project's primary goal?"
+msgstr "Aký je maskot projektu openSUSE?"
+
+#, fuzzy
+#| msgid "Supporting and spreading open-source software"
+msgid "Promoting and supporting free and open source software"
+msgstr "Podpora a šírenie open-source softvéru"
+
+msgid "Creating proprietary software"
+msgstr ""
+
+#, fuzzy
+#| msgid "Producing video games"
+msgid "Developing video games"
+msgstr "Produkcia videohier"
+
+msgid "Providing cloud services"
+msgstr ""
+
+msgid "Which openSUSE tool is used for system configuration and management?"
+msgstr ""
+
+msgid "Gnome Control Center"
+msgstr ""
+
+msgid "KDE System Settings"
+msgstr ""
+
+msgid "Synaptic"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What is the command to check system snapshots on openSUSE?"
+msgstr "Aký je predvolený súborový systém v openSUSE?"
+
+msgid "snapper list"
+msgstr ""
+
+msgid "timeshift --list"
+msgstr ""
+
+msgid "btrfs subvolume list"
+msgstr ""
+
+msgid "rsnapshot config"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What package format does openSUSE use?"
+msgstr "Aký je maskot projektu openSUSE?"
+
+msgid "What is the default shell in openSUSE?"
+msgstr "Aký je predvolený shell v openSUSE?"
+
+msgid "bash"
+msgstr ""
+
+msgid "zsh"
+msgstr ""
+
+msgid "fish"
+msgstr ""
+
+msgid "csh"
+msgstr ""
+
+msgid "Which of these is a community-driven openSUSE version?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Leapfrog"
+msgid "Leap Micro"
+msgstr "Leapfrog"
+
+msgid "SUSE Linux Enterprise"
 msgstr ""
 
 msgid "s390x Expert"
@@ -729,14 +995,12 @@ msgstr ""
 msgid "Give me additional 150MB of memory"
 msgstr ""
 
-#. no-translate
 msgid "IP to my Linux machine"
 msgstr ""
 
 msgid "Boot from disk 150."
 msgstr ""
 
-#. no-translate
 msgid "Install Python Libraries version 1.5.0"
 msgstr ""
 
@@ -746,7 +1010,6 @@ msgstr ""
 msgid "A filtration unit for cooling fluid"
 msgstr ""
 
-#. no-translate
 msgid "A core to run Linux on mainframe"
 msgstr ""
 
@@ -774,43 +1037,37 @@ msgstr ""
 msgid "What is the most used operating system on mainframes?"
 msgstr ""
 
-#. no-translate
 msgid "z/OS"
 msgstr ""
 
 msgid "Linux"
 msgstr "Linux"
 
-#. no-translate
 msgid "Windows"
 msgstr ""
 
-#. no-translate
 msgid "z/VM"
 msgstr ""
 
 msgid "Do mainframes have any special AI capabilities?"
 msgstr ""
 
-#. no-translate
 msgid "Yes, latest models have Spyre accelerator."
 msgstr ""
 
-#. no-translate
 msgid "No, it's too old technology."
 msgstr ""
 
-#. no-translate
 msgid "Yes, but it can't be used on Linux."
 msgstr ""
 
-#. no-translate
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
-msgid ""
-"Which of the following I/O devices is typically not used with mainframes?"
-msgstr ""
+#, fuzzy
+#| msgid "Which of the following has the highest compression?"
+msgid "Which of the following I/O devices is not used with mainframes?"
+msgstr "Ktorý z nasledujúcich má najvyššiu kompresiu?"
 
 msgid "Disks"
 msgstr ""
@@ -824,386 +1081,157 @@ msgstr ""
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-msgid "Chameleon Fun for kids!"
+msgid "test"
 msgstr ""
 
-msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
+#, fuzzy
+#| msgid "Start"
+msgid "Start Quiz"
+msgstr "Štart"
+
+msgid "Start"
+msgstr "Štart"
+
+msgid "Back"
+msgstr "Späť"
+
+msgid "Submit"
+msgstr "Odoslať"
+
+msgid "Next"
+msgstr "Ďalej"
+
+msgid "Quit"
+msgstr "Ukončiť"
+
+msgid "Submit and Quit"
+msgstr "Odoslať a ukončiť"
+
+msgid "Time left"
+msgstr "Zostávajúci čas"
+
+msgid "Score"
+msgstr "Skóre"
+
+msgid "Final"
 msgstr ""
 
-msgid "What color can a chameleon turn into?"
-msgstr ""
+#, fuzzy
+#| msgid "Start"
+msgid "Restart"
+msgstr "Štart"
 
-msgid "Only green"
-msgstr ""
-
-msgid "Any color, even purple!"
-msgstr ""
-
-msgid "Many colors like green, brown, yellow"
-msgstr ""
-
-msgid "Only black and white"
-msgstr ""
-
-msgid "What is the mascot of openSUSE?"
-msgstr ""
-
-#. no-translate
-msgid "A penguin"
-msgstr ""
-
-#. no-translate
-msgid "A chameleon called Geeko"
-msgstr ""
-
-msgid "A dragon"
-msgstr ""
-
-msgid "A robot"
-msgstr ""
-
-msgid "Why do chameleons change color?"
-msgstr ""
-
-msgid "To show how they feel or to hide"
-msgstr ""
-
-msgid "Because they are bored"
-msgstr ""
-
-msgid "Because they are cold-blooded robots"
-msgstr ""
-
-msgid "To glow in the dark"
-msgstr ""
-
-msgid "How do chameleons catch their food?"
-msgstr ""
-
-msgid "With their hands"
-msgstr ""
-
-msgid "With their long sticky tongue"
-msgstr ""
-
-msgid "By shouting at it"
-msgstr ""
-
-msgid "With a net"
-msgstr ""
-
-msgid "What do chameleons eat?"
-msgstr ""
-
-msgid "Ice cream"
-msgstr ""
-
-msgid "Insects"
-msgstr ""
-
-msgid "Pineapples"
-msgstr ""
-
-msgid "Hot dogs"
-msgstr ""
-
-msgid "What makes openSUSE special?"
-msgstr ""
-
-msgid "It can talk to animals"
-msgstr ""
-
-msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
-
-msgid "It’s made of chameleon scales"
-msgstr ""
-
-msgid "It’s only for secret agents"
-msgstr ""
-
-msgid "Do all chameleons look the same?"
-msgstr ""
-
-msgid "Yes, they are all green and grumpy"
-msgstr ""
-
-msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
-
-msgid "Yes, they all wear hats"
-msgstr ""
-
-msgid "They all wear openSUSE stickers"
-msgstr ""
-
-msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
-
-msgid "It’s a password"
-msgstr ""
-
-msgid "It means everyone can use it and help make it better"
-msgstr ""
-
-msgid "It’s only for opening doors"
-msgstr ""
-
-msgid "It’s about opening candy wrappers"
-msgstr ""
-
-msgid "Can chameleons move their eyes separately?"
-msgstr ""
-
-msgid "No, they blink both eyes together"
-msgstr ""
-
-msgid "Yes, they can look in two directions at once!"
-msgstr ""
-
-msgid "They close one eye when sleeping"
-msgstr ""
-
-msgid "No, their eyes are always closed"
-msgstr ""
-
-msgid "No users found"
+msgid "Question"
 msgstr ""
 
 msgid "Please enter a username to proceed."
 msgstr ""
 
+#, javascript-format
+msgid "Welcome, %s"
+msgstr ""
+
+msgid "Are you sure you want to quit and submit?"
+msgstr "Ste si istí, že chcete ukončiť a odoslať?"
+
 msgid "Username is too short."
-msgstr ""
-
-msgid "Leaderboard"
-msgstr ""
-
-msgid "Auto Refresh"
-msgstr ""
-
-msgid "lang_name_he"
-msgstr "Hebrejčina"
-
-msgid "lang_name_sk"
-msgstr "Slovenčina"
-
-msgid "lang_name_nl"
-msgstr "Holandčina"
-
-msgid "lang_name_es"
-msgstr "Španielčina"
-
-msgid ""
-"Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
-"Each wrong answer subtracts 0.1 points. Total score never goes below zero."
-msgstr ""
-
-msgid "lang_name_uk"
-msgstr "Ukrajinčina"
-
-msgid "What does GNOME do?"
-msgstr ""
-
-msgid "Mine gold and diamonds"
-msgstr ""
-
-msgid "Create a desktop environment for Linux"
-msgstr ""
-
-msgid "Install Linux programs and applications"
-msgstr ""
-
-msgid "Fix MacOS drivers"
-msgstr ""
-
-msgid ""
-"Which security module is now used by default in new openSUSE Tumbleweed and "
-"Leap 16.0 installations?"
-msgstr ""
-
-#. no-translate
-msgid "AppArmor"
-msgstr ""
-
-#. no-translate
-msgid "SELinux"
-msgstr ""
-
-#. no-translate
-msgid "grsecurity"
-msgstr ""
-
-#. no-translate
-msgid "Firewalld"
-msgstr ""
-
-msgid "What is the main openSUSE conference called?"
-msgstr "Ako sa volá hlavná konferencia openSUSE?"
-
-msgid "openSUSE Gathering"
-msgstr "openSUSE Gathering"
-
-msgid "openSUSE Fest"
-msgstr "openSUSE Fest"
-
-msgid "openSUSE Conference (OSC)"
-msgstr ""
-
-msgid "openSUSE Flock"
-msgstr "openSUSE Flock"
-
-msgid "Which of the following has the highest compression?"
-msgstr "Ktorý z nasledujúcich má najvyššiu kompresiu?"
-
-#. no-translate
-msgid "tar"
-msgstr "tar"
-
-#. no-translate
-msgid "echo"
-msgstr ""
-
-#. no-translate
-msgid "mkfile"
-msgstr ""
-
-msgid "steam roller"
-msgstr ""
-
-msgid ""
-"Where can you find endless wisdom, occasional rants, and a lot of helpful "
-"penguin-powered advice from the openSUSE community?"
-msgstr ""
-
-msgid "Under Geeko’s pillow"
-msgstr ""
-
-#. no-translate
-msgid "forums.opensuse.org"
-msgstr "forums.opensuse.org"
-
-#. no-translate
-msgid "i-seek-you-opensuse"
-msgstr ""
-
-#. no-translate
-msgid "yast --help"
-msgstr ""
-
-msgid "Who is known as the father of Linux?"
-msgstr ""
-
-msgid "Torwald Linuksson"
-msgstr ""
-
-msgid "Linus Torvalds"
-msgstr ""
-
-msgid "Linux Tyrnux"
-msgstr ""
-
-msgid "Sinus Urvaald"
-msgstr ""
-
-msgid "What is the official slogan of openSUSE?"
-msgstr "Aký je oficiálny slogan openSUSE?"
-
-msgid "Have a lot of fun!"
-msgstr ""
-
-msgid "Innovate and Collaborate"
-msgstr ""
-
-msgid "Open Source, Open Future"
-msgstr ""
-
-msgid "Power to the Users"
-msgstr ""
-
-msgid "What is the default shell in openSUSE?"
-msgstr "Aký je predvolený shell v openSUSE?"
-
-#. no-translate
-msgid "ash"
-msgstr ""
-
-#. no-translate
-msgid "bash"
-msgstr ""
-
-#. no-translate
-msgid "zshpicture"
-msgstr ""
-
-#. no-translate
-msgid "dash"
-msgstr ""
-
-msgid "When was the openSUSE project officially started?"
-msgstr "Kedy bol projekt openSUSE oficiálne spustený?"
-
-#. no-translate
-msgid "2047"
-msgstr ""
-
-msgid "0 AD"
-msgstr ""
-
-#. no-translate
-msgid "2005"
-msgstr ""
-
-#. no-translate
-msgid "1991"
-msgstr ""
-
-msgid "What cannot be tested in openQA?"
-msgstr ""
-
-#. no-translate
-msgid "ASCII art"
-msgstr ""
-
-msgid "Displaying websites in Mozilla Firefox"
-msgstr ""
-
-msgid "Installing Debian"
-msgstr ""
-
-#. no-translate
-msgid "Covid-19"
-msgstr ""
-
-msgid "What does the new openSUSE-repos package manage?"
-msgstr ""
-
-msgid "Repository definitions in /etc/zypp/repos.d/ managed by RIS"
-msgstr ""
-
-msgid "Kernel modules for openSUSE"
-msgstr ""
-
-msgid "Desktop themes and icons"
-msgstr ""
-
-msgid "System logs and journal settings"
-msgstr ""
-
-msgid "Can you play Windows games on openSUSE?"
-msgstr ""
-
-msgid "No way, only Windows can do that"
-msgstr ""
-
-msgid "Of course! Just fire up Steam and game on"
-msgstr ""
-
-msgid "Only if you summon the gaming gods"
-msgstr ""
-
-msgid "You need a secret handshake first"
 msgstr ""
 
 msgid "Sorry, this login is already taken."
 msgstr ""
+
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Ste si istý, že chcete ukončiť? Váš postup sa neuloží."
+
+#~ msgid "Language"
+#~ msgstr "Jazyk"
+
+#~ msgid "lang_name_en"
+#~ msgstr "Angličtina"
+
+#~ msgid "lang_name_cs"
+#~ msgstr "Čeština"
+
+#~ msgid "lang_name_tr"
+#~ msgstr "Turečtina"
+
+#~ msgid "lang_name_de"
+#~ msgstr "Nemčina"
+
+#~ msgid "lang_name_ca"
+#~ msgstr "Katalánčina"
+
+#~ msgid "lang_name_ja"
+#~ msgstr "Japončina"
+
+#~ msgid "Stats"
+#~ msgstr "Štatistiky"
+
+#~ msgid "Back to Main Page"
+#~ msgstr "Späť na hlavnú stránku"
+
+#~ msgid "Nickname"
+#~ msgstr "Prezývka"
+
+#~ msgid "Correct"
+#~ msgstr "Správne"
+
+#~ msgid "Wrong"
+#~ msgstr "Nesprávne"
+
+#~ msgid "openSUSE Quizzes"
+#~ msgstr "Kvízy openSUSE"
+
+#~ msgid "Available quizzes"
+#~ msgstr "Dostupné kvízy"
+
+#~ msgid "Monthly, to keep everyone on their toes"
+#~ msgstr "Mesačne, aby boli všetci v strehu"
+
+#~ msgid "Arch Linux"
+#~ msgstr "Arch Linux"
+
+#~ msgid "Rollbackinator"
+#~ msgstr "Rollbackinator"
+
+#~ msgid "bugs.opensuse.net"
+#~ msgstr "bugs.opensuse.net"
+
+#~ msgid "mirror.opensuse.org"
+#~ msgstr "mirror.opensuse.org"
+
+#~ msgid "lang_name_he"
+#~ msgstr "Hebrejčina"
+
+#~ msgid "lang_name_sk"
+#~ msgstr "Slovenčina"
+
+#~ msgid "lang_name_nl"
+#~ msgstr "Holandčina"
+
+#~ msgid "lang_name_es"
+#~ msgstr "Španielčina"
+
+#~ msgid "lang_name_uk"
+#~ msgstr "Ukrajinčina"
+
+#~ msgid "What is the main openSUSE conference called?"
+#~ msgstr "Ako sa volá hlavná konferencia openSUSE?"
+
+#~ msgid "openSUSE Gathering"
+#~ msgstr "openSUSE Gathering"
+
+#~ msgid "openSUSE Fest"
+#~ msgstr "openSUSE Fest"
+
+#~ msgid "openSUSE Flock"
+#~ msgstr "openSUSE Flock"
+
+#~ msgid "tar"
+#~ msgstr "tar"
+
+#~ msgid "What is the official slogan of openSUSE?"
+#~ msgstr "Aký je oficiálny slogan openSUSE?"
+
+#~ msgid "When was the openSUSE project officially started?"
+#~ msgstr "Kedy bol projekt openSUSE oficiálne spustený?"

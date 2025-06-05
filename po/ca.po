@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-01 00:00+0000\n"
+"POT-Creation-Date: 2025-06-05 20:48+0200\n"
 "PO-Revision-Date: 2025-06-05 07:59+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
@@ -12,102 +12,25 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.11.4\n"
 
-msgid "Language"
-msgstr "Llengua"
-
-msgid "lang_name_en"
-msgstr "Anglès"
-
-msgid "lang_name_cs"
-msgstr "Txec"
-
-msgid "lang_name_tr"
-msgstr "Turc"
-
-msgid "lang_name_de"
-msgstr "Alemany"
-
-msgid "lang_name_ca"
-msgstr "Català"
-
-msgid "lang_name_ja"
-msgstr "Japonès"
-
-msgid "Stats"
-msgstr "Estat"
-
-msgid "Start"
-msgstr "Inicia"
-
-msgid "Back"
-msgstr "Enrere"
-
-msgid "Next"
-msgstr "Següent"
-
-msgid "Time left"
-msgstr "Temps restant"
-
-msgid "Back to Main Page"
-msgstr "Torna a la pàgina principal"
-
-msgid "Nickname"
-msgstr "Sobrenom"
-
-msgid "Score"
-msgstr "Puntuació"
-
-msgid "Correct"
-msgstr "Correcte"
-
-msgid "Wrong"
-msgstr "Incorrecte"
-
-msgid "Submit"
-msgstr "Envia"
-
-msgid "Submit and Quit"
-msgstr "Envia i surt"
-
-msgid "Quit"
-msgstr "Surt"
-
-msgid "Are you sure you want to quit and submit?"
-msgstr "Segur que ho voleu enviar i sortir-ne?"
-
-msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Segur que en voleu sortir? No se us desarà el progrés."
-
-msgid "openSUSE Quizzes"
-msgstr "Qüestionaris d'openSUSE"
-
-msgid "Available quizzes"
-msgstr "Qüestionaris disponibles"
-
-#. Quiz metadata
-msgid "openSUSE Expert"
-msgstr "Expert d'openSUSE"
+msgid "openSUSE Devconf 2025"
+msgstr ""
 
 msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
+"Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr ""
-"Desafieu altres usuaris a la nostra taula de classificació. 30 segons per "
-"pregunta. Atureu-vos en qualsevol moment."
 
-#. Questions
 msgid "What is the mascot of openSUSE project?"
 msgstr "Quina és la mascota del projecte openSUSE?"
 
-#. no-translate
+msgid "Pascal"
+msgstr ""
+
 msgid "TwoPac"
 msgstr "TwoPac"
 
-#. no-translate
 msgid "Geeko"
 msgstr "Geeko"
 
-#. no-translate
 msgid "BeefyMiracle"
 msgstr "BeefyMiracle"
 
@@ -163,38 +86,30 @@ msgstr "A la Universitat de Hèlsinki"
 msgid "What is the default filesystem in openSUSE?"
 msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
 
-#. no-translate
 msgid "ReiserFS"
 msgstr "ReiserFS"
 
-#. no-translate
 msgid "Btrfs"
 msgstr "Btrfs"
 
-#. no-translate
 msgid "XFS"
 msgstr "XFS"
 
-#. no-translate
 msgid "InterPlanetary File System"
 msgstr "Sistema de fitxers interplanetari"
 
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Com es diu l'instal·lador nou del Leap 16?"
 
-#. no-translate
 msgid "Sypper"
 msgstr "Sypper"
 
-#. no-translate
 msgid "Agama"
 msgstr "Agama"
 
-#. no-translate
 msgid "Anaconda"
 msgstr "Anaconda"
 
-#. no-translate
 msgid "Cayman"
 msgstr "Cayman"
 
@@ -208,54 +123,27 @@ msgstr ""
 msgid "MicroOS and Leap Micro"
 msgstr "MicroSO i Leap Micro"
 
-#. no-translate
 msgid "Tumbleweed"
 msgstr "Tumbleweed"
 
-#. no-translate
 msgid "Leap"
 msgstr "Leap"
 
-#. no-translate
 msgid "Slowroll"
 msgstr "Slowroll"
-
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
-"Quina distribució progressiva d'openSUSE ofereix una alternativa més "
-"tranquil·la respecte del Tumbleweed per als usuaris que prefereixen menys "
-"sorpreses?"
-
-#. no-translate
-msgid "Tumblebleed"
-msgstr "Tumblebleed"
-
-#. no-translate
-msgid "Leapfrog"
-msgstr "Leapfrog"
-
-#. no-translate
-msgid "Zyppernap"
-msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
 
-#. no-translate
 msgid "Yum"
 msgstr "Yum"
 
-#. no-translate
 msgid "DNF"
 msgstr "DNF"
 
-#. no-translate
 msgid "Zypper"
 msgstr "Zypper"
 
-#. no-translate
 msgid "Pacman"
 msgstr "Pacman"
 
@@ -278,18 +166,216 @@ msgstr "Una versió contínua per a dispositius mòbils"
 msgid "A container-focused system like MicroOS"
 msgstr "Un sistema centrat en contenidors com ara MicroSO"
 
+msgid "Can you play Windows games on openSUSE?"
+msgstr ""
+
+msgid "No way, only Windows can do that"
+msgstr ""
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr ""
+
+msgid "Only if you summon the gaming gods"
+msgstr ""
+
+msgid "You need a secret handshake first"
+msgstr ""
+
+msgid "Chameleon Fun for kids!"
+msgstr "Diversió sobre els camaleons per a la canalla!"
+
+msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
+msgstr ""
+"Un qüestionari ple de color sobre camaleons i openSUSE per a nens curiosos!"
+
+msgid "What color can a chameleon turn into?"
+msgstr "De quin color es pot posar un camaleó?"
+
+msgid "Only green"
+msgstr "Només de verd"
+
+msgid "Any color, even purple!"
+msgstr "De qualsevol color, fins i tot lila!"
+
+msgid "Many colors like green, brown, yellow"
+msgstr "De molts colors, com ara el verd, el marró, el groc..."
+
+msgid "Only black and white"
+msgstr "Només de blanc i de negre"
+
+msgid "What is the mascot of openSUSE?"
+msgstr "Quina és la mascota d'openSUSE?"
+
+msgid "A penguin"
+msgstr "Un pingüí"
+
+msgid "A chameleon called Geeko"
+msgstr "Un camaleó anomenat Geeko"
+
+msgid "A dragon"
+msgstr "Un drac"
+
+msgid "A robot"
+msgstr "Un robot"
+
+msgid "Why do chameleons change color?"
+msgstr "Per què els camaleons canvien de color?"
+
+msgid "To show how they feel or to hide"
+msgstr "Per mostrar com se senten o per amagar-se"
+
+msgid "Because they are bored"
+msgstr "Perquè s'avorreixen"
+
+msgid "Because they are cold-blooded robots"
+msgstr "Perquè són robots de sang freda"
+
+msgid "To glow in the dark"
+msgstr "Per brillar a la foscor"
+
+msgid "Chameleons are primarily found in which part of the world?"
+msgstr "A quina part del món es troben principalment els camaleons?"
+
+msgid "South America"
+msgstr "Amèrica del Sud"
+
+msgid "Africa and Madagascar"
+msgstr "Àfrica i Madagascar"
+
+msgid "Southeast Asia"
+msgstr "Sud-est asiàtic"
+
+msgid "Antarctica"
+msgstr "Antàrtida"
+
+msgid "How do chameleons catch their food?"
+msgstr "Com atrapen el menjar els camaleons?"
+
+msgid "With their hands"
+msgstr "Amb les mans"
+
+msgid "With their long sticky tongue"
+msgstr "Amb una llengua llarga i enganxosa"
+
+msgid "By shouting at it"
+msgstr "Cridant"
+
+msgid "With a net"
+msgstr "Amb una xarxa"
+
+msgid "What do chameleons eat?"
+msgstr "Què mengen els camaleons?"
+
+msgid "Ice cream"
+msgstr "Gelat"
+
+msgid "Insects"
+msgstr "Insectes"
+
+msgid "Pineapples"
+msgstr "Pinyes"
+
+msgid "Hot dogs"
+msgstr "Entrepans de salsitxes de Frankfurt"
+
+msgid "What makes openSUSE special?"
+msgstr "Què fa que l'openSUSE sigui especial?"
+
+msgid "It can talk to animals"
+msgstr "Pot parlar amb els animals"
+
+msgid "It’s a modern, free operating system anyone can use — including you!"
+msgstr ""
+"És un sistema operatiu modern i gratuït que tothom pot fer servir, fins i "
+"tot tu!"
+
+msgid "It’s made of chameleon scales"
+msgstr "Està fet d'escates de camaleó"
+
+msgid "It’s only for secret agents"
+msgstr "Només és per a agents secrets"
+
+msgid "Do all chameleons look the same?"
+msgstr "Tots els camaleons tenen el mateix aspecte?"
+
+msgid "Yes, they are all green and grumpy"
+msgstr "Sí, tots són verds i rondinaires"
+
+msgid "No, they come in many shapes, sizes, and colors"
+msgstr "No, n'hi ha de moltes formes, mides i colors"
+
+msgid "Yes, they all wear hats"
+msgstr "Sí, tots porten barrets"
+
+msgid "They all wear openSUSE stickers"
+msgstr "Tots porten adhesius d'openSUSE"
+
+msgid "What does the word 'open' in openSUSE mean?"
+msgstr "Què significa la paraula «open» a openSUSE?"
+
+msgid "It’s a password"
+msgstr "És una contrasenya"
+
+msgid "It means everyone can use it and help make it better"
+msgstr "Vol dir que tothom el pot fer servir i ajudar a millorar-lo"
+
+msgid "It’s only for opening doors"
+msgstr "Només serveix per a obrir portes"
+
+msgid "It’s about opening candy wrappers"
+msgstr "Té relació amb l'obertura d'embolcalls de caramels"
+
+msgid "Can chameleons move their eyes separately?"
+msgstr "Els camaleons poden moure els ulls separadament?"
+
+msgid "No, they blink both eyes together"
+msgstr "No, parpellegen amb tots dos ulls alhora."
+
+msgid "Yes, they can look in two directions at once!"
+msgstr "Sí, poden mirar en dues direccions alhora!"
+
+msgid "They close one eye when sleeping"
+msgstr "Tanquen un ull quan dormen."
+
+msgid "No, their eyes are always closed"
+msgstr "No, sempre tenen els ulls tancats."
+
+msgid "openSUSE Expert"
+msgstr "Expert d'openSUSE"
+
+msgid ""
+"Challenge other users in our leaderboard. 30 seconds per question. Stop "
+"anytime."
+msgstr ""
+"Desafieu altres usuaris a la nostra taula de classificació. 30 segons per "
+"pregunta. Atureu-vos en qualsevol moment."
+
+msgid ""
+"Which openSUSE rolling distribution offers a calmer alternative to "
+"Tumbleweed for users who prefer fewer surprises?"
+msgstr ""
+"Quina distribució progressiva d'openSUSE ofereix una alternativa més "
+"tranquil·la respecte del Tumbleweed per als usuaris que prefereixen menys "
+"sorpreses?"
+
+msgid "Tumblebleed"
+msgstr "Tumblebleed"
+
+msgid "Leapfrog"
+msgstr "Leapfrog"
+
+msgid "Zyppernap"
+msgstr "Zyppernap"
+
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
 
-#. no-translate
 msgid "GNOME"
 msgstr "GNOME"
 
-#. no-translate
 msgid "KDE Plasma"
 msgstr "Plasma, de KDE"
 
-#. no-translate
 msgid "Xfce"
 msgstr "Xfce"
 
@@ -299,19 +385,15 @@ msgstr "No hi ha cap valor per defecte. Deixem que l'usuari triï."
 msgid "What is the name of the openSUSE build system?"
 msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
 
-#. no-translate
 msgid "OBS (Open Build Service)"
 msgstr "OBS (Servei de construcció obert)"
 
-#. no-translate
 msgid "Weblate"
 msgstr "Weblate"
 
-#. no-translate
 msgid "Koji"
 msgstr "Koji"
 
-#. no-translate
 msgid "Autobuilder"
 msgstr "Autoconstructor"
 
@@ -368,53 +450,30 @@ msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr ""
 "Quin és el lloc per obtenir informació sobre els projectes de Rancher i SUSE?"
 
-#. no-translate
 msgid "Rancher Academy"
 msgstr "Acadèmia de Ranchers"
 
-#. no-translate
 msgid "Cow College"
 msgstr "Cow College"
 
-#. no-translate
 msgid "Moo University"
 msgstr "Universitat de Moo"
 
-#. no-translate
 msgid "Cowboy Hat"
 msgstr "Cowboy Hat"
-
-msgid "Chameleons are primarily found in which part of the world?"
-msgstr "A quina part del món es troben principalment els camaleons?"
-
-msgid "South America"
-msgstr "Amèrica del Sud"
-
-msgid "Africa and Madagascar"
-msgstr "Àfrica i Madagascar"
-
-msgid "Southeast Asia"
-msgstr "Sud-est asiàtic"
-
-msgid "Antarctica"
-msgstr "Antàrtida"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
 msgstr "On podeu consultar l'estat actual de la infraestructura d'openSUSE?"
 
-#. no-translate
 msgid "status.opensuse.org"
 msgstr "status.opensuse.org"
 
-#. no-translate
 msgid "isopensusedown.com"
 msgstr "isopensusedown.com"
 
-#. no-translate
 msgid "yast-status-viewer"
 msgstr "yast-status-viewer"
 
-#. no-translate
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
@@ -456,19 +515,15 @@ msgstr ""
 "Quin és el nom de la interfície gràfica d'usuari nova del gestor de paquets "
 "que substitueix el YaST?"
 
-#. no-translate
 msgid "Gandalf"
 msgstr "Gandalf"
 
-#. no-translate
 msgid "Zypperella"
 msgstr "Zypperella"
 
-#. no-translate
 msgid "Myrlyn"
 msgstr "Myrlyn"
 
-#. no-translate
 msgid "DnfDumbledore"
 msgstr "DnfDumbledore"
 
@@ -478,165 +533,402 @@ msgstr "Amb quina freqüència l'openSUSE Leap publica una versió estable nova?
 msgid "Every 5 years when the stars align"
 msgstr "Cada 5 anys, quan els astres s'alineen"
 
-msgid "Monthly, to keep everyone on their toes"
-msgstr "Mensualment, per mantenir tothom alerta"
-
-msgid "Annually"
-msgstr "Anualment"
-
-msgid "Every time a tumbleweed rolls by"
-msgstr "Cada cop que passa un estepicursor, una planta rodadora"
-
-msgid "Which openSUSE mailing list is focused on development discussions?"
+msgid "Every 12 months with 6 months overlap"
 msgstr ""
-"Quina llista de correu d'openSUSE se centra en debats sobre desenvolupament?"
 
-#. no-translate
-msgid "factory@lists.opensuse.org"
-msgstr "factory@lists.opensuse.org"
+msgid "Every month"
+msgstr ""
 
-#. no-translate
-msgid "support@opensuse.org"
-msgstr "support@opensuse.org"
-
-#. no-translate
-msgid "users@opensuse.org"
-msgstr "users@opensuse.org"
-
-#. no-translate
-msgid "fun@opensuse.org"
-msgstr "fun@opensuse.org"
+msgid "When the Geeko gets bored"
+msgstr ""
 
 msgid ""
-"openSUSE's build service allows you to build packages for how many different "
-"distributions?"
+"Which openSUSE service is used for localization and translation management?"
 msgstr ""
-"Per a quantes distribucions diferents el servei de construcció d'openSUSE "
-"permet compilar paquets?"
 
-msgid "Just openSUSE Leap"
-msgstr "Només per a l'openSUSE Leap"
-
-msgid "Over 100, including Fedora and Debian"
-msgstr "Més de 100, incloent-hi Fedora i Debian"
-
-msgid "Only Tumbleweed"
-msgstr "Només per al Tumbleweed"
-
-msgid "None, it only builds source code"
-msgstr "Cap, només crea codi font"
-
-msgid "openSUSE Leap is based on which upstream distribution?"
-msgstr "En quina distribució d'origen es basa l'openSUSE Leap?"
-
-#. no-translate
-msgid "Fedora"
-msgstr "Fedora"
-
-#. no-translate
-msgid "Debian"
-msgstr "Debian"
-
-msgid "SUSE Linux Enterprise"
-msgstr "SUSE Linux Enterprise"
-
-#. no-translate
-msgid "Arch Linux"
-msgstr "Arch Linux"
-
-msgid "Which tool does openSUSE use for system snapshots and rollback?"
+msgid "OBS"
 msgstr ""
-"Quina eina usa l'openSUSE per a les instantànies del sistema i les "
-"reversions?"
 
-#. no-translate
-msgid "Timeshift"
-msgstr "Timeshift"
+#, fuzzy
+#| msgid "OBS (Open Build Service)"
+msgid "Build Service"
+msgstr "OBS (Servei de construcció obert)"
 
-#. no-translate
-msgid "Snapper"
-msgstr "Snapper"
+msgid "Kickstart"
+msgstr ""
 
-#. no-translate
-msgid "Btrfs Manager"
-msgstr "Gestor de Btrfs"
+msgid ""
+"What command would you use to update software packages on openSUSE from the "
+"terminal?"
+msgstr ""
 
-#. no-translate
-msgid "Rollbackinator"
-msgstr "Rollbackinator"
-
-msgid "What command can you use to refresh zypper repositories?"
-msgstr "Quina ordre podeu usar per actualitzar els repositoris de Zypper?"
-
-#. no-translate
-msgid "zypper refresh"
-msgstr "zypper refresh"
-
-#. no-translate
 msgid "zypper update"
 msgstr "zypper update"
 
-#. no-translate
-msgid "zypper reload"
-msgstr "zypper reload"
+#, fuzzy
+#| msgid "zypper update"
+msgid "apt-get update"
+msgstr "zypper update"
 
-#. no-translate
-msgid "zypper repolist"
-msgstr "zypper repolist"
-
-msgid "Where can you submit bug reports related to openSUSE packages?"
+msgid "dnf upgrade"
 msgstr ""
-"On podeu enviar informes d'errors relacionats amb els paquets de l'openSUSE?"
 
-#. no-translate
-msgid "bugzilla.opensuse.org"
-msgstr "bugzilla.opensuse.org"
+msgid "pacman -Syu"
+msgstr ""
 
-#. no-translate
-msgid "issues.opensuse.org"
-msgstr "issues.opensuse.org"
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "What does Tumbleweed represent in openSUSE?"
+msgstr "Què significa la paraula «open» a openSUSE?"
 
-#. no-translate
-msgid "bugs.opensuse.com"
+#, fuzzy
+#| msgid "A rolling release for mobile devices"
+msgid "A rolling release distribution"
+msgstr "Una versió contínua per a dispositius mòbils"
+
+msgid "A desktop environment"
+msgstr ""
+
+msgid "The mascot"
+msgstr ""
+
+msgid "An installer"
+msgstr ""
+
+#, fuzzy
+#| msgid "What command can you use to refresh zypper repositories?"
+msgid "Which command line tool is used to manage repositories in openSUSE?"
+msgstr "Quina ordre podeu usar per actualitzar els repositoris de Zypper?"
+
+#, fuzzy
+#| msgid "Sypper"
+msgid "zypper"
+msgstr "Sypper"
+
+msgid "apt"
+msgstr ""
+
+#, fuzzy
+#| msgid "Yum"
+msgid "yum"
+msgstr "Yum"
+
+#, fuzzy
+#| msgid "Pacman"
+msgid "pacman"
+msgstr "Pacman"
+
+#, fuzzy
+#| msgid ""
+#| "Which openSUSE distribution is optimized for running containers and micro "
+#| "services?"
+msgid "Which openSUSE distribution is known for being a stable point release?"
+msgstr ""
+"Quina distribució d'openSUSE està optimitzada per executar contenidors i "
+"microserveis?"
+
+msgid "MicroOS"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What is the primary focus of openSUSE MicroOS?"
+msgstr "Quina és la mascota del projecte openSUSE?"
+
+#, fuzzy
+#| msgid ""
+#| "Which openSUSE distribution is optimized for running containers and micro "
+#| "services?"
+msgid "Immutable OS optimized for containers and microservices"
+msgstr ""
+"Quina distribució d'openSUSE està optimitzada per executar contenidors i "
+"microserveis?"
+
+msgid "Gaming"
+msgstr ""
+
+msgid "Desktop productivity"
+msgstr ""
+
+#, fuzzy
+#| msgid "Scientific research"
+msgid "Scientific computing"
+msgstr "Investigació científica"
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE?"
+msgid "What tool is used to create and manage snapshots on openSUSE?"
+msgstr "Quina és la mascota d'openSUSE?"
+
+#, fuzzy
+#| msgid "Snapper"
+msgid "snapper"
+msgstr "Snapper"
+
+#, fuzzy
+#| msgid "Timeshift"
+msgid "timeshift"
+msgstr "Timeshift"
+
+msgid "btrfs-snap"
+msgstr ""
+
+msgid "rsnapshot"
+msgstr ""
+
+msgid "What is openSUSE's default text editor?"
+msgstr ""
+
+msgid "vim"
+msgstr ""
+
+msgid "nano"
+msgstr ""
+
+msgid "emacs"
+msgstr ""
+
+msgid "gedit"
+msgstr ""
+
+msgid "Which command would install a package in openSUSE?"
+msgstr ""
+
+msgid "zypper install package-name"
+msgstr ""
+
+msgid "apt-get install package-name"
+msgstr ""
+
+msgid "dnf install package-name"
+msgstr ""
+
+msgid "pacman -S package-name"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the name of the openSUSE build system?"
+msgid "What is the name of the official openSUSE community forum?"
+msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
+
+#, fuzzy
+#| msgid "fun@opensuse.org"
+msgid "forums.opensuse.org"
+msgstr "fun@opensuse.org"
+
+#, fuzzy
+#| msgid "bugs.opensuse.com"
+msgid "discuss.opensuse.com"
 msgstr "bugs.opensuse.com"
 
-#. no-translate
-msgid "bugs.opensuse.net"
-msgstr "bugs.opensuse.net"
+msgid "geeko-talk.net"
+msgstr ""
+
+#, fuzzy
+#| msgid "fun@opensuse.org"
+msgid "opensuse-chat.org"
+msgstr "fun@opensuse.org"
 
 msgid ""
-"Which openSUSE service mirrors openSUSE software repositories worldwide?"
+"Which tool is recommended for managing software repositories and packages in "
+"openSUSE?"
+msgstr ""
+
+msgid "APT"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the name of the openSUSE build system?"
+msgid "What is the name of openSUSE's flagship rolling release?"
+msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
+
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "Which file format does openSUSE use for package management?"
+msgstr "Què significa la paraula «open» a openSUSE?"
+
+msgid "RPM"
+msgstr ""
+
+msgid "DEB"
+msgstr ""
+
+msgid "APK"
+msgstr ""
+
+msgid "PKG"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What command will list all repositories in openSUSE?"
+msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+
+#, fuzzy
+#| msgid "zypper repolist"
+msgid "zypper repos"
+msgstr "zypper repolist"
+
+msgid "apt list"
+msgstr ""
+
+#, fuzzy
+#| msgid "zypper repolist"
+msgid "dnf repolist"
+msgstr "zypper repolist"
+
+#, fuzzy
+#| msgid "Pacman"
+msgid "pacman -Q"
+msgstr "Pacman"
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE?"
+msgid "What is the primary license used by openSUSE?"
+msgstr "Quina és la mascota d'openSUSE?"
+
+msgid "GPL (GNU General Public License)"
+msgstr ""
+
+msgid "MIT License"
+msgstr ""
+
+msgid "Apache License"
+msgstr ""
+
+msgid "Proprietary"
+msgstr ""
+
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "What does OBS stand for in openSUSE context?"
+msgstr "Què significa la paraula «open» a openSUSE?"
+
+#, fuzzy
+#| msgid "OBS (Open Build Service)"
+msgid "Open Build Service"
+msgstr "OBS (Servei de construcció obert)"
+
+msgid "Online Backup System"
+msgstr ""
+
+msgid "Open Box Scheduler"
+msgstr ""
+
+msgid "Official Build System"
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "Which openSUSE service mirrors openSUSE software repositories worldwide?"
+msgid ""
+"Which openSUSE service provides live build environments and package "
+"repositories?"
 msgstr ""
 "Quin servei d'openSUSE replica els repositoris de programari d'openSUSE a "
 "tot el món?"
 
-#. no-translate
-msgid "mirror.opensuse.org"
-msgstr "mirror.opensuse.org"
+#, fuzzy
+#| msgid "OBS (Open Build Service)"
+msgid "Open Build Service (OBS)"
+msgstr "OBS (Servei de construcció obert)"
 
-#. no-translate
-msgid "mirror.opensuse.net"
-msgstr "mirror.opensuse.net"
+msgid "YaST"
+msgstr ""
 
-#. no-translate
-msgid "mirrors.opensuse.com"
-msgstr "mirrors.opensuse.com"
+msgid "Snapper"
+msgstr "Snapper"
 
-msgid "Where can you help translate this quiz?"
-msgstr "On podeu ajudar a traduir aquest qüestionari?"
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "What is the openSUSE project's primary goal?"
+msgstr "Quina és la mascota del projecte openSUSE?"
 
-msgid "At the openSUSE forum"
-msgstr "Al fòrum d'openSUSE"
+#, fuzzy
+#| msgid "Supporting and spreading open-source software"
+msgid "Promoting and supporting free and open source software"
+msgstr "Suport i difusió de programari de codi obert"
 
-msgid "On GitHub issues"
-msgstr "Als problemes de GitHub"
+msgid "Creating proprietary software"
+msgstr ""
 
-#. no-translate
-msgid "https://l10n.opensuse.org/projects/quiz/"
-msgstr "https://l10n.opensuse.org/projects/quiz/"
+#, fuzzy
+#| msgid "Producing video games"
+msgid "Developing video games"
+msgstr "Producció de videojocs"
 
-msgid "In the IRC chat"
-msgstr "Al xat d'IRC"
+msgid "Providing cloud services"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which tool does openSUSE use for system snapshots and rollback?"
+msgid "Which openSUSE tool is used for system configuration and management?"
+msgstr ""
+"Quina eina usa l'openSUSE per a les instantànies del sistema i les "
+"reversions?"
+
+msgid "Gnome Control Center"
+msgstr ""
+
+msgid "KDE System Settings"
+msgstr ""
+
+msgid "Synaptic"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What is the command to check system snapshots on openSUSE?"
+msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+
+#, fuzzy
+#| msgid "zypper repolist"
+msgid "snapper list"
+msgstr "zypper repolist"
+
+#, fuzzy
+#| msgid "Timeshift"
+msgid "timeshift --list"
+msgstr "Timeshift"
+
+msgid "btrfs subvolume list"
+msgstr ""
+
+msgid "rsnapshot config"
+msgstr ""
+
+#, fuzzy
+#| msgid "What makes openSUSE special?"
+msgid "What package format does openSUSE use?"
+msgstr "Què fa que l'openSUSE sigui especial?"
+
+#, fuzzy
+#| msgid "What is the default filesystem in openSUSE?"
+msgid "What is the default shell in openSUSE?"
+msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+
+msgid "bash"
+msgstr ""
+
+msgid "zsh"
+msgstr ""
+
+msgid "fish"
+msgstr ""
+
+msgid "csh"
+msgstr ""
+
+msgid "Which of these is a community-driven openSUSE version?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Leapfrog"
+msgid "Leap Micro"
+msgstr "Leapfrog"
+
+msgid "SUSE Linux Enterprise"
+msgstr "SUSE Linux Enterprise"
 
 msgid "s390x Expert"
 msgstr "Expert de s390x"
@@ -753,14 +1045,12 @@ msgstr "Què significa IPL 150?"
 msgid "Give me additional 150MB of memory"
 msgstr "Doneu-me 150 MB addicionals de memòria"
 
-#. no-translate
 msgid "IP to my Linux machine"
 msgstr "IP a la meva màquina Linux"
 
 msgid "Boot from disk 150."
 msgstr "Arrencada des del disc 150."
 
-#. no-translate
 msgid "Install Python Libraries version 1.5.0"
 msgstr "Instal·la les biblioteques de Python, versió 1.5.0"
 
@@ -770,7 +1060,6 @@ msgstr "Què és IFL?"
 msgid "A filtration unit for cooling fluid"
 msgstr ""
 
-#. no-translate
 msgid "A core to run Linux on mainframe"
 msgstr "Un nucli per executar Linux en un ordinador central"
 
@@ -802,7 +1091,6 @@ msgstr "Un filtre de registre del sistema z/VM"
 msgid "What is the most used operating system on mainframes?"
 msgstr "Com s'administra el sistema operatiu a l's390x?"
 
-#. no-translate
 msgid "z/OS"
 msgstr ""
 
@@ -811,11 +1099,9 @@ msgstr ""
 msgid "Linux"
 msgstr "Arch Linux"
 
-#. no-translate
 msgid "Windows"
 msgstr ""
 
-#. no-translate
 #, fuzzy
 #| msgid "z/VM is?"
 msgid "z/VM"
@@ -824,24 +1110,22 @@ msgstr "Què és z/VM?"
 msgid "Do mainframes have any special AI capabilities?"
 msgstr ""
 
-#. no-translate
 msgid "Yes, latest models have Spyre accelerator."
 msgstr ""
 
-#. no-translate
 msgid "No, it's too old technology."
 msgstr ""
 
-#. no-translate
 msgid "Yes, but it can't be used on Linux."
 msgstr ""
 
-#. no-translate
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
-msgid ""
-"Which of the following I/O devices is typically not used with mainframes?"
+#, fuzzy
+#| msgid ""
+#| "Which of the following I/O devices is typically not used with mainframes?"
+msgid "Which of the following I/O devices is not used with mainframes?"
 msgstr ""
 "Quin dels dispositius següents d'E/S no s'usa normalment amb els ordinadors "
 "centrals?"
@@ -858,420 +1142,290 @@ msgstr "Xarxa"
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-msgid "Chameleon Fun for kids!"
-msgstr "Diversió sobre els camaleons per a la canalla!"
-
-msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
+msgid "test"
 msgstr ""
-"Un qüestionari ple de color sobre camaleons i openSUSE per a nens curiosos!"
 
-msgid "What color can a chameleon turn into?"
-msgstr "De quin color es pot posar un camaleó?"
+#, fuzzy
+#| msgid "Start"
+msgid "Start Quiz"
+msgstr "Inicia"
 
-msgid "Only green"
-msgstr "Només de verd"
+msgid "Start"
+msgstr "Inicia"
 
-msgid "Any color, even purple!"
-msgstr "De qualsevol color, fins i tot lila!"
+msgid "Back"
+msgstr "Enrere"
 
-msgid "Many colors like green, brown, yellow"
-msgstr "De molts colors, com ara el verd, el marró, el groc..."
+msgid "Submit"
+msgstr "Envia"
 
-msgid "Only black and white"
-msgstr "Només de blanc i de negre"
+msgid "Next"
+msgstr "Següent"
 
-msgid "What is the mascot of openSUSE?"
-msgstr "Quina és la mascota d'openSUSE?"
+msgid "Quit"
+msgstr "Surt"
 
-#. no-translate
-msgid "A penguin"
-msgstr "Un pingüí"
+msgid "Submit and Quit"
+msgstr "Envia i surt"
 
-#. no-translate
-msgid "A chameleon called Geeko"
-msgstr "Un camaleó anomenat Geeko"
+msgid "Time left"
+msgstr "Temps restant"
 
-msgid "A dragon"
-msgstr "Un drac"
+msgid "Score"
+msgstr "Puntuació"
 
-msgid "A robot"
-msgstr "Un robot"
-
-msgid "Why do chameleons change color?"
-msgstr "Per què els camaleons canvien de color?"
-
-msgid "To show how they feel or to hide"
-msgstr "Per mostrar com se senten o per amagar-se"
-
-msgid "Because they are bored"
-msgstr "Perquè s'avorreixen"
-
-msgid "Because they are cold-blooded robots"
-msgstr "Perquè són robots de sang freda"
-
-msgid "To glow in the dark"
-msgstr "Per brillar a la foscor"
-
-msgid "How do chameleons catch their food?"
-msgstr "Com atrapen el menjar els camaleons?"
-
-msgid "With their hands"
-msgstr "Amb les mans"
-
-msgid "With their long sticky tongue"
-msgstr "Amb una llengua llarga i enganxosa"
-
-msgid "By shouting at it"
-msgstr "Cridant"
-
-msgid "With a net"
-msgstr "Amb una xarxa"
-
-msgid "What do chameleons eat?"
-msgstr "Què mengen els camaleons?"
-
-msgid "Ice cream"
-msgstr "Gelat"
-
-msgid "Insects"
-msgstr "Insectes"
-
-msgid "Pineapples"
-msgstr "Pinyes"
-
-msgid "Hot dogs"
-msgstr "Entrepans de salsitxes de Frankfurt"
-
-msgid "What makes openSUSE special?"
-msgstr "Què fa que l'openSUSE sigui especial?"
-
-msgid "It can talk to animals"
-msgstr "Pot parlar amb els animals"
-
-msgid "It’s a modern, free operating system anyone can use — including you!"
+msgid "Final"
 msgstr ""
-"És un sistema operatiu modern i gratuït que tothom pot fer servir, fins i "
-"tot tu!"
 
-msgid "It’s made of chameleon scales"
-msgstr "Està fet d'escates de camaleó"
+#, fuzzy
+#| msgid "Start"
+msgid "Restart"
+msgstr "Inicia"
 
-msgid "It’s only for secret agents"
-msgstr "Només és per a agents secrets"
-
-msgid "Do all chameleons look the same?"
-msgstr "Tots els camaleons tenen el mateix aspecte?"
-
-msgid "Yes, they are all green and grumpy"
-msgstr "Sí, tots són verds i rondinaires"
-
-msgid "No, they come in many shapes, sizes, and colors"
-msgstr "No, n'hi ha de moltes formes, mides i colors"
-
-msgid "Yes, they all wear hats"
-msgstr "Sí, tots porten barrets"
-
-msgid "They all wear openSUSE stickers"
-msgstr "Tots porten adhesius d'openSUSE"
-
-msgid "What does the word 'open' in openSUSE mean?"
-msgstr "Què significa la paraula «open» a openSUSE?"
-
-msgid "It’s a password"
-msgstr "És una contrasenya"
-
-msgid "It means everyone can use it and help make it better"
-msgstr "Vol dir que tothom el pot fer servir i ajudar a millorar-lo"
-
-msgid "It’s only for opening doors"
-msgstr "Només serveix per a obrir portes"
-
-msgid "It’s about opening candy wrappers"
-msgstr "Té relació amb l'obertura d'embolcalls de caramels"
-
-msgid "Can chameleons move their eyes separately?"
-msgstr "Els camaleons poden moure els ulls separadament?"
-
-msgid "No, they blink both eyes together"
-msgstr "No, parpellegen amb tots dos ulls alhora."
-
-msgid "Yes, they can look in two directions at once!"
-msgstr "Sí, poden mirar en dues direccions alhora!"
-
-msgid "They close one eye when sleeping"
-msgstr "Tanquen un ull quan dormen."
-
-msgid "No, their eyes are always closed"
-msgstr "No, sempre tenen els ulls tancats."
-
-msgid "No users found"
-msgstr "No s'ha trobat cap usuari"
+msgid "Question"
+msgstr ""
 
 #, fuzzy
 #| msgid "Please enter a username to submit."
 msgid "Please enter a username to proceed."
 msgstr "Si us plau, introduïu un nom d'usuari per enviar."
 
+#, javascript-format
+msgid "Welcome, %s"
+msgstr ""
+
+msgid "Are you sure you want to quit and submit?"
+msgstr "Segur que ho voleu enviar i sortir-ne?"
+
 msgid "Username is too short."
-msgstr ""
-
-msgid "Leaderboard"
-msgstr "Taula de classificació"
-
-msgid "Auto Refresh"
-msgstr "Refresc automàtic"
-
-msgid "lang_name_he"
-msgstr "Hebreu"
-
-msgid "lang_name_sk"
-msgstr "Eslovac"
-
-msgid "lang_name_nl"
-msgstr "Neerlandès"
-
-msgid "lang_name_es"
-msgstr "Castellà"
-
-msgid ""
-"Each correct answer gives 1 point. Each question attempted adds 0.05 points. "
-"Each wrong answer subtracts 0.1 points. Total score never goes below zero."
-msgstr ""
-"Cada resposta correcta dona 1 punt. Cada pregunta intentada suma 0,05 punts. "
-"Cada resposta incorrecta resta 0,1 punts. La puntuació total mai baixa per "
-"sota de zero."
-
-msgid "lang_name_uk"
-msgstr "Ucraïnès"
-
-msgid "What does GNOME do?"
-msgstr ""
-
-msgid "Mine gold and diamonds"
-msgstr ""
-
-msgid "Create a desktop environment for Linux"
-msgstr ""
-
-msgid "Install Linux programs and applications"
-msgstr ""
-
-msgid "Fix MacOS drivers"
-msgstr ""
-
-msgid ""
-"Which security module is now used by default in new openSUSE Tumbleweed and "
-"Leap 16.0 installations?"
-msgstr ""
-
-#. no-translate
-msgid "AppArmor"
-msgstr ""
-
-#. no-translate
-msgid "SELinux"
-msgstr ""
-
-#. no-translate
-msgid "grsecurity"
-msgstr ""
-
-#. no-translate
-msgid "Firewalld"
-msgstr ""
-
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
-msgid "What is the main openSUSE conference called?"
-msgstr "Quina és la mascota del projecte openSUSE?"
-
-#, fuzzy
-#| msgid "openSUSE Expert"
-msgid "openSUSE Gathering"
-msgstr "Expert d'openSUSE"
-
-#, fuzzy
-#| msgid "openSUSE Expert"
-msgid "openSUSE Fest"
-msgstr "Expert d'openSUSE"
-
-msgid "openSUSE Conference (OSC)"
-msgstr ""
-
-#, fuzzy
-#| msgid "openSUSE Expert"
-msgid "openSUSE Flock"
-msgstr "Expert d'openSUSE"
-
-#, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
-msgid "Which of the following has the highest compression?"
-msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
-
-#. no-translate
-#, fuzzy
-#| msgid "Start"
-msgid "tar"
-msgstr "Inicia"
-
-#. no-translate
-msgid "echo"
-msgstr ""
-
-#. no-translate
-msgid "mkfile"
-msgstr ""
-
-msgid "steam roller"
-msgstr ""
-
-msgid ""
-"Where can you find endless wisdom, occasional rants, and a lot of helpful "
-"penguin-powered advice from the openSUSE community?"
-msgstr ""
-
-msgid "Under Geeko’s pillow"
-msgstr ""
-
-#. no-translate
-#, fuzzy
-#| msgid "fun@opensuse.org"
-msgid "forums.opensuse.org"
-msgstr "fun@opensuse.org"
-
-#. no-translate
-msgid "i-seek-you-opensuse"
-msgstr ""
-
-#. no-translate
-msgid "yast --help"
-msgstr ""
-
-msgid "Who is known as the father of Linux?"
-msgstr ""
-
-msgid "Torwald Linuksson"
-msgstr ""
-
-msgid "Linus Torvalds"
-msgstr ""
-
-msgid "Linux Tyrnux"
-msgstr ""
-
-msgid "Sinus Urvaald"
-msgstr ""
-
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
-msgid "What is the official slogan of openSUSE?"
-msgstr "Quina és la mascota d'openSUSE?"
-
-msgid "Have a lot of fun!"
-msgstr ""
-
-msgid "Innovate and Collaborate"
-msgstr ""
-
-msgid "Open Source, Open Future"
-msgstr ""
-
-msgid "Power to the Users"
-msgstr ""
-
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
-msgid "What is the default shell in openSUSE?"
-msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
-
-#. no-translate
-msgid "ash"
-msgstr ""
-
-#. no-translate
-msgid "bash"
-msgstr ""
-
-#. no-translate
-msgid "zshpicture"
-msgstr ""
-
-#. no-translate
-msgid "dash"
-msgstr ""
-
-#, fuzzy
-#| msgid "Where was the openSUSE project founded?"
-msgid "When was the openSUSE project officially started?"
-msgstr "On es va fundar el projecte openSUSE?"
-
-#. no-translate
-msgid "2047"
-msgstr ""
-
-msgid "0 AD"
-msgstr ""
-
-#. no-translate
-msgid "2005"
-msgstr ""
-
-#. no-translate
-msgid "1991"
-msgstr ""
-
-msgid "What cannot be tested in openQA?"
-msgstr ""
-
-#. no-translate
-msgid "ASCII art"
-msgstr ""
-
-msgid "Displaying websites in Mozilla Firefox"
-msgstr ""
-
-msgid "Installing Debian"
-msgstr ""
-
-#. no-translate
-msgid "Covid-19"
-msgstr ""
-
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
-msgid "What does the new openSUSE-repos package manage?"
-msgstr "Què significa la paraula «open» a openSUSE?"
-
-msgid "Repository definitions in /etc/zypp/repos.d/ managed by RIS"
-msgstr ""
-
-msgid "Kernel modules for openSUSE"
-msgstr ""
-
-msgid "Desktop themes and icons"
-msgstr ""
-
-msgid "System logs and journal settings"
-msgstr ""
-
-msgid "Can you play Windows games on openSUSE?"
-msgstr ""
-
-msgid "No way, only Windows can do that"
-msgstr ""
-
-msgid "Of course! Just fire up Steam and game on"
-msgstr ""
-
-msgid "Only if you summon the gaming gods"
-msgstr ""
-
-msgid "You need a secret handshake first"
 msgstr ""
 
 msgid "Sorry, this login is already taken."
 msgstr ""
+
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Segur que en voleu sortir? No se us desarà el progrés."
+
+#~ msgid "Language"
+#~ msgstr "Llengua"
+
+#~ msgid "lang_name_en"
+#~ msgstr "Anglès"
+
+#~ msgid "lang_name_cs"
+#~ msgstr "Txec"
+
+#~ msgid "lang_name_tr"
+#~ msgstr "Turc"
+
+#~ msgid "lang_name_de"
+#~ msgstr "Alemany"
+
+#~ msgid "lang_name_ca"
+#~ msgstr "Català"
+
+#~ msgid "lang_name_ja"
+#~ msgstr "Japonès"
+
+#~ msgid "Stats"
+#~ msgstr "Estat"
+
+#~ msgid "Back to Main Page"
+#~ msgstr "Torna a la pàgina principal"
+
+#~ msgid "Nickname"
+#~ msgstr "Sobrenom"
+
+#~ msgid "Correct"
+#~ msgstr "Correcte"
+
+#~ msgid "Wrong"
+#~ msgstr "Incorrecte"
+
+#~ msgid "openSUSE Quizzes"
+#~ msgstr "Qüestionaris d'openSUSE"
+
+#~ msgid "Available quizzes"
+#~ msgstr "Qüestionaris disponibles"
+
+#~ msgid "Monthly, to keep everyone on their toes"
+#~ msgstr "Mensualment, per mantenir tothom alerta"
+
+#~ msgid "Annually"
+#~ msgstr "Anualment"
+
+#~ msgid "Every time a tumbleweed rolls by"
+#~ msgstr "Cada cop que passa un estepicursor, una planta rodadora"
+
+#~ msgid "Which openSUSE mailing list is focused on development discussions?"
+#~ msgstr ""
+#~ "Quina llista de correu d'openSUSE se centra en debats sobre "
+#~ "desenvolupament?"
+
+#~ msgid "factory@lists.opensuse.org"
+#~ msgstr "factory@lists.opensuse.org"
+
+#~ msgid "support@opensuse.org"
+#~ msgstr "support@opensuse.org"
+
+#~ msgid "users@opensuse.org"
+#~ msgstr "users@opensuse.org"
+
+#~ msgid ""
+#~ "openSUSE's build service allows you to build packages for how many "
+#~ "different distributions?"
+#~ msgstr ""
+#~ "Per a quantes distribucions diferents el servei de construcció d'openSUSE "
+#~ "permet compilar paquets?"
+
+#~ msgid "Just openSUSE Leap"
+#~ msgstr "Només per a l'openSUSE Leap"
+
+#~ msgid "Over 100, including Fedora and Debian"
+#~ msgstr "Més de 100, incloent-hi Fedora i Debian"
+
+#~ msgid "Only Tumbleweed"
+#~ msgstr "Només per al Tumbleweed"
+
+#~ msgid "None, it only builds source code"
+#~ msgstr "Cap, només crea codi font"
+
+#~ msgid "openSUSE Leap is based on which upstream distribution?"
+#~ msgstr "En quina distribució d'origen es basa l'openSUSE Leap?"
+
+#~ msgid "Fedora"
+#~ msgstr "Fedora"
+
+#~ msgid "Debian"
+#~ msgstr "Debian"
+
+#~ msgid "Arch Linux"
+#~ msgstr "Arch Linux"
+
+#~ msgid "Btrfs Manager"
+#~ msgstr "Gestor de Btrfs"
+
+#~ msgid "Rollbackinator"
+#~ msgstr "Rollbackinator"
+
+#~ msgid "zypper refresh"
+#~ msgstr "zypper refresh"
+
+#~ msgid "zypper reload"
+#~ msgstr "zypper reload"
+
+#~ msgid "Where can you submit bug reports related to openSUSE packages?"
+#~ msgstr ""
+#~ "On podeu enviar informes d'errors relacionats amb els paquets de "
+#~ "l'openSUSE?"
+
+#~ msgid "bugzilla.opensuse.org"
+#~ msgstr "bugzilla.opensuse.org"
+
+#~ msgid "issues.opensuse.org"
+#~ msgstr "issues.opensuse.org"
+
+#~ msgid "bugs.opensuse.net"
+#~ msgstr "bugs.opensuse.net"
+
+#~ msgid "mirror.opensuse.org"
+#~ msgstr "mirror.opensuse.org"
+
+#~ msgid "mirror.opensuse.net"
+#~ msgstr "mirror.opensuse.net"
+
+#~ msgid "mirrors.opensuse.com"
+#~ msgstr "mirrors.opensuse.com"
+
+#~ msgid "Where can you help translate this quiz?"
+#~ msgstr "On podeu ajudar a traduir aquest qüestionari?"
+
+#~ msgid "At the openSUSE forum"
+#~ msgstr "Al fòrum d'openSUSE"
+
+#~ msgid "On GitHub issues"
+#~ msgstr "Als problemes de GitHub"
+
+#~ msgid "https://l10n.opensuse.org/projects/quiz/"
+#~ msgstr "https://l10n.opensuse.org/projects/quiz/"
+
+#~ msgid "In the IRC chat"
+#~ msgstr "Al xat d'IRC"
+
+#~ msgid "No users found"
+#~ msgstr "No s'ha trobat cap usuari"
+
+#~ msgid "Leaderboard"
+#~ msgstr "Taula de classificació"
+
+#~ msgid "Auto Refresh"
+#~ msgstr "Refresc automàtic"
+
+#~ msgid "lang_name_he"
+#~ msgstr "Hebreu"
+
+#~ msgid "lang_name_sk"
+#~ msgstr "Eslovac"
+
+#~ msgid "lang_name_nl"
+#~ msgstr "Neerlandès"
+
+#~ msgid "lang_name_es"
+#~ msgstr "Castellà"
+
+#~ msgid ""
+#~ "Each correct answer gives 1 point. Each question attempted adds 0.05 "
+#~ "points. Each wrong answer subtracts 0.1 points. Total score never goes "
+#~ "below zero."
+#~ msgstr ""
+#~ "Cada resposta correcta dona 1 punt. Cada pregunta intentada suma 0,05 "
+#~ "punts. Cada resposta incorrecta resta 0,1 punts. La puntuació total mai "
+#~ "baixa per sota de zero."
+
+#~ msgid "lang_name_uk"
+#~ msgstr "Ucraïnès"
+
+#, fuzzy
+#~| msgid "What is the mascot of openSUSE project?"
+#~ msgid "What is the main openSUSE conference called?"
+#~ msgstr "Quina és la mascota del projecte openSUSE?"
+
+#, fuzzy
+#~| msgid "openSUSE Expert"
+#~ msgid "openSUSE Gathering"
+#~ msgstr "Expert d'openSUSE"
+
+#, fuzzy
+#~| msgid "openSUSE Expert"
+#~ msgid "openSUSE Fest"
+#~ msgstr "Expert d'openSUSE"
+
+#, fuzzy
+#~| msgid "openSUSE Expert"
+#~ msgid "openSUSE Flock"
+#~ msgstr "Expert d'openSUSE"
+
+#, fuzzy
+#~| msgid ""
+#~| "Which of the following package managers is commonly used in openSUSE?"
+#~ msgid "Which of the following has the highest compression?"
+#~ msgstr ""
+#~ "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
+
+#, fuzzy
+#~| msgid "Start"
+#~ msgid "tar"
+#~ msgstr "Inicia"
+
+#, fuzzy
+#~| msgid "What is the mascot of openSUSE?"
+#~ msgid "What is the official slogan of openSUSE?"
+#~ msgstr "Quina és la mascota d'openSUSE?"
+
+#, fuzzy
+#~| msgid "Where was the openSUSE project founded?"
+#~ msgid "When was the openSUSE project officially started?"
+#~ msgstr "On es va fundar el projecte openSUSE?"
 
 #~ msgid "z/VM is operating system with the best backward compatibility"
 #~ msgstr ""
