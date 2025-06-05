@@ -1,10 +1,8 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 21:02+0000\nLast-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\nLanguage-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 23:53+0000\nLast-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\nLanguage-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
-#, fuzzy
-#| msgid "Devconf 2025"
 msgid "openSUSE Devconf 2025"
-msgstr "Devconf 2025"
+msgstr "openSUSE Devconf 2025"
 
 msgid ""
 "Don't worry this quiz is mostly educational. No need to know all the answers."
@@ -341,7 +339,7 @@ msgid "No, their eyes are always closed"
 msgstr "Hayır, gözleri hep kapalıdır"
 
 msgid "openSUSE Expert"
-msgstr "openSUSE Uzman"
+msgstr "openSUSE Uzmanı"
 
 #, fuzzy
 msgid ""
@@ -417,7 +415,7 @@ msgid "You have to edit files under a user netrunner and cross fingers"
 msgstr "Bir kullanıcı netrunner altında dosyaları düzenlemeli ve şans dilemelisiniz"
 
 msgid "What is 'YaST'?"
-msgstr "Leap 16.0 nedir ?"
+msgstr "'YaST' nedir?"
 
 msgid "A chameleon species native to Africa"
 msgstr "Afrika'ya özgü bir bukalemun türü"
@@ -543,7 +541,7 @@ msgstr "Geeko sıkıldığında"
 
 msgid ""
 "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Yerelleştirme ve çeviri yönetimi için hangi openSUSE hizmeti kullanılır?"
 
 msgid "OBS"
 msgstr "OBS"
@@ -557,7 +555,7 @@ msgstr "Kickstart"
 msgid ""
 "What command would you use to update software packages on openSUSE from the "
 "terminal?"
-msgstr ""
+msgstr "openSUSE'de yazılım paketlerini terminalden güncellemek için hangi komutu kullanırsınız?"
 
 msgid "zypper update"
 msgstr "zypper update"
@@ -690,7 +688,7 @@ msgid "pacman -S package-name"
 msgstr "pacman -S package-name"
 
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "OpenSUSE derleme sisteminin adı nedir?"
+msgstr "Resmi openSUSE topluluk forumunun adı nedir?"
 
 msgid "forums.opensuse.org"
 msgstr "forums.opensuse.org"
@@ -707,7 +705,7 @@ msgstr "opensuse-chat.org"
 msgid ""
 "Which tool is recommended for managing software repositories and packages in "
 "openSUSE?"
-msgstr ""
+msgstr "openSUSE'de yazılım depolarını ve paketlerini yönetmek için hangi araç önerilir?"
 
 msgid "APT"
 msgstr "APT"
@@ -750,39 +748,39 @@ msgid "pacman -Q"
 msgstr "pacman -Q"
 
 msgid "What is the primary license used by openSUSE?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
+msgstr "openSUSE tarafından kullanılan birincil lisans nedir?"
 
 msgid "GPL (GNU General Public License)"
-msgstr "GPL (GNU General Public License)"
+msgstr "GPL (GNU Genel Kamu Lisansı)"
 
 msgid "MIT License"
-msgstr "MIT License"
+msgstr "MIT Lisansı"
 
 msgid "Apache License"
-msgstr "Apache License"
+msgstr "Apache Lisansı"
 
 msgid "Proprietary"
 msgstr "Tescilli"
 
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
+msgstr "openSUSE bağlamında OBS ne anlama gelir?"
 
 msgid "Open Build Service"
 msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr "Online Backup System"
+msgstr "Çevrimiçi Yedekleme Sistemi"
 
 msgid "Open Box Scheduler"
 msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr "Official Build System"
+msgstr "Resmi Derleme Sistemi"
 
 msgid ""
 "Which openSUSE service provides live build environments and package "
 "repositories?"
-msgstr ""
+msgstr "Hangi openSUSE hizmeti canlı derleme ortamları ve paket depoları sağlar?"
 
 msgid "Open Build Service (OBS)"
 msgstr "Open Build Service (OBS)"
@@ -794,7 +792,7 @@ msgid "Snapper"
 msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
+msgstr "openSUSE projesinin birincil hedefi nedir?"
 
 msgid "Promoting and supporting free and open source software"
 msgstr "Açık kaynaklı yazılımların desteklenmesi ve yaygınlaştırılması"
@@ -823,7 +821,7 @@ msgid "Synaptic"
 msgstr "Synaptic"
 
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "OpenSUSE'deki sistem anlık görüntülerini kontrol etmek için komut nedir?"
+msgstr "openSUSE'de sistem anlık görüntülerini kontrol etme komutu nedir?"
 
 msgid "snapper list"
 msgstr "snapper list"
@@ -850,19 +848,19 @@ msgid "What is the default shell in openSUSE?"
 msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr "Bunlardan hangisi topluluk odaklı bir openSUSE sürümüdür?"
+msgstr "Bunlardan hangisi topluluk tarafından geliştirilen bir openSUSE sürümüdür?"
 
 #, fuzzy
 #| msgid "MicroOS and Leap Micro"
@@ -1044,7 +1042,7 @@ msgid "No, mainframes are not useful for running AI tasks."
 msgstr "Hayır, ana bilgisayarlar AI görevleri için kullanışlı değildir."
 
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket yöneticisidir?"
+msgstr "Aşağıdaki G/Ç aygıtlarından hangisi ana bilgisayarlarla kullanılmaz?"
 
 msgid "Disks"
 msgstr "Diskler"
@@ -1062,7 +1060,7 @@ msgid "test"
 msgstr "test"
 
 msgid "Start Quiz"
-msgstr "Başla"
+msgstr "Sınavı Başlat"
 
 msgid "Start"
 msgstr "Başla"
@@ -1083,7 +1081,7 @@ msgid "Submit and Quit"
 msgstr "Gönder ve Çık"
 
 msgid "Time left"
-msgstr "Zaman kaldı"
+msgstr "Kalan süre"
 
 msgid "Score"
 msgstr "Skor"
