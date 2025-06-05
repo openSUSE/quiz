@@ -36,9 +36,3 @@ for jsfile in "$DATA_DIR"/*.js "$SRC_DIR"/i18nHelpers.js; do
     mv "$MASTER_POT.new" "$MASTER_POT"
     rm "$potfile"
 done
-
-# Sanitize files from weblate we want --nowrap
-for pofile in "$OUT_DIR"/*.po; do
-    msguniq --no-wrap "$pofile" > "$pofile.new"
-    mv "$pofile.new" "$pofile"
-done
