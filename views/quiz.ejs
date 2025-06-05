@@ -57,10 +57,12 @@
       const nickname = "<%= nickname %>";
       const quizData = <%- quizData %>;
       const questions = <%- questions %>;
+      const existingLogins = <%- existingLogins %>;
       // If we pass it via route without stringify
       // then we can still reference uiStrings.variable in server-rendered HTML
       // stringify is still required for javascript references
       const uiStrings = <%- JSON.stringify(uiStrings) %>;
+
     </script>
     <script src="./quizRenderer.js"></script>
   </body>

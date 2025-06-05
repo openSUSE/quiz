@@ -933,10 +933,10 @@ msgstr ""
 msgid "No users found"
 msgstr ""
 
-msgid "Please enter a username to submit."
+msgid "Please enter a username to proceed."
 msgstr ""
 
-msgid "Username must be at least 3 characters long."
+msgid "Username is too short."
 msgstr ""
 
 msgid "Leaderboard"
@@ -1162,4 +1162,7 @@ msgid "Only if you summon the gaming gods"
 msgstr ""
 
 msgid "You need a secret handshake first"
+msgstr ""
+
+msgid "Sorry, this login is already taken."
 msgstr ""

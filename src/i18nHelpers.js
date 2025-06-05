@@ -34,9 +34,11 @@ function getUiStrings(_, name = "Anonymous") {
     final: _("Final"),
     restart: _("Restart"),
     question: _("Question"),
-    usernamePrompt: _("Please enter a username to start."),
+    usernamePrompt: _("Please enter a username to proceed."),
     welcome: _("Welcome, %s").replace("%s", name),
     confirmSubmit: _("Are you sure you want to quit and submit?"),
+    tooSimpleUsername: _("Username is too short."),
+    usernameTaken: _("Sorry, this login is already taken."),
     confirmQuit: _(
       "Are you sure you want to quit? Your progress will not be saved.",
     ),
