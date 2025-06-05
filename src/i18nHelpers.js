@@ -46,6 +46,23 @@ function getUiStrings(_, name = "Anonymous") {
 }
 
 function getAvailableLanguages(poDirPath) {
+  // Your existing languageNames mapping
+  // Unfortunately it requires manual addition here
+  // otherwise it will fallback to lang_name_$code
+  const languageNames = {
+    en: "English",
+    ca: "Català",
+    cs: "Čeština",
+    de: "Deutsch",
+    es: "Español",
+    he: "עברית",
+    ja: "日本語",
+    nl: "Nederlands",
+    sk: "Slovenčina",
+    tr: "Türkçe",
+    uk: "Українська",
+  };
+
   return fs
     .readdirSync(poDirPath)
     .filter((file) => {
@@ -55,9 +72,14 @@ function getAvailableLanguages(poDirPath) {
       );
     })
     .map((file) => {
-      return file === "template.pot" ? "en" : path.basename(file, ".po");
+      const code = file === "template.pot" ? "en" : path.basename(file, ".po");
+      return {
+        code,
+        name: languageNames[code] || code, // fallback to code if no name found
+      };
     });
 }
+
 module.exports = {
   localizeQuizData,
   getUiStrings,
