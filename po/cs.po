@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 01:19+0200\n"
-"PO-Revision-Date: 2025-06-05 20:21+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 00:04+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
 msgstr "openSUSE Devconf 2025"
@@ -1066,79 +1055,79 @@ msgid "test"
 msgstr "test"
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "Ultimátní YaST Výzva"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "Myslíte si, že znáte YaST? Zamyslete se znovu."
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Kolik překladových balíčků YaST2 je v Tumbleweedu?"
 
 msgid "about 25"
-msgstr ""
+msgstr "Asi tak 25"
 
 msgid "about 40"
-msgstr ""
+msgstr "Asi tak 40"
 
 msgid "about 60"
-msgstr ""
+msgstr "Asi tak 60"
 
 msgid "about 80"
-msgstr ""
+msgstr "Asi tak 80"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Kolik balíčků YaST2 (bez překladových balíčků) je v Tumbleweedu?"
 
 msgid "about 30"
-msgstr ""
+msgstr "Asi tak 30"
 
 msgid "about 50"
-msgstr ""
+msgstr "Asi tak 50"
 
 msgid "about 100"
-msgstr ""
+msgstr "Asi tak 100"
 
 msgid "about 150"
-msgstr ""
+msgstr "Asi tak 150"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "Kdy byl vydán první YaST2?"
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "2002"
-msgstr ""
+msgstr "2002"
 
 msgid "2004"
-msgstr ""
+msgstr "2004"
 
 msgid "2006"
-msgstr ""
+msgstr "2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "Kdy YaST2 dosáhl zákonného věku pro pití alkoholu v Něměcku?"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "Co se stane, když stisknete klávesu F2 v yast2 sw_single (Qt)?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "Zobrazí se zobrazení „Záplat“"
 
 msgid "It crashes"
-msgstr ""
+msgstr "Crashne to"
 
 #, fuzzy
 #| msgid "dnf install package-name"
@@ -1146,67 +1135,67 @@ msgid "It installs a random package"
 msgstr "dnf install package-name"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "Mogwaiové budou hladoví"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "Jak můžete získat xterm v instalaci YaST2?"
 
 msgid "you can't"
-msgstr ""
+msgstr "nemůžete"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "7 krát klikněte na ikonu Geeka v levo nahoře"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "Do mikrofonu jasně řeknete „xterm“ (pouze u notebooků)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "Můžete si prohlédnout hierarchii widgetů v okně YaST2, když je spuštěné?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "Ano, klikněte 7krát na záhlaví stránky"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "Ano, klikněte prostředním tlačítkem myši na libovolný widget"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "Ano, stistkněte Ctrl-Shift-Alt-Y"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "Ne - použij sílu kódu, Luku"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "Co se stane, když v YaST2 kliknete pravým tlačítkem myši na tlačítko?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "Otevře kontextovou nabídku tlačítka"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "Obnoví stránku na výchozí nastavení"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "Zeptá se, zda chcete přepnout myš do režimu pro leváky"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "Přepne na tmavý motiv widgetu nebo zpět"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "Lze změnit barevnou paletu YaST (Qt) pro zrakově postižené uživatele?"
 
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "Ano, klikněte na ikonu slunce/měsíce"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "Ano, použijte Shift-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "Ano, klikněte pravým tlačítkem myši na tlačítko „Nápověda“"
 
 #, fuzzy
 #| msgid "Start"
