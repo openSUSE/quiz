@@ -976,7 +976,7 @@ msgid "Fix MacOS drivers"
 msgstr ""
 
 msgid "Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?"
-msgstr "
+msgstr ""
 
 #. no-translate
 msgid "AppArmor"
