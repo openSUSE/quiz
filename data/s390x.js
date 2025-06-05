@@ -1,172 +1,153 @@
-// This helper function marks strings for translation.
-// Tools like `xgettext` can extract strings wrapped in _("...").
-// Plain string literals ("...") are ignored by such tools.
-// This dummy function allows us to mark strings for translation
-// without affecting runtime behavior — it simply returns the input.
-function _(str) {
-  return str;
-}
-
 const quizData = {
-  title: _("s390x Expert"),
-  subtitle: _("A quiz for friends of mainframes and exotic architectures."),
+  title: "s390x Expert",
+  subtitle: "A quiz for friends of mainframes and exotic architectures.",
   submitAnytime: false,
   randomizeQuestions: true,
 };
 
 const questions = [
   {
-    text: _("What’s the difference between Big Endian and Little Endian?"),
+    text: "What’s the difference between Big Endian and Little Endian?",
     answers: [
       {
-        text: _(
-          "s390x are using only 31b, that’s why they’re called Little Endian",
-        ),
+        text: "s390x are using only 31b, that’s why they’re called Little Endian",
         correct: false,
       },
       {
-        text: _("It’s about byte ordering; s390x being Big Endian"),
+        text: "It’s about byte ordering; s390x being Big Endian",
         correct: true,
       },
       {
-        text: _("It’s about byte ordering; s390x being Little Endian"),
+        text: "It’s about byte ordering; s390x being Little Endian",
         correct: false,
       },
-      {
-        text: _("It’s not used anymore, s390x are Bi-endianess"),
-        correct: false,
-      },
+      { text: "It’s not used anymore, s390x are Bi-endianess", correct: false },
     ],
   },
   {
-    text: _("DASD is?"),
+    text: "DASD is?",
     answers: [
-      { text: _("A German word"), correct: false },
-      { text: _("Direct-access storage device"), correct: true },
+      { text: "A German word", correct: false },
+      { text: "Direct-access storage device", correct: true },
       {
-        text: _("Swear word repeated often by s390x administrators"),
+        text: "Swear word repeated often by s390x administrators",
         correct: false,
       },
-      { text: _("A scsi disk"), correct: false },
+      { text: "A scsi disk", correct: false },
     ],
   },
   {
-    text: _("HMC is?"),
+    text: "HMC is?",
     answers: [
       {
-        text: _("Home mc, just a new friendlier Midnight Commander"),
+        text: "Home mc, just a new friendlier Midnight Commander",
         correct: false,
       },
       {
-        text: _(
-          "The administration of mainframe machine through web interface",
-        ),
+        text: "The administration of mainframe machine through web interface",
         correct: true,
       },
       {
-        text: _("A command for listing hardware network addresses."),
+        text: "A command for listing hardware network addresses.",
         correct: false,
       },
-      { text: _("A hidden module control unit"), correct: false },
+      { text: "A hidden module control unit", correct: false },
     ],
   },
   {
-    text: _("z/VM is?"),
+    text: "z/VM is?",
     answers: [
-      { text: _("Virtual Machine on Z (meaning s390x)"), correct: false },
+      { text: "Virtual Machine on Z (meaning s390x)", correct: false },
       {
-        text: _("z/VM is operating system usually used as hypervisor"),
+        text: "z/VM is operating system usually used as hypervisor",
         correct: true,
       },
-      { text: _("Remote desktop viewer"), correct: false },
-      { text: _("Zombie Virtual Memory"), correct: false },
+      { text: "Remote desktop viewer", correct: false },
+      { text: "Zombie Virtual Memory", correct: false },
     ],
   },
   {
-    text: _("What does storage mean in the mainframe world?"),
+    text: "What does storage mean in the mainframe world?",
     answers: [
-      { text: _("Memory (RAM)"), correct: true },
-      { text: _("Data storage (disks) counted in cylinders"), correct: false },
-      { text: _("A room where the mainframe is located"), correct: false },
+      { text: "Memory (RAM)", correct: true },
+      { text: "Data storage (disks) counted in cylinders", correct: false },
+      { text: "A room where the mainframe is located", correct: false },
       {
-        text: _("Compartment within a mainframe where the disks are located"),
+        text: "Compartment within a mainframe where the disks are located",
         correct: false,
       },
     ],
   },
   {
-    text: _("What is x3270?"),
+    text: "What is x3270?",
     answers: [
       {
-        text: _("Special file encoding, which is a must for files on s390x"),
+        text: "Special file encoding, which is a must for files on s390x",
         correct: false,
       },
       {
-        text: _("Terminal emulator for connection to a machine"),
+        text: "Terminal emulator for connection to a machine",
         correct: true,
       },
-      { text: _("Hexa code used as default admin password"), correct: false },
-      { text: _("None of these ridiculous choices"), correct: false },
+      { text: "Hexa code used as default admin password", correct: false },
+      { text: "None of these ridiculous choices", correct: false },
     ],
   },
   {
-    text: _("What does IPL 150 mean?"),
+    text: "What does IPL 150 mean?",
     answers: [
-      { text: _("Give me additional 150MB of memory"), correct: false },
-      { text: _("IP to my Linux machine"), correct: false },
-      { text: _("Boot from disk 150."), correct: true },
-      { text: _("Install Python Libraries version 1.5.0"), correct: false },
+      { text: "Give me additional 150MB of memory", correct: false },
+      { text: "IP to my Linux machine", correct: false },
+      { text: "Boot from disk 150.", correct: true },
+      { text: "Install Python Libraries version 1.5.0", correct: false },
     ],
   },
   {
-    text: _("What is IFL?"),
+    text: "What is IFL?",
     answers: [
-      { text: _("A filtration unit for cooling fluid"), correct: false },
-      { text: _("A core to run Linux on mainframe"), correct: true },
-      { text: _("Made up word to confuse laptop users"), correct: false },
-      { text: _("Integrated FLat circuit"), correct: false },
+      { text: "A filtration unit for cooling fluid", correct: false },
+      { text: "A core to run Linux on mainframe", correct: true },
+      { text: "Made up word to confuse laptop users", correct: false },
+      { text: "Integrated FLat circuit", correct: false },
     ],
   },
   {
-    text: _("What is cio_ignore?"),
+    text: "What is cio_ignore?",
     answers: [
-      { text: _("A command masking visibility of devices"), correct: true },
+      { text: "A command masking visibility of devices", correct: true },
       {
-        text: _("Ignore input/output data until the line is ready to receive"),
+        text: "Ignore input/output data until the line is ready to receive",
         correct: false,
       },
-      { text: _("It actually means ignore CIO"), correct: false },
-      { text: _("A z/VM syslog filter"), correct: false },
+      { text: "It actually means ignore CIO", correct: false },
+      { text: "A z/VM syslog filter", correct: false },
     ],
   },
   {
-    text: _("What is the most used operating system on mainframes?"),
+    text: "What is the most used operating system on mainframes?",
     answers: [
-      { text: _("z/OS"), correct: true },
-      { text: _("Linux"), correct: false },
-      { text: _("Windows"), correct: false },
-      { text: _("z/VM"), correct: false },
+      { text: "z/OS", correct: true },
+      { text: "Linux", correct: false },
+      { text: "Windows", correct: false },
+      { text: "z/VM", correct: false },
     ],
   },
   {
-    text: _("Do mainframes have any special AI capabilities?"),
+    text: "Do mainframes have any special AI capabilities?",
     answers: [
-      { text: _("Yes, latest models have Spyre accelerator."), correct: true },
-      { text: _("No, it's too old technology."), correct: false },
-      { text: _("Yes, but it can't be used on Linux."), correct: false },
-      {
-        text: _("No, mainframes are not useful for running AI tasks."),
-        correct: false,
-      },
+      { text: "Yes, latest models have Spyre accelerator.", correct: true },
+      { text: "No, it's too old technology.", correct: false },
+      { text: "Yes, but it can't be used on Linux.", correct: false },
+      { text: "No, mainframes are not useful for running AI tasks.", correct: false },
     ],
   },
   {
-    text: _("Which of the following I/O devices is not used with mainframes?"),
+    text: "Which of the following I/O devices is not used with mainframes?",
     answers: [
-      { text: _("Disks"), correct: false },
-      { text: _("Tape drives"), correct: false },
-      { text: _("Network"), correct: false },
-      { text: _("Bluetooth"), correct: true },
+      { text: "Disks", correct: false },
+      { text: "Tape drives", correct: false },
+      { text: "Network", correct: false },
+      { text: "Bluetooth", correct: true },
     ],
   },
 ];
