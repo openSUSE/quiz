@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-01 00:00+0000\n"
-"PO-Revision-Date: 2025-06-05 17:19+0000\n"
+"PO-Revision-Date: 2025-06-05 19:39+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
 "Language: cs\n"
@@ -671,12 +671,8 @@ msgstr "HMC je?"
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, trochu více přátelský Midnight Commander"
 
-#, fuzzy
-#| msgid ""
-#| "The administration of mainframe machine through web interface from the "
-#| "90’s"
 msgid "The administration of mainframe machine through web interface"
-msgstr "Administrativní webové rozhradní pro mainframy z 90tých let"
+msgstr "Administrace maniframe skrze webové rozhraní"
 
 msgid "A command for listing hardware network addresses."
 msgstr "Příkaz pro listování hardwarových síťových adres."
@@ -720,10 +716,8 @@ msgstr "Co je x3270?"
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr "Speciální kódování souborů, které je pro soubory na S390X nutností"
 
-#, fuzzy
-#| msgid "Terminal using unsecured telnet for connection to a machine"
 msgid "Terminal emulator for connection to a machine"
-msgstr "Terminál používající nezabezpečený telnet pro připojení ke stroji"
+msgstr "Emulátor terminálu pro připojení ke stroji"
 
 msgid "Hexa code used as default admin password"
 msgstr "Hexa kód použitý jako výchozí heslo administátora"
@@ -779,29 +773,23 @@ msgstr "Ve skutečnosti to znamená ignoruj CIO"
 msgid "A z/VM syslog filter"
 msgstr "z/VM syslog filtr"
 
-#, fuzzy
-#| msgid "How is the operating system on s390x administered?"
 msgid "What is the most used operating system on mainframes?"
-msgstr "Skrze co je spravován Operační systém je na s390x?"
+msgstr "Co je nejvíce používaný operační systém na mainframech?"
 
 #. no-translate
 msgid "z/OS"
 msgstr "z/OS"
 
-#, fuzzy
-#| msgid "SELinux"
 msgid "Linux"
-msgstr "SELinux"
+msgstr "Linux"
 
 #. no-translate
 msgid "Windows"
 msgstr "Windows"
 
 #. no-translate
-#, fuzzy
-#| msgid "z/VM is?"
 msgid "z/VM"
-msgstr "z/VM je?"
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
 msgstr "Mají mainframy nějaké speciální podporu pro AI?"
