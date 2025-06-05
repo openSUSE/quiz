@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-05 20:48+0200\n"
-"PO-Revision-Date: 2025-06-03 21:21+0000\n"
-"Last-Translator: Atakan Ersen <atakanersen@gmail.com>\n"
-"Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-05 20:48+0200\nPO-Revision-Date: 2025-06-05 21:02+0000\nLast-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\nLanguage-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 #, fuzzy
 #| msgid "Devconf 2025"
@@ -27,10 +16,10 @@ msgid "What is the mascot of openSUSE project?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 msgid "Geeko"
 msgstr "Geeko"
@@ -93,31 +82,31 @@ msgid "What is the default filesystem in openSUSE?"
 msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
 
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "InterPlanetary File System"
 
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
 
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid ""
 "Which openSUSE distribution is optimized for running containers and micro "
@@ -130,13 +119,13 @@ msgid "MicroOS and Leap Micro"
 msgstr "MicroOS ve Leap Micro"
 
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr ""
@@ -144,16 +133,16 @@ msgstr ""
 "yöneticisidir?"
 
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
 msgstr "Leap 16.0 nedir ?"
@@ -175,40 +164,40 @@ msgid "A container-focused system like MicroOS"
 msgstr "MicroOS gibi konteyner odaklı bir sistem"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "openSUSE'de Windows oyunları oynayabilir misiniz?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "Hayır, bunu sadece Windows yapabilir"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "Tabii ki! Sadece Steam'i aç ve oyna"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "Sadece oyun tanrılarını çağırırsan"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "Önce gizli bir el sıkışmaya ihtiyacın var"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Çocuklar için Bukalemun Eğlencesi!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Meraklı çocuklar için bukalemunlar ve openSUSE hakkında renkli bir sınav!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Bir bukalemun hangi renge dönüşebilir?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Sadece yeşil"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Her renge, hatta mora bile!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Yeşil, kahverengi, sarı gibi birçok renk"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Sadece siyah ve beyaz"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -216,76 +205,76 @@ msgid "What is the mascot of openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "Bir penguen"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Geeko adında bir bukalemun"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Bir ejderha"
 
 msgid "A robot"
-msgstr ""
+msgstr "Bir robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Bukalemunlar neden renk değiştirir?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Nasıl hissettiklerini göstermek veya saklanmak için"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Sıkıldıkları için"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Soğukkanlı robotlar oldukları için"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Karanlıkta parlamak için"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "Bukalemunlar esas olarak dünyanın hangi bölgesinde bulunur?"
 
 msgid "South America"
-msgstr ""
+msgstr "Güney Amerika"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "Afrika ve Madagaskar"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "Güneydoğu Asya"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktika"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Bukalemunlar yiyeceklerini nasıl yakalar?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "Ellerini kullanarak"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "Uzun yapışkan dilleriyle"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Ona bağırarak"
 
 msgid "With a net"
-msgstr ""
+msgstr "Bir ağ ile"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Bukalemunlar ne yer?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Dondurma"
 
 msgid "Insects"
-msgstr ""
+msgstr "Böcekler"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Ananas"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Sosisli sandviç"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -293,31 +282,31 @@ msgid "What makes openSUSE special?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Hayvanlarla konuşabilir"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "Herkesin kullanabileceği modern, özgür bir işletim sistemi — sen de dahil!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Bukalemun pullarından yapılmıştır"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Sadece gizli ajanlar için"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Tüm bukalemunlar aynı mı görünür?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Evet, hepsi yeşil ve huysuz"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Hayır, birçok şekil, boyut ve renkte olurlar"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Evet, hepsi şapka takar"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Hepsi openSUSE çıkartması takar"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -325,31 +314,31 @@ msgid "What does the word 'open' in openSUSE mean?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Bir şifre"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Herkesin kullanabileceği ve daha iyi hale getirmeye yardımcı olabileceği anlamına gelir"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Sadece kapı açmak için"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Şeker ambalajlarını açmakla ilgili"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Bukalemunlar gözlerini ayrı ayrı hareket ettirebilir mi?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Hayır, iki gözünü birlikte kırparlar"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Evet, aynı anda iki yöne bakabilirler!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Uyurken bir gözünü kapatırlar"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Hayır, gözleri hep kapalıdır"
 
 msgid "openSUSE Expert"
 msgstr "openSUSE Uzman"
@@ -370,27 +359,25 @@ msgstr ""
 "karşılaşmak isteyen kullanıcılara daha sakin bir alternatif sunar?"
 
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
-#, fuzzy
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
-"Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
+msgstr "Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
 
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
 msgstr "Varsayılan yok. Seçimi kullanıcıya bırakıyoruz."
@@ -401,50 +388,48 @@ msgid "What is the name of the openSUSE build system?"
 msgstr "OpenSUSE derleme sisteminin adı nedir?"
 
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid ""
 "How can you make changes to a root partition on a transactional-update based "
 "system?"
-msgstr ""
+msgstr "Transactional-update tabanlı bir sistemde root bölümünde nasıl değişiklik yapabilirsiniz?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "transactional-update komutunu kullanın ve yeni bir snapshot ile yeniden başlatın"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Giga ayrıcalıklar elde etmek için sudo-sudo kullanarak"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Salt veya Ansible kullanarak"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "Bir kullanıcı netrunner altında dosyaları düzenlemeli ve şans dilemelisiniz"
 
-#, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is 'YaST'?"
 msgstr "Leap 16.0 nedir ?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "Afrika'ya özgü bir bukalemun türü"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "İşletim sistemi yapılandırması için özgür bir yazılım"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "Varsayılan web tarayıcısı"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Bir programlama dili"
 
 #, fuzzy
 #| msgid "What is the main goal of the openSUSE project?"
@@ -452,77 +437,77 @@ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 msgstr "OpenSUSE projesinin temel amacı nedir?"
 
 msgid "A modern transactional-desktop system with GNOME"
-msgstr ""
+msgstr "GNOME ile modern bir transactional masaüstü sistemi"
 
 msgid "Scientific research"
-msgstr ""
+msgstr "Bilimsel araştırma"
 
 msgid "Containerization"
-msgstr ""
+msgstr "Konteynerleştirme"
 
 msgid "Enterprise use"
-msgstr ""
+msgstr "Kurumsal kullanım"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
+msgstr "Rancher ve SUSE projeleri hakkında bilgi almak için başvurulacak yer neresidir?"
 
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Rancher Academy"
 
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 msgid "Moo University"
-msgstr ""
+msgstr "Moo University"
 
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
+msgstr "openSUSE altyapısının mevcut durumunu nereden kontrol edebilirsiniz?"
 
 msgid "status.opensuse.org"
-msgstr ""
+msgstr "status.opensuse.org"
 
 msgid "isopensusedown.com"
-msgstr ""
+msgstr "isopensusedown.com"
 
 msgid "yast-status-viewer"
-msgstr ""
+msgstr "yast-status-viewer"
 
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid ""
 "Where can you install additional packages or packages with changes that "
 "didn't make it into the main distribution?"
-msgstr ""
+msgstr "Ana dağıtıma girmemiş ek paketleri veya değişiklik içeren paketleri nereden kurabilirsiniz?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "software.opensuse.org üzerinden tek tıkla"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "OBS build.opensuse.org üzerindeki projelere göz atarak"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
+msgstr "opi komutu ile, Packman deposundan veya Flathub üzerinden"
 
 msgid ""
 "When submitting packages to openSUSE, where do you send them "
 "(metaphorically)?"
-msgstr ""
+msgstr "openSUSE'ye paket gönderirken, onları nereye gönderirsiniz (metaforik olarak)?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, güvercin değil"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "Buluta (kelimenin tam anlamıyla)"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "Geeko maskotuna e-posta ile"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "Nürnberg'den duman sinyalleriyle"
 
 #, fuzzy
 #| msgid "What’s the name of the new installer in Leap 16?"
@@ -530,44 +515,44 @@ msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
 
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 msgid "Zypperella"
-msgstr ""
+msgstr "Zypperella"
 
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "openSUSE Leap ne sıklıkla yeni bir kararlı sürüm yayınlar?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "Her 5 yılda bir yıldızlar hizalandığında"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Her 12 ayda bir, 6 ay üst üste binerek"
 
 msgid "Every month"
-msgstr ""
+msgstr "Her ay"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Geeko sıkıldığında"
 
 msgid ""
 "Which openSUSE service is used for localization and translation management?"
 msgstr ""
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 msgid "Build Service"
-msgstr ""
+msgstr "Build Service"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid ""
 "What command would you use to update software packages on openSUSE from the "
@@ -575,16 +560,16 @@ msgid ""
 msgstr ""
 
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 msgid "apt-get update"
-msgstr ""
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -597,28 +582,28 @@ msgid "A rolling release distribution"
 msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "Bir masaüstü ortamı"
 
 msgid "The mascot"
-msgstr ""
+msgstr "Maskot"
 
 msgid "An installer"
-msgstr ""
+msgstr "Bir yükleyici"
 
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr ""
+msgstr "openSUSE'de depoları yönetmek için hangi komut satırı aracı kullanılır?"
 
 msgid "zypper"
-msgstr ""
+msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
 msgid "yum"
-msgstr ""
+msgstr "yum"
 
 msgid "pacman"
-msgstr ""
+msgstr "pacman"
 
 #, fuzzy
 #| msgid ""
@@ -630,7 +615,7 @@ msgstr ""
 "optimize edilmiştir?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -647,13 +632,13 @@ msgstr ""
 "optimize edilmiştir?"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Oyun"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Masaüstü verimliliği"
 
 msgid "Scientific computing"
-msgstr ""
+msgstr "Bilimsel hesaplama"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -661,7 +646,7 @@ msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "snapper"
-msgstr ""
+msgstr "snapper"
 
 #, fuzzy
 #| msgid "Time left"
@@ -669,57 +654,55 @@ msgid "timeshift"
 msgstr "Zaman kaldı"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "openSUSE'nin varsayılan metin düzenleyicisi nedir?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "openSUSE'de bir paketi kurmak için hangi komut kullanılır?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install package-name"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install package-name"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S package-name"
 
-#, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the name of the official openSUSE community forum?"
 msgstr "OpenSUSE derleme sisteminin adı nedir?"
 
 msgid "forums.opensuse.org"
-msgstr ""
+msgstr "forums.opensuse.org"
 
 msgid "discuss.opensuse.com"
-msgstr ""
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
 msgid "opensuse-chat.org"
-msgstr ""
+msgstr "opensuse-chat.org"
 
 msgid ""
 "Which tool is recommended for managing software repositories and packages in "
@@ -727,7 +710,7 @@ msgid ""
 msgstr ""
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
 #, fuzzy
 #| msgid "What is the main goal of the openSUSE project?"
@@ -740,67 +723,61 @@ msgid "Which file format does openSUSE use for package management?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What command will list all repositories in openSUSE?"
-msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
+msgstr "OpenSUSE'deki tüm depoları listeleyecek komut nedir?"
 
 msgid "zypper repos"
-msgstr ""
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
 msgid "dnf repolist"
-msgstr ""
+msgstr "dnf repolist"
 
 msgid "pacman -Q"
-msgstr ""
+msgstr "pacman -Q"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary license used by openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT License"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache License"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Tescilli"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does OBS stand for in openSUSE context?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 msgid "Open Build Service"
-msgstr ""
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System"
 
 msgid ""
 "Which openSUSE service provides live build environments and package "
@@ -808,26 +785,22 @@ msgid ""
 msgstr ""
 
 msgid "Open Build Service (OBS)"
-msgstr ""
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
-#, fuzzy
-#| msgid "Supporting and spreading open-source software"
 msgid "Promoting and supporting free and open source software"
 msgstr "Açık kaynaklı yazılımların desteklenmesi ve yaygınlaştırılması"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "Tescilli yazılım oluşturmak"
 
 #, fuzzy
 #| msgid "Producing video games"
@@ -835,27 +808,25 @@ msgid "Developing video games"
 msgstr "Video oyunları üretmek"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "Bulut hizmetleri sağlamak"
 
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr ""
+msgstr "Sistem yapılandırması ve yönetimi için hangi openSUSE aracı kullanılır?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Kontrol Merkezi"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE Sistem Ayarları"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
+msgstr "OpenSUSE'deki sistem anlık görüntülerini kontrol etmek için komut nedir?"
 
 msgid "snapper list"
-msgstr ""
+msgstr "snapper list"
 
 #, fuzzy
 #| msgid "Time left"
@@ -863,10 +834,10 @@ msgid "timeshift --list"
 msgstr "Zaman kaldı"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 #, fuzzy
 #| msgid "What is the mascot of openSUSE project?"
@@ -891,7 +862,7 @@ msgid "csh"
 msgstr ""
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "Bunlardan hangisi topluluk odaklı bir openSUSE sürümüdür?"
 
 #, fuzzy
 #| msgid "MicroOS and Leap Micro"
@@ -899,208 +870,197 @@ msgid "Leap Micro"
 msgstr "MicroOS ve Leap Micro"
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x Uzmanı"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "Ana bilgisayarlar ve egzotik mimariler için bir sınav."
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "Big Endian ve Little Endian arasındaki fark nedir?"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s390x sadece 31b kullanıyor, bu yüzden onlara Little Endian deniyor"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "Bu bayt sıralaması ile ilgili; s390x Big Endian'dır"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "Bu bayt sıralaması ile ilgili; s390x Little Endian'dır"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "Artık kullanılmıyor, s390x Bi-endianess'tir"
 
 msgid "DASD is?"
-msgstr ""
+msgstr "DASD nedir?"
 
 msgid "A German word"
-msgstr ""
+msgstr "Almanca bir kelime"
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Doğrudan erişimli depolama aygıtı"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "s390x yöneticilerinin sıkça tekrarladığı bir küfür"
 
 msgid "A scsi disk"
-msgstr ""
+msgstr "Bir scsi disk"
 
 msgid "HMC is?"
-msgstr ""
+msgstr "HMC nedir?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Home mc, sadece daha dostça bir Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
-msgstr ""
+msgstr "Ana bilgisayar makinesinin web arayüzü üzerinden yönetimi"
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "Donanım ağ adreslerini listelemek için bir komut."
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "Gizli bir modül kontrol birimi"
 
 msgid "z/VM is?"
-msgstr ""
+msgstr "z/VM nedir?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Z üzerinde Sanal Makine (s390x anlamında)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM genellikle hipervizör olarak kullanılan bir işletim sistemidir"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Uzak masaüstü görüntüleyici"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombi Sanal Bellek"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "Ana bilgisayar dünyasında storage ne anlama gelir?"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Bellek (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Silindirlerle sayılan veri depolama (diskler)"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Ana bilgisayarın bulunduğu oda"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Disklerin bulunduğu ana bilgisayar içindeki bölme"
 
-#, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is x3270?"
-msgstr "Leap 16.0 nedir ?"
+msgstr "x3270 nedir?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "s390x üzerindeki dosyalar için zorunlu olan özel dosya kodlaması"
 
 msgid "Terminal emulator for connection to a machine"
-msgstr ""
+msgstr "Bir makineye bağlantı için terminal emülatörü"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "Varsayılan yönetici parolası olarak kullanılan hexa kodu"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Bu saçma seçeneklerin hiçbiri"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "IPL 150 ne anlama gelir?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Bana fazladan 150MB bellek ver"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "Linux makinemin IP'si"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Disk 150'den önyükleme yap."
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Python Libraries sürüm 1.5.0'ı yükle"
 
-#, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is IFL?"
-msgstr "Leap 16.0 nedir ?"
+msgstr "IFL nedir?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "Soğutma sıvısı için bir filtreleme ünitesi"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Ana bilgisayarda Linux çalıştırmak için bir çekirdek"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Dizüstü kullanıcılarını şaşırtmak için uydurulmuş bir kelime"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Entegre FLat devre"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "cio_ignore nedir?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Aygıtların görünürlüğünü maskeleyen bir komut"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "Hat veri almaya hazır olana kadar giriş/çıkış verilerini yok say"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "Aslında CIO'yu yok say anlamına gelir"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "Bir z/VM syslog filtresi"
 
 msgid "What is the most used operating system on mainframes?"
-msgstr ""
+msgstr "Ana bilgisayarlarda en çok kullanılan işletim sistemi nedir?"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "z/VM"
-msgstr ""
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Ana bilgisayarlarda özel bir yapay zeka yeteneği var mı?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Evet, en yeni modellerde Spyre hızlandırıcı var."
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "Hayır, bu çok eski bir teknoloji."
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Evet, ama Linux'ta kullanılamaz."
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "Hayır, ana bilgisayarlar AI görevleri için kullanışlı değildir."
 
-#, fuzzy
-#| msgid ""
-#| "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr ""
-"Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket "
-"yöneticisidir?"
+msgstr "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket yöneticisidir?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Diskler"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Bant sürücüler"
 
 msgid "Network"
-msgstr ""
+msgstr "Ağ"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "test"
-msgstr ""
+msgstr "test"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
 msgstr "Başla"
 
@@ -1129,7 +1089,7 @@ msgid "Score"
 msgstr "Skor"
 
 msgid "Final"
-msgstr ""
+msgstr "Final"
 
 #, fuzzy
 #| msgid "Start"
@@ -1137,23 +1097,23 @@ msgid "Restart"
 msgstr "Başla"
 
 msgid "Question"
-msgstr ""
+msgstr "Soru"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "Devam etmek için lütfen bir kullanıcı adı girin."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Hoş geldin, %s"
 
 msgid "Are you sure you want to quit and submit?"
 msgstr "Çıkıp cevapları göndermek istediğinizden emin misiniz?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "Kullanıcı adı çok kısa."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Üzgünüz, bu kullanıcı adı zaten alınmış."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek."
