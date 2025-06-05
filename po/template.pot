@@ -85,9 +85,7 @@ msgstr ""
 msgid "openSUSE Expert"
 msgstr ""
 
-msgid ""
-"Challenge other users in our leaderboard. 30 seconds per question. Stop "
-"anytime."
+msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr ""
 
 #. Questions
@@ -127,9 +125,7 @@ msgstr ""
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr ""
 
-msgid ""
-"Rolling distributions with transactional updates using flatpaks on the "
-"desktop"
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
 msgstr ""
 
 msgid "Distributions built on top of MicroOS"
@@ -191,9 +187,7 @@ msgstr ""
 msgid "Cayman"
 msgstr ""
 
-msgid ""
-"Which openSUSE distribution is optimized for running containers and micro "
-"services?"
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgstr ""
 
 msgid "MicroOS and Leap Micro"
@@ -211,9 +205,7 @@ msgstr ""
 msgid "Slowroll"
 msgstr ""
 
-msgid ""
-"Which openSUSE rolling distribution offers a calmer alternative to "
-"Tumbleweed for users who prefer fewer surprises?"
+msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
 msgstr ""
 
 #. no-translate
@@ -250,9 +242,7 @@ msgstr ""
 msgid "What is Leap 16.0?"
 msgstr ""
 
-msgid ""
-"A traditional Linux distribution, the successor to Leap 15.6, released in "
-"Fall 2025"
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
 msgstr ""
 
 msgid "An immutable distribution with GNOME and KDE"
@@ -301,9 +291,7 @@ msgstr ""
 msgid "Autobuilder"
 msgstr ""
 
-msgid ""
-"How can you make changes to a root partition on a transactional-update based "
-"system?"
+msgid "How can you make changes to a root partition on a transactional-update based system?"
 msgstr ""
 
 msgid "Use transactional-update command and reboot into a new snapshot"
@@ -401,9 +389,7 @@ msgstr ""
 msgid "zypper up --ping"
 msgstr ""
 
-msgid ""
-"Where can you install additional packages or packages with changes that "
-"didn't make it into the main distribution?"
+msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
 msgstr ""
 
 msgid "With a single click from software.opensuse.org"
@@ -415,9 +401,7 @@ msgstr ""
 msgid "Through command opi, from the Packman repository or from Flathub"
 msgstr ""
 
-msgid ""
-"When submitting packages to openSUSE, where do you send them "
-"(metaphorically)?"
+msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
 msgstr ""
 
 msgid "build.opensuse.org, not a carrier pigeon"
@@ -485,9 +469,7 @@ msgstr ""
 msgid "fun@opensuse.org"
 msgstr ""
 
-msgid ""
-"openSUSE's build service allows you to build packages for how many different "
-"distributions?"
+msgid "openSUSE's build service allows you to build packages for how many different distributions?"
 msgstr ""
 
 msgid "Just openSUSE Leap"
@@ -577,8 +559,7 @@ msgstr ""
 msgid "bugs.opensuse.net"
 msgstr ""
 
-msgid ""
-"Which openSUSE service mirrors openSUSE software repositories worldwide?"
+msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgstr ""
 
 #. no-translate
@@ -651,8 +632,7 @@ msgstr ""
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr ""
 
-msgid ""
-"The administration of mainframe machine through web interface from the 90’s"
+msgid "The administration of mainframe machine through web interface from the 90’s"
 msgstr ""
 
 msgid "A command for listing hardware network addresses."
@@ -772,9 +752,7 @@ msgstr ""
 msgid "Linux (installed on bare metal)"
 msgstr ""
 
-msgid ""
-"AI must be mentioned :) In which language(s) can’t you work with data models "
-"on s390x using hardware exploitation?"
+msgid "AI must be mentioned :) In which language(s) can’t you work with data models on s390x using hardware exploitation?"
 msgstr ""
 
 #. no-translate
@@ -789,8 +767,7 @@ msgstr ""
 msgid "Java"
 msgstr ""
 
-msgid ""
-"Which of the following I/O devices is typically not used with mainframes?"
+msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgstr ""
 
 msgid "Disks"
@@ -998,9 +975,8 @@ msgstr ""
 msgid "Fix MacOS drivers"
 msgstr ""
 
-msgid ""
-"Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?"
-msgstr ""
+msgid "Which security module is now used by default in new openSUSE Tumbleweed and Leap 16.0 installations?"
+msgstr "
 
 #. no-translate
 msgid "AppArmor"
@@ -1051,9 +1027,7 @@ msgstr ""
 msgid "steam roller"
 msgstr ""
 
-msgid ""
-"Where can you find endless wisdom, occasional rants, and a lot of helpful "
-"penguin-powered advice from the openSUSE community?"
+msgid "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?"
 msgstr ""
 
 msgid "Under Geeko’s pillow"
