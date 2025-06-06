@@ -222,7 +222,7 @@ To add support for a new language:
 3. Once the file exists in the repository, add a user-friendly name to the language selector:  
    Add a line like `lang_name_ca` to `po/template.pot`.
 
-📌 See [PR #36](https://github.com/openSUSE/quiz/pull/36) for an example of adding Catalan.
+📌 Once weblate commits new language into `po/` directory. We can add language mapping e.g. cs -> Czech to [i18nHelpers.js](https://github.com/openSUSE/quiz/blob/main/src/i18nHelpers.js#L52).
 
 ---
 
