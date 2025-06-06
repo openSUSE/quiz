@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 11:34+0200\n"
-"PO-Revision-Date: 2025-06-06 09:37+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-06 09:45+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -753,24 +742,22 @@ msgid "What is the default shell in openSUSE?"
 msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "Quina d'aquestes és una versió d'openSUSE impulsada per la comunitat?"
 
-#, fuzzy
-#| msgid "Leapfrog"
 msgid "Leap Micro"
-msgstr "Leapfrog"
+msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
@@ -896,10 +883,8 @@ msgstr "Què és HMC?"
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home MC, només un Midnight Commander nou, més amable"
 
-#, fuzzy
-#| msgid "The administration of mainframe machine through web interface from the 90’s"
 msgid "The administration of mainframe machine through web interface"
-msgstr "L'administració d'ordinadors centrals a través d'una interfície web des dels anys 90"
+msgstr "L'administració d'ordinadors centrals a través d'una interfície web"
 
 msgid "A command for listing hardware network addresses."
 msgstr "Una ordre per llistar les adreces de xarxa del maquinari."
@@ -914,7 +899,7 @@ msgid "Virtual Machine on Z (meaning s390x)"
 msgstr "Una màquina virtual a Z (és a dir, s390x)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "El z/VM és un sistema operatiu que s'usa habitualment com a hipervisor"
 
 msgid "Remote desktop viewer"
 msgstr "Un visualitzador d'escriptori remot"
@@ -943,10 +928,8 @@ msgstr "Què és x3270?"
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr "Una codificació de fitxers especial, que és imprescindible per als fitxers a s390x"
 
-#, fuzzy
-#| msgid "Terminal using unsecured telnet for connection to a machine"
 msgid "Terminal emulator for connection to a machine"
-msgstr "Un terminal que usa telnet no segur per connectar-se amb una màquina"
+msgstr "Un emulador de terminal per a la connexió amb una màquina"
 
 msgid "Hexa code used as default admin password"
 msgstr "Un codi hexadecimal usat com a contrasenya d'administrador predeterminada"
@@ -973,7 +956,7 @@ msgid "What is IFL?"
 msgstr "Què és IFL?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "Una unitat de filtració per a fluids de refrigeració"
 
 msgid "A core to run Linux on mainframe"
 msgstr "Un nucli per executar Linux en un ordinador central"
@@ -999,41 +982,35 @@ msgstr "En realitat, vol dir ignorar el CIO."
 msgid "A z/VM syslog filter"
 msgstr "Un filtre de registre del sistema z/VM"
 
-#, fuzzy
-#| msgid "How is the operating system on s390x administered?"
 msgid "What is the most used operating system on mainframes?"
-msgstr "Com s'administra el sistema operatiu a l's390x?"
+msgstr "Quin és el sistema operatiu més usat en ordinadors centrals?"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
-#, fuzzy
-#| msgid "Arch Linux"
 msgid "Linux"
-msgstr "Arch Linux"
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
-#, fuzzy
-#| msgid "z/VM is?"
 msgid "z/VM"
-msgstr "Què és z/VM?"
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Els ordinadors centrals tenen cap capacitat especial d'IA?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Sí, els darrers models tenen un accelerador Spyre."
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "No, és una tecnologia massa antiga."
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Sí, però no es pot usar a Linux."
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "No, els ordinadors centrals no són útils per executar tasques d'IA."
 
 #, fuzzy
 #| msgid "Which of the following I/O devices is typically not used with mainframes?"
