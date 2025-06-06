@@ -56,6 +56,7 @@ function getAvailableLanguages(poDirPath) {
     de: "Deutsch",
     es: "Español",
     he: "עברית",
+    hi: "हिन्दी",
     ja: "日本語",
     nl: "Nederlands",
     sk: "Slovenčina",
