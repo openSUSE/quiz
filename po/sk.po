@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 11:34+0200\n"
-"PO-Revision-Date: 2025-06-05 19:39+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-07 11:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr ""
@@ -489,10 +478,8 @@ msgstr ""
 msgid "OBS"
 msgstr ""
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Build Service"
 
 msgid "Kickstart"
 msgstr ""
@@ -512,15 +499,11 @@ msgstr ""
 msgid "pacman -Syu"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the default shell in openSUSE?"
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "Aký je predvolený shell v openSUSE?"
+msgstr "Čo predstavuje Tumbleweed v openSUSE?"
 
-#, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
-msgstr "Rolujúce vydanie pre mobilné zariadenia"
+msgstr "Distribúcia rolujúceho vydania"
 
 msgid "A desktop environment"
 msgstr ""
@@ -534,41 +517,29 @@ msgstr ""
 msgid "Which command line tool is used to manage repositories in openSUSE?"
 msgstr ""
 
-#, fuzzy
-#| msgid "Sypper"
 msgid "zypper"
-msgstr "Sypper"
+msgstr "zypper"
 
 msgid "apt"
 msgstr ""
 
-#, fuzzy
-#| msgid "Yum"
 msgid "yum"
-msgstr "Yum"
+msgstr "yum"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman"
-msgstr "Pacman"
+msgstr "pacman"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "Ktorá distribúcia openSUSE je optimalizovaná na beh kontajnerov a mikroslužieb?"
+msgstr "Ktorá distribúcia openSUSE je známa ako stabilná verzia?"
 
 msgid "MicroOS"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "Aký je maskot projektu openSUSE?"
+msgstr "Aké je hlavné zameranie openSUSE MicroOS?"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "Ktorá distribúcia openSUSE je optimalizovaná na beh kontajnerov a mikroslužieb?"
+msgstr "Nemenný OS optimalizovaný pre kontajnery a mikroslužby"
 
 msgid "Gaming"
 msgstr ""
@@ -576,18 +547,14 @@ msgstr ""
 msgid "Desktop productivity"
 msgstr ""
 
-#, fuzzy
-#| msgid "Scientific research"
 msgid "Scientific computing"
-msgstr "Vedecký výskum"
+msgstr "Vedecké výpočty"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr ""
 
-#, fuzzy
-#| msgid "Sypper"
 msgid "snapper"
-msgstr "Sypper"
+msgstr "snapper"
 
 msgid "timeshift"
 msgstr ""
@@ -628,26 +595,20 @@ msgstr ""
 msgid "pacman -S package-name"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "Ako sa volá zostavovací systém openSUSE?"
+msgstr "Ako sa volá oficiálne komunitné fórum openSUSE?"
 
 msgid "forums.opensuse.org"
 msgstr "forums.opensuse.org"
 
-#, fuzzy
-#| msgid "issues.opensuse.org"
 msgid "discuss.opensuse.com"
-msgstr "issues.opensuse.org"
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
 msgstr ""
 
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "opensuse-chat.org"
-msgstr "status.opensuse.org"
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr ""
@@ -655,10 +616,8 @@ msgstr ""
 msgid "APT"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "Ako sa volá zostavovací systém openSUSE?"
+msgstr "Ako sa volá hlavné rolujúce vydanie openSUSE?"
 
 msgid "Which file format does openSUSE use for package management?"
 msgstr ""
@@ -675,10 +634,8 @@ msgstr ""
 msgid "PKG"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What command will list all repositories in openSUSE?"
-msgstr "Aký je predvolený súborový systém v openSUSE?"
+msgstr "Aký príkaz vypíše všetky repozitáre v openSUSE?"
 
 msgid "zypper repos"
 msgstr ""
@@ -689,15 +646,11 @@ msgstr ""
 msgid "dnf repolist"
 msgstr ""
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman -Q"
-msgstr "Pacman"
+msgstr "pacman -Q"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the primary license used by openSUSE?"
-msgstr "Aký je predvolený súborový systém v openSUSE?"
+msgstr "Akú primárnu licenciu používa openSUSE?"
 
 msgid "GPL (GNU General Public License)"
 msgstr ""
@@ -711,15 +664,11 @@ msgstr ""
 msgid "Proprietary"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "Aký je maskot projektu openSUSE?"
+msgstr "Čo znamená skratka OBS v kontexte openSUSE?"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
 msgstr ""
@@ -733,10 +682,8 @@ msgstr ""
 msgid "Which openSUSE service provides live build environments and package repositories?"
 msgstr ""
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service (OBS)"
-msgstr "OBS (Open Build Service)"
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
 msgstr ""
@@ -744,23 +691,17 @@ msgstr ""
 msgid "Snapper"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
-msgstr "Aký je maskot projektu openSUSE?"
+msgstr "Čo je hlavným cieľom projektu openSUSE?"
 
-#, fuzzy
-#| msgid "Supporting and spreading open-source software"
 msgid "Promoting and supporting free and open source software"
-msgstr "Podpora a šírenie open-source softvéru"
+msgstr "Propagácia a podpora slobodného a open source softvéru"
 
 msgid "Creating proprietary software"
 msgstr ""
 
-#, fuzzy
-#| msgid "Producing video games"
 msgid "Developing video games"
-msgstr "Produkcia videohier"
+msgstr "Vývoj videohier"
 
 msgid "Providing cloud services"
 msgstr ""
@@ -777,10 +718,8 @@ msgstr ""
 msgid "Synaptic"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "Aký je predvolený súborový systém v openSUSE?"
+msgstr "Aký je príkaz na kontrolu systémových snímok na openSUSE?"
 
 msgid "snapper list"
 msgstr ""
@@ -794,10 +733,8 @@ msgstr ""
 msgid "rsnapshot config"
 msgstr ""
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What package format does openSUSE use?"
-msgstr "Aký je maskot projektu openSUSE?"
+msgstr "Aký formát balíkov používa openSUSE?"
 
 msgid "What is the default shell in openSUSE?"
 msgstr "Aký je predvolený shell v openSUSE?"
@@ -817,18 +754,14 @@ msgstr ""
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr ""
 
-#, fuzzy
-#| msgid "Leapfrog"
 msgid "Leap Micro"
-msgstr "Leapfrog"
+msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
 msgstr ""
 
-#, fuzzy
-#| msgid "openSUSE Gathering"
 msgid "openSUSE Greenhorn"
-msgstr "openSUSE Gathering"
+msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr ""
@@ -854,10 +787,8 @@ msgstr ""
 msgid "Only from mysterious USB sticks left in coffee shops"
 msgstr ""
 
-#, fuzzy
-#| msgid "forums.opensuse.org"
 msgid "From get.opensuse.org"
-msgstr "forums.opensuse.org"
+msgstr "Z get.opensuse.org"
 
 msgid "By yelling 'YaST' into your terminal"
 msgstr ""
@@ -874,10 +805,8 @@ msgstr ""
 msgid "Send a strongly worded letter to Geeko"
 msgstr ""
 
-#, fuzzy
-#| msgid "status.opensuse.org"
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr "status.opensuse.org"
+msgstr "Nahlásiť to na bugzilla.opensuse.org"
 
 msgid "Write it in your diary and move on"
 msgstr ""
@@ -888,10 +817,8 @@ msgstr ""
 msgid "Try decoding ancient Geeko scrolls"
 msgstr ""
 
-#, fuzzy
-#| msgid "mirror.opensuse.org"
 msgid "On calendar.opensuse.org"
-msgstr "mirror.opensuse.org"
+msgstr "V calendar.opensuse.org"
 
 msgid "Look under your keyboard for hidden clues"
 msgstr ""
@@ -899,10 +826,8 @@ msgstr ""
 msgid "Events are revealed only during a full moon"
 msgstr ""
 
-#, fuzzy
-#| msgid "Where can you check the current status of openSUSE infrastructure?"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr "Kde môžete skontrolovať aktuálny stav infraštruktúry openSUSE?"
+msgstr "Kde môžete požiadať o pomoc, keď sa stratíte vo vesmíre openSUSE?"
 
 msgid "s390x Expert"
 msgstr ""
@@ -1075,10 +1000,8 @@ msgstr ""
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
-#, fuzzy
-#| msgid "Which of the following has the highest compression?"
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "Ktorý z nasledujúcich má najvyššiu kompresiu?"
+msgstr "Ktoré z nasledujúcich vstupno-výstupných zariadení sa nepoužíva na centrálnych počítačoch?"
 
 msgid "Disks"
 msgstr ""
@@ -1233,10 +1156,8 @@ msgstr ""
 msgid "Yes, right-click the \"Help\" button"
 msgstr ""
 
-#, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
-msgstr "Štart"
+msgstr "Spustiť kvíz"
 
 msgid "Start"
 msgstr "Štart"
@@ -1265,10 +1186,8 @@ msgstr "Skóre"
 msgid "Final"
 msgstr ""
 
-#, fuzzy
-#| msgid "Start"
 msgid "Restart"
-msgstr "Štart"
+msgstr "Reštart"
 
 msgid "Question"
 msgstr ""
