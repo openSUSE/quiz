@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-06 09:45+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-07 11:59+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -736,10 +736,8 @@ msgstr "rsnapshot config"
 msgid "What package format does openSUSE use?"
 msgstr "Quin format de paquet usa l'openSUSE?"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the default shell in openSUSE?"
-msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+msgstr "Quina és l'intèrpret d'ordres predeterminat a l'openSUSE?"
 
 msgid "bash"
 msgstr "bash"
@@ -762,10 +760,8 @@ msgstr "Leap Micro"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Greenhorn"
-msgstr "Expert d'openSUSE"
+msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr "No us preocupeu, aquest qüestionari és principalment educatiu. No cal saber-ne totes les respostes."
@@ -786,60 +782,52 @@ msgid "You need a secret handshake first"
 msgstr "Primer cal una encaixada de mans secreta"
 
 msgid "Where can you download openSUSE installation images?"
-msgstr ""
+msgstr "On podeu descarregar les imatges d'instal·lació de l'openSUSE?"
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr ""
+msgstr "Només de misterioses unitats USB que es deixen a les cafeteries"
 
-#, fuzzy
-#| msgid "forums.opensuse.org"
 msgid "From get.opensuse.org"
-msgstr "forums.opensuse.org"
+msgstr "Des de get.opensuse.org"
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr ""
+msgstr "Cridant \"YaST\" al terminal"
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr ""
+msgstr "No es pot. Es distribueixen mitjançant coloms missatgers."
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr ""
+msgstr "On hauríeu d'informar dels problemes que trobeu a l'openSUSE?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr ""
+msgstr "Només cal cridar davant de la pantalla i esperar el millor"
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr ""
+msgstr "Envieu una carta amb paraules gruixudes a Geeko"
 
-#, fuzzy
-#| msgid "bugzilla.opensuse.org"
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr "bugzilla.opensuse.org"
+msgstr "Envieu-ho a bugzilla.opensuse.org"
 
 msgid "Write it in your diary and move on"
-msgstr ""
+msgstr "Escriviu-ho al diari personal i seguiu endavant"
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr ""
+msgstr "On podeu trobar esdeveniments per unir-vos-hi i col·laborar amb la comunitat d'openSUSE?"
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr ""
+msgstr "Proveu de descodificar antics pergamins de Geeko"
 
-#, fuzzy
-#| msgid "bugzilla.opensuse.org"
 msgid "On calendar.opensuse.org"
-msgstr "bugzilla.opensuse.org"
+msgstr "A calendar.opensuse.org"
 
 msgid "Look under your keyboard for hidden clues"
-msgstr ""
+msgstr "Busqueu pistes amagades sota el teclat"
 
 msgid "Events are revealed only during a full moon"
-msgstr ""
+msgstr "Els esdeveniments es revelen només durant una lluna plena"
 
-#, fuzzy
-#| msgid "Where can you check the current status of openSUSE infrastructure?"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr "On podeu consultar l'estat actual de la infraestructura d'openSUSE?"
+msgstr "On podeu demanar ajuda quan us perdeu a l'univers d'openSUSE?"
 
 msgid "s390x Expert"
 msgstr "Expert de s390x"
@@ -1012,10 +1000,8 @@ msgstr "Sí, però no es pot usar a Linux."
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr "No, els ordinadors centrals no són útils per executar tasques d'IA."
 
-#, fuzzy
-#| msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "Quin dels dispositius següents d'E/S no s'usa normalment amb els ordinadors centrals?"
+msgstr "Quin dels dispositius següents d'E/S no s'usa amb els ordinadors centrals?"
 
 msgid "Disks"
 msgstr "Discs"
@@ -1030,150 +1016,148 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "El repte definitiu del YaST"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "Creieu que coneixeu el YaST? Penseu-hi un altre cop."
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Quants paquets de traducció del YaST2 hi ha al Tumbleweed?"
 
 msgid "about 25"
-msgstr ""
+msgstr "Uns 25"
 
 msgid "about 40"
-msgstr ""
+msgstr "Uns 40"
 
 msgid "about 60"
-msgstr ""
+msgstr "Uns 60"
 
 msgid "about 80"
-msgstr ""
+msgstr "Uns 80"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Quants paquets del YaST2 (sense comptar els paquets de traducció) hi ha al Tumbleweed?"
 
 msgid "about 30"
-msgstr ""
+msgstr "Uns 30"
 
 msgid "about 50"
-msgstr ""
+msgstr "Uns 50"
 
 msgid "about 100"
-msgstr ""
+msgstr "Uns 100"
 
 msgid "about 150"
-msgstr ""
+msgstr "Uns 150"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "Quan es va publicar el primer YaST2?"
 
 msgid "1999"
-msgstr ""
+msgstr "El 1999"
 
 msgid "2002"
-msgstr ""
+msgstr "El 2002"
 
 msgid "2004"
-msgstr ""
+msgstr "El 2004"
 
 msgid "2006"
-msgstr ""
+msgstr "El 2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "Quan va arribar el YaST2 a l'edat legal alemanya per beure?"
 
 msgid "2010"
-msgstr ""
+msgstr "El 2010"
 
 msgid "2015"
-msgstr ""
+msgstr "El 2015"
 
 msgid "2021"
-msgstr ""
+msgstr "El 2021"
 
 msgid "2024"
-msgstr ""
+msgstr "El 2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "Què passa quan premeu la tecla F2 al yast2 sw_single (Qt)?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "Obteniu la vista de pedaços"
 
 msgid "It crashes"
-msgstr ""
+msgstr "Falla"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "Instal·la un paquet aleatori"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "Els Mogwai agafen gana"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "Com es pot obtenir un xterm en una instal·lació del YaST2?"
 
 msgid "you can't"
-msgstr ""
+msgstr "No es pot"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "Fent clic a la icona del Geeko a la part superior esquerra 7 vegades"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Maj-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "Es diu clarament \"xterm\" al micròfon (només als portàtils)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "Podeu inspeccionar la jerarquia de ginys d'una finestra del YaST2 mentre s'executa?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "Sí, fent clic a l'encapçalament de la pàgina 7 vegades"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "Sí, fent clic amb el botó del mig en qualsevol giny"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "Sí, amb Ctrl-Maj-Alt-Y"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "No, usa la força, Luke"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "Què passa si feu clic amb el botó dret al YaST2?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "S'obre el menú contextual del botó"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "Restableix la pàgina als valors predeterminats"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "Pregunta si es vol canviar el ratolí al mode esquerrà"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "Canvia el tema del giny a fosc o torna enrere"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "Es pot canviar la paleta de colors del YaST (Qt) per als usuaris amb discapacitat visual?"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "Sí, fent clic a la icona de sol / lluna"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "Sí, amb Maj-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "Sí, fent clic amb el botó dret al botó d'ajuda"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
-msgstr "Inicia"
+msgstr "Inicia el qüestionari"
 
 msgid "Start"
 msgstr "Inicia"
@@ -1200,33 +1184,29 @@ msgid "Score"
 msgstr "Puntuació"
 
 msgid "Final"
-msgstr ""
+msgstr "Fi"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Restart"
-msgstr "Inicia"
+msgstr "Reinicia"
 
 msgid "Question"
-msgstr ""
+msgstr "Pregunta"
 
-#, fuzzy
-#| msgid "Please enter a username to submit."
 msgid "Please enter a username to proceed."
-msgstr "Si us plau, introduïu un nom d'usuari per enviar."
+msgstr "Si us plau, introduïu un nom d'usuari per continuar."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Us donem la benvinguda, %s"
 
 msgid "Are you sure you want to quit and submit?"
 msgstr "Segur que ho voleu enviar i sortir-ne?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "El nom d'usuari és massa curt."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Aquest inici de sessió ja s'ha fet."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Segur que en voleu sortir? No se us desarà el progrés."
