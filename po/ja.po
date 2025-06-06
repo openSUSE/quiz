@@ -1,28 +1,17 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 01:19+0200\n"
-"PO-Revision-Date: 2025-06-05 07:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:24+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
-msgstr ""
+msgstr "openSUSE Devconf 2025"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
+msgstr "心配ありません。このクイズは教育用に作られているもので、全部を知っている必要はありません。"
 
 msgid "What is the mascot of openSUSE project?"
 msgstr "openSUSE プロジェクトのマスコットは？"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
 msgstr "TwoPac"
@@ -154,19 +143,19 @@ msgid "A container-focused system like MicroOS"
 msgstr "MicroOS のようにコンテナに注力したシステム"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "openSUSE で Windows のゲームは遊べる？"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "いいえ、 Windows でないと遊べない"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "もちろん！ Steam を起動して遊べる"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "ゲームの神様を呼べばできる"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "秘密の契約を結ぶ必要がある"
 
 msgid "Chameleon Fun for kids!"
 msgstr "こども向けカメレオンクイズ！"
@@ -496,378 +485,298 @@ msgid "Every 5 years when the stars align"
 msgstr "星が揃う 5 年おき"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "12 ヶ月おきで、 6 ヶ月の重複期間が加わる"
 
 msgid "Every month"
-msgstr ""
+msgstr "毎月"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Geeko が飽きたら"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "ローカライズや翻訳の管理に使用している openSUSE のサービスはどれ？"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Build Service"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "端末から openSUSE のソフトウエアパッケージを更新する際に使用するコマンドは？"
 
 msgid "zypper update"
 msgstr "zypper update"
 
-#, fuzzy
-#| msgid "zypper update"
 msgid "apt-get update"
-msgstr "zypper update"
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+msgstr "openSUSE で Tumbleweed とはどういう意味？"
 
-#, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
-msgstr "モバイルデバイス向けのローリングリリース"
+msgstr "ローリングリリース型のディストリビューション"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "デスクトップ環境"
 
 msgid "The mascot"
-msgstr ""
+msgstr "マスコット"
 
 msgid "An installer"
-msgstr ""
+msgstr "インストーラ"
 
-#, fuzzy
-#| msgid "What command can you use to refresh zypper repositories?"
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "zypper でリポジトリの更新を行うためのコマンドは？"
+msgstr "openSUSE でリポジトリを管理するために使用するコマンドラインツールは？"
 
-#, fuzzy
-#| msgid "Sypper"
 msgid "zypper"
-msgstr "Sypper"
+msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
-#, fuzzy
-#| msgid "Yum"
 msgid "yum"
-msgstr "Yum"
+msgstr "yum"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman"
-msgstr "Pacman"
+msgstr "pacman"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "コンテナやマイクロサービスを動作させるのに最適な openSUSE ディストリビューションはどれ？"
+msgstr "一定間隔で安定バージョンを提供する openSUSE ディストリビューションはどれ？"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "openSUSE プロジェクトのマスコットは？"
+msgstr "openSUSE MicroOS の主な目的は？"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "コンテナやマイクロサービスを動作させるのに最適な openSUSE ディストリビューションはどれ？"
+msgstr "コンテナやマイクロサービス向けに最適化された不変な OS"
 
 msgid "Gaming"
-msgstr ""
+msgstr "ゲーム"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "デスクトップシステム"
 
-#, fuzzy
-#| msgid "Scientific research"
 msgid "Scientific computing"
-msgstr "科学的な研究"
+msgstr "科学的なコンピューティング"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr "openSUSE のマスコットはどれ？"
+msgstr "openSUSE でスナップショットを作成したり管理したりするツールはどれ？"
 
-#, fuzzy
-#| msgid "Snapper"
 msgid "snapper"
-msgstr "Snapper"
+msgstr "snapper"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift"
-msgstr "Timeshift"
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "openSUSE での既定のテキストエディタは？"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "openSUSE でパッケージをインストールする際に使用するコマンドは？"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install package-name"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install package-name"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S package-name"
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "openSUSE のビルドシステムの名称は？"
+msgstr "openSUSE の公式コミュニティフォーラムの名前は？"
 
-#, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "forums.opensuse.org"
-msgstr "fun@opensuse.org"
+msgstr "forums.opensuse.org"
 
-#, fuzzy
-#| msgid "bugs.opensuse.com"
 msgid "discuss.opensuse.com"
-msgstr "bugs.opensuse.com"
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
-#, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "opensuse-chat.org"
-msgstr "fun@opensuse.org"
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "openSUSE でソフトウエアリポジトリやパッケージの管理を行う際の推奨ツールはどれ？"
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "openSUSE のビルドシステムの名称は？"
+msgstr "openSUSE のローリングリリース型ディストリビューションのうち、代表的な名前は？"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "Which file format does openSUSE use for package management?"
-msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+msgstr "openSUSE でのソフトウエアパッケージのファイル形式はどれ？"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What command will list all repositories in openSUSE?"
-msgstr "openSUSE における既定のファイルシステムは？"
+msgstr "openSUSE で全てのリポジトリを一覧表示するためのコマンドは？"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "zypper repos"
-msgstr "zypper repolist"
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "dnf repolist"
-msgstr "zypper repolist"
+msgstr "dnf repolist"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman -Q"
-msgstr "Pacman"
+msgstr "pacman -Q"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What is the primary license used by openSUSE?"
-msgstr "openSUSE のマスコットはどれ？"
+msgstr "openSUSE で主に使用されているライセンスは？"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT License"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache License"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "プロプライエタリ"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+msgstr "openSUSE で 'OBS' とはどういう意味？"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System"
 
-#, fuzzy
-#| msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr "世界中に openSUSE のリポジトリをミラーリングするためのサービスはどれ？"
+msgstr "パッケージの構築環境やパッケージリポジトリそのものを提供する openSUSE のサービスはどれ？"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service (OBS)"
-msgstr "OBS (Open Build Service)"
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
 msgstr "Snapper"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
-msgstr "openSUSE プロジェクトのマスコットは？"
+msgstr "openSUSE プロジェクトの主な目的は？"
 
-#, fuzzy
-#| msgid "Supporting and spreading open-source software"
 msgid "Promoting and supporting free and open source software"
-msgstr "オープンソースソフトウエアのサポートと普及"
+msgstr "フリーでオープンソースのソフトウエアの宣伝とサポート"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "プロプライエタリソフトウエアの作成"
 
-#, fuzzy
-#| msgid "Producing video games"
 msgid "Developing video games"
-msgstr "ビデオゲームの製作"
+msgstr "ビデオゲームの開発"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "クラウドサービスの提供"
 
-#, fuzzy
-#| msgid "Which tool does openSUSE use for system snapshots and rollback?"
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr "openSUSE でシステムのスナップショット採取やロールバックを行うためのツールはどれ？"
+msgstr "システムの設定や管理を行うために使用する openSUSE のツールはどれ？"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE System Settings"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "openSUSE における既定のファイルシステムは？"
+msgstr "openSUSE でシステムのスナップショットを確認するためのコマンドは？"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "snapper list"
-msgstr "zypper repolist"
+msgstr "snapper list"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift --list"
-msgstr "Timeshift"
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
-#, fuzzy
-#| msgid "What makes openSUSE special?"
 msgid "What package format does openSUSE use?"
-msgstr "openSUSE が特別 (とくべつ) なのはなぜ？"
+msgstr "openSUSE が使用しているパッケージの形式は？"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the default shell in openSUSE?"
-msgstr "openSUSE における既定のファイルシステムは？"
+msgstr "openSUSE における既定のシェルは？"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "コミュニティが主導している openSUSE のバージョンはどれ？"
 
-#, fuzzy
-#| msgid "Leapfrog"
 msgid "Leap Micro"
-msgstr "Leapfrog"
+msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
@@ -914,10 +823,8 @@ msgstr "HMC とは？"
 msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home MC の略で、より扱いやすくなった Midnight Commander のこと"
 
-#, fuzzy
-#| msgid "The administration of mainframe machine through web interface from the 90’s"
 msgid "The administration of mainframe machine through web interface"
-msgstr "1990 年代のメインフレーム向けの Web 管理インターフェイス"
+msgstr "メインフレーム向けの Web 管理インターフェイス"
 
 msgid "A command for listing hardware network addresses."
 msgstr "ハードウエアネットワークアドレスの一覧表示コマンド。"
@@ -932,7 +839,7 @@ msgid "Virtual Machine on Z (meaning s390x)"
 msgstr "Z (s390x) 内での仮想マシン"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "一般にハイパーバイザとして使用されるオペレーティングシステム"
 
 msgid "Remote desktop viewer"
 msgstr "リモートデスクトップビューア"
@@ -961,10 +868,8 @@ msgstr "x3270 とは？"
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr "s390x 内でファイルを取り扱う際に必須となる特殊なファイルエンコーディング"
 
-#, fuzzy
-#| msgid "Terminal using unsecured telnet for connection to a machine"
 msgid "Terminal emulator for connection to a machine"
-msgstr "マシンに暗号化無しで Telnet 接続する際に使用する端末"
+msgstr "マシンに接続するための端末エミュレータ"
 
 msgid "Hexa code used as default admin password"
 msgstr "既定の管理者パスワードの 16 進数表現"
@@ -991,7 +896,7 @@ msgid "What is IFL?"
 msgstr "IFL とは？"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "冷却液用濾過ユニット"
 
 msgid "A core to run Linux on mainframe"
 msgstr "メインフレームで Linux を動作させるためのコア"
@@ -1017,46 +922,38 @@ msgstr "情報統括役員 (CIO) を無視するという意味"
 msgid "A z/VM syslog filter"
 msgstr "z/VM の syslog フィルタ"
 
-#, fuzzy
-#| msgid "How is the operating system on s390x administered?"
 msgid "What is the most used operating system on mainframes?"
-msgstr "s390x 内で動作するオペレーティングシステムの管理方法はどれ？"
+msgstr "メインフレームで最もよく使用されているオペレーティングシステムは？"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
-#, fuzzy
-#| msgid "Arch Linux"
 msgid "Linux"
-msgstr "Arch Linux"
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
-#, fuzzy
-#| msgid "z/VM is?"
 msgid "z/VM"
-msgstr "z/VM とは？"
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "メインフレームには AI 向けの特殊機能がある？"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "はい、最新モデルには Spyre アクセラレータがあります。"
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "いいえ、それは古すぎる技術です。"
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "はい、ただし Linux では使用できません。"
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "いいえ、メインフレームは AI 処理には向いていません。"
 
-#, fuzzy
-#| msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "メインフレームでは一般的に使用されない I/O デバイスはどれ？"
+msgstr "メインフレームでは使用されない I/O デバイスはどれ？"
 
 msgid "Disks"
 msgstr "ディスク"
@@ -1071,153 +968,151 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "test"
-msgstr ""
+msgstr "テスト"
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "YaST からの究極チャレンジ"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "YaST について詳しいですか？ 腕試しです。"
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Tumbleweed にある YaST\" の翻訳パッケージの数は？"
 
 msgid "about 25"
-msgstr ""
+msgstr "25 個くらい"
 
 msgid "about 40"
-msgstr ""
+msgstr "40 個くらい"
 
 msgid "about 60"
-msgstr ""
+msgstr "60 個くらい"
 
 msgid "about 80"
-msgstr ""
+msgstr "80 個くらい"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Tumbleweed にある YaST2 のパッケージ数 (翻訳パッケージを除く) は？"
 
 msgid "about 30"
-msgstr ""
+msgstr "30 個くらい"
 
 msgid "about 50"
-msgstr ""
+msgstr "50 個くらい"
 
 msgid "about 100"
-msgstr ""
+msgstr "100 個くらい"
 
 msgid "about 150"
-msgstr ""
+msgstr "150 個くらい"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "YaST2 がリリースされたのはいつ？"
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "2002"
-msgstr ""
+msgstr "2002"
 
 msgid "2004"
-msgstr ""
+msgstr "2004"
 
 msgid "2006"
-msgstr ""
+msgstr "2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "YaST2 がドイツにおける飲酒可能年齢になったのはいつ？"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "yast2 sw_single (Qt) で F2 キーを押すと何が起こる？"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "\"修正\" ビューが表示される"
 
 msgid "It crashes"
-msgstr ""
+msgstr "クラッシュする"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "ランダムなパッケージをインストールする"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "TOKIO が田植えをする"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "YaST2 のインストール画面で xterm を起動するには？"
 
 msgid "you can't"
-msgstr ""
+msgstr "起動できない"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "左上にある Geeko アイコンを 7 回押す"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "マイクに \"xterm\" とささやく (ラップトップのみ)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "YaST2 の起動中にウイジェットの階層構造を表示することができる？"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "はい、ページのタイトル部分を 7 回押せば表示されます"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "はい、任意のウイジェットの上で中ボタンを押します"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "はい、 Ctrl-Shift-Alt-Y を押します"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "いいえ、ソースを使うしかありません"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "YaST2 のボタンの上でマウスの右ボタンを押すと何が起こる？"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "ボタンのコンテキストメニューが表示される"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "ページが既定値にリセットされる"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "マウスを左利きモードに切り替えるかどうかの確認が表示される"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "ダークテーマに切り替わる"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "視覚に障害のある方向けに YaST (Qt) のカラーパレットを変更できる？"
 
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "はい、太陽と月の描かれたアイコンを押すとできます"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "はい、 Shift-F3 を押すとできます"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "はい、 \"ヘルプ\" ボタンをマウスの右ボタンで押すとできます"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
-msgstr "開始"
+msgstr "クイズの開始"
 
 msgid "Start"
 msgstr "開始"
@@ -1244,33 +1139,29 @@ msgid "Score"
 msgstr "スコア"
 
 msgid "Final"
-msgstr ""
+msgstr "最後"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Restart"
-msgstr "開始"
+msgstr "最初から"
 
 msgid "Question"
-msgstr ""
+msgstr "質問"
 
-#, fuzzy
-#| msgid "Please enter a username to submit."
 msgid "Please enter a username to proceed."
-msgstr "送信するユーザ名を入力してください。"
+msgstr "ユーザ名を入力して進めてください。"
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "ようこそ, %s さん"
 
 msgid "Are you sure you want to quit and submit?"
 msgstr "送信して終了します。よろしいですか？"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "ユーザ名が短すぎます。"
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "すみません、そのユーザ名は使用済みです。"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "終了してよろしいですか？ これまでの進捗は保存されません。"
