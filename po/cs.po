@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 00:04+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:24+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
 msgstr "openSUSE Devconf 2025"
@@ -499,10 +499,8 @@ msgstr "Která služba openSUSE se používá pro správu lokalizace a překlad�
 msgid "OBS"
 msgstr "OBS"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Build Service"
 
 msgid "Kickstart"
 msgstr "Kickstart"
@@ -513,10 +511,8 @@ msgstr "Jaký příkaz byste použili k aktualizaci softwarových balíčků v o
 msgid "zypper update"
 msgstr "zypper update"
 
-#, fuzzy
-#| msgid "zypper update"
 msgid "apt-get update"
-msgstr "zypper update"
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
 msgstr "dnf upgrade"
@@ -524,20 +520,14 @@ msgstr "dnf upgrade"
 msgid "pacman -Syu"
 msgstr "pacman -Syu"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "Co znamená slovo 'open' (otevřený) v openSUSE?"
+msgstr "Co představuje Tumbleweed v openSUSE?"
 
-#, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
-msgstr "Rolling release pro mobilní zařízení"
+msgstr "Rolling distribuci"
 
-#, fuzzy
-#| msgid "Create a desktop environment for Linux"
 msgid "A desktop environment"
-msgstr "Vytváří desktopové prostředí pro Linux"
+msgstr "Desktopové prostředí"
 
 msgid "The mascot"
 msgstr "Maskot"
@@ -545,46 +535,32 @@ msgstr "Maskot"
 msgid "An installer"
 msgstr "Instalátor"
 
-#, fuzzy
-#| msgid "What command can you use to refresh zypper repositories?"
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "Jakým příkazem aktualizujete repozitáře zypperu?"
+msgstr "Jaký příkaz se používá ke správě repozitářů v openSUSE?"
 
-#, fuzzy
-#| msgid "Sypper"
 msgid "zypper"
-msgstr "Sypper"
+msgstr "zypper"
 
 msgid "apt"
 msgstr "apt"
 
-#, fuzzy
-#| msgid "Yum"
 msgid "yum"
-msgstr "Yum"
+msgstr "yum"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman"
-msgstr "Pacman"
+msgstr "pacman"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
+msgstr "Která distribuce openSUSE je známá svou stabilitou a vydáváním point release verzí (např. 15.6)?"
 
 msgid "MicroOS"
 msgstr "MicroOS"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "Jaký je maskot projektu openSUSE?"
+msgstr "Co je hlavním zaměřením openSUSE MicroOS?"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
+msgstr "Immutable OS optimalizovaný pro kontejnery a mikroslužby"
 
 msgid "Gaming"
 msgstr "Hraní"
@@ -592,25 +568,17 @@ msgstr "Hraní"
 msgid "Desktop productivity"
 msgstr "Desktopová produktivita"
 
-#, fuzzy
-#| msgid "Scientific research"
 msgid "Scientific computing"
-msgstr "Vědecký výzkum"
+msgstr "Vědecké výpočty"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr "Co je maskotem openSUSE?"
+msgstr "Jaký nástroj se používá k vytváření a správě snapshotů v openSUSE?"
 
-#, fuzzy
-#| msgid "Snapper"
 msgid "snapper"
-msgstr "Snapper"
+msgstr "snapper"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift"
-msgstr "Timeshift"
+msgstr "timeshift"
 
 msgid "btrfs-snap"
 msgstr "btrfs-snap"
@@ -648,26 +616,20 @@ msgstr "dnf install package-name"
 msgid "pacman -S package-name"
 msgstr "pacman -S package-name"
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "Jak se jmenuje build systém openSUSE?"
+msgstr "Jak se jmenuje oficiální komunitní fórum openSUSE?"
 
 msgid "forums.opensuse.org"
 msgstr "forums.opensuse.org"
 
-#, fuzzy
-#| msgid "bugs.opensuse.com"
 msgid "discuss.opensuse.com"
-msgstr "bugs.opensuse.com"
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
 msgstr "geeko-talk.net"
 
-#, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "opensuse-chat.org"
-msgstr "fun@opensuse.org"
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr "Který nástroj se doporučuje pro správu softwarových repozitářů a balíčků v openSUSE?"
@@ -675,15 +637,11 @@ msgstr "Který nástroj se doporučuje pro správu softwarových repozitářů a
 msgid "APT"
 msgstr "APT"
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "Jak se jmenuje build systém openSUSE?"
+msgstr "Jak se jmenuje hlavní rolling release openSUSE?"
 
-#, fuzzy
-#| msgid "What does the new openSUSE-repos package manage?"
 msgid "Which file format does openSUSE use for package management?"
-msgstr "Co spravuje nový balíček openSUSE-repos?"
+msgstr "Jaký formát souborů používá openSUSE pro správu balíčků?"
 
 msgid "RPM"
 msgstr "RPM"
@@ -697,33 +655,23 @@ msgstr "APK"
 msgid "PKG"
 msgstr "PKG"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What command will list all repositories in openSUSE?"
-msgstr "Jaký je výchozí souborový systém v openSUSE?"
+msgstr "Jaký příkaz vypíše všechny repozitáře v openSUSE?"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "zypper repos"
-msgstr "zypper repolist"
+msgstr "zypper repos"
 
 msgid "apt list"
 msgstr "apt list"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "dnf repolist"
-msgstr "zypper repolist"
+msgstr "dnf repolist"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman -Q"
-msgstr "Pacman"
+msgstr "pacman -Q"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What is the primary license used by openSUSE?"
-msgstr "Co je maskotem openSUSE?"
+msgstr "Jaká je primární licence používaná openSUSE?"
 
 msgid "GPL (GNU General Public License)"
 msgstr "GPL (GNU General Public License)"
@@ -737,15 +685,11 @@ msgstr "Apache License"
 msgid "Proprietary"
 msgstr "Proprietární"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "Co znamená slovo 'open' (otevřený) v openSUSE?"
+msgstr "Co znamená zkratka OBS v kontextu openSUSE?"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
 msgstr "Online Backup System"
@@ -756,15 +700,11 @@ msgstr "Open Box Scheduler"
 msgid "Official Build System"
 msgstr "Official Build System"
 
-#, fuzzy
-#| msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr "Která openSUSE služba zrcadlí openSUSE software repozitáře po celém světě?"
+msgstr "Která služba openSUSE poskytuje službu pro sestavování balíčků a repozitáře pro balíčky?"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service (OBS)"
-msgstr "OBS (Open Build Service)"
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
 msgstr "YaST"
@@ -772,10 +712,8 @@ msgstr "YaST"
 msgid "Snapper"
 msgstr "Snapper"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
-msgstr "Jaký je maskot projektu openSUSE?"
+msgstr "Jaký je hlavní cíl projektu openSUSE?"
 
 #, fuzzy
 #| msgid "Supporting and spreading open-source software"
@@ -793,10 +731,8 @@ msgstr "Výroba videoher"
 msgid "Providing cloud services"
 msgstr "Poskytování služeb v cloudu"
 
-#, fuzzy
-#| msgid "Which tool does openSUSE use for system snapshots and rollback?"
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr "Který nástroj používá openSUSE pro systémové snapshoty a obnovení?"
+msgstr "Který nástroj openSUSE se používá pro konfiguraci a správu systému?"
 
 msgid "Gnome Control Center"
 msgstr "Gnome Control Center"
@@ -807,20 +743,14 @@ msgstr "KDE System Settings"
 msgid "Synaptic"
 msgstr "Synaptic"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "Jaký je výchozí souborový systém v openSUSE?"
+msgstr "Jaký je příkaz pro kontrolu systémových snapshotů v openSUSE?"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "snapper list"
-msgstr "zypper repolist"
+msgstr "snapper list"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift --list"
-msgstr "Timeshift"
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
 msgstr "btrfs subvolume list"
@@ -828,10 +758,8 @@ msgstr "btrfs subvolume list"
 msgid "rsnapshot config"
 msgstr "rsnapshot config"
 
-#, fuzzy
-#| msgid "What makes openSUSE special?"
 msgid "What package format does openSUSE use?"
-msgstr "Čím je openSUSE jedinečné?"
+msgstr "Jaký formát balíčků používá openSUSE?"
 
 msgid "What is the default shell in openSUSE?"
 msgstr "Jaký je výchozí shell pro příkazový řádek v openSUSE?"
@@ -839,26 +767,20 @@ msgstr "Jaký je výchozí shell pro příkazový řádek v openSUSE?"
 msgid "bash"
 msgstr "bash"
 
-#, fuzzy
-#| msgid "ash"
 msgid "zsh"
-msgstr "ash"
+msgstr "zsh"
 
 msgid "fish"
 msgstr "fish"
 
-#, fuzzy
-#| msgid "ash"
 msgid "csh"
-msgstr "ash"
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
 
-#, fuzzy
-#| msgid "Leapfrog"
 msgid "Leap Micro"
-msgstr "Leapfrog"
+msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
@@ -1034,10 +956,8 @@ msgstr "Ano, ale nemohou být použity s Linuxem."
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr "Ne, mainframy nejsou vhodné pro běhání AI uloh."
 
-#, fuzzy
-#| msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "Které z následujících I/O zařízení se obvykle nepoužívá u sálových počítačů?"
+msgstr "Které z následujících I/O zařízení se nepoužívá u sálových počítačů?"
 
 msgid "Disks"
 msgstr "Disky"
@@ -1129,10 +1049,8 @@ msgstr "Zobrazí se zobrazení „Záplat“"
 msgid "It crashes"
 msgstr "Crashne to"
 
-#, fuzzy
-#| msgid "dnf install package-name"
 msgid "It installs a random package"
-msgstr "dnf install package-name"
+msgstr "Nainstaluje náhodný balíček"
 
 msgid "The Mogwai get hungry"
 msgstr "Mogwaiové budou hladoví"
@@ -1197,10 +1115,8 @@ msgstr "Ano, použijte Shift-F3"
 msgid "Yes, right-click the \"Help\" button"
 msgstr "Ano, klikněte pravým tlačítkem myši na tlačítko „Nápověda“"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
-msgstr "Start"
+msgstr "Spustit Kvíz"
 
 msgid "Start"
 msgstr "Start"
@@ -1229,10 +1145,8 @@ msgstr "Skóre"
 msgid "Final"
 msgstr "Finální"
 
-#, fuzzy
-#| msgid "Start"
 msgid "Restart"
-msgstr "Start"
+msgstr "Restart"
 
 msgid "Question"
 msgstr "Otázka"
