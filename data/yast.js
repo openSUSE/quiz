@@ -22,7 +22,9 @@ const questions = [
     ],
   },
   {
-    text: _("How many YaST2 packages (without translation packages) are there in Tumbleweed?"),
+    text: _(
+      "How many YaST2 packages (without translation packages) are there in Tumbleweed?",
+    ),
     answers: [
       { text: _("about 30"), correct: false },
       { text: _("about 50"), correct: false },
@@ -51,7 +53,7 @@ const questions = [
   {
     text: _("What happens when you press the F2 key in yast2 sw_single (Qt)?"),
     answers: [
-      { text: _("You get the \"Patches\" view"), correct: true },
+      { text: _('You get the "Patches" view'), correct: true },
       { text: _("It crashes"), correct: false },
       { text: _("It installs a random package"), correct: false },
       { text: _("The Mogwai get hungry"), correct: false },
@@ -61,13 +63,21 @@ const questions = [
     text: _("How can you get an xterm in a YaST2 installation?"),
     answers: [
       { text: _("you can't"), correct: false },
-      { text: _("you click the Geeko icon on the top left 7 times"), correct: false },
+      {
+        text: _("you click the Geeko icon on the top left 7 times"),
+        correct: false,
+      },
       { text: _("Ctrl-Shift-Alt-X"), correct: true },
-      { text: _("you speak clearly \"xterm\" into the microphone (laptops only)"), correct: false },
+      {
+        text: _('you speak clearly "xterm" into the microphone (laptops only)'),
+        correct: false,
+      },
     ],
   },
   {
-    text: _("Can you inspect the widget hierarchy of a YaST2 window while it is running?"),
+    text: _(
+      "Can you inspect the widget hierarchy of a YaST2 window while it is running?",
+    ),
     answers: [
       { text: _("Yes, click the page heading 7 times"), correct: false },
       { text: _("Yes, middle-click any widget"), correct: false },
@@ -80,21 +90,28 @@ const questions = [
     answers: [
       { text: _("It opens the button's context menu"), correct: false },
       { text: _("It resets the page to defaults"), correct: false },
-      { text: _("It asks if you want to switch the mouse to left-handed mode"), correct: true },
-      { text: _("It switches to the dark widget theme or back"), correct: false },
+      {
+        text: _("It asks if you want to switch the mouse to left-handed mode"),
+        correct: true,
+      },
+      {
+        text: _("It switches to the dark widget theme or back"),
+        correct: false,
+      },
     ],
   },
   {
-    text: _("Can the YaST (Qt) color palette be changed for visually impaired users?"),
+    text: _(
+      "Can the YaST (Qt) color palette be changed for visually impaired users?",
+    ),
     answers: [
       { text: _("No"), correct: false },
       { text: _("Yes, click the sun/moon icon"), correct: true },
       { text: _("Yes, use Shift-F3"), correct: true },
-      { text: _("Yes, right-click the \"Help\" button"), correct: false },
+      { text: _('Yes, right-click the "Help" button'), correct: false },
     ],
   },
 ];
-
 
 // Randomize questions here if enabled
 if (quizData.randomizeQuestions) {

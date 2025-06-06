@@ -131,41 +131,57 @@ const questions = [
     ],
   },
   {
-      text: _("Where can you download openSUSE installation images?"),
-      answers: [
-        { text: _("Only from mysterious USB sticks left in coffee shops"), correct: false },
-        { text: _("From get.opensuse.org"), correct: true },
-        { text: _("By yelling 'YaST' into your terminal"), correct: false },
-        { text: _("You can’t, they’re distributed via carrier pigeon"), correct: false },
-      ],
-    },
-    {
-      text: _("Where should you report issues you find in openSUSE?"),
-      answers: [
-        { text: _("Just shout at your screen and hope for the best"), correct: false },
-        { text: _("Send a strongly worded letter to Geeko"), correct: false },
-        { text: _("Submit it on bugzilla.opensuse.org"), correct: true },
-        { text: _("Write it in your diary and move on"), correct: false },
-      ],
-    },
-    {
-      text: _("Where can you find events to join and participate in with the openSUSE community?"),
-      answers: [
-        { text: _("Try decoding ancient Geeko scrolls"), correct: false },
-        { text: _("On calendar.opensuse.org"), correct: true },
-        { text: _("Look under your keyboard for hidden clues"), correct: false },
-        { text: _("Events are revealed only during a full moon"), correct: false },
-      ],
-    },
-    {
-      text: _("Where can you ask for help when you're lost in the openSUSE universe?"),
-      answers: [
-        { text: _("forums.opensuse.org"), correct: true },
-        { text: _("discuss.opensuse.com"), correct: false },
-        { text: _("geeko-talk.net"), correct: false },
-        { text: _("opensuse-chat.org"), correct: false },
-      ],
-    },
+    text: _("Where can you download openSUSE installation images?"),
+    answers: [
+      {
+        text: _("Only from mysterious USB sticks left in coffee shops"),
+        correct: false,
+      },
+      { text: _("From get.opensuse.org"), correct: true },
+      { text: _("By yelling 'YaST' into your terminal"), correct: false },
+      {
+        text: _("You can’t, they’re distributed via carrier pigeon"),
+        correct: false,
+      },
+    ],
+  },
+  {
+    text: _("Where should you report issues you find in openSUSE?"),
+    answers: [
+      {
+        text: _("Just shout at your screen and hope for the best"),
+        correct: false,
+      },
+      { text: _("Send a strongly worded letter to Geeko"), correct: false },
+      { text: _("Submit it on bugzilla.opensuse.org"), correct: true },
+      { text: _("Write it in your diary and move on"), correct: false },
+    ],
+  },
+  {
+    text: _(
+      "Where can you find events to join and participate in with the openSUSE community?",
+    ),
+    answers: [
+      { text: _("Try decoding ancient Geeko scrolls"), correct: false },
+      { text: _("On calendar.opensuse.org"), correct: true },
+      { text: _("Look under your keyboard for hidden clues"), correct: false },
+      {
+        text: _("Events are revealed only during a full moon"),
+        correct: false,
+      },
+    ],
+  },
+  {
+    text: _(
+      "Where can you ask for help when you're lost in the openSUSE universe?",
+    ),
+    answers: [
+      { text: _("forums.opensuse.org"), correct: true },
+      { text: _("discuss.opensuse.com"), correct: false },
+      { text: _("geeko-talk.net"), correct: false },
+      { text: _("opensuse-chat.org"), correct: false },
+    ],
+  },
 ];
 
 // Randomize questions here if enabled
