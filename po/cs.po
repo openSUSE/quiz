@@ -1,161 +1,16 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:24+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
-
-msgid "openSUSE Devconf 2025"
-msgstr "openSUSE Devconf 2025"
-
-msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr "Nebojte se, tento kvíz je převážně vzdělávací. Není třeba znát všechny odpovědi."
-
-msgid "What is the mascot of openSUSE project?"
-msgstr "Jaký je maskot projektu openSUSE?"
-
-msgid "Pascal"
-msgstr "Pascal"
-
-msgid "TwoPac"
-msgstr "TwoPac"
-
-msgid "Geeko"
-msgstr "Geeko"
-
-msgid "BeefyMiracle"
-msgstr "BeefyMiracle"
-
-msgid "What is the main goal of the openSUSE project?"
-msgstr "Jaký je hlavní cíl projektu openSUSE?"
-
-msgid "Supporting and spreading open-source software"
-msgstr "Podpora a šíření open-source softwaru"
-
-msgid "Developing mobile applications"
-msgstr "Vývoj mobilních aplikací"
-
-msgid "Producing video games"
-msgstr "Výroba videoher"
-
-msgid "Research in artificial intelligence"
-msgstr "Výzkum v oblasti umělé inteligence"
-
-msgid "What are Aeon and Kalpa?"
-msgstr "Co jsou Aeon a Kalpa?"
-
-msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "Moderní 'Immutable' desktopové systémy s GNOME a KDE"
-
-msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Rolling distribuce s transakčními aktualizacemi používající flatpaky na desktopu"
-
-msgid "Distributions built on top of MicroOS"
-msgstr "Distribuce založené na MicroOS"
-
-msgid "All options are correct"
-msgstr "Všechny možnosti jsou správné"
-
-msgid "Where was the openSUSE project founded?"
-msgstr "Kde byl projekt openSUSE založen?"
-
-msgid "In Choustníkovo Hradiště"
-msgstr "V Choustníkově Hradišti"
-
-msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "Na LinuxWorld Conference & Expo 2005 v San Franciscu"
-
-msgid "In Redmont"
-msgstr "V Redmontu"
-
-msgid "At the University of Helsinki"
-msgstr "Na Univerzitě v Helsinkách"
-
-msgid "What is the default filesystem in openSUSE?"
-msgstr "Jaký je výchozí souborový systém v openSUSE?"
-
-msgid "ReiserFS"
-msgstr "ReiserFS"
-
-msgid "Btrfs"
-msgstr "Btrfs"
-
-msgid "XFS"
-msgstr "XFS"
-
-msgid "InterPlanetary File System"
-msgstr "InterPlanetary File System"
-
-msgid "What’s the name of the new installer in Leap 16?"
-msgstr "Jak se jmenuje nový instalátor v Leap 16?"
-
-msgid "Sypper"
-msgstr "Sypper"
-
-msgid "Agama"
-msgstr "Agama"
-
-msgid "Anaconda"
-msgstr "Anaconda"
-
-msgid "Cayman"
-msgstr "Cayman"
-
-msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
-
-msgid "MicroOS and Leap Micro"
-msgstr "MicroOS a Leap Micro"
-
-msgid "Tumbleweed"
-msgstr "Tumbleweed"
-
-msgid "Leap"
-msgstr "Leap"
-
-msgid "Slowroll"
-msgstr "Slowroll"
-
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
-msgid "What is Leap 16.0?"
-msgstr "Co je Leap 16.0?"
-
-msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
-
-msgid "An immutable distribution with GNOME and KDE"
-msgstr "Immutable distribuce s GNOME a KDE"
-
-msgid "A rolling release for mobile devices"
-msgstr "Rolling release pro mobilní zařízení"
-
-msgid "A container-focused system like MicroOS"
-msgstr "Systém zaměřený na kontejnery jako MicroOS"
-
-msgid "Can you play Windows games on openSUSE?"
-msgstr "Můžete hrát hry pro Windows na openSUSE?"
-
-msgid "No way, only Windows can do that"
-msgstr "Vůbec, to jde jen na Windows"
-
-msgid "Of course! Just fire up Steam and game on"
-msgstr "Jasně! Stačí nahodit Steam a můžu hrát"
-
-msgid "Only if you summon the gaming gods"
-msgstr "Pouze pokud přivoláte herní bohy"
-
-msgid "You need a secret handshake first"
-msgstr "Nejdřív ale potřebuješ tajné podání ruky"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-06 11:34+0200\n"
+"PO-Revision-Date: 2025-06-06 09:24+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
+"Language: cs\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s Chameleony pro děti!"
@@ -319,6 +174,111 @@ msgstr "openSUSE Expert"
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "Zapojujte se do soutěže s ostatními uživateli. 30 sekund na otázku. Můžete kdykoli skončit."
 
+msgid "What is the mascot of openSUSE project?"
+msgstr "Jaký je maskot projektu openSUSE?"
+
+msgid "Pascal"
+msgstr "Pascal"
+
+msgid "TwoPac"
+msgstr "TwoPac"
+
+msgid "Geeko"
+msgstr "Geeko"
+
+msgid "BeefyMiracle"
+msgstr "BeefyMiracle"
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr "Jaký je hlavní cíl projektu openSUSE?"
+
+msgid "Supporting and spreading open-source software"
+msgstr "Podpora a šíření open-source softwaru"
+
+msgid "Developing mobile applications"
+msgstr "Vývoj mobilních aplikací"
+
+msgid "Producing video games"
+msgstr "Výroba videoher"
+
+msgid "Research in artificial intelligence"
+msgstr "Výzkum v oblasti umělé inteligence"
+
+msgid "What are Aeon and Kalpa?"
+msgstr "Co jsou Aeon a Kalpa?"
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr "Moderní 'Immutable' desktopové systémy s GNOME a KDE"
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Rolling distribuce s transakčními aktualizacemi používající flatpaky na desktopu"
+
+msgid "Distributions built on top of MicroOS"
+msgstr "Distribuce založené na MicroOS"
+
+msgid "All options are correct"
+msgstr "Všechny možnosti jsou správné"
+
+msgid "Where was the openSUSE project founded?"
+msgstr "Kde byl projekt openSUSE založen?"
+
+msgid "In Choustníkovo Hradiště"
+msgstr "V Choustníkově Hradišti"
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr "Na LinuxWorld Conference & Expo 2005 v San Franciscu"
+
+msgid "In Redmont"
+msgstr "V Redmontu"
+
+msgid "At the University of Helsinki"
+msgstr "Na Univerzitě v Helsinkách"
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr "Jaký je výchozí souborový systém v openSUSE?"
+
+msgid "ReiserFS"
+msgstr "ReiserFS"
+
+msgid "Btrfs"
+msgstr "Btrfs"
+
+msgid "XFS"
+msgstr "XFS"
+
+msgid "InterPlanetary File System"
+msgstr "InterPlanetary File System"
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr "Jak se jmenuje nový instalátor v Leap 16?"
+
+msgid "Sypper"
+msgstr "Sypper"
+
+msgid "Agama"
+msgstr "Agama"
+
+msgid "Anaconda"
+msgstr "Anaconda"
+
+msgid "Cayman"
+msgstr "Cayman"
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Která distribuce openSUSE je optimalizovaná pro běh kontejnerů a mikro služeb?"
+
+msgid "MicroOS and Leap Micro"
+msgstr "MicroOS a Leap Micro"
+
+msgid "Tumbleweed"
+msgstr "Tumbleweed"
+
+msgid "Leap"
+msgstr "Leap"
+
+msgid "Slowroll"
+msgstr "Slowroll"
+
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
 msgstr "Která rolling distribuce openSUSE nabízí klidnější alternativu k Tumbleweed pro uživatele, kteří preferují méně překvapení?"
 
@@ -330,6 +290,36 @@ msgstr "Leapfrog"
 
 msgid "Zyppernap"
 msgstr "Zyppernap"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
+
+msgid "What is Leap 16.0?"
+msgstr "Co je Leap 16.0?"
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Tradiční Linuxová distribuce, nástupce Leap 15.6, vydaná na podzim 2025"
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr "Immutable distribuce s GNOME a KDE"
+
+msgid "A rolling release for mobile devices"
+msgstr "Rolling release pro mobilní zařízení"
+
+msgid "A container-focused system like MicroOS"
+msgstr "Systém zaměřený na kontejnery jako MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
@@ -785,6 +775,87 @@ msgstr "Leap Micro"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
+#, fuzzy
+#| msgid "openSUSE Gathering"
+msgid "openSUSE Greenhorn"
+msgstr "openSUSE Gathering"
+
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "Nebojte se, tento kvíz je převážně vzdělávací. Není třeba znát všechny odpovědi."
+
+msgid "Can you play Windows games on openSUSE?"
+msgstr "Můžete hrát hry pro Windows na openSUSE?"
+
+msgid "No way, only Windows can do that"
+msgstr "Vůbec, to jde jen na Windows"
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr "Jasně! Stačí nahodit Steam a můžu hrát"
+
+msgid "Only if you summon the gaming gods"
+msgstr "Pouze pokud přivoláte herní bohy"
+
+msgid "You need a secret handshake first"
+msgstr "Nejdřív ale potřebuješ tajné podání ruky"
+
+msgid "Where can you download openSUSE installation images?"
+msgstr ""
+
+msgid "Only from mysterious USB sticks left in coffee shops"
+msgstr ""
+
+#, fuzzy
+#| msgid "forums.opensuse.org"
+msgid "From get.opensuse.org"
+msgstr "forums.opensuse.org"
+
+msgid "By yelling 'YaST' into your terminal"
+msgstr ""
+
+msgid "You can’t, they’re distributed via carrier pigeon"
+msgstr ""
+
+msgid "Where should you report issues you find in openSUSE?"
+msgstr ""
+
+msgid "Just shout at your screen and hope for the best"
+msgstr ""
+
+msgid "Send a strongly worded letter to Geeko"
+msgstr ""
+
+#, fuzzy
+#| msgid "bugzilla.opensuse.org"
+msgid "Submit it on bugzilla.opensuse.org"
+msgstr "bugzilla.opensuse.org"
+
+msgid "Write it in your diary and move on"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?"
+msgid "Where can you find events to join and participate in with the openSUSE community?"
+msgstr "Kde můžete nalézt nekonečnou moudrost, občasné výlevy a spoustu užitečných rad od komunity openSUSE?"
+
+msgid "Try decoding ancient Geeko scrolls"
+msgstr ""
+
+#, fuzzy
+#| msgid "bugzilla.opensuse.org"
+msgid "On calendar.opensuse.org"
+msgstr "bugzilla.opensuse.org"
+
+msgid "Look under your keyboard for hidden clues"
+msgstr ""
+
+msgid "Events are revealed only during a full moon"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where can you check the current status of openSUSE infrastructure?"
+msgid "Where can you ask for help when you're lost in the openSUSE universe?"
+msgstr "Kde můžete zkontrolovat aktuální stav infrastruktury openSUSE?"
+
 msgid "s390x Expert"
 msgstr "s390x Expert"
 
@@ -970,9 +1041,6 @@ msgstr "Síť"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
-
-msgid "test"
-msgstr "test"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Ultimátní YaST Výzva"
@@ -1172,6 +1240,12 @@ msgstr "Uživatelské jméno má již někdo jiný."
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 
+#~ msgid "openSUSE Devconf 2025"
+#~ msgstr "openSUSE Devconf 2025"
+
+#~ msgid "test"
+#~ msgstr "test"
+
 #~ msgid "Language"
 #~ msgstr "Jazyk"
 
@@ -1277,9 +1351,6 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "Where can you submit bug reports related to openSUSE packages?"
 #~ msgstr "Kam můžete posílat bug reporty oproti openSUSE balíčkům?"
 
-#~ msgid "bugzilla.opensuse.org"
-#~ msgstr "bugzilla.opensuse.org"
-
 #~ msgid "issues.opensuse.org"
 #~ msgstr "issues.opensuse.org"
 
@@ -1367,9 +1438,6 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 #~ msgid "What is the main openSUSE conference called?"
 #~ msgstr "Jak se jmenuje hlavní openSUSE konference?"
 
-#~ msgid "openSUSE Gathering"
-#~ msgstr "openSUSE Gathering"
-
 #~ msgid "openSUSE Fest"
 #~ msgstr "openSUSE Fest"
 
@@ -1393,9 +1461,6 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 
 #~ msgid "steam roller"
 #~ msgstr "parní válec"
-
-#~ msgid "Where can you find endless wisdom, occasional rants, and a lot of helpful penguin-powered advice from the openSUSE community?"
-#~ msgstr "Kde můžete nalézt nekonečnou moudrost, občasné výlevy a spoustu užitečných rad od komunity openSUSE?"
 
 #~ msgid "Under Geeko’s pillow"
 #~ msgstr "Pod Geekovým polštářem"

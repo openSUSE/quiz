@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 01:19+0200\n"
+"POT-Creation-Date: 2025-06-06 11:34+0200\n"
 "PO-Revision-Date: 2025-06-05 23:53+0000\n"
 "Last-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\n"
 "Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
@@ -11,164 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.11.4\n"
-
-msgid "openSUSE Devconf 2025"
-msgstr "openSUSE Devconf 2025"
-
-msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr "Endişelenmeyin bu sınav çoğunlukla eğitici. Tüm cevapları bilmenize gerek yok."
-
-msgid "What is the mascot of openSUSE project?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
-
-msgid "Pascal"
-msgstr "Pascal"
-
-msgid "TwoPac"
-msgstr "TwoPac"
-
-msgid "Geeko"
-msgstr "Geeko"
-
-msgid "BeefyMiracle"
-msgstr "BeefyMiracle"
-
-msgid "What is the main goal of the openSUSE project?"
-msgstr "OpenSUSE projesinin temel amacı nedir?"
-
-msgid "Supporting and spreading open-source software"
-msgstr "Açık kaynaklı yazılımların desteklenmesi ve yaygınlaştırılması"
-
-msgid "Developing mobile applications"
-msgstr "Mobil uygulama geliştirme"
-
-msgid "Producing video games"
-msgstr "Video oyunları üretmek"
-
-msgid "Research in artificial intelligence"
-msgstr "Yapay zeka alanında araştırmak yapmak"
-
-msgid "What are Aeon and Kalpa?"
-msgstr "Aeon ve Kalpa nedir?"
-
-msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "GNOME ve KDE ile modern 'Değiştirilemez' masaüstleri"
-
-msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Masaüstünde flatpak kullanarak \"işlemsel güncelleme\" yapabilen sürekli güncellenen dağıtımlardır"
-
-msgid "Distributions built on top of MicroOS"
-msgstr "MicroOS üzerine inşa edilen dağıtımlar"
-
-msgid "All options are correct"
-msgstr "Tüm seçenekler doğrudur"
-
-msgid "Where was the openSUSE project founded?"
-msgstr "OpenSUSE projesi nerede kuruldu?"
-
-msgid "In Choustníkovo Hradiště"
-msgstr "Choustníkovo Hradiště'de"
-
-msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "2005 yılındaki San Francisco'daki LinuxWorld Konferansı ve Fuarı"
-
-msgid "In Redmont"
-msgstr "Redmont"
-
-#, fuzzy
-#| msgid "At the University of Helsinky"
-msgid "At the University of Helsinki"
-msgstr "Helsinky Üniversitesi"
-
-msgid "What is the default filesystem in openSUSE?"
-msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
-
-msgid "ReiserFS"
-msgstr "ReiserFS"
-
-msgid "Btrfs"
-msgstr "Btrfs"
-
-msgid "XFS"
-msgstr "XFS"
-
-msgid "InterPlanetary File System"
-msgstr "InterPlanetary File System"
-
-msgid "What’s the name of the new installer in Leap 16?"
-msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
-
-msgid "Sypper"
-msgstr "Sypper"
-
-msgid "Agama"
-msgstr "Agama"
-
-msgid "Anaconda"
-msgstr "Anaconda"
-
-msgid "Cayman"
-msgstr "Cayman"
-
-msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Hangi openSUSE dağıtımı konteyner ve mikro servisleri çalıştırmak için optimize edilmiştir?"
-
-msgid "MicroOS and Leap Micro"
-msgstr "MicroOS ve Leap Micro"
-
-msgid "Tumbleweed"
-msgstr "Tumbleweed"
-
-msgid "Leap"
-msgstr "Leap"
-
-msgid "Slowroll"
-msgstr "Slowroll"
-
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket yöneticisidir?"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
-msgid "What is Leap 16.0?"
-msgstr "Leap 16.0 nedir ?"
-
-msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Leap 15.6'nın halefi olan ve 2025 Sonbaharında piyasaya sürülen geleneksel bir Linux dağıtımı"
-
-msgid "An immutable distribution with GNOME and KDE"
-msgstr "GNOME ve KDE ile değiştirilemez bir dağıtım"
-
-msgid "A rolling release for mobile devices"
-msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
-
-msgid "A container-focused system like MicroOS"
-msgstr "MicroOS gibi konteyner odaklı bir sistem"
-
-msgid "Can you play Windows games on openSUSE?"
-msgstr "openSUSE'de Windows oyunları oynayabilir misiniz?"
-
-msgid "No way, only Windows can do that"
-msgstr "Hayır, bunu sadece Windows yapabilir"
-
-msgid "Of course! Just fire up Steam and game on"
-msgstr "Tabii ki! Sadece Steam'i aç ve oyna"
-
-msgid "Only if you summon the gaming gods"
-msgstr "Sadece oyun tanrılarını çağırırsan"
-
-msgid "You need a secret handshake first"
-msgstr "Önce gizli bir el sıkışmaya ihtiyacın var"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Çocuklar için Bukalemun Eğlencesi!"
@@ -339,6 +181,113 @@ msgstr "openSUSE Uzmanı"
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "Skor tahtamızdaki diğer kullanıcılara meydan oku. Soru başına 30 saniye. İstediğin zaman durdur."
 
+msgid "What is the mascot of openSUSE project?"
+msgstr "OpenSUSE projesinin maskotu nedir?"
+
+msgid "Pascal"
+msgstr "Pascal"
+
+msgid "TwoPac"
+msgstr "TwoPac"
+
+msgid "Geeko"
+msgstr "Geeko"
+
+msgid "BeefyMiracle"
+msgstr "BeefyMiracle"
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr "OpenSUSE projesinin temel amacı nedir?"
+
+msgid "Supporting and spreading open-source software"
+msgstr "Açık kaynaklı yazılımların desteklenmesi ve yaygınlaştırılması"
+
+msgid "Developing mobile applications"
+msgstr "Mobil uygulama geliştirme"
+
+msgid "Producing video games"
+msgstr "Video oyunları üretmek"
+
+msgid "Research in artificial intelligence"
+msgstr "Yapay zeka alanında araştırmak yapmak"
+
+msgid "What are Aeon and Kalpa?"
+msgstr "Aeon ve Kalpa nedir?"
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr "GNOME ve KDE ile modern 'Değiştirilemez' masaüstleri"
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Masaüstünde flatpak kullanarak \"işlemsel güncelleme\" yapabilen sürekli güncellenen dağıtımlardır"
+
+msgid "Distributions built on top of MicroOS"
+msgstr "MicroOS üzerine inşa edilen dağıtımlar"
+
+msgid "All options are correct"
+msgstr "Tüm seçenekler doğrudur"
+
+msgid "Where was the openSUSE project founded?"
+msgstr "OpenSUSE projesi nerede kuruldu?"
+
+msgid "In Choustníkovo Hradiště"
+msgstr "Choustníkovo Hradiště'de"
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr "2005 yılındaki San Francisco'daki LinuxWorld Konferansı ve Fuarı"
+
+msgid "In Redmont"
+msgstr "Redmont"
+
+#, fuzzy
+#| msgid "At the University of Helsinky"
+msgid "At the University of Helsinki"
+msgstr "Helsinky Üniversitesi"
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
+
+msgid "ReiserFS"
+msgstr "ReiserFS"
+
+msgid "Btrfs"
+msgstr "Btrfs"
+
+msgid "XFS"
+msgstr "XFS"
+
+msgid "InterPlanetary File System"
+msgstr "InterPlanetary File System"
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
+
+msgid "Sypper"
+msgstr "Sypper"
+
+msgid "Agama"
+msgstr "Agama"
+
+msgid "Anaconda"
+msgstr "Anaconda"
+
+msgid "Cayman"
+msgstr "Cayman"
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Hangi openSUSE dağıtımı konteyner ve mikro servisleri çalıştırmak için optimize edilmiştir?"
+
+msgid "MicroOS and Leap Micro"
+msgstr "MicroOS ve Leap Micro"
+
+msgid "Tumbleweed"
+msgstr "Tumbleweed"
+
+msgid "Leap"
+msgstr "Leap"
+
+msgid "Slowroll"
+msgstr "Slowroll"
+
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
 msgstr "Hangi openSUSE sürekli güncellenen dağıtımı, daha az sürprizlerle karşılaşmak isteyen kullanıcılara daha sakin bir alternatif sunar?"
 
@@ -350,6 +299,36 @@ msgstr "Leapfrog"
 
 msgid "Zyppernap"
 msgstr "Zyppernap"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket yöneticisidir?"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
+
+msgid "What is Leap 16.0?"
+msgstr "Leap 16.0 nedir ?"
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Leap 15.6'nın halefi olan ve 2025 Sonbaharında piyasaya sürülen geleneksel bir Linux dağıtımı"
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr "GNOME ve KDE ile değiştirilemez bir dağıtım"
+
+msgid "A rolling release for mobile devices"
+msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
+
+msgid "A container-focused system like MicroOS"
+msgstr "MicroOS gibi konteyner odaklı bir sistem"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
@@ -835,6 +814,85 @@ msgstr "MicroOS ve Leap Micro"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Greenhorn"
+msgstr "openSUSE Uzman"
+
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "Endişelenmeyin bu sınav çoğunlukla eğitici. Tüm cevapları bilmenize gerek yok."
+
+msgid "Can you play Windows games on openSUSE?"
+msgstr "openSUSE'de Windows oyunları oynayabilir misiniz?"
+
+msgid "No way, only Windows can do that"
+msgstr "Hayır, bunu sadece Windows yapabilir"
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr "Tabii ki! Sadece Steam'i aç ve oyna"
+
+msgid "Only if you summon the gaming gods"
+msgstr "Sadece oyun tanrılarını çağırırsan"
+
+msgid "You need a secret handshake first"
+msgstr "Önce gizli bir el sıkışmaya ihtiyacın var"
+
+msgid "Where can you download openSUSE installation images?"
+msgstr ""
+
+msgid "Only from mysterious USB sticks left in coffee shops"
+msgstr ""
+
+#, fuzzy
+#| msgid "forums.opensuse.org"
+msgid "From get.opensuse.org"
+msgstr "forums.opensuse.org"
+
+msgid "By yelling 'YaST' into your terminal"
+msgstr ""
+
+msgid "You can’t, they’re distributed via carrier pigeon"
+msgstr ""
+
+msgid "Where should you report issues you find in openSUSE?"
+msgstr ""
+
+msgid "Just shout at your screen and hope for the best"
+msgstr ""
+
+msgid "Send a strongly worded letter to Geeko"
+msgstr ""
+
+#, fuzzy
+#| msgid "status.opensuse.org"
+msgid "Submit it on bugzilla.opensuse.org"
+msgstr "status.opensuse.org"
+
+msgid "Write it in your diary and move on"
+msgstr ""
+
+msgid "Where can you find events to join and participate in with the openSUSE community?"
+msgstr ""
+
+msgid "Try decoding ancient Geeko scrolls"
+msgstr ""
+
+#, fuzzy
+#| msgid "status.opensuse.org"
+msgid "On calendar.opensuse.org"
+msgstr "status.opensuse.org"
+
+msgid "Look under your keyboard for hidden clues"
+msgstr ""
+
+msgid "Events are revealed only during a full moon"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where can you check the current status of openSUSE infrastructure?"
+msgid "Where can you ask for help when you're lost in the openSUSE universe?"
+msgstr "openSUSE altyapısının mevcut durumunu nereden kontrol edebilirsiniz?"
+
 msgid "s390x Expert"
 msgstr "s390x Uzmanı"
 
@@ -1020,9 +1078,6 @@ msgstr "Ağ"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
-
-msgid "test"
-msgstr "test"
 
 msgid "The Ultimate YaST Challenge"
 msgstr ""
@@ -1224,6 +1279,12 @@ msgstr "Üzgünüz, bu kullanıcı adı zaten alınmış."
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek."
 
+#~ msgid "openSUSE Devconf 2025"
+#~ msgstr "openSUSE Devconf 2025"
+
+#~ msgid "test"
+#~ msgstr "test"
+
 #, fuzzy
 #~ msgid "Language"
 #~ msgstr "Dil Seçimi"
@@ -1301,11 +1362,6 @@ msgstr "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek."
 #~| msgid "What is the mascot of openSUSE project?"
 #~ msgid "What is the main openSUSE conference called?"
 #~ msgstr "OpenSUSE projesinin maskotu nedir?"
-
-#, fuzzy
-#~| msgid "openSUSE Expert"
-#~ msgid "openSUSE Gathering"
-#~ msgstr "openSUSE Uzman"
 
 #, fuzzy
 #~| msgid "openSUSE Expert"

@@ -1,161 +1,16 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:37+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
-
-msgid "openSUSE Devconf 2025"
-msgstr "openSUSE Devconf 2025"
-
-msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr "No us preocupeu, aquest qüestionari és principalment educatiu. No cal saber-ne totes les respostes."
-
-msgid "What is the mascot of openSUSE project?"
-msgstr "Quina és la mascota del projecte openSUSE?"
-
-msgid "Pascal"
-msgstr "Pascal"
-
-msgid "TwoPac"
-msgstr "TwoPac"
-
-msgid "Geeko"
-msgstr "Geeko"
-
-msgid "BeefyMiracle"
-msgstr "BeefyMiracle"
-
-msgid "What is the main goal of the openSUSE project?"
-msgstr "Quin és l'objectiu principal del projecte openSUSE?"
-
-msgid "Supporting and spreading open-source software"
-msgstr "Suport i difusió de programari de codi obert"
-
-msgid "Developing mobile applications"
-msgstr "Desenvolupament d'aplicacions mòbils"
-
-msgid "Producing video games"
-msgstr "Producció de videojocs"
-
-msgid "Research in artificial intelligence"
-msgstr "Recerca en intel·ligència artificial"
-
-msgid "What are Aeon and Kalpa?"
-msgstr "Què són Aeon i Kalpa?"
-
-msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "Escriptoris moderns immutables amb GNOME i KDE"
-
-msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Distribucions progressives amb actualitzacions transaccionals mitjançant flatpaks a l'escriptori"
-
-msgid "Distributions built on top of MicroOS"
-msgstr "Distribucions creades sobre MicroOS"
-
-msgid "All options are correct"
-msgstr "Totes les opcions són correctes"
-
-msgid "Where was the openSUSE project founded?"
-msgstr "On es va fundar el projecte openSUSE?"
-
-msgid "In Choustníkovo Hradiště"
-msgstr "A Choustníkovo Hradiště"
-
-msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "A la conferència i exposició LinuxWorld de 2005 a San Francisco"
-
-msgid "In Redmont"
-msgstr "A Redmont"
-
-msgid "At the University of Helsinki"
-msgstr "A la Universitat de Hèlsinki"
-
-msgid "What is the default filesystem in openSUSE?"
-msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
-
-msgid "ReiserFS"
-msgstr "ReiserFS"
-
-msgid "Btrfs"
-msgstr "Btrfs"
-
-msgid "XFS"
-msgstr "XFS"
-
-msgid "InterPlanetary File System"
-msgstr "Sistema de fitxers interplanetari"
-
-msgid "What’s the name of the new installer in Leap 16?"
-msgstr "Com es diu l'instal·lador nou del Leap 16?"
-
-msgid "Sypper"
-msgstr "Sypper"
-
-msgid "Agama"
-msgstr "Agama"
-
-msgid "Anaconda"
-msgstr "Anaconda"
-
-msgid "Cayman"
-msgstr "Cayman"
-
-msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Quina distribució d'openSUSE està optimitzada per executar contenidors i microserveis?"
-
-msgid "MicroOS and Leap Micro"
-msgstr "MicroSO i Leap Micro"
-
-msgid "Tumbleweed"
-msgstr "Tumbleweed"
-
-msgid "Leap"
-msgstr "Leap"
-
-msgid "Slowroll"
-msgstr "Slowroll"
-
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
-msgid "What is Leap 16.0?"
-msgstr "Què és Leap 16.0?"
-
-msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Una distribució tradicional de Linux, la successora de Leap 15.6, publicada a la tardor de 2025"
-
-msgid "An immutable distribution with GNOME and KDE"
-msgstr "Una distribució immutable amb GNOME i KDE"
-
-msgid "A rolling release for mobile devices"
-msgstr "Una versió contínua per a dispositius mòbils"
-
-msgid "A container-focused system like MicroOS"
-msgstr "Un sistema centrat en contenidors com ara MicroSO"
-
-msgid "Can you play Windows games on openSUSE?"
-msgstr "És possible jugar a jocs de Windows a l'openSUSE?"
-
-msgid "No way, only Windows can do that"
-msgstr "De cap manera, només Windows ho pot fer"
-
-msgid "Of course! Just fire up Steam and game on"
-msgstr "Per descomptat! Només cal obrir l'Steam i jugar-hi"
-
-msgid "Only if you summon the gaming gods"
-msgstr "Només si s'invoquen els déus del joc"
-
-msgid "You need a secret handshake first"
-msgstr "Primer cal una encaixada de mans secreta"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-06 11:34+0200\n"
+"PO-Revision-Date: 2025-06-06 09:37+0000\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
+"Language: ca\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -319,6 +174,111 @@ msgstr "Expert d'openSUSE"
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "Desafieu altres usuaris a la nostra taula de classificació. 30 segons per pregunta. Atureu-vos en qualsevol moment."
 
+msgid "What is the mascot of openSUSE project?"
+msgstr "Quina és la mascota del projecte openSUSE?"
+
+msgid "Pascal"
+msgstr "Pascal"
+
+msgid "TwoPac"
+msgstr "TwoPac"
+
+msgid "Geeko"
+msgstr "Geeko"
+
+msgid "BeefyMiracle"
+msgstr "BeefyMiracle"
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr "Quin és l'objectiu principal del projecte openSUSE?"
+
+msgid "Supporting and spreading open-source software"
+msgstr "Suport i difusió de programari de codi obert"
+
+msgid "Developing mobile applications"
+msgstr "Desenvolupament d'aplicacions mòbils"
+
+msgid "Producing video games"
+msgstr "Producció de videojocs"
+
+msgid "Research in artificial intelligence"
+msgstr "Recerca en intel·ligència artificial"
+
+msgid "What are Aeon and Kalpa?"
+msgstr "Què són Aeon i Kalpa?"
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr "Escriptoris moderns immutables amb GNOME i KDE"
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Distribucions progressives amb actualitzacions transaccionals mitjançant flatpaks a l'escriptori"
+
+msgid "Distributions built on top of MicroOS"
+msgstr "Distribucions creades sobre MicroOS"
+
+msgid "All options are correct"
+msgstr "Totes les opcions són correctes"
+
+msgid "Where was the openSUSE project founded?"
+msgstr "On es va fundar el projecte openSUSE?"
+
+msgid "In Choustníkovo Hradiště"
+msgstr "A Choustníkovo Hradiště"
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr "A la conferència i exposició LinuxWorld de 2005 a San Francisco"
+
+msgid "In Redmont"
+msgstr "A Redmont"
+
+msgid "At the University of Helsinki"
+msgstr "A la Universitat de Hèlsinki"
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+
+msgid "ReiserFS"
+msgstr "ReiserFS"
+
+msgid "Btrfs"
+msgstr "Btrfs"
+
+msgid "XFS"
+msgstr "XFS"
+
+msgid "InterPlanetary File System"
+msgstr "Sistema de fitxers interplanetari"
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr "Com es diu l'instal·lador nou del Leap 16?"
+
+msgid "Sypper"
+msgstr "Sypper"
+
+msgid "Agama"
+msgstr "Agama"
+
+msgid "Anaconda"
+msgstr "Anaconda"
+
+msgid "Cayman"
+msgstr "Cayman"
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "Quina distribució d'openSUSE està optimitzada per executar contenidors i microserveis?"
+
+msgid "MicroOS and Leap Micro"
+msgstr "MicroSO i Leap Micro"
+
+msgid "Tumbleweed"
+msgstr "Tumbleweed"
+
+msgid "Leap"
+msgstr "Leap"
+
+msgid "Slowroll"
+msgstr "Slowroll"
+
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
 msgstr "Quina distribució progressiva d'openSUSE ofereix una alternativa més tranquil·la respecte del Tumbleweed per als usuaris que prefereixen menys sorpreses?"
 
@@ -330,6 +290,36 @@ msgstr "Leapfrog"
 
 msgid "Zyppernap"
 msgstr "Zyppernap"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
+
+msgid "What is Leap 16.0?"
+msgstr "Què és Leap 16.0?"
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Una distribució tradicional de Linux, la successora de Leap 15.6, publicada a la tardor de 2025"
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr "Una distribució immutable amb GNOME i KDE"
+
+msgid "A rolling release for mobile devices"
+msgstr "Una versió contínua per a dispositius mòbils"
+
+msgid "A container-focused system like MicroOS"
+msgstr "Un sistema centrat en contenidors com ara MicroSO"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
@@ -785,6 +775,85 @@ msgstr "Leapfrog"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Greenhorn"
+msgstr "Expert d'openSUSE"
+
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "No us preocupeu, aquest qüestionari és principalment educatiu. No cal saber-ne totes les respostes."
+
+msgid "Can you play Windows games on openSUSE?"
+msgstr "És possible jugar a jocs de Windows a l'openSUSE?"
+
+msgid "No way, only Windows can do that"
+msgstr "De cap manera, només Windows ho pot fer"
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr "Per descomptat! Només cal obrir l'Steam i jugar-hi"
+
+msgid "Only if you summon the gaming gods"
+msgstr "Només si s'invoquen els déus del joc"
+
+msgid "You need a secret handshake first"
+msgstr "Primer cal una encaixada de mans secreta"
+
+msgid "Where can you download openSUSE installation images?"
+msgstr ""
+
+msgid "Only from mysterious USB sticks left in coffee shops"
+msgstr ""
+
+#, fuzzy
+#| msgid "forums.opensuse.org"
+msgid "From get.opensuse.org"
+msgstr "forums.opensuse.org"
+
+msgid "By yelling 'YaST' into your terminal"
+msgstr ""
+
+msgid "You can’t, they’re distributed via carrier pigeon"
+msgstr ""
+
+msgid "Where should you report issues you find in openSUSE?"
+msgstr ""
+
+msgid "Just shout at your screen and hope for the best"
+msgstr ""
+
+msgid "Send a strongly worded letter to Geeko"
+msgstr ""
+
+#, fuzzy
+#| msgid "bugzilla.opensuse.org"
+msgid "Submit it on bugzilla.opensuse.org"
+msgstr "bugzilla.opensuse.org"
+
+msgid "Write it in your diary and move on"
+msgstr ""
+
+msgid "Where can you find events to join and participate in with the openSUSE community?"
+msgstr ""
+
+msgid "Try decoding ancient Geeko scrolls"
+msgstr ""
+
+#, fuzzy
+#| msgid "bugzilla.opensuse.org"
+msgid "On calendar.opensuse.org"
+msgstr "bugzilla.opensuse.org"
+
+msgid "Look under your keyboard for hidden clues"
+msgstr ""
+
+msgid "Events are revealed only during a full moon"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where can you check the current status of openSUSE infrastructure?"
+msgid "Where can you ask for help when you're lost in the openSUSE universe?"
+msgstr "On podeu consultar l'estat actual de la infraestructura d'openSUSE?"
+
 msgid "s390x Expert"
 msgstr "Expert de s390x"
 
@@ -982,9 +1051,6 @@ msgstr "Xarxa"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
-
-msgid "test"
-msgstr ""
 
 msgid "The Ultimate YaST Challenge"
 msgstr ""
@@ -1188,6 +1254,9 @@ msgstr ""
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 
+#~ msgid "openSUSE Devconf 2025"
+#~ msgstr "openSUSE Devconf 2025"
+
 #~ msgid "Language"
 #~ msgstr "Llengua"
 
@@ -1293,9 +1362,6 @@ msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 #~ msgid "Where can you submit bug reports related to openSUSE packages?"
 #~ msgstr "On podeu enviar informes d'errors relacionats amb els paquets de l'openSUSE?"
 
-#~ msgid "bugzilla.opensuse.org"
-#~ msgstr "bugzilla.opensuse.org"
-
 #~ msgid "issues.opensuse.org"
 #~ msgstr "issues.opensuse.org"
 
@@ -1357,11 +1423,6 @@ msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 #~| msgid "What is the mascot of openSUSE project?"
 #~ msgid "What is the main openSUSE conference called?"
 #~ msgstr "Quina és la mascota del projecte openSUSE?"
-
-#, fuzzy
-#~| msgid "openSUSE Expert"
-#~ msgid "openSUSE Gathering"
-#~ msgstr "Expert d'openSUSE"
 
 #, fuzzy
 #~| msgid "openSUSE Expert"

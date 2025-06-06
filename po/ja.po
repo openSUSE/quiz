@@ -1,161 +1,16 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:24+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
-
-msgid "openSUSE Devconf 2025"
-msgstr "openSUSE Devconf 2025"
-
-msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr "心配ありません。このクイズは教育用に作られているもので、全部を知っている必要はありません。"
-
-msgid "What is the mascot of openSUSE project?"
-msgstr "openSUSE プロジェクトのマスコットは？"
-
-msgid "Pascal"
-msgstr "Pascal"
-
-msgid "TwoPac"
-msgstr "TwoPac"
-
-msgid "Geeko"
-msgstr "Geeko"
-
-msgid "BeefyMiracle"
-msgstr "BeefyMiracle"
-
-msgid "What is the main goal of the openSUSE project?"
-msgstr "openSUSE プロジェクトの主な目的は？"
-
-msgid "Supporting and spreading open-source software"
-msgstr "オープンソースソフトウエアのサポートと普及"
-
-msgid "Developing mobile applications"
-msgstr "モバイルアプリケーションの開発"
-
-msgid "Producing video games"
-msgstr "ビデオゲームの製作"
-
-msgid "Research in artificial intelligence"
-msgstr "AI (人工知能) による研究"
-
-msgid "What are Aeon and Kalpa?"
-msgstr "Aeon, Kalpa とは何？"
-
-msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "GNOME や KDE を利用した、モダンで '不変の' デスクトップ"
-
-msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Flatpak によるトランザクション型更新に対応したローリングリリース型デスクトップディストリビューション"
-
-msgid "Distributions built on top of MicroOS"
-msgstr "MicroOS 上に構築されたディストリビューション"
-
-msgid "All options are correct"
-msgstr "これら全てが正しい"
-
-msgid "Where was the openSUSE project founded?"
-msgstr "openSUSE プロジェクトはどこで設立された？"
-
-msgid "In Choustníkovo Hradiště"
-msgstr "ホウストニーコヴォ・フラディシュチェ"
-
-msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "サンフランシスコで 2005 年に開催された LinuxWorld カンファレンスにて"
-
-msgid "In Redmont"
-msgstr "レドモントにて"
-
-msgid "At the University of Helsinki"
-msgstr "ヘルシンキ大学にて"
-
-msgid "What is the default filesystem in openSUSE?"
-msgstr "openSUSE における既定のファイルシステムは？"
-
-msgid "ReiserFS"
-msgstr "ReiserFS"
-
-msgid "Btrfs"
-msgstr "Btrfs"
-
-msgid "XFS"
-msgstr "XFS"
-
-msgid "InterPlanetary File System"
-msgstr "InterPlanetary File System"
-
-msgid "What’s the name of the new installer in Leap 16?"
-msgstr "Leap 16 における新しいインストーラの名前は？"
-
-msgid "Sypper"
-msgstr "Sypper"
-
-msgid "Agama"
-msgstr "Agama"
-
-msgid "Anaconda"
-msgstr "Anaconda"
-
-msgid "Cayman"
-msgstr "Cayman"
-
-msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "コンテナやマイクロサービスを動作させるのに最適な openSUSE ディストリビューションはどれ？"
-
-msgid "MicroOS and Leap Micro"
-msgstr "MicroOS および Leap Micro"
-
-msgid "Tumbleweed"
-msgstr "Tumbleweed"
-
-msgid "Leap"
-msgstr "Leap"
-
-msgid "Slowroll"
-msgstr "Slowroll"
-
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
-msgid "What is Leap 16.0?"
-msgstr "Leap 16.0 とは何？"
-
-msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Leap 15.6 の後継として 2025 年秋に公開された、従来型の Linux ディストリビューション"
-
-msgid "An immutable distribution with GNOME and KDE"
-msgstr "GNOME や KDE を利用できる不変型のディストリビューション"
-
-msgid "A rolling release for mobile devices"
-msgstr "モバイルデバイス向けのローリングリリース"
-
-msgid "A container-focused system like MicroOS"
-msgstr "MicroOS のようにコンテナに注力したシステム"
-
-msgid "Can you play Windows games on openSUSE?"
-msgstr "openSUSE で Windows のゲームは遊べる？"
-
-msgid "No way, only Windows can do that"
-msgstr "いいえ、 Windows でないと遊べない"
-
-msgid "Of course! Just fire up Steam and game on"
-msgstr "もちろん！ Steam を起動して遊べる"
-
-msgid "Only if you summon the gaming gods"
-msgstr "ゲームの神様を呼べばできる"
-
-msgid "You need a secret handshake first"
-msgstr "秘密の契約を結ぶ必要がある"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-06 11:34+0200\n"
+"PO-Revision-Date: 2025-06-06 09:24+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "こども向けカメレオンクイズ！"
@@ -319,6 +174,111 @@ msgstr "openSUSE エキスパート"
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "他のユーザと競争しましょう。 1 問あたりの制限時間は 30 秒です。いつでも中止できます。"
 
+msgid "What is the mascot of openSUSE project?"
+msgstr "openSUSE プロジェクトのマスコットは？"
+
+msgid "Pascal"
+msgstr "Pascal"
+
+msgid "TwoPac"
+msgstr "TwoPac"
+
+msgid "Geeko"
+msgstr "Geeko"
+
+msgid "BeefyMiracle"
+msgstr "BeefyMiracle"
+
+msgid "What is the main goal of the openSUSE project?"
+msgstr "openSUSE プロジェクトの主な目的は？"
+
+msgid "Supporting and spreading open-source software"
+msgstr "オープンソースソフトウエアのサポートと普及"
+
+msgid "Developing mobile applications"
+msgstr "モバイルアプリケーションの開発"
+
+msgid "Producing video games"
+msgstr "ビデオゲームの製作"
+
+msgid "Research in artificial intelligence"
+msgstr "AI (人工知能) による研究"
+
+msgid "What are Aeon and Kalpa?"
+msgstr "Aeon, Kalpa とは何？"
+
+msgid "Modern 'Immutable' desktops with GNOME and KDE"
+msgstr "GNOME や KDE を利用した、モダンで '不変の' デスクトップ"
+
+msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
+msgstr "Flatpak によるトランザクション型更新に対応したローリングリリース型デスクトップディストリビューション"
+
+msgid "Distributions built on top of MicroOS"
+msgstr "MicroOS 上に構築されたディストリビューション"
+
+msgid "All options are correct"
+msgstr "これら全てが正しい"
+
+msgid "Where was the openSUSE project founded?"
+msgstr "openSUSE プロジェクトはどこで設立された？"
+
+msgid "In Choustníkovo Hradiště"
+msgstr "ホウストニーコヴォ・フラディシュチェ"
+
+msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
+msgstr "サンフランシスコで 2005 年に開催された LinuxWorld カンファレンスにて"
+
+msgid "In Redmont"
+msgstr "レドモントにて"
+
+msgid "At the University of Helsinki"
+msgstr "ヘルシンキ大学にて"
+
+msgid "What is the default filesystem in openSUSE?"
+msgstr "openSUSE における既定のファイルシステムは？"
+
+msgid "ReiserFS"
+msgstr "ReiserFS"
+
+msgid "Btrfs"
+msgstr "Btrfs"
+
+msgid "XFS"
+msgstr "XFS"
+
+msgid "InterPlanetary File System"
+msgstr "InterPlanetary File System"
+
+msgid "What’s the name of the new installer in Leap 16?"
+msgstr "Leap 16 における新しいインストーラの名前は？"
+
+msgid "Sypper"
+msgstr "Sypper"
+
+msgid "Agama"
+msgstr "Agama"
+
+msgid "Anaconda"
+msgstr "Anaconda"
+
+msgid "Cayman"
+msgstr "Cayman"
+
+msgid "Which openSUSE distribution is optimized for running containers and micro services?"
+msgstr "コンテナやマイクロサービスを動作させるのに最適な openSUSE ディストリビューションはどれ？"
+
+msgid "MicroOS and Leap Micro"
+msgstr "MicroOS および Leap Micro"
+
+msgid "Tumbleweed"
+msgstr "Tumbleweed"
+
+msgid "Leap"
+msgstr "Leap"
+
+msgid "Slowroll"
+msgstr "Slowroll"
+
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
 msgstr "より少ないサプライズを望むユーザ向けに、 Tumbleweed より穏やかに更新される openSUSE のローリングリリース型ディストリビューションはどれ？"
 
@@ -330,6 +290,36 @@ msgstr "Leapfrog"
 
 msgid "Zyppernap"
 msgstr "Zyppernap"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
+
+msgid "What is Leap 16.0?"
+msgstr "Leap 16.0 とは何？"
+
+msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
+msgstr "Leap 15.6 の後継として 2025 年秋に公開された、従来型の Linux ディストリビューション"
+
+msgid "An immutable distribution with GNOME and KDE"
+msgstr "GNOME や KDE を利用できる不変型のディストリビューション"
+
+msgid "A rolling release for mobile devices"
+msgstr "モバイルデバイス向けのローリングリリース"
+
+msgid "A container-focused system like MicroOS"
+msgstr "MicroOS のようにコンテナに注力したシステム"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "openSUSE Leap 15 での既定のデスクトップ環境はどれ？"
@@ -781,6 +771,85 @@ msgstr "Leap Micro"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE Greenhorn"
+msgstr "openSUSE エキスパート"
+
+msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr "心配ありません。このクイズは教育用に作られているもので、全部を知っている必要はありません。"
+
+msgid "Can you play Windows games on openSUSE?"
+msgstr "openSUSE で Windows のゲームは遊べる？"
+
+msgid "No way, only Windows can do that"
+msgstr "いいえ、 Windows でないと遊べない"
+
+msgid "Of course! Just fire up Steam and game on"
+msgstr "もちろん！ Steam を起動して遊べる"
+
+msgid "Only if you summon the gaming gods"
+msgstr "ゲームの神様を呼べばできる"
+
+msgid "You need a secret handshake first"
+msgstr "秘密の契約を結ぶ必要がある"
+
+msgid "Where can you download openSUSE installation images?"
+msgstr ""
+
+msgid "Only from mysterious USB sticks left in coffee shops"
+msgstr ""
+
+#, fuzzy
+#| msgid "forums.opensuse.org"
+msgid "From get.opensuse.org"
+msgstr "forums.opensuse.org"
+
+msgid "By yelling 'YaST' into your terminal"
+msgstr ""
+
+msgid "You can’t, they’re distributed via carrier pigeon"
+msgstr ""
+
+msgid "Where should you report issues you find in openSUSE?"
+msgstr ""
+
+msgid "Just shout at your screen and hope for the best"
+msgstr ""
+
+msgid "Send a strongly worded letter to Geeko"
+msgstr ""
+
+#, fuzzy
+#| msgid "bugzilla.opensuse.org"
+msgid "Submit it on bugzilla.opensuse.org"
+msgstr "bugzilla.opensuse.org"
+
+msgid "Write it in your diary and move on"
+msgstr ""
+
+msgid "Where can you find events to join and participate in with the openSUSE community?"
+msgstr ""
+
+msgid "Try decoding ancient Geeko scrolls"
+msgstr ""
+
+#, fuzzy
+#| msgid "bugzilla.opensuse.org"
+msgid "On calendar.opensuse.org"
+msgstr "bugzilla.opensuse.org"
+
+msgid "Look under your keyboard for hidden clues"
+msgstr ""
+
+msgid "Events are revealed only during a full moon"
+msgstr ""
+
+#, fuzzy
+#| msgid "Where can you check the current status of openSUSE infrastructure?"
+msgid "Where can you ask for help when you're lost in the openSUSE universe?"
+msgstr "openSUSE インフラストラクチャの現状を確認できる場所は？"
+
 msgid "s390x Expert"
 msgstr "s390x エキスパート"
 
@@ -966,9 +1035,6 @@ msgstr "ネットワーク"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
-
-msgid "test"
-msgstr "テスト"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "YaST からの究極チャレンジ"
@@ -1166,6 +1232,12 @@ msgstr "すみません、そのユーザ名は使用済みです。"
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "終了してよろしいですか？ これまでの進捗は保存されません。"
 
+#~ msgid "openSUSE Devconf 2025"
+#~ msgstr "openSUSE Devconf 2025"
+
+#~ msgid "test"
+#~ msgstr "テスト"
+
 #~ msgid "Language"
 #~ msgstr "言語"
 
@@ -1271,9 +1343,6 @@ msgstr "終了してよろしいですか？ これまでの進捗は保存さ�
 #~ msgid "Where can you submit bug reports related to openSUSE packages?"
 #~ msgstr "openSUSE のパッケージに関するバグ報告はどこでできる？"
 
-#~ msgid "bugzilla.opensuse.org"
-#~ msgstr "bugzilla.opensuse.org"
-
 #~ msgid "issues.opensuse.org"
 #~ msgstr "issues.opensuse.org"
 
@@ -1335,11 +1404,6 @@ msgstr "終了してよろしいですか？ これまでの進捗は保存さ�
 #~| msgid "What is the mascot of openSUSE project?"
 #~ msgid "What is the main openSUSE conference called?"
 #~ msgstr "openSUSE プロジェクトのマスコットは？"
-
-#, fuzzy
-#~| msgid "openSUSE Expert"
-#~ msgid "openSUSE Gathering"
-#~ msgstr "openSUSE エキスパート"
 
 #, fuzzy
 #~| msgid "openSUSE Expert"
