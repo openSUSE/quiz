@@ -53,6 +53,12 @@ if (consts.STATS_MODE === "STATS_FILE") {
 
 app.set("view engine", "ejs");
 
+// Force all HTML responses to be UTF-8
+app.use((req, res, next) => {
+  res.setHeader("Content-Type", "text/html; charset=UTF-8");
+  next();
+});
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "..", "public")));
@@ -78,7 +84,7 @@ async function loadTranslations(lang) {
   const filePath = path.join(consts.DATA_DIR_BASEPATH, "..", "po", filename);
 
   if (fs.existsSync(filePath)) {
-    const poFileContent = fs.readFileSync(filePath);
+    const poFileContent = fs.readFileSync(filePath, "utf8");
     const translations = po.parse(poFileContent);
     gt.addTranslations(lang, "messages", translations);
     gt.setLocale(lang);
