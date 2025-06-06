@@ -1,28 +1,17 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 01:19+0200\n"
-"PO-Revision-Date: 2025-06-05 07:59+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:24+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
-msgstr ""
+msgstr "openSUSE Devconf 2025"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
+msgstr "No us preocupeu, aquest qüestionari és principalment educatiu. No cal saber-ne totes les respostes."
 
 msgid "What is the mascot of openSUSE project?"
 msgstr "Quina és la mascota del projecte openSUSE?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
 msgstr "TwoPac"
@@ -154,19 +143,19 @@ msgid "A container-focused system like MicroOS"
 msgstr "Un sistema centrat en contenidors com ara MicroSO"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "És possible jugar a jocs de Windows a l'openSUSE?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "De cap manera, només Windows ho pot fer"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "Per descomptat! Només cal obrir l'Steam i jugar-hi"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "Només si s'invoquen els déus del joc"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "Primer cal una encaixada de mans secreta"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -496,348 +485,274 @@ msgid "Every 5 years when the stars align"
 msgstr "Cada 5 anys, quan els astres s'alineen"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Cada 12 mesos amb 6 mesos de solapament"
 
 msgid "Every month"
-msgstr ""
+msgstr "Cada mes"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Quan el Geeko s'avorreix"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Quin servei d'openSUSE s'usa per a la localització i la gestió de traduccions?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Build Service"
-msgstr "OBS (Servei de construcció obert)"
+msgstr "Servei de construcció"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "Quina ordre usaríeu per actualitzar paquets de programari a l'openSUSE des del terminal?"
 
 msgid "zypper update"
 msgstr "zypper update"
 
-#, fuzzy
-#| msgid "zypper update"
 msgid "apt-get update"
-msgstr "zypper update"
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "Què significa la paraula «open» a openSUSE?"
+msgstr "Què representa Tumbleweed a openSUSE?"
 
-#, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
-msgstr "Una versió contínua per a dispositius mòbils"
+msgstr "Una distribució de versió contínua"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "Un entorn d'escriptori"
 
 msgid "The mascot"
-msgstr ""
+msgstr "La mascota"
 
 msgid "An installer"
-msgstr ""
+msgstr "Un instal·lador"
 
-#, fuzzy
-#| msgid "What command can you use to refresh zypper repositories?"
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "Quina ordre podeu usar per actualitzar els repositoris de Zypper?"
+msgstr "Quina eina de línia d'ordres s'usa per gestionar els repositoris a l'openSUSE?"
 
-#, fuzzy
-#| msgid "Sypper"
 msgid "zypper"
-msgstr "Sypper"
+msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
-#, fuzzy
-#| msgid "Yum"
 msgid "yum"
-msgstr "Yum"
+msgstr "yum"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman"
-msgstr "Pacman"
+msgstr "pacman"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "Quina distribució d'openSUSE està optimitzada per executar contenidors i microserveis?"
+msgstr "Quina distribució d'openSUSE és coneguda com a versió estable?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroSO"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "Quina és la mascota del projecte openSUSE?"
+msgstr "Quin és l'objectiu principal d'openSUSE MicroSO?"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "Quina distribució d'openSUSE està optimitzada per executar contenidors i microserveis?"
+msgstr "Un sistema operatiu immutable optimitzat per a contenidors i microserveis"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Jocs"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Productivitat d'escriptori"
 
-#, fuzzy
-#| msgid "Scientific research"
 msgid "Scientific computing"
-msgstr "Investigació científica"
+msgstr "Informàtica científica"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr "Quina és la mascota d'openSUSE?"
+msgstr "Quina eina s'usa per crear i gestionar instantànies a l'openSUSE?"
 
-#, fuzzy
-#| msgid "Snapper"
 msgid "snapper"
-msgstr "Snapper"
+msgstr "snapper"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift"
-msgstr "Timeshift"
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "Quin és l'editor de text predeterminat de l'openSUSE?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "Quina ordre instal·laria un paquet a l'openSUSE?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install nom-del-paquet"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install nom-del-paquet"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install nom-del-paquet"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S nom-del-paquet"
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
+msgstr "Quin és el nom del fòrum oficial de la comunitat d'openSUSE?"
 
-#, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "forums.opensuse.org"
-msgstr "fun@opensuse.org"
+msgstr "forums.opensuse.org"
 
-#, fuzzy
-#| msgid "bugs.opensuse.com"
 msgid "discuss.opensuse.com"
-msgstr "bugs.opensuse.com"
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
-#, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "opensuse-chat.org"
-msgstr "fun@opensuse.org"
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "Quina eina es recomana per gestionar els repositoris i els paquets de programari a l'openSUSE?"
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
-#, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
+msgstr "Quin és el nom de la versió insígnia d'openSUSE?"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "Which file format does openSUSE use for package management?"
-msgstr "Què significa la paraula «open» a openSUSE?"
+msgstr "Quin format de fitxer usa l'openSUSE per a la gestió de paquets?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What command will list all repositories in openSUSE?"
-msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+msgstr "Quina ordre enumerarà tots els repositoris d'openSUSE?"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "zypper repos"
-msgstr "zypper repolist"
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "dnf repolist"
-msgstr "zypper repolist"
+msgstr "dnf repolist"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman -Q"
-msgstr "Pacman"
+msgstr "pacman -Q"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What is the primary license used by openSUSE?"
-msgstr "Quina és la mascota d'openSUSE?"
+msgstr "Quina és la llicència principal usada per openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (Llicència Pública General de GNU)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "Llicència de l'MIT"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Llicència d'Apache"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "De propietat"
 
-#, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "Què significa la paraula «open» a openSUSE?"
+msgstr "Què significa OBS al context d'openSUSE?"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service"
-msgstr "OBS (Servei de construcció obert)"
+msgstr "Open Build Service (Servei de construcció obert)"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System (Sistema de còpia de seguretat en línia)"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler (Planificador de caixa oberta)"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System (Sistema de construcció oficial)"
 
-#, fuzzy
-#| msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr "Quin servei d'openSUSE replica els repositoris de programari d'openSUSE a tot el món?"
+msgstr "Quin servei d'openSUSE ofereix entorns de construcció en directe i repositoris de paquets?"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service (OBS)"
 msgstr "OBS (Servei de construcció obert)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
 msgstr "Snapper"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
-msgstr "Quina és la mascota del projecte openSUSE?"
+msgstr "Quin és l'objectiu principal del projecte openSUSE?"
 
-#, fuzzy
-#| msgid "Supporting and spreading open-source software"
 msgid "Promoting and supporting free and open source software"
-msgstr "Suport i difusió de programari de codi obert"
+msgstr "Difusió i suport de programari lliure i de codi obert"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "Creació de programari de propietat"
 
-#, fuzzy
-#| msgid "Producing video games"
 msgid "Developing video games"
-msgstr "Producció de videojocs"
+msgstr "Desenvolupament de videojocs"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "Proporcionar serveis de núvol"
 
-#, fuzzy
-#| msgid "Which tool does openSUSE use for system snapshots and rollback?"
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr "Quina eina usa l'openSUSE per a les instantànies del sistema i les reversions?"
+msgstr "Quina eina d'openSUSE s'usa per a la configuració i la gestió del sistema?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Centre de control del Gnome"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "L'arranjament del sistema de KDE"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "Quin és el sistema de fitxers per defecte a l'openSUSE?"
+msgstr "Quina és l'ordre per comprovar les instantànies del sistema a l'openSUSE?"
 
-#, fuzzy
-#| msgid "zypper repolist"
 msgid "snapper list"
-msgstr "zypper repolist"
+msgstr "snapper list"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift --list"
-msgstr "Timeshift"
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 #, fuzzy
 #| msgid "What makes openSUSE special?"
