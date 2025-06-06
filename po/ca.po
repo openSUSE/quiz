@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:24+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 01:19+0200\nPO-Revision-Date: 2025-06-06 09:37+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "openSUSE Devconf 2025"
 msgstr "openSUSE Devconf 2025"
@@ -754,10 +754,8 @@ msgstr "btrfs subvolume list"
 msgid "rsnapshot config"
 msgstr "rsnapshot config"
 
-#, fuzzy
-#| msgid "What makes openSUSE special?"
 msgid "What package format does openSUSE use?"
-msgstr "Què fa que l'openSUSE sigui especial?"
+msgstr "Quin format de paquet usa l'openSUSE?"
 
 #, fuzzy
 #| msgid "What is the default filesystem in openSUSE?"
