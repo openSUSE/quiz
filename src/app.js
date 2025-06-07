@@ -1,11 +1,17 @@
-const express = require("express");
 const fs = require("fs");
+const os = require("os");
 const path = require("path");
+const { execSync } = require("child_process");
+
+
+const express = require("express");
 const Gettext = require("node-gettext");
+require("ejs"); // Only for side effects, no variable assignment
+
 const consts = require("./consts");
-const app = express();
 const routes = require("./route");
-require("ejs");
+
+const app = express();
 
 const gt = new Gettext();
 
@@ -29,13 +35,47 @@ function loadResultsFromFile() {
   }
 }
 
-// Function to save results to file
 function saveResultsToFile() {
-  fs.writeFileSync(
-    consts.STATS_FILE_PATH,
-    JSON.stringify(results, null, 2),
-    "utf-8"
-  );
+  const shortResult = JSON.stringify(results).slice(0, 10);
+  const filePath = consts.STATS_FILE_PATH;
+
+  console.log(`Saving results (first 10 chars): "${shortResult}" to ${filePath}`);
+
+  // Write to file
+  fs.writeFileSync(filePath, JSON.stringify(results, null, 2), "utf-8");
+
+  // Get file stats
+  const stats = fs.statSync(filePath);
+  const mode = "0" + (stats.mode & 0o777).toString(8); // e.g. 0644
+  const size = stats.size;
+  const uid = stats.uid;
+  const gid = stats.gid;
+
+  // Resolve user and group names (may fail in containers)
+  let owner = uid;
+  let group = gid;
+  try {
+    owner = execSync(`getent passwd ${uid} | cut -d: -f1`).toString().trim();
+    group = execSync(`getent group ${gid} | cut -d: -f1`).toString().trim();
+  } catch (err) {
+    // fallback to UID/GID if getent fails
+  }
+
+  // Current running user
+  let whoami = "unknown";
+  try {
+    whoami = execSync("whoami").toString().trim();
+  } catch (err) {
+    whoami = os.userInfo().username || "unknown";
+  }
+
+  // Log metadata
+  console.log(`File written to ${filePath}`);
+  console.log(` - Permissions: ${mode}`);
+  console.log(` - Size: ${size} bytes`);
+  console.log(` - Owner: ${owner} (UID ${uid})`);
+  console.log(` - Group: ${group} (GID ${gid})`);
+  console.log(` - Current user: ${whoami}`);
 }
 
 // Function to clear results
