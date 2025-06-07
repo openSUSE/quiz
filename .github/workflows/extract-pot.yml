@@ -5,6 +5,7 @@ on:
 
 # Restrict permissions by default
 permissions:
+  contents: write # Required to push changes
   pull-requests: write # Required for PR comments
 
 jobs:
