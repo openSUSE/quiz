@@ -342,7 +342,7 @@ function loadQuestion(questionNum) {
       answerElement.addEventListener("click", (e) => {
         // disable all buttons
         Array.from(btnGrid.children).forEach(
-          (element) => (element.disabled = true),
+          (element) => (element.disabled = true)
         );
         e.target.dataset.clicked = "true";
         checkAnswer();
