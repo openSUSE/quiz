@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-quiz-app",
+  "name": "opensuse-quiz-app",
   "version": "1.0.0",
   "description": "A goal of this project is to provide openSUSE booth staff with a local instance of a quiz",
   "scripts": {
