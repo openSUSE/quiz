@@ -21,6 +21,7 @@
     "less": "^4.3.0",
     "node-gettext": "^3.0.0",
     "nodejs-quiz-app": ".",
+    "opensuse-quiz-app": ".",
     "serverless-http": "^3.2.0",
     "sqlite3": "^5.1.7"
   },
