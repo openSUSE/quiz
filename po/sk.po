@@ -1,56 +1,56 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-07 11:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-08 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Zábava s chameleónom pre deti!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Farebný kvíz o chameleónoch a openSUSE pre zvedavé deti!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Na akú farbu sa môže zmeniť chameleón?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Iba zelená"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Akákoľvek farba, dokonca aj fialová!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Mnoho farieb ako zelená, hnedá, žltá"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Len čierna a biela"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "Čo je maskotom openSUSE?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "Tučniak"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Chameleón menom Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Drak"
 
 msgid "A robot"
-msgstr ""
+msgstr "Robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Prečo chameleóny menia farbu?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Aby ukázali, ako sa cítia, alebo aby sa skryli"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Pretože sa nudia"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Pretože sú to chladnokrvní roboti"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Aby žiarili v tme"
 
 msgid "Chameleons are primarily found in which part of the world?"
 msgstr "Chameleóny sa vyskytujú predovšetkým v ktorej časti sveta?"
@@ -68,94 +68,94 @@ msgid "Antarctica"
 msgstr "Antarktída"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Ako chameleóny chytajú svoju potravu?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "S ich rukami"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "S ich dlhým lepkavým jazykom"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Kričaním na ňu"
 
 msgid "With a net"
-msgstr ""
+msgstr "Pomocou siete"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Čím sa živia chameleóny?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Zmrzlinou"
 
 msgid "Insects"
-msgstr ""
+msgstr "Hmyzom"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Ananásmi"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Párkami v rožku"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "Čím je openSUSE výnimočné?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Dokáže hovoriť so zvieratami"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "Je to moderný slobodný operačný systém, ktorý môže používať každý - aj vy!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Je vyrobené zo šupín chameleóna"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Je len pre tajných agentov"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Vyzerajú všetky chameleóny rovnako?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Áno, všetky sú zelené a nevrlé"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Nie, majú rôzne tvary, veľkosti a farby"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Áno, všetky nosia klobúky"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Všetky majú nálepky openSUSE"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "Čo znamená slovo 'open' v openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Je to heslo"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Znamená to, že ho môže používať každý a pomáhať ho vylepšovať"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Slúži len na otváranie dverí"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Ide o otváranie obalov cukríkov"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Môžu chameleóny hýbať očami samostatne?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Nie, žmurkajú oboma očami naraz"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Áno, môžu sa pozerať dvoma smermi naraz!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Počas spánku zatvárajú jedno oko"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Nie, ich oči sú vždy zatvorené"
 
 msgid "openSUSE Expert"
 msgstr "openSUSE Expert"
@@ -167,7 +167,7 @@ msgid "What is the mascot of openSUSE project?"
 msgstr "Aký je maskot projektu openSUSE?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
 msgstr "TwoPac"
@@ -464,40 +464,40 @@ msgid "Every 5 years when the stars align"
 msgstr "Každých 5 rokov, keď sa zoskupia hviezdy"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Každých 12 mesiacov s presahom 6 mesiacov"
 
 msgid "Every month"
-msgstr ""
+msgstr "Každý mesiac"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Keď sa Geeko nudí"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Ktorá služba openSUSE sa používa na správu lokalizácie a prekladov?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 msgid "Build Service"
 msgstr "Build Service"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "Aký príkaz použijete na aktualizáciu softvérových balíkov v openSUSE z terminálu?"
 
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 msgid "apt-get update"
-msgstr ""
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 msgid "What does Tumbleweed represent in openSUSE?"
 msgstr "Čo predstavuje Tumbleweed v openSUSE?"
@@ -506,22 +506,22 @@ msgid "A rolling release distribution"
 msgstr "Distribúcia rolujúceho vydania"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "Desktopové prostredie"
 
 msgid "The mascot"
-msgstr ""
+msgstr "Maskot"
 
 msgid "An installer"
-msgstr ""
+msgstr "Inštalátor"
 
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr ""
+msgstr "Ktorý nástroj príkazového riadka sa používa na správu repozitárov v openSUSE?"
 
 msgid "zypper"
 msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
 msgid "yum"
 msgstr "yum"
@@ -533,7 +533,7 @@ msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "Ktorá distribúcia openSUSE je známa ako stabilná verzia?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "Aké je hlavné zameranie openSUSE MicroOS?"
@@ -542,58 +542,58 @@ msgid "Immutable OS optimized for containers and microservices"
 msgstr "Nemenný OS optimalizovaný pre kontajnery a mikroslužby"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Hranie hier"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Produktivita desktopov"
 
 msgid "Scientific computing"
 msgstr "Vedecké výpočty"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr ""
+msgstr "Aký nástroj sa používa na vytváranie a správu snímok v openSUSE?"
 
 msgid "snapper"
 msgstr "snapper"
 
 msgid "timeshift"
-msgstr ""
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "Aký je predvolený textový editor openSUSE?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "Ktorý príkaz by nainštaloval balík v openSUSE?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install package-name"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install package-name"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S package-name"
 
 msgid "What is the name of the official openSUSE community forum?"
 msgstr "Ako sa volá oficiálne komunitné fórum openSUSE?"
@@ -605,46 +605,46 @@ msgid "discuss.opensuse.com"
 msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
 msgid "opensuse-chat.org"
 msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "Ktorý nástroj sa odporúča na správu softvérových repozitárov a balíkov v openSUSE?"
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Ako sa volá hlavné rolujúce vydanie openSUSE?"
 
 msgid "Which file format does openSUSE use for package management?"
-msgstr ""
+msgstr "Ktorý formát súborov používa openSUSE na správu balíkov?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
 msgid "What command will list all repositories in openSUSE?"
 msgstr "Aký príkaz vypíše všetky repozitáre v openSUSE?"
 
 msgid "zypper repos"
-msgstr ""
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
 msgid "dnf repolist"
-msgstr ""
+msgstr "dnf repolist"
 
 msgid "pacman -Q"
 msgstr "pacman -Q"
@@ -653,16 +653,16 @@ msgid "What is the primary license used by openSUSE?"
 msgstr "Akú primárnu licenciu používa openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT License"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache License"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Proprietárna"
 
 msgid "What does OBS stand for in openSUSE context?"
 msgstr "Čo znamená skratka OBS v kontexte openSUSE?"
@@ -671,25 +671,25 @@ msgid "Open Build Service"
 msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System"
 
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr ""
+msgstr "Ktorá služba openSUSE poskytuje live build prostredia a repozitáre balíkov?"
 
 msgid "Open Build Service (OBS)"
 msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
 msgstr "Čo je hlavným cieľom projektu openSUSE?"
@@ -698,40 +698,40 @@ msgid "Promoting and supporting free and open source software"
 msgstr "Propagácia a podpora slobodného a open source softvéru"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "Vytváranie proprietárneho softvéru"
 
 msgid "Developing video games"
 msgstr "Vývoj videohier"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "Poskytovanie cloudových služieb"
 
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr ""
+msgstr "Ktorý nástroj openSUSE sa používa na konfiguráciu a správu systému?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE System Settings"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
 msgid "What is the command to check system snapshots on openSUSE?"
 msgstr "Aký je príkaz na kontrolu systémových snímok na openSUSE?"
 
 msgid "snapper list"
-msgstr ""
+msgstr "snapper list"
 
 msgid "timeshift --list"
-msgstr ""
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 msgid "What package format does openSUSE use?"
 msgstr "Aký formát balíkov používa openSUSE?"
@@ -740,130 +740,130 @@ msgid "What is the default shell in openSUSE?"
 msgstr "Aký je predvolený shell v openSUSE?"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "Ktorá z týchto je komunitou riadená verzia openSUSE?"
 
 msgid "Leap Micro"
 msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 msgid "openSUSE Greenhorn"
 msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
+msgstr "Nebojte sa, tento kvíz je prevažne vzdelávací. Nie je potrebné poznať všetky odpovede."
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "Môžete hrať hry pre Windows na openSUSE?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "V žiadnom prípade, to dokáže iba Windows"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "Samozrejme! Stačí nahodiť Steam a hrať"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "Iba ak vyvoláte herných bohov"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "Najprv si musíte tajne potriasť rukou"
 
 msgid "Where can you download openSUSE installation images?"
-msgstr ""
+msgstr "Kde si môžete stiahnuť inštalačné obrazy openSUSE?"
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr ""
+msgstr "Iba zo tajomných USB kľúčov ponechaných v kaviarňach"
 
 msgid "From get.opensuse.org"
 msgstr "Z get.opensuse.org"
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr ""
+msgstr "Zakričaním 'YaST' do terminálu"
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr ""
+msgstr "Nemôžete, sú distribuované prostredníctvom poštových holubov"
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr ""
+msgstr "Kde by ste mali nahlásiť problémy, ktoré ste našli v openSUSE?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr ""
+msgstr "Jednoducho zakričte na obrazovku a dúfajte v to najlepšie"
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr ""
+msgstr "Pošlite dôrazne formulovaný list Geekovi"
 
 msgid "Submit it on bugzilla.opensuse.org"
 msgstr "Nahlásiť to na bugzilla.opensuse.org"
 
 msgid "Write it in your diary and move on"
-msgstr ""
+msgstr "Zapíšte si to do denníka a pokračujte ďalej"
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr ""
+msgstr "Kde nájdete podujatia, na ktorých sa môžete zúčastniť a pripojiť sa ku komunite openSUSE?"
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr ""
+msgstr "Skúste dekódovať staroveké zvitky Geeko"
 
 msgid "On calendar.opensuse.org"
 msgstr "V calendar.opensuse.org"
 
 msgid "Look under your keyboard for hidden clues"
-msgstr ""
+msgstr "Hľadajte skryté indície pod klávesnicou"
 
 msgid "Events are revealed only during a full moon"
-msgstr ""
+msgstr "Udalosti sa odhaľujú len počas splnu mesiaca"
 
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "Kde môžete požiadať o pomoc, keď sa stratíte vo vesmíre openSUSE?"
 
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x Expert"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "Kvíz pre priateľov mainframov a exotických architektúr."
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "Aký je rozdiel medzi Big Endian a Little Endian?"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s390x používajú iba 31b, preto sa nazývajú Little Endian"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "Ide o usporiadanie bajtov; s390x je Big Endian"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "Ide o usporiadanie bajtov; s390x je Little Endian"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "To sa už nepoužíva, s390x sú Bi-endianess"
 
 msgid "DASD is?"
-msgstr ""
+msgstr "DASD je?"
 
 msgid "A German word"
-msgstr ""
+msgstr "Nemecké slovo"
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Direct-access storage device"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "Nadávka často opakovaná administrátormi s390x"
 
 msgid "A scsi disk"
-msgstr ""
+msgstr "scsi disk"
 
 msgid "HMC is?"
 msgstr ""
