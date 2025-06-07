@@ -9,8 +9,8 @@
     "watch:css": "lessc -w public/less/styles.less public/styles.css",
     "format": "prettier --write \"**/*.{js,json}\"",
     "format:check": "prettier --check \"**/*.{js,json}\"",
-    "lint": "eslint . --ext .js",
-    "lint:check": "eslint . --ext .js"
+    "lint": "eslint --fix \"**/*.js\"",
+    "lint:check": "eslint \"**/*.js\""
   },
   "dependencies": {
     "@netlify/functions": "^4.0.0",
