@@ -3,7 +3,6 @@ const os = require("os");
 const path = require("path");
 const { execSync } = require("child_process");
 
-
 const express = require("express");
 const Gettext = require("node-gettext");
 require("ejs"); // Only for side effects, no variable assignment
@@ -39,7 +38,9 @@ function saveResultsToFile() {
   const shortResult = JSON.stringify(results).slice(0, 10);
   const filePath = consts.STATS_FILE_PATH;
 
-  console.log(`Saving results (first 10 chars): "${shortResult}" to ${filePath}`);
+  console.log(
+    `Saving results (first 10 chars): "${shortResult}" to ${filePath}`
+  );
 
   // Write to file
   fs.writeFileSync(filePath, JSON.stringify(results, null, 2), "utf-8");
