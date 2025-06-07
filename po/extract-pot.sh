@@ -9,9 +9,8 @@ SRC_DIR="$SCRIPT_DIR/../src"
 OUT_DIR="$SCRIPT_DIR"
 MASTER_POT="$OUT_DIR/template.pot"
 
-if ! command -v msgcat >/dev/null 2>&1; then
-  echo "Required tools (msgcat, msguniq, xgettext) are missing."
-  echo "Please install the 'gettext-tools' package."
+if ! command -v msgcat >/dev/null 2>&1 || ! command -v msguniq >/dev/null 2>&1 || ! command -v xgettext >/dev/null 2>&1; then
+  echo "Error: Required tools (msgcat, msguniq, xgettext) from gettext-tools are missing." >&2
   exit 1
 fi
 
