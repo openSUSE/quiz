@@ -34,21 +34,24 @@ repos:
       - id: js-lint
         name: Lint JavaScript files
         entry: npm run lint
-        language: system
+        language: node
         stages: [commit]
+        additional_dependencies: [eslint]
 
   - repo: local
     hooks:
       - id: js-prettier
         name: Format JavaScript files
         entry: npm run format
-        language: system
+        language: node
         stages: [commit]
+        additional_dependencies: [prettier]
 
   - repo: local
     hooks:
       - id: build-css
         name: Run CSS build
         entry: npm run build:css
-        language: system
+        language: node
         stages: [commit]
+        additional_dependencies: [less]
