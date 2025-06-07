@@ -213,16 +213,47 @@ You can add new questions by modifying or creating quiz files inside the `data/`
 
 To add support for a new language:
 
-1. Start a new language at Weblate:  
+1. Start a new language at Weblate:
    [https://l10n.opensuse.org/projects/quiz/quiz/](https://l10n.opensuse.org/projects/quiz/quiz/)
 
-2. Weblate will create and commit the new language file (e.g., `po/ca.po`) after a short delay.  
+2. Weblate will create and commit the new language file (e.g., `po/ca.po`) after a short delay.
    If needed, feel free to contact maintainers to speed up the process.
 
-3. Once the file exists in the repository, add a user-friendly name to the language selector:  
+3. Once the file exists in the repository, add a user-friendly name to the language selector:
    Add a line like `lang_name_ca` to `po/template.pot`.
 
 📌 Once weblate commits new language into `po/` directory. We can add language mapping e.g. cs -> Czech to [i18nHelpers.js](https://github.com/openSUSE/quiz/blob/main/src/i18nHelpers.js#L52).
+
+---
+
+## Pre-commit Hook for POT File Generation 🌎
+
+This project uses a pre-commit hook to automatically update the `po/template.pot` file whenever JavaScript files in `data/` or `src/i18nHelpers.js` are changed. This ensures that the translation template is always up-to-date with the latest translatable strings.
+
+### Setup ⚙️
+
+1. **Install pre-commit**: 👷
+   If you don't have it already, install pre-commit. See the [official installation guide](https://pre-commit.com/#install).
+
+   ```bash
+   # openSUSE method
+   sudo zypper install python-pre-commit
+   # Fedora method
+   sudo dnf install pre-commit -y
+   # PIP method
+   pip install pre-commit --user # or use virtualenv
+   # brew installation method
+   brew install pre-commit
+   ```
+
+2. **Install the Git hook scripts**: 👷
+   Navigate to the root directory of this repository and run:
+
+   ```bash
+   pre-commit install
+   ```
+
+Now, every time you run `git commit`, the hook will execute `po/extract-pot.sh`. If the script modifies `po/template.pot`, the changes will be automatically added to your commit.
 
 ---
 

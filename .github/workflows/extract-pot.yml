@@ -1,0 +1,26 @@
+name: Extract POT file
+
+on:
+  pull_request:
+
+# Restrict permissions by default
+permissions:
+  contents: write # Required to push changes
+  pull-requests: write # Required for PR comments
+
+jobs:
+  extract_pot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install gettext-tools
+        run: sudo apt-get update && sudo apt-get install -y gettext
+      - name: Run extract-pot.sh
+        run: bash po/extract-pot.sh
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update template.pot
+          file_pattern: po/template.pot
