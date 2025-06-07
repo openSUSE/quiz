@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 11:34+0200\n"
-"PO-Revision-Date: 2025-06-06 09:24+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-06 11:34+0200\nPO-Revision-Date: 2025-06-07 11:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "こども向けカメレオンクイズ！"
@@ -771,10 +760,8 @@ msgstr "Leap Micro"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
-#, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Greenhorn"
-msgstr "openSUSE エキスパート"
+msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr "心配ありません。このクイズは教育用に作られているもので、全部を知っている必要はありません。"
@@ -795,60 +782,52 @@ msgid "You need a secret handshake first"
 msgstr "秘密の契約を結ぶ必要がある"
 
 msgid "Where can you download openSUSE installation images?"
-msgstr ""
+msgstr "openSUSE のインストールイメージをダウンロードできる場所は？"
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr ""
+msgstr "喫茶店に置き去りにされた謎の USB メモリから"
 
-#, fuzzy
-#| msgid "forums.opensuse.org"
 msgid "From get.opensuse.org"
-msgstr "forums.opensuse.org"
+msgstr "get.opensuse.org から"
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr ""
+msgstr "端末に 'YaST' と叫ぶ"
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr ""
+msgstr "伝書鳩が配り回っているのを待つ"
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr ""
+msgstr "openSUSE で見つけた問題を報告するには？"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr ""
+msgstr "画面に向かって叫ぶとよい"
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr ""
+msgstr "Geeko に強い言葉で手紙を送る"
 
-#, fuzzy
-#| msgid "bugzilla.opensuse.org"
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr "bugzilla.opensuse.org"
+msgstr "bugzilla.opensuse.org で報告する"
 
 msgid "Write it in your diary and move on"
-msgstr ""
+msgstr "日記に書き留めて忘れる"
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr ""
+msgstr "openSUSE コミュニティが開催するイベントを見つけるには？"
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr ""
+msgstr "Geeko の古文書の巻物を読み解く"
 
-#, fuzzy
-#| msgid "bugzilla.opensuse.org"
 msgid "On calendar.opensuse.org"
-msgstr "bugzilla.opensuse.org"
+msgstr "calendar.opensuse.org を見る"
 
 msgid "Look under your keyboard for hidden clues"
-msgstr ""
+msgstr "キーボードの下に隠された手がかりを探す"
 
 msgid "Events are revealed only during a full moon"
-msgstr ""
+msgstr "満月のときにのみイベント情報が公開されるので、それを待つ"
 
-#, fuzzy
-#| msgid "Where can you check the current status of openSUSE infrastructure?"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr "openSUSE インフラストラクチャの現状を確認できる場所は？"
+msgstr "openSUSE の宇宙で迷った場合、助けを求めるには？"
 
 msgid "s390x Expert"
 msgstr "s390x エキスパート"
