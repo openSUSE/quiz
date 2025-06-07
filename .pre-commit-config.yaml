@@ -18,15 +18,41 @@ repos:
       - id: end-of-file-fixer
       - id: mixed-line-ending
 
+  - repo: local
+    hooks:
+    -   id: extract-pot
+        name: Extract POT file
+        entry: bash po/extract-pot.sh
+        language: system
+        files: ^(data/.*\\.js|src/i18nHelpers\\.js)$
+        pass_filenames: false
+        stages: [commit]
+        # This hook modifies po/template.pot.
+        # pre-commit will automatically stage changes to this file if the script modifies it.
 
-  -   repo: local
-      hooks:
-      -   id: extract-pot
-          name: Extract POT file
-          entry: bash po/extract-pot.sh
-          language: system
-          files: ^(data/.*\\.js|src/i18nHelpers\\.js)$
-          pass_filenames: false
-          stages: [commit]
-          # This hook modifies po/template.pot.
-          # pre-commit will automatically stage changes to this file if the script modifies it.
+  - repo: local
+    hooks:
+    -   id: js-lint
+        name: Lint JavaScript files
+        entry: npm run lint
+        language: node
+        types: [javascript]
+        stages: [commit, push]
+
+  - repo: local
+    hooks:
+    -   id: js-prettier
+        name: Format JavaScript files
+        entry: npm run format
+        language: node
+        types: [javascript]
+        stages: [commit, push]
+
+  - repo: local
+    hooks:
+    -   id: build-css
+        name: Run CSS build
+        entry: npm run build:css
+        language: node
+        types: [css]
+        stages: [commit, push]
