@@ -3,9 +3,15 @@ name: Extract POT file
 on:
   pull_request:
 
+# Restrict permissions by default
+permissions:
+  pull-requests: write # Required for PR comments
+
 jobs:
   extract_pot:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - uses: actions/checkout@v4
       - name: Install gettext-tools
