@@ -40,7 +40,7 @@ function getUiStrings(_, name = "Anonymous") {
     tooSimpleUsername: _("Username is too short."),
     usernameTaken: _("Sorry, this login is already taken."),
     confirmQuit: _(
-      "Are you sure you want to quit? Your progress will not be saved.",
+      "Are you sure you want to quit? Your progress will not be saved."
     ),
   };
 }

@@ -34,7 +34,7 @@ function saveResultsToFile() {
   fs.writeFileSync(
     consts.STATS_FILE_PATH,
     JSON.stringify(results, null, 2),
-    "utf-8",
+    "utf-8"
   );
 }
 
@@ -84,7 +84,7 @@ async function loadTranslations(lang) {
     gt.setLocale(lang);
   } else {
     console.error(
-      `Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.`,
+      `Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.`
     );
     gt.setLocale("en");
   }
