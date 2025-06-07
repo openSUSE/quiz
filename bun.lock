@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "nodejs-quiz-app",
+      "name": "opensuse-quiz-app",
       "dependencies": {
         "@netlify/functions": "^4.0.0",
         "@types/express": "^5.0.2",
