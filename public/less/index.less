@@ -19,11 +19,10 @@
   align-items: center;
   margin-bottom: 8px;
 
-
   label {
     margin-right: 8px;
     color: darkgray;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: "Source Sans 3", sans-serif;
   }
 
   select {
@@ -31,7 +30,7 @@
     border-radius: 5px;
     border: 1px solid lightgray;
     background-color: #fff;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: "Source Sans 3", sans-serif;
     cursor: pointer;
 
     &:focus {
@@ -46,13 +45,21 @@
   padding: 8px 15px !important;
   font-size: 0.9em !important;
   max-width: 150px;
-  background: linear-gradient(135deg, @opensuse-light-green 0%, darken(@opensuse-light-green, 5%) 100%) !important;
+  background: linear-gradient(
+    135deg,
+    @opensuse-light-green 0%,
+    darken(@opensuse-light-green, 5%) 100%
+  ) !important;
   border: 2px solid @opensuse-green !important;
   color: @opensuse-dark-green !important;
   font-weight: 600 !important;
 
   &:hover {
-    background: linear-gradient(135deg, darken(@opensuse-light-green, 5%) 0%, @opensuse-light-green 100%) !important;
+    background: linear-gradient(
+      135deg,
+      darken(@opensuse-light-green, 5%) 0%,
+      @opensuse-light-green 100%
+    ) !important;
     transform: translateY(-2px) !important;
     box-shadow: 0 4px 10px fade(@opensuse-light-green, 30%) !important;
   }
@@ -71,7 +78,7 @@
   align-items: center;
   justify-content: center;
   margin-bottom: 10px;
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: "Source Sans 3", sans-serif;
 }
 
 .opensuse-quiz-logo-header__image {
@@ -97,17 +104,16 @@
 .opensuse-quiz-logo-header__text--quiz {
   font-size: 2.7em;
   font-weight: 700;
-  color: #2C5A6C; /* Dark teal/blue from image */
+  color: #2c5a6c; /* Dark teal/blue from image */
 }
 
 .quiz-main-header .quiz-main-subtitle {
   text-align: center;
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: "Source Sans 3", sans-serif;
   margin-top: 0;
   font-size: 1.3em;
   color: darkgray;
 }
-
 
 @media (max-width: 768px) {
   .opensuse-quiz-logo-header {

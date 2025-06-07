@@ -16,7 +16,6 @@ module.exports = {
     // 'quotes': ['error', 'single'], // Enforce single quotes
     // 'semi': ['error', 'always'], // Require semicolons
   },
-  ignorePatterns: ["public/data/**"], // Ignoring the quiz data files in public/data
   overrides: [
     {
       files: ["public/**/*.js"], // Target all JS files in the public directory

@@ -13,7 +13,13 @@ body {
   font-family: Lato, sans-serif;
   font-size: 1em;
   line-height: 1.5;
-  background: linear-gradient(135deg, @quiz-background 0%, @opensuse-light-green 25%, @opensuse-green 75%, @opensuse-blue 100%);
+  background: linear-gradient(
+    135deg,
+    @quiz-background 0%,
+    @opensuse-light-green 25%,
+    @opensuse-green 75%,
+    @opensuse-blue 100%
+  );
   background-size: 400% 400%;
   animation: gradientShift 60s ease infinite;
   padding: 1em;
@@ -24,9 +30,15 @@ body {
 }
 
 @keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 h1 {
@@ -147,9 +159,15 @@ button:active {
 }
 
 @keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 .correct-count {
@@ -180,8 +198,6 @@ button:active {
 }
 
 .quizzes {
-
-
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -191,15 +207,6 @@ button:active {
   max-width: 600px;
   margin: 0 auto;
 }
-
-
-
-
-
-
-
-
-
 
 .quiz-link {
   text-decoration: none;
@@ -212,7 +219,7 @@ button:active {
   padding: 25px 20px;
   border: none;
   border-radius: 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 1.2em;
   font-weight: 700;
   cursor: pointer;
@@ -227,13 +234,18 @@ button:active {
   color: #fff;
 
   &::before {
-    content: '';
+    content: "";
     position: absolute;
     top: 0;
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
     transition: left 0.5s;
   }
 
@@ -252,42 +264,73 @@ button:active {
   text-align: center;
 }
 
-
 .quiz-btn-color-0 {
-  background: linear-gradient(135deg, @opensuse-blue 0%, darken(@opensuse-blue, 5%) 100%);
+  background: linear-gradient(
+    135deg,
+    @opensuse-blue 0%,
+    darken(@opensuse-blue, 5%) 100%
+  );
   border: 3px solid @opensuse-green;
   &:hover {
-    background: linear-gradient(135deg, darken(@opensuse-blue, 5%) 0%, @opensuse-blue 100%);
+    background: linear-gradient(
+      135deg,
+      darken(@opensuse-blue, 5%) 0%,
+      @opensuse-blue 100%
+    );
     transform: translateY(-5px);
     box-shadow: 0 12px 30px fade(@opensuse-blue, 40%);
   }
 }
 
 .quiz-btn-color-1 {
-  background: linear-gradient(135deg, @opensuse-green 0%, darken(@opensuse-green, 5%) 100%);
+  background: linear-gradient(
+    135deg,
+    @opensuse-green 0%,
+    darken(@opensuse-green, 5%) 100%
+  );
   border: 3px solid @opensuse-blue;
   &:hover {
-    background: linear-gradient(135deg, darken(@opensuse-green, 5%) 0%, @opensuse-green 100%);
+    background: linear-gradient(
+      135deg,
+      darken(@opensuse-green, 5%) 0%,
+      @opensuse-green 100%
+    );
     transform: translateY(-5px);
     box-shadow: 0 12px 30px fade(@opensuse-green, 40%);
   }
 }
 
 .quiz-btn-color-2 {
-  background: linear-gradient(135deg, @opensuse-light-green 0%, darken(@opensuse-light-green, 5%) 100%);
+  background: linear-gradient(
+    135deg,
+    @opensuse-light-green 0%,
+    darken(@opensuse-light-green, 5%) 100%
+  );
   border: 3px solid @opensuse-orange;
   &:hover {
-    background: linear-gradient(135deg, darken(@opensuse-light-green, 5%) 0%, @opensuse-light-green 100%);
+    background: linear-gradient(
+      135deg,
+      darken(@opensuse-light-green, 5%) 0%,
+      @opensuse-light-green 100%
+    );
     transform: translateY(-5px);
     box-shadow: 0 12px 30px fade(@opensuse-light-green, 40%);
   }
 }
 
 .quiz-btn-color-3 {
-  background: linear-gradient(135deg, @opensuse-orange 0%, darken(@opensuse-orange, 5%) 100%);
+  background: linear-gradient(
+    135deg,
+    @opensuse-orange 0%,
+    darken(@opensuse-orange, 5%) 100%
+  );
   border: 3px solid @opensuse-light-green;
   &:hover {
-    background: linear-gradient(135deg, darken(@opensuse-orange, 5%) 0%, @opensuse-orange 100%);
+    background: linear-gradient(
+      135deg,
+      darken(@opensuse-orange, 5%) 0%,
+      @opensuse-orange 100%
+    );
     transform: translateY(-5px);
     box-shadow: 0 12px 30px fade(@opensuse-orange, 40%);
   }
@@ -350,26 +393,25 @@ button:active {
   transition: background-color 0.3s ease;
   color: #fff;
 
-
-  &:not(.correct):not(.wrong):nth-child(4n+1) {
+  &:not(.correct):not(.wrong):nth-child(4n + 1) {
     background-color: @opensuse-blue;
     &:hover {
       background-color: darken(@opensuse-blue, 10%);
     }
   }
-  &:not(.correct):not(.wrong):nth-child(4n+2) {
+  &:not(.correct):not(.wrong):nth-child(4n + 2) {
     background-color: @opensuse-green;
     &:hover {
       background-color: darken(@opensuse-green, 10%);
     }
   }
-  &:not(.correct):not(.wrong):nth-child(4n+3) {
+  &:not(.correct):not(.wrong):nth-child(4n + 3) {
     background-color: @opensuse-light-green;
     &:hover {
       background-color: darken(@opensuse-light-green, 10%);
     }
   }
-  &:not(.correct):not(.wrong):nth-child(4n+4) {
+  &:not(.correct):not(.wrong):nth-child(4n + 4) {
     background-color: @opensuse-orange;
     &:hover {
       background-color: darken(@opensuse-orange, 10%);
@@ -391,7 +433,7 @@ p.question {
   padding: 16px 20px;
   border-radius: 8px;
   margin: 20px 0;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .btn-container {
@@ -433,7 +475,13 @@ input[type="text"]:disabled {
 
 .submit-form-bottom input[type="text"].input-error {
   border-color: @quiz-wrong-answer;
-  box-shadow: 0 0 5px rgba(red(@quiz-wrong-answer), green(@quiz-wrong-answer), blue(@quiz-wrong-answer), 0.5);
+  box-shadow: 0 0 5px
+    rgba(
+      red(@quiz-wrong-answer),
+      green(@quiz-wrong-answer),
+      blue(@quiz-wrong-answer),
+      0.5
+    );
 }
 
 .submit-form-bottom input[type="text"] {
@@ -512,8 +560,8 @@ input[type="text"]:disabled {
   }
 
   #loggedInBanner {
-    position: static;   // Change from absolute to static
-    transform: none;    // Remove the transform
+    position: static; // Change from absolute to static
+    transform: none; // Remove the transform
     flex-direction: column; /* Stack items vertically */
     align-items: stretch; /* Stretch items to fill width */
     text-align: center;
@@ -540,7 +588,7 @@ input[type="text"]:disabled {
 
   .language-selector-container {
     flex-direction: column; // Stack label and select
-    align-items: center;  // Changed from flex-end to center
+    align-items: center; // Changed from flex-end to center
     width: auto; // Allow it to size based on content, will be centered by parent
 
     label {
@@ -592,6 +640,7 @@ table .results {
   border: 0;
 }
 
-table.results th,td  {
+table.results th,
+td {
   border-bottom: 1px solid black;
 }

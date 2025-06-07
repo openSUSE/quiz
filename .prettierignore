@@ -1,3 +1,34 @@
 # Ignore files and directories from Prettier formatting
 
 data/
+po/
+Dockerfile
+Dockerfile-Production
+
+
+**/*.yaml
+**/*.yml
+**/*.toml
+**/*.md
+.devcontainer/devcontainer.json
+.github/**
+LICENSE
+bun.lock
+*.lock
+
+
+public/img/**
+public/less/**
+public/css/**
+views/**
+public/stats.json.sample
+
+*.sh
+.gitkeep
+.gitignore
+.eslintignore
+.prettierignore
+
+package.json
+package-lock.json
+bun.lock
