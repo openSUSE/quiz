@@ -1,0 +1,9 @@
+// vim:filetype=json5
+{
+  "instances": {
+    // "main" maps to quiz.opesuse.org
+    "main": {},
+    // all others map to <instance>.quiz.opensuse.org
+    "test": {},
+  }
+}

@@ -34,3 +34,6 @@ public/stats.json.sample
 package.json
 package-lock.json
 bun.lock
+
+# we want trailing commas in json5 for easier diff-ing
+instances.json
