@@ -13,6 +13,9 @@ RUN npm install
 # Bundle app source
 COPY . .
 
+# Create a volume for stats.json to persist data
+VOLUME /usr/src/app/data
+
 # Make port 3000 available to the world outside this container
 EXPOSE 3000
 
