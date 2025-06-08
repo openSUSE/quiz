@@ -6,3 +6,4 @@ npm-debug.log
 /public/styles.css
 public/stats.json
 netlify/functions/tmp/stats.json
+data/stats.json

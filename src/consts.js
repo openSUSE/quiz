@@ -16,16 +16,9 @@ const envFileExists = fs.existsSync(envPath);
 // STATS_MODE defaults to "STATS_FILE" if not set in .env or if .env doesn't exist.
 const STATS_MODE = process.env.STATS_MODE || "STATS_FILE";
 
-let resolvedStatsFilePath;
-if (!envFileExists) {
-  // If .env does not exist, use /tmp/stats.json and STATS_MODE is already "STATS_FILE" by default
-  resolvedStatsFilePath = "/tmp/stats.json";
-} else {
-  // If .env exists, use STATS_FILE_PATH from .env or the original default path
-  resolvedStatsFilePath =
-    process.env.STATS_FILE_PATH ||
-    path.join(__dirname, "..", "data", "stats.json");
-}
+// prefer STATS_FILE_PATH from environment and fall back to file inside repository root
+let resolvedStatsFilePath =
+  process.env.STATS_FILE_PATH || path.join(projectRoot, "data", "stats.json");
 const STATS_FILE_PATH = resolvedStatsFilePath;
 
 // RESET_TOKEN defaults to "supersecret" if not set in .env or if .env doesn't exist.
