@@ -108,33 +108,31 @@
             url.searchParams.set("lang", langSelect.value);
             window.location.href = url.toString();
           });
+
+          const refreshSelect = document.getElementById("refresh-select");
+          refreshSelect.addEventListener("change", () => {
+            const url = new URL(window.location.href);
+            url.searchParams.set("refresh", refreshSelect.value);
+            window.location.href = url.toString();
+          });
+
+          const refreshInterval = new URLSearchParams(window.location.search).get("refresh") || 30000;
+          if (refreshInterval && !isNaN(parseInt(refreshInterval))) {
+            setTimeout(() => {
+              window.location.reload();
+            }, parseInt(refreshInterval));
+          }
         });
       </script>
     </div>
-    <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 2em;">
-      <%= t("Each correct answer gives 1 point. Each question attempted adds 0.05 points. Each wrong answer subtracts 0.1 points. Total score never goes below zero.") %>
+  <footer>
+    <p>
+      © 2025 openSUSE contributors | Made with ❤️ by openSUSE Community
     </p>
-    <script type="text/javascript">
-      let refreshTimeout;
-
-      function scheduleReload(interval) {
-        clearTimeout(refreshTimeout);
-        refreshTimeout = setTimeout(() => {
-          const url = new URL(window.location.href);
-          const lang = url.searchParams.get("lang") || "en";
-          url.searchParams.set("lang", lang);
-          window.location.href = url.toString();
-        }, interval);
-      }
-
-      document.addEventListener("DOMContentLoaded", function () {
-        const refreshSelect = document.getElementById("refresh-select");
-        scheduleReload(parseInt(refreshSelect.value));
-
-        refreshSelect.addEventListener("change", () => {
-          scheduleReload(parseInt(refreshSelect.value));
-        });
-      });
-    </script>
+    <p>
+      <a href="https://github.com/openSUSE/quiz">Source Code</a> |
+      <a href="https://github.com/openSUSE/quiz/blob/main/LICENSE">LICENSE</a>
+    </p>
+  </footer>
   </body>
 </html>
