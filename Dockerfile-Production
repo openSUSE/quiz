@@ -1,19 +1,10 @@
-FROM registry.suse.com/bci/nodejs:22 as base
-
-# intermediary container
-FROM base as build
-
-RUN zypper -n in gcc-c++ make python3
-WORKDIR /usr/src/app
-COPY . .
-RUN npm clean-install --omit=dev
-
-# final container
-FROM base as prod
+FROM registry.opensuse.org/opensuse/infrastructure/images/bci/containers/bci-nodejs-python
 
 WORKDIR /opt/quiz
-COPY --from=1 /usr/src/app /opt/quiz
+COPY . .
 RUN \
+	npm clean-install --omit=dev && \
+	npm run build:css && \
 	rm -r /var/{cache,log}/* && \
 	useradd -mU quiz
 
