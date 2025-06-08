@@ -81,7 +81,8 @@ function saveResultsToFile() {
 
 // Function to clear results
 function clearResults() {
-  results = {};
+  // results = {} would not update references in router.js etc
+  for (const key in results) delete results[key];
   if (consts.STATS_MODE === "STATS_FILE") {
     saveResultsToFile();
   }
