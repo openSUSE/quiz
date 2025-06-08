@@ -4,15 +4,16 @@
     "": {
       "name": "opensuse-quiz-app",
       "dependencies": {
-        "opensuse-quiz-app": ".",
         "@netlify/functions": "^4.0.0",
         "@types/express": "^5.0.2",
+        "dotenv": "^16.5.0",
         "ejs": "^3.1.10",
         "express": "^4.20.0",
         "gettext-parser": "^8.0.0",
         "less": "^4.3.0",
         "node-gettext": "^3.0.0",
         "nodejs-quiz-app": ".",
+        "opensuse-quiz-app": ".",
         "serverless-http": "^3.2.0",
         "sqlite3": "^5.1.7",
       },

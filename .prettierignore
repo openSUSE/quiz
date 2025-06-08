@@ -28,6 +28,8 @@ public/stats.json.sample
 .gitignore
 .eslintignore
 .prettierignore
+.env
+.env.example
 
 package.json
 package-lock.json

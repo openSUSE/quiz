@@ -36,6 +36,8 @@ module.exports = [
       ".prettierignore",
       "package.json",
       "package-lock.json",
+      ".env",
+      ".env.example",
     ],
   },
   {

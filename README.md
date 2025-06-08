@@ -30,6 +30,20 @@ It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sand
 
 ## 🚀 Running the Application
 
+### Environment Variables
+
+Before running the application, you can configure it using a `.env` file in the root of the project. Create a `.env` file by copying the example:
+
+```bash
+cp .env.example .env
+```
+
+Then, edit the `.env` file to set your desired configuration:
+
+- `STATS_MODE`: Can be `STATS_FILE` to save statistics to a file or `IN_MEMORY` to keep them in memory (they will be lost on restart). Defaults to `STATS_FILE`.
+- `STATS_FILE_PATH`: The path to the JSON file where statistics will be stored if `STATS_MODE` is `STATS_FILE`. Defaults to `./data/stats.json`.
+- `RESET_TOKEN`: A secret token required to reset the statistics via the `/reset` endpoint. If not set, the reset functionality will be disabled.
+
 ### Using npm 📦
 
 1. Ensure you have Node.js and npm installed. 💻
