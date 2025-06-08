@@ -28,6 +28,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  &.small-screen {
+    justify-content: space-between; /* Changed from default 'center' for small screens */
+  }
 }
 
 @keyframes gradientShift {
@@ -375,6 +379,10 @@ button:active {
 
   .quiz-btn-icon {
     font-size: 1.3em;
+  }
+
+  body {
+    justify-content: space-between; /* Changed from default 'center' for small screens */
   }
 }
 
