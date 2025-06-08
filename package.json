@@ -6,7 +6,6 @@
     "start": "nodemon src/server.js",
     "production": "node src/server.js",
     "build:css": "lessc public/less/styles.less public/styles.css",
-    "watch:css": "lessc -w public/less/styles.less public/styles.css",
     "format": "prettier --write \"**/*.{js,json}\"",
     "format:check": "prettier --check \"**/*.{js,json}\"",
     "lint": "eslint --fix \"**/*.js\"",

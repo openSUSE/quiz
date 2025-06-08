@@ -1,5 +1,6 @@
 @import "variables.less";
 @import "index.less";
+@import "footer.less";
 
 * {
   margin: 0;
@@ -27,6 +28,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  &.small-screen {
+    justify-content: space-between; /* Changed from default 'center' for small screens */
+  }
 }
 
 @keyframes gradientShift {
@@ -375,6 +380,10 @@ button:active {
   .quiz-btn-icon {
     font-size: 1.3em;
   }
+
+  body {
+    justify-content: space-between; /* Changed from default 'center' for small screens */
+  }
 }
 
 .q-container .btn-grid {
@@ -644,3 +653,5 @@ table.results th,
 td {
   border-bottom: 1px solid black;
 }
+
+@import "containers.less";

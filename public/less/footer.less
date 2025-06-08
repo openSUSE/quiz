@@ -1,0 +1,49 @@
+footer {
+  background-color: #333; /* Dark background for the footer */
+  color: #fff; /* Light text color */
+  text-align: center;
+  padding: 1em 0;
+  font-size: 0.9em;
+  width: 100%;
+  position: fixed; /* Make it stay at the bottom */
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 -2px 5px rgba(0,0,0,0.2); /* Optional: adds a subtle shadow */
+  z-index: 1000; /* Ensure footer is above other content */
+}
+
+footer p {
+  margin: 0.5em 0;
+}
+
+footer a {
+  color: #73ba25; /* openSUSE green for links */
+  text-decoration: none;
+  font-weight: 500; /* Match previous style for Help translate */
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments for the footer */
+@media (max-width: 768px) {
+  footer {
+    font-size: 0.8em;
+    padding: 0.8em 0;
+  }
+
+  footer p {
+    margin: 0.3em 0;
+  }
+}
+
+@media (max-width: 300px) {
+  footer {
+    position: static;
+    font-size: 0.75em;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 2.75rem 1rem;
+  }
+}

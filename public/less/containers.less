@@ -1,0 +1,22 @@
+/* Add padding to the main content containers to prevent overlap with the fixed footer */
+.main-page-container,
+.container { /* Apply to both common content wrappers */
+  padding-bottom: 12em; /* Increased base padding, adjust if needed */
+}
+
+@media (max-width: 768px) {
+  .main-page-container,
+  .container {
+    padding-bottom: 11em; /* Adjusted for medium screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .main-page-container,
+  .container {
+    /* Adjust padding-bottom as footer is now in normal flow.
+       This adds a bit more space above the static footer.
+    */
+    padding-bottom: 3em; /* Spacing for when footer is static */
+  }
+}
