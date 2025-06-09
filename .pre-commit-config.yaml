@@ -25,7 +25,7 @@ repos:
         language: system
         files: ^(data/.*\\.js|src/i18nHelpers\\.js)$
         pass_filenames: false
-        stages: [commit]
+        stages: [pre-commit]
         # This hook modifies po/template.pot.
         # pre-commit will automatically stage changes to this file if the script modifies it.
 
@@ -35,7 +35,7 @@ repos:
         name: Lint JavaScript files
         entry: npm run lint
         language: node
-        stages: [commit]
+        stages: [pre-commit]
         additional_dependencies: [eslint, globals]
 
   - repo: local
@@ -44,7 +44,7 @@ repos:
         name: Format JavaScript files
         entry: npm run format
         language: node
-        stages: [commit]
+        stages: [pre-commit]
         additional_dependencies: [prettier]
 
   - repo: local
@@ -53,5 +53,5 @@ repos:
         name: Run CSS build
         entry: npm run build:css
         language: node
-        stages: [commit]
+        stages: [pre-commit]
         additional_dependencies: [less]
