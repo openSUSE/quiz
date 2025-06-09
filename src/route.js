@@ -60,6 +60,7 @@ module.exports = (dependencies) => {
       lang,
       availableLanguages,
       event: consts.EVENT,
+      usernamePolicy: consts.USERNAME_POLICY,
       quizData: JSON.stringify(localized.quizData),
       questions: JSON.stringify(localized.questions),
       uiStrings: uiStrings,

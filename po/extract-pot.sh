@@ -19,7 +19,7 @@ fi
 : > "$TEMP_GENERATED_POT" # Was MASTER_POT
 
 # Loop over all relevant JS source files
-for jsfile in "$DATA_DIR"/*.js "$SRC_DIR"/i18nHelpers.js; do
+for jsfile in "$DATA_DIR"/*.js "$SRC_DIR"/i18nHelpers.js "$SRC_DIR"/consts.js; do
     name=$(basename "${jsfile%.js}") # Strip .js suffix
     potfile="$OUT_DIR/$name.pot"
 

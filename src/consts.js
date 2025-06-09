@@ -28,6 +28,14 @@ const RESET_TOKEN = envFileExists
 
 const EVENT = process.env.EVENT || "openSUSE";
 
+// Just a helper function to detect _() by gettext
+function _(str) {
+  return str;
+}
+const USERNAME_POLICY =
+  process.env.USERNAME_POLICY ||
+  _("Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname).");
+
 module.exports = {
   DATA_DIR_BASEPATH,
   DATA_DIR_PATH,
@@ -35,4 +43,5 @@ module.exports = {
   STATS_MODE,
   STATS_FILE_PATH,
   EVENT,
+  USERNAME_POLICY,
 };
