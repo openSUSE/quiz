@@ -158,6 +158,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser. 🌐
 ### Docker 🐳
 
 Alternatively, you can use Docker to run the application.
+We have also an [image with registry.opensuse.org ](https://registry.opensuse.org/cgi-bin/cooverview?srch_term=project%3D%5Ehome%3A+project%3D%5Ehome%3Alkocman%3Aimages++container%3Dquiz.*)
 
 First, build the Docker image: 🛠️
 
