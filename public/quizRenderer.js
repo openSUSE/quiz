@@ -202,7 +202,9 @@ nextBtn.addEventListener("click", () => {
 
 function startQuiz() {
   const usernameForm = document.querySelector(".submit-form-bottom");
+  const usernameInstructions = document.querySelector(".username-instructions");
   usernameForm.classList.add("hide");
+  usernameInstructions.classList.add("hide");
 
   nextBtn.classList.remove("hide");
   questionContainer.classList.remove("hide");
