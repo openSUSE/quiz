@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-08 15:59+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 12:32+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s chameleónom pre deti!"
@@ -877,67 +866,67 @@ msgid "A scsi disk"
 msgstr "scsi disk"
 
 msgid "HMC is?"
-msgstr ""
+msgstr "HMC je?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Home mc, len nový priateľskejší Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
-msgstr ""
+msgstr "Administrácia mainframe prostredníctvom webového rozhrania"
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "Príkaz na výpis hardvérových sieťových adries."
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "Jednotka hidden module control"
 
 msgid "z/VM is?"
-msgstr ""
+msgstr "z/VM je?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Virtuálny stroj na Z (teda s390x)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM je operačný systém, ktorý sa zvyčajne používa ako hypervízor"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Prehliadač vzdialenej plochy"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombie Virtual Memory"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "Čo znamená úložisko vo svete mainframe?"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Pamäť (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Dátové úložisko (disky) počítané v cylindroch"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Miestnosť, v ktorej sa nachádza mainframe"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Priestor v mainframe, v ktorom sú umiestnené disky"
 
 msgid "What is x3270?"
-msgstr ""
+msgstr "Čo je x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "Špeciálne kódovanie súborov, ktoré je pre súbory na s390x povinné"
 
 msgid "Terminal emulator for connection to a machine"
-msgstr ""
+msgstr "Emulátor terminálu na pripojenie k počítaču"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "Hexa kód používaný ako predvolené heslo administrátora"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Žiadna z týchto smiešnych možností"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "Čo znamená IPL 150?"
 
 msgid "Give me additional 150MB of memory"
 msgstr ""
