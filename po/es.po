@@ -1332,6 +1332,9 @@ msgstr ""
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "¿Estás seguro de que quieres dejar salir? Tu progreso no se guardará."
 
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr ""
+
 #~ msgid "Language"
 #~ msgstr "Idioma"
 

@@ -1279,6 +1279,9 @@ msgstr "Üzgünüz, bu kullanıcı adı zaten alınmış."
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek."
 
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr ""
+
 #~ msgid "openSUSE Devconf 2025"
 #~ msgstr "openSUSE Devconf 2025"
 

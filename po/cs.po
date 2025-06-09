@@ -1222,6 +1222,9 @@ msgstr "Uživatelské jméno má již někdo jiný."
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr ""
+
 #~ msgid "openSUSE Devconf 2025"
 #~ msgstr "openSUSE Devconf 2025"
 
