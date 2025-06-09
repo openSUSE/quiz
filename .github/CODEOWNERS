@@ -2,3 +2,5 @@
 # the repo. They will be requested for review when someone
 # opens a pull request.
 *   @lkocman @onuralpszr
+
+/instances.json @tacerus
