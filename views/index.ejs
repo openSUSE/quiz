@@ -13,7 +13,7 @@
   <link href="/styles.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <div class="event-watermark" id="event-watermark">DevConf</div>
+  <div class="event-watermark-big" id="event-watermark"><%= event %></div>
   <div class="main-page-container">
     <div class="top-bar-container">
     <div id="loggedInBanner">
@@ -49,7 +49,7 @@
           <span class="opensuse-quiz-logo-header__text--quiz">QU1Z!</span>
         </div>
       </div>
-      <p class="quiz-main-subtitle"><%= t("Available quizzes") %></p>
+      <p class="quiz-main-subtitle"><%= t("Available quizzes for") %> <span class="event"><%= event %></span>:</p>
     </div>
     <div class="quizzes">
       <% quizzes.forEach((quiz, index) => { %>

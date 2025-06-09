@@ -29,6 +29,7 @@ module.exports = (dependencies) => {
       quizzes,
       lang,
       availableLanguages,
+      event: consts.EVENT,
       t: (text) => gt.gettext(text),
     });
   });
@@ -58,6 +59,7 @@ module.exports = (dependencies) => {
       nickname: name,
       lang,
       availableLanguages,
+      event: consts.EVENT,
       quizData: JSON.stringify(localized.quizData),
       questions: JSON.stringify(localized.questions),
       uiStrings: uiStrings,
