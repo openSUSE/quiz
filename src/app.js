@@ -1,7 +1,5 @@
 const fs = require("fs");
-const os = require("os");
 const path = require("path");
-const { execSync } = require("child_process");
 
 const express = require("express");
 const Gettext = require("node-gettext");
@@ -11,7 +9,6 @@ const consts = require("./consts");
 const routes = require("./route");
 
 const app = express();
-
 const gt = new Gettext();
 
 if (
@@ -35,53 +32,15 @@ function loadResultsFromFile() {
 }
 
 function saveResultsToFile() {
-  const shortResult = JSON.stringify(results).slice(0, 10);
-  const filePath = consts.STATS_FILE_PATH;
-
-  console.log(
-    `Saving results (first 10 chars): "${shortResult}" to ${filePath}`
+  fs.writeFileSync(
+    consts.STATS_FILE_PATH,
+    JSON.stringify(results, null, 2),
+    "utf-8"
   );
-
-  // Write to file
-  fs.writeFileSync(filePath, JSON.stringify(results, null, 2), "utf-8");
-
-  // Get file stats
-  const stats = fs.statSync(filePath);
-  const mode = "0" + (stats.mode & 0o777).toString(8); // e.g. 0644
-  const size = stats.size;
-  const uid = stats.uid;
-  const gid = stats.gid;
-
-  // Resolve user and group names (may fail in containers)
-  let owner = uid;
-  let group = gid;
-  try {
-    owner = execSync(`getent passwd ${uid} | cut -d: -f1`).toString().trim();
-    group = execSync(`getent group ${gid} | cut -d: -f1`).toString().trim();
-  } catch (err) {
-    // fallback to UID/GID if getent fails
-  }
-
-  // Current running user
-  let whoami = "unknown";
-  try {
-    whoami = execSync("whoami").toString().trim();
-  } catch (err) {
-    whoami = os.userInfo().username || "unknown";
-  }
-
-  // Log metadata
-  console.log(`File written to ${filePath}`);
-  console.log(` - Permissions: ${mode}`);
-  console.log(` - Size: ${size} bytes`);
-  console.log(` - Owner: ${owner} (UID ${uid})`);
-  console.log(` - Group: ${group} (GID ${gid})`);
-  console.log(` - Current user: ${whoami}`);
 }
 
 // Function to clear results
 function clearResults() {
-  // results = {} would not update references in router.js etc
   for (const key in results) delete results[key];
   if (consts.STATS_MODE === "STATS_FILE") {
     saveResultsToFile();
@@ -115,7 +74,6 @@ const quizzes = quizFileDir.map((file) => {
 async function loadTranslations(lang) {
   const { po } = await import("gettext-parser");
 
-  // Special case for English – map 'en' to 'template.pot'
   const filename = lang === "en" ? "template.pot" : `${lang}.po`;
   const filePath = path.join(consts.DATA_DIR_BASEPATH, "..", "po", filename);
 
@@ -125,14 +83,10 @@ async function loadTranslations(lang) {
     gt.addTranslations(lang, "messages", translations);
     gt.setLocale(lang);
   } else {
-    console.error(
-      `Translation file not found for lang '${lang}' at path: ${filePath}. Falling back to 'en'.`
-    );
     gt.setLocale("en");
   }
 }
 
-// Pass dependencies to the router
 const router = routes({
   loadTranslations,
   quizzes,
@@ -143,6 +97,7 @@ const router = routes({
   saveResultsToFile:
     consts.STATS_MODE === "STATS_FILE" ? saveResultsToFile : () => {},
 });
+
 app.use("/", router);
 
 module.exports = app;

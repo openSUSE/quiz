@@ -26,10 +26,13 @@ const RESET_TOKEN = envFileExists
   ? process.env.RESET_TOKEN || ""
   : "supersecret";
 
+const EVENT = process.env.EVENT || "openSUSE";
+
 module.exports = {
   DATA_DIR_BASEPATH,
   DATA_DIR_PATH,
   RESET_TOKEN,
   STATS_MODE,
   STATS_FILE_PATH,
+  EVENT,
 };
