@@ -4,175 +4,175 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-09 16:21+0000\nLast-Translator: Stod Stod <whatsapp2.ruse123@passinbox.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr ""
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang ingin tahu!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Bunglon bisa berubah menjadi warna apa?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Hanya hijau"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Warna apa pun, bahkan ungu!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Banyak warna seperti hijau, coklat, kuning"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Hanya hitam dan putih"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "Apa maskot openSUSE?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "Pinguin"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Bunglon bernama Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Naga"
 
 msgid "A robot"
-msgstr ""
+msgstr "Robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Mengapa bunglon berubah warna?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Untuk menunjukkan apa yang mereka rasakan atau untuk bersembunyi"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Karena mereka bosan"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Karena bereka adalah robot berdarah dingin"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Agar menyala dalam gelap"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "Bunglon terutama ditemukan di bagian dunia mana?"
 
 msgid "South America"
-msgstr ""
+msgstr "Amerika Selatan"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "Afrika dan Madagaskar"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "Asia Tenggara"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antartika"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Bagaimana cara bunglon menangkap makanannya?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "Dengan tangan"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "Dengan lidah mereka yang panjang dan lengket"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Dengan meneriakinya"
 
 msgid "With a net"
-msgstr ""
+msgstr "Dengan jaring"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Bunglon makan apa saja?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Es krim"
 
 msgid "Insects"
-msgstr ""
+msgstr "Serangga"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Nanas"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Hot dog"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "Apa yang membuat openSUSE spesial?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Bisa berbicara dengan hewan"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "Merupakan sistem operasi yang modern dan gratis yang dapat digunakan siapa pun—termasuk kamu!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Dibuat dari sisik bunglon"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Hanya untuk agen rahasia"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Apakah semua bunglon terlihat sama?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Ya, mereka sema hijau dan pemarah"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Tidak, mereka memiliki beragam bentuk, ukuran, dan warna"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Ya, mereka sema memakai topi"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Mereka semua memakai stiker openSUSE"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "Apa arti kata 'open' di openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Kata tersebut adalah sandi"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Kata tersebut berarti semua orang bisa menggunakannya dan membantu menjadikannya lebih baik"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Hanya digunakan untuk membuka pintu"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Digunakan untuk membuka bungkus permen"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Dapatkah bunglon menggerakkan matanya secara terpisah?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Tidak, mereka mengedipkan kedua mata secara bersamaan"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Ya, mereka bisa melihat ke dua arah sekaligus!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Mereka menutup satu mata saat tidur"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Tidak, mata mereka selalu tertutup"
 
 msgid "openSUSE Expert"
 msgstr ""
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
-msgstr ""
+msgstr "Tantang pengguna lain di papan peringkat kami. 30 detik per pertanyaan. Berhenti kapan saja."
 
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Apa maskot proyek openSUSE?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
 msgstr ""
@@ -184,52 +184,52 @@ msgid "BeefyMiracle"
 msgstr ""
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "Apa tujuan utama proyek openSUSE?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Mendukung dan menyebarluaskan perangkat lunak sumber terbuka"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Mengembangkan aplikasi seluler"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Memproduksi permainan video"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Penelitian dalam kecerdasan buatan"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Apa itu Aeon dan Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Desktop ‘Immutable’ modern dengan GNOME dan KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr ""
+msgstr "Distribusi bergulir dengan pembaruan transaksional menggunakan flatpak di desktop"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "Distribusi yang dibangun di atas MicroOS"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Semua pilihan benar"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "Di mana proyek openSUSE didirikan?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "Di Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "Di LinuxWorld Conference & Expo 2005 di San Francisco"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "Di Redmont"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "Di Universitas Helsinki"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "Apa filesystem bawaan di openSUSE?"
 
 msgid "ReiserFS"
 msgstr ""
@@ -244,7 +244,7 @@ msgid "InterPlanetary File System"
 msgstr ""
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Apa nama penginstal baru di Leap 16?"
 
 msgid "Sypper"
 msgstr ""
@@ -259,10 +259,10 @@ msgid "Cayman"
 msgstr ""
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr ""
+msgstr "Distribusi openSUSE mana yang dioptimalkan untuk menjalankan kontainer dan layanan mikro?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS dan Leap Micro"
 
 msgid "Tumbleweed"
 msgstr ""
@@ -273,8 +273,9 @@ msgstr ""
 msgid "Slowroll"
 msgstr ""
 
+#, fuzzy
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
+msgstr "Distribusi bergulir openSUSE mana yang menawarkan alternatif yang lebih tenang untuk Tumbleweed bagi pengguna yang cenderung memilih lebih sedikit kejutan?"
 
 msgid "Tumblebleed"
 msgstr ""
@@ -286,7 +287,7 @@ msgid "Zyppernap"
 msgstr ""
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
+msgstr "Manakah dari manajer paket berikut ini yang biasa digunakan di openSUSE?"
 
 msgid "Yum"
 msgstr ""
@@ -301,19 +302,19 @@ msgid "Pacman"
 msgstr ""
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Apa itu Leap 16.0?"
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr ""
+msgstr "Distribusi Linux tradisional, penerus Leap 15.6, dirilis pada musim gugur 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "Distribusi immutable dengan GNOME dan KDE"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "Rilis bergulir untuk perangkat seluler"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "Sistem yang berfokus pada kontainer seperti MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr ""
