@@ -34,7 +34,9 @@ function _(str) {
 }
 const USERNAME_POLICY =
   process.env.USERNAME_POLICY ||
-  _("Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname).");
+  _(
+    "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+  );
 
 module.exports = {
   DATA_DIR_BASEPATH,
