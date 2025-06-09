@@ -13,7 +13,6 @@
   <link href="/styles.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <div class="event-watermark-big" id="event-watermark"><%= event %></div>
   <div class="main-page-container">
     <div class="top-bar-container">
     <div id="loggedInBanner">
@@ -45,11 +44,11 @@
       <div class="opensuse-quiz-logo-header">
         <img src="/img/button-colour.png" alt="openSUSE Logo" class="opensuse-quiz-logo-header__image">
         <div class="opensuse-quiz-logo-header__text-block">
-          <span class="opensuse-quiz-logo-header__text--opensuse">openSUSE</span>
+          <span class="opensuse-quiz-logo-header__text--opensuse"><%= event %></span>
           <span class="opensuse-quiz-logo-header__text--quiz">QU1Z!</span>
         </div>
       </div>
-      <p class="quiz-main-subtitle"><%= t("Available quizzes for") %> <span class="event"><%= event %></span>:</p>
+      <p class="quiz-main-subtitle"><%= t("Available quizzes") %>:</p>
     </div>
     <div class="quizzes">
       <% quizzes.forEach((quiz, index) => { %>

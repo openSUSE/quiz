@@ -1,34 +1,5 @@
 @import "variables.less";
 
-.event-watermark-big {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  z-index: 0;
-  transform: translate(-50%, -50%);
-  font-size: 18vw;
-  font-weight: 800;
-  color: rgba(255, 255, 255, 0.05);
-  white-space: nowrap;
-  pointer-events: none;
-  user-select: none;
-  font-family: "Source Sans 3", sans-serif;
-  text-align: center;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-@media (max-width: 768px) {
-  .event-watermark-big {
-    font-size: 35vw;
-    /* This could potentially help on mobile screen ... */
-    /*transform: rotate(-90deg) translate(-50%, 0); */
-    transform-origin: left center;
-    left: 5vw;
-    top: 50%;
-    text-align: left;
-  }
-}
-
 .top-bar-container {
   width: 100%;
   display: flex;
@@ -142,12 +113,6 @@
   margin-top: 0;
   font-size: 1.3em;
   color: darkgray;
-}
-
-.quiz-main-header .event {
-  font-weight: 700;
-  color: #2c5a6c;
-  color: #2c5a6c;
 }
 
 @media (max-width: 768px) {
