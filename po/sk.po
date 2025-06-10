@@ -1,16 +1,6 @@
+# Ferdinand Galko <galko.ferdinand@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-10 12:32+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 09:25+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s chameleónom pre deti!"
@@ -940,232 +930,232 @@ msgid "What does IPL 150 mean?"
 msgstr "Čo znamená IPL 150?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Dajte mi ďalších 150 MB pamäte"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "IP môjho linuxového stroja"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Spustenie systému z disku 150."
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Install Python Libraries verzia 1.5.0"
 
 msgid "What is IFL?"
-msgstr ""
+msgstr "Čo je IFL?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "Filtračná jednotka pre chladiacu kvapalinu"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Jadro na beh Linuxu na mainframe"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Vymyslené slovo, ktoré má zmiasť používateľov laptopov"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Integrated FLat obvod"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "Čo je cio_ignore?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Príkaz maskujúci viditeľnosť zariadení"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "Ignorovanie vstupných/výstupných dát, kým nie je linka pripravená na príjem"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "V skutočnosti to znamená ignorovať CIO"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "z/VM syslog filter"
 
 msgid "What is the most used operating system on mainframes?"
-msgstr ""
+msgstr "Aký je najpoužívanejší operačný systém na mainframoch?"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
 msgid "Linux"
 msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "z/VM"
-msgstr ""
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Majú mainframy nejaké špeciálne AI schopnosti?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Áno, najnovšie modely majú akcelerátor Spyre."
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "Nie, je to príliš stará technológia."
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Áno, ale nedá sa použiť pre Linux."
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "Nie, mainframy nie sú vhodné na vykonávanie AI úloh."
 
 msgid "Which of the following I/O devices is not used with mainframes?"
 msgstr "Ktoré z nasledujúcich vstupno-výstupných zariadení sa nepoužíva na centrálnych počítačoch?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Disky"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Páskové jednotky"
 
 msgid "Network"
-msgstr ""
+msgstr "Sieť"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "Záverečná výzva YaST"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "Myslíte si, že poznáte YaST? Zamyslite sa ešte raz."
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Koľko prekladových balíkov YaST2 je v Tumbleweed?"
 
 msgid "about 25"
-msgstr ""
+msgstr "približne 25"
 
 msgid "about 40"
-msgstr ""
+msgstr "približne 40"
 
 msgid "about 60"
-msgstr ""
+msgstr "približne 60"
 
 msgid "about 80"
-msgstr ""
+msgstr "približne 80"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Koľko balíkov YaST2 (bez prekladových balíkov) je v Tumbleweed?"
 
 msgid "about 30"
-msgstr ""
+msgstr "približne 30"
 
 msgid "about 50"
-msgstr ""
+msgstr "približne 50"
 
 msgid "about 100"
-msgstr ""
+msgstr "približne 100"
 
 msgid "about 150"
-msgstr ""
+msgstr "približne 150"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "Kedy bol bolo vydané prvé YaST2?"
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "2002"
-msgstr ""
+msgstr "2002"
 
 msgid "2004"
-msgstr ""
+msgstr "2004"
 
 msgid "2006"
-msgstr ""
+msgstr "2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "Kedy YaST2 dosiahlo v Nemecku povolený vek na konzumáciu alkoholu?"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "Čo sa stane po stlačení klávesu F2 v yast2 sw_single (Qt)?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "Získate zobrazenie \"Opravy\""
 
 msgid "It crashes"
-msgstr ""
+msgstr "Zlyháva"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "Nainštaluje náhodný balík"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "Mogwai dostanú hlad"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "Ako môžete získať xterm v inštalácii YaST2?"
 
 msgid "you can't"
-msgstr ""
+msgstr "nemôžete"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "7-krát kliknete na ikonu Geeko vľavo hore"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "do mikrofónu jasne vyslovíte \"xterm\" (len notebooky)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "Môžete preskúmať hierarchiu widgetov v okne YaST2 počas jeho behu?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "Áno, 7-krát kliknite na záhlavie stránky"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "Áno, kliknite stredným tlačidlom myši na ľubovoľný widget"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "Áno, použite Ctrl-Shift-Alt-Y"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "Nie - použi zdroj, Luke"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "Čo sa stane, ak kliknete pravým tlačidlom myši na tlačidlo v YaST2?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "Otvorí kontextové menu tlačidla"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "Obnoví predvolené nastavenie stránky"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "Spýta sa, či chcete prepnúť myš do režimu pre ľavákov"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "Prepne sa na tmavú tému widgetu alebo späť"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "Je možné zmeniť farebnú paletu YaST (Qt) pre zrakovo postihnutých používateľov?"
 
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "Áno, kliknite na ikonu slnka/mesiaca"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "Áno, použite Shift-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "Áno, kliknite pravým tlačidlom myši na tlačidlo \"Pomocník\""
 
 msgid "Start Quiz"
 msgstr "Spustiť kvíz"
@@ -1195,35 +1185,35 @@ msgid "Score"
 msgstr "Skóre"
 
 msgid "Final"
-msgstr ""
+msgstr "Finálne"
 
 msgid "Restart"
 msgstr "Reštart"
 
 msgid "Question"
-msgstr ""
+msgstr "Otázka"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "Ak chcete pokračovať, zadajte používateľské meno."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Vitajte, %s"
 
 msgid "Are you sure you want to quit and submit?"
 msgstr "Ste si istí, že chcete ukončiť a odoslať?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "Používateľské meno je príliš krátke."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Je nám ľúto, toto prihlasovacie meno je už obsadené."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Ste si istý, že chcete ukončiť? Váš postup sa neuloží."
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
+msgstr "Použite rozpoznateľnú prezývku, ako napríklad ZypperJedi, alebo najlepšie svoje skutočné meno (MenoPriezvisko)."
 
 #~ msgid "Language"
 #~ msgstr "Jazyk"
