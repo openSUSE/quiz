@@ -1,70 +1,59 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-08 15:59+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 12:32+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Chamäleon Spaß für Kinder!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Ein farbenfrohes quiz über Chamäleons und openSUSE für neugierige Kinder!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Welche Farben kann ein Chamäleon annehmen?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Nur grün"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Jede Farbe, sogar violett!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Viele Farben wie grün, braun, gelb"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Nur schwarz und weiß"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "Was ist das openSUSE Maskottchen?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "Ein Pinguin"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Ein Chamäleon namens Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Ein Drache"
 
 msgid "A robot"
-msgstr ""
+msgstr "Ein Roboter"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Warum ändern Chamäleons ihre Farbe?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Um zu zeigen wie sie sich fühlen oder um sich zu verstecken"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Weil ihnen langweilig ist"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Weil sie kaltblütige Roboter sind"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Um im Dunkeln zu leuchten"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr "Chameleons findet man hauptsächlich in welchem Teil der Erde?"
+msgstr "Chamäleons findet man hauptsächlich wo auf der Erde?"
 
 msgid "South America"
 msgstr "Südamerika"
@@ -79,94 +68,94 @@ msgid "Antarctica"
 msgstr "Antarktis"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Wie fangen Chamäleons ihr Essen?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "Mit ihren Händen"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "Mit ihrer langen und klebrigen Zunge"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Durch Anschreien"
 
 msgid "With a net"
-msgstr ""
+msgstr "Mit einem Netz"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Was essen Chamäleons?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Eiscreme"
 
 msgid "Insects"
-msgstr ""
+msgstr "Insekten"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Ananas"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Hot Dogs"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "Was macht openSUSE besonders?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Es kann mit Tieren sprechen"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "Es ist ein modernes, freies und kostenloses Betriebssystem, dass jeder nutzen kann — auch du!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Es ist aus den Schuppen eines Chamäleons gefertigt"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Es ist nur für Geheimagenten"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Sehen alle Chamäleons gleich aus?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Ja, sie sind alle grün und mies gelaunt"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Nein, es gibt sie in vielen Formen, Größen und Farben"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Ja, sie tragen alle Hüte"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Sie tragen alle openSUSE Sticker"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "Was bedeutet das wort 'open' in openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Es ist ein Passwort"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Es heißt, jeder kann es benutzen und verbessern"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Es ist nur da um Türen zu öffnen"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Es ist für das Öffnen der Verpackung von Süßigkeiten"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Können Chamäleons ihre Augen unabhängig von einander bewegen?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Nein, sie blinzeln mit beiden Augen gleichzeitig"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Ja, sie können mit beiden Augen in verschiedene Richtungen gleichzeitig schauen!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Sie schließen ein Auge wenn sie schlafen"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Nein, ihre Augen sind immer geschlossen"
 
 msgid "openSUSE Expert"
 msgstr "openSUSE Experte"
@@ -178,7 +167,7 @@ msgid "What is the mascot of openSUSE project?"
 msgstr "Was ist das Maskottchen des openSUSE-Projekts?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
 msgstr "TwoPac"
@@ -202,7 +191,7 @@ msgid "Producing video games"
 msgstr "Videospiele zu produzieren"
 
 msgid "Research in artificial intelligence"
-msgstr "Künstliche Intelligenz zu untersuchen"
+msgstr "Forschung an künstlicher Intelligenz"
 
 msgid "What are Aeon and Kalpa?"
 msgstr "Was sind Aeon und Kalpa?"
@@ -211,7 +200,7 @@ msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "Moderne 'Immutable' Desktops mit GNOME und KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Rolling Distributionen mit transaktionalen Updates welche Flatpaks auf dem Desktop verwenden"
+msgstr "Rolling-Release Distributionen mit transaktionalen Updates welche Flatpaks auf dem Desktop verwenden"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Auf MicroOS basierende Distributionen"
@@ -235,7 +224,7 @@ msgid "At the University of Helsinki"
 msgstr "An der Universität von Helsinki"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr "Was ist das standard Dateisystem auf openSUSE?"
+msgstr "Was ist das standard-Dateisystem unter openSUSE?"
 
 msgid "ReiserFS"
 msgstr "ReiserFS"
@@ -280,7 +269,7 @@ msgid "Slowroll"
 msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr "Welche openSUSE Distribution bietet eine ruhigere Alternative zu Tumbleweed für Nutzer die weniger Überraschungen bevorzugen?"
+msgstr "Welche openSUSE Distribution bietet eine ruhigere Alternative zu Tumbleweed, für Nutzer die weniger Überraschungen bevorzugen?"
 
 msgid "Tumblebleed"
 msgstr "Tumblebleed"
@@ -292,7 +281,7 @@ msgid "Zyppernap"
 msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Welcher der folgenden Paketmanager wird häufig auf openSUSE verwendet?"
+msgstr "Welcher der folgenden Paketmanager wird häufig unter openSUSE verwendet?"
 
 msgid "Yum"
 msgstr "Yum"
@@ -322,7 +311,7 @@ msgid "A container-focused system like MicroOS"
 msgstr "Ein Betriebssystem für Container, wie MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr "Welche Desktop-Umgebung ist standard auf openSUSE Leap 15?"
+msgstr "Welche Desktop-Umgebung ist Standard unter auf openSUSE Leap 15?"
 
 msgid "GNOME"
 msgstr "GNOME"
@@ -356,7 +345,7 @@ msgid "How can you make changes to a root partition on a transactional-update ba
 msgstr "Wie kann man Änderungen an der root-Partition auf einem transaktionalen System vornehmen?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr "transactional-update command verwenden und beim Neustart einen neuen snapshot auswählen"
+msgstr "Das transactional-update Programm verwenden und in einen neuen Snapshot booten"
 
 msgid "By using sudo-sudo to gain giga privileges"
 msgstr "Indem man sudo-sudo verwendet um Giga-Rechte zu erhalten"
@@ -365,7 +354,7 @@ msgid "By using Salt or Ansible"
 msgstr "Indem man Salt oder Ansible verwendet"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "Indem man Dateien als netrunner User anpasst und seine Finger kreuzt"
 
 msgid "What is 'YaST'?"
 msgstr "Was ist 'YaST'?"
@@ -389,7 +378,7 @@ msgid "A modern transactional-desktop system with GNOME"
 msgstr "Ein modernes transaktionales Desktop-System mit GNOME"
 
 msgid "Scientific research"
-msgstr "Forschung für die Wissenschaft"
+msgstr "wissenschaftliche Forschung"
 
 msgid "Containerization"
 msgstr "Containerisierung"
@@ -413,7 +402,7 @@ msgid "Cowboy Hat"
 msgstr "Cowboy Hat"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr "Wo kann man den aktuellen Status von openSUSE Infrastruktur ansehen?"
+msgstr "Wo kann man den aktuellen Status der openSUSE Infrastruktur einsehen?"
 
 msgid "status.opensuse.org"
 msgstr "status.opensuse.org"
@@ -428,13 +417,13 @@ msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
-msgstr "Wo kann man zusätzliche Pakete und Pakete mit Änderungen, die es nicht in die Hauptdistribution geschafft haben, installieren?"
+msgstr "Wo kann man zusätzliche Pakete oder Pakete mit Änderungen, die es nicht in die Hauptdistribution geschafft haben, installieren?"
 
 msgid "With a single click from software.opensuse.org"
 msgstr "Mit einem einzigen Klick auf software.opensuse.org"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr "Indem man die unzähligen Projekte im OBS build.opensuse.org durchsucht"
+msgstr "Indem man die unzähligen Projekte im OBS unter build.opensuse.org durchsucht"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
 msgstr "Mit dem Befehl opi, aus dem Packman repository oder von Flathub"
@@ -476,10 +465,10 @@ msgid "Every 5 years when the stars align"
 msgstr "Alle 5 Jahre wenn die Sterne gut stehen"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Alle 12 Monate mit einer 6-monatigen Überlappung"
 
 msgid "Every month"
-msgstr ""
+msgstr "Jeden Monat"
 
 msgid "When the Geeko gets bored"
 msgstr ""
@@ -488,7 +477,7 @@ msgid "Which openSUSE service is used for localization and translation managemen
 msgstr ""
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 #, fuzzy
 #| msgid "OBS (Open Build Service)"
@@ -496,10 +485,10 @@ msgid "Build Service"
 msgstr "OBS (Open Build Service)"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "Welches Kommando würden Sie benutzen um Software Pakete in openSUSE von der Konsole aus zu updaten?"
 
 msgid "zypper update"
 msgstr "zypper update"
@@ -510,10 +499,10 @@ msgid "apt-get update"
 msgstr "zypper update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 #, fuzzy
 #| msgid "What is the default filesystem in openSUSE?"
@@ -526,13 +515,13 @@ msgid "A rolling release distribution"
 msgstr "Eine rolling-release Distribution für mobile Geräte"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "Eine Desktop Umgebung"
 
 msgid "The mascot"
-msgstr ""
+msgstr "Das Maskottchen"
 
 msgid "An installer"
-msgstr ""
+msgstr "Ein Installer"
 
 #, fuzzy
 #| msgid "What command can you use to refresh zypper repositories?"
@@ -579,7 +568,7 @@ msgid "Gaming"
 msgstr ""
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Desktop Produktivität"
 
 #, fuzzy
 #| msgid "Scientific research"
@@ -587,7 +576,7 @@ msgid "Scientific computing"
 msgstr "Forschung für die Wissenschaft"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr ""
+msgstr "Welches Programm wird unter openSUSE benutzt um Snapshots zu erstellen und zu verwalten?"
 
 #, fuzzy
 #| msgid "Snapper"
@@ -606,7 +595,7 @@ msgid "rsnapshot"
 msgstr ""
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "Was ist openSUSEs Standard Text Editor?"
 
 msgid "vim"
 msgstr ""
@@ -621,7 +610,7 @@ msgid "gedit"
 msgstr ""
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "Welcher Befehl installiert ein Paket in openSUSE?"
 
 msgid "zypper install package-name"
 msgstr ""
