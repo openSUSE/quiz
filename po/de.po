@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 12:32+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 12:32+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Chamäleon Spaß für Kinder!"
@@ -471,18 +471,16 @@ msgid "Every month"
 msgstr "Jeden Monat"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Wenn dem Geeko langweilig ist"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Welcher openSUSE Service wird für Lokalisierung uns Übersetzungsverwaltung verwendet?"
 
 msgid "OBS"
 msgstr "OBS"
 
-#, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Build Service"
 
 msgid "Kickstart"
 msgstr "Kickstart"
@@ -493,10 +491,8 @@ msgstr "Welches Kommando würden Sie benutzen um Software Pakete in openSUSE von
 msgid "zypper update"
 msgstr "zypper update"
 
-#, fuzzy
-#| msgid "zypper update"
 msgid "apt-get update"
-msgstr "zypper update"
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
 msgstr "dnf upgrade"
@@ -504,15 +500,11 @@ msgstr "dnf upgrade"
 msgid "pacman -Syu"
 msgstr "pacman -Syu"
 
-#, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "Was ist das standard Dateisystem auf openSUSE?"
+msgstr "Was repräsentiert Tumbleweed in openSUSE?"
 
-#, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
-msgstr "Eine rolling-release Distribution für mobile Geräte"
+msgstr "Eine rolling-release Distribution"
 
 msgid "A desktop environment"
 msgstr "Eine Desktop Umgebung"
@@ -523,88 +515,69 @@ msgstr "Das Maskottchen"
 msgid "An installer"
 msgstr "Ein Installer"
 
-#, fuzzy
-#| msgid "What command can you use to refresh zypper repositories?"
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "Welchen Befehl verwendet man um zypper repositories zu aktualisieren?"
+msgstr "Welches Kommandozeilenprogramm verwendet man auf openSUSE um zypper repositories zu aktualisieren?"
 
-#, fuzzy
-#| msgid "Sypper"
 msgid "zypper"
-msgstr "Sypper"
+msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
-#, fuzzy
-#| msgid "Yum"
 msgid "yum"
-msgstr "Yum"
+msgstr "yum"
 
-#, fuzzy
-#| msgid "Pacman"
 msgid "pacman"
-msgstr "Pacman"
+msgstr "pacman"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "Welche openSUSE Distribution ist für Container und Microservices optimiert?"
+msgstr "Welche openSUSE Distribution ist für stabile Versionen bekannt?"
 
+#, fuzzy
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
-#, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "Was ist das Maskottchen des openSUSE-Projekts?"
+msgstr "Was ist der primäre Fokus von openSUSE MicroOS?"
 
-#, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "Welche openSUSE Distribution ist für Container und Microservices optimiert?"
+msgstr "Immutable Distribution optimiert für Container und Microservices"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Videospiele spielen"
 
 msgid "Desktop productivity"
 msgstr "Desktop Produktivität"
 
-#, fuzzy
-#| msgid "Scientific research"
 msgid "Scientific computing"
-msgstr "Forschung für die Wissenschaft"
+msgstr "wissenschaftliche Rechenarbeit"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr "Welches Programm wird unter openSUSE benutzt um Snapshots zu erstellen und zu verwalten?"
 
-#, fuzzy
-#| msgid "Snapper"
 msgid "snapper"
-msgstr "Snapper"
+msgstr "snapper"
 
-#, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift"
-msgstr "Timeshift"
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
 msgstr "Was ist openSUSEs Standard Text Editor?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
 msgstr ""
