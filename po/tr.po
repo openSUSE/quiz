@@ -1,16 +1,6 @@
+# Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-05 23:53+0000\n"
-"Last-Translator: Onuralp SEZER <thunderbirdtr@gmail.com>\n"
-"Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 15:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Çocuklar için Bukalemun Eğlencesi!"
@@ -33,7 +23,6 @@ msgstr "Yeşil, kahverengi, sarı gibi birçok renk"
 msgid "Only black and white"
 msgstr "Sadece siyah ve beyaz"
 
-#, fuzzy
 msgid "What is the mascot of openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
@@ -109,9 +98,8 @@ msgstr "Ananas"
 msgid "Hot dogs"
 msgstr "Sosisli sandviç"
 
-#, fuzzy
 msgid "What makes openSUSE special?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
+msgstr "OpenSUSE’yi özel kılan nedir?"
 
 msgid "It can talk to animals"
 msgstr "Hayvanlarla konuşabilir"
@@ -140,9 +128,8 @@ msgstr "Evet, hepsi şapka takar"
 msgid "They all wear openSUSE stickers"
 msgstr "Hepsi openSUSE çıkartması takar"
 
-#, fuzzy
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
+msgstr "OpenSUSE'deki 'open' kelimesi ne anlama geliyor?"
 
 msgid "It’s a password"
 msgstr "Bir şifre"
@@ -174,7 +161,6 @@ msgstr "Hayır, gözleri hep kapalıdır"
 msgid "openSUSE Expert"
 msgstr "openSUSE Uzmanı"
 
-#, fuzzy
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "Skor tahtamızdaki diğer kullanıcılara meydan oku. Soru başına 30 saniye. İstediğin zaman durdur."
 
@@ -235,7 +221,6 @@ msgstr "2005 yılındaki San Francisco'daki LinuxWorld Konferansı ve Fuarı"
 msgid "In Redmont"
 msgstr "Redmont"
 
-#, fuzzy
 msgid "At the University of Helsinki"
 msgstr "Helsinky Üniversitesi"
 
