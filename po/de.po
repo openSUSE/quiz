@@ -2,7 +2,7 @@
 # Dan Čermák <dcermak@suse.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 15:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 09:25+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Chamäleon Spaß für Kinder!"
@@ -933,43 +933,43 @@ msgid "What does IPL 150 mean?"
 msgstr "Was bedeutet IPL 150?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Gib mir zusätzliche 150MB Speicher"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "IP Adresse meiner Linux Maschine"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Boote von der Festplatte 150."
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Installiere Version 1.5.0 der Python Bibliothek"
 
 msgid "What is IFL?"
-msgstr ""
+msgstr "Was ist IFL?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "Eine Filtrationseinheit für Kühlflüssigkeit"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Der Kernel um Linux auf Mainfraimes auszuführen"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Ein erfundenes Wort um Laptop Nutzer zu verwirren"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Integrated FLat circuit"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "Was ist cio_ignore?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Ein Befehl um die Verfügbarkeit von Geräten zu maskieren"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "Ignoriere Ein- und Ausgangsdaten bis die Leitung bereit ist, neue Daten zu empfangen"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "Es bedeutet in Wirklichkeit ignoriere CIO"
 
 msgid "A z/VM syslog filter"
 msgstr "Ein z/VM syslog Filter"
@@ -1026,7 +1026,7 @@ msgid "The Ultimate YaST Challenge"
 msgstr "Die Ultimative YaST Herausforderung"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "Sie denken Sie kennen YaST? Denken Sie nochmal darüber nach."
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
 msgstr "Wie viele YaST2 Übersetzungspakete gibt es in Tumbleweed?"
@@ -1074,7 +1074,7 @@ msgid "2006"
 msgstr "2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "In welchem Jahre erreichte YaST2 das Alter, in dem es hätte legal in Deutschland Alkohol trinken dürfen?"
 
 msgid "2010"
 msgstr ""
