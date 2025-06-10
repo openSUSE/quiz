@@ -1,6 +1,9 @@
 require("dotenv").config();
+const security = require("./security");
+
 const path = require("path");
 const fs = require("fs"); // Added fs module
+const { emitWarning } = require("process");
 
 const DATA_DIR_BASEPATH = process.env.LAMBDA_TASK_ROOT
   ? path.join(process.env.LAMBDA_TASK_ROOT, "src")
@@ -21,10 +24,8 @@ let resolvedStatsFilePath =
   process.env.STATS_FILE_PATH || path.join(projectRoot, "data", "stats.json");
 const STATS_FILE_PATH = resolvedStatsFilePath;
 
-// RESET_TOKEN defaults to "supersecret" if not set in .env or if .env doesn't exist.
-const RESET_TOKEN = envFileExists
-  ? process.env.RESET_TOKEN || ""
-  : "supersecret";
+// RESET_TOKEN we generate a memorable password and log it on console by default
+const RESET_TOKEN = process.env.RESET_TOKEN || security.generateMemorablePassword();
 
 const EVENT = process.env.EVENT || "openSUSE";
 
