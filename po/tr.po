@@ -34,7 +34,6 @@ msgid "Only black and white"
 msgstr "Sadece siyah ve beyaz"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the mascot of openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
@@ -111,7 +110,6 @@ msgid "Hot dogs"
 msgstr "Sosisli sandviç"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What makes openSUSE special?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
@@ -143,7 +141,6 @@ msgid "They all wear openSUSE stickers"
 msgstr "Hepsi openSUSE çıkartması takar"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does the word 'open' in openSUSE mean?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
@@ -239,7 +236,6 @@ msgid "In Redmont"
 msgstr "Redmont"
 
 #, fuzzy
-#| msgid "At the University of Helsinky"
 msgid "At the University of Helsinki"
 msgstr "Helsinky Üniversitesi"
 
@@ -346,7 +342,6 @@ msgid "There is no default. We leave choice to the user."
 msgstr "Varsayılan yok. Seçimi kullanıcıya bırakıyoruz."
 
 #, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the name of the openSUSE build system?"
 msgstr "OpenSUSE derleme sisteminin adı nedir?"
 
@@ -393,7 +388,6 @@ msgid "A programming language"
 msgstr "Bir programlama dili"
 
 #, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the primary goal of the openSUSE Aeon distribution?"
 msgstr "OpenSUSE projesinin temel amacı nedir?"
 
@@ -467,7 +461,6 @@ msgid "Via smoke signals from Nuremberg"
 msgstr "Nürnberg'den duman sinyalleriyle"
 
 #, fuzzy
-#| msgid "What’s the name of the new installer in Leap 16?"
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr "Leap 16'daki yeni yükleyicinin adı nedir?"
 
@@ -526,12 +519,10 @@ msgid "pacman -Syu"
 msgstr "pacman -Syu"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does Tumbleweed represent in openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 #, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
 msgstr "Mobil cihazlar için sürekli güncellenen bir sürüm"
 
@@ -560,7 +551,6 @@ msgid "pacman"
 msgstr "pacman"
 
 #, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "Hangi openSUSE dağıtımı konteyner ve mikro servisleri çalıştırmak için optimize edilmiştir?"
 
@@ -568,12 +558,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 #, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
 msgstr "Hangi openSUSE dağıtımı konteyner ve mikro servisleri çalıştırmak için optimize edilmiştir?"
 
@@ -587,7 +575,6 @@ msgid "Scientific computing"
 msgstr "Bilimsel hesaplama"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
@@ -595,7 +582,6 @@ msgid "snapper"
 msgstr "snapper"
 
 #, fuzzy
-#| msgid "Time left"
 msgid "timeshift"
 msgstr "Zaman kaldı"
 
@@ -657,12 +643,10 @@ msgid "APT"
 msgstr "APT"
 
 #, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "OpenSUSE derleme sisteminin adı nedir?"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "Which file format does openSUSE use for package management?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
@@ -745,7 +729,6 @@ msgid "Creating proprietary software"
 msgstr "Tescilli yazılım oluşturmak"
 
 #, fuzzy
-#| msgid "Producing video games"
 msgid "Developing video games"
 msgstr "Video oyunları üretmek"
 
@@ -771,7 +754,6 @@ msgid "snapper list"
 msgstr "snapper list"
 
 #, fuzzy
-#| msgid "Time left"
 msgid "timeshift --list"
 msgstr "Zaman kaldı"
 
@@ -782,12 +764,10 @@ msgid "rsnapshot config"
 msgstr "rsnapshot config"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What package format does openSUSE use?"
 msgstr "OpenSUSE projesinin maskotu nedir?"
 
 #, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the default shell in openSUSE?"
 msgstr "OpenSUSE'deki varsayılan dosya sistemi nedir?"
 
@@ -807,7 +787,6 @@ msgid "Which of these is a community-driven openSUSE version?"
 msgstr "Bunlardan hangisi topluluk tarafından geliştirilen bir openSUSE sürümüdür?"
 
 #, fuzzy
-#| msgid "MicroOS and Leap Micro"
 msgid "Leap Micro"
 msgstr "MicroOS ve Leap Micro"
 
@@ -815,7 +794,6 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Greenhorn"
 msgstr "openSUSE Uzman"
 
@@ -844,7 +822,6 @@ msgid "Only from mysterious USB sticks left in coffee shops"
 msgstr ""
 
 #, fuzzy
-#| msgid "forums.opensuse.org"
 msgid "From get.opensuse.org"
 msgstr "forums.opensuse.org"
 
@@ -864,7 +841,6 @@ msgid "Send a strongly worded letter to Geeko"
 msgstr ""
 
 #, fuzzy
-#| msgid "status.opensuse.org"
 msgid "Submit it on bugzilla.opensuse.org"
 msgstr "status.opensuse.org"
 
@@ -878,7 +854,6 @@ msgid "Try decoding ancient Geeko scrolls"
 msgstr ""
 
 #, fuzzy
-#| msgid "status.opensuse.org"
 msgid "On calendar.opensuse.org"
 msgstr "status.opensuse.org"
 
@@ -889,7 +864,6 @@ msgid "Events are revealed only during a full moon"
 msgstr ""
 
 #, fuzzy
-#| msgid "Where can you check the current status of openSUSE infrastructure?"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "openSUSE altyapısının mevcut durumunu nereden kontrol edebilirsiniz?"
 
@@ -1155,7 +1129,6 @@ msgid "It crashes"
 msgstr ""
 
 #, fuzzy
-#| msgid "dnf install package-name"
 msgid "It installs a random package"
 msgstr "dnf install package-name"
 
@@ -1253,7 +1226,6 @@ msgid "Final"
 msgstr "Final"
 
 #, fuzzy
-#| msgid "Start"
 msgid "Restart"
 msgstr "Başla"
 

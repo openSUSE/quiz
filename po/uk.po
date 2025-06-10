@@ -511,7 +511,6 @@ msgid "pacman -Syu"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does Tumbleweed represent in openSUSE?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -549,7 +548,6 @@ msgid "MicroOS"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -611,7 +609,6 @@ msgid "pacman -S package-name"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the name of the official openSUSE community forum?"
 msgstr "Яка головна мета проєкту openSUSE?"
 
@@ -634,7 +631,6 @@ msgid "APT"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -654,7 +650,6 @@ msgid "PKG"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What command will list all repositories in openSUSE?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -671,7 +666,6 @@ msgid "pacman -Q"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary license used by openSUSE?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -688,7 +682,6 @@ msgid "Proprietary"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What does OBS stand for in openSUSE context?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -717,12 +710,10 @@ msgid "Snapper"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
 #, fuzzy
-#| msgid "Supporting and spreading open-source software"
 msgid "Promoting and supporting free and open source software"
 msgstr "Підтримка та поширення вільного програмного забезпечення"
 
@@ -730,7 +721,6 @@ msgid "Creating proprietary software"
 msgstr ""
 
 #, fuzzy
-#| msgid "Producing video games"
 msgid "Developing video games"
 msgstr "Розробка відеоігор"
 
@@ -750,7 +740,6 @@ msgid "Synaptic"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the command to check system snapshots on openSUSE?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -767,12 +756,10 @@ msgid "rsnapshot config"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What package format does openSUSE use?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the default shell in openSUSE?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -798,7 +785,6 @@ msgid "SUSE Linux Enterprise"
 msgstr ""
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Greenhorn"
 msgstr "Експерт openSUSE"
 
@@ -1196,7 +1182,6 @@ msgid "Yes, right-click the \"Help\" button"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
 msgstr "Розпочати"
 
@@ -1228,7 +1213,6 @@ msgid "Final"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "Restart"
 msgstr "Розпочати"
 

@@ -778,7 +778,6 @@ msgid "SUSE Linux Enterprise"
 msgstr ""
 
 #, fuzzy
-#| msgid "openSUSE Devconf 2025"
 msgid "openSUSE Greenhorn"
 msgstr "ओपनसुसा देवकॉन्फ 2025"
 

@@ -115,7 +115,6 @@ msgid "It can talk to animals"
 msgstr "Puede hablar con los animales"
 
 #, fuzzy
-#| msgid "It’s a free modern, and secure operating system anyone can use"
 msgid "It’s a modern, free operating system anyone can use — including you!"
 msgstr "Es un sistema operativo libre, moderno y seguro que cualquiera puede usar"
 
@@ -492,7 +491,6 @@ msgid "OBS"
 msgstr ""
 
 #, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Build Service"
 msgstr "OBS (Open Build Service)"
 
@@ -506,7 +504,6 @@ msgid "zypper update"
 msgstr "zypper update"
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "apt-get update"
 msgstr "zypper update"
 
@@ -517,12 +514,10 @@ msgid "pacman -Syu"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does Tumbleweed represent in openSUSE?"
 msgstr "¿Qué significa la palabra 'open' en openSUSE?"
 
 #, fuzzy
-#| msgid "A rolling release for mobile devices"
 msgid "A rolling release distribution"
 msgstr "Una versión continua para dispositivos móviles"
 
@@ -536,12 +531,10 @@ msgid "An installer"
 msgstr ""
 
 #, fuzzy
-#| msgid "What command can you use to refresh zypper repositories?"
 msgid "Which command line tool is used to manage repositories in openSUSE?"
 msgstr "¿Qué comando se puede usar para actualizar los repositorios con zypper?"
 
 #, fuzzy
-#| msgid "Sypper"
 msgid "zypper"
 msgstr "Sypper"
 
@@ -549,17 +542,14 @@ msgid "apt"
 msgstr ""
 
 #, fuzzy
-#| msgid "Yum"
 msgid "yum"
 msgstr "Yum"
 
 #, fuzzy
-#| msgid "Pacman"
 msgid "pacman"
 msgstr "Pacman"
 
 #, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y microservicios?"
 
@@ -567,12 +557,10 @@ msgid "MicroOS"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "¿Cuál es la mascota del proyecto openSUSE?"
 
 #, fuzzy
-#| msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgid "Immutable OS optimized for containers and microservices"
 msgstr "¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y microservicios?"
 
@@ -583,22 +571,18 @@ msgid "Desktop productivity"
 msgstr ""
 
 #, fuzzy
-#| msgid "Scientific research"
 msgid "Scientific computing"
 msgstr "Investigación científica"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr "¿Cuál es la mascota de openSUSE?"
 
 #, fuzzy
-#| msgid "Snapper"
 msgid "snapper"
 msgstr "Snapper"
 
 #, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift"
 msgstr "Timeshift"
 
@@ -639,17 +623,14 @@ msgid "pacman -S package-name"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of the official openSUSE community forum?"
 msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
 
 #, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "forums.opensuse.org"
 msgstr "fun@opensuse.org"
 
 #, fuzzy
-#| msgid "bugs.opensuse.com"
 msgid "discuss.opensuse.com"
 msgstr "bugs.opensuse.com"
 
@@ -657,7 +638,6 @@ msgid "geeko-talk.net"
 msgstr ""
 
 #, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "opensuse-chat.org"
 msgstr "fun@opensuse.org"
 
@@ -668,12 +648,10 @@ msgid "APT"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "Which file format does openSUSE use for package management?"
 msgstr "¿Qué significa la palabra 'open' en openSUSE?"
 
@@ -690,12 +668,10 @@ msgid "PKG"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What command will list all repositories in openSUSE?"
 msgstr "¿Cuál es el sistema de archivos predeterminado en openSUSE?"
 
 #, fuzzy
-#| msgid "zypper repolist"
 msgid "zypper repos"
 msgstr "zypper repolist"
 
@@ -703,17 +679,14 @@ msgid "apt list"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper repolist"
 msgid "dnf repolist"
 msgstr "zypper repolist"
 
 #, fuzzy
-#| msgid "Pacman"
 msgid "pacman -Q"
 msgstr "Pacman"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE?"
 msgid "What is the primary license used by openSUSE?"
 msgstr "¿Cuál es la mascota de openSUSE?"
 
@@ -730,12 +703,10 @@ msgid "Proprietary"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does OBS stand for in openSUSE context?"
 msgstr "¿Qué significa la palabra 'open' en openSUSE?"
 
 #, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service"
 msgstr "OBS (Open Build Service)"
 
@@ -749,12 +720,10 @@ msgid "Official Build System"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which openSUSE service mirrors openSUSE software repositories worldwide?"
 msgid "Which openSUSE service provides live build environments and package repositories?"
 msgstr "¿Qué servicio de openSUSE ofrece réplicas de los repositorios de software de openSUSE en todo el mundo?"
 
 #, fuzzy
-#| msgid "OBS (Open Build Service)"
 msgid "Open Build Service (OBS)"
 msgstr "OBS (Open Build Service)"
 
@@ -765,12 +734,10 @@ msgid "Snapper"
 msgstr "Snapper"
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is the openSUSE project's primary goal?"
 msgstr "¿Cuál es la mascota del proyecto openSUSE?"
 
 #, fuzzy
-#| msgid "Supporting and spreading open-source software"
 msgid "Promoting and supporting free and open source software"
 msgstr "Apoyar y difundir el software de código abierto"
 
@@ -778,7 +745,6 @@ msgid "Creating proprietary software"
 msgstr ""
 
 #, fuzzy
-#| msgid "Producing video games"
 msgid "Developing video games"
 msgstr "Producción de videojuegos"
 
@@ -786,7 +752,6 @@ msgid "Providing cloud services"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which tool does openSUSE use for system snapshots and rollback?"
 msgid "Which openSUSE tool is used for system configuration and management?"
 msgstr "¿Qué herramienta utiliza openSUSE para las instantáneas del sistema y la reversión?"
 
@@ -800,17 +765,14 @@ msgid "Synaptic"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the command to check system snapshots on openSUSE?"
 msgstr "¿Cuál es el sistema de archivos predeterminado en openSUSE?"
 
 #, fuzzy
-#| msgid "zypper repolist"
 msgid "snapper list"
 msgstr "zypper repolist"
 
 #, fuzzy
-#| msgid "Timeshift"
 msgid "timeshift --list"
 msgstr "Timeshift"
 
@@ -821,12 +783,10 @@ msgid "rsnapshot config"
 msgstr ""
 
 #, fuzzy
-#| msgid "What makes openSUSE special?"
 msgid "What package format does openSUSE use?"
 msgstr "¿Qué hace especial a openSUSE?"
 
 #, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the default shell in openSUSE?"
 msgstr "¿Cuál es el sistema de archivos predeterminado en openSUSE?"
 
@@ -846,7 +806,6 @@ msgid "Which of these is a community-driven openSUSE version?"
 msgstr ""
 
 #, fuzzy
-#| msgid "Leapfrog"
 msgid "Leap Micro"
 msgstr "Leapfrog"
 
@@ -854,7 +813,6 @@ msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE Greenhorn"
 msgstr "Experto de openSUSE"
 
@@ -883,7 +841,6 @@ msgid "Only from mysterious USB sticks left in coffee shops"
 msgstr ""
 
 #, fuzzy
-#| msgid "fun@opensuse.org"
 msgid "From get.opensuse.org"
 msgstr "fun@opensuse.org"
 
@@ -903,7 +860,6 @@ msgid "Send a strongly worded letter to Geeko"
 msgstr ""
 
 #, fuzzy
-#| msgid "bugzilla.opensuse.org"
 msgid "Submit it on bugzilla.opensuse.org"
 msgstr "bugzilla.opensuse.org"
 
@@ -917,7 +873,6 @@ msgid "Try decoding ancient Geeko scrolls"
 msgstr ""
 
 #, fuzzy
-#| msgid "bugzilla.opensuse.org"
 msgid "On calendar.opensuse.org"
 msgstr "bugzilla.opensuse.org"
 
@@ -928,7 +883,6 @@ msgid "Events are revealed only during a full moon"
 msgstr ""
 
 #, fuzzy
-#| msgid "Where can you check the current status of openSUSE infrastructure?"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "¿Dónde se puede comprobar el estado actual de la infraestructura de openSUSE?"
 
@@ -975,7 +929,6 @@ msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, solo un nuevo y amigable Midnight Commander"
 
 #, fuzzy
-#| msgid "The administration of mainframe machine through web interface from the 90’s"
 msgid "The administration of mainframe machine through web interface"
 msgstr "La administración de la máquina central a través de la interfaz web de los años 90"
 
@@ -1022,7 +975,6 @@ msgid "Special file encoding, which is a must for files on s390x"
 msgstr "Codificación de archivos especial, que es imprescindible para los archivos en s390x"
 
 #, fuzzy
-#| msgid "Terminal using unsecured telnet for connection to a machine"
 msgid "Terminal emulator for connection to a machine"
 msgstr "Terminal que utiliza telnet no seguro para la conexión a una máquina"
 
@@ -1078,7 +1030,6 @@ msgid "A z/VM syslog filter"
 msgstr "Un filtro de syslog de z/VM"
 
 #, fuzzy
-#| msgid "How is the operating system on s390x administered?"
 msgid "What is the most used operating system on mainframes?"
 msgstr "¿Cómo se administra el sistema operativo en s390x?"
 
@@ -1086,7 +1037,6 @@ msgid "z/OS"
 msgstr ""
 
 #, fuzzy
-#| msgid "Arch Linux"
 msgid "Linux"
 msgstr "Arch Linux"
 
@@ -1094,7 +1044,6 @@ msgid "Windows"
 msgstr ""
 
 #, fuzzy
-#| msgid "z/VM is?"
 msgid "z/VM"
 msgstr "¿Qué es z/VM?"
 
@@ -1114,7 +1063,6 @@ msgid "No, mainframes are not useful for running AI tasks."
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following I/O devices is typically not used with mainframes?"
 msgid "Which of the following I/O devices is not used with mainframes?"
 msgstr "¿Cuál de los siguientes dispositivos de E/S no se utiliza normalmente con los mainframes?"
 
@@ -1272,7 +1220,6 @@ msgid "Yes, right-click the \"Help\" button"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "Start Quiz"
 msgstr "Comenzar"
 
@@ -1304,7 +1251,6 @@ msgid "Final"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "Restart"
 msgstr "Comenzar"
 
@@ -1312,7 +1258,6 @@ msgid "Question"
 msgstr ""
 
 #, fuzzy
-#| msgid "Please enter a username to submit."
 msgid "Please enter a username to proceed."
 msgstr "Ingrese un nombre de usuario para enviar."
 
