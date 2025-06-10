@@ -1,16 +1,6 @@
+# Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-03 16:19+0000\n"
-"Last-Translator: Victor hck <victorhck@opensuse.org>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 15:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "¡Diversión camaleónica para niños!"
@@ -114,9 +104,8 @@ msgstr "¿Qué hace especial a openSUSE?"
 msgid "It can talk to animals"
 msgstr "Puede hablar con los animales"
 
-#, fuzzy
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr "Es un sistema operativo libre, moderno y seguro que cualquiera puede usar"
+msgstr "Es un sistema operativo gratuito, moderno y seguro que cualquiera puede usar. ¡Incluyéndote a ti!"
 
 msgid "It’s made of chameleon scales"
 msgstr "Está hecho de escamas camaleónicas"
