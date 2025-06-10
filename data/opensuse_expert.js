@@ -178,10 +178,10 @@ const questions = [
   {
     text: _("What is 'YaST'?"),
     answers: [
-      { text: _("A chameleon species native to Africa"), correct: true },
+      { text: _("A chameleon species native to Africa"), correct: false },
       {
         text: _("A free software for configuration of operating system"),
-        correct: false,
+        correct: true,
       },
       { text: _("The default web browser"), correct: false },
       { text: _("A programming language"), correct: false },
