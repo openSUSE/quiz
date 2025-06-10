@@ -1,15 +1,36 @@
 function generateMemorablePassword() {
   const adjectives = [
-    "Happy", "Smiling", "Bouncy", "Running", "Dusty", "Sneaky",
-    "Sleepy", "Zany", "Jumpy", "Witty", "Grumpy", "Geeky", "Friendly",
+    "Happy",
+    "Smiling",
+    "Bouncy",
+    "Running",
+    "Dusty",
+    "Sneaky",
+    "Sleepy",
+    "Zany",
+    "Jumpy",
+    "Witty",
+    "Grumpy",
+    "Geeky",
+    "Friendly",
   ];
 
   const animals = [
-    "Cat", "Dog", "Racoon", "Gorilla", "Chicken", "Horse",
-    "Llama", "Otter", "Penguin", "Fox", "Chameleon", "Coon",
+    "Cat",
+    "Dog",
+    "Racoon",
+    "Gorilla",
+    "Chicken",
+    "Horse",
+    "Llama",
+    "Otter",
+    "Penguin",
+    "Fox",
+    "Chameleon",
+    "Coon",
   ];
 
-  const randomFrom = arr => arr[Math.floor(Math.random() * arr.length)];
+  const randomFrom = (arr) => arr[Math.floor(Math.random() * arr.length)];
 
   const adjective = randomFrom(adjectives);
   const animal1 = randomFrom(animals);

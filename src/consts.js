@@ -25,7 +25,8 @@ let resolvedStatsFilePath =
 const STATS_FILE_PATH = resolvedStatsFilePath;
 
 // RESET_TOKEN we generate a memorable password and log it on console by default
-const RESET_TOKEN = process.env.RESET_TOKEN || security.generateMemorablePassword();
+const RESET_TOKEN =
+  process.env.RESET_TOKEN || security.generateMemorablePassword();
 
 const EVENT = process.env.EVENT || "openSUSE";
 
