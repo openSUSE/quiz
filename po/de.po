@@ -1,18 +1,8 @@
 # Nico Krapp <nico.krapp@suse.com>, 2025.
 # Dan Čermák <dcermak@suse.com>, 2025.
+# Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-10 14:57+0000\n"
-"Last-Translator: Dan Čermák <dcermak@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 15:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Chamäleon Spaß für Kinder!"
@@ -338,9 +328,8 @@ msgstr "Xfce"
 msgid "There is no default. We leave choice to the user."
 msgstr "Es gibt keinen Standard. Wir überlassen die Wahl dem Benutzer."
 
-#, fuzzy
 msgid "What is the name of the openSUSE build system?"
-msgstr "Was ist der Name des openSUSE Build-Systems?"
+msgstr "Was ist der Name des openSUSE Build System?"
 
 msgid "OBS (Open Build Service)"
 msgstr "OBS (Open Build Service)"
@@ -609,9 +598,8 @@ msgstr "dnf install Paketname"
 msgid "pacman -S package-name"
 msgstr "pacman -S Paketname"
 
-#, fuzzy
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "Was ist der Name des openSUSE Build-Systems?"
+msgstr "Wie heißt das offizielle openSUSE-Community-Forum?"
 
 msgid "forums.opensuse.org"
 msgstr "forums.opensuse.org"
@@ -631,9 +619,8 @@ msgstr "Welches Programm wird für das Verwalten von Softwarerepositories und Pa
 msgid "APT"
 msgstr "APT"
 
-#, fuzzy
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "Was ist der Name des openSUSE Build-Systems?"
+msgstr "Wie lautet der Name der wichtigsten Rolling Releases von openSUSE?"
 
 msgid "Which file format does openSUSE use for package management?"
 msgstr "Welches Dateiformat wird von openSUSE für Paketverwaltung verwendet?"
@@ -768,7 +755,6 @@ msgstr "fish"
 msgid "csh"
 msgstr "csh"
 
-#, fuzzy
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr "Welche der Antworten ist eine von der community getriebene openSUSE Version?"
 
@@ -796,7 +782,6 @@ msgstr "Na klar! Einfach Steam starten und los gehts"
 msgid "Only if you summon the gaming gods"
 msgstr "Nur wenn man die Videospielgötter beschwört"
 
-#, fuzzy
 msgid "You need a secret handshake first"
 msgstr "Man muss vorher einen geheimen Handschlag kennen"
 
@@ -827,7 +812,6 @@ msgstr "Einen scharf formulierten Brief an Geeko schreiben"
 msgid "Submit it on bugzilla.opensuse.org"
 msgstr "Einen Bug auf bugzilla.opensuse.org erstellen"
 
-#, fuzzy
 msgid "Write it in your diary and move on"
 msgstr "In ein Tagebuch schreiben und vergessen"
 
@@ -898,55 +882,55 @@ msgid "A command for listing hardware network addresses."
 msgstr "Ein Befehl um Hardware Netzerwerkadressen aufzulisten."
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "Eine versteckte Modulsteuereinheit (Hidden Module Control unit)"
 
 msgid "z/VM is?"
 msgstr "z/VM ist?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Virtuelle Maschine auf Z (d. h. s390x)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM ist ein Betriebssystem, das normalerweise als Hypervisor verwendet wird"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Remote-Desktop-Viewer"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Virtueller Zombie-Memory"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "Was bedeutet Speicher (Storage) in der Mainframe-Welt?"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Arbeitsspeicher (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Datenspeicher (Festplatten) in Zylindern gezählt"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Ein Raum, in dem sich der Mainframe befindet"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Fach innerhalb eines Mainframes, in dem sich die Festplatten befinden"
 
 msgid "What is x3270?"
-msgstr ""
+msgstr "Was ist x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "Spezielle Dateikodierung, die für Dateien auf s390x ein Muss ist"
 
 msgid "Terminal emulator for connection to a machine"
-msgstr ""
+msgstr "Terminalemulator zur Verbindung mit einer Maschine"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "Hexa-Code als Standard-Administratorkennwort verwendet"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Keine dieser lächerlichen Entscheidungen"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "Was bedeutet IPL 150?"
 
 msgid "Give me additional 150MB of memory"
 msgstr ""
