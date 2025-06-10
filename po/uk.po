@@ -1,22 +1,12 @@
+# Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-03 21:21+0000\n"
-"Last-Translator: Yoshio Sato <vasua.ukraine@gmail.com>\n"
-"Language-Team: Ukrainian <https://l10n.opensuse.org/projects/quiz/quiz/uk/>\n"
-"Language: uk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 15:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Ukrainian <https://l10n.opensuse.org/projects/quiz/quiz/uk/>\nLanguage: uk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Хамелеон - розвага для дітей!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Барвиста вікторина про хамелеонів та openSUSE для допитливих дітей!"
 
 msgid "What color can a chameleon turn into?"
 msgstr ""
