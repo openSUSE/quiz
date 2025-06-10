@@ -80,7 +80,7 @@ async function loadTranslations(lang) {
   if (fs.existsSync(filePath)) {
     let poFileContent = fs.readFileSync(filePath, "utf8");
     // Issue #115 Remove fuzzy reference comments like `#| msgid "..."` to avoid crash
-    poFileContent = poFileContent.replace(/^#\|.*$/gm, "");
+    poFileContent = poFileContent.replace(/^#\~\|.*$/gm, "");
     const translations = po.parse(poFileContent);
     gt.addTranslations(lang, "messages", translations);
     gt.setLocale(lang);
