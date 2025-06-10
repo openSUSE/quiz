@@ -1,6 +1,7 @@
 # Nico Krapp <nico.krapp@suse.com>, 2025.
+# Dan Čermák <dcermak@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 13:35+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-10 14:57+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Chamäleon Spaß für Kinder!"
@@ -976,10 +977,10 @@ msgid "It actually means ignore CIO"
 msgstr ""
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "Ein z/VM syslog Filter"
 
 msgid "What is the most used operating system on mainframes?"
-msgstr ""
+msgstr "Was ist das am meisten verwendete Betriebssystem auf Mainframes?"
 
 msgid "z/OS"
 msgstr ""
@@ -990,7 +991,7 @@ msgid "Linux"
 msgstr "Arch Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #, fuzzy
 #| msgid "z/VM is?"
@@ -998,19 +999,19 @@ msgid "z/VM"
 msgstr "z/VM ist?"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Haben Mainframes besondere Unterstützung für KI?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Ja, neuste Modelle haben einen Spyre Beschleuniger."
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "Nein, das ist zu alte Technologie."
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Ja, aber sie kann nicht unter Linux benutzt werden."
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "Nein, Mainframes sind nicht hilfreich um KI Aufgaben auszuführen."
 
 #, fuzzy
 #| msgid "Which of the following has the highest compression?"
@@ -1018,19 +1019,19 @@ msgid "Which of the following I/O devices is not used with mainframes?"
 msgstr "Welche der folgenden Optionen hat die größte Kompressionsrate?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Festplatten"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Bandlaufwerke"
 
 msgid "Network"
-msgstr ""
+msgstr "Netzwerk"
 
 msgid "Bluetooth"
 msgstr ""
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "Die Ultimative YaST Herausforderung"
 
 msgid "Think you know YaST? Think again."
 msgstr ""
