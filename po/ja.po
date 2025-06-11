@@ -1280,7 +1280,7 @@ msgstr "ランダムなパッケージをインストールする"
 msgid "Lists soft package locks"
 msgstr ""
 
-msgid "Refreshesf defined repository index services."
+msgid "Refreshes defined repository index services."
 msgstr ""
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
