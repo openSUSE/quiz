@@ -104,7 +104,7 @@ const questions = [
     ],
   },
   {
-    text: _("Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositoriesf. How many distribution repos does Leap 16.0 include by default?"),
+    text: _("Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"),
     answers: [
       { text: _("14"), correct: false },
       { text: _("10"), correct: false },
