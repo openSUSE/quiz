@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-11 14:07+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 19:42+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -1268,201 +1257,188 @@ msgstr "Què fa «zypper refs»?"
 msgid "Refreshes all repositories"
 msgstr "Refresca tots els repositoris"
 
-#, fuzzy
 msgid "Lists orphaned packages"
-msgstr "Instal·la un paquet aleatori"
+msgstr "Llista els paquets orfes"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "Llista els blocatges suaus de paquets"
 
 msgid "Refreshes defined repository index services."
-msgstr ""
+msgstr "Refresca els serveis d'índex de repositoris definits."
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "Què fa realment el RIS (Servei d'índex de repositoris) a l'openSUSE?"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
-msgstr ""
+msgstr "Permet una gestió centralitzada i flexible de repositoris. L'openSUSE l'usa per generar fitxers .repo a partir de repoindex.xml gestionat per rpm."
 
 msgid "It injects RPMs into your system while you're not looking."
-msgstr ""
+msgstr "Injecta RPMs al sistema mentre no mireu."
 
 msgid "It schedules all recursive installs to happen only during coffee breaks."
-msgstr ""
+msgstr "Programa totes les instal·lacions recursives perquè només es facin durant les pauses per al cafè."
 
 msgid "It just exists to confuse people with too many acronyms."
-msgstr ""
+msgstr "Només existeix per confondre la gent amb massa acrònims."
 
 msgid "What does the Zypper command 'zypper dup' do?"
-msgstr ""
+msgstr "Què fa l'ordre «zypper dup» de Zypper?"
 
 msgid "Deletes unused packages"
-msgstr ""
+msgstr "Suprimeix els paquets no usats"
 
 msgid "Performs a distribution upgrade"
-msgstr ""
+msgstr "Fa una actualització de la distribució"
 
 msgid "Downloads all updates in background"
-msgstr ""
+msgstr "Descarrega totes les actualitzacions en segon pla"
 
 msgid "Displays user preferences"
-msgstr ""
+msgstr "Mostra les preferències de l'usuari"
 
 msgid "Which Zypper command enables parallel package downloads?"
-msgstr ""
+msgstr "Quina ordre de Zypper permet les descàrregues de paquets en paral·lel?"
 
-#, fuzzy
 msgid "zypper --fast"
-msgstr "zypper update"
+msgstr "zypper --fast"
 
-#, fuzzy
 msgid "zypper -p"
-msgstr "zypper"
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "L'última versió de Zypper usa descàrregues paral·leles per defecte."
 
-#, fuzzy
 msgid "zypper turbo"
-msgstr "zypper repos"
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Quin és el fitxer de configuració principal de Zypper?"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
-#, fuzzy
 msgid "/etc/zypperrc"
-msgstr "zypper"
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
-#, fuzzy
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
+msgstr "Quina de les ordres següents de Zypper netejarà tots els paquets desats a la memòria cau?"
 
-#, fuzzy
 msgid "zypper refresh --clean"
-msgstr "zypper refresh"
+msgstr "zypper refresh --clean"
 
 msgid "zypper clean --all"
-msgstr ""
+msgstr "zypper clean --all"
 
-#, fuzzy
 msgid "zypper purge-cache"
-msgstr "zypper update"
+msgstr "zypper purge-cache"
 
-#, fuzzy
 msgid "zypper remove-cache"
-msgstr "zypper reload"
+msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "El Zypper pot instal·lar patrons. Què és un patró en termes del Zypper?"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "Una expressió regular per a noms de paquets coincidents"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "Un grup de paquets que defineix un rol o un cas d'ús"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "Un fitxer de configuració de tema"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "Una etiqueta de metadades per a un repositori"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "Què passa si s'executa «zypper dup --from packman»?"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "Només actualitza les metadades del repositori packman"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "Força l'actualització dels paquets instal·lats a versions del repositori Packman"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "Suprimeix tots els paquets que no siguin del Packman"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "Crea una còpia de seguretat abans de l'actualització"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "El Leap 16.0 ha millorat la gestió de repositoris amb CDN per defecte, repositoris gestionats per RIS i menys repositoris en total. Quants repositoris de la distribució inclou el Leap 16.0 per defecte?"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
-#, fuzzy
 msgid "10"
-msgstr "El 2010"
+msgstr "10"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "El Leap 16.0 ara usa repositoris gestionats per RIS. Com es pot ajustar la configuració del repositori sense fer malbé res?"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "/etc/zypp/repos.d/ com als vells temps"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "No toqueu els fitxers .repo de la distribució, se sobreescriuran! Feu servir /etc/zypp/vars.d."
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "Executeu «zypper --edit-repo --force» — el mètode oficial."
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "Editeu repoindex.xml manualment i creueu els dits."
 
-#, fuzzy
 msgid "What can users do at software.opensuse.org?"
-msgstr "Amb un sol clic des de software.opensuse.org"
+msgstr "Què poden fer els usuaris a software.opensuse.org?"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "Instal·lar paquets amb zypper amb un sol clic al navegador"
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "Navegar i instal·lar programari addicional, inclosos paquets de projectes propis."
 
-#, fuzzy
 msgid "View screenshots and details of cool open source software."
-msgstr "Difusió i suport de programari lliure i de codi obert"
+msgstr "Veure captures de pantalla i detalls de programari de codi obert interessants."
 
 msgid "All of the above."
-msgstr ""
+msgstr "Tot l'anterior"
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
+msgstr "En quina secció de la pàgina de manual buscaríeu la documentació del Zypper?"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "42"
-msgstr ""
+msgstr "42"
 
-#, fuzzy
 msgid "What is yzpper?"
-msgstr "Què és IFL?"
+msgstr "Què és yzpper?"
 
 msgid "Turkish translation of zypper"
-msgstr ""
+msgstr "La traducció al turc del zypper"
 
 msgid "Reverse (undo) the last zypper command"
-msgstr ""
+msgstr "Inverteix (desfà) l'última ordre del zypper"
 
 msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
-msgstr ""
+msgstr "Fa un enllaç simbòlic amb el zypper, per evitar errors al teclat amb les tecles Y i Z intercanviades [alemany]"
 
 msgid "The project name of next gen zypper"
-msgstr ""
+msgstr "El nom del projecte de la nova generació del Zypper"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr ""
