@@ -1,17 +1,6 @@
 # Ferdinand Galko <galko.ferdinand@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-11 09:25+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 19:42+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s chameleónom pre deti!"
@@ -382,12 +371,11 @@ msgstr "Predvolený webový prehliadač"
 msgid "A programming language"
 msgstr "Programovací jazyk"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
-msgstr "Ako sa volá zostavovací systém openSUSE?"
+msgstr "Ako sa volá inštalátor v systéme openSUSE Aeon"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
 #, fuzzy
 msgid "tak"
@@ -1426,9 +1414,8 @@ msgstr ""
 msgid "Edit repoindex.xml manually and cross your fingers."
 msgstr ""
 
-#, fuzzy
 msgid "What can users do at software.opensuse.org?"
-msgstr "Jedným kliknutím zo software.opensuse.org"
+msgstr "Čo môžu používatelia robiť na stránke software.opensuse.org?"
 
 msgid "Install packages with zypper via a single click in the browser."
 msgstr ""
@@ -1436,9 +1423,8 @@ msgstr ""
 msgid "Browse and install additional software, including packages from home projects."
 msgstr ""
 
-#, fuzzy
 msgid "View screenshots and details of cool open source software."
-msgstr "Propagácia a podpora slobodného a open source softvéru"
+msgstr "Zobraziť snímky obrazovky a podrobnosti o skvelom open source softvéri."
 
 msgid "All of the above."
 msgstr ""
