@@ -3,1217 +3,1217 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 13:07+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Kameleontkul för barn!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Ett färgglatt quiz om kameleonter och openSUSE för nyfikna barn!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Vilken färg kan en kameleont förvandlas till?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Endast grön"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Vilken färg som helst, även lila!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Många färger som grön, brun, gul"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Endast svart och vit"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "Vad är maskoten för openSUSE?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "En pingvin"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "En kameleont som heter Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "En drake"
 
 msgid "A robot"
-msgstr ""
+msgstr "En robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Varför ändrar kameleonter färg?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "För att visa hur de mår eller att gömma sig"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "För att de är uttråkade"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "För att de är kallblodiga robotar"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "För att lysa i mörkret"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "I vilken del av världen finns kameleonter främst?"
 
 msgid "South America"
-msgstr ""
+msgstr "Sydamerika"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "Afrika och Madagaskar"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "Sydostasien"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktis"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Hur fångar kameleonter sin mat?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "Med sina händer"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "Med sin långa klibbiga tunga"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Genom att skrika på den"
 
 msgid "With a net"
-msgstr ""
+msgstr "Med ett nät"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Vad äter kameleonter?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "Glass"
 
 msgid "Insects"
-msgstr ""
+msgstr "Insekter"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Ananas"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Varmkorv"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "Vad gör openSUSE speciellt?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Det kan prata med djur"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "Det är ett modernt, gratis operativsystem som vem som helst kan använda – inklusive dig!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Det är gjort av kameleontfjäll"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Det är bara för hemliga agenter"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Ser alla kameleonter likadana ut?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Ja, de är alla gröna och griniga"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Nej, de finns i många former, storlekar och färger"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Ja, de bär alla hattar"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "De bär alla openSUSE-klistermärken"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "Vad betyder ordet \"open\" i openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Det är ett lösenord"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Det betyder att alla kan använda det och bidra till att göra det bättre"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Det är bara för att öppna dörrar"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Det handlar om att öppna godispapper"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Kan kameleonter röra sina ögon separat?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Nej, de blinkar med båda ögonen samtidigt"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Ja, de kan titta åt två håll samtidigt!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "De sluter ena ögat när de sover"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Nej, deras ögon är alltid slutna"
 
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "openSUSE Expert"
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
-msgstr ""
+msgstr "Utmana andra användare i vår topplista. 30 sekunder per fråga. Stoppa när som helst."
 
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Vad är maskoten för openSUSE-projektet?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "Vad är huvudmålet med openSUSE-projektet?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Stödja och sprida öppen källkodsprogramvara"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Utveckla mobilapplikationer"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Producera videospel"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Forskning inom artificiell intelligens"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Vad är Aeon och Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Moderna \"oföränderliga\" skrivbord med GNOME och KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr ""
+msgstr "Rullande distributioner med transaktionella uppdateringar med flatpaks på skrivbordet"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "Distributioner byggda ovanpå MicroOS"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Alla alternativ är korrekta"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "Var grundades openSUSE-projektet?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "I Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "På LinuxWorld-konferensen och utställningen 2005 i San Francisco"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "I Redmont"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "Vid Helsingfors universitet"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "Vilket är standardfilsystemet i openSUSE?"
 
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "Interplanetärt filsystem"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Vad heter den nya installationsprogrammet i Leap 16?"
 
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr ""
+msgstr "Vilken openSUSE-distribution är optimerad för att köra behållare och mikrotjänster?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS och Leap Micro"
 
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
+msgstr "Vilken rullande openSUSE-distribution erbjuder ett lugnare alternativ till Tumbleweed för användare som föredrar färre överraskningar?"
 
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
+msgstr "Vilken av följande pakethanterare används vanligtvis i openSUSE?"
 
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Vad är Leap 16.0?"
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr ""
+msgstr "En traditionell Linuxdistribution, efterföljaren till Leap 15.6, släppt hösten 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "En oföränderlig distribution med GNOME och KDE"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "En rullande release för mobila enheter"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "Ett behållarefokuserat system som MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "Vilken skrivbordsmiljö är standard för openSUSE Leap 15?"
 
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "Det finns ingen standardinställning. Vi lämnar valet till användaren."
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "Vad är namnet på openSUSE-byggsystemet?"
 
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr ""
+msgstr "Hur kan man göra ändringar i en rootpartition på ett system baserat på transaktionsuppdateringar?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "Använd kommandot transactional-update och starta om i en ny ögonblicksavbild"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Genom att använda sudo-sudo för att få giga-privilegier"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Genom att använda Salt eller Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "Du måste redigera filer under en användar-netrunner och hålla tummarna"
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "Vad är 'YaST'?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "En kameleontart som är inhemsk i Afrika"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "Gratis programvara för att konfigurera operativsystemet"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "Standardwebbläsaren"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Ett programmeringsspråk"
 
 msgid "What is the primary goal of the openSUSE Aeon distribution?"
-msgstr ""
+msgstr "Vad är det primära målet med openSUSE Aeon-distributionen?"
 
 msgid "A modern transactional-desktop system with GNOME"
-msgstr ""
+msgstr "Ett modernt transaktionellt skrivbordssystem med GNOME"
 
 msgid "Scientific research"
-msgstr ""
+msgstr "Vetenskaplig forskning"
 
 msgid "Containerization"
-msgstr ""
+msgstr "Containerisering"
 
 msgid "Enterprise use"
-msgstr ""
+msgstr "Företagsanvändning"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
+msgstr "Var kan man lära sig mer om projekt från Rancher och SUSE?"
 
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Rancher Academy"
 
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 msgid "Moo University"
-msgstr ""
+msgstr "Moo University"
 
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
+msgstr "Var kan man kontrollera den aktuella statusen för openSUSE-infrastruktur?"
 
 msgid "status.opensuse.org"
-msgstr ""
+msgstr "status.opensuse.org"
 
 msgid "isopensusedown.com"
-msgstr ""
+msgstr "isopensusedown.com"
 
 msgid "yast-status-viewer"
-msgstr ""
+msgstr "yast-status-viewer"
 
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
-msgstr ""
+msgstr "Var kan man installera ytterligare paket eller paket med ändringar som inte kom med i huvuddistributionen?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "Med ett enda klick från software.opensuse.org"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "Genom att bläddra bland de många projekten på OBS build.opensuse.org"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
+msgstr "Via kommandot opi, från Packman-arkivet eller från Flathub"
 
 msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
-msgstr ""
+msgstr "Vart skickar man paket till openSUSE (bildligt uttryckt)?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, inte med en brevduva"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "Till molnet (bokstavligen)"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "Via e-post till Geeko-maskoten"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "Via röksignaler från Nürnberg"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
+msgstr "Vad heter det nya pakethanterargränssnittet som ersätter YaST?"
 
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 msgid "Zypperella"
-msgstr ""
+msgstr "Zypperella"
 
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "Hur ofta släpper openSUSE Leap en ny stabil version?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "Vart 5:e år när stjärnorna står i linje"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Var 12:e månad med 6 månaders överlappning"
 
 msgid "Every month"
-msgstr ""
+msgstr "Varje månad"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "När Geeko blir uttråkad"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Vilken openSUSE-tjänst används för lokalisering och översättningshantering?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 msgid "Build Service"
-msgstr ""
+msgstr "Byggtjänst"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "Vilket kommando ska du använda för att uppdatera programpaket på openSUSE från terminalen?"
 
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 msgid "apt-get update"
-msgstr ""
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr ""
+msgstr "Vad representerar Tumbleweed i openSUSE?"
 
 msgid "A rolling release distribution"
-msgstr ""
+msgstr "En rullande releasedistribution"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "En skrivbordsmiljö"
 
 msgid "The mascot"
-msgstr ""
+msgstr "Maskoten"
 
 msgid "An installer"
-msgstr ""
+msgstr "Ett installationsprogram"
 
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr ""
+msgstr "Vilket kommandoradsverktyg används för att hantera förråd i openSUSE?"
 
 msgid "zypper"
-msgstr ""
+msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
 msgid "yum"
-msgstr ""
+msgstr "yum"
 
 msgid "pacman"
-msgstr ""
+msgstr "pacman"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr ""
+msgstr "Vilken openSUSE-distribution är känd för att vara en stabil punktutgåva?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr ""
+msgstr "Vad är det primära fokuset för openSUSE MicroOS?"
 
 msgid "Immutable OS optimized for containers and microservices"
-msgstr ""
+msgstr "Oföränderligt OS optimerat för behållare och mikrotjänster"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Gaming"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Skrivbordsproduktivitet"
 
 msgid "Scientific computing"
-msgstr ""
+msgstr "Vetenskaplig datoranvändning"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr ""
+msgstr "Vilket verktyg används för att skapa och hantera snapshots på openSUSE?"
 
 msgid "snapper"
-msgstr ""
+msgstr "snapper"
 
 msgid "timeshift"
-msgstr ""
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "Vad är openSUSEs standardtextredigerare?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "Vilket kommando skulle installera ett paket i openSUSE?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install paket-namn"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install paket-namn"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install paket-namn"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S paket-namn"
 
 msgid "What is the name of the official openSUSE community forum?"
-msgstr ""
+msgstr "Vad heter det officiella forumet för openSUSE-gemenskapen?"
 
 msgid "forums.opensuse.org"
-msgstr ""
+msgstr "forums.opensuse.org"
 
 msgid "discuss.opensuse.com"
-msgstr ""
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
 msgid "opensuse-chat.org"
-msgstr ""
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "Vilket verktyg rekommenderas för att hantera programvaruförråd och paket i openSUSE?"
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr ""
+msgstr "Vad heter openSUSEs flaggskeppsutgåva, den rullande versionen?"
 
 msgid "Which file format does openSUSE use for package management?"
-msgstr ""
+msgstr "Vilket filformat använder openSUSE för pakethantering?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
 msgid "What command will list all repositories in openSUSE?"
-msgstr ""
+msgstr "Vilket kommando listar alla förråden i openSUSE?"
 
 msgid "zypper repos"
-msgstr ""
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
 msgid "dnf repolist"
-msgstr ""
+msgstr "dnf repolist"
 
 msgid "pacman -Q"
-msgstr ""
+msgstr "pacman -Q"
 
 msgid "What is the primary license used by openSUSE?"
-msgstr ""
+msgstr "Vilken är den primära licensen som används av openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT licens"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache licens"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Proprietär"
 
 msgid "What does OBS stand for in openSUSE context?"
-msgstr ""
+msgstr "Vad står OBS för i openSUSE-sammanhang?"
 
 msgid "Open Build Service"
-msgstr ""
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Öppen låda schemaläggare"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Officiellt byggsystem"
 
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr ""
+msgstr "Vilken openSUSE-tjänst tillhandahåller live-byggmiljöer och paketförråd?"
 
 msgid "Open Build Service (OBS)"
-msgstr ""
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
-msgstr ""
+msgstr "Vad är openSUSE-projektets primära mål?"
 
 msgid "Promoting and supporting free and open source software"
-msgstr ""
+msgstr "Främja och stödja fri och öppen källkodsprogramvara"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "Skapa proprietär programvara"
 
 msgid "Developing video games"
-msgstr ""
+msgstr "Utveckla videospel"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "Tillhandahålla molntjänster"
 
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr ""
+msgstr "Vilket openSUSE-verktyg används för systemkonfiguration och hantering?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Kontrollcenter"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE-systeminställningar"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr ""
+msgstr "Vad är kommandot för att kontrollera systemavbilder på openSUSE?"
 
 msgid "snapper list"
-msgstr ""
+msgstr "snapper list"
 
 msgid "timeshift --list"
-msgstr ""
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 msgid "What package format does openSUSE use?"
-msgstr ""
+msgstr "Vilket paketformat använder openSUSE?"
 
 msgid "What is the default shell in openSUSE?"
-msgstr ""
+msgstr "Vad är standardskalet i openSUSE?"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "Vilken av dessa är en gemenskapsstyrd openSUSE-version?"
 
 msgid "Leap Micro"
-msgstr ""
+msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 msgid "openSUSE Greenhorn"
-msgstr ""
+msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
+msgstr "Oroa dig inte, det här testet är mestadels lärorikt. Du behöver inte veta alla svar."
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "Kan du spela Windows-spel på openSUSE?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "Inte en chans, det är bara Windows som kan göra det"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "Självklart! Bara starta Steam och spela"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "Bara om du kallar fram spelgudarna"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "Du behöver ett hemligt handslag först"
 
 msgid "Where can you download openSUSE installation images?"
-msgstr ""
+msgstr "Var kan man ladda ner installationsavbilder för openSUSE?"
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr ""
+msgstr "Bara från mystiska USB-minnen som finns kvar på kaféer"
 
 msgid "From get.opensuse.org"
-msgstr ""
+msgstr "Från get.opensuse.org"
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr ""
+msgstr "Genom att skrika \"YaST\" till din terminal"
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr ""
+msgstr "Det kan du inte, de distribueras bara via brevduvor"
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr ""
+msgstr "Var ska man rapportera problem man hittar i openSUSE?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr ""
+msgstr "Bara skrika åt skärmen och hoppas på det bästa"
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr ""
+msgstr "Skicka ett starkt formulerat brev till Geeko"
 
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr ""
+msgstr "Skicka in det på bugzilla.opensuse.org"
 
 msgid "Write it in your diary and move on"
-msgstr ""
+msgstr "Skriv det i din dagbok och gå vidare"
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr ""
+msgstr "Var kan du hitta evenemang att gå med i och delta i med openSUSE-gemenskapen?"
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr ""
+msgstr "Försök att avkoda gamla Geeko-skriftrullar"
 
 msgid "On calendar.opensuse.org"
-msgstr ""
+msgstr "På calendar.opensuse.org"
 
 msgid "Look under your keyboard for hidden clues"
-msgstr ""
+msgstr "Leta under tangentbordet efter gömda ledtrådar"
 
 msgid "Events are revealed only during a full moon"
-msgstr ""
+msgstr "Evenemang avslöjas endast under fullmåne"
 
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr ""
+msgstr "Var kan man be om hjälp när man är vilse i openSUSE-universumet?"
 
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x Expert"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "Ett quiz för vänner av stordatorer och exotiska arkitekturer."
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "Vad är skillnaden mellan Big Endian och Little Endian?"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s390x använder bara 31b, det är därför de kallas Little Endian"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "Det handlar om byteordning; s390x är Big Endian"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "Det handlar om byteordning; s390x är Little Endian"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "Det används inte längre, s390x är Bi-endianness"
 
 msgid "DASD is?"
-msgstr ""
+msgstr "DASD är?"
 
 msgid "A German word"
-msgstr ""
+msgstr "Ett tyskt ord"
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Direktåtkomstlagringsenhet"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "Svärord upprepas ofta av s390x-administratörer"
 
 msgid "A scsi disk"
-msgstr ""
+msgstr "En scsi disk"
 
 msgid "HMC is?"
-msgstr ""
+msgstr "HMC är?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Hemma-MC, bara en ny vänligare Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
-msgstr ""
+msgstr "Administration av stordatorer via webbgränssnitt"
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "Ett kommando för att lista hårdvarunätverksadresser."
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "En dold modulstyrenhet"
 
 msgid "z/VM is?"
-msgstr ""
+msgstr "z/VM är?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Virtuell maskin på Z (vilket betyder s390x)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM är ett operativsystem som vanligtvis används som hypervisor"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Fjärrskrivbordsvisare"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombie virtuellt minne"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "Vad betyder lagring i stordatorvärlden?"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Minne (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Datalagring (diskar) räknat i cylindrar"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Ett rum där stordatorn finns"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Fack i en stordator där diskarna finns"
 
 msgid "What is x3270?"
-msgstr ""
+msgstr "Vad är x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "Speciell filkodning, vilket är ett måste för filer på s390x"
 
 msgid "Terminal emulator for connection to a machine"
-msgstr ""
+msgstr "Terminalemulator för anslutning till en maskin"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "Hexa-kod som används som standardlösenord för administratörer"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Inget av dessa löjliga val"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "Vad betyder IPL 150?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Ge mig ytterligare 150 MB minne"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "IP till min Linux-maskin"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Starta upp från disk 150."
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Installera Python-bibliotek version 1.5.0"
 
 msgid "What is IFL?"
-msgstr ""
+msgstr "Vad är IFL?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "En filtreringsenhet för kylvätska"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "En kärna för att köra Linux på stordatorer"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Påhittat ord för att förvirra användare av bärbara datorer"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Integrerad FLat-krets"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "Vad är cio_ignore?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Ett kommando som maskerar enheters synlighet"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "Ignorera in/utdata tills linjen är redo att ta emot"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "Det betyder faktiskt att ignorera CIO:n"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "Ett z/VM syslog-filter"
 
 msgid "What is the most used operating system on mainframes?"
-msgstr ""
+msgstr "Vilket är det mest använda operativsystemet på stordatorer?"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "z/VM"
-msgstr ""
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Har stordatorer några speciella AI-funktioner?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Ja, de senaste modellerna har Spyre-accelerator."
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "Nej, det är för gammal teknik."
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Ja, men det går inte att använda på Linux."
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "Nej, stordatorer är inte användbara för att köra AI-uppgifter."
 
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr ""
+msgstr "Vilken av följande I/O-enheter används inte med stordatorer?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Diskar"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Bandstationer"
 
 msgid "Network"
-msgstr ""
+msgstr "Nätverk"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "Den ultimata YaST-utmaningen"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "Tror du att du känner till YaST? Tänk om."
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Hur många YaST2-översättningspaket finns det i Tumbleweed?"
 
 msgid "about 25"
-msgstr ""
+msgstr "omkring 25"
 
 msgid "about 40"
-msgstr ""
+msgstr "omkring 40"
 
 msgid "about 60"
-msgstr ""
+msgstr "omkring 60"
 
 msgid "about 80"
-msgstr ""
+msgstr "omkring 80"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Hur många YaST2-paket (utan översättningspaket) finns det i Tumbleweed?"
 
 msgid "about 30"
-msgstr ""
+msgstr "omkring 30"
 
 msgid "about 50"
-msgstr ""
+msgstr "omkring 50"
 
 msgid "about 100"
-msgstr ""
+msgstr "omkring 100"
 
 msgid "about 150"
-msgstr ""
+msgstr "omkring 150"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "När släpptes den första versionen av YaST2?"
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "2002"
-msgstr ""
+msgstr "2002"
 
 msgid "2004"
-msgstr ""
+msgstr "2004"
 
 msgid "2006"
-msgstr ""
+msgstr "2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "När nådde YaST2 den tyska lagliga åldern för alkohol?"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "Vad händer när du trycker på F2-tangenten i yast2 sw_single (Qt)?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "Du får vyn \"Patchar\""
 
 msgid "It crashes"
-msgstr ""
+msgstr "Det kraschar"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "Den installerar ett slumpmässigt paket"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "Mogwaierna blir hungriga"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "Hur kan man få en xterm i en YaST2-installation?"
 
 msgid "you can't"
-msgstr ""
+msgstr "det kan du inte"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "du klickar på Geeko-ikonen längst upp till vänster 7 gånger"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "du talar tydligt \"xterm\" i mikrofonen (endast bärbara datorer)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "Kan du inspektera widgethierarkin i ett YaST2-fönster medan det körs?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "Ja, klicka på sidrubriken 7 gånger"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "Ja, klicka med mitten musknappen på valfri widget"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "Ja, använd Ctrl-Shift-Alt-Y"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "Nej - använd källan, Luke"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "Vad händer om du högerklickar på en knapp i YaST2?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "Den öppnar knappens kontextmeny"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "Den återställer sidan till standardinställningarna"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "Det frågar om du vill växla till vänsterhänt läge med musen"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "Det växlar till det mörka widgettemat eller tillbaka"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "Kan YaST (Qt) färgpaletten ändras för synskadade användare?"
 
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "Ja, klicka på sol/måneikonen"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "Ja, använd Shift-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "Ja, högerklicka på \"Hjälp\" knappen"
 
 msgid "Start Quiz"
-msgstr ""
+msgstr "Starta frågesport"
 
 msgid "Start"
-msgstr ""
+msgstr "Starta"
 
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 msgid "Submit"
-msgstr ""
+msgstr "Skicka in"
 
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 msgid "Quit"
-msgstr ""
+msgstr "Avsluta"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Skicka in och avsluta"
 
 msgid "Time left"
-msgstr ""
+msgstr "Tid kvar"
 
 msgid "Score"
-msgstr ""
+msgstr "Poäng"
 
 msgid "Final"
-msgstr ""
+msgstr "Final"
 
 msgid "Restart"
-msgstr ""
+msgstr "Starta om"
 
 msgid "Question"
-msgstr ""
+msgstr "Fråga"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "Ange ett användarnamn för att fortsätta."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Välkommen, %s"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Är du säker på att du vill avsluta och skicka in?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "Användarnamnet är för kort."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Tyvärr, den här inloggningen är redan upptagen."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Är du säker på att du vill avsluta? Dina framsteg kommer inte att sparas."
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
+msgstr "Använd ett igenkännbart smeknamn, som ZypperJedi, eller helst ditt riktiga namn (NamnEfternamn)."
