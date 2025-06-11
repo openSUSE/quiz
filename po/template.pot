@@ -386,19 +386,16 @@ msgstr ""
 msgid "A programming language"
 msgstr ""
 
-msgid "What is the primary goal of the openSUSE Aeon distribution?"
+msgid "What is the name of installer in openSUSE Aeon"
 msgstr ""
 
-msgid "A modern transactional-desktop system with GNOME"
+msgid "tik"
 msgstr ""
 
-msgid "Scientific research"
+msgid "tak"
 msgstr ""
 
-msgid "Containerization"
-msgstr ""
-
-msgid "Enterprise use"
+msgid "toe"
 msgstr ""
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
