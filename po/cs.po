@@ -1,17 +1,6 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-11 13:18+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 14:05+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s Chameleony pro děti!"
@@ -382,16 +371,14 @@ msgstr "Výchozí webový prohlížeč"
 msgid "A programming language"
 msgstr "Programovací jazyk"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
 msgstr "Jak se jmenuje build systém openSUSE?"
 
 msgid "tik"
 msgstr "tik"
 
-#, fuzzy
 msgid "tak"
-msgstr "tar"
+msgstr "tak"
 
 msgid "toe"
 msgstr "toe"
@@ -1225,20 +1212,17 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Zvolte přezdívku tak abychom vás rozeznali, například ZypperJedi, nebo raději své skutečné jméno (JménoPříjmení)."
 
-#, fuzzy
 msgid "Zypper Jedi"
-msgstr "Zypper"
+msgstr "Zypper Jedi"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
 msgstr "Zajímavá a neznámá fakta o Zypperu, správci balíčků v openSUSE"
 
-#, fuzzy
 msgid "What is the name of the library used by the default openSUSE package manager?"
-msgstr "Jak se jmenuje oficiální komunitní fórum openSUSE?"
+msgstr "Jak se nazývá knihovna používaná výchozím správcem balíčků openSUSE?"
 
-#, fuzzy
 msgid "libzypp"
-msgstr "zypper"
+msgstr "libzypp"
 
 msgid "libdnf"
 msgstr "libdnf"
@@ -1267,507 +1251,482 @@ msgstr "Byl součástí magického vydání openSUSE Leap 42.3 (2017)"
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
 msgstr "Byl tu už od začátku v S.u.S.E. Linux 1.0 (1994)"
 
-#, fuzzy
 msgid "What does 'zypper refs' do?"
-msgstr "Co dělá GNOME?"
+msgstr "Co dělá 'zypper refs' ?"
 
 msgid "Refreshes all repositories"
 msgstr "Obnov všechny repozitáře"
 
-#, fuzzy
 msgid "Lists orphaned packages"
-msgstr "Nainstaluje náhodný balíček"
+msgstr "Vypíše osiřelé balíčky"
 
 msgid "Lists soft package locks"
 msgstr "Vylistuje všechny soft package locks"
 
-#, fuzzy
 msgid "Refreshes defined repository index services."
-msgstr "Obnov všechny repozitáře"
+msgstr "Obnoví dostupné repository index services (RIS)"
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "Co přesně dělá RIS (Repository Index Service) v openSUSE?"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
-msgstr ""
+msgstr "Umožňuje centralizovanou a flexibilní správu repozitářů. openSUSE jej používá ke generování .repo souborů ze šablony repoindex.xml spravované pomocí rpm."
 
 msgid "It injects RPMs into your system while you're not looking."
-msgstr ""
+msgstr "Natajňačku cpe RPM balíčky do vašeho systému, aniž byste se dívali."
 
 msgid "It schedules all recursive installs to happen only during coffee breaks."
-msgstr ""
+msgstr "Plánuje všechny rekurzivní instalace tak, aby probíhaly pouze během přestávek na kávu."
 
 msgid "It just exists to confuse people with too many acronyms."
-msgstr ""
+msgstr "Existuje to jen proto, aby lidi mátlo příliš mnoha zkratkami."
 
 msgid "What does the Zypper command 'zypper dup' do?"
-msgstr ""
+msgstr "Co dělá příkaz Zypperu 'zypper dup'?"
 
 msgid "Deletes unused packages"
-msgstr ""
+msgstr "Smaže nepoužívané balíčky"
 
 msgid "Performs a distribution upgrade"
-msgstr ""
+msgstr "Udělá upgrade distribuce"
 
 msgid "Downloads all updates in background"
-msgstr ""
+msgstr "Stálne na pozadí všechny aktualizace"
 
 msgid "Displays user preferences"
-msgstr ""
+msgstr "Zobrazí uživatelské nastavení"
 
 msgid "Which Zypper command enables parallel package downloads?"
-msgstr ""
+msgstr "Který příkaz Zypperu umožňuje paralelní stahování balíčků?"
 
-#, fuzzy
 msgid "zypper --fast"
-msgstr "zypper update"
+msgstr "zypper --fast"
 
-#, fuzzy
 msgid "zypper -p"
-msgstr "zypper"
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "Nejnovější zypper již standardně používá paralelní stahování."
 
-#, fuzzy
 msgid "zypper turbo"
-msgstr "zypper repos"
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Který soubor je hlavním konfiguračním souborem pro Zypper?"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
-#, fuzzy
 msgid "/etc/zypperrc"
-msgstr "zypper"
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
-#, fuzzy
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+msgstr "Který z následujících příkazů Zypperu vyčistí všechny balíčky uložené v mezipaměti?"
 
-#, fuzzy
 msgid "zypper refresh --clean"
-msgstr "zypper refresh"
+msgstr "zypper refresh --clean"
 
 msgid "zypper clean --all"
-msgstr ""
+msgstr "zypper clean --all"
 
-#, fuzzy
 msgid "zypper purge-cache"
-msgstr "zypper update"
+msgstr "zypper purge-cache"
 
-#, fuzzy
 msgid "zypper remove-cache"
-msgstr "zypper reload"
+msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "Zypper umí instalovat patterny. Co je to pattern v terminologii Zypperu?"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "Regulární výraz pro porovnávání názvů balíčků"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "Skupinu baliků představující roli nebo nějaké specifické využití"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "Konfigurační soubor pro témata"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "Metatada značku pro repozitář"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "Co se stane, když spustíte 'zypper dup --from packman'?"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "Aktualizuje pouze metadata repozitáře 'packman'"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "Vynucení aktualizace nainstalovaných balíčků na verze z repozitáře Packman"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "Odstraňte všechny balíčky, které nejsou součástí Packmana"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "Před upgradem vytvoří zálohu"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositoriesf. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "Leap 16.0 vylepšil správu repozitářů s CDN ve výchozím nastavení, repozitáři spravovanými RIS a menším celkovým počtem repozitářů. Kolik distribučních repozitářů Leap 16.0 ve výchozím nastavení obsahuje?"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
-#, fuzzy
 msgid "10"
-msgstr "2010"
+msgstr "10"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "Leap 16.0 nyní používá repozitáře spravované RIS. Jak upravit nastavení repozitářů, aniž by se něco pokazilo?"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "/etc/zypp/repos.d/ jako za starých časů"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "Nesahejte na distribuční soubory .repo, byly by přepsány! Namísto použijte proměnné v /etc/zypp/vars.d."
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "Spuštěním `zypper --edit-repo --force` — oficiálním způsobem"
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "Manuálně editujte repoindex.xml a držte palce."
 
-#, fuzzy
 msgid "What can users do at software.opensuse.org?"
-msgstr "Jedním klikem na software.opensuse.org"
+msgstr "Co můžou uživatelé dělat na software.opensuse.org?"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "instalovat balíčky pomocí Zypperu jediným kliknutím v prohlížeči."
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "Procházejte a instalovat další software, včetně balíčků z home projektů vývojářů."
 
-#, fuzzy
 msgid "View screenshots and details of cool open source software."
-msgstr "Podpora a šíření open-source softwaru"
+msgstr "Prohlédněte si snímky obrazovky a podrobnosti o skvělém softwaru s otevřeným zdrojovým kódem."
 
 msgid "All of the above."
-msgstr ""
+msgstr "Vše uvedené."
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
+msgstr "V jaké sekci manuálových stránek byste hledali dokumentaci k Zypperu?"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "42"
-msgstr ""
+msgstr "42"
 
-#, fuzzy
 msgid "What is yzpper?"
-msgstr "Co je IFL?"
+msgstr "Co je yzpper?"
 
 msgid "Turkish translation of zypper"
-msgstr ""
+msgstr "Turecký překlad slova zypper"
 
 msgid "Reverse (undo) the last zypper command"
-msgstr ""
+msgstr "Zrušit (vrátit zpět) poslední příkaz zypperu"
 
 msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
-msgstr ""
+msgstr "Symbolický odkaz na Zypper, aby se zabránilo chybě na klávesnici s prohozenými klávesami Y a Z [německý layout]"
 
 msgid "The project name of next gen zypper"
-msgstr ""
+msgstr "Název projektu nové generace Zypperu"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr ""
+msgstr "Tohle je ošemetné! Všichni známe zypper rm --clean deps, ale co se stane, když spustíte `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
-msgstr ""
+msgstr "Odinstalujete příkaz `rm` a všechny jeho zbývající závislosti. Hodně štěstí s následným odstraňováním souborů!"
 
 msgid "Only the `rm` command gets removed, dependencies stay put."
-msgstr ""
+msgstr "Odstraní se pouze příkaz `rm`, závislosti zůstanou zachovány."
 
 msgid "It cleans your system of the `rm` command but keeps a backup just in case."
-msgstr ""
+msgstr "Vyčistí váš systém od příkazu `rm`, ale pro případ potřeby si uloží zálohu."
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "Nic se nestane příkaz `rm` je přece součástí coreutils."
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "Kernel Nindža"
 
 msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "Zajímavosti o jádře u SUSE a openSUSE"
 
 msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "Jaká je zhruba velikost (MB) základního obrazu (squashfs) operačního systému SUSE Automotive Linux?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "~ 20MB"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "~ 60MB"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "~ 240MB"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "Kolik konfiguračních parametrů (zhruba) se upravuje v linuxovém real-time jádře pro automobilový průmysl ve srovnání se standardním SLES RT?"
 
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgid "500"
-msgstr ""
+msgstr "500"
 
 msgid "50000"
-msgstr ""
+msgstr "50000"
 
 msgid "500000"
-msgstr ""
+msgstr "500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "Kolik záplat bylo k 11. červnu 2025 aplikováno nad upstreamovým jádrem v 15.6 (SLES 15 SP6)?"
 
 msgid "~ 4231"
-msgstr ""
+msgstr "~ 4231"
 
 msgid "~ 16102"
-msgstr ""
+msgstr "~ 16102"
 
 msgid "~ 32786"
-msgstr ""
+msgstr "~ 32786"
 
 msgid "~ 346870"
-msgstr ""
+msgstr "~ 346870"
 
-#, fuzzy
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
+msgstr "Která varianta jádra se standartně používá v openSUSE Leap?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
-#, fuzzy
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Jaká je primární licence používaná openSUSE?"
+msgstr "Jaký je hlavní rozdíl mezi kernel-default a kernel-rt v openSUSE?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt podporuje starší hardware"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt zakazuje preemption"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt má povolenu plnoul real-time preemption"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt má méně bezpečnostních vlastností"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "Co povoluje 'PREEMPT_RT' v Linuxovém jádru?"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "Real-time audio streamování"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "Plná preempce, snížení latence v kritických sekcích"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "Rychlejší bootování"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "Lepší energetická účinnost"
 
-#, fuzzy
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Jak se jmenuje hlavní rolling release openSUSE?"
+msgstr "Jak se nazývá (velmi) rychlý nástroj pro rozšiřování oprav jádra?"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "Kde se v openSUSE ve zdrojovém kódu obvykle ukládají konfigurační soubory pro sestavení jádra?"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
-#, fuzzy
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Co znamená slovo 'open' (otevřený) v openSUSE?"
+msgstr "Co nabízí balíček 'kernel-devel' v openSUSE?"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "Hlavičkové soubory jádra používané jako základ pro tvorbu externích modulů jádra"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "Kompletní zdrojový kód jádra vyžadován pro ladění a sestavování modulů"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "Dokumentace a manuály pro Linuxové jádro"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "Skrytou fotku z poslední teambuildingové akce kernelového týmu SUSE"
 
-#, fuzzy
 msgid "Which of the following is a program to load kernel modules?"
-msgstr "Který z následujících má nejvyšší kompresi?"
+msgstr "Který z následujících programů načítá moduly jádra?"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "modprobe"
-msgstr ""
+msgstr "modprobe"
 
 msgid "systemctl"
-msgstr ""
+msgstr "systemctl"
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
+msgstr "Jak často se (obvykle) aktualizuje jádro openSUSE Tumbleweed?"
 
-#, fuzzy
 msgid "Every 6 months"
-msgstr "Každý měsíc"
+msgstr "Každých 6 měsíců"
 
 msgid "Once a year"
-msgstr ""
+msgstr "Jednou za rok"
 
 msgid "Weekly or even more frequently"
-msgstr ""
+msgstr "Týdně nebo i častěji"
 
 msgid "Only when Linus pushes a new tag"
-msgstr ""
+msgstr "Pouze když Linus přidá nový tag"
 
-#, fuzzy
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Co znamená slovo 'open' (otevřený) v openSUSE?"
+msgstr "Co představuje varianta jádra „vanilla“ v openSUSE?"
 
 msgid "Kernel with experimental SUSE patches"
-msgstr ""
+msgstr "Jádro s experimentálními záplatami SUSE"
 
 msgid "Unmodified upstream Linux kernel"
-msgstr ""
+msgstr "Nemodifikované upstreamové jádro Linuxu"
 
 msgid "Kernel optimized for servers"
-msgstr ""
+msgstr "Jádro optimalizované pro servery"
 
 msgid "Kernel with enhanced SELinux support"
-msgstr ""
+msgstr "Jádro s vylepšenou podporou SELinuxu"
 
 msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr ""
+msgstr "Který parametr spouštění jádra vám obvykle pomůže při ladění problémů s ovladačem grafické karty?"
 
 msgid "quiet"
-msgstr ""
+msgstr "quiet"
 
 msgid "nomodeset"
-msgstr ""
+msgstr "nomodeset"
 
-#, fuzzy
 msgid "bumblebee"
-msgstr "Tumblebleed"
+msgstr "bumblebee"
 
 msgid "noacpi"
-msgstr ""
+msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
+msgstr "Která real-time plánovací politika je v Linuxu nejvíce deterministická?"
 
 msgid "SCHED_OTHER"
-msgstr ""
+msgstr "SCHED_OTHER"
 
 msgid "SCHED_FIFO"
-msgstr ""
+msgstr "SCHED_FIFO"
 
 msgid "SCHED_BATCH"
-msgstr ""
+msgstr "SCHED_BATCH"
 
 msgid "SCHED_IDLE"
-msgstr ""
+msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
+msgstr "Jak se nazývá balíček, který poskytuje dodatečný firmware v Leapu?"
 
 msgid "kernel-firmware-extra"
-msgstr ""
+msgstr "kernel-firmware-extra"
 
 msgid "firmware-addon-leap"
-msgstr ""
+msgstr "firmware-addon-leap"
 
 msgid "kernel-default-extra"
-msgstr ""
+msgstr "kernel-default-extra"
 
 msgid "suse-firmware-pack"
-msgstr ""
+msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
+msgstr "Jak lze povolit AppArmor přes příkazový řádek GRUB jádra v openSUSE?"
 
-#, fuzzy
 msgid "apparmor=1"
-msgstr "AppArmor"
+msgstr "apparmor=1"
 
 msgid "security=apparmor"
-msgstr ""
+msgstr "security=apparmor"
 
 msgid "enable=apparmor"
-msgstr ""
+msgstr "enable=apparmor"
 
 msgid "selinux=off apparmor=on"
-msgstr ""
+msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "Co znamená zkratka „KOTD“ ve světě jádra openSUSE?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "Kernel Of The Day - Jádro dne denně sestavovaná jádra v OBS projektech Kernel:xxx"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Knights Of The Old Repositories - legendární obránci kernelu"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Keep Our Tux Dancing — tajná taneční skupina kernelářů"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Kernel Operators Training Division — HustoDémonskyKrutopřísní kerneloví ninjové"
 
 msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE je jedním z 6 největších přispěvatelů linuxového jádra (dle FSF 2017). Jaké procento příspěvků SUSE tvoří?"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "Méně než 1%"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "Okolo 3%"
 
-#, fuzzy
 msgid "About 5%"
-msgstr "Asi tak 50"
+msgstr "Asi 5%"
 
 msgid "More than 20%"
-msgstr ""
+msgstr "Více než 20%"
 
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 #~ msgstr "Jaký je hlavní cíl distribuce openSUSE Aeon?"
