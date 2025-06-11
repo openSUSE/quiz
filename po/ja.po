@@ -1,6 +1,17 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 09:25+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-07 16:50+0000\n"
+"PO-Revision-Date: 2025-06-11 09:25+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "こども向けカメレオンクイズ！"
@@ -371,20 +382,21 @@ msgstr "既定の Web ブラウザ"
 msgid "A programming language"
 msgstr "プログラミング言語"
 
-msgid "What is the primary goal of the openSUSE Aeon distribution?"
-msgstr "openSUSE Aeon ディストリビューションの主な目的は？"
+#, fuzzy
+#| msgid "What is the name of the openSUSE build system?"
+msgid "What is the name of installer in openSUSE Aeon"
+msgstr "openSUSE のビルドシステムの名称は？"
 
-msgid "A modern transactional-desktop system with GNOME"
-msgstr "GNOME を利用したモダンでトランザクション型更新のデスクトップシステム"
+msgid "tik"
+msgstr ""
 
-msgid "Scientific research"
-msgstr "科学的な研究"
+#, fuzzy
+#| msgid "Start"
+msgid "tak"
+msgstr "開始"
 
-msgid "Containerization"
-msgstr "コンテナ化"
-
-msgid "Enterprise use"
-msgstr "企業内での使用"
+msgid "toe"
+msgstr ""
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Rancher と SUSE が提供するプロジェクトについて学べる場所は？"
@@ -1215,6 +1227,587 @@ msgstr "終了してよろしいですか？ これまでの進捗は保存さ�
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
 
+#, fuzzy
+#| msgid "Zypper"
+msgid "Zypper Jedi"
+msgstr "Zypper"
+
+msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the name of the official openSUSE community forum?"
+msgid "What is the name of the library used by the default openSUSE package manager?"
+msgstr "openSUSE の公式コミュニティフォーラムの名前は？"
+
+#, fuzzy
+#| msgid "zypper"
+msgid "libzypp"
+msgstr "zypper"
+
+msgid "libdnf"
+msgstr ""
+
+msgid "libapt"
+msgstr ""
+
+msgid "libsuse"
+msgstr ""
+
+msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
+msgstr ""
+
+msgid "Where was Zypper respective libzypp first introduced?"
+msgstr ""
+
+msgid "In SuSE Linux 7.1 (2001)"
+msgstr ""
+
+msgid "In SUSE Linux 10.1 (2006)"
+msgstr ""
+
+msgid "As part of openSUSE Leap 42.3 magical release (2017)"
+msgstr ""
+
+msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
+msgstr ""
+
+msgid "What does 'zypper refs' do?"
+msgstr ""
+
+msgid "Refreshes all repositories"
+msgstr ""
+
+#, fuzzy
+#| msgid "It installs a random package"
+msgid "Lists orphaned packages"
+msgstr "ランダムなパッケージをインストールする"
+
+msgid "Lists soft package locks"
+msgstr ""
+
+msgid "Refreshesf defined repository index services."
+msgstr ""
+
+msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
+msgstr ""
+
+msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
+msgstr ""
+
+msgid "It injects RPMs into your system while you're not looking."
+msgstr ""
+
+msgid "It schedules all recursive installs to happen only during coffee breaks."
+msgstr ""
+
+msgid "It just exists to confuse people with too many acronyms."
+msgstr ""
+
+msgid "What does the Zypper command 'zypper dup' do?"
+msgstr ""
+
+msgid "Deletes unused packages"
+msgstr ""
+
+msgid "Performs a distribution upgrade"
+msgstr ""
+
+msgid "Downloads all updates in background"
+msgstr ""
+
+msgid "Displays user preferences"
+msgstr ""
+
+msgid "Which Zypper command enables parallel package downloads?"
+msgstr ""
+
+#, fuzzy
+#| msgid "zypper update"
+msgid "zypper --fast"
+msgstr "zypper update"
+
+#, fuzzy
+#| msgid "zypper"
+msgid "zypper -p"
+msgstr "zypper"
+
+msgid "The latest zypper uses parallel downloads by default"
+msgstr ""
+
+#, fuzzy
+#| msgid "zypper repos"
+msgid "zypper turbo"
+msgstr "zypper repos"
+
+msgid "Which file is the main configuration file for Zypper?"
+msgstr ""
+
+msgid "/etc/zypp/zypp.conf"
+msgstr ""
+
+#, fuzzy
+#| msgid "zypper"
+msgid "/etc/zypperrc"
+msgstr "zypper"
+
+msgid "/etc/package.conf"
+msgstr ""
+
+msgid "/usr/lib/zypper/config"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which of the following package managers is commonly used in openSUSE?"
+msgid "Which of the following Zypper commands will clean all cached packages?"
+msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+
+#, fuzzy
+#| msgid "zypper refresh"
+msgid "zypper refresh --clean"
+msgstr "zypper refresh"
+
+msgid "zypper clean --all"
+msgstr ""
+
+#, fuzzy
+#| msgid "zypper update"
+msgid "zypper purge-cache"
+msgstr "zypper update"
+
+#, fuzzy
+#| msgid "zypper reload"
+msgid "zypper remove-cache"
+msgstr "zypper reload"
+
+msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
+msgstr ""
+
+msgid "A regex for matching package names"
+msgstr ""
+
+msgid "A group of packages defining a role or use-case"
+msgstr ""
+
+msgid "A theming configuration file"
+msgstr ""
+
+msgid "A metadata tag for a repository"
+msgstr ""
+
+msgid "What happens if you run 'zypper dup --from packman'?"
+msgstr ""
+
+msgid "Only update the 'packman' repository metadata"
+msgstr ""
+
+msgid "Force upgrade of installed packages to versions from packman repository"
+msgstr ""
+
+msgid "Remove all non-packman packages"
+msgstr ""
+
+msgid "Create a backup before upgrade"
+msgstr ""
+
+msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositoriesf. How many distribution repos does Leap 16.0 include by default?"
+msgstr ""
+
+msgid "14"
+msgstr ""
+
+#, fuzzy
+#| msgid "2010"
+msgid "10"
+msgstr "2010"
+
+msgid "8"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
+msgstr ""
+
+msgid "/etc/zypp/repos.d/ like the good old days"
+msgstr ""
+
+msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
+msgstr ""
+
+msgid "Run `zypper --edit-repo --force` — the official way."
+msgstr ""
+
+msgid "Edit repoindex.xml manually and cross your fingers."
+msgstr ""
+
+#, fuzzy
+#| msgid "With a single click from software.opensuse.org"
+msgid "What can users do at software.opensuse.org?"
+msgstr "software.opensuse.org から 1 クリックで"
+
+msgid "Install packages with zypper via a single click in the browser."
+msgstr ""
+
+msgid "Browse and install additional software, including packages from home projects."
+msgstr ""
+
+#, fuzzy
+#| msgid "Promoting and supporting free and open source software"
+msgid "View screenshots and details of cool open source software."
+msgstr "フリーでオープンソースのソフトウエアの宣伝とサポート"
+
+msgid "All of the above."
+msgstr ""
+
+msgid "At what manpage section would you look for zypper docs?"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "42"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is IFL?"
+msgid "What is yzpper?"
+msgstr "IFL とは？"
+
+msgid "Turkish translation of zypper"
+msgstr ""
+
+msgid "Reverse (undo) the last zypper command"
+msgstr ""
+
+msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
+msgstr ""
+
+msgid "The project name of next gen zypper"
+msgstr ""
+
+msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+msgstr ""
+
+msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
+msgstr ""
+
+msgid "Only the `rm` command gets removed, dependencies stay put."
+msgstr ""
+
+msgid "It cleans your system of the `rm` command but keeps a backup just in case."
+msgstr ""
+
+msgid "Nothing happens `rm` command belongs to coreutils."
+msgstr ""
+
+msgid "Kernel Ninja"
+msgstr ""
+
+msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgstr ""
+
+msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgstr ""
+
+msgid "~ 20MB"
+msgstr ""
+
+msgid "~ 60MB"
+msgstr ""
+
+msgid "~ 240MB"
+msgstr ""
+
+msgid "~ 520MB"
+msgstr ""
+
+msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgstr ""
+
+msgid "50"
+msgstr ""
+
+msgid "500"
+msgstr ""
+
+msgid "50000"
+msgstr ""
+
+msgid "500000"
+msgstr ""
+
+msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
+msgstr ""
+
+msgid "~ 4231"
+msgstr ""
+
+msgid "~ 16102"
+msgstr ""
+
+msgid "~ 32786"
+msgstr ""
+
+msgid "~ 346870"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
+msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgstr "openSUSE Leap 15 での既定のデスクトップ環境はどれ？"
+
+msgid "kernel-suse"
+msgstr ""
+
+msgid "kernel-default"
+msgstr ""
+
+msgid "kernel-leap"
+msgstr ""
+
+msgid "kernel-vanilla"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the primary license used by openSUSE?"
+msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
+msgstr "openSUSE で主に使用されているライセンスは？"
+
+msgid "kernel-rt supports older hardware"
+msgstr ""
+
+msgid "kernel-rt disables preemption"
+msgstr ""
+
+msgid "kernel-rt has full real-time preemption enabled"
+msgstr ""
+
+msgid "kernel-rt has less security features"
+msgstr ""
+
+msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
+msgstr ""
+
+msgid "Real-time audio streaming"
+msgstr ""
+
+msgid "Full preemption, reducing latency in critical sections"
+msgstr ""
+
+msgid "Faster boot times"
+msgstr ""
+
+msgid "Better energy efficiency"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the name of openSUSE's flagship rolling release?"
+msgid "What is the name of a (very) fast tool for expanding kernel patches?"
+msgstr "openSUSE のローリングリリース型ディストリビューションのうち、代表的な名前は？"
+
+msgid "gitlab-kernel"
+msgstr ""
+
+msgid "obs-kernel"
+msgstr ""
+
+msgid "rapidquilt"
+msgstr ""
+
+msgid "susepatch"
+msgstr ""
+
+msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
+msgstr ""
+
+msgid "configs/"
+msgstr ""
+
+msgid "source/"
+msgstr ""
+
+msgid "etc/"
+msgstr ""
+
+msgid "boot/"
+msgstr ""
+
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "What does the 'kernel-devel' package provide in openSUSE?"
+msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+
+msgid "Common kernel headers used as a base for building external kernel modules"
+msgstr ""
+
+msgid "Complete kernel source code required for debugging and building modules"
+msgstr ""
+
+msgid "Documentation and manuals for the Linux kernel"
+msgstr ""
+
+msgid "A hidden picture of the latest SUSE kernel team's team building event"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which of the following package managers is commonly used in openSUSE?"
+msgid "Which of the following is a program to load kernel modules?"
+msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+
+msgid "mkinitrd"
+msgstr ""
+
+msgid "modprobe"
+msgstr ""
+
+msgid "systemctl"
+msgstr ""
+
+msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Every month"
+msgid "Every 6 months"
+msgstr "毎月"
+
+msgid "Once a year"
+msgstr ""
+
+msgid "Weekly or even more frequently"
+msgstr ""
+
+msgid "Only when Linus pushes a new tag"
+msgstr ""
+
+#, fuzzy
+#| msgid "What does the word 'open' in openSUSE mean?"
+msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
+msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+
+msgid "Kernel with experimental SUSE patches"
+msgstr ""
+
+msgid "Unmodified upstream Linux kernel"
+msgstr ""
+
+msgid "Kernel optimized for servers"
+msgstr ""
+
+msgid "Kernel with enhanced SELinux support"
+msgstr ""
+
+msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgstr ""
+
+msgid "quiet"
+msgstr ""
+
+msgid "nomodeset"
+msgstr ""
+
+#, fuzzy
+#| msgid "Tumblebleed"
+msgid "bumblebee"
+msgstr "Tumblebleed"
+
+msgid "noacpi"
+msgstr ""
+
+msgid "Which real-time scheduling policy is most deterministic in Linux?"
+msgstr ""
+
+msgid "SCHED_OTHER"
+msgstr ""
+
+msgid "SCHED_FIFO"
+msgstr ""
+
+msgid "SCHED_BATCH"
+msgstr ""
+
+msgid "SCHED_IDLE"
+msgstr ""
+
+msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
+msgstr ""
+
+msgid "kernel-firmware-extra"
+msgstr ""
+
+msgid "firmware-addon-leap"
+msgstr ""
+
+msgid "kernel-default-extra"
+msgstr ""
+
+msgid "suse-firmware-pack"
+msgstr ""
+
+msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
+msgstr ""
+
+msgid "apparmor=1"
+msgstr ""
+
+msgid "security=apparmor"
+msgstr ""
+
+msgid "enable=apparmor"
+msgstr ""
+
+msgid "selinux=off apparmor=on"
+msgstr ""
+
+msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
+msgstr ""
+
+msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
+msgstr ""
+
+msgid "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr ""
+
+msgid "Keep Our Tux Dancing — the secret kernel dance party"
+msgstr ""
+
+msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr ""
+
+msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgstr ""
+
+msgid "Less than 1%"
+msgstr ""
+
+msgid "Around 3%"
+msgstr ""
+
+#, fuzzy
+#| msgid "about 50"
+msgid "About 5%"
+msgstr "50 個くらい"
+
+msgid "More than 20%"
+msgstr ""
+
+#~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
+#~ msgstr "openSUSE Aeon ディストリビューションの主な目的は？"
+
+#~ msgid "A modern transactional-desktop system with GNOME"
+#~ msgstr "GNOME を利用したモダンでトランザクション型更新のデスクトップシステム"
+
+#~ msgid "Scientific research"
+#~ msgstr "科学的な研究"
+
+#~ msgid "Containerization"
+#~ msgstr "コンテナ化"
+
+#~ msgid "Enterprise use"
+#~ msgstr "企業内での使用"
+
 #~ msgid "openSUSE Devconf 2025"
 #~ msgstr "openSUSE Devconf 2025"
 
@@ -1317,12 +1910,6 @@ msgstr "ZypperJedi のような分かりやすいニックネームか、もし�
 #~ msgid "Rollbackinator"
 #~ msgstr "Rollbackinator"
 
-#~ msgid "zypper refresh"
-#~ msgstr "zypper refresh"
-
-#~ msgid "zypper reload"
-#~ msgstr "zypper reload"
-
 #~ msgid "Where can you submit bug reports related to openSUSE packages?"
 #~ msgstr "openSUSE のパッケージに関するバグ報告はどこでできる？"
 
@@ -1397,16 +1984,6 @@ msgstr "ZypperJedi のような分かりやすいニックネームか、もし�
 #~| msgid "openSUSE Expert"
 #~ msgid "openSUSE Flock"
 #~ msgstr "openSUSE エキスパート"
-
-#, fuzzy
-#~| msgid "Which of the following package managers is commonly used in openSUSE?"
-#~ msgid "Which of the following has the highest compression?"
-#~ msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
-
-#, fuzzy
-#~| msgid "Start"
-#~ msgid "tar"
-#~ msgstr "開始"
 
 #, fuzzy
 #~| msgid "What is the mascot of openSUSE?"
