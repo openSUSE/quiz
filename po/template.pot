@@ -1230,6 +1230,249 @@ msgstr ""
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr ""
 
+msgid "Zypper Jedi"
+msgstr ""
+
+msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
+msgstr ""
+
+msgid "What is the name of the library used by the default openSUSE package manager?"
+msgstr ""
+
+msgid "libzypp"
+msgstr ""
+
+msgid "libdnf"
+msgstr ""
+
+msgid "libapt"
+msgstr ""
+
+msgid "libsuse"
+msgstr ""
+
+msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
+msgstr ""
+
+msgid "Where was Zypper respective libzypp first introduced?"
+msgstr ""
+
+msgid "In SuSE Linux 7.1 (2001)"
+msgstr ""
+
+msgid "In SUSE Linux 10.1 (2006)"
+msgstr ""
+
+msgid "As part of openSUSE Leap 42.3 magical release (2017)"
+msgstr ""
+
+msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
+msgstr ""
+
+msgid "What does 'zypper refs' do?"
+msgstr ""
+
+msgid "Refreshes all repositories"
+msgstr ""
+
+msgid "Lists orphaned packages"
+msgstr ""
+
+msgid "Lists soft package locks"
+msgstr ""
+
+msgid "Refreshesf defined repository index services."
+msgstr ""
+
+msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
+msgstr ""
+
+msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
+msgstr ""
+
+msgid "It injects RPMs into your system while you're not looking."
+msgstr ""
+
+msgid "It schedules all recursive installs to happen only during coffee breaks."
+msgstr ""
+
+msgid "It just exists to confuse people with too many acronyms."
+msgstr ""
+
+msgid "What does the Zypper command 'zypper dup' do?"
+msgstr ""
+
+msgid "Deletes unused packages"
+msgstr ""
+
+msgid "Performs a distribution upgrade"
+msgstr ""
+
+msgid "Downloads all updates in background"
+msgstr ""
+
+msgid "Displays user preferences"
+msgstr ""
+
+msgid "Which Zypper command enables parallel package downloads?"
+msgstr ""
+
+msgid "zypper --fast"
+msgstr ""
+
+msgid "zypper -p"
+msgstr ""
+
+msgid "The latest zypper uses parallel downloads by default"
+msgstr ""
+
+msgid "zypper turbo"
+msgstr ""
+
+msgid "Which file is the main configuration file for Zypper?"
+msgstr ""
+
+msgid "/etc/zypp/zypp.conf"
+msgstr ""
+
+msgid "/etc/zypperrc"
+msgstr ""
+
+msgid "/etc/package.conf"
+msgstr ""
+
+msgid "/usr/lib/zypper/config"
+msgstr ""
+
+msgid "Which of the following Zypper commands will clean all cached packages?"
+msgstr ""
+
+msgid "zypper refresh --clean"
+msgstr ""
+
+msgid "zypper clean --all"
+msgstr ""
+
+msgid "zypper purge-cache"
+msgstr ""
+
+msgid "zypper remove-cache"
+msgstr ""
+
+msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
+msgstr ""
+
+msgid "A regex for matching package names"
+msgstr ""
+
+msgid "A group of packages defining a role or use-case"
+msgstr ""
+
+msgid "A theming configuration file"
+msgstr ""
+
+msgid "A metadata tag for a repository"
+msgstr ""
+
+msgid "What happens if you run 'zypper dup --from packman'?"
+msgstr ""
+
+msgid "Only update the 'packman' repository metadata"
+msgstr ""
+
+msgid "Force upgrade of installed packages to versions from packman repository"
+msgstr ""
+
+msgid "Remove all non-packman packages"
+msgstr ""
+
+msgid "Create a backup before upgrade"
+msgstr ""
+
+msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositoriesf. How many distribution repos does Leap 16.0 include by default?"
+msgstr ""
+
+msgid "14"
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
+msgstr ""
+
+msgid "/etc/zypp/repos.d/ like the good old days"
+msgstr ""
+
+msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
+msgstr ""
+
+msgid "Run `zypper --edit-repo --force` — the official way."
+msgstr ""
+
+msgid "Edit repoindex.xml manually and cross your fingers."
+msgstr ""
+
+msgid "What can users do at software.opensuse.org?"
+msgstr ""
+
+msgid "Install packages with zypper via a single click in the browser."
+msgstr ""
+
+msgid "Browse and install additional software, including packages from home projects."
+msgstr ""
+
+msgid "View screenshots and details of cool open source software."
+msgstr ""
+
+msgid "All of the above."
+msgstr ""
+
+msgid "At what manpage section would you look for zypper docs?"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "42"
+msgstr ""
+
+msgid "What is yzpper?"
+msgstr ""
+
+msgid "Turkish translation of zypper"
+msgstr ""
+
+msgid "Reverse (undo) the last zypper command"
+msgstr ""
+
+msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
+msgstr ""
+
+msgid "The project name of next gen zypper"
+msgstr ""
+
+msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+msgstr ""
+
+msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
+msgstr ""
+
+msgid "Only the `rm` command gets removed, dependencies stay put."
+msgstr ""
+
+msgid "It cleans your system of the `rm` command but keeps a backup just in case."
+msgstr ""
+
+msgid "Nothing happens `rm` command belongs to coreutils."
+msgstr ""
+
 msgid "Kernel Ninja"
 msgstr ""
 
