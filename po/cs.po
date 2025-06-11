@@ -1,16 +1,6 @@
+# Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-09 16:23+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 13:18+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s Chameleony pro děti!"
@@ -386,14 +376,14 @@ msgid "What is the name of installer in openSUSE Aeon"
 msgstr "Jak se jmenuje build systém openSUSE?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
 #, fuzzy
 msgid "tak"
 msgstr "tar"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Kde se nejlépe dozvíte o projektech od Rancher a SUSE?"
@@ -1229,7 +1219,7 @@ msgid "Zypper Jedi"
 msgstr "Zypper"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "Zajímavá a neznámá fakta o Zypperu, správci balíčků v openSUSE"
 
 #, fuzzy
 msgid "What is the name of the library used by the default openSUSE package manager?"
@@ -1240,45 +1230,45 @@ msgid "libzypp"
 msgstr "zypper"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "openSUSE používá libzypp jako backendovou knihovnu pro svého správce balíčků Zypper. Je známá pro rychlé řešení závislostí a podporu delta RPM."
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "Kde byl Zypper respektive libzypp poprvé představen?"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "V SuSE Linux 7.1 (2001)"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "V SUSE Linux 10.1 (2006)"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "Byl součástí magického vydání openSUSE Leap 42.3 (2017)"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "Byl tu už od začátku v S.u.S.E. Linux 1.0 (1994)"
 
 #, fuzzy
 msgid "What does 'zypper refs' do?"
 msgstr "Co dělá GNOME?"
 
 msgid "Refreshes all repositories"
-msgstr ""
+msgstr "Obnov všechny repozitáře"
 
 #, fuzzy
 msgid "Lists orphaned packages"
 msgstr "Nainstaluje náhodný balíček"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "Vylistuje všechny soft package locks"
 
 msgid "Refreshesf defined repository index services."
 msgstr ""
