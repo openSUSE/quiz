@@ -1282,7 +1282,6 @@ msgid "Lists soft package locks"
 msgstr "Vylistuje všechny soft package locks"
 
 #, fuzzy
-#| msgid "Refreshes all repositories"
 msgid "Refreshes defined repository index services."
 msgstr "Obnov všechny repozitáře"
 
