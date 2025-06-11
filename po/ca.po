@@ -1,16 +1,6 @@
+# David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-10 12:32+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 14:05+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -381,19 +371,17 @@ msgstr "El navegador web predeterminat"
 msgid "A programming language"
 msgstr "Un llenguatge de programació"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
-msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
+msgstr "Quin és el nom de l'instal·lador a l'openSUSE Aeon?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
-#, fuzzy
 msgid "tak"
-msgstr "Inicia"
+msgstr "tak"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Quin és el lloc per obtenir informació sobre els projectes de Rancher i SUSE?"
@@ -1224,47 +1212,44 @@ msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
-#, fuzzy
 msgid "Zypper Jedi"
-msgstr "Zypper"
+msgstr "Zypper Jedi"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "Dades curioses i obscures sobre el Zypper, el gestor de paquets de l'openSUSE"
 
-#, fuzzy
 msgid "What is the name of the library used by the default openSUSE package manager?"
-msgstr "Quin és el nom del fòrum oficial de la comunitat d'openSUSE?"
+msgstr "Quin és el nom de la biblioteca que usa el gestor de paquets d'openSUSE per defecte?"
 
-#, fuzzy
 msgid "libzypp"
-msgstr "zypper"
+msgstr "libzypp"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "L'openSUSE usa libzypp com a biblioteca de fons per al gestor de paquets, el Zypper. És conegut per la seva potent resolució de dependències i la compatibilitat amb RPM deltes."
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "On es van introduir per primera vegada Zypper i libzypp?"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "Al SuSE Linux 7.1 (2001)"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "Al SUSE Linux 10.1 (2006)"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "Com a part del llançament màgic d'openSUSE Leap 42.3 (2017)"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "Hi era des del principi. S.u.S.E. Linux 1.0 (1994)"
 
 msgid "What does 'zypper refs' do?"
 msgstr ""
