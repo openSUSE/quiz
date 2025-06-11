@@ -37,7 +37,7 @@ const questions = [
       { text: _("Refreshes all repositories"), correct: false },
       { text: _("Lists orphaned packages"), correct: false },
       { text: _("Lists soft package locks"), correct: false },
-      { text: _("Refreshesf defined repository index services."), correct: true },
+      { text: _("Refreshes defined repository index services."), correct: true },
     ],
   },
   {
