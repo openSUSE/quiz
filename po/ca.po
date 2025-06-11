@@ -1252,7 +1252,7 @@ msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
 msgstr "Hi era des del principi. S.u.S.E. Linux 1.0 (1994)"
 
 msgid "What does 'zypper refs' do?"
-msgstr ""
+msgstr "Què fa «zypper refs»?"
 
 msgid "Refreshes all repositories"
 msgstr ""
