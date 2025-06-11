@@ -1395,7 +1395,7 @@ msgstr ""
 msgid "Create a backup before upgrade"
 msgstr ""
 
-msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositoriesf. How many distribution repos does Leap 16.0 include by default?"
+msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
 msgstr ""
 
 msgid "14"
