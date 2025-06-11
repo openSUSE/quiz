@@ -1383,7 +1383,6 @@ msgid "Create a backup before upgrade"
 msgstr "Před upgradem vytvoří zálohu"
 
 #, fuzzy
-#| msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositoriesf. How many distribution repos does Leap 16.0 include by default?"
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
 msgstr "Leap 16.0 vylepšil správu repozitářů s CDN ve výchozím nastavení, repozitáři spravovanými RIS a menším celkovým počtem repozitářů. Kolik distribučních repozitářů Leap 16.0 ve výchozím nastavení obsahuje?"
 
