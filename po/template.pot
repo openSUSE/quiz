@@ -1472,3 +1472,279 @@ msgstr ""
 
 msgid "Nothing happens `rm` command belongs to coreutils."
 msgstr ""
+
+msgid "Kernel Ninja"
+msgstr ""
+
+msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgstr ""
+
+msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgstr ""
+
+msgid "~ 20MB"
+msgstr ""
+
+msgid "~ 60MB"
+msgstr ""
+
+msgid "~ 240MB"
+msgstr ""
+
+msgid "~ 520MB"
+msgstr ""
+
+msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgstr ""
+
+msgid "50"
+msgstr ""
+
+msgid "500"
+msgstr ""
+
+msgid "50000"
+msgstr ""
+
+msgid "500000"
+msgstr ""
+
+msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
+msgstr ""
+
+msgid "~ 4231"
+msgstr ""
+
+msgid "~ 16102"
+msgstr ""
+
+msgid "~ 32786"
+msgstr ""
+
+msgid "~ 346870"
+msgstr ""
+
+msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgstr ""
+
+msgid "kernel-suse"
+msgstr ""
+
+msgid "kernel-default"
+msgstr ""
+
+msgid "kernel-leap"
+msgstr ""
+
+msgid "kernel-vanilla"
+msgstr ""
+
+msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
+msgstr ""
+
+msgid "kernel-rt supports older hardware"
+msgstr ""
+
+msgid "kernel-rt disables preemption"
+msgstr ""
+
+msgid "kernel-rt has full real-time preemption enabled"
+msgstr ""
+
+msgid "kernel-rt has less security features"
+msgstr ""
+
+msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
+msgstr ""
+
+msgid "Real-time audio streaming"
+msgstr ""
+
+msgid "Full preemption, reducing latency in critical sections"
+msgstr ""
+
+msgid "Faster boot times"
+msgstr ""
+
+msgid "Better energy efficiency"
+msgstr ""
+
+msgid "What is the name of a (very) fast tool for expanding kernel patches?"
+msgstr ""
+
+msgid "gitlab-kernel"
+msgstr ""
+
+msgid "obs-kernel"
+msgstr ""
+
+msgid "rapidquilt"
+msgstr ""
+
+msgid "susepatch"
+msgstr ""
+
+msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
+msgstr ""
+
+msgid "configs/"
+msgstr ""
+
+msgid "source/"
+msgstr ""
+
+msgid "etc/"
+msgstr ""
+
+msgid "boot/"
+msgstr ""
+
+msgid "What does the 'kernel-devel' package provide in openSUSE?"
+msgstr ""
+
+msgid "Common kernel headers used as a base for building external kernel modules"
+msgstr ""
+
+msgid "Complete kernel source code required for debugging and building modules"
+msgstr ""
+
+msgid "Documentation and manuals for the Linux kernel"
+msgstr ""
+
+msgid "A hidden picture of the latest SUSE kernel team's team building event"
+msgstr ""
+
+msgid "Which of the following is a program to load kernel modules?"
+msgstr ""
+
+msgid "mkinitrd"
+msgstr ""
+
+msgid "zypper"
+msgstr ""
+
+msgid "modprobe"
+msgstr ""
+
+msgid "systemctl"
+msgstr ""
+
+msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
+msgstr ""
+
+msgid "Every 6 months"
+msgstr ""
+
+msgid "Once a year"
+msgstr ""
+
+msgid "Weekly or even more frequently"
+msgstr ""
+
+msgid "Only when Linus pushes a new tag"
+msgstr ""
+
+msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
+msgstr ""
+
+msgid "Kernel with experimental SUSE patches"
+msgstr ""
+
+msgid "Unmodified upstream Linux kernel"
+msgstr ""
+
+msgid "Kernel optimized for servers"
+msgstr ""
+
+msgid "Kernel with enhanced SELinux support"
+msgstr ""
+
+msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgstr ""
+
+msgid "quiet"
+msgstr ""
+
+msgid "nomodeset"
+msgstr ""
+
+msgid "bumblebee"
+msgstr ""
+
+msgid "noacpi"
+msgstr ""
+
+msgid "Which real-time scheduling policy is most deterministic in Linux?"
+msgstr ""
+
+msgid "SCHED_OTHER"
+msgstr ""
+
+msgid "SCHED_FIFO"
+msgstr ""
+
+msgid "SCHED_BATCH"
+msgstr ""
+
+msgid "SCHED_IDLE"
+msgstr ""
+
+msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
+msgstr ""
+
+msgid "kernel-firmware-extra"
+msgstr ""
+
+msgid "firmware-addon-leap"
+msgstr ""
+
+msgid "kernel-default-extra"
+msgstr ""
+
+msgid "suse-firmware-pack"
+msgstr ""
+
+msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
+msgstr ""
+
+msgid "apparmor=1"
+msgstr ""
+
+msgid "security=apparmor"
+msgstr ""
+
+msgid "enable=apparmor"
+msgstr ""
+
+msgid "selinux=off apparmor=on"
+msgstr ""
+
+msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
+msgstr ""
+
+msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
+msgstr ""
+
+msgid "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr ""
+
+msgid "Keep Our Tux Dancing — the secret kernel dance party"
+msgstr ""
+
+msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr ""
+
+msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgstr ""
+
+msgid "Less than 1%"
+msgstr ""
+
+msgid "Around 3%"
+msgstr ""
+
+msgid "About 5%"
+msgstr ""
+
+msgid "More than 20%"
+msgstr ""
