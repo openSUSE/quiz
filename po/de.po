@@ -2,7 +2,7 @@
 # Dan Čermák <dcermak@suse.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 09:25+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 13:07+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Chamäleon Spaß für Kinder!"
@@ -682,7 +682,6 @@ msgstr "Open Box Scheduler"
 msgid "Official Build System"
 msgstr "Official Build System"
 
-#, fuzzy
 msgid "Which openSUSE service provides live build environments and package repositories?"
 msgstr "Welcher openSUSE Service stellt Live-Build-Umgebungen und Paketrepositories bereit?"
 
@@ -978,18 +977,16 @@ msgid "What is the most used operating system on mainframes?"
 msgstr "Was ist das am meisten verwendete Betriebssystem auf Mainframes?"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
-#, fuzzy
 msgid "Linux"
-msgstr "Arch Linux"
+msgstr "Linux"
 
 msgid "Windows"
 msgstr "Windows"
 
-#, fuzzy
 msgid "z/VM"
-msgstr "z/VM ist?"
+msgstr "z/VM"
 
 msgid "Do mainframes have any special AI capabilities?"
 msgstr "Haben Mainframes besondere Unterstützung für KI?"
@@ -1006,9 +1003,8 @@ msgstr "Ja, aber sie kann nicht unter Linux benutzt werden."
 msgid "No, mainframes are not useful for running AI tasks."
 msgstr "Nein, Mainframes sind nicht hilfreich um KI Aufgaben auszuführen."
 
-#, fuzzy
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "Welche der folgenden Optionen hat die größte Kompressionsrate?"
+msgstr "Welches der folgenden I/O Geräte wird nicht in Mainframes verwendet?"
 
 msgid "Disks"
 msgstr "Festplatten"
@@ -1020,7 +1016,7 @@ msgid "Network"
 msgstr "Netzwerk"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Die Ultimative YaST Herausforderung"
@@ -1077,95 +1073,94 @@ msgid "When did YaST2 reach the German legal drinking age?"
 msgstr "In welchem Jahre erreichte YaST2 das Alter, in dem es hätte legal in Deutschland Alkohol trinken dürfen?"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "Was passiert, wenn Sie die F2 Taste in yast2 sw_single (Qt) drücken?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "Es öffnet sich die \"Patches\" Ansicht"
 
 msgid "It crashes"
-msgstr ""
+msgstr "Die Anwendung stürzt ab"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "Es wird ein zufälliges Paket installiert"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "Die Mongwai werden hungrig"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "Wie kann man xterm in einer YaST2 Installation öffnen?"
 
 msgid "you can't"
-msgstr ""
+msgstr "Das geht nicht"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "Sie klicken das Geeko Icon in der oberen linken Ecke sieben mal"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "Sie sprechen das Wort \"xterm\" deutlich in das Mikrofon (nur für Laptops)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "Können Sie die Widget Hierarchie von einem YaST2 Fenster untersuchen, während es läuft?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "Ja, in dem man den Seitenkopf sieben mal klickt"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "Ja, per mittlerem Mausklick auf ein beliebiges Widget"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "Ja, durch drücken von Ctrl-Shift-Alt-Y"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "Nein - benutze den Quelltext, Luke"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "Was passiert, wenn man eine Schaltfläche mit dem rechten Mauszeiger in YaST2 klickt?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "Es öffnet das Kontext Menü der Schaltfläche"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "Es setzt die Seite auf die Standardeinstellungen zurück"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "Es fragt, ob die Maus in den Linkshändermodus gewechselt werden soll"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "Es wechselt zwischen dem dunklen und hellen Theme"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "Kann die YaST (Qt) Farbpalette für visuell beeinträchtigte Nutzer geändert werden?"
 
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "Ja, indem man das Sonne/Mond Icon klickt"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "Ja, durch drücken von Shift-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "Ja, per rechts-klick auf die \"Hilfe\" Schaltfläche"
 
-#, fuzzy
 msgid "Start Quiz"
-msgstr "Start"
+msgstr "Starte das Quiz"
 
 msgid "Start"
 msgstr "Start"
@@ -1192,36 +1187,35 @@ msgid "Score"
 msgstr "Punktzahl"
 
 msgid "Final"
-msgstr ""
+msgstr "Endgültig"
 
-#, fuzzy
 msgid "Restart"
-msgstr "Start"
+msgstr "Neustart"
 
 msgid "Question"
-msgstr ""
+msgstr "Frage"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "Bitte geben Sie einen Benutzername ein um fortzufahren."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Willkommen, %s"
 
 msgid "Are you sure you want to quit and submit?"
 msgstr "Möchten Sie wirklich beenden und Antworten übermitteln?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "Der Benutzername ist zu kurz."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Entschuldigung, aber dieser Benutzername ist bereits vergeben."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert."
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
+msgstr "Benutzen Sie einen erkennbaren nickname wie ZypperJedi oder vorzugsweise ihren echten Namen (VornameNachname)."
 
 #~ msgid "Language"
 #~ msgstr "Sprache"
