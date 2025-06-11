@@ -383,7 +383,6 @@ msgid "A programming language"
 msgstr "Un lenguaje de programación"
 
 #, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of installer in openSUSE Aeon"
 msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
 
@@ -391,7 +390,6 @@ msgid "tik"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "tak"
 msgstr "Comenzar"
 
@@ -1282,7 +1280,6 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr ""
 
 #, fuzzy
-#| msgid "Zypper"
 msgid "Zypper Jedi"
 msgstr "Zypper"
 
@@ -1373,7 +1370,6 @@ msgid "Which Zypper command enables parallel package downloads?"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper --fast"
 msgstr "zypper update"
 
@@ -1405,12 +1401,10 @@ msgid "/usr/lib/zypper/config"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following Zypper commands will clean all cached packages?"
 msgstr "¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en openSUSE?"
 
 #, fuzzy
-#| msgid "zypper refresh"
 msgid "zypper refresh --clean"
 msgstr "zypper refresh"
 
@@ -1418,12 +1412,10 @@ msgid "zypper clean --all"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper purge-cache"
 msgstr "zypper update"
 
 #, fuzzy
-#| msgid "zypper reload"
 msgid "zypper remove-cache"
 msgstr "zypper reload"
 
@@ -1488,7 +1480,6 @@ msgid "Edit repoindex.xml manually and cross your fingers."
 msgstr ""
 
 #, fuzzy
-#| msgid "With a single click from software.opensuse.org"
 msgid "What can users do at software.opensuse.org?"
 msgstr "Con un solo clic desde software.opensuse.org"
 
@@ -1515,7 +1506,6 @@ msgid "42"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is IFL?"
 msgid "What is yzpper?"
 msgstr "¿Qué es IFL?"
 
@@ -1598,7 +1588,6 @@ msgid "~ 346870"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "¿Qué entorno de escritorio es el predeterminado para openSUSE Leap 15?"
 
@@ -1677,7 +1666,6 @@ msgid "boot/"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
 msgstr "¿Qué significa la palabra 'open' en openSUSE?"
 
@@ -1694,7 +1682,6 @@ msgid "A hidden picture of the latest SUSE kernel team's team building event"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following is a program to load kernel modules?"
 msgstr "¿Cuál de los siguientes gestores de paquetes se utiliza habitualmente en openSUSE?"
 
@@ -1723,7 +1710,6 @@ msgid "Only when Linus pushes a new tag"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
 msgstr "¿Qué significa la palabra 'open' en openSUSE?"
 
@@ -1749,7 +1735,6 @@ msgid "nomodeset"
 msgstr ""
 
 #, fuzzy
-#| msgid "Tumblebleed"
 msgid "bumblebee"
 msgstr "Tumblebleed"
 

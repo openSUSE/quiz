@@ -382,7 +382,6 @@ msgid "A programming language"
 msgstr "Un llenguatge de programació"
 
 #, fuzzy
-#| msgid "What is the name of the openSUSE build system?"
 msgid "What is the name of installer in openSUSE Aeon"
 msgstr "Quin és el nom del sistema de construcció de l'openSUSE?"
 
@@ -390,7 +389,6 @@ msgid "tik"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "tak"
 msgstr "Inicia"
 
@@ -1227,7 +1225,6 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
 #, fuzzy
-#| msgid "Zypper"
 msgid "Zypper Jedi"
 msgstr "Zypper"
 
@@ -1235,12 +1232,10 @@ msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the name of the official openSUSE community forum?"
 msgid "What is the name of the library used by the default openSUSE package manager?"
 msgstr "Quin és el nom del fòrum oficial de la comunitat d'openSUSE?"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "libzypp"
 msgstr "zypper"
 
@@ -1278,7 +1273,6 @@ msgid "Refreshes all repositories"
 msgstr ""
 
 #, fuzzy
-#| msgid "It installs a random package"
 msgid "Lists orphaned packages"
 msgstr "Instal·la un paquet aleatori"
 
@@ -1322,12 +1316,10 @@ msgid "Which Zypper command enables parallel package downloads?"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper --fast"
 msgstr "zypper update"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper -p"
 msgstr "zypper"
 
@@ -1335,7 +1327,6 @@ msgid "The latest zypper uses parallel downloads by default"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper repos"
 msgid "zypper turbo"
 msgstr "zypper repos"
 
@@ -1346,7 +1337,6 @@ msgid "/etc/zypp/zypp.conf"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper"
 msgid "/etc/zypperrc"
 msgstr "zypper"
 
@@ -1357,12 +1347,10 @@ msgid "/usr/lib/zypper/config"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following Zypper commands will clean all cached packages?"
 msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
 
 #, fuzzy
-#| msgid "zypper refresh"
 msgid "zypper refresh --clean"
 msgstr "zypper refresh"
 
@@ -1370,12 +1358,10 @@ msgid "zypper clean --all"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper purge-cache"
 msgstr "zypper update"
 
 #, fuzzy
-#| msgid "zypper reload"
 msgid "zypper remove-cache"
 msgstr "zypper reload"
 
@@ -1416,7 +1402,6 @@ msgid "14"
 msgstr ""
 
 #, fuzzy
-#| msgid "2010"
 msgid "10"
 msgstr "El 2010"
 
@@ -1442,7 +1427,6 @@ msgid "Edit repoindex.xml manually and cross your fingers."
 msgstr ""
 
 #, fuzzy
-#| msgid "With a single click from software.opensuse.org"
 msgid "What can users do at software.opensuse.org?"
 msgstr "Amb un sol clic des de software.opensuse.org"
 
@@ -1453,7 +1437,6 @@ msgid "Browse and install additional software, including packages from home proj
 msgstr ""
 
 #, fuzzy
-#| msgid "Promoting and supporting free and open source software"
 msgid "View screenshots and details of cool open source software."
 msgstr "Difusió i suport de programari lliure i de codi obert"
 
@@ -1470,7 +1453,6 @@ msgid "42"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is IFL?"
 msgid "What is yzpper?"
 msgstr "Què és IFL?"
 
@@ -1553,7 +1535,6 @@ msgid "~ 346870"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
 
@@ -1570,7 +1551,6 @@ msgid "kernel-vanilla"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the primary license used by openSUSE?"
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
 msgstr "Quina és la llicència principal usada per openSUSE?"
 
@@ -1602,7 +1582,6 @@ msgid "Better energy efficiency"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the name of openSUSE's flagship rolling release?"
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
 msgstr "Quin és el nom de la versió insígnia d'openSUSE?"
 
@@ -1634,7 +1613,6 @@ msgid "boot/"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
 msgstr "Què significa la paraula «open» a openSUSE?"
 
@@ -1651,7 +1629,6 @@ msgid "A hidden picture of the latest SUSE kernel team's team building event"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following is a program to load kernel modules?"
 msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
 
@@ -1668,7 +1645,6 @@ msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
 msgstr ""
 
 #, fuzzy
-#| msgid "Every month"
 msgid "Every 6 months"
 msgstr "Cada mes"
 
@@ -1682,7 +1658,6 @@ msgid "Only when Linus pushes a new tag"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
 msgstr "Què significa la paraula «open» a openSUSE?"
 
@@ -1708,7 +1683,6 @@ msgid "nomodeset"
 msgstr ""
 
 #, fuzzy
-#| msgid "Tumblebleed"
 msgid "bumblebee"
 msgstr "Tumblebleed"
 
@@ -1785,7 +1759,6 @@ msgid "Around 3%"
 msgstr ""
 
 #, fuzzy
-#| msgid "about 50"
 msgid "About 5%"
 msgstr "Uns 50"
 

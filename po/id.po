@@ -389,7 +389,6 @@ msgid "A programming language"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the name of installer in openSUSE Aeon"
 msgstr "Apa filesystem bawaan di openSUSE?"
 
@@ -1346,7 +1345,6 @@ msgid "/usr/lib/zypper/config"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following Zypper commands will clean all cached packages?"
 msgstr "Manakah dari manajer paket berikut ini yang biasa digunakan di openSUSE?"
 
@@ -1447,7 +1445,6 @@ msgid "42"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is Leap 16.0?"
 msgid "What is yzpper?"
 msgstr "Apa itu Leap 16.0?"
 
@@ -1605,7 +1602,6 @@ msgid "boot/"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
 msgstr "Apa arti kata 'open' di openSUSE?"
 
@@ -1649,7 +1645,6 @@ msgid "Only when Linus pushes a new tag"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
 msgstr "Apa arti kata 'open' di openSUSE?"
 

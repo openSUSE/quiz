@@ -390,7 +390,6 @@ msgid "tik"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "tak"
 msgstr "Розпочати"
 

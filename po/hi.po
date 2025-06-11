@@ -388,7 +388,6 @@ msgid "A programming language"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What is the name of installer in openSUSE Aeon"
 msgstr "ओपनसुसा परियोजना का मुख्य लक्ष्य क्या है?"
 
@@ -1643,7 +1642,6 @@ msgid "Only when Linus pushes a new tag"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the main goal of the openSUSE project?"
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
 msgstr "ओपनसुसा परियोजना का मुख्य लक्ष्य क्या है?"
 

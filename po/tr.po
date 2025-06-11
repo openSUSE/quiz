@@ -391,7 +391,6 @@ msgid "tik"
 msgstr ""
 
 #, fuzzy
-#| msgid "Start"
 msgid "tak"
 msgstr "Başla"
 
@@ -1250,7 +1249,6 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr ""
 
 #, fuzzy
-#| msgid "Zypper"
 msgid "Zypper Jedi"
 msgstr "Zypper"
 
@@ -1258,12 +1256,10 @@ msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the name of the official openSUSE community forum?"
 msgid "What is the name of the library used by the default openSUSE package manager?"
 msgstr "Resmi openSUSE topluluk forumunun adı nedir?"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "libzypp"
 msgstr "zypper"
 
@@ -1344,12 +1340,10 @@ msgid "Which Zypper command enables parallel package downloads?"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper --fast"
 msgstr "zypper update"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper -p"
 msgstr "zypper"
 
@@ -1357,7 +1351,6 @@ msgid "The latest zypper uses parallel downloads by default"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper repos"
 msgid "zypper turbo"
 msgstr "zypper repos"
 
@@ -1368,7 +1361,6 @@ msgid "/etc/zypp/zypp.conf"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper"
 msgid "/etc/zypperrc"
 msgstr "zypper"
 
@@ -1379,7 +1371,6 @@ msgid "/usr/lib/zypper/config"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following Zypper commands will clean all cached packages?"
 msgstr "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket yöneticisidir?"
 
@@ -1390,12 +1381,10 @@ msgid "zypper clean --all"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper purge-cache"
 msgstr "zypper update"
 
 #, fuzzy
-#| msgid "zypper repos"
 msgid "zypper remove-cache"
 msgstr "zypper repos"
 
@@ -1460,7 +1449,6 @@ msgid "Edit repoindex.xml manually and cross your fingers."
 msgstr ""
 
 #, fuzzy
-#| msgid "With a single click from software.opensuse.org"
 msgid "What can users do at software.opensuse.org?"
 msgstr "software.opensuse.org üzerinden tek tıkla"
 
@@ -1471,7 +1459,6 @@ msgid "Browse and install additional software, including packages from home proj
 msgstr ""
 
 #, fuzzy
-#| msgid "Promoting and supporting free and open source software"
 msgid "View screenshots and details of cool open source software."
 msgstr "Açık kaynaklı yazılımların desteklenmesi ve yaygınlaştırılması"
 
@@ -1488,7 +1475,6 @@ msgid "42"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is IFL?"
 msgid "What is yzpper?"
 msgstr "IFL nedir?"
 
@@ -1571,7 +1557,6 @@ msgid "~ 346870"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
 
@@ -1588,7 +1573,6 @@ msgid "kernel-vanilla"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the primary license used by openSUSE?"
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
 msgstr "openSUSE tarafından kullanılan birincil lisans nedir?"
 
@@ -1651,7 +1635,6 @@ msgid "boot/"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
 msgstr "OpenSUSE'deki 'open' kelimesi ne anlama geliyor?"
 
@@ -1668,7 +1651,6 @@ msgid "A hidden picture of the latest SUSE kernel team's team building event"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of the following package managers is commonly used in openSUSE?"
 msgid "Which of the following is a program to load kernel modules?"
 msgstr "Aşağıdakilerden hangisi openSUSE'de yaygın olarak kullanılan paket yöneticisidir?"
 
@@ -1685,7 +1667,6 @@ msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
 msgstr ""
 
 #, fuzzy
-#| msgid "Every month"
 msgid "Every 6 months"
 msgstr "Her ay"
 
@@ -1699,7 +1680,6 @@ msgid "Only when Linus pushes a new tag"
 msgstr ""
 
 #, fuzzy
-#| msgid "What does the word 'open' in openSUSE mean?"
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
 msgstr "OpenSUSE'deki 'open' kelimesi ne anlama geliyor?"
 
@@ -1725,7 +1705,6 @@ msgid "nomodeset"
 msgstr ""
 
 #, fuzzy
-#| msgid "Tumblebleed"
 msgid "bumblebee"
 msgstr "Tumblebleed"
 
