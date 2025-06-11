@@ -52,12 +52,14 @@
     </div>
     <div class="quizzes">
       <% quizzes.forEach((quiz, index) => { %>
+          <% if (quiz.enabled == true)  { %>
         <a href="./quiz?name=<%- quiz.slug %>&lang=<%= lang %>" class="quiz-link">
           <button class="quiz-btn quiz-btn-color-<%= index % 4 %>">
             <span class="quiz-btn-icon">📋</span>
             <span class="quiz-btn-title"><%= t(quiz.title) %></span>
           </button>
         </a>
+        <% } %>
       <% }) %>
     </div>
   </div>

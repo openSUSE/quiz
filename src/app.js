@@ -68,6 +68,7 @@ const quizzes = quizFileDir.map((file) => {
   return {
     title: quizFile.quizData.title,
     slug: file.replace(".js", ""),
+    enabled: quizFile.quizData.enabled, // Add this line
   };
 });
 

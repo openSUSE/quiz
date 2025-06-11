@@ -11,6 +11,7 @@ const quizData = {
   ),
   submitAnytime: false,
   randomizeQuestions: true,
+  enabled: true
 };
 
 const questions = [

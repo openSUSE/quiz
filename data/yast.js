@@ -9,6 +9,7 @@ const quizData = {
   subtitle: _("Think you know YaST? Think again."),
   submitAnytime: false,
   randomizeQuestions: false,
+  enabled: true,
 };
 
 const questions = [

@@ -2,6 +2,7 @@
 // Tools like `xgettext` can extract strings wrapped in _("...").
 // Plain string literals ("...") are ignored by such tools.
 // This dummy function allows us to mark strings for translation
+
 // without affecting runtime behavior — it simply returns the input.
 function _(str) {
   return str;
@@ -12,6 +13,7 @@ const quizData = {
   subtitle: _("A quiz for friends of mainframes and exotic architectures."),
   submitAnytime: false,
   randomizeQuestions: true,
+  enabled: true,
 };
 
 const questions = [

@@ -12,6 +12,7 @@ const quizData = {
   submitAnytime: true,
   timeout: 30,
   randomizeQuestions: true,
+  enabled: true
 };
 
 const questions = [
