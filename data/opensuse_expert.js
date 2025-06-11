@@ -106,17 +106,6 @@ const questions = [
     ],
   },
   {
-    text: _(
-      "Which of the following package managers is commonly used in openSUSE?",
-    ),
-    answers: [
-      { text: _("Yum"), correct: false },
-      { text: _("DNF"), correct: false },
-      { text: _("Zypper"), correct: true },
-      { text: _("Pacman"), correct: false },
-    ],
-  },
-  {
     text: _("What is Leap 16.0?"),
     answers: [
       {
@@ -188,15 +177,12 @@ const questions = [
     ],
   },
   {
-    text: _("What is the primary goal of the openSUSE Aeon distribution?"),
+    text: _("What is the name of installer in openSUSE Aeon?"),
     answers: [
-      {
-        text: _("A modern transactional-desktop system with GNOME"),
-        correct: true,
-      },
-      { text: _("Scientific research"), correct: false },
-      { text: _("Containerization"), correct: false },
-      { text: _("Enterprise use"), correct: false },
+      { text: _("tik"), correct: true, },
+      { text: _("tak"), correct: false },
+      { text: _("tao"), correct: false },
+      { text: _("Agama"), correct: false },
     ],
   },
   {
@@ -217,17 +203,6 @@ const questions = [
       { text: _("Africa and Madagascar"), correct: true },
       { text: _("Southeast Asia"), correct: false },
       { text: _("Antarctica"), correct: false },
-    ],
-  },
-  {
-    text: _(
-      "Where can you check the current status of openSUSE infrastructure?",
-    ),
-    answers: [
-      { text: _("status.opensuse.org"), correct: true },
-      { text: _("isopensusedown.com"), correct: false },
-      { text: _("yast-status-viewer"), correct: false },
-      { text: _("zypper up --ping"), correct: false },
     ],
   },
   {
@@ -325,17 +300,6 @@ const questions = [
   },
   {
     text: _(
-      "Which command line tool is used to manage repositories in openSUSE?",
-    ),
-    answers: [
-      { text: _("zypper"), correct: true },
-      { text: _("apt"), correct: false },
-      { text: _("yum"), correct: false },
-      { text: _("pacman"), correct: false },
-    ],
-  },
-  {
-    text: _(
       "Which openSUSE distribution is known for being a stable point release?",
     ),
     answers: [
@@ -398,10 +362,10 @@ const questions = [
       "Which tool is recommended for managing software repositories and packages in openSUSE?",
     ),
     answers: [
-      { text: _("Zypper"), correct: true },
-      { text: _("Yum"), correct: false },
-      { text: _("APT"), correct: false },
-      { text: _("Pacman"), correct: false },
+      { text: _("zypper"), correct: true },
+      { text: _("yum"), correct: false },
+      { text: _("apt"), correct: false },
+      { text: _("pacman"), correct: false },
     ],
   },
   {
