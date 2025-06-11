@@ -653,9 +653,6 @@ msgstr ""
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr ""
 
-msgid "Which file format does openSUSE use for package management?"
-msgstr ""
-
 msgid "RPM"
 msgstr ""
 

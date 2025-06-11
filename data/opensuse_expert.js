@@ -378,15 +378,6 @@ const questions = [
     ],
   },
   {
-    text: _("Which file format does openSUSE use for package management?"),
-    answers: [
-      { text: _("RPM"), correct: true },
-      { text: _("DEB"), correct: false },
-      { text: _("APK"), correct: false },
-      { text: _("PKG"), correct: false },
-    ],
-  },
-  {
     text: _("What command will list all repositories in openSUSE?"),
     answers: [
       { text: _("zypper repos"), correct: true },
