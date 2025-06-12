@@ -1,6 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:14+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -1696,35 +1696,34 @@ msgid "selinux=off apparmor=on"
 msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "En el món del nucli d'openSUSE, què significa KOTD?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "El nucli del dia: nuclis construïts diàriament en projectes d'OBS Kernel:xxx"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Cavallers dels antics repositoris: els llegendaris defensors del nucli"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Mantén en Tux ballant: la festa de ball secreta del nucli"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Divisió d'entrenament d'operadors del nucli — ninges del nucli de nivell Jedi"
 
 msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE és un dels 6 principals contribuïdors al nucli de Linux (FSF 2017). Aproximadament quin percentatge de contribucions fa SUSE?"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "Menys de l'1 %"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "Al voltant del 3 %"
 
-#, fuzzy
 msgid "About 5%"
-msgstr "Uns 50"
+msgstr "Al voltant d'un 5 %"
 
 msgid "More than 20%"
-msgstr ""
+msgstr "Més del 20 %"
 
 #~ msgid "Which file format does openSUSE use for package management?"
 #~ msgstr "Quin format de fitxer usa l'openSUSE per a la gestió de paquets?"
