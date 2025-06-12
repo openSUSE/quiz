@@ -2,18 +2,7 @@
 # Dan Čermák <dcermak@suse.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-11 19:42+0000\n"
-"Last-Translator: Dan Čermák <dcermak@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: Dan Čermák <dcermak@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Chamäleon Spaß für Kinder!"
@@ -396,7 +385,7 @@ msgid "tak"
 msgstr "tar"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Was ist der richtige Ort um sich über Projekte von Rancher und SUSE zu informieren?"
@@ -1229,7 +1218,7 @@ msgid "Zypper Jedi"
 msgstr "Zypper"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "Interessante und obskure Fakten über Zypper, der Paketmanager von openSUSE"
 
 #, fuzzy
 msgid "What is the name of the library used by the default openSUSE package manager?"
@@ -1240,50 +1229,50 @@ msgid "libzypp"
 msgstr "zypper"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "openSUSE benutzt libzypp als die Backend Bibliothek für seinen Paketmanager Zypper. Sie ist bekannt für ihre mächtige Abhängigkeitsauflösung und Unterstützung für Delta RPMs."
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "Wo wurden Zypper und libzypp zuerst eingeführt?"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "In SuSE Linux 7.1 (2001)"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "In SUSE Linux 10.1 (2006)"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "Als Teil von des magischen openSUSE Leap 42.3 Releases (2017)"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "Es war von Anfang an dabei, seit S.u.S.E. Linux 1.0 (1994)"
 
 msgid "What does 'zypper refs' do?"
-msgstr ""
+msgstr "Was macht `zypper refs'?"
 
 msgid "Refreshes all repositories"
-msgstr ""
+msgstr "Es lädt alle Repositories neu"
 
 #, fuzzy
 msgid "Lists orphaned packages"
 msgstr "Es wird ein zufälliges Paket installiert"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "Es listet alle soft package locks auf"
 
 msgid "Refreshes defined repository index services."
-msgstr ""
+msgstr "Es lädt alle repository index services neu."
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "Was macht der RIS (Repository Index service) tatsächlich in openSUSE?"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
 msgstr ""
