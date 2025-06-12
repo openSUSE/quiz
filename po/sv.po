@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-12 09:10+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Kameleontkul för barn!"
@@ -411,7 +399,7 @@ msgid "Moo University"
 msgstr "Moo University"
 
 msgid "Cowboy Hat"
-msgstr "Cowboy Hat"
+msgstr "Cowboyhatt"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
 msgstr "Var kan man kontrollera den aktuella statusen för openSUSE-infrastruktur?"
@@ -663,13 +651,13 @@ msgid "What is the primary license used by openSUSE?"
 msgstr "Vilken är den primära licensen som används av openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr "GPL (GNU General Public License)"
+msgstr "GPL (GNU General Public Licens)"
 
 msgid "MIT License"
-msgstr "MIT licens"
+msgstr "MIT Licens"
 
 msgid "Apache License"
-msgstr "Apache licens"
+msgstr "Apache Licens"
 
 msgid "Proprietary"
 msgstr "Proprietär"
@@ -720,7 +708,7 @@ msgid "Which openSUSE tool is used for system configuration and management?"
 msgstr "Vilket openSUSE-verktyg används för systemkonfiguration och hantering?"
 
 msgid "Gnome Control Center"
-msgstr "Gnome Kontrollcenter"
+msgstr "Gnome kontrollcenter"
 
 msgid "KDE System Settings"
 msgstr "KDE-systeminställningar"
