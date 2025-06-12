@@ -630,9 +630,6 @@ msgstr "APT"
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "openSUSE のローリングリリース型ディストリビューションのうち、代表的な名前は？"
 
-msgid "Which file format does openSUSE use for package management?"
-msgstr "openSUSE でのソフトウエアパッケージのファイル形式はどれ？"
-
 msgid "RPM"
 msgstr "RPM"
 
@@ -1765,6 +1762,9 @@ msgstr "50 個くらい"
 
 msgid "More than 20%"
 msgstr ""
+
+#~ msgid "Which file format does openSUSE use for package management?"
+#~ msgstr "openSUSE でのソフトウエアパッケージのファイル形式はどれ？"
 
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 #~ msgstr "openSUSE Aeon ディストリビューションの主な目的は？"

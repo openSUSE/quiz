@@ -1,7 +1,18 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Victor hck <victorhck@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:10+0000\nLast-Translator: Victor hck <victorhck@opensuse.org>\nLanguage-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-07 16:50+0000\n"
+"PO-Revision-Date: 2025-06-12 09:10+0000\n"
+"Last-Translator: Victor hck <victorhck@opensuse.org>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\n"
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "¡Diversión camaleónica para niños!"
@@ -617,9 +628,6 @@ msgstr "APT"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "¿Cómo se llama la versión insignia de openSUSE de actualización contínua?"
-
-msgid "Which file format does openSUSE use for package management?"
-msgstr "¿Qué formato de archivo utiliza openSUSE para la gestión de paquetes?"
 
 msgid "RPM"
 msgstr "RPM"
@@ -1776,6 +1784,9 @@ msgstr ""
 
 msgid "More than 20%"
 msgstr ""
+
+#~ msgid "Which file format does openSUSE use for package management?"
+#~ msgstr "¿Qué formato de archivo utiliza openSUSE para la gestión de paquetes?"
 
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 #~ msgstr "¿Cuál es el objetivo principal de la distribución openSUSE Aeon?"

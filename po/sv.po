@@ -3,7 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:10+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-07 16:50+0000\n"
+"PO-Revision-Date: 2025-06-12 09:10+0000\n"
+"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Kameleontkul för barn!"
@@ -619,9 +631,6 @@ msgstr "APT"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Vad heter openSUSEs flaggskeppsutgåva, den rullande versionen?"
-
-msgid "Which file format does openSUSE use for package management?"
-msgstr "Vilket filformat använder openSUSE för pakethantering?"
 
 msgid "RPM"
 msgstr "RPM"
@@ -1730,6 +1739,9 @@ msgstr "Omkring 5%"
 
 msgid "More than 20%"
 msgstr "Mer än 20 %"
+
+#~ msgid "Which file format does openSUSE use for package management?"
+#~ msgstr "Vilket filformat använder openSUSE för pakethantering?"
 
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 #~ msgstr "Vad är det primära målet med openSUSE Aeon-distributionen?"

@@ -640,10 +640,6 @@ msgstr "APT"
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "OpenSUSE derleme sisteminin adı nedir?"
 
-#, fuzzy
-msgid "Which file format does openSUSE use for package management?"
-msgstr "OpenSUSE projesinin maskotu nedir?"
-
 msgid "RPM"
 msgstr "RPM"
 
@@ -1785,6 +1781,10 @@ msgstr ""
 
 msgid "More than 20%"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Which file format does openSUSE use for package management?"
+#~ msgstr "OpenSUSE projesinin maskotu nedir?"
 
 #, fuzzy
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"

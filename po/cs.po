@@ -1,6 +1,17 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 19:42+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-07 16:50+0000\n"
+"PO-Revision-Date: 2025-06-11 19:42+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
+"Language: cs\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s Chameleony pro děti!"
@@ -616,9 +627,6 @@ msgstr "APT"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Jak se jmenuje hlavní rolling release openSUSE?"
-
-msgid "Which file format does openSUSE use for package management?"
-msgstr "Jaký formát souborů používá openSUSE pro správu balíčků?"
 
 msgid "RPM"
 msgstr "RPM"
@@ -1727,6 +1735,9 @@ msgstr "Asi 5%"
 
 msgid "More than 20%"
 msgstr "Více než 20%"
+
+#~ msgid "Which file format does openSUSE use for package management?"
+#~ msgstr "Jaký formát souborů používá openSUSE pro správu balíčků?"
 
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 #~ msgstr "Jaký je hlavní cíl distribuce openSUSE Aeon?"
