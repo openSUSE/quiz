@@ -1,17 +1,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
+# Victor hck <victorhck@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-10 15:14+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:10+0000\nLast-Translator: Victor hck <victorhck@opensuse.org>\nLanguage-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "¡Diversión camaleónica para niños!"
@@ -179,7 +169,7 @@ msgid "What is the mascot of openSUSE project?"
 msgstr "¿Cuál es la mascota del proyecto openSUSE?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
 msgstr "TwoPac"
@@ -382,19 +372,17 @@ msgstr "El navegador web predeterminado"
 msgid "A programming language"
 msgstr "Un lenguaje de programación"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
-msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
+msgstr "¿Cómo se llama el instalador en openSUSE Aeon?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
-#, fuzzy
 msgid "tak"
-msgstr "Comenzar"
+msgstr "tak"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "¿Cuál es el lugar al que acudir para obtener información sobre los proyectos de Rancher y SUSE?"
@@ -475,235 +463,208 @@ msgid "Every 5 years when the stars align"
 msgstr "Cada 5 años cuando los astros se alinean"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Cada 12 meses con 6 meses de superposición"
 
 msgid "Every month"
-msgstr ""
+msgstr "Cada mes"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Cuando Geeko se aburre"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "¿Qué servicio de openSUSE se utiliza para la localización y la gestión de traducciones?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
-#, fuzzy
 msgid "Build Service"
-msgstr "OBS (Open Build Service)"
+msgstr "Build Service"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "¿Qué comando usarías para actualizar paquetes de software en openSUSE desde el terminal?"
 
 msgid "zypper update"
 msgstr "zypper update"
 
-#, fuzzy
 msgid "apt-get update"
-msgstr "zypper update"
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
-#, fuzzy
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "¿Qué significa la palabra 'open' en openSUSE?"
+msgstr "¿Qué representa Tumbleweed en openSUSE?"
 
-#, fuzzy
 msgid "A rolling release distribution"
-msgstr "Una versión continua para dispositivos móviles"
+msgstr "Una distribución de lanzamientos continuos"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "Un entorno de escritorio"
 
 msgid "The mascot"
-msgstr ""
+msgstr "La mascota"
 
 msgid "An installer"
-msgstr ""
+msgstr "Un instalador"
 
-#, fuzzy
 msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "¿Qué comando se puede usar para actualizar los repositorios con zypper?"
+msgstr "¿Qué herramienta de línea de comandos se utiliza para gestionar repositorios en openSUSE?"
 
-#, fuzzy
 msgid "zypper"
-msgstr "Sypper"
+msgstr "zypper"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
-#, fuzzy
 msgid "yum"
-msgstr "Yum"
+msgstr "yum"
 
-#, fuzzy
 msgid "pacman"
-msgstr "Pacman"
+msgstr "pacman"
 
-#, fuzzy
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y microservicios?"
+msgstr "¿Qué distribución de openSUSE es conocida por ser una versión puntual estable?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
-#, fuzzy
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "¿Cuál es la mascota del proyecto openSUSE?"
+msgstr "¿Cuál es el objetivo principal de openSUSE MicroOS?"
 
-#, fuzzy
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "¿Qué distribución de openSUSE está optimizada para ejecutar contenedores y microservicios?"
+msgstr "Sistema operativo inmutable optimizado para contenedores y microservicios"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Juego"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Productividad de escritorio"
 
-#, fuzzy
 msgid "Scientific computing"
-msgstr "Investigación científica"
+msgstr "Computación científica"
 
-#, fuzzy
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr "¿Cuál es la mascota de openSUSE?"
+msgstr "¿Qué herramienta se utiliza para crear y gestionar instantáneas en openSUSE?"
 
-#, fuzzy
 msgid "snapper"
-msgstr "Snapper"
+msgstr "snapper"
 
-#, fuzzy
 msgid "timeshift"
-msgstr "Timeshift"
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "¿Cuál es el editor de texto predeterminado de openSUSE?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "¿Qué comando instalaría un paquete en openSUSE?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install nombre-del-paquete"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install nombre-del-paquete"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install nombre-del-paquete"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S nombre-del-paquete"
 
-#, fuzzy
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
+msgstr "¿Cómo se llama el foro oficial de la comunidad de openSUSE?"
 
-#, fuzzy
 msgid "forums.opensuse.org"
-msgstr "fun@opensuse.org"
+msgstr "forums.opensuse.org"
 
-#, fuzzy
 msgid "discuss.opensuse.com"
-msgstr "bugs.opensuse.com"
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
-#, fuzzy
 msgid "opensuse-chat.org"
-msgstr "fun@opensuse.org"
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "¿Qué herramienta se recomienda para gestionar repositorios y paquetes de software en openSUSE?"
 
 msgid "APT"
-msgstr ""
+msgstr "APT"
 
-#, fuzzy
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "¿Cómo se llama el sistema de compilación de openSUSE?"
+msgstr "¿Cómo se llama la versión insignia de openSUSE de actualización contínua?"
 
-#, fuzzy
 msgid "Which file format does openSUSE use for package management?"
-msgstr "¿Qué significa la palabra 'open' en openSUSE?"
+msgstr "¿Qué formato de archivo utiliza openSUSE para la gestión de paquetes?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
-#, fuzzy
 msgid "What command will list all repositories in openSUSE?"
-msgstr "¿Cuál es el sistema de archivos predeterminado en openSUSE?"
+msgstr "¿Qué comando listará todos los repositorios en openSUSE?"
 
-#, fuzzy
 msgid "zypper repos"
-msgstr "zypper repolist"
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
-#, fuzzy
 msgid "dnf repolist"
-msgstr "zypper repolist"
+msgstr "dnf repolist"
 
-#, fuzzy
 msgid "pacman -Q"
-msgstr "Pacman"
+msgstr "pacman -Q"
 
-#, fuzzy
 msgid "What is the primary license used by openSUSE?"
-msgstr "¿Cuál es la mascota de openSUSE?"
+msgstr "¿Cuál es la licencia principal utilizada por openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "Licencia MIT"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Licencia Apache"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Privativa"
 
-#, fuzzy
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "¿Qué significa la palabra 'open' en openSUSE?"
+msgstr "¿Qué significa OBS en el contexto de openSUSE?"
 
 #, fuzzy
 msgid "Open Build Service"
