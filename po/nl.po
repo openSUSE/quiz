@@ -1,17 +1,6 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-12 09:10+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Kameleonpret voor kinderen!"
@@ -77,193 +66,193 @@ msgid "Southeast Asia"
 msgstr "Zuidoost-Azië"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarctica"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "Hoe vangen kameleons hun eten?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "Met hun handen"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "Met hun lange kleverige tong"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "Door er naar te roepen"
 
 msgid "With a net"
-msgstr ""
+msgstr "Met een net"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "Wat eten kameleons?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "IJsjes"
 
 msgid "Insects"
-msgstr ""
+msgstr "Insecten"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "Ananas"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "Hot dogs"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "Wat maakt openSUSE speciaal?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "Het kan met dieren praten"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "Het is een modern, vrij besturingssysteem dat iedereen kan gebruiken — ook u!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "Het is gemaakt van kameleonschubben"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "Het is alleen voor geheime agenten"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "Zien alle kameleons er hetzelfde uit?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "Ja, ze zijn allemaal groen en slecht geluimd"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "Nee, ze komen in vele vormen, groottes en kleuren"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "Ja, ze dragen allemaal hoeden"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "Ze dragen allemaal openSUSE stickers"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "Wat betekent het woord 'open' in openSUSE?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "Het is een wachtwoord"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "Het betekent dat iedereen het kan gebruiken en het helpen beter te maken"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "Het is alleen voor het openen van deuren"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "Het gaat over het openen van snoepreepwikkels"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "Kunnen kameleons hun ogen onafhankelijk van elkaar bewegen?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "Nee, ze knipperen met beide ogen tegelijk"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "Ja, ze kunnen in twee richtingen tegelijk kijken!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "Ze sluiten één oog wanneer ze slapen"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "Nee, hun ogen zijn altijd gesloten"
 
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "openSUSE expert"
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
-msgstr ""
+msgstr "Daag andere gebruikers in ons klassement uit. 30 seconden per vraag. Stop op elk moment."
 
 msgid "What is the mascot of openSUSE project?"
-msgstr ""
+msgstr "Wat is de mascotte van het openSUSE project?"
 
 msgid "Pascal"
-msgstr ""
+msgstr "Pascal"
 
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr ""
+msgstr "Wat is het hoofddoel van het openSUSE project?"
 
 msgid "Supporting and spreading open-source software"
-msgstr ""
+msgstr "Ondersteuning en verspreiding van open-source software"
 
 msgid "Developing mobile applications"
-msgstr ""
+msgstr "Ontwikkelen van mobiele toepassingen"
 
 msgid "Producing video games"
-msgstr ""
+msgstr "Videogames produceren"
 
 msgid "Research in artificial intelligence"
-msgstr ""
+msgstr "Onderzoek in kunstmatige intelligentie"
 
 msgid "What are Aeon and Kalpa?"
-msgstr ""
+msgstr "Wat zijn Aeon en Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr ""
+msgstr "Modern 'onveranderbare' bureaubladen met GNOME en KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr ""
+msgstr "Rollende distributies met via transacties bijwerken met gebruik van flatpaks op het bureaublad"
 
 msgid "Distributions built on top of MicroOS"
-msgstr ""
+msgstr "Distributies gebouwd bovenop MicroOS"
 
 msgid "All options are correct"
-msgstr ""
+msgstr "Alle opties zijn juist"
 
 msgid "Where was the openSUSE project founded?"
-msgstr ""
+msgstr "Waar was het openSUSE project opgericht?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "In Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "Op de LinuxWorld Conference & Expo 2005 in San Francisco"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "In Redmont"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "In de Universiteit van Helsinki"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "Wat is het standaard bestandssysteem in openSUSE?"
 
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "Interplanetair bestandssysteem"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Wat is de naam van het nieuwe installatieprogramma in Leap 16?"
 
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgstr ""
