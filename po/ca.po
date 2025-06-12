@@ -1,6 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-11 19:42+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:10+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Diversió sobre els camaleons per a la canalla!"
@@ -1441,225 +1441,217 @@ msgid "The project name of next gen zypper"
 msgstr "El nom del projecte de la nova generació del Zypper"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr ""
+msgstr "Això és complicat! Tots coneixem «zypper rm --clean deps», però què passa si s'executa «zypper rm --clean-deps rm»?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
-msgstr ""
+msgstr "Desinstal·leu l'ordre rm i totes les dependències restants. Bona sort a l'hora de suprimir fitxers després!"
 
 msgid "Only the `rm` command gets removed, dependencies stay put."
-msgstr ""
+msgstr "Només se suprimeix l'ordre rm, les dependències es queden."
 
 msgid "It cleans your system of the `rm` command but keeps a backup just in case."
-msgstr ""
+msgstr "Neteja el sistema de l'ordre rm però en manté una còpia de seguretat per si de cas."
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "No passa res. L'ordre rm pertany a coreutils."
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "Kernel Ninja"
 
 msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "Dades interessants sobre el nucli a SUSE i openSUSE"
 
 msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "Quina és la mida aproximada (en MB) de la imatge de base (squashfs) del sistema operatiu SUSE Automotive Linux?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "~ 20 MB"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "~ 60 MB"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "~ 240 MB"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "~ 520 MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "Quants paràmetres de configuració (aproximadament) s'ajusten al nucli de Linux en temps real per a l'automoció en comparació amb l'SLES RT estàndard?"
 
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgid "500"
-msgstr ""
+msgstr "500"
 
 msgid "50000"
-msgstr ""
+msgstr "50000"
 
 msgid "500000"
-msgstr ""
+msgstr "500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "Quants pedaços s'han aplicat sobre el nucli 15.6 (SLES 15 SP6) a partir de l'11 de juny de 2025?"
 
 msgid "~ 4231"
-msgstr ""
+msgstr "~ 4231"
 
 msgid "~ 16102"
-msgstr ""
+msgstr "~ 16102"
 
 msgid "~ 32786"
-msgstr ""
+msgstr "~ 32786"
 
 msgid "~ 346870"
-msgstr ""
+msgstr "~ 346870"
 
-#, fuzzy
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
+msgstr "Quin tipus de nucli s'usa per defecte a l'openSUSE Leap?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
-#, fuzzy
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Quina és la llicència principal usada per openSUSE?"
+msgstr "Quina és la diferència principal entre kernel-default i kernel-rt a openSUSE?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt admet maquinari més antic"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt desactiva la preempció"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt té la preempció completa en temps real habilitada"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt té menys funcions de seguretat"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "Què habilita PREEMPT_RT al nucli de Linux?"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "Transmissió d'àudio en temps real"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "Preempció completa, així redueix la latència en seccions crítiques"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "Temps d'arrencada més ràpids"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "Millor eficiència energètica"
 
-#, fuzzy
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Quin és el nom de la versió insígnia d'openSUSE?"
+msgstr "Com es diu una eina (molt) ràpida per expandir els pedaços del nucli?"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "A l'openSUSE, on es desen normalment les configuracions de compilació del nucli a l'arbre de codi font?"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
-#, fuzzy
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Què significa la paraula «open» a openSUSE?"
+msgstr "Què proporciona el paquet kernel-devel a l'openSUSE?"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "Capçaleres comunes del nucli usades com a base per construir mòduls externs del nucli"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "Codi font complet del nucli necessari per a la depuració i la compilació de mòduls"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "Documentació i manuals per al nucli de Linux"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "Una imatge oculta de l'últim esdeveniment de team building de l'equip del nucli de SUSE"
 
-#, fuzzy
 msgid "Which of the following is a program to load kernel modules?"
-msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
+msgstr "Quin dels següents és un programa per carregar mòduls del nucli?"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "modprobe"
-msgstr ""
+msgstr "modprobe"
 
 msgid "systemctl"
-msgstr ""
+msgstr "systemctl"
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
+msgstr "Amb quina freqüència s'actualitza el nucli d'openSUSE Tumbleweed (normalment)?"
 
-#, fuzzy
 msgid "Every 6 months"
-msgstr "Cada mes"
+msgstr "Cada 6 mesos"
 
 msgid "Once a year"
-msgstr ""
+msgstr "Un cop a l'any"
 
 msgid "Weekly or even more frequently"
-msgstr ""
+msgstr "Setmanalment o fins i tot amb més freqüència"
 
 msgid "Only when Linus pushes a new tag"
-msgstr ""
+msgstr "Només quan Linus envia una etiqueta nova"
 
-#, fuzzy
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Què significa la paraula «open» a openSUSE?"
+msgstr "Què representa el tipus de nucli vanilla a l'openSUSE?"
 
 msgid "Kernel with experimental SUSE patches"
-msgstr ""
+msgstr "Un nucli amb pedaços experimentals de SUSE"
 
 msgid "Unmodified upstream Linux kernel"
-msgstr ""
+msgstr "Un nucli de Linux original sense modificar"
 
 msgid "Kernel optimized for servers"
-msgstr ""
+msgstr "Un nucli optimitzat per a servidors"
 
 msgid "Kernel with enhanced SELinux support"
-msgstr ""
+msgstr "Un nucli amb suport millorat per a SELinux"
 
 msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr ""
+msgstr "Quin paràmetre d'arrencada del nucli us ajudarà normalment a depurar problemes del controlador de vídeo?"
 
 msgid "quiet"
-msgstr ""
+msgstr "quiet"
 
 msgid "nomodeset"
-msgstr ""
+msgstr "nomodeset"
 
-#, fuzzy
 msgid "bumblebee"
-msgstr "Tumblebleed"
+msgstr "bumblebee"
 
 msgid "noacpi"
-msgstr ""
+msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
 msgstr ""
