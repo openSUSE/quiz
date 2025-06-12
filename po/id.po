@@ -1,25 +1,12 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# "M. Edwin Zakaria" <medwin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-09 16:21+0000\n"
-"Last-Translator: Stod Stod <whatsapp2.ruse123@passinbox.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: \"M. Edwin Zakaria\" <medwin@opensuse.org>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Bunglon yang menyenangkan untuk anak-anak!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang ingin tahu!"
@@ -100,7 +87,7 @@ msgid "With a net"
 msgstr "Dengan jaring"
 
 msgid "What do chameleons eat?"
-msgstr "Bunglon makan apa saja?"
+msgstr "Apa saja yang dimakan bunglon?"
 
 msgid "Ice cream"
 msgstr "Es krim"
@@ -115,7 +102,7 @@ msgid "Hot dogs"
 msgstr "Hot dog"
 
 msgid "What makes openSUSE special?"
-msgstr "Apa yang membuat openSUSE spesial?"
+msgstr "Apa yang membuat openSUSE istimewa?"
 
 msgid "It can talk to animals"
 msgstr "Bisa berbicara dengan hewan"
@@ -124,7 +111,7 @@ msgid "It’s a modern, free operating system anyone can use — including you!"
 msgstr "Merupakan sistem operasi yang modern dan gratis yang dapat digunakan siapa pun—termasuk kamu!"
 
 msgid "It’s made of chameleon scales"
-msgstr "Dibuat dari sisik bunglon"
+msgstr "Terbuat dari sisik bunglon"
 
 msgid "It’s only for secret agents"
 msgstr "Hanya untuk agen rahasia"
@@ -133,7 +120,7 @@ msgid "Do all chameleons look the same?"
 msgstr "Apakah semua bunglon terlihat sama?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr "Ya, mereka sema hijau dan pemarah"
+msgstr "Ya, mereka semua hijau dan pemarah"
 
 msgid "No, they come in many shapes, sizes, and colors"
 msgstr "Tidak, mereka memiliki beragam bentuk, ukuran, dan warna"
@@ -175,7 +162,7 @@ msgid "No, their eyes are always closed"
 msgstr "Tidak, mata mereka selalu tertutup"
 
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "Pakar openSUSE"
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "Tantang pengguna lain di papan peringkat kami. 30 detik per pertanyaan. Berhenti kapan saja."
@@ -187,13 +174,13 @@ msgid "Pascal"
 msgstr "Pascal"
 
 msgid "TwoPac"
-msgstr ""
+msgstr "TwoPac"
 
 msgid "Geeko"
-msgstr ""
+msgstr "Geeko"
 
 msgid "BeefyMiracle"
-msgstr ""
+msgstr "BeefyMiracle"
 
 msgid "What is the main goal of the openSUSE project?"
 msgstr "Apa tujuan utama proyek openSUSE?"
@@ -208,7 +195,7 @@ msgid "Producing video games"
 msgstr "Memproduksi permainan video"
 
 msgid "Research in artificial intelligence"
-msgstr "Penelitian dalam kecerdasan buatan"
+msgstr "Penelitian dalam bidang kecerdasan buatan"
 
 msgid "What are Aeon and Kalpa?"
 msgstr "Apa itu Aeon dan Kalpa?"
@@ -232,7 +219,7 @@ msgid "In Choustníkovo Hradiště"
 msgstr "Di Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "Di LinuxWorld Conference & Expo 2005 di San Francisco"
+msgstr "Pada LinuxWorld Conference & Expo 2005 di San Francisco"
 
 msgid "In Redmont"
 msgstr "Di Redmont"
@@ -241,34 +228,34 @@ msgid "At the University of Helsinki"
 msgstr "Di Universitas Helsinki"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr "Apa filesystem bawaan di openSUSE?"
+msgstr "Apakah sistem berkas bawaan openSUSE?"
 
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "InterPlanetary File System"
 
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Apa nama penginstal baru di Leap 16?"
 
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
 msgstr "Distribusi openSUSE mana yang dioptimalkan untuk menjalankan kontainer dan layanan mikro?"
@@ -277,41 +264,40 @@ msgid "MicroOS and Leap Micro"
 msgstr "MicroOS dan Leap Micro"
 
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
-#, fuzzy
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr "Distribusi bergulir openSUSE mana yang menawarkan alternatif yang lebih tenang untuk Tumbleweed bagi pengguna yang cenderung memilih lebih sedikit kejutan?"
+msgstr "Distribusi bergulir openSUSE manakah yang menawarkan alternatif yang lebih tenang untuk Tumbleweed bagi pengguna yang cenderung memilih lebih sedikit kejutan?"
 
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr "Manakah dari manajer paket berikut ini yang biasa digunakan di openSUSE?"
 
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "What is Leap 16.0?"
 msgstr "Apa itu Leap 16.0?"
@@ -329,77 +315,76 @@ msgid "A container-focused system like MicroOS"
 msgstr "Sistem yang berfokus pada kontainer seperti MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "Lingkungan desktop manakah yang merupakan bawaan openSUSE Leap 15?"
 
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "Tidak ada bawaan. Kami bebaskan pengguna untuk memilih."
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "Apakah nama dari openSUSE build system?"
 
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr ""
+msgstr "Bagamaina anda melakukan perubahan terhadap partisi root pada sistem dengan basis transactional-update?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "Gunakan perintah transactional-update dan reboot ke dalam sebuah snapshot baru"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Dengan menggunakan sudo-sudo untuk mendapatkan hak giga istimewa"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Dengan menggunakan Salt atau Ansible"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "Anda harus mengubah berkas dibawah pengguna netrunner dan berharap semua akan lancar"
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "Apakah 'YaST'?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "Spesies bunglon asli Afrika"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "Software bebas untuk mengkonfigurasi sistem operasi"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "Peramban web standar bawaan"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Sebuah bahasa pemrograman"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
-msgstr "Apa filesystem bawaan di openSUSE?"
+msgstr "Apa nama penginstal pada openSUSE Aeon?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
 msgid "tak"
-msgstr ""
+msgstr "tak"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr ""
