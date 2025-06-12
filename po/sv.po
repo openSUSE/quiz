@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-11 13:07+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:10+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Kameleontkul för barn!"
@@ -386,18 +374,17 @@ msgstr "Standardwebbläsaren"
 msgid "A programming language"
 msgstr "Ett programmeringsspråk"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
-msgstr "Vad är namnet på openSUSE-byggsystemet?"
+msgstr "Vad heter installationsprogrammet i openSUSE Aeon?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
 msgid "tak"
-msgstr ""
+msgstr "tak"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Var kan man lära sig mer om projekt från Rancher och SUSE?"
@@ -1228,545 +1215,521 @@ msgstr "Är du säker på att du vill avsluta? Dina framsteg kommer inte att spa
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Använd ett igenkännbart smeknamn, som ZypperJedi, eller helst ditt riktiga namn (NamnEfternamn)."
 
-#, fuzzy
 msgid "Zypper Jedi"
-msgstr "Zypper"
+msgstr "Zypper Jedi"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "Roliga och obskyra fakta om Zypper, openSUSEs pakethanterare"
 
-#, fuzzy
 msgid "What is the name of the library used by the default openSUSE package manager?"
-msgstr "Vad heter det officiella forumet för openSUSE-gemenskapen?"
+msgstr "Vad heter biblioteket som används av standardpakethanteraren i openSUSE?"
 
-#, fuzzy
 msgid "libzypp"
-msgstr "zypper"
+msgstr "libzypp"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "openSUSE använder libzypp som backend-bibliotek för sin pakethanterare, Zypper. Det är känt för kraftfull beroendehantering och stöd för delta-RPMs."
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "Var introducerades Zypper respektive libzypp först?"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "I SuSE Linux 7.1 (2001)"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "I SUSE Linux 10.1 (2006)"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "Som en del av den magiska utgåvan av openSUSE Leap 42.3 (2017)"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "Det fanns där från början. S.u.S.E. Linux 1.0 (1994)"
 
 msgid "What does 'zypper refs' do?"
-msgstr ""
+msgstr "Vad gör \"zypper refs\"?"
 
 msgid "Refreshes all repositories"
-msgstr ""
+msgstr "Uppdaterar alla förråd"
 
-#, fuzzy
 msgid "Lists orphaned packages"
-msgstr "Den installerar ett slumpmässigt paket"
+msgstr "Listar överblivna paket"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "Listar mjuka paketlås"
 
 msgid "Refreshes defined repository index services."
-msgstr ""
+msgstr "Uppdaterar definierade förråd indextjänster."
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "Vad gör egentligen RIS (Repository Index Service) i openSUSE?"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
-msgstr ""
+msgstr "Tillåter centraliserad och flexibel hantering av förråd. openSUSE använder det för att generera .repo-filer från rpm-hanterade repoindex.xml"
 
 msgid "It injects RPMs into your system while you're not looking."
-msgstr ""
+msgstr "Det injicerar RPMs i ditt system medan du inte tittar."
 
 msgid "It schedules all recursive installs to happen only during coffee breaks."
-msgstr ""
+msgstr "Den schemalägger alla rekursiva installationer så att de endast sker under kaffepauser."
 
 msgid "It just exists to confuse people with too many acronyms."
-msgstr ""
+msgstr "Det finns bara för att förvirra människor med för många förkortningar."
 
 msgid "What does the Zypper command 'zypper dup' do?"
-msgstr ""
+msgstr "Vad gör Zypper-kommandot 'zypper dup'?"
 
 msgid "Deletes unused packages"
-msgstr ""
+msgstr "Tar bort oanvända paket"
 
 msgid "Performs a distribution upgrade"
-msgstr ""
+msgstr "Utför en distributionsuppgradering"
 
 msgid "Downloads all updates in background"
-msgstr ""
+msgstr "Laddar ner alla uppdateringar i bakgrunden"
 
 msgid "Displays user preferences"
-msgstr ""
+msgstr "Visar användarinställningar"
 
 msgid "Which Zypper command enables parallel package downloads?"
-msgstr ""
+msgstr "Vilket Zypper-kommando aktiverar parallella paketnedladdningar?"
 
-#, fuzzy
 msgid "zypper --fast"
-msgstr "zypper update"
+msgstr "zypper --fast"
 
-#, fuzzy
 msgid "zypper -p"
-msgstr "zypper"
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "Den senaste Zypper-versionen använder parallella nedladdningar som standard"
 
-#, fuzzy
 msgid "zypper turbo"
-msgstr "zypper repos"
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Vilken fil är den huvudsakliga konfigurationsfilen för Zypper?"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
-#, fuzzy
 msgid "/etc/zypperrc"
-msgstr "zypper"
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
-#, fuzzy
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr "Vilken av följande pakethanterare används vanligtvis i openSUSE?"
+msgstr "Vilket av följande Zypper-kommandon rensar alla cachade paket?"
 
 msgid "zypper refresh --clean"
-msgstr ""
+msgstr "zypper refresh --clean"
 
 msgid "zypper clean --all"
-msgstr ""
+msgstr "zypper clean --all"
 
-#, fuzzy
 msgid "zypper purge-cache"
-msgstr "zypper update"
+msgstr "zypper purge-cache"
 
-#, fuzzy
 msgid "zypper remove-cache"
-msgstr "zypper repos"
+msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "Zypper kan installera mönster. Vad är ett mönster i Zypper-termer?"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "En regex för matchande paketnamn"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "En grupp paket som definierar en roll eller ett användningsfall"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "En temakonfigurationsfil"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "En metadatatagg för ett förråd"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "Vad händer om du kör 'zypper dup --from packman'?"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "Uppdaterar endast metadata för 'packman'-förrådet"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "Tvingar uppgradering av installerade paket till versioner från packman-förrådet"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "Tar bort alla paket som inte är från Packman"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "Skapar en säkerhetskopia före uppgradering"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "Leap 16.0 förbättrade hanteringen av förråd med CDN som standard, RIS-hanterade förråd och färre förråd totalt. Hur många distributionsförråd inkluderar Leap 16.0 som standard?"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
-#, fuzzy
 msgid "10"
-msgstr "2010"
+msgstr "10"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "Leap 16.0 använder nu RIS-hanterade förråd. Hur justerar man förråds-inställningar utan att det går sönder?"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "/etc/zypp/repos.d/ som i de gamla goda dagarna"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "Rör inte distributionens .repo-filer, de kommer att skrivas över! Använd /etc/zypp/vars.d istället."
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "Kör `zypper --edit-repo --force` — det officiella sättet."
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "Redigera repoindex.xml manuellt och håll tummarna."
 
-#, fuzzy
 msgid "What can users do at software.opensuse.org?"
-msgstr "Med ett enda klick från software.opensuse.org"
+msgstr "Vad kan användare göra på software.opensuse.org?"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "Installera paket med zypper med ett enda klick i webbläsaren."
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "Bläddra bland och installera ytterligare programvara, inklusive paket från hemprojekt."
 
-#, fuzzy
 msgid "View screenshots and details of cool open source software."
-msgstr "Främja och stödja fri och öppen källkodsprogramvara"
+msgstr "Visa skärmdumpar och detaljer om cool programvara med öppen källkod."
 
 msgid "All of the above."
-msgstr ""
+msgstr "Allt ovanstående."
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
+msgstr "I vilken sektion av manualsidan skulle du leta efter Zypper-dokumentation?"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "42"
-msgstr ""
+msgstr "42"
 
-#, fuzzy
 msgid "What is yzpper?"
-msgstr "Vad är IFL?"
+msgstr "Vad är yzpper?"
 
 msgid "Turkish translation of zypper"
-msgstr ""
+msgstr "Turkisk översättning av zypper"
 
 msgid "Reverse (undo) the last zypper command"
-msgstr ""
+msgstr "Ångra (återställ) det senaste zypper-kommandot"
 
 msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
-msgstr ""
+msgstr "Symlänk till zypper, för att undvika fel på tangentbordet med utbytta Y och Z-tangenter [på tyska tangentbord]"
 
 msgid "The project name of next gen zypper"
-msgstr ""
+msgstr "Projektnamnet för nästa generations zypper"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr ""
+msgstr "Den här är knepig! Vi alla känner till zypper rm --clean deps men vad händer om du kör `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
-msgstr ""
+msgstr "Du avinstallerar `rm`-kommandot och alla dess kvarvarande beroenden. Lycka till med att ta bort filer efteråt!"
 
 msgid "Only the `rm` command gets removed, dependencies stay put."
-msgstr ""
+msgstr "Endast `rm`-kommandot tas bort, beroenden finns kvar."
 
 msgid "It cleans your system of the `rm` command but keeps a backup just in case."
-msgstr ""
+msgstr "Det rensar ditt system från kommandot `rm` men behåller en säkerhetskopia för säkerhets skull."
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "Ingenting händer. `rm`-kommandot tillhör coreutils."
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "Kärn ninja"
 
 msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "Intressanta fakta om kärnan på SUSE och openSUSE"
 
 msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "Vad är ungefär storleken (MB) på basavbildningen (squashfs) på SUSE Automotive Linux OS?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "~ 20MB"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "~ 60MB"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "~ 240MB"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "Hur många konfigurationsparametrar (ungefär) justeras i realtids-Linuxkärnan för fordonsindustrin jämfört med standard SLES RT?"
 
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgid "500"
-msgstr ""
+msgstr "500"
 
 msgid "50000"
-msgstr ""
+msgstr "50000"
 
 msgid "500000"
-msgstr ""
+msgstr "500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "Hur många patchar har installerats ovanpå uppströmskärnan 15.6 (SLES 15 SP6) från och med den 11 juni 2025?"
 
 msgid "~ 4231"
-msgstr ""
+msgstr "~ 4231"
 
 msgid "~ 16102"
-msgstr ""
+msgstr "~ 16102"
 
 msgid "~ 32786"
-msgstr ""
+msgstr "~ 32786"
 
 msgid "~ 346870"
-msgstr ""
+msgstr "~ 346870"
 
-#, fuzzy
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Vilken skrivbordsmiljö är standard för openSUSE Leap 15?"
+msgstr "Vilken kärnvariant används som standard i openSUSE Leap?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
-#, fuzzy
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Vilken är den primära licensen som används av openSUSE?"
+msgstr "Vad är den primära skillnaden mellan kernel-default och kernel-rt i openSUSE?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt stöder äldre hårdvara"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt inaktiverar preemption"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt har fullständig realtidsförebyggande aktiverad"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt har färre säkerhetsfunktioner"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "Vad aktiverar 'PREEMPT_RT' i Linuxkärnan?"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "Ljudströmning i realtid"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "Full preemption, vilket minskar latensen i kritiska delar"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "Snabbare uppstartstider"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "Bättre energieffektivitet"
 
-#, fuzzy
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Vad heter openSUSEs flaggskeppsutgåva, den rullande versionen?"
+msgstr "Vad heter ett (väldigt) snabbt verktyg för att utöka kärnpatchar?"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "Var i källkodsträdet i openSUSE lagras vanligtvis kärnans byggkonfigurationer?"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
-#, fuzzy
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Vad betyder ordet \"open\" i openSUSE?"
+msgstr "Vad tillhandahåller paketet 'kernel-devel' i openSUSE?"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "Vanliga kärnhuvuden som används som bas för att bygga externa kärnmoduler"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "Komplett kärnkod som krävs för felsökning och byggande av moduler"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "Dokumentation och manualer för Linuxkärnan"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "En dold bild från det senaste SUSE-kärnteamets teambuilding-evenemang"
 
-#, fuzzy
 msgid "Which of the following is a program to load kernel modules?"
-msgstr "Vilken av följande I/O-enheter används inte med stordatorer?"
+msgstr "Vilket av följande är ett program för att ladda kärnmoduler?"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "modprobe"
-msgstr ""
+msgstr "modprobe"
 
 msgid "systemctl"
-msgstr ""
+msgstr "systemctl"
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
+msgstr "Hur ofta uppdateras openSUSE Tumbleweeds kärna (vanligtvis)?"
 
-#, fuzzy
 msgid "Every 6 months"
-msgstr "Varje månad"
+msgstr "Var sjätte månad"
 
 msgid "Once a year"
-msgstr ""
+msgstr "En gång om året"
 
 msgid "Weekly or even more frequently"
-msgstr ""
+msgstr "Veckovis eller ännu oftare"
 
 msgid "Only when Linus pushes a new tag"
-msgstr ""
+msgstr "Bara när Linus publicerar en ny tagg"
 
-#, fuzzy
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Vad betyder ordet \"open\" i openSUSE?"
+msgstr "Vad representerar kärnsmaken \"vanilj\" i openSUSE?"
 
 msgid "Kernel with experimental SUSE patches"
-msgstr ""
+msgstr "Kärna med experimentella SUSE-patchar"
 
 msgid "Unmodified upstream Linux kernel"
-msgstr ""
+msgstr "Omodifierad uppströms Linuxkärna"
 
 msgid "Kernel optimized for servers"
-msgstr ""
+msgstr "Kärna optimerad för servrar"
 
 msgid "Kernel with enhanced SELinux support"
-msgstr ""
+msgstr "Kärna med förbättrat SELinux-stöd"
 
 msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr ""
+msgstr "Vilken kärnuppstartsparameter hjälper dig vanligtvis vid felsökning av problem med grafikdrivrutiner?"
 
 msgid "quiet"
-msgstr ""
+msgstr "quiet"
 
 msgid "nomodeset"
-msgstr ""
+msgstr "nomodeset"
 
-#, fuzzy
 msgid "bumblebee"
-msgstr "Tumblebleed"
+msgstr "bumblebee"
 
 msgid "noacpi"
-msgstr ""
+msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
+msgstr "Vilken realtidsschemaläggningspolicy är mest deterministisk i Linux?"
 
 msgid "SCHED_OTHER"
-msgstr ""
+msgstr "SCHED_OTHER"
 
 msgid "SCHED_FIFO"
-msgstr ""
+msgstr "SCHED_FIFO"
 
 msgid "SCHED_BATCH"
-msgstr ""
+msgstr "SCHED_BATCH"
 
 msgid "SCHED_IDLE"
-msgstr ""
+msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
+msgstr "Vad heter paketet som tillhandahåller ytterligare fast programvara i openSUSE Leap?"
 
 msgid "kernel-firmware-extra"
-msgstr ""
+msgstr "kernel-firmware-extra"
 
 msgid "firmware-addon-leap"
-msgstr ""
+msgstr "firmware-addon-leap"
 
 msgid "kernel-default-extra"
-msgstr ""
+msgstr "kernel-default-extra"
 
 msgid "suse-firmware-pack"
-msgstr ""
+msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
+msgstr "Hur kan man aktivera AppArmor via GRUB-kärnans kommandorad i openSUSE?"
 
 msgid "apparmor=1"
-msgstr ""
+msgstr "apparmor=1"
 
 msgid "security=apparmor"
-msgstr ""
+msgstr "security=apparmor"
 
 msgid "enable=apparmor"
-msgstr ""
+msgstr "enable=apparmor"
 
 msgid "selinux=off apparmor=on"
-msgstr ""
+msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "Vad står 'KOTD' för i openSUSE-kärnvärlden?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "Dagens kärna — dagligen byggda kärnor på OBS Kernel:xxx-projekt"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Knights Of The Old Repositories — de legendariska kärnförsvararna"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Keep Our Tux Dancing — den hemliga kärndansfesten"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Kernel Operators Training Division — kärnninjor på Jedi-nivå"
 
 msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE är en av de 6 främsta bidragsgivarna till Linuxkärnan (FSF 2017). Ungefär hur stor andel av bidragen står SUSE för?"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "Mindre än 1 %"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "Omkring 3%"
 
-#, fuzzy
 msgid "About 5%"
-msgstr "omkring 50"
+msgstr "Omkring 5%"
 
 msgid "More than 20%"
-msgstr ""
+msgstr "Mer än 20 %"
 
 #~ msgid "What is the primary goal of the openSUSE Aeon distribution?"
 #~ msgstr "Vad är det primära målet med openSUSE Aeon-distributionen?"
