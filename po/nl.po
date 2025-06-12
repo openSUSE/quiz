@@ -1,79 +1,69 @@
+# Freek de Kruijf <freek@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-03 14:15+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-12 09:10+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
-msgstr ""
+msgstr "Kameleonpret voor kinderen!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "Een kleurrijke quiz over kameleons en openSUSE voor nieuwsgierige kinderen!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "Welke kleuren kunnen kameleons aannemen?"
 
 msgid "Only green"
-msgstr ""
+msgstr "Alleen groen"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "Elke kleur, zelfs paars!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "Veel kleuren zoals groen, bruin, geel"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "Alleen zwart en wit"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "Wat is de mascotte van openSUSE?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "Een pinguïn"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "Een kameleon genaamd Geeko"
 
 msgid "A dragon"
-msgstr ""
+msgstr "Een draak"
 
 msgid "A robot"
-msgstr ""
+msgstr "Een robot"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "Waarom wijzigen kameleons van kleur?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "Om te tonen hoe ze zich voelen of om zich te verbergen"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "Omdat ze zich verveeld voelen"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "Omdat ze koudbloedige robots zijn"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "Om te gloeien in het donker"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "Kameleons worden primair in welk deel van de wereld gevonden?"
 
 msgid "South America"
-msgstr ""
+msgstr "Zuid-Amerika"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "Afrika en Madagscar"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "Zuidoost-Azië"
 
 msgid "Antarctica"
 msgstr ""
