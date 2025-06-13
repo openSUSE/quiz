@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-13 09:59+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-14 11:59+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
@@ -42,37 +30,31 @@ msgid "How many configuration parameters (roughly) are adjusted in real-time Lin
 msgstr "Hur många konfigurationsparametrar (ungefär) justeras i realtids-Linuxkärnan för fordonsindustrin jämfört med standard SLES RT?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "~ 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "~ 500"
 
-#, fuzzy
 msgid "~ 50000"
-msgstr "50000"
+msgstr "~ 50000"
 
-#, fuzzy
 msgid "~ 500000"
-msgstr "500000"
+msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
 msgstr "Hur många patchar har installerats ovanpå uppströmskärnan 15.6 (SLES 15 SP6) från och med den 11 juni 2025?"
 
-#, fuzzy
 msgid "4231"
-msgstr "~ 4231"
+msgstr "4231"
 
-#, fuzzy
 msgid "16102"
-msgstr "~ 16102"
+msgstr "16102"
 
-#, fuzzy
 msgid "32786"
-msgstr "~ 32786"
+msgstr "32786"
 
-#, fuzzy
 msgid "346870"
-msgstr "~ 346870"
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "Vilken kärnvariant används som standard i openSUSE Leap?"
@@ -653,7 +635,6 @@ msgstr "Standardwebbläsaren"
 msgid "A programming language"
 msgstr "Ett programmeringsspråk"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Vad heter installationsprogrammet i openSUSE Aeon?"
 
@@ -663,9 +644,8 @@ msgstr "tik"
 msgid "tak"
 msgstr "tak"
 
-#, fuzzy
 msgid "tao"
-msgstr "tak"
+msgstr "tao"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Var kan man lära sig mer om projekt från Rancher och SUSE?"
