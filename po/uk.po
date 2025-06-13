@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
 "PO-Revision-Date: 2025-06-10 15:14+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Ukrainian <https://l10n.opensuse.org/projects/quiz/quiz/uk/>\n"
@@ -12,6 +12,287 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.11.4\n"
+
+msgid "Kernel Ninja"
+msgstr ""
+
+msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgstr ""
+
+msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgstr ""
+
+msgid "~ 20MB"
+msgstr ""
+
+msgid "~ 60MB"
+msgstr ""
+
+msgid "~ 240MB"
+msgstr ""
+
+msgid "~ 520MB"
+msgstr ""
+
+msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgstr ""
+
+msgid "~ 50"
+msgstr ""
+
+msgid "~ 500"
+msgstr ""
+
+msgid "~ 50000"
+msgstr ""
+
+msgid "~ 500000"
+msgstr ""
+
+msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
+msgstr ""
+
+msgid "4231"
+msgstr ""
+
+msgid "16102"
+msgstr ""
+
+msgid "32786"
+msgstr ""
+
+msgid "346870"
+msgstr ""
+
+#, fuzzy
+msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgstr "Хто, або що, є символом проєкту openSUSE?"
+
+msgid "kernel-suse"
+msgstr ""
+
+msgid "kernel-default"
+msgstr ""
+
+msgid "kernel-leap"
+msgstr ""
+
+msgid "kernel-vanilla"
+msgstr ""
+
+#, fuzzy
+msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
+msgstr "Хто, або що, є символом проєкту openSUSE?"
+
+msgid "kernel-rt supports older hardware"
+msgstr ""
+
+msgid "kernel-rt disables preemption"
+msgstr ""
+
+msgid "kernel-rt has full real-time preemption enabled"
+msgstr ""
+
+msgid "kernel-rt has less security features"
+msgstr ""
+
+msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
+msgstr ""
+
+msgid "Real-time audio streaming"
+msgstr ""
+
+msgid "Full preemption, reducing latency in critical sections"
+msgstr ""
+
+msgid "Faster boot times"
+msgstr ""
+
+msgid "Better energy efficiency"
+msgstr ""
+
+#, fuzzy
+msgid "What is the name of a (very) fast tool for expanding kernel patches?"
+msgstr "Хто, або що, є символом проєкту openSUSE?"
+
+msgid "gitlab-kernel"
+msgstr ""
+
+msgid "obs-kernel"
+msgstr ""
+
+msgid "rapidquilt"
+msgstr ""
+
+msgid "susepatch"
+msgstr ""
+
+msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
+msgstr ""
+
+msgid "configs/"
+msgstr ""
+
+msgid "source/"
+msgstr ""
+
+msgid "etc/"
+msgstr ""
+
+msgid "boot/"
+msgstr ""
+
+#, fuzzy
+msgid "What does the 'kernel-devel' package provide in openSUSE?"
+msgstr "Хто, або що, є символом проєкту openSUSE?"
+
+msgid "Common kernel headers used as a base for building external kernel modules"
+msgstr ""
+
+msgid "Complete kernel source code required for debugging and building modules"
+msgstr ""
+
+msgid "Documentation and manuals for the Linux kernel"
+msgstr ""
+
+msgid "A hidden picture of the latest SUSE kernel team's team building event"
+msgstr ""
+
+msgid "Which of the following is a program to load kernel modules?"
+msgstr ""
+
+msgid "mkinitrd"
+msgstr ""
+
+msgid "zypper"
+msgstr ""
+
+msgid "modprobe"
+msgstr ""
+
+msgid "systemctl"
+msgstr ""
+
+msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
+msgstr ""
+
+msgid "Every 6 months"
+msgstr ""
+
+msgid "Once a year"
+msgstr ""
+
+msgid "Weekly or even more frequently"
+msgstr ""
+
+msgid "Only when Linus pushes a new tag"
+msgstr ""
+
+#, fuzzy
+msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
+msgstr "Хто, або що, є символом проєкту openSUSE?"
+
+msgid "Kernel with experimental SUSE patches"
+msgstr ""
+
+msgid "Unmodified upstream Linux kernel"
+msgstr ""
+
+msgid "Kernel optimized for servers"
+msgstr ""
+
+msgid "Kernel with enhanced SELinux support"
+msgstr ""
+
+msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgstr ""
+
+msgid "quiet"
+msgstr ""
+
+msgid "nomodeset"
+msgstr ""
+
+msgid "bumblebee"
+msgstr ""
+
+msgid "noacpi"
+msgstr ""
+
+msgid "Which real-time scheduling policy is most deterministic in Linux?"
+msgstr ""
+
+msgid "SCHED_OTHER"
+msgstr ""
+
+msgid "SCHED_FIFO"
+msgstr ""
+
+msgid "SCHED_BATCH"
+msgstr ""
+
+msgid "SCHED_IDLE"
+msgstr ""
+
+msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
+msgstr ""
+
+msgid "kernel-firmware-extra"
+msgstr ""
+
+msgid "firmware-addon-leap"
+msgstr ""
+
+msgid "kernel-default-extra"
+msgstr ""
+
+msgid "suse-firmware-pack"
+msgstr ""
+
+msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
+msgstr ""
+
+msgid "apparmor=1"
+msgstr ""
+
+msgid "security=apparmor"
+msgstr ""
+
+msgid "enable=apparmor"
+msgstr ""
+
+msgid "selinux=off apparmor=on"
+msgstr ""
+
+msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
+msgstr ""
+
+msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
+msgstr ""
+
+msgid "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr ""
+
+msgid "Keep Our Tux Dancing — the secret kernel dance party"
+msgstr ""
+
+msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr ""
+
+msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgstr ""
+
+msgid "Less than 1%"
+msgstr ""
+
+msgid "Around 3%"
+msgstr ""
+
+msgid "About 5%"
+msgstr ""
+
+msgid "More than 20%"
+msgstr ""
 
 msgid "Chameleon Fun for kids!"
 msgstr "Хамелеон - розвага для дітей!"
@@ -292,21 +573,6 @@ msgstr ""
 msgid "Zyppernap"
 msgstr ""
 
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
-
-msgid "Yum"
-msgstr ""
-
-msgid "DNF"
-msgstr ""
-
-msgid "Zypper"
-msgstr ""
-
-msgid "Pacman"
-msgstr ""
-
 msgid "What is Leap 16.0?"
 msgstr ""
 
@@ -383,7 +649,7 @@ msgid "A programming language"
 msgstr ""
 
 #, fuzzy
-msgid "What is the name of installer in openSUSE Aeon"
+msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
 msgid "tik"
@@ -393,8 +659,9 @@ msgstr ""
 msgid "tak"
 msgstr "Розпочати"
 
-msgid "toe"
-msgstr ""
+#, fuzzy
+msgid "tao"
+msgstr "Розпочати"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr ""
@@ -409,21 +676,6 @@ msgid "Moo University"
 msgstr ""
 
 msgid "Cowboy Hat"
-msgstr ""
-
-msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
-
-msgid "status.opensuse.org"
-msgstr ""
-
-msgid "isopensusedown.com"
-msgstr ""
-
-msgid "yast-status-viewer"
-msgstr ""
-
-msgid "zypper up --ping"
 msgstr ""
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
@@ -451,6 +703,21 @@ msgid "By email to the Geeko mascot"
 msgstr ""
 
 msgid "Via smoke signals from Nuremberg"
+msgstr ""
+
+msgid "Where can you check the current status of openSUSE infrastructure?"
+msgstr ""
+
+msgid "status.opensuse.org"
+msgstr ""
+
+msgid "isopensusedown.com"
+msgstr ""
+
+msgid "yast-status-viewer"
+msgstr ""
+
+msgid "zypper up --ping"
 msgstr ""
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
@@ -524,21 +791,6 @@ msgid "The mascot"
 msgstr ""
 
 msgid "An installer"
-msgstr ""
-
-msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr ""
-
-msgid "zypper"
-msgstr ""
-
-msgid "apt"
-msgstr ""
-
-msgid "yum"
-msgstr ""
-
-msgid "pacman"
 msgstr ""
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
@@ -627,24 +879,18 @@ msgstr ""
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr ""
 
-msgid "APT"
+msgid "yum"
+msgstr ""
+
+msgid "apt"
+msgstr ""
+
+msgid "pacman"
 msgstr ""
 
 #, fuzzy
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
-
-msgid "RPM"
-msgstr ""
-
-msgid "DEB"
-msgstr ""
-
-msgid "APK"
-msgstr ""
-
-msgid "PKG"
-msgstr ""
 
 #, fuzzy
 msgid "What command will list all repositories in openSUSE?"
@@ -756,6 +1002,18 @@ msgstr ""
 msgid "What package format does openSUSE use?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
+msgid "RPM"
+msgstr ""
+
+msgid "DEB"
+msgstr ""
+
+msgid "PKG"
+msgstr ""
+
+msgid "APK"
+msgstr ""
+
 #, fuzzy
 msgid "What is the default shell in openSUSE?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
@@ -786,6 +1044,21 @@ msgid "openSUSE Greenhorn"
 msgstr "Експерт openSUSE"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
+msgstr ""
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr ""
+
+msgid "Yum"
+msgstr ""
+
+msgid "DNF"
+msgstr ""
+
+msgid "Zypper"
+msgstr ""
+
+msgid "Pacman"
 msgstr ""
 
 msgid "Can you play Windows games on openSUSE?"
@@ -1178,66 +1451,6 @@ msgstr ""
 msgid "Yes, right-click the \"Help\" button"
 msgstr ""
 
-#, fuzzy
-msgid "Start Quiz"
-msgstr "Розпочати"
-
-msgid "Start"
-msgstr "Розпочати"
-
-msgid "Back"
-msgstr "Назад"
-
-msgid "Submit"
-msgstr "Надіслати"
-
-msgid "Next"
-msgstr "Вперед"
-
-msgid "Quit"
-msgstr "Завершити"
-
-msgid "Submit and Quit"
-msgstr "Надіслати та завершити"
-
-msgid "Time left"
-msgstr "Часу залишилось"
-
-msgid "Score"
-msgstr "Рахунок"
-
-msgid "Final"
-msgstr ""
-
-#, fuzzy
-msgid "Restart"
-msgstr "Розпочати"
-
-msgid "Question"
-msgstr ""
-
-msgid "Please enter a username to proceed."
-msgstr ""
-
-#, javascript-format
-msgid "Welcome, %s"
-msgstr ""
-
-msgid "Are you sure you want to quit and submit?"
-msgstr "Ви певні що бажаєте завершити та надіслати?"
-
-msgid "Username is too short."
-msgstr ""
-
-msgid "Sorry, this login is already taken."
-msgstr ""
-
-msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Ви певні що бажаєте завершити? Ваш прогрес не буде збережено."
-
-msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
-
 msgid "Zypper Jedi"
 msgstr ""
 
@@ -1389,10 +1602,10 @@ msgstr ""
 msgid "Only update the 'packman' repository metadata"
 msgstr ""
 
-msgid "Force upgrade of installed packages to versions from packman repository"
+msgid "Remove all non-packman packages"
 msgstr ""
 
-msgid "Remove all non-packman packages"
+msgid "Force upgrade of installed packages to versions from packman repository"
 msgstr ""
 
 msgid "Create a backup before upgrade"
@@ -1483,282 +1696,64 @@ msgstr ""
 msgid "Nothing happens `rm` command belongs to coreutils."
 msgstr ""
 
-msgid "Kernel Ninja"
-msgstr ""
+#, fuzzy
+msgid "Start Quiz"
+msgstr "Розпочати"
 
-msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgid "Start"
+msgstr "Розпочати"
 
-msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgid "Back"
+msgstr "Назад"
 
-msgid "~ 20MB"
-msgstr ""
+msgid "Submit"
+msgstr "Надіслати"
 
-msgid "~ 60MB"
-msgstr ""
+msgid "Next"
+msgstr "Вперед"
 
-msgid "~ 240MB"
-msgstr ""
+msgid "Quit"
+msgstr "Завершити"
 
-msgid "~ 520MB"
-msgstr ""
+msgid "Submit and Quit"
+msgstr "Надіслати та завершити"
 
-msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgid "Time left"
+msgstr "Часу залишилось"
 
-msgid "50"
-msgstr ""
+msgid "Score"
+msgstr "Рахунок"
 
-msgid "500"
-msgstr ""
-
-msgid "50000"
-msgstr ""
-
-msgid "500000"
-msgstr ""
-
-msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
-
-msgid "~ 4231"
-msgstr ""
-
-msgid "~ 16102"
-msgstr ""
-
-msgid "~ 32786"
-msgstr ""
-
-msgid "~ 346870"
+msgid "Final"
 msgstr ""
 
 #, fuzzy
-msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Хто, або що, є символом проєкту openSUSE?"
+msgid "Restart"
+msgstr "Розпочати"
 
-msgid "kernel-suse"
+msgid "Question"
 msgstr ""
 
-msgid "kernel-default"
+msgid "Please enter a username to proceed."
 msgstr ""
 
-msgid "kernel-leap"
+#, javascript-format
+msgid "Welcome, %s"
 msgstr ""
 
-msgid "kernel-vanilla"
-msgstr ""
-
-#, fuzzy
-msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Хто, або що, є символом проєкту openSUSE?"
-
-msgid "kernel-rt supports older hardware"
-msgstr ""
-
-msgid "kernel-rt disables preemption"
-msgstr ""
-
-msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
-
-msgid "kernel-rt has less security features"
-msgstr ""
-
-msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
-
-msgid "Real-time audio streaming"
-msgstr ""
-
-msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
-
-msgid "Faster boot times"
-msgstr ""
-
-msgid "Better energy efficiency"
-msgstr ""
-
-#, fuzzy
-msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Хто, або що, є символом проєкту openSUSE?"
-
-msgid "gitlab-kernel"
-msgstr ""
-
-msgid "obs-kernel"
-msgstr ""
-
-msgid "rapidquilt"
-msgstr ""
-
-msgid "susepatch"
-msgstr ""
-
-msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
-
-msgid "configs/"
-msgstr ""
-
-msgid "source/"
-msgstr ""
-
-msgid "etc/"
-msgstr ""
-
-msgid "boot/"
-msgstr ""
-
-#, fuzzy
-msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Хто, або що, є символом проєкту openSUSE?"
-
-msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
-
-msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
-
-msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
-
-msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
-
-msgid "Which of the following is a program to load kernel modules?"
-msgstr ""
-
-msgid "mkinitrd"
-msgstr ""
-
-msgid "modprobe"
-msgstr ""
-
-msgid "systemctl"
-msgstr ""
-
-msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
-
-msgid "Every 6 months"
-msgstr ""
-
-msgid "Once a year"
-msgstr ""
-
-msgid "Weekly or even more frequently"
-msgstr ""
+msgid "Are you sure you want to quit and submit?"
+msgstr "Ви певні що бажаєте завершити та надіслати?"
 
-msgid "Only when Linus pushes a new tag"
+msgid "Username is too short."
 msgstr ""
 
-#, fuzzy
-msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Хто, або що, є символом проєкту openSUSE?"
-
-msgid "Kernel with experimental SUSE patches"
-msgstr ""
-
-msgid "Unmodified upstream Linux kernel"
-msgstr ""
-
-msgid "Kernel optimized for servers"
-msgstr ""
-
-msgid "Kernel with enhanced SELinux support"
-msgstr ""
-
-msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr ""
-
-msgid "quiet"
-msgstr ""
-
-msgid "nomodeset"
-msgstr ""
-
-msgid "bumblebee"
-msgstr ""
-
-msgid "noacpi"
-msgstr ""
-
-msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
-
-msgid "SCHED_OTHER"
-msgstr ""
-
-msgid "SCHED_FIFO"
-msgstr ""
-
-msgid "SCHED_BATCH"
-msgstr ""
-
-msgid "SCHED_IDLE"
-msgstr ""
-
-msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
-
-msgid "kernel-firmware-extra"
-msgstr ""
-
-msgid "firmware-addon-leap"
-msgstr ""
-
-msgid "kernel-default-extra"
-msgstr ""
-
-msgid "suse-firmware-pack"
-msgstr ""
-
-msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
-
-msgid "apparmor=1"
-msgstr ""
-
-msgid "security=apparmor"
-msgstr ""
-
-msgid "enable=apparmor"
-msgstr ""
-
-msgid "selinux=off apparmor=on"
-msgstr ""
-
-msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
-
-msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
-
-msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
-
-msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
-
-msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
-
-msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
-
-msgid "Less than 1%"
-msgstr ""
-
-msgid "Around 3%"
+msgid "Sorry, this login is already taken."
 msgstr ""
 
-msgid "About 5%"
-msgstr ""
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Ви певні що бажаєте завершити? Ваш прогрес не буде збережено."
 
-msgid "More than 20%"
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr ""
 
 #~ msgid "lang_name_tr"

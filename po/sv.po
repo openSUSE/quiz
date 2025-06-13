@@ -3,7 +3,307 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-13 09:59+0000\n"
+"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
+
+msgid "Kernel Ninja"
+msgstr "Kärn ninja"
+
+msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgstr "Intressanta fakta om kärnan på SUSE och openSUSE"
+
+msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgstr "Vad är ungefär storleken (MB) på basavbildningen (squashfs) på SUSE Automotive Linux OS?"
+
+msgid "~ 20MB"
+msgstr "~ 20MB"
+
+msgid "~ 60MB"
+msgstr "~ 60MB"
+
+msgid "~ 240MB"
+msgstr "~ 240MB"
+
+msgid "~ 520MB"
+msgstr "~ 520MB"
+
+msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgstr "Hur många konfigurationsparametrar (ungefär) justeras i realtids-Linuxkärnan för fordonsindustrin jämfört med standard SLES RT?"
+
+msgid "~ 50"
+msgstr ""
+
+msgid "~ 500"
+msgstr ""
+
+#, fuzzy
+#| msgid "50000"
+msgid "~ 50000"
+msgstr "50000"
+
+#, fuzzy
+#| msgid "500000"
+msgid "~ 500000"
+msgstr "500000"
+
+msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
+msgstr "Hur många patchar har installerats ovanpå uppströmskärnan 15.6 (SLES 15 SP6) från och med den 11 juni 2025?"
+
+#, fuzzy
+#| msgid "~ 4231"
+msgid "4231"
+msgstr "~ 4231"
+
+#, fuzzy
+#| msgid "~ 16102"
+msgid "16102"
+msgstr "~ 16102"
+
+#, fuzzy
+#| msgid "~ 32786"
+msgid "32786"
+msgstr "~ 32786"
+
+#, fuzzy
+#| msgid "~ 346870"
+msgid "346870"
+msgstr "~ 346870"
+
+msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgstr "Vilken kärnvariant används som standard i openSUSE Leap?"
+
+msgid "kernel-suse"
+msgstr "kernel-suse"
+
+msgid "kernel-default"
+msgstr "kernel-default"
+
+msgid "kernel-leap"
+msgstr "kernel-leap"
+
+msgid "kernel-vanilla"
+msgstr "kernel-vanilla"
+
+msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
+msgstr "Vad är den primära skillnaden mellan kernel-default och kernel-rt i openSUSE?"
+
+msgid "kernel-rt supports older hardware"
+msgstr "kernel-rt stöder äldre hårdvara"
+
+msgid "kernel-rt disables preemption"
+msgstr "kernel-rt inaktiverar preemption"
+
+msgid "kernel-rt has full real-time preemption enabled"
+msgstr "kernel-rt har fullständig realtidsförebyggande aktiverad"
+
+msgid "kernel-rt has less security features"
+msgstr "kernel-rt har färre säkerhetsfunktioner"
+
+msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
+msgstr "Vad aktiverar 'PREEMPT_RT' i Linuxkärnan?"
+
+msgid "Real-time audio streaming"
+msgstr "Ljudströmning i realtid"
+
+msgid "Full preemption, reducing latency in critical sections"
+msgstr "Full preemption, vilket minskar latensen i kritiska delar"
+
+msgid "Faster boot times"
+msgstr "Snabbare uppstartstider"
+
+msgid "Better energy efficiency"
+msgstr "Bättre energieffektivitet"
+
+msgid "What is the name of a (very) fast tool for expanding kernel patches?"
+msgstr "Vad heter ett (väldigt) snabbt verktyg för att utöka kärnpatchar?"
+
+msgid "gitlab-kernel"
+msgstr "gitlab-kernel"
+
+msgid "obs-kernel"
+msgstr "obs-kernel"
+
+msgid "rapidquilt"
+msgstr "rapidquilt"
+
+msgid "susepatch"
+msgstr "susepatch"
+
+msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
+msgstr "Var i källkodsträdet i openSUSE lagras vanligtvis kärnans byggkonfigurationer?"
+
+msgid "configs/"
+msgstr "configs/"
+
+msgid "source/"
+msgstr "source/"
+
+msgid "etc/"
+msgstr "etc/"
+
+msgid "boot/"
+msgstr "boot/"
+
+msgid "What does the 'kernel-devel' package provide in openSUSE?"
+msgstr "Vad tillhandahåller paketet 'kernel-devel' i openSUSE?"
+
+msgid "Common kernel headers used as a base for building external kernel modules"
+msgstr "Vanliga kärnhuvuden som används som bas för att bygga externa kärnmoduler"
+
+msgid "Complete kernel source code required for debugging and building modules"
+msgstr "Komplett kärnkod som krävs för felsökning och byggande av moduler"
+
+msgid "Documentation and manuals for the Linux kernel"
+msgstr "Dokumentation och manualer för Linuxkärnan"
+
+msgid "A hidden picture of the latest SUSE kernel team's team building event"
+msgstr "En dold bild från det senaste SUSE-kärnteamets teambuilding-evenemang"
+
+msgid "Which of the following is a program to load kernel modules?"
+msgstr "Vilket av följande är ett program för att ladda kärnmoduler?"
+
+msgid "mkinitrd"
+msgstr "mkinitrd"
+
+msgid "zypper"
+msgstr "zypper"
+
+msgid "modprobe"
+msgstr "modprobe"
+
+msgid "systemctl"
+msgstr "systemctl"
+
+msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
+msgstr "Hur ofta uppdateras openSUSE Tumbleweeds kärna (vanligtvis)?"
+
+msgid "Every 6 months"
+msgstr "Var sjätte månad"
+
+msgid "Once a year"
+msgstr "En gång om året"
+
+msgid "Weekly or even more frequently"
+msgstr "Veckovis eller ännu oftare"
+
+msgid "Only when Linus pushes a new tag"
+msgstr "Bara när Linus publicerar en ny tagg"
+
+msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
+msgstr "Vad representerar kärnsmaken \"vanilj\" i openSUSE?"
+
+msgid "Kernel with experimental SUSE patches"
+msgstr "Kärna med experimentella SUSE-patchar"
+
+msgid "Unmodified upstream Linux kernel"
+msgstr "Omodifierad uppströms Linuxkärna"
+
+msgid "Kernel optimized for servers"
+msgstr "Kärna optimerad för servrar"
+
+msgid "Kernel with enhanced SELinux support"
+msgstr "Kärna med förbättrat SELinux-stöd"
+
+msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgstr "Vilken kärnuppstartsparameter hjälper dig vanligtvis vid felsökning av problem med grafikdrivrutiner?"
+
+msgid "quiet"
+msgstr "quiet"
+
+msgid "nomodeset"
+msgstr "nomodeset"
+
+msgid "bumblebee"
+msgstr "bumblebee"
+
+msgid "noacpi"
+msgstr "noacpi"
+
+msgid "Which real-time scheduling policy is most deterministic in Linux?"
+msgstr "Vilken realtidsschemaläggningspolicy är mest deterministisk i Linux?"
+
+msgid "SCHED_OTHER"
+msgstr "SCHED_OTHER"
+
+msgid "SCHED_FIFO"
+msgstr "SCHED_FIFO"
+
+msgid "SCHED_BATCH"
+msgstr "SCHED_BATCH"
+
+msgid "SCHED_IDLE"
+msgstr "SCHED_IDLE"
+
+msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
+msgstr "Vad heter paketet som tillhandahåller ytterligare fast programvara i openSUSE Leap?"
+
+msgid "kernel-firmware-extra"
+msgstr "kernel-firmware-extra"
+
+msgid "firmware-addon-leap"
+msgstr "firmware-addon-leap"
+
+msgid "kernel-default-extra"
+msgstr "kernel-default-extra"
+
+msgid "suse-firmware-pack"
+msgstr "suse-firmware-pack"
+
+msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
+msgstr "Hur kan man aktivera AppArmor via GRUB-kärnans kommandorad i openSUSE?"
+
+msgid "apparmor=1"
+msgstr "apparmor=1"
+
+msgid "security=apparmor"
+msgstr "security=apparmor"
+
+msgid "enable=apparmor"
+msgstr "enable=apparmor"
+
+msgid "selinux=off apparmor=on"
+msgstr "selinux=off apparmor=on"
+
+msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
+msgstr "Vad står 'KOTD' för i openSUSE-kärnvärlden?"
+
+msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
+msgstr "Dagens kärna — dagligen byggda kärnor på OBS Kernel:xxx-projekt"
+
+msgid "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr "Knights Of The Old Repositories — de legendariska kärnförsvararna"
+
+msgid "Keep Our Tux Dancing — the secret kernel dance party"
+msgstr "Keep Our Tux Dancing — den hemliga kärndansfesten"
+
+msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr "Kernel Operators Training Division — kärnninjor på Jedi-nivå"
+
+msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgstr "SUSE är en av de 6 främsta bidragsgivarna till Linuxkärnan (FSF 2017). Ungefär hur stor andel av bidragen står SUSE för?"
+
+msgid "Less than 1%"
+msgstr "Mindre än 1 %"
+
+msgid "Around 3%"
+msgstr "Omkring 3%"
+
+msgid "About 5%"
+msgstr "Omkring 5%"
+
+msgid "More than 20%"
+msgstr "Mer än 20 %"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Kameleontkul för barn!"
@@ -284,21 +584,6 @@ msgstr "Leapfrog"
 msgid "Zyppernap"
 msgstr "Zyppernap"
 
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Vilken av följande pakethanterare används vanligtvis i openSUSE?"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
 msgid "What is Leap 16.0?"
 msgstr "Vad är Leap 16.0?"
 
@@ -374,7 +659,9 @@ msgstr "Standardwebbläsaren"
 msgid "A programming language"
 msgstr "Ett programmeringsspråk"
 
-msgid "What is the name of installer in openSUSE Aeon"
+#, fuzzy
+#| msgid "What is the name of installer in openSUSE Aeon"
+msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Vad heter installationsprogrammet i openSUSE Aeon?"
 
 msgid "tik"
@@ -383,8 +670,10 @@ msgstr "tik"
 msgid "tak"
 msgstr "tak"
 
-msgid "toe"
-msgstr "toe"
+#, fuzzy
+#| msgid "tak"
+msgid "tao"
+msgstr "tak"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Var kan man lära sig mer om projekt från Rancher och SUSE?"
@@ -400,21 +689,6 @@ msgstr "Moo University"
 
 msgid "Cowboy Hat"
 msgstr "Cowboyhatt"
-
-msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr "Var kan man kontrollera den aktuella statusen för openSUSE-infrastruktur?"
-
-msgid "status.opensuse.org"
-msgstr "status.opensuse.org"
-
-msgid "isopensusedown.com"
-msgstr "isopensusedown.com"
-
-msgid "yast-status-viewer"
-msgstr "yast-status-viewer"
-
-msgid "zypper up --ping"
-msgstr "zypper up --ping"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
 msgstr "Var kan man installera ytterligare paket eller paket med ändringar som inte kom med i huvuddistributionen?"
@@ -442,6 +716,21 @@ msgstr "Via e-post till Geeko-maskoten"
 
 msgid "Via smoke signals from Nuremberg"
 msgstr "Via röksignaler från Nürnberg"
+
+msgid "Where can you check the current status of openSUSE infrastructure?"
+msgstr "Var kan man kontrollera den aktuella statusen för openSUSE-infrastruktur?"
+
+msgid "status.opensuse.org"
+msgstr "status.opensuse.org"
+
+msgid "isopensusedown.com"
+msgstr "isopensusedown.com"
+
+msgid "yast-status-viewer"
+msgstr "yast-status-viewer"
+
+msgid "zypper up --ping"
+msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr "Vad heter det nya pakethanterargränssnittet som ersätter YaST?"
@@ -514,21 +803,6 @@ msgstr "Maskoten"
 
 msgid "An installer"
 msgstr "Ett installationsprogram"
-
-msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "Vilket kommandoradsverktyg används för att hantera förråd i openSUSE?"
-
-msgid "zypper"
-msgstr "zypper"
-
-msgid "apt"
-msgstr "apt"
-
-msgid "yum"
-msgstr "yum"
-
-msgid "pacman"
-msgstr "pacman"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "Vilken openSUSE-distribution är känd för att vara en stabil punktutgåva?"
@@ -614,23 +888,17 @@ msgstr "opensuse-chat.org"
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr "Vilket verktyg rekommenderas för att hantera programvaruförråd och paket i openSUSE?"
 
-msgid "APT"
-msgstr "APT"
+msgid "yum"
+msgstr "yum"
+
+msgid "apt"
+msgstr "apt"
+
+msgid "pacman"
+msgstr "pacman"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Vad heter openSUSEs flaggskeppsutgåva, den rullande versionen?"
-
-msgid "RPM"
-msgstr "RPM"
-
-msgid "DEB"
-msgstr "DEB"
-
-msgid "APK"
-msgstr "APK"
-
-msgid "PKG"
-msgstr "PKG"
 
 msgid "What command will list all repositories in openSUSE?"
 msgstr "Vilket kommando listar alla förråden i openSUSE?"
@@ -734,6 +1002,18 @@ msgstr "rsnapshot config"
 msgid "What package format does openSUSE use?"
 msgstr "Vilket paketformat använder openSUSE?"
 
+msgid "RPM"
+msgstr "RPM"
+
+msgid "DEB"
+msgstr "DEB"
+
+msgid "PKG"
+msgstr "PKG"
+
+msgid "APK"
+msgstr "APK"
+
 msgid "What is the default shell in openSUSE?"
 msgstr "Vad är standardskalet i openSUSE?"
 
@@ -763,6 +1043,21 @@ msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr "Oroa dig inte, det här testet är mestadels lärorikt. Du behöver inte veta alla svar."
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Vilken av följande pakethanterare används vanligtvis i openSUSE?"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
 msgstr "Kan du spela Windows-spel på openSUSE?"
@@ -1154,64 +1449,6 @@ msgstr "Ja, använd Shift-F3"
 msgid "Yes, right-click the \"Help\" button"
 msgstr "Ja, högerklicka på \"Hjälp\" knappen"
 
-msgid "Start Quiz"
-msgstr "Starta frågesport"
-
-msgid "Start"
-msgstr "Starta"
-
-msgid "Back"
-msgstr "Tillbaka"
-
-msgid "Submit"
-msgstr "Skicka in"
-
-msgid "Next"
-msgstr "Nästa"
-
-msgid "Quit"
-msgstr "Avsluta"
-
-msgid "Submit and Quit"
-msgstr "Skicka in och avsluta"
-
-msgid "Time left"
-msgstr "Tid kvar"
-
-msgid "Score"
-msgstr "Poäng"
-
-msgid "Final"
-msgstr "Final"
-
-msgid "Restart"
-msgstr "Starta om"
-
-msgid "Question"
-msgstr "Fråga"
-
-msgid "Please enter a username to proceed."
-msgstr "Ange ett användarnamn för att fortsätta."
-
-#, javascript-format
-msgid "Welcome, %s"
-msgstr "Välkommen, %s"
-
-msgid "Are you sure you want to quit and submit?"
-msgstr "Är du säker på att du vill avsluta och skicka in?"
-
-msgid "Username is too short."
-msgstr "Användarnamnet är för kort."
-
-msgid "Sorry, this login is already taken."
-msgstr "Tyvärr, den här inloggningen är redan upptagen."
-
-msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Är du säker på att du vill avsluta? Dina framsteg kommer inte att sparas."
-
-msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr "Använd ett igenkännbart smeknamn, som ZypperJedi, eller helst ditt riktiga namn (NamnEfternamn)."
-
 msgid "Zypper Jedi"
 msgstr "Zypper Jedi"
 
@@ -1362,11 +1599,11 @@ msgstr "Vad händer om du kör 'zypper dup --from packman'?"
 msgid "Only update the 'packman' repository metadata"
 msgstr "Uppdaterar endast metadata för 'packman'-förrådet"
 
-msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr "Tvingar uppgradering av installerade paket till versioner från packman-förrådet"
-
 msgid "Remove all non-packman packages"
 msgstr "Tar bort alla paket som inte är från Packman"
+
+msgid "Force upgrade of installed packages to versions from packman repository"
+msgstr "Tvingar uppgradering av installerade paket till versioner från packman-förrådet"
 
 msgid "Create a backup before upgrade"
 msgstr "Skapar en säkerhetskopia före uppgradering"
@@ -1455,278 +1692,78 @@ msgstr "Det rensar ditt system från kommandot `rm` men behåller en säkerhetsk
 msgid "Nothing happens `rm` command belongs to coreutils."
 msgstr "Ingenting händer. `rm`-kommandot tillhör coreutils."
 
-msgid "Kernel Ninja"
-msgstr "Kärn ninja"
+msgid "Start Quiz"
+msgstr "Starta frågesport"
 
-msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr "Intressanta fakta om kärnan på SUSE och openSUSE"
+msgid "Start"
+msgstr "Starta"
 
-msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Vad är ungefär storleken (MB) på basavbildningen (squashfs) på SUSE Automotive Linux OS?"
+msgid "Back"
+msgstr "Tillbaka"
 
-msgid "~ 20MB"
-msgstr "~ 20MB"
+msgid "Submit"
+msgstr "Skicka in"
 
-msgid "~ 60MB"
-msgstr "~ 60MB"
+msgid "Next"
+msgstr "Nästa"
 
-msgid "~ 240MB"
-msgstr "~ 240MB"
+msgid "Quit"
+msgstr "Avsluta"
 
-msgid "~ 520MB"
-msgstr "~ 520MB"
+msgid "Submit and Quit"
+msgstr "Skicka in och avsluta"
 
-msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "Hur många konfigurationsparametrar (ungefär) justeras i realtids-Linuxkärnan för fordonsindustrin jämfört med standard SLES RT?"
+msgid "Time left"
+msgstr "Tid kvar"
 
-msgid "50"
-msgstr "50"
+msgid "Score"
+msgstr "Poäng"
 
-msgid "500"
-msgstr "500"
+msgid "Final"
+msgstr "Final"
 
-msgid "50000"
-msgstr "50000"
+msgid "Restart"
+msgstr "Starta om"
 
-msgid "500000"
-msgstr "500000"
+msgid "Question"
+msgstr "Fråga"
 
-msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr "Hur många patchar har installerats ovanpå uppströmskärnan 15.6 (SLES 15 SP6) från och med den 11 juni 2025?"
+msgid "Please enter a username to proceed."
+msgstr "Ange ett användarnamn för att fortsätta."
 
-msgid "~ 4231"
-msgstr "~ 4231"
+#, javascript-format
+msgid "Welcome, %s"
+msgstr "Välkommen, %s"
 
-msgid "~ 16102"
-msgstr "~ 16102"
+msgid "Are you sure you want to quit and submit?"
+msgstr "Är du säker på att du vill avsluta och skicka in?"
 
-msgid "~ 32786"
-msgstr "~ 32786"
+msgid "Username is too short."
+msgstr "Användarnamnet är för kort."
 
-msgid "~ 346870"
-msgstr "~ 346870"
+msgid "Sorry, this login is already taken."
+msgstr "Tyvärr, den här inloggningen är redan upptagen."
 
-msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Vilken kärnvariant används som standard i openSUSE Leap?"
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Är du säker på att du vill avsluta? Dina framsteg kommer inte att sparas."
 
-msgid "kernel-suse"
-msgstr "kernel-suse"
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr "Använd ett igenkännbart smeknamn, som ZypperJedi, eller helst ditt riktiga namn (NamnEfternamn)."
 
-msgid "kernel-default"
-msgstr "kernel-default"
+#~ msgid "toe"
+#~ msgstr "toe"
 
-msgid "kernel-leap"
-msgstr "kernel-leap"
+#~ msgid "Which command line tool is used to manage repositories in openSUSE?"
+#~ msgstr "Vilket kommandoradsverktyg används för att hantera förråd i openSUSE?"
 
-msgid "kernel-vanilla"
-msgstr "kernel-vanilla"
+#~ msgid "APT"
+#~ msgstr "APT"
 
-msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Vad är den primära skillnaden mellan kernel-default och kernel-rt i openSUSE?"
+#~ msgid "50"
+#~ msgstr "50"
 
-msgid "kernel-rt supports older hardware"
-msgstr "kernel-rt stöder äldre hårdvara"
-
-msgid "kernel-rt disables preemption"
-msgstr "kernel-rt inaktiverar preemption"
-
-msgid "kernel-rt has full real-time preemption enabled"
-msgstr "kernel-rt har fullständig realtidsförebyggande aktiverad"
-
-msgid "kernel-rt has less security features"
-msgstr "kernel-rt har färre säkerhetsfunktioner"
-
-msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr "Vad aktiverar 'PREEMPT_RT' i Linuxkärnan?"
-
-msgid "Real-time audio streaming"
-msgstr "Ljudströmning i realtid"
-
-msgid "Full preemption, reducing latency in critical sections"
-msgstr "Full preemption, vilket minskar latensen i kritiska delar"
-
-msgid "Faster boot times"
-msgstr "Snabbare uppstartstider"
-
-msgid "Better energy efficiency"
-msgstr "Bättre energieffektivitet"
-
-msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Vad heter ett (väldigt) snabbt verktyg för att utöka kärnpatchar?"
-
-msgid "gitlab-kernel"
-msgstr "gitlab-kernel"
-
-msgid "obs-kernel"
-msgstr "obs-kernel"
-
-msgid "rapidquilt"
-msgstr "rapidquilt"
-
-msgid "susepatch"
-msgstr "susepatch"
-
-msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr "Var i källkodsträdet i openSUSE lagras vanligtvis kärnans byggkonfigurationer?"
-
-msgid "configs/"
-msgstr "configs/"
-
-msgid "source/"
-msgstr "source/"
-
-msgid "etc/"
-msgstr "etc/"
-
-msgid "boot/"
-msgstr "boot/"
-
-msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Vad tillhandahåller paketet 'kernel-devel' i openSUSE?"
-
-msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr "Vanliga kärnhuvuden som används som bas för att bygga externa kärnmoduler"
-
-msgid "Complete kernel source code required for debugging and building modules"
-msgstr "Komplett kärnkod som krävs för felsökning och byggande av moduler"
-
-msgid "Documentation and manuals for the Linux kernel"
-msgstr "Dokumentation och manualer för Linuxkärnan"
-
-msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr "En dold bild från det senaste SUSE-kärnteamets teambuilding-evenemang"
-
-msgid "Which of the following is a program to load kernel modules?"
-msgstr "Vilket av följande är ett program för att ladda kärnmoduler?"
-
-msgid "mkinitrd"
-msgstr "mkinitrd"
-
-msgid "modprobe"
-msgstr "modprobe"
-
-msgid "systemctl"
-msgstr "systemctl"
-
-msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr "Hur ofta uppdateras openSUSE Tumbleweeds kärna (vanligtvis)?"
-
-msgid "Every 6 months"
-msgstr "Var sjätte månad"
-
-msgid "Once a year"
-msgstr "En gång om året"
-
-msgid "Weekly or even more frequently"
-msgstr "Veckovis eller ännu oftare"
-
-msgid "Only when Linus pushes a new tag"
-msgstr "Bara när Linus publicerar en ny tagg"
-
-msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Vad representerar kärnsmaken \"vanilj\" i openSUSE?"
-
-msgid "Kernel with experimental SUSE patches"
-msgstr "Kärna med experimentella SUSE-patchar"
-
-msgid "Unmodified upstream Linux kernel"
-msgstr "Omodifierad uppströms Linuxkärna"
-
-msgid "Kernel optimized for servers"
-msgstr "Kärna optimerad för servrar"
-
-msgid "Kernel with enhanced SELinux support"
-msgstr "Kärna med förbättrat SELinux-stöd"
-
-msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr "Vilken kärnuppstartsparameter hjälper dig vanligtvis vid felsökning av problem med grafikdrivrutiner?"
-
-msgid "quiet"
-msgstr "quiet"
-
-msgid "nomodeset"
-msgstr "nomodeset"
-
-msgid "bumblebee"
-msgstr "bumblebee"
-
-msgid "noacpi"
-msgstr "noacpi"
-
-msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr "Vilken realtidsschemaläggningspolicy är mest deterministisk i Linux?"
-
-msgid "SCHED_OTHER"
-msgstr "SCHED_OTHER"
-
-msgid "SCHED_FIFO"
-msgstr "SCHED_FIFO"
-
-msgid "SCHED_BATCH"
-msgstr "SCHED_BATCH"
-
-msgid "SCHED_IDLE"
-msgstr "SCHED_IDLE"
-
-msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr "Vad heter paketet som tillhandahåller ytterligare fast programvara i openSUSE Leap?"
-
-msgid "kernel-firmware-extra"
-msgstr "kernel-firmware-extra"
-
-msgid "firmware-addon-leap"
-msgstr "firmware-addon-leap"
-
-msgid "kernel-default-extra"
-msgstr "kernel-default-extra"
-
-msgid "suse-firmware-pack"
-msgstr "suse-firmware-pack"
-
-msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr "Hur kan man aktivera AppArmor via GRUB-kärnans kommandorad i openSUSE?"
-
-msgid "apparmor=1"
-msgstr "apparmor=1"
-
-msgid "security=apparmor"
-msgstr "security=apparmor"
-
-msgid "enable=apparmor"
-msgstr "enable=apparmor"
-
-msgid "selinux=off apparmor=on"
-msgstr "selinux=off apparmor=on"
-
-msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr "Vad står 'KOTD' för i openSUSE-kärnvärlden?"
-
-msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr "Dagens kärna — dagligen byggda kärnor på OBS Kernel:xxx-projekt"
-
-msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr "Knights Of The Old Repositories — de legendariska kärnförsvararna"
-
-msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr "Keep Our Tux Dancing — den hemliga kärndansfesten"
-
-msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr "Kernel Operators Training Division — kärnninjor på Jedi-nivå"
-
-msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE är en av de 6 främsta bidragsgivarna till Linuxkärnan (FSF 2017). Ungefär hur stor andel av bidragen står SUSE för?"
-
-msgid "Less than 1%"
-msgstr "Mindre än 1 %"
-
-msgid "Around 3%"
-msgstr "Omkring 3%"
-
-msgid "About 5%"
-msgstr "Omkring 5%"
-
-msgid "More than 20%"
-msgstr "Mer än 20 %"
+#~ msgid "500"
+#~ msgstr "500"
 
 #~ msgid "Which file format does openSUSE use for package management?"
 #~ msgstr "Vilket filformat använder openSUSE för pakethantering?"

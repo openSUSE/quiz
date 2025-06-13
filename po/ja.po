@@ -1,6 +1,305 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-13 09:59+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
+
+msgid "Kernel Ninja"
+msgstr "カーネル忍者"
+
+msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgstr "SUSE や openSUSE のカーネルにおける興味深い事実"
+
+msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgstr "SUSE Automotive Linux OS のベース (squashfs) イメージのサイズ (MB) はおおよそどれくらい？"
+
+msgid "~ 20MB"
+msgstr "20MB くらい"
+
+msgid "~ 60MB"
+msgstr "60MB くらい"
+
+msgid "~ 240MB"
+msgstr "240MB くらい"
+
+msgid "~ 520MB"
+msgstr "520MB くらい"
+
+msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgstr "標準の SLES RT との比較で、 automotive 向けのリアルタイム Linux カーネルに設定されているパラメータの数はおおよそどれくらい？"
+
+msgid "~ 50"
+msgstr ""
+
+msgid "~ 500"
+msgstr ""
+
+#, fuzzy
+#| msgid "50000"
+msgid "~ 50000"
+msgstr "50000"
+
+#, fuzzy
+#| msgid "500000"
+msgid "~ 500000"
+msgstr "500000"
+
+msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
+msgstr "2025 年 6 月 11 日時点で、 15.6 (SLES 15 SP6) のカーネルに適用されているアップストリームに対するパッチの数はどれくらい？"
+
+#, fuzzy
+#| msgid "~ 4231"
+msgid "4231"
+msgstr "4231 個くらい"
+
+#, fuzzy
+#| msgid "~ 16102"
+msgid "16102"
+msgstr "16102 個くらい"
+
+#, fuzzy
+#| msgid "~ 32786"
+msgid "32786"
+msgstr "32786 個くらい"
+
+#, fuzzy
+#| msgid "~ 346870"
+msgid "346870"
+msgstr "346870 個くらい"
+
+msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgstr "openSUSE Leap での既定のカーネルフレーバーはどれ？"
+
+msgid "kernel-suse"
+msgstr "kernel-suse"
+
+msgid "kernel-default"
+msgstr "kernel-default"
+
+msgid "kernel-leap"
+msgstr "kernel-leap"
+
+msgid "kernel-vanilla"
+msgstr "kernel-vanilla"
+
+msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
+msgstr "openSUSE において、 kernel-default と kernel-rt の主な違いは何？"
+
+msgid "kernel-rt supports older hardware"
+msgstr "kernel-rt は古いハードウエアに対応している"
+
+msgid "kernel-rt disables preemption"
+msgstr "kernel-rt ではプリエンプションが無効化されている"
+
+msgid "kernel-rt has full real-time preemption enabled"
+msgstr "kernel-rt では完全なリアルタイムプリエンプションが有効化されている"
+
+msgid "kernel-rt has less security features"
+msgstr "kernel-rt ではセキュリティ機能が削減されている"
+
+msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
+msgstr "Linux カーネルで 'PREEMPT_RT' を有効化すると何が起こる？"
+
+msgid "Real-time audio streaming"
+msgstr "リアルタイムなオーディオストリーミングができるようになる"
+
+msgid "Full preemption, reducing latency in critical sections"
+msgstr "完全なプリエンプション機能が有効化され、クリティカルセクションでの遅延が削減される"
+
+msgid "Faster boot times"
+msgstr "起動にかかる時間が削減される"
+
+msgid "Better energy efficiency"
+msgstr "エネルギー効率が高まる"
+
+msgid "What is the name of a (very) fast tool for expanding kernel patches?"
+msgstr "カーネルパッチを非常に高速に展開するためのツールの名前は？"
+
+msgid "gitlab-kernel"
+msgstr "gitlab-kernel"
+
+msgid "obs-kernel"
+msgstr "obs-kernel"
+
+msgid "rapidquilt"
+msgstr "rapidquilt"
+
+msgid "susepatch"
+msgstr "susepatch"
+
+msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
+msgstr "openSUSE において、カーネルのビルド設定を保存しているソースツリー内の場所はどこ？"
+
+msgid "configs/"
+msgstr "configs/"
+
+msgid "source/"
+msgstr "source/"
+
+msgid "etc/"
+msgstr "etc/"
+
+msgid "boot/"
+msgstr "boot/"
+
+msgid "What does the 'kernel-devel' package provide in openSUSE?"
+msgstr "openSUSE で提供されている 'kernel-devel' パッケージとは何？"
+
+msgid "Common kernel headers used as a base for building external kernel modules"
+msgstr "新しいカーネルモジュールを構築する際のベースとして使用する、汎用カーネルヘッダファイル"
+
+msgid "Complete kernel source code required for debugging and building modules"
+msgstr "モジュールをデバッグしたり構築したりする際に必要な、完全なカーネルのソースツリー"
+
+msgid "Documentation and manuals for the Linux kernel"
+msgstr "Linux カーネル向けのドキュメンテーションとマニュアル"
+
+msgid "A hidden picture of the latest SUSE kernel team's team building event"
+msgstr "最新の SUSE カーネルチームのビルドイベントで作られた隠し絵"
+
+msgid "Which of the following is a program to load kernel modules?"
+msgstr "カーネルモジュールを読み込むためのプログラムはどれ？"
+
+msgid "mkinitrd"
+msgstr "mkinitrd"
+
+msgid "zypper"
+msgstr "zypper"
+
+msgid "modprobe"
+msgstr "modprobe"
+
+msgid "systemctl"
+msgstr "systemctl"
+
+msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
+msgstr "openSUSE Tumbleweed における、カーネルの更新間隔は (通常時) ？"
+
+msgid "Every 6 months"
+msgstr "6 ヶ月ごと"
+
+msgid "Once a year"
+msgstr "1 年ごと"
+
+msgid "Weekly or even more frequently"
+msgstr "毎週か、それよりももっと短い間隔"
+
+msgid "Only when Linus pushes a new tag"
+msgstr "Linus が新しいタグを送信するたび"
+
+msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
+msgstr "openSUSE で 'vanilla' (バニラ) カーネルとは何？"
+
+msgid "Kernel with experimental SUSE patches"
+msgstr "実験的な SUSE パッチを適用したカーネル"
+
+msgid "Unmodified upstream Linux kernel"
+msgstr "パッチを全く適用していないアップストリームの Linux カーネルそのもの"
+
+msgid "Kernel optimized for servers"
+msgstr "サーバ向けに最適化されたカーネル"
+
+msgid "Kernel with enhanced SELinux support"
+msgstr "拡張 SELinux サポート付きのカーネル"
+
+msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgstr "ビデオドライバに問題がある場合の切り分けに有用なカーネルの起動パラメータはどれ？"
+
+msgid "quiet"
+msgstr "quiet"
+
+msgid "nomodeset"
+msgstr "nomodeset"
+
+msgid "bumblebee"
+msgstr "bumblebee"
+
+msgid "noacpi"
+msgstr "noacpi"
+
+msgid "Which real-time scheduling policy is most deterministic in Linux?"
+msgstr "Linux で最も決定論的な動作をするリアルタイムスケジューリングポリシーはどれ？"
+
+msgid "SCHED_OTHER"
+msgstr "SCHED_OTHER"
+
+msgid "SCHED_FIFO"
+msgstr "SCHED_FIFO"
+
+msgid "SCHED_BATCH"
+msgstr "SCHED_BATCH"
+
+msgid "SCHED_IDLE"
+msgstr "SCHED_IDLE"
+
+msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
+msgstr "openSUSE Leap で追加のファームウエアを提供するパッケージの名前は何？"
+
+msgid "kernel-firmware-extra"
+msgstr "kernel-firmware-extra"
+
+msgid "firmware-addon-leap"
+msgstr "firmware-addon-leap"
+
+msgid "kernel-default-extra"
+msgstr "kernel-default-extra"
+
+msgid "suse-firmware-pack"
+msgstr "suse-firmware-pack"
+
+msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
+msgstr "openSUSE で AppArmor を有効化できる GRUB カーネルコマンドラインはどれ？"
+
+msgid "apparmor=1"
+msgstr "apparmor=1"
+
+msgid "security=apparmor"
+msgstr "security=apparmor"
+
+msgid "enable=apparmor"
+msgstr "enable=apparmor"
+
+msgid "selinux=off apparmor=on"
+msgstr "selinux=off apparmor=on"
+
+msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
+msgstr "openSUSE のカーネルにおいて、 'KOTD' とは何の意味がある？"
+
+msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
+msgstr "Kernel Of The Day の略。 OBS 内の kernel:xxx プロジェクトで毎日構築されているカーネル"
+
+msgid "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr "Knights Of The Old Repositories の略で、伝説のカーネル保護者"
+
+msgid "Keep Our Tux Dancing — the secret kernel dance party"
+msgstr "Keep Our Tux Dancing の略で、秘密のカーネルダンスパーティ"
+
+msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr "Kernel Operators Training Division の略で、ジェダイ級のカーネル忍者"
+
+msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgstr "SUSE 社は Linux カーネルの貢献者としてトップ 6 に入っています (FSF 2017) 。 SUSE の貢献数の割合はどれくらい？"
+
+msgid "Less than 1%"
+msgstr "1% 未満"
+
+msgid "Around 3%"
+msgstr "おおよそ 3% くらい"
+
+msgid "About 5%"
+msgstr "5% くらい"
+
+msgid "More than 20%"
+msgstr "20% 以上"
 
 msgid "Chameleon Fun for kids!"
 msgstr "こども向けカメレオンクイズ！"
@@ -281,21 +580,6 @@ msgstr "Leapfrog"
 msgid "Zyppernap"
 msgstr "Zyppernap"
 
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
 msgid "What is Leap 16.0?"
 msgstr "Leap 16.0 とは何？"
 
@@ -371,7 +655,9 @@ msgstr "既定の Web ブラウザ"
 msgid "A programming language"
 msgstr "プログラミング言語"
 
-msgid "What is the name of installer in openSUSE Aeon"
+#, fuzzy
+#| msgid "What is the name of installer in openSUSE Aeon"
+msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "openSUSE Aeon のインストーラの名前は"
 
 msgid "tik"
@@ -380,8 +666,10 @@ msgstr "tik"
 msgid "tak"
 msgstr "tak"
 
-msgid "toe"
-msgstr "toe"
+#, fuzzy
+#| msgid "tak"
+msgid "tao"
+msgstr "tak"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Rancher と SUSE が提供するプロジェクトについて学べる場所は？"
@@ -397,21 +685,6 @@ msgstr "Moo University"
 
 msgid "Cowboy Hat"
 msgstr "Cowboy Hat"
-
-msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr "openSUSE インフラストラクチャの現状を確認できる場所は？"
-
-msgid "status.opensuse.org"
-msgstr "status.opensuse.org"
-
-msgid "isopensusedown.com"
-msgstr "isopensusedown.com"
-
-msgid "yast-status-viewer"
-msgstr "yast-status-viewer"
-
-msgid "zypper up --ping"
-msgstr "zypper up --ping"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
 msgstr "追加のパッケージやディストリビューションに取り込まれていない変更点を含むパッケージをインストールする方法として、正しいのはどれ？"
@@ -439,6 +712,21 @@ msgstr "Geeko マスコットに電子メールで"
 
 msgid "Via smoke signals from Nuremberg"
 msgstr "ニュルンベルクから狼煙で"
+
+msgid "Where can you check the current status of openSUSE infrastructure?"
+msgstr "openSUSE インフラストラクチャの現状を確認できる場所は？"
+
+msgid "status.opensuse.org"
+msgstr "status.opensuse.org"
+
+msgid "isopensusedown.com"
+msgstr "isopensusedown.com"
+
+msgid "yast-status-viewer"
+msgstr "yast-status-viewer"
+
+msgid "zypper up --ping"
+msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr "YaST の後継となる新しいパッケージマネージャ GUI の名前は？"
@@ -511,21 +799,6 @@ msgstr "マスコット"
 
 msgid "An installer"
 msgstr "インストーラ"
-
-msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "openSUSE でリポジトリを管理するために使用するコマンドラインツールは？"
-
-msgid "zypper"
-msgstr "zypper"
-
-msgid "apt"
-msgstr "apt"
-
-msgid "yum"
-msgstr "yum"
-
-msgid "pacman"
-msgstr "pacman"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "一定間隔で安定バージョンを提供する openSUSE ディストリビューションはどれ？"
@@ -611,23 +884,17 @@ msgstr "opensuse-chat.org"
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr "openSUSE でソフトウエアリポジトリやパッケージの管理を行う際の推奨ツールはどれ？"
 
-msgid "APT"
-msgstr "APT"
+msgid "yum"
+msgstr "yum"
+
+msgid "apt"
+msgstr "apt"
+
+msgid "pacman"
+msgstr "pacman"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "openSUSE のローリングリリース型ディストリビューションのうち、代表的な名前は？"
-
-msgid "RPM"
-msgstr "RPM"
-
-msgid "DEB"
-msgstr "DEB"
-
-msgid "APK"
-msgstr "APK"
-
-msgid "PKG"
-msgstr "PKG"
 
 msgid "What command will list all repositories in openSUSE?"
 msgstr "openSUSE で全てのリポジトリを一覧表示するためのコマンドは？"
@@ -731,6 +998,18 @@ msgstr "rsnapshot config"
 msgid "What package format does openSUSE use?"
 msgstr "openSUSE が使用しているパッケージの形式は？"
 
+msgid "RPM"
+msgstr "RPM"
+
+msgid "DEB"
+msgstr "DEB"
+
+msgid "PKG"
+msgstr "PKG"
+
+msgid "APK"
+msgstr "APK"
+
 msgid "What is the default shell in openSUSE?"
 msgstr "openSUSE における既定のシェルは？"
 
@@ -760,6 +1039,21 @@ msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr "心配ありません。このクイズは教育用に作られているもので、全部を知っている必要はありません。"
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
 msgstr "openSUSE で Windows のゲームは遊べる？"
@@ -1151,64 +1445,6 @@ msgstr "はい、 Shift-F3 を押すとできます"
 msgid "Yes, right-click the \"Help\" button"
 msgstr "はい、 \"ヘルプ\" ボタンをマウスの右ボタンで押すとできます"
 
-msgid "Start Quiz"
-msgstr "クイズの開始"
-
-msgid "Start"
-msgstr "開始"
-
-msgid "Back"
-msgstr "戻る"
-
-msgid "Submit"
-msgstr "送信"
-
-msgid "Next"
-msgstr "次へ"
-
-msgid "Quit"
-msgstr "終了"
-
-msgid "Submit and Quit"
-msgstr "送信して終了"
-
-msgid "Time left"
-msgstr "残り時間"
-
-msgid "Score"
-msgstr "スコア"
-
-msgid "Final"
-msgstr "最後"
-
-msgid "Restart"
-msgstr "最初から"
-
-msgid "Question"
-msgstr "質問"
-
-msgid "Please enter a username to proceed."
-msgstr "ユーザ名を入力して進めてください。"
-
-#, javascript-format
-msgid "Welcome, %s"
-msgstr "ようこそ, %s さん"
-
-msgid "Are you sure you want to quit and submit?"
-msgstr "送信して終了します。よろしいですか？"
-
-msgid "Username is too short."
-msgstr "ユーザ名が短すぎます。"
-
-msgid "Sorry, this login is already taken."
-msgstr "すみません、そのユーザ名は使用済みです。"
-
-msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "終了してよろしいですか？ これまでの進捗は保存されません。"
-
-msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
-
 msgid "Zypper Jedi"
 msgstr "Zypper Jedi"
 
@@ -1359,11 +1595,11 @@ msgstr "'zypper dup --from packman' を実行すると何が起こる？"
 msgid "Only update the 'packman' repository metadata"
 msgstr "'packman' リポジトリのメタデータのみを更新する"
 
-msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr "インストール済みのパッケージに対して、 packman リポジトリのみを利用して強制アップグレードを行う"
-
 msgid "Remove all non-packman packages"
 msgstr "packman 以外の全てのパッケージを削除する"
+
+msgid "Force upgrade of installed packages to versions from packman repository"
+msgstr "インストール済みのパッケージに対して、 packman リポジトリのみを利用して強制アップグレードを行う"
 
 msgid "Create a backup before upgrade"
 msgstr "アップグレード前にバックアップを作成する"
@@ -1452,278 +1688,78 @@ msgstr "システムから `rm` コマンドを削除するが、念のためバ
 msgid "Nothing happens `rm` command belongs to coreutils."
 msgstr "`rm` コマンドは coreutils パッケージに属するため、何も起こらない。"
 
-msgid "Kernel Ninja"
-msgstr "カーネル忍者"
+msgid "Start Quiz"
+msgstr "クイズの開始"
 
-msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr "SUSE や openSUSE のカーネルにおける興味深い事実"
+msgid "Start"
+msgstr "開始"
 
-msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "SUSE Automotive Linux OS のベース (squashfs) イメージのサイズ (MB) はおおよそどれくらい？"
+msgid "Back"
+msgstr "戻る"
 
-msgid "~ 20MB"
-msgstr "20MB くらい"
+msgid "Submit"
+msgstr "送信"
 
-msgid "~ 60MB"
-msgstr "60MB くらい"
+msgid "Next"
+msgstr "次へ"
 
-msgid "~ 240MB"
-msgstr "240MB くらい"
+msgid "Quit"
+msgstr "終了"
 
-msgid "~ 520MB"
-msgstr "520MB くらい"
+msgid "Submit and Quit"
+msgstr "送信して終了"
 
-msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "標準の SLES RT との比較で、 automotive 向けのリアルタイム Linux カーネルに設定されているパラメータの数はおおよそどれくらい？"
+msgid "Time left"
+msgstr "残り時間"
 
-msgid "50"
-msgstr "50"
+msgid "Score"
+msgstr "スコア"
 
-msgid "500"
-msgstr "500"
+msgid "Final"
+msgstr "最後"
 
-msgid "50000"
-msgstr "50000"
+msgid "Restart"
+msgstr "最初から"
 
-msgid "500000"
-msgstr "500000"
+msgid "Question"
+msgstr "質問"
 
-msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr "2025 年 6 月 11 日時点で、 15.6 (SLES 15 SP6) のカーネルに適用されているアップストリームに対するパッチの数はどれくらい？"
+msgid "Please enter a username to proceed."
+msgstr "ユーザ名を入力して進めてください。"
 
-msgid "~ 4231"
-msgstr "4231 個くらい"
+#, javascript-format
+msgid "Welcome, %s"
+msgstr "ようこそ, %s さん"
 
-msgid "~ 16102"
-msgstr "16102 個くらい"
+msgid "Are you sure you want to quit and submit?"
+msgstr "送信して終了します。よろしいですか？"
 
-msgid "~ 32786"
-msgstr "32786 個くらい"
+msgid "Username is too short."
+msgstr "ユーザ名が短すぎます。"
 
-msgid "~ 346870"
-msgstr "346870 個くらい"
+msgid "Sorry, this login is already taken."
+msgstr "すみません、そのユーザ名は使用済みです。"
 
-msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "openSUSE Leap での既定のカーネルフレーバーはどれ？"
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "終了してよろしいですか？ これまでの進捗は保存されません。"
 
-msgid "kernel-suse"
-msgstr "kernel-suse"
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
 
-msgid "kernel-default"
-msgstr "kernel-default"
+#~ msgid "toe"
+#~ msgstr "toe"
 
-msgid "kernel-leap"
-msgstr "kernel-leap"
+#~ msgid "Which command line tool is used to manage repositories in openSUSE?"
+#~ msgstr "openSUSE でリポジトリを管理するために使用するコマンドラインツールは？"
 
-msgid "kernel-vanilla"
-msgstr "kernel-vanilla"
+#~ msgid "APT"
+#~ msgstr "APT"
 
-msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "openSUSE において、 kernel-default と kernel-rt の主な違いは何？"
+#~ msgid "50"
+#~ msgstr "50"
 
-msgid "kernel-rt supports older hardware"
-msgstr "kernel-rt は古いハードウエアに対応している"
-
-msgid "kernel-rt disables preemption"
-msgstr "kernel-rt ではプリエンプションが無効化されている"
-
-msgid "kernel-rt has full real-time preemption enabled"
-msgstr "kernel-rt では完全なリアルタイムプリエンプションが有効化されている"
-
-msgid "kernel-rt has less security features"
-msgstr "kernel-rt ではセキュリティ機能が削減されている"
-
-msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr "Linux カーネルで 'PREEMPT_RT' を有効化すると何が起こる？"
-
-msgid "Real-time audio streaming"
-msgstr "リアルタイムなオーディオストリーミングができるようになる"
-
-msgid "Full preemption, reducing latency in critical sections"
-msgstr "完全なプリエンプション機能が有効化され、クリティカルセクションでの遅延が削減される"
-
-msgid "Faster boot times"
-msgstr "起動にかかる時間が削減される"
-
-msgid "Better energy efficiency"
-msgstr "エネルギー効率が高まる"
-
-msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "カーネルパッチを非常に高速に展開するためのツールの名前は？"
-
-msgid "gitlab-kernel"
-msgstr "gitlab-kernel"
-
-msgid "obs-kernel"
-msgstr "obs-kernel"
-
-msgid "rapidquilt"
-msgstr "rapidquilt"
-
-msgid "susepatch"
-msgstr "susepatch"
-
-msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr "openSUSE において、カーネルのビルド設定を保存しているソースツリー内の場所はどこ？"
-
-msgid "configs/"
-msgstr "configs/"
-
-msgid "source/"
-msgstr "source/"
-
-msgid "etc/"
-msgstr "etc/"
-
-msgid "boot/"
-msgstr "boot/"
-
-msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "openSUSE で提供されている 'kernel-devel' パッケージとは何？"
-
-msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr "新しいカーネルモジュールを構築する際のベースとして使用する、汎用カーネルヘッダファイル"
-
-msgid "Complete kernel source code required for debugging and building modules"
-msgstr "モジュールをデバッグしたり構築したりする際に必要な、完全なカーネルのソースツリー"
-
-msgid "Documentation and manuals for the Linux kernel"
-msgstr "Linux カーネル向けのドキュメンテーションとマニュアル"
-
-msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr "最新の SUSE カーネルチームのビルドイベントで作られた隠し絵"
-
-msgid "Which of the following is a program to load kernel modules?"
-msgstr "カーネルモジュールを読み込むためのプログラムはどれ？"
-
-msgid "mkinitrd"
-msgstr "mkinitrd"
-
-msgid "modprobe"
-msgstr "modprobe"
-
-msgid "systemctl"
-msgstr "systemctl"
-
-msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr "openSUSE Tumbleweed における、カーネルの更新間隔は (通常時) ？"
-
-msgid "Every 6 months"
-msgstr "6 ヶ月ごと"
-
-msgid "Once a year"
-msgstr "1 年ごと"
-
-msgid "Weekly or even more frequently"
-msgstr "毎週か、それよりももっと短い間隔"
-
-msgid "Only when Linus pushes a new tag"
-msgstr "Linus が新しいタグを送信するたび"
-
-msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "openSUSE で 'vanilla' (バニラ) カーネルとは何？"
-
-msgid "Kernel with experimental SUSE patches"
-msgstr "実験的な SUSE パッチを適用したカーネル"
-
-msgid "Unmodified upstream Linux kernel"
-msgstr "パッチを全く適用していないアップストリームの Linux カーネルそのもの"
-
-msgid "Kernel optimized for servers"
-msgstr "サーバ向けに最適化されたカーネル"
-
-msgid "Kernel with enhanced SELinux support"
-msgstr "拡張 SELinux サポート付きのカーネル"
-
-msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr "ビデオドライバに問題がある場合の切り分けに有用なカーネルの起動パラメータはどれ？"
-
-msgid "quiet"
-msgstr "quiet"
-
-msgid "nomodeset"
-msgstr "nomodeset"
-
-msgid "bumblebee"
-msgstr "bumblebee"
-
-msgid "noacpi"
-msgstr "noacpi"
-
-msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr "Linux で最も決定論的な動作をするリアルタイムスケジューリングポリシーはどれ？"
-
-msgid "SCHED_OTHER"
-msgstr "SCHED_OTHER"
-
-msgid "SCHED_FIFO"
-msgstr "SCHED_FIFO"
-
-msgid "SCHED_BATCH"
-msgstr "SCHED_BATCH"
-
-msgid "SCHED_IDLE"
-msgstr "SCHED_IDLE"
-
-msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr "openSUSE Leap で追加のファームウエアを提供するパッケージの名前は何？"
-
-msgid "kernel-firmware-extra"
-msgstr "kernel-firmware-extra"
-
-msgid "firmware-addon-leap"
-msgstr "firmware-addon-leap"
-
-msgid "kernel-default-extra"
-msgstr "kernel-default-extra"
-
-msgid "suse-firmware-pack"
-msgstr "suse-firmware-pack"
-
-msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr "openSUSE で AppArmor を有効化できる GRUB カーネルコマンドラインはどれ？"
-
-msgid "apparmor=1"
-msgstr "apparmor=1"
-
-msgid "security=apparmor"
-msgstr "security=apparmor"
-
-msgid "enable=apparmor"
-msgstr "enable=apparmor"
-
-msgid "selinux=off apparmor=on"
-msgstr "selinux=off apparmor=on"
-
-msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr "openSUSE のカーネルにおいて、 'KOTD' とは何の意味がある？"
-
-msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr "Kernel Of The Day の略。 OBS 内の kernel:xxx プロジェクトで毎日構築されているカーネル"
-
-msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr "Knights Of The Old Repositories の略で、伝説のカーネル保護者"
-
-msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr "Keep Our Tux Dancing の略で、秘密のカーネルダンスパーティ"
-
-msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr "Kernel Operators Training Division の略で、ジェダイ級のカーネル忍者"
-
-msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE 社は Linux カーネルの貢献者としてトップ 6 に入っています (FSF 2017) 。 SUSE の貢献数の割合はどれくらい？"
-
-msgid "Less than 1%"
-msgstr "1% 未満"
-
-msgid "Around 3%"
-msgstr "おおよそ 3% くらい"
-
-msgid "About 5%"
-msgstr "5% くらい"
-
-msgid "More than 20%"
-msgstr "20% 以上"
+#~ msgid "500"
+#~ msgstr "500"
 
 #~ msgid "Which file format does openSUSE use for package management?"
 #~ msgstr "openSUSE でのソフトウエアパッケージのファイル形式はどれ？"

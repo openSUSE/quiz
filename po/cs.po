@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
 "PO-Revision-Date: 2025-06-11 19:42+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
@@ -12,6 +12,294 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 5.11.4\n"
+
+msgid "Kernel Ninja"
+msgstr "Kernel Nindža"
+
+msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgstr "Zajímavosti o jádře u SUSE a openSUSE"
+
+msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgstr "Jaká je zhruba velikost (MB) základního obrazu (squashfs) operačního systému SUSE Automotive Linux?"
+
+msgid "~ 20MB"
+msgstr "~ 20MB"
+
+msgid "~ 60MB"
+msgstr "~ 60MB"
+
+msgid "~ 240MB"
+msgstr "~ 240MB"
+
+msgid "~ 520MB"
+msgstr "~ 520MB"
+
+msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgstr "Kolik konfiguračních parametrů (zhruba) se upravuje v linuxovém real-time jádře pro automobilový průmysl ve srovnání se standardním SLES RT?"
+
+msgid "~ 50"
+msgstr ""
+
+msgid "~ 500"
+msgstr ""
+
+#, fuzzy
+#| msgid "50000"
+msgid "~ 50000"
+msgstr "50000"
+
+#, fuzzy
+#| msgid "500000"
+msgid "~ 500000"
+msgstr "500000"
+
+msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
+msgstr "Kolik záplat bylo k 11. červnu 2025 aplikováno nad upstreamovým jádrem v 15.6 (SLES 15 SP6)?"
+
+#, fuzzy
+#| msgid "~ 4231"
+msgid "4231"
+msgstr "~ 4231"
+
+#, fuzzy
+#| msgid "~ 16102"
+msgid "16102"
+msgstr "~ 16102"
+
+#, fuzzy
+#| msgid "~ 32786"
+msgid "32786"
+msgstr "~ 32786"
+
+#, fuzzy
+#| msgid "~ 346870"
+msgid "346870"
+msgstr "~ 346870"
+
+msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgstr "Která varianta jádra se standartně používá v openSUSE Leap?"
+
+msgid "kernel-suse"
+msgstr "kernel-suse"
+
+msgid "kernel-default"
+msgstr "kernel-default"
+
+msgid "kernel-leap"
+msgstr "kernel-leap"
+
+msgid "kernel-vanilla"
+msgstr "kernel-vanilla"
+
+msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
+msgstr "Jaký je hlavní rozdíl mezi kernel-default a kernel-rt v openSUSE?"
+
+msgid "kernel-rt supports older hardware"
+msgstr "kernel-rt podporuje starší hardware"
+
+msgid "kernel-rt disables preemption"
+msgstr "kernel-rt zakazuje preemption"
+
+msgid "kernel-rt has full real-time preemption enabled"
+msgstr "kernel-rt má povolenu plnoul real-time preemption"
+
+msgid "kernel-rt has less security features"
+msgstr "kernel-rt má méně bezpečnostních vlastností"
+
+msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
+msgstr "Co povoluje 'PREEMPT_RT' v Linuxovém jádru?"
+
+msgid "Real-time audio streaming"
+msgstr "Real-time audio streamování"
+
+msgid "Full preemption, reducing latency in critical sections"
+msgstr "Plná preempce, snížení latence v kritických sekcích"
+
+msgid "Faster boot times"
+msgstr "Rychlejší bootování"
+
+msgid "Better energy efficiency"
+msgstr "Lepší energetická účinnost"
+
+msgid "What is the name of a (very) fast tool for expanding kernel patches?"
+msgstr "Jak se nazývá (velmi) rychlý nástroj pro rozšiřování oprav jádra?"
+
+msgid "gitlab-kernel"
+msgstr "gitlab-kernel"
+
+msgid "obs-kernel"
+msgstr "obs-kernel"
+
+msgid "rapidquilt"
+msgstr "rapidquilt"
+
+msgid "susepatch"
+msgstr "susepatch"
+
+msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
+msgstr "Kde se v openSUSE ve zdrojovém kódu obvykle ukládají konfigurační soubory pro sestavení jádra?"
+
+msgid "configs/"
+msgstr "configs/"
+
+msgid "source/"
+msgstr "source/"
+
+msgid "etc/"
+msgstr "etc/"
+
+msgid "boot/"
+msgstr "boot/"
+
+msgid "What does the 'kernel-devel' package provide in openSUSE?"
+msgstr "Co nabízí balíček 'kernel-devel' v openSUSE?"
+
+msgid "Common kernel headers used as a base for building external kernel modules"
+msgstr "Hlavičkové soubory jádra používané jako základ pro tvorbu externích modulů jádra"
+
+msgid "Complete kernel source code required for debugging and building modules"
+msgstr "Kompletní zdrojový kód jádra vyžadován pro ladění a sestavování modulů"
+
+msgid "Documentation and manuals for the Linux kernel"
+msgstr "Dokumentace a manuály pro Linuxové jádro"
+
+msgid "A hidden picture of the latest SUSE kernel team's team building event"
+msgstr "Skrytou fotku z poslední teambuildingové akce kernelového týmu SUSE"
+
+msgid "Which of the following is a program to load kernel modules?"
+msgstr "Který z následujících programů načítá moduly jádra?"
+
+msgid "mkinitrd"
+msgstr "mkinitrd"
+
+msgid "zypper"
+msgstr "zypper"
+
+msgid "modprobe"
+msgstr "modprobe"
+
+msgid "systemctl"
+msgstr "systemctl"
+
+msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
+msgstr "Jak často se (obvykle) aktualizuje jádro openSUSE Tumbleweed?"
+
+msgid "Every 6 months"
+msgstr "Každých 6 měsíců"
+
+msgid "Once a year"
+msgstr "Jednou za rok"
+
+msgid "Weekly or even more frequently"
+msgstr "Týdně nebo i častěji"
+
+msgid "Only when Linus pushes a new tag"
+msgstr "Pouze když Linus přidá nový tag"
+
+msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
+msgstr "Co představuje varianta jádra „vanilla“ v openSUSE?"
+
+msgid "Kernel with experimental SUSE patches"
+msgstr "Jádro s experimentálními záplatami SUSE"
+
+msgid "Unmodified upstream Linux kernel"
+msgstr "Nemodifikované upstreamové jádro Linuxu"
+
+msgid "Kernel optimized for servers"
+msgstr "Jádro optimalizované pro servery"
+
+msgid "Kernel with enhanced SELinux support"
+msgstr "Jádro s vylepšenou podporou SELinuxu"
+
+msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgstr "Který parametr spouštění jádra vám obvykle pomůže při ladění problémů s ovladačem grafické karty?"
+
+msgid "quiet"
+msgstr "quiet"
+
+msgid "nomodeset"
+msgstr "nomodeset"
+
+msgid "bumblebee"
+msgstr "bumblebee"
+
+msgid "noacpi"
+msgstr "noacpi"
+
+msgid "Which real-time scheduling policy is most deterministic in Linux?"
+msgstr "Která real-time plánovací politika je v Linuxu nejvíce deterministická?"
+
+msgid "SCHED_OTHER"
+msgstr "SCHED_OTHER"
+
+msgid "SCHED_FIFO"
+msgstr "SCHED_FIFO"
+
+msgid "SCHED_BATCH"
+msgstr "SCHED_BATCH"
+
+msgid "SCHED_IDLE"
+msgstr "SCHED_IDLE"
+
+msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
+msgstr "Jak se nazývá balíček, který poskytuje dodatečný firmware v Leapu?"
+
+msgid "kernel-firmware-extra"
+msgstr "kernel-firmware-extra"
+
+msgid "firmware-addon-leap"
+msgstr "firmware-addon-leap"
+
+msgid "kernel-default-extra"
+msgstr "kernel-default-extra"
+
+msgid "suse-firmware-pack"
+msgstr "suse-firmware-pack"
+
+msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
+msgstr "Jak lze povolit AppArmor přes příkazový řádek GRUB jádra v openSUSE?"
+
+msgid "apparmor=1"
+msgstr "apparmor=1"
+
+msgid "security=apparmor"
+msgstr "security=apparmor"
+
+msgid "enable=apparmor"
+msgstr "enable=apparmor"
+
+msgid "selinux=off apparmor=on"
+msgstr "selinux=off apparmor=on"
+
+msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
+msgstr "Co znamená zkratka „KOTD“ ve světě jádra openSUSE?"
+
+msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
+msgstr "Kernel Of The Day - Jádro dne denně sestavovaná jádra v OBS projektech Kernel:xxx"
+
+msgid "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr "Knights Of The Old Repositories - legendární obránci kernelu"
+
+msgid "Keep Our Tux Dancing — the secret kernel dance party"
+msgstr "Keep Our Tux Dancing — tajná taneční skupina kernelářů"
+
+msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr "Kernel Operators Training Division — HustoDémonskyKrutopřísní kerneloví ninjové"
+
+msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgstr "SUSE je jedním z 6 největších přispěvatelů linuxového jádra (dle FSF 2017). Jaké procento příspěvků SUSE tvoří?"
+
+msgid "Less than 1%"
+msgstr "Méně než 1%"
+
+msgid "Around 3%"
+msgstr "Okolo 3%"
+
+msgid "About 5%"
+msgstr "Asi 5%"
+
+msgid "More than 20%"
+msgstr "Více než 20%"
 
 msgid "Chameleon Fun for kids!"
 msgstr "Zábava s Chameleony pro děti!"
@@ -292,21 +580,6 @@ msgstr "Leapfrog"
 msgid "Zyppernap"
 msgstr "Zyppernap"
 
-msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
-
-msgid "Yum"
-msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
-
-msgid "Zypper"
-msgstr "Zypper"
-
-msgid "Pacman"
-msgstr "Pacman"
-
 msgid "What is Leap 16.0?"
 msgstr "Co je Leap 16.0?"
 
@@ -382,7 +655,9 @@ msgstr "Výchozí webový prohlížeč"
 msgid "A programming language"
 msgstr "Programovací jazyk"
 
-msgid "What is the name of installer in openSUSE Aeon"
+#, fuzzy
+#| msgid "What is the name of installer in openSUSE Aeon"
+msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Jak se jmenuje build systém openSUSE?"
 
 msgid "tik"
@@ -391,8 +666,10 @@ msgstr "tik"
 msgid "tak"
 msgstr "tak"
 
-msgid "toe"
-msgstr "toe"
+#, fuzzy
+#| msgid "tak"
+msgid "tao"
+msgstr "tak"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Kde se nejlépe dozvíte o projektech od Rancher a SUSE?"
@@ -408,21 +685,6 @@ msgstr "Moo University"
 
 msgid "Cowboy Hat"
 msgstr "Cowboy Hat"
-
-msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr "Kde můžete zkontrolovat aktuální stav infrastruktury openSUSE?"
-
-msgid "status.opensuse.org"
-msgstr "status.opensuse.org"
-
-msgid "isopensusedown.com"
-msgstr "isopensusedown.com"
-
-msgid "yast-status-viewer"
-msgstr "yast-status-viewer"
-
-msgid "zypper up --ping"
-msgstr "zypper up --ping"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
 msgstr "Odkud si můžete nainstalovat dodatečné balíčky nebo balíčky se změnami, které se nedostaly do hlavní distribuce?"
@@ -450,6 +712,21 @@ msgstr "Emailem Geeko-vi maskotu openSUSE"
 
 msgid "Via smoke signals from Nuremberg"
 msgstr "Kouřovým signálem z Norimberku"
+
+msgid "Where can you check the current status of openSUSE infrastructure?"
+msgstr "Kde můžete zkontrolovat aktuální stav infrastruktury openSUSE?"
+
+msgid "status.opensuse.org"
+msgstr "status.opensuse.org"
+
+msgid "isopensusedown.com"
+msgstr "isopensusedown.com"
+
+msgid "yast-status-viewer"
+msgstr "yast-status-viewer"
+
+msgid "zypper up --ping"
+msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr "Jak se jmenuje správce balíčků s Grafickým uživatelským rozhraním, který nahrazuje YaST?"
@@ -522,21 +799,6 @@ msgstr "Maskot"
 
 msgid "An installer"
 msgstr "Instalátor"
-
-msgid "Which command line tool is used to manage repositories in openSUSE?"
-msgstr "Jaký příkaz se používá ke správě repozitářů v openSUSE?"
-
-msgid "zypper"
-msgstr "zypper"
-
-msgid "apt"
-msgstr "apt"
-
-msgid "yum"
-msgstr "yum"
-
-msgid "pacman"
-msgstr "pacman"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "Která distribuce openSUSE je známá svou stabilitou a vydáváním point release verzí (např. 15.6)?"
@@ -622,23 +884,17 @@ msgstr "opensuse-chat.org"
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr "Který nástroj se doporučuje pro správu softwarových repozitářů a balíčků v openSUSE?"
 
-msgid "APT"
-msgstr "APT"
+msgid "yum"
+msgstr "yum"
+
+msgid "apt"
+msgstr "apt"
+
+msgid "pacman"
+msgstr "pacman"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
 msgstr "Jak se jmenuje hlavní rolling release openSUSE?"
-
-msgid "RPM"
-msgstr "RPM"
-
-msgid "DEB"
-msgstr "DEB"
-
-msgid "APK"
-msgstr "APK"
-
-msgid "PKG"
-msgstr "PKG"
 
 msgid "What command will list all repositories in openSUSE?"
 msgstr "Jaký příkaz vypíše všechny repozitáře v openSUSE?"
@@ -742,6 +998,18 @@ msgstr "rsnapshot config"
 msgid "What package format does openSUSE use?"
 msgstr "Jaký formát balíčků používá openSUSE?"
 
+msgid "RPM"
+msgstr "RPM"
+
+msgid "DEB"
+msgstr "DEB"
+
+msgid "PKG"
+msgstr "PKG"
+
+msgid "APK"
+msgstr "APK"
+
 msgid "What is the default shell in openSUSE?"
 msgstr "Jaký je výchozí shell pro příkazový řádek v openSUSE?"
 
@@ -771,6 +1039,21 @@ msgstr "openSUSE Zelenáč"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
 msgstr "Nebojte se, tento kvíz je převážně vzdělávací. Není třeba znát všechny odpovědi."
+
+msgid "Which of the following package managers is commonly used in openSUSE?"
+msgstr "Který z následujících správců balíčků se běžně používá v openSUSE?"
+
+msgid "Yum"
+msgstr "Yum"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Zypper"
+msgstr "Zypper"
+
+msgid "Pacman"
+msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
 msgstr "Můžete hrát hry pro Windows na openSUSE?"
@@ -1162,64 +1445,6 @@ msgstr "Ano, použijte Shift-F3"
 msgid "Yes, right-click the \"Help\" button"
 msgstr "Ano, klikněte pravým tlačítkem myši na tlačítko „Nápověda“"
 
-msgid "Start Quiz"
-msgstr "Spustit Kvíz"
-
-msgid "Start"
-msgstr "Start"
-
-msgid "Back"
-msgstr "Zpět"
-
-msgid "Submit"
-msgstr "Odeslat"
-
-msgid "Next"
-msgstr "Další"
-
-msgid "Quit"
-msgstr "Ukončit"
-
-msgid "Submit and Quit"
-msgstr "Odeslat a ukončit"
-
-msgid "Time left"
-msgstr "Zbývající čas"
-
-msgid "Score"
-msgstr "Skóre"
-
-msgid "Final"
-msgstr "Finální"
-
-msgid "Restart"
-msgstr "Restart"
-
-msgid "Question"
-msgstr "Otázka"
-
-msgid "Please enter a username to proceed."
-msgstr "Pro pokračování zadejte uživatelské jméno."
-
-#, javascript-format
-msgid "Welcome, %s"
-msgstr "Vítejte, %s"
-
-msgid "Are you sure you want to quit and submit?"
-msgstr "Opravdu chcete ukončit a odeslat?"
-
-msgid "Username is too short."
-msgstr "Uživatelské jméno je příliš krátké."
-
-msgid "Sorry, this login is already taken."
-msgstr "Uživatelské jméno má již někdo jiný."
-
-msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
-
-msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr "Zvolte přezdívku tak abychom vás rozeznali, například ZypperJedi, nebo raději své skutečné jméno (JménoPříjmení)."
-
 msgid "Zypper Jedi"
 msgstr "Zypper Jedi"
 
@@ -1370,11 +1595,11 @@ msgstr "Co se stane, když spustíte 'zypper dup --from packman'?"
 msgid "Only update the 'packman' repository metadata"
 msgstr "Aktualizuje pouze metadata repozitáře 'packman'"
 
-msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr "Vynucení aktualizace nainstalovaných balíčků na verze z repozitáře Packman"
-
 msgid "Remove all non-packman packages"
 msgstr "Odstraňte všechny balíčky, které nejsou součástí Packmana"
+
+msgid "Force upgrade of installed packages to versions from packman repository"
+msgstr "Vynucení aktualizace nainstalovaných balíčků na verze z repozitáře Packman"
 
 msgid "Create a backup before upgrade"
 msgstr "Před upgradem vytvoří zálohu"
@@ -1463,278 +1688,78 @@ msgstr "Vyčistí váš systém od příkazu `rm`, ale pro případ potřeby si 
 msgid "Nothing happens `rm` command belongs to coreutils."
 msgstr "Nic se nestane příkaz `rm` je přece součástí coreutils."
 
-msgid "Kernel Ninja"
-msgstr "Kernel Nindža"
+msgid "Start Quiz"
+msgstr "Spustit Kvíz"
 
-msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr "Zajímavosti o jádře u SUSE a openSUSE"
+msgid "Start"
+msgstr "Start"
 
-msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Jaká je zhruba velikost (MB) základního obrazu (squashfs) operačního systému SUSE Automotive Linux?"
+msgid "Back"
+msgstr "Zpět"
 
-msgid "~ 20MB"
-msgstr "~ 20MB"
+msgid "Submit"
+msgstr "Odeslat"
 
-msgid "~ 60MB"
-msgstr "~ 60MB"
+msgid "Next"
+msgstr "Další"
 
-msgid "~ 240MB"
-msgstr "~ 240MB"
+msgid "Quit"
+msgstr "Ukončit"
 
-msgid "~ 520MB"
-msgstr "~ 520MB"
+msgid "Submit and Quit"
+msgstr "Odeslat a ukončit"
 
-msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "Kolik konfiguračních parametrů (zhruba) se upravuje v linuxovém real-time jádře pro automobilový průmysl ve srovnání se standardním SLES RT?"
+msgid "Time left"
+msgstr "Zbývající čas"
 
-msgid "50"
-msgstr "50"
+msgid "Score"
+msgstr "Skóre"
 
-msgid "500"
-msgstr "500"
+msgid "Final"
+msgstr "Finální"
 
-msgid "50000"
-msgstr "50000"
+msgid "Restart"
+msgstr "Restart"
 
-msgid "500000"
-msgstr "500000"
+msgid "Question"
+msgstr "Otázka"
 
-msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr "Kolik záplat bylo k 11. červnu 2025 aplikováno nad upstreamovým jádrem v 15.6 (SLES 15 SP6)?"
+msgid "Please enter a username to proceed."
+msgstr "Pro pokračování zadejte uživatelské jméno."
 
-msgid "~ 4231"
-msgstr "~ 4231"
+#, javascript-format
+msgid "Welcome, %s"
+msgstr "Vítejte, %s"
 
-msgid "~ 16102"
-msgstr "~ 16102"
+msgid "Are you sure you want to quit and submit?"
+msgstr "Opravdu chcete ukončit a odeslat?"
 
-msgid "~ 32786"
-msgstr "~ 32786"
+msgid "Username is too short."
+msgstr "Uživatelské jméno je příliš krátké."
 
-msgid "~ 346870"
-msgstr "~ 346870"
+msgid "Sorry, this login is already taken."
+msgstr "Uživatelské jméno má již někdo jiný."
 
-msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Která varianta jádra se standartně používá v openSUSE Leap?"
+msgid "Are you sure you want to quit? Your progress will not be saved."
+msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 
-msgid "kernel-suse"
-msgstr "kernel-suse"
+msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr "Zvolte přezdívku tak abychom vás rozeznali, například ZypperJedi, nebo raději své skutečné jméno (JménoPříjmení)."
 
-msgid "kernel-default"
-msgstr "kernel-default"
+#~ msgid "toe"
+#~ msgstr "toe"
 
-msgid "kernel-leap"
-msgstr "kernel-leap"
+#~ msgid "Which command line tool is used to manage repositories in openSUSE?"
+#~ msgstr "Jaký příkaz se používá ke správě repozitářů v openSUSE?"
 
-msgid "kernel-vanilla"
-msgstr "kernel-vanilla"
+#~ msgid "APT"
+#~ msgstr "APT"
 
-msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Jaký je hlavní rozdíl mezi kernel-default a kernel-rt v openSUSE?"
+#~ msgid "50"
+#~ msgstr "50"
 
-msgid "kernel-rt supports older hardware"
-msgstr "kernel-rt podporuje starší hardware"
-
-msgid "kernel-rt disables preemption"
-msgstr "kernel-rt zakazuje preemption"
-
-msgid "kernel-rt has full real-time preemption enabled"
-msgstr "kernel-rt má povolenu plnoul real-time preemption"
-
-msgid "kernel-rt has less security features"
-msgstr "kernel-rt má méně bezpečnostních vlastností"
-
-msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr "Co povoluje 'PREEMPT_RT' v Linuxovém jádru?"
-
-msgid "Real-time audio streaming"
-msgstr "Real-time audio streamování"
-
-msgid "Full preemption, reducing latency in critical sections"
-msgstr "Plná preempce, snížení latence v kritických sekcích"
-
-msgid "Faster boot times"
-msgstr "Rychlejší bootování"
-
-msgid "Better energy efficiency"
-msgstr "Lepší energetická účinnost"
-
-msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Jak se nazývá (velmi) rychlý nástroj pro rozšiřování oprav jádra?"
-
-msgid "gitlab-kernel"
-msgstr "gitlab-kernel"
-
-msgid "obs-kernel"
-msgstr "obs-kernel"
-
-msgid "rapidquilt"
-msgstr "rapidquilt"
-
-msgid "susepatch"
-msgstr "susepatch"
-
-msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr "Kde se v openSUSE ve zdrojovém kódu obvykle ukládají konfigurační soubory pro sestavení jádra?"
-
-msgid "configs/"
-msgstr "configs/"
-
-msgid "source/"
-msgstr "source/"
-
-msgid "etc/"
-msgstr "etc/"
-
-msgid "boot/"
-msgstr "boot/"
-
-msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Co nabízí balíček 'kernel-devel' v openSUSE?"
-
-msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr "Hlavičkové soubory jádra používané jako základ pro tvorbu externích modulů jádra"
-
-msgid "Complete kernel source code required for debugging and building modules"
-msgstr "Kompletní zdrojový kód jádra vyžadován pro ladění a sestavování modulů"
-
-msgid "Documentation and manuals for the Linux kernel"
-msgstr "Dokumentace a manuály pro Linuxové jádro"
-
-msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr "Skrytou fotku z poslední teambuildingové akce kernelového týmu SUSE"
-
-msgid "Which of the following is a program to load kernel modules?"
-msgstr "Který z následujících programů načítá moduly jádra?"
-
-msgid "mkinitrd"
-msgstr "mkinitrd"
-
-msgid "modprobe"
-msgstr "modprobe"
-
-msgid "systemctl"
-msgstr "systemctl"
-
-msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr "Jak často se (obvykle) aktualizuje jádro openSUSE Tumbleweed?"
-
-msgid "Every 6 months"
-msgstr "Každých 6 měsíců"
-
-msgid "Once a year"
-msgstr "Jednou za rok"
-
-msgid "Weekly or even more frequently"
-msgstr "Týdně nebo i častěji"
-
-msgid "Only when Linus pushes a new tag"
-msgstr "Pouze když Linus přidá nový tag"
-
-msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Co představuje varianta jádra „vanilla“ v openSUSE?"
-
-msgid "Kernel with experimental SUSE patches"
-msgstr "Jádro s experimentálními záplatami SUSE"
-
-msgid "Unmodified upstream Linux kernel"
-msgstr "Nemodifikované upstreamové jádro Linuxu"
-
-msgid "Kernel optimized for servers"
-msgstr "Jádro optimalizované pro servery"
-
-msgid "Kernel with enhanced SELinux support"
-msgstr "Jádro s vylepšenou podporou SELinuxu"
-
-msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr "Který parametr spouštění jádra vám obvykle pomůže při ladění problémů s ovladačem grafické karty?"
-
-msgid "quiet"
-msgstr "quiet"
-
-msgid "nomodeset"
-msgstr "nomodeset"
-
-msgid "bumblebee"
-msgstr "bumblebee"
-
-msgid "noacpi"
-msgstr "noacpi"
-
-msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr "Která real-time plánovací politika je v Linuxu nejvíce deterministická?"
-
-msgid "SCHED_OTHER"
-msgstr "SCHED_OTHER"
-
-msgid "SCHED_FIFO"
-msgstr "SCHED_FIFO"
-
-msgid "SCHED_BATCH"
-msgstr "SCHED_BATCH"
-
-msgid "SCHED_IDLE"
-msgstr "SCHED_IDLE"
-
-msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr "Jak se nazývá balíček, který poskytuje dodatečný firmware v Leapu?"
-
-msgid "kernel-firmware-extra"
-msgstr "kernel-firmware-extra"
-
-msgid "firmware-addon-leap"
-msgstr "firmware-addon-leap"
-
-msgid "kernel-default-extra"
-msgstr "kernel-default-extra"
-
-msgid "suse-firmware-pack"
-msgstr "suse-firmware-pack"
-
-msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr "Jak lze povolit AppArmor přes příkazový řádek GRUB jádra v openSUSE?"
-
-msgid "apparmor=1"
-msgstr "apparmor=1"
-
-msgid "security=apparmor"
-msgstr "security=apparmor"
-
-msgid "enable=apparmor"
-msgstr "enable=apparmor"
-
-msgid "selinux=off apparmor=on"
-msgstr "selinux=off apparmor=on"
-
-msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr "Co znamená zkratka „KOTD“ ve světě jádra openSUSE?"
-
-msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr "Kernel Of The Day - Jádro dne denně sestavovaná jádra v OBS projektech Kernel:xxx"
-
-msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr "Knights Of The Old Repositories - legendární obránci kernelu"
-
-msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr "Keep Our Tux Dancing — tajná taneční skupina kernelářů"
-
-msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr "Kernel Operators Training Division — HustoDémonskyKrutopřísní kerneloví ninjové"
-
-msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE je jedním z 6 největších přispěvatelů linuxového jádra (dle FSF 2017). Jaké procento příspěvků SUSE tvoří?"
-
-msgid "Less than 1%"
-msgstr "Méně než 1%"
-
-msgid "Around 3%"
-msgstr "Okolo 3%"
-
-msgid "About 5%"
-msgstr "Asi 5%"
-
-msgid "More than 20%"
-msgstr "Více než 20%"
+#~ msgid "500"
+#~ msgstr "500"
 
 #~ msgid "Which file format does openSUSE use for package management?"
 #~ msgstr "Jaký formát souborů používá openSUSE pro správu balíčků?"
