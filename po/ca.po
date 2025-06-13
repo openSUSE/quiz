@@ -44,12 +44,10 @@ msgid "~ 500"
 msgstr ""
 
 #, fuzzy
-#| msgid "50000"
 msgid "~ 50000"
 msgstr "50000"
 
 #, fuzzy
-#| msgid "500000"
 msgid "~ 500000"
 msgstr "500000"
 
@@ -57,22 +55,18 @@ msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15
 msgstr "Quants pedaços s'han aplicat sobre el nucli 15.6 (SLES 15 SP6) a partir de l'11 de juny de 2025?"
 
 #, fuzzy
-#| msgid "~ 4231"
 msgid "4231"
 msgstr "~ 4231"
 
 #, fuzzy
-#| msgid "~ 16102"
 msgid "16102"
 msgstr "~ 16102"
 
 #, fuzzy
-#| msgid "~ 32786"
 msgid "32786"
 msgstr "~ 32786"
 
 #, fuzzy
-#| msgid "~ 346870"
 msgid "346870"
 msgstr "~ 346870"
 
@@ -656,7 +650,6 @@ msgid "A programming language"
 msgstr "Un llenguatge de programació"
 
 #, fuzzy
-#| msgid "What is the name of installer in openSUSE Aeon"
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Quin és el nom de l'instal·lador a l'openSUSE Aeon?"
 
@@ -667,7 +660,6 @@ msgid "tak"
 msgstr "tak"
 
 #, fuzzy
-#| msgid "tak"
 msgid "tao"
 msgstr "tak"
 

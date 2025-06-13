@@ -652,7 +652,6 @@ msgid "A programming language"
 msgstr "Un lenguaje de programación"
 
 #, fuzzy
-#| msgid "What is the name of installer in openSUSE Aeon"
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "¿Cómo se llama el instalador en openSUSE Aeon?"
 
@@ -663,7 +662,6 @@ msgid "tak"
 msgstr "tak"
 
 #, fuzzy
-#| msgid "tak"
 msgid "tao"
 msgstr "tak"
 

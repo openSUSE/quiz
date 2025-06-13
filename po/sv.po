@@ -48,12 +48,10 @@ msgid "~ 500"
 msgstr ""
 
 #, fuzzy
-#| msgid "50000"
 msgid "~ 50000"
 msgstr "50000"
 
 #, fuzzy
-#| msgid "500000"
 msgid "~ 500000"
 msgstr "500000"
 
@@ -61,22 +59,18 @@ msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15
 msgstr "Hur många patchar har installerats ovanpå uppströmskärnan 15.6 (SLES 15 SP6) från och med den 11 juni 2025?"
 
 #, fuzzy
-#| msgid "~ 4231"
 msgid "4231"
 msgstr "~ 4231"
 
 #, fuzzy
-#| msgid "~ 16102"
 msgid "16102"
 msgstr "~ 16102"
 
 #, fuzzy
-#| msgid "~ 32786"
 msgid "32786"
 msgstr "~ 32786"
 
 #, fuzzy
-#| msgid "~ 346870"
 msgid "346870"
 msgstr "~ 346870"
 
@@ -660,7 +654,6 @@ msgid "A programming language"
 msgstr "Ett programmeringsspråk"
 
 #, fuzzy
-#| msgid "What is the name of installer in openSUSE Aeon"
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Vad heter installationsprogrammet i openSUSE Aeon?"
 
@@ -671,7 +664,6 @@ msgid "tak"
 msgstr "tak"
 
 #, fuzzy
-#| msgid "tak"
 msgid "tao"
 msgstr "tak"
 

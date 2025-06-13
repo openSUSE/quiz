@@ -644,7 +644,6 @@ msgid "A programming language"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the default filesystem in openSUSE?"
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Wat is het standaard bestandssysteem in openSUSE?"
 
