@@ -1,19 +1,9 @@
 # Nico Krapp <nico.krapp@suse.com>, 2025.
 # Dan Čermák <dcermak@suse.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
+# Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-13 09:59+0000\n"
-"Last-Translator: Dan Čermák <dcermak@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-14 11:59+0000\nLast-Translator: Ettore Atalan <atalanttore@googlemail.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Kernel Ninja"
 msgstr ""
@@ -994,7 +984,7 @@ msgid "rsnapshot config"
 msgstr "rsnapshot config"
 
 msgid "What package format does openSUSE use?"
-msgstr "Was ist das Paketformat welches openSUSE verwendet?"
+msgstr "Was ist das Paketformat, welches openSUSE verwendet?"
 
 msgid "RPM"
 msgstr "RPM"
