@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 16:50+0000\n"
-"PO-Revision-Date: 2025-06-11 09:25+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-07 16:50+0000\nPO-Revision-Date: 2025-06-13 09:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Chameleon Fun for kids!"
 msgstr "こども向けカメレオンクイズ！"
@@ -365,7 +354,7 @@ msgid "By using Salt or Ansible"
 msgstr "Salt や Ansible を利用する"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr "netrunner というユーザの下でファイルを編集し、指を交差させる"
+msgstr "netrunner というユーザの下でファイルを編集してから祈る"
 
 msgid "What is 'YaST'?"
 msgstr "'YaST' とは何？"
@@ -382,19 +371,17 @@ msgstr "既定の Web ブラウザ"
 msgid "A programming language"
 msgstr "プログラミング言語"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon"
-msgstr "openSUSE のビルドシステムの名称は？"
+msgstr "openSUSE Aeon のインストーラの名前は"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
-#, fuzzy
 msgid "tak"
-msgstr "開始"
+msgstr "tak"
 
 msgid "toe"
-msgstr ""
+msgstr "toe"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Rancher と SUSE が提供するプロジェクトについて学べる場所は？"
@@ -472,10 +459,10 @@ msgid "How often does openSUSE Leap release a new stable version?"
 msgstr "openSUSE Leap の安定バージョンの公開間隔は？"
 
 msgid "Every 5 years when the stars align"
-msgstr "星が揃う 5 年おき"
+msgstr "星が揃う 5 年ごと"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr "12 ヶ月おきで、 6 ヶ月の重複期間が加わる"
+msgstr "12 ヶ月間隔で、 6 ヶ月の重複期間が加わる"
 
 msgid "Every month"
 msgstr "毎月"
@@ -1222,546 +1209,521 @@ msgstr "終了してよろしいですか？ これまでの進捗は保存さ�
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
 
-#, fuzzy
 msgid "Zypper Jedi"
-msgstr "Zypper"
+msgstr "Zypper Jedi"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "openSUSE のパッケージマネージャである Zypper について、面白くも知られていない事実"
 
-#, fuzzy
 msgid "What is the name of the library used by the default openSUSE package manager?"
-msgstr "openSUSE の公式コミュニティフォーラムの名前は？"
+msgstr "openSUSE の既定のパッケージマネージャで使用されているライブラリの名前は？"
 
-#, fuzzy
 msgid "libzypp"
-msgstr "zypper"
+msgstr "libzypp"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "openSUSE では、 Zypper と呼ばれるパッケージマネージャが libzypp というバックエンドライブラリを使用しています。このライブラリには強力な依存関係解決器があるほか、差分 (デルタ) RPM への対応も提供されています。"
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "Zypper および libzypp が最初に提供されたバージョンは？"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "SuSE Linux 7.1 (2001 年)"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "SUSE Linux 10.1 (2006 年)"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "openSUSE Leap 42.3 マジカルリリース (2017 年) の一部として"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "最初のバージョン、つまり S.u.S.E. Linux 1.0 (1994 年)"
 
 msgid "What does 'zypper refs' do?"
-msgstr ""
+msgstr "'zypper refs' を実行すると何が行われる？"
 
 msgid "Refreshes all repositories"
-msgstr ""
+msgstr "全てのリポジトリを更新する"
 
-#, fuzzy
 msgid "Lists orphaned packages"
-msgstr "ランダムなパッケージをインストールする"
+msgstr "孤立したパッケージの一覧を表示する"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "ソフトパッケージロック (施錠) の一覧を表示する"
 
 msgid "Refreshes defined repository index services."
-msgstr ""
+msgstr "設定済みのリポジトリインデックスサービスを更新する。"
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "openSUSE で RIS (Repository Index Service; リポジトリインデックスサービス) とは何をするもの？"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
-msgstr ""
+msgstr "集中管理のできる柔軟なリポジトリ管理。 openSUSE ではこの仕組みを利用して、 RPM 管理の repoindex.xml から .repo ファイルを生成します"
 
 msgid "It injects RPMs into your system while you're not looking."
-msgstr ""
+msgstr "見ていない間にシステムに RPM を注入する。"
 
 msgid "It schedules all recursive installs to happen only during coffee breaks."
-msgstr ""
+msgstr "休憩時間中にのみ再帰的なインストール作業を行うようにスケジュール設定する。"
 
 msgid "It just exists to confuse people with too many acronyms."
-msgstr ""
+msgstr "略語だらけにして人々を混乱させるためだけにある。"
 
 msgid "What does the Zypper command 'zypper dup' do?"
-msgstr ""
+msgstr "Zypper のコマンド 'zypper dup' を実行すると何が行われる？"
 
 msgid "Deletes unused packages"
-msgstr ""
+msgstr "使用していないパッケージを削除する"
 
 msgid "Performs a distribution upgrade"
-msgstr ""
+msgstr "ディストリビューションのアップグレード処理を実行する"
 
 msgid "Downloads all updates in background"
-msgstr ""
+msgstr "裏で全ての更新をダウンロードする"
 
 msgid "Displays user preferences"
-msgstr ""
+msgstr "ユーザ設定を表示する"
 
 msgid "Which Zypper command enables parallel package downloads?"
-msgstr ""
+msgstr "同時並行ダウンロード機能を有効化する Zypper のコマンドはどれ？"
 
-#, fuzzy
 msgid "zypper --fast"
-msgstr "zypper update"
+msgstr "zypper --fast"
 
-#, fuzzy
 msgid "zypper -p"
-msgstr "zypper"
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "最新の zypper では特に何も指定しなくても同時並行ダウンロードが行われる"
 
-#, fuzzy
 msgid "zypper turbo"
-msgstr "zypper repos"
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Zypper で使用される主な設定ファイルはどれ？"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
-#, fuzzy
 msgid "/etc/zypperrc"
-msgstr "zypper"
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
-#, fuzzy
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+msgstr "下記の Zypper コマンドのうち、キャッシュ済みの全パッケージを削除するコマンドはどれ？"
 
-#, fuzzy
 msgid "zypper refresh --clean"
-msgstr "zypper refresh"
+msgstr "zypper refresh --clean"
 
 msgid "zypper clean --all"
-msgstr ""
+msgstr "zypper clean --all"
 
-#, fuzzy
 msgid "zypper purge-cache"
-msgstr "zypper update"
+msgstr "zypper purge-cache"
 
-#, fuzzy
 msgid "zypper remove-cache"
-msgstr "zypper reload"
+msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "Zypper ではパターンをインストールできます。 Zypper でのパターンの意味は？"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "パッケージ名をまとめて表すための正規表現"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "特定の役割や用途を表すパッケージのグループ"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "テーマの設定ファイル"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "リポジトリのメタデータタグ"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "'zypper dup --from packman' を実行すると何が起こる？"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "'packman' リポジトリのメタデータのみを更新する"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "インストール済みのパッケージに対して、 packman リポジトリのみを利用して強制アップグレードを行う"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "packman 以外の全てのパッケージを削除する"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "アップグレード前にバックアップを作成する"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "Leap 16.0 では既定で CDN を使用するようになっているほか、 RIS で管理するリポジトリによって、リポジトリの総数が少なくなっています。 Leap 16.0 では、既定でどれだけのディストリビューション標準のリポジトリが設定されている？"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
-#, fuzzy
 msgid "10"
-msgstr "2010"
+msgstr "10"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "Leap 16.0 には RIS で管理されるリポジトリがあります。リポジトリの設定を壊さずに調整する方法はどれ？"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "古き良き時代のように /etc/zypp/repos.d/ を編集する"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "ディストリビューションの .repo ファイルを変更すると上書きされてしまうため、 /etc/zypp/vars.d を代わりに使用する。"
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "公式の方法である `zypper --edit-repo --force` コマンドを実行する。"
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "repoindex.xml を手作業で編集して祈りをこめる。"
 
-#, fuzzy
 msgid "What can users do at software.opensuse.org?"
-msgstr "software.opensuse.org から 1 クリックで"
+msgstr "software.opensuse.org で一般ユーザができることは？"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "ブラウザ内から 1 クリックするだけで zypper を起動してパッケージをインストールできる。"
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "home プロジェクトのパッケージを含む追加のソフトウエアを検索してインストールできる。"
 
-#, fuzzy
 msgid "View screenshots and details of cool open source software."
-msgstr "フリーでオープンソースのソフトウエアの宣伝とサポート"
+msgstr "便利なオープンソースソフトウエアのスクリーンショットや説明を読むことができる。"
 
 msgid "All of the above."
-msgstr ""
+msgstr "これら全てのことができる。"
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
+msgstr "zypper の文書を探したいとき、どのマニュアルページのセクションを参照するのが良い？"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "42"
-msgstr ""
+msgstr "42"
 
-#, fuzzy
 msgid "What is yzpper?"
-msgstr "IFL とは？"
+msgstr "yzpper とは何？"
 
 msgid "Turkish translation of zypper"
-msgstr ""
+msgstr "zypper のトルコ語翻訳"
 
 msgid "Reverse (undo) the last zypper command"
-msgstr ""
+msgstr "直前の zypper コマンドを取り消して元に戻す (アンドゥ) コマンド"
 
 msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
-msgstr ""
+msgstr "zypper へのシンボリックリンク (ドイツ語キーボードでは Y と Z のキーが入れ替わっているための入力ミス対策)"
 
 msgid "The project name of next gen zypper"
-msgstr ""
+msgstr "次世代の zypper のプロジェクト名"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr ""
+msgstr "この問題は注意して回答してください！ zypper rm --clean deps についてはご存じの通りですが、 `zypper rm --clean-deps rm` を実行すると何が起こる？"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
-msgstr ""
+msgstr "`rm` コマンドとその依存関係を削除する。つまり、今後はファイルが削除できなくなる！"
 
 msgid "Only the `rm` command gets removed, dependencies stay put."
-msgstr ""
+msgstr "`rm` コマンドだけを削除し、依存関係のものはそのまま維持する。"
 
 msgid "It cleans your system of the `rm` command but keeps a backup just in case."
-msgstr ""
+msgstr "システムから `rm` コマンドを削除するが、念のためバックアップを保持する。"
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "`rm` コマンドは coreutils パッケージに属するため、何も起こらない。"
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "カーネル忍者"
 
 msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "SUSE や openSUSE のカーネルにおける興味深い事実"
 
 msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "SUSE Automotive Linux OS のベース (squashfs) イメージのサイズ (MB) はおおよそどれくらい？"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "20MB くらい"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "60MB くらい"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "240MB くらい"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "520MB くらい"
 
 msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "標準の SLES RT との比較で、 automotive 向けのリアルタイム Linux カーネルに設定されているパラメータの数はおおよそどれくらい？"
 
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgid "500"
-msgstr ""
+msgstr "500"
 
 msgid "50000"
-msgstr ""
+msgstr "50000"
 
 msgid "500000"
-msgstr ""
+msgstr "500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "2025 年 6 月 11 日時点で、 15.6 (SLES 15 SP6) のカーネルに適用されているアップストリームに対するパッチの数はどれくらい？"
 
 msgid "~ 4231"
-msgstr ""
+msgstr "4231 個くらい"
 
 msgid "~ 16102"
-msgstr ""
+msgstr "16102 個くらい"
 
 msgid "~ 32786"
-msgstr ""
+msgstr "32786 個くらい"
 
 msgid "~ 346870"
-msgstr ""
+msgstr "346870 個くらい"
 
-#, fuzzy
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "openSUSE Leap 15 での既定のデスクトップ環境はどれ？"
+msgstr "openSUSE Leap での既定のカーネルフレーバーはどれ？"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
-#, fuzzy
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "openSUSE で主に使用されているライセンスは？"
+msgstr "openSUSE において、 kernel-default と kernel-rt の主な違いは何？"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt は古いハードウエアに対応している"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt ではプリエンプションが無効化されている"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt では完全なリアルタイムプリエンプションが有効化されている"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt ではセキュリティ機能が削減されている"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "Linux カーネルで 'PREEMPT_RT' を有効化すると何が起こる？"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "リアルタイムなオーディオストリーミングができるようになる"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "完全なプリエンプション機能が有効化され、クリティカルセクションでの遅延が削減される"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "起動にかかる時間が削減される"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "エネルギー効率が高まる"
 
-#, fuzzy
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "openSUSE のローリングリリース型ディストリビューションのうち、代表的な名前は？"
+msgstr "カーネルパッチを非常に高速に展開するためのツールの名前は？"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "openSUSE において、カーネルのビルド設定を保存しているソースツリー内の場所はどこ？"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
-#, fuzzy
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+msgstr "openSUSE で提供されている 'kernel-devel' パッケージとは何？"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "新しいカーネルモジュールを構築する際のベースとして使用する、汎用カーネルヘッダファイル"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "モジュールをデバッグしたり構築したりする際に必要な、完全なカーネルのソースツリー"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "Linux カーネル向けのドキュメンテーションとマニュアル"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "最新の SUSE カーネルチームのビルドイベントで作られた隠し絵"
 
-#, fuzzy
 msgid "Which of the following is a program to load kernel modules?"
-msgstr "openSUSE で一般に使用されているパッケージマネージャはどれ？"
+msgstr "カーネルモジュールを読み込むためのプログラムはどれ？"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "modprobe"
-msgstr ""
+msgstr "modprobe"
 
 msgid "systemctl"
-msgstr ""
+msgstr "systemctl"
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
+msgstr "openSUSE Tumbleweed における、カーネルの更新間隔は (通常時) ？"
 
-#, fuzzy
 msgid "Every 6 months"
-msgstr "毎月"
+msgstr "6 ヶ月ごと"
 
 msgid "Once a year"
-msgstr ""
+msgstr "1 年ごと"
 
 msgid "Weekly or even more frequently"
-msgstr ""
+msgstr "毎週か、それよりももっと短い間隔"
 
 msgid "Only when Linus pushes a new tag"
-msgstr ""
+msgstr "Linus が新しいタグを送信するたび"
 
-#, fuzzy
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "openSUSE の 'open' とはどういう意味 (いみ) ？"
+msgstr "openSUSE で 'vanilla' (バニラ) カーネルとは何？"
 
 msgid "Kernel with experimental SUSE patches"
-msgstr ""
+msgstr "実験的な SUSE パッチを適用したカーネル"
 
 msgid "Unmodified upstream Linux kernel"
-msgstr ""
+msgstr "パッチを全く適用していないアップストリームの Linux カーネルそのもの"
 
 msgid "Kernel optimized for servers"
-msgstr ""
+msgstr "サーバ向けに最適化されたカーネル"
 
 msgid "Kernel with enhanced SELinux support"
-msgstr ""
+msgstr "拡張 SELinux サポート付きのカーネル"
 
 msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr ""
+msgstr "ビデオドライバに問題がある場合の切り分けに有用なカーネルの起動パラメータはどれ？"
 
 msgid "quiet"
-msgstr ""
+msgstr "quiet"
 
 msgid "nomodeset"
-msgstr ""
+msgstr "nomodeset"
 
-#, fuzzy
 msgid "bumblebee"
-msgstr "Tumblebleed"
+msgstr "bumblebee"
 
 msgid "noacpi"
-msgstr ""
+msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
+msgstr "Linux で最も決定論的な動作をするリアルタイムスケジューリングポリシーはどれ？"
 
 msgid "SCHED_OTHER"
-msgstr ""
+msgstr "SCHED_OTHER"
 
 msgid "SCHED_FIFO"
-msgstr ""
+msgstr "SCHED_FIFO"
 
 msgid "SCHED_BATCH"
-msgstr ""
+msgstr "SCHED_BATCH"
 
 msgid "SCHED_IDLE"
-msgstr ""
+msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
+msgstr "openSUSE Leap で追加のファームウエアを提供するパッケージの名前は何？"
 
 msgid "kernel-firmware-extra"
-msgstr ""
+msgstr "kernel-firmware-extra"
 
 msgid "firmware-addon-leap"
-msgstr ""
+msgstr "firmware-addon-leap"
 
 msgid "kernel-default-extra"
-msgstr ""
+msgstr "kernel-default-extra"
 
 msgid "suse-firmware-pack"
-msgstr ""
+msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
+msgstr "openSUSE で AppArmor を有効化できる GRUB カーネルコマンドラインはどれ？"
 
 msgid "apparmor=1"
-msgstr ""
+msgstr "apparmor=1"
 
 msgid "security=apparmor"
-msgstr ""
+msgstr "security=apparmor"
 
 msgid "enable=apparmor"
-msgstr ""
+msgstr "enable=apparmor"
 
 msgid "selinux=off apparmor=on"
-msgstr ""
+msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "openSUSE のカーネルにおいて、 'KOTD' とは何の意味がある？"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "Kernel Of The Day の略。 OBS 内の kernel:xxx プロジェクトで毎日構築されているカーネル"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Knights Of The Old Repositories の略で、伝説のカーネル保護者"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Keep Our Tux Dancing の略で、秘密のカーネルダンスパーティ"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Kernel Operators Training Division の略で、ジェダイ級のカーネル忍者"
 
 msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE 社は Linux カーネルの貢献者としてトップ 6 に入っています (FSF 2017) 。 SUSE の貢献数の割合はどれくらい？"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "1% 未満"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "おおよそ 3% くらい"
 
-#, fuzzy
 msgid "About 5%"
-msgstr "50 個くらい"
+msgstr "5% くらい"
 
 msgid "More than 20%"
-msgstr ""
+msgstr "20% 以上"
 
 #~ msgid "Which file format does openSUSE use for package management?"
 #~ msgstr "openSUSE でのソフトウエアパッケージのファイル形式はどれ？"
