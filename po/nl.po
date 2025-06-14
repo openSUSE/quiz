@@ -1,278 +1,267 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-13 09:59+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-14 11:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "Kernel Ninja"
 
 msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "Interessante feiten over kernel in SUSE en openSUSE"
 
 msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "Wat is ruwweg de grootte (MB) van de basis (squashfs) image van SUSE Automobiel Linux OS?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "~ 20MB"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "~ 60MB"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "~ 240MB"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "Hoeveel configuratieparameters (ruwweg) worden er aangepast in de real-time Linux kernel voor automobielen vergeleken met de standaard SLES RT?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "~ 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "~ 500"
 
 msgid "~ 50000"
-msgstr ""
+msgstr "~ 50000"
 
 msgid "~ 500000"
-msgstr ""
+msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "Hoeveel patches zijn er toegepast bovenop de upstream kernel 15.6 (SLES 15 SP6) vanaf 11 juni 2025?"
 
 msgid "4231"
-msgstr ""
+msgstr "4231"
 
 msgid "16102"
-msgstr ""
+msgstr "16102"
 
 msgid "32786"
-msgstr ""
+msgstr "32786"
 
 msgid "346870"
-msgstr ""
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr ""
+msgstr "Welke smaak kernel wordt er standaard gebruikt in openSUSE Leap?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr ""
+msgstr "Wat is her primaire verschil tussen kernel-default en kernel-rt in openSUSE?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt ondersteunt oudere hardware"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt schakelt voorrang uit"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt heeft volledige real-time voorrang ingeschakeld"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt heeft minder functies voor beveiliging"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "Wat schakelt 'PREEMPT_RT' in in de Linux kernel?"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "Real-time streaming van audio"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "Volledige voorrang, verminderen van vertraging in kritische secties"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "Snellere opstarttijden"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "Betere energie-efficiency"
 
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr ""
+msgstr "Wat is de naam van een (erg) snel hulpmiddel voor uitvouwen van kernel patches?"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "Waar wordt In openSUSE de bouwconfiguratie voor de kernel gewoonlijk opgeslagen in de boomstructuur van de broncode?"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr ""
+msgstr "Wat levert het pakket 'kernel-devel' in openSUSE?"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "Gemeenschappelijke kernel-headers gebruikt als een basis voor het bouwen van externe kernel-modules"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "Complete kernel-broncode vereist voor debugging en bouwen van modules"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "Documentatie en handleidingen voor de Linux kernel"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "Een verborgen plaatje van de laatste kernel-bouwgebeurtenis van het team van SUSE"
 
 msgid "Which of the following is a program to load kernel modules?"
-msgstr ""
+msgstr "Welke van de volgenden is een programma om kernelmodules te laden?"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "zypper"
-msgstr ""
+msgstr "zypper"
 
 msgid "modprobe"
-msgstr ""
+msgstr "modprobe"
 
 msgid "systemctl"
-msgstr ""
+msgstr "systemctl"
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
+msgstr "Hoe vaak wordt de kernel van openSUSE Tumbleweed bijgewerkt (typisch?"
 
 msgid "Every 6 months"
-msgstr ""
+msgstr "Elke 6 maanden"
 
 msgid "Once a year"
-msgstr ""
+msgstr "Eens per jaar"
 
 msgid "Weekly or even more frequently"
-msgstr ""
+msgstr "Wekelijks of zelfs frequenter"
 
 msgid "Only when Linus pushes a new tag"
-msgstr ""
+msgstr "Alleen wanneer Linus een nieuwe tag pusht"
 
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr ""
+msgstr "Wat representeert de 'vanilla' kernelsmaak in openSUSE?"
 
 msgid "Kernel with experimental SUSE patches"
-msgstr ""
+msgstr "Kernel met experimentele SUSE patches"
 
 msgid "Unmodified upstream Linux kernel"
-msgstr ""
+msgstr "Ongewijzigde upstream Linux kernel"
 
 msgid "Kernel optimized for servers"
-msgstr ""
+msgstr "Kernel geoptimaliseerd voor servers"
 
 msgid "Kernel with enhanced SELinux support"
-msgstr ""
+msgstr "Kernel met verhoogde SELinux ondersteuning"
 
 msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
-msgstr ""
+msgstr "Welke kernel boot parameter zal typisch helpen terwijl u problemen met de videodriver analyseert?"
 
 msgid "quiet"
-msgstr ""
+msgstr "quiet"
 
 msgid "nomodeset"
-msgstr ""
+msgstr "nomodeset"
 
 msgid "bumblebee"
-msgstr ""
+msgstr "bumblebee"
 
 msgid "noacpi"
-msgstr ""
+msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
+msgstr "Welk real-time planningsbeleid is het meest deterministisch in Linux?"
 
 msgid "SCHED_OTHER"
-msgstr ""
+msgstr "SCHED_OTHER"
 
 msgid "SCHED_FIFO"
-msgstr ""
+msgstr "SCHED_FIFO"
 
 msgid "SCHED_BATCH"
-msgstr ""
+msgstr "SCHED_BATCH"
 
 msgid "SCHED_IDLE"
-msgstr ""
+msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
+msgstr "Wat is de naam van het pakket dat additionele firmware in openSUSE Leap levert?"
 
 msgid "kernel-firmware-extra"
-msgstr ""
+msgstr "kernel-firmware-extra"
 
 msgid "firmware-addon-leap"
-msgstr ""
+msgstr "firmware-addon-leap"
 
 msgid "kernel-default-extra"
-msgstr ""
+msgstr "kernel-default-extra"
 
 msgid "suse-firmware-pack"
-msgstr ""
+msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
+msgstr "Hoe kunt u AppArmor inschakelen via de opdrachtregel van de GRUB kernel in openSUSE?"
 
 msgid "apparmor=1"
-msgstr ""
+msgstr "apparmor=1"
 
 msgid "security=apparmor"
-msgstr ""
+msgstr "security=apparmor"
 
 msgid "enable=apparmor"
-msgstr ""
+msgstr "enable=apparmor"
 
 msgid "selinux=off apparmor=on"
-msgstr ""
+msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "In the kernel-wereld van openSUSE, waar staat 'KOTD' voor?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "Kernel Of The Day — dagelijks gebouwde kernels in de OBS Kernel:xxx projecten"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Knights Of The Old Repositories — de verdedigers van legendarische kernels"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Keep Our Tux Dancing — de geheime kernel dansparty"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Kernel Operators Training Division — Jedi-niveau kernel-ninjas"
 
 msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
 msgstr ""
