@@ -1,18 +1,7 @@
 # Ferdinand Galko <galko.ferdinand@gmail.com>, 2025.
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-13 09:59+0000\n"
-"Last-Translator: Stanislav Mitra <mitrastanislav@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-16 13:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.11.4\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -39,37 +28,31 @@ msgid "How many configuration parameters (roughly) are adjusted in real-time Lin
 msgstr "Koľko konfiguračných parametrov (približne) sa upravuje v linuxovom real-time jadre pre automobilový priemysel v porovnaní so štandardným SLES RT?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "~ 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "~ 500"
 
-#, fuzzy
 msgid "~ 50000"
-msgstr "50000"
+msgstr "~ 50000"
 
-#, fuzzy
 msgid "~ 500000"
-msgstr "500000"
+msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
 msgstr "Koľko záplat bolo k 11. júnu aplikované na upstreamovom jadre v 15.6 (SLES 15 SP6)?"
 
-#, fuzzy
 msgid "4231"
-msgstr "~ 4231"
+msgstr "4231"
 
-#, fuzzy
 msgid "16102"
-msgstr "~ 16102"
+msgstr "16102"
 
-#, fuzzy
 msgid "32786"
-msgstr "~ 32786"
+msgstr "32786"
 
-#, fuzzy
 msgid "346870"
-msgstr "~ 346870"
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "Aká varianta jadra sa štandardne používa v openSUSE Leap ako predvolená?"
@@ -650,9 +633,8 @@ msgstr "Predvolený webový prehliadač"
 msgid "A programming language"
 msgstr "Programovací jazyk"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon?"
-msgstr "Ako sa volá inštalátor v systéme openSUSE Aeon"
+msgstr "Ako sa volá inštalátor v openSUSE Aeon?"
 
 msgid "tik"
 msgstr "tik"
@@ -660,9 +642,8 @@ msgstr "tik"
 msgid "tak"
 msgstr "tak"
 
-#, fuzzy
 msgid "tao"
-msgstr "tak"
+msgstr "tao"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Kde sa môžete dozvedieť o projektoch od Rancher a SUSE?"
