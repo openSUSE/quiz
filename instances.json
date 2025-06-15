@@ -5,6 +5,5 @@
     "main": {},
     // all others map to <instance>.quiz.opensuse.org
     "test": {},
-    "devconf": {},
   }
 }
