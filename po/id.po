@@ -6,7 +6,7 @@
 # Arif Budiman <arifpedia@gmail.com>, 2025.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-23 09:27+0000\nLast-Translator: Saputro Aryulianto <saputroyulianto@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-24 03:54+0000\nLast-Translator: Saputro Aryulianto <saputroyulianto@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -519,7 +519,7 @@ msgid "XFS"
 msgstr "XFS"
 
 msgid "InterPlanetary File System"
-msgstr "InterPlanetary File System"
+msgstr "Sistem Berkas InterPlanetary"
 
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Apa nama penginstal baru di Leap 16?"
@@ -620,9 +620,8 @@ msgstr "Dengan menggunakan sudo-sudo untuk mendapatkan hak istimewa tingkat ting
 msgid "By using Salt or Ansible"
 msgstr "Dengan menggunakan Salt atau Ansible"
 
-#, fuzzy
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr "Anda harus mengubah berkas di bawah pengguna netrunner dan berharap semua akan lancar"
+msgstr "Anda harus mengubah berkas di bawah pengguna netrunner dan berharap semua lancar"
 
 msgid "What is 'YaST'?"
 msgstr "Apa itu 'YaST'?"
@@ -655,7 +654,7 @@ msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Di mana tempat terbaik untuk mempelajari proyek-proyek dari Rancher dan SUSE?"
 
 msgid "Rancher Academy"
-msgstr "Rancher Academy"
+msgstr "Akademi Rancher"
 
 msgid "Cow College"
 msgstr "Sekolah Sapi"
@@ -889,19 +888,19 @@ msgid "dnf repolist"
 msgstr "dnf repolist"
 
 msgid "pacman -Q"
-msgstr "pacman -Q"
+msgstr "pacman-Q"
 
 msgid "What is the primary license used by openSUSE?"
 msgstr "Lisensi utama apa yang digunakan oleh openSUSE?"
 
 msgid "GPL (GNU General Public License)"
-msgstr "GPL (GNU General Public License)"
+msgstr "Lisensi Publik Umum GNU"
 
 msgid "MIT License"
-msgstr "MIT License"
+msgstr "Lisensi MIT"
 
 msgid "Apache License"
-msgstr "Apache License"
+msgstr "Lisensi Apache"
 
 msgid "Proprietary"
 msgstr "Proprietary"
@@ -952,10 +951,10 @@ msgid "Which openSUSE tool is used for system configuration and management?"
 msgstr "Alat openSUSE mana yang digunakan untuk konfigurasi dan pengelolaan sistem?"
 
 msgid "Gnome Control Center"
-msgstr "Gnome Control Center"
+msgstr "Pusat Kontrol Gnome"
 
 msgid "KDE System Settings"
-msgstr "KDE System Settings"
+msgstr "Pengaturan Sistem KDE"
 
 msgid "Synaptic"
 msgstr "Synaptic"
@@ -1126,7 +1125,7 @@ msgid "A German word"
 msgstr "Sebuah kata dalam bahasa Jerman"
 
 msgid "Direct-access storage device"
-msgstr "Perangkat penyimpanan akses langsung"
+msgstr "Perangkat penyimpanan dengan akses langsung"
 
 msgid "Swear word repeated often by s390x administrators"
 msgstr "Kata-kata kasar yang sering diulang oleh administrator s390x"
@@ -1222,7 +1221,7 @@ msgid "Made up word to confuse laptop users"
 msgstr "Kata buatan untuk membingungkan pengguna laptop"
 
 msgid "Integrated FLat circuit"
-msgstr "Integrated FLat circuit"
+msgstr "Sirkuit Datar Terintegrasi"
 
 msgid "What is cio_ignore?"
 msgstr "Apa itu cio_ignore?"
