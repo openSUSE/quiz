@@ -4,8 +4,9 @@
 # "M. Edwin Zakaria" <medwin@opensuse.org>, 2025.
 # Bayu Aji <bajinra@gmail.com>, 2025.
 # Arif Budiman <arifpedia@gmail.com>, 2025.
+# Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-23 09:27+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-23 09:27+0000\nLast-Translator: Saputro Aryulianto <saputroyulianto@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -535,9 +536,8 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
-#, fuzzy
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Distribusi openSUSE mana yang dioptimalkan untuk menjalankan kontainer dan micro services?"
+msgstr "Distribusi openSUSE mana yang dioptimalkan untuk menjalankan kontainer dan layanan mikro?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS dan Leap Micro"
