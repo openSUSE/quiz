@@ -2,168 +2,156 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # "M. Edwin Zakaria" <medwin@opensuse.org>, 2025.
+# Bayu Aji <bajinra@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-13 09:59+0000\n"
-"Last-Translator: \"M. Edwin Zakaria\" <medwin@opensuse.org>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-23 06:50+0000\nLast-Translator: Bayu Aji <bajinra@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "Kernel Ninja"
 
 msgid "Interesting facts about kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "Fakta menarik tentang kernel di SUSE dan openSUSE"
 
 msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "Berapakah kisaran ukuran (dalam MB) dari basis (squashfs) image SUSE Automotive Linux OS?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "~ 20MB"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "~ 60MB"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "~ 240MB"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "Berapa banyak parameter konfigurasi (kisaran) yang disesuaikan dalam kernel Linux real-time untuk otomotif dibandingkan dengan SLES RT standar?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "~ 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "~ 500"
 
 msgid "~ 50000"
-msgstr ""
+msgstr "~ 50000"
 
 msgid "~ 500000"
-msgstr ""
+msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "Berapa banyak patch yang diterapkan pada kernel upstream 15.6 (SLES 15 SP6) per 11 Juni 2025?"
 
 msgid "4231"
-msgstr ""
+msgstr "4231"
 
 msgid "16102"
-msgstr ""
+msgstr "16102"
 
 msgid "32786"
-msgstr ""
+msgstr "32786"
 
 msgid "346870"
-msgstr ""
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr ""
+msgstr "Kernel jenis apa yang digunakan secara bawaan di openSUSE Leap?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr ""
+msgstr "Apa perbedaan utama antara kernel-default dan kernel-rt di openSUSE?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt mendukung perangkat keras lama"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt menonaktifkan preemption"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt telah mengaktifkan preemption real-time secara penuh"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt memiliki fitur keamanan lebih sedikit"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "Apa yang diaktifkan 'PREEMPT_RT' di kernel Linux?"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "Streaming audio real-time"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "Preemption penuh, mengurangi latensi di sections critical"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "Waktu booting lebih cepat"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "Efisiensi energi yang lebih baik"
 
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr ""
+msgstr "Apa nama alat (yang sangat) cepat untuk memperluas patch kernel?"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "Di openSUSE, biasa disimpan di manakah kernel build config di source tree?"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
-#, fuzzy
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Apa arti kata 'open' di openSUSE?"
+msgstr "Apa yang disediakan paket 'kernel-devel' di openSUSE?"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "Header kernel umum yang digunakan sebagai dasar untuk membangun modul kernel eksternal"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "Kode sumber kernel lengkap yang diperlukan untuk debugging dan membangun modul"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "Dokumentasi dan manual untuk kernel Linux"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "Gambar tersembunyi dari acara team building terbaru dari tim kernel SUSE"
 
 msgid "Which of the following is a program to load kernel modules?"
-msgstr ""
+msgstr "Manakah di antara berikut ini yang merupakan program untuk memuat modul kernel?"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "zypper"
 msgstr ""
@@ -299,13 +287,13 @@ msgid "Chameleon Fun for kids!"
 msgstr "Bunglon yang menyenangkan untuk anak-anak!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang ingin tahu!"
+msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang penuh ingin tahu!"
 
 msgid "What color can a chameleon turn into?"
 msgstr "Bunglon bisa berubah menjadi warna apa?"
 
 msgid "Only green"
-msgstr "Hanya hijau"
+msgstr "Hanya warna hijau"
 
 msgid "Any color, even purple!"
 msgstr "Warna apa pun, bahkan ungu!"
@@ -320,7 +308,7 @@ msgid "What is the mascot of openSUSE?"
 msgstr "Apa maskot openSUSE?"
 
 msgid "A penguin"
-msgstr "Pinguin"
+msgstr "Penguin"
 
 msgid "A chameleon called Geeko"
 msgstr "Bunglon bernama Geeko"
@@ -341,13 +329,13 @@ msgid "Because they are bored"
 msgstr "Karena mereka bosan"
 
 msgid "Because they are cold-blooded robots"
-msgstr "Karena bereka adalah robot berdarah dingin"
+msgstr "Karena mereka adalah robot berdarah dingin"
 
 msgid "To glow in the dark"
-msgstr "Agar menyala dalam gelap"
+msgstr "Agar bersinar dalam gelap"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr "Bunglon terutama ditemukan di bagian dunia mana?"
+msgstr "Bunglon paling banyak ditemukan di bagian dunia mana?"
 
 msgid "South America"
 msgstr "Amerika Selatan"
@@ -362,10 +350,10 @@ msgid "Antarctica"
 msgstr "Antartika"
 
 msgid "How do chameleons catch their food?"
-msgstr "Bagaimana cara bunglon menangkap makanannya?"
+msgstr "Bagaimana cara bunglon menangkap makanan mereka?"
 
 msgid "With their hands"
-msgstr "Dengan tangan"
+msgstr "Dengan tangan mereka"
 
 msgid "With their long sticky tongue"
 msgstr "Dengan lidah mereka yang panjang dan lengket"
@@ -428,16 +416,16 @@ msgid "It’s a password"
 msgstr "Kata tersebut adalah sandi"
 
 msgid "It means everyone can use it and help make it better"
-msgstr "Kata tersebut berarti semua orang bisa menggunakannya dan membantu menjadikannya lebih baik"
+msgstr "Kata tersebut berarti semua orang dapat menggunakannya dan membantu menjadikannya semakin baik"
 
 msgid "It’s only for opening doors"
 msgstr "Hanya digunakan untuk membuka pintu"
 
 msgid "It’s about opening candy wrappers"
-msgstr "Digunakan untuk membuka bungkus permen"
+msgstr "Itu maksudnya membuka bungkus permen"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr "Dapatkah bunglon menggerakkan matanya secara terpisah?"
+msgstr "Dapatkah bunglon menggerakkan kedua matanya secara terpisah?"
 
 msgid "No, they blink both eyes together"
 msgstr "Tidak, mereka mengedipkan kedua mata secara bersamaan"
@@ -491,7 +479,7 @@ msgid "What are Aeon and Kalpa?"
 msgstr "Apa itu Aeon dan Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "Desktop ‘Immutable’ modern dengan GNOME dan KDE"
+msgstr "Desktop 'Immutable' modern dengan GNOME dan KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
 msgstr "Distribusi bergulir dengan pembaruan transaksional menggunakan flatpak di desktop"
@@ -500,7 +488,7 @@ msgid "Distributions built on top of MicroOS"
 msgstr "Distribusi yang dibangun di atas MicroOS"
 
 msgid "All options are correct"
-msgstr "Semua pilihan benar"
+msgstr "Semua jawaban benar"
 
 msgid "Where was the openSUSE project founded?"
 msgstr "Di mana proyek openSUSE didirikan?"
@@ -509,7 +497,7 @@ msgid "In Choustníkovo Hradiště"
 msgstr "Di Choustníkovo Hradiště"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "Pada LinuxWorld Conference & Expo 2005 di San Francisco"
+msgstr "Saat LinuxWorld Conference & Expo 2005 di San Francisco"
 
 msgid "In Redmont"
 msgstr "Di Redmont"
@@ -547,8 +535,9 @@ msgstr "Anaconda"
 msgid "Cayman"
 msgstr "Cayman"
 
+#, fuzzy
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Distribusi openSUSE mana yang dioptimalkan untuk menjalankan kontainer dan layanan mikro?"
+msgstr "Distribusi openSUSE mana yang dioptimalkan untuk menjalankan kontainer dan micro services?"
 
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS dan Leap Micro"
@@ -563,7 +552,7 @@ msgid "Slowroll"
 msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr "Distribusi bergulir openSUSE manakah yang menawarkan alternatif yang lebih tenang untuk Tumbleweed bagi pengguna yang cenderung memilih lebih sedikit kejutan?"
+msgstr "Distribusi bergulir openSUSE manakah yang menawarkan alternatif yang lebih tenang daripada Tumbleweed bagi pengguna yang memilih lebih sedikit kejutan?"
 
 msgid "Tumblebleed"
 msgstr "Tumblebleed"
@@ -602,7 +591,7 @@ msgid "Xfce"
 msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
-msgstr "Tidak ada bawaan. Kami bebaskan pengguna untuk memilih."
+msgstr "Tidak ada bawaannya. Kami serahkan pilihannya pada pengguna."
 
 msgid "What is the name of the openSUSE build system?"
 msgstr "Apakah nama dari openSUSE build system?"
@@ -620,31 +609,32 @@ msgid "Autobuilder"
 msgstr "Autobuilder"
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr "Bagamaina anda melakukan perubahan terhadap partisi root pada sistem dengan basis transactional-update?"
+msgstr "Bagaimana cara melakukan perubahan terhadap partisi root pada sistem dengan basis transactional-update?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr "Gunakan perintah transactional-update dan reboot ke dalam sebuah snapshot baru"
+msgstr "Menggunakan perintah transactional-update dan reboot ke dalam sebuah snapshot baru"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr "Dengan menggunakan sudo-sudo untuk mendapatkan hak giga istimewa"
+msgstr "Dengan menggunakan sudo-sudo untuk mendapatkan hak istimewa tingkat tinggi"
 
 msgid "By using Salt or Ansible"
 msgstr "Dengan menggunakan Salt atau Ansible"
 
+#, fuzzy
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr "Anda harus mengubah berkas dibawah pengguna netrunner dan berharap semua akan lancar"
+msgstr "Anda harus mengubah berkas di bawah pengguna netrunner dan berharap semua akan lancar"
 
 msgid "What is 'YaST'?"
-msgstr "Apakah 'YaST'?"
+msgstr "Apa itu 'YaST'?"
 
 msgid "A chameleon species native to Africa"
 msgstr "Spesies bunglon asli Afrika"
 
 msgid "A free software for configuration of operating system"
-msgstr "Software bebas untuk mengkonfigurasi sistem operasi"
+msgstr "Perangkat lunak bebas untuk mengonfigurasi sistem operasi"
 
 msgid "The default web browser"
-msgstr "Peramban web standar bawaan"
+msgstr "Peramban web bawaan"
 
 msgid "A programming language"
 msgstr "Sebuah bahasa pemrograman"
@@ -1033,7 +1023,7 @@ msgid "Don't worry this quiz is mostly educational. No need to know all the answ
 msgstr ""
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Manakah dari manajer paket berikut ini yang biasa digunakan di openSUSE?"
+msgstr "Di antara manajer paket berikut ini, manakah yang biasa digunakan di openSUSE?"
 
 msgid "Yum"
 msgstr "Yum"
