@@ -14,6 +14,7 @@
   "dependencies": {
     "@netlify/functions": "^4.0.0",
     "@types/express": "^5.0.2",
+    "bad-words": "3.0.4",
     "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
     "express": "^4.20.0",

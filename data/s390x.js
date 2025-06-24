@@ -19,14 +19,14 @@ const questions = [
     text: _("What’s the difference between Big Endian and Little Endian?"),
     answers: [
       {
+        text: _("It’s about byte ordering; s390x being Big Endian"),
+        correct: true,
+      },
+      {
         text: _(
           "s390x are using only 31b, that’s why they’re called Little Endian",
         ),
         correct: false,
-      },
-      {
-        text: _("It’s about byte ordering; s390x being Big Endian"),
-        correct: true,
       },
       {
         text: _("It’s about byte ordering; s390x being Little Endian"),
@@ -42,12 +42,12 @@ const questions = [
     text: _("DASD is?"),
     answers: [
       { text: _("A German word"), correct: false },
-      { text: _("Direct-access storage device"), correct: true },
       {
         text: _("Swear word repeated often by s390x administrators"),
         correct: false,
       },
       { text: _("A scsi disk"), correct: false },
+      { text: _("Direct-access storage device"), correct: true },
     ],
   },
   {
@@ -73,11 +73,11 @@ const questions = [
   {
     text: _("z/VM is?"),
     answers: [
-      { text: _("Virtual Machine on Z (meaning s390x)"), correct: false },
       {
         text: _("z/VM is operating system usually used as hypervisor"),
         correct: true,
       },
+      { text: _("Virtual Machine on Z (meaning s390x)"), correct: false },
       { text: _("Remote desktop viewer"), correct: false },
       { text: _("Zombie Virtual Memory"), correct: false },
     ],
@@ -85,9 +85,9 @@ const questions = [
   {
     text: _("What does storage mean in the mainframe world?"),
     answers: [
-      { text: _("Memory (RAM)"), correct: true },
       { text: _("Data storage (disks) counted in cylinders"), correct: false },
       { text: _("A room where the mainframe is located"), correct: false },
+      { text: _("Memory (RAM)"), correct: true },
       {
         text: _("Compartment within a mainframe where the disks are located"),
         correct: false,
@@ -122,9 +122,9 @@ const questions = [
     text: _("What is IFL?"),
     answers: [
       { text: _("A filtration unit for cooling fluid"), correct: false },
-      { text: _("A core to run Linux on mainframe"), correct: true },
       { text: _("Made up word to confuse laptop users"), correct: false },
       { text: _("Integrated FLat circuit"), correct: false },
+      { text: _("A core to run Linux on mainframe"), correct: true },
     ],
   },
   {
@@ -142,10 +142,10 @@ const questions = [
   {
     text: _("What is the most used operating system on mainframes?"),
     answers: [
-      { text: _("z/OS"), correct: true },
       { text: _("Linux"), correct: false },
       { text: _("Windows"), correct: false },
       { text: _("z/VM"), correct: false },
+      { text: _("z/OS"), correct: true },
     ],
   },
   {
