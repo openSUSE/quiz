@@ -1813,7 +1813,6 @@ msgid "42.3 sessions"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of these is a community-driven openSUSE version?"
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
 msgstr "Vilken av dessa är en gemenskapsstyrd openSUSE-version?"
 
@@ -1836,7 +1835,6 @@ msgid "At Kater Murr"
 msgstr ""
 
 #, fuzzy
-#| msgid "Zyppernap"
 msgid "At ZypperHaus"
 msgstr "Zyppernap"
 
@@ -1856,7 +1854,6 @@ msgid "Geeko flavored toothpaste"
 msgstr ""
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE beer"
 msgstr "openSUSE Expert"
 
@@ -1906,7 +1903,6 @@ msgid "A spontaneous YaST karaoke contest"
 msgstr ""
 
 #, fuzzy
-#| msgid "By email to the Geeko mascot"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Via e-post till Geeko-maskoten"
 

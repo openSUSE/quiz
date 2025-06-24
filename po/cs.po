@@ -1737,7 +1737,6 @@ msgid "Are you an openSUSE Conference Historian? Prove it!"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the main openSUSE conference called?"
 msgid "In what year was the first-ever openSUSE Conference held?"
 msgstr "Jak se jmenuje hlavní openSUSE konference?"
 
@@ -1811,7 +1810,6 @@ msgid "42.3 sessions"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of these is a community-driven openSUSE version?"
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
 msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
 
@@ -1834,7 +1832,6 @@ msgid "At Kater Murr"
 msgstr ""
 
 #, fuzzy
-#| msgid "Zyppernap"
 msgid "At ZypperHaus"
 msgstr "Zyppernap"
 
@@ -1854,7 +1851,6 @@ msgid "Geeko flavored toothpaste"
 msgstr ""
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE beer"
 msgstr "openSUSE Expert"
 
@@ -1904,7 +1900,6 @@ msgid "A spontaneous YaST karaoke contest"
 msgstr ""
 
 #, fuzzy
-#| msgid "By email to the Geeko mascot"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Emailem Geeko-vi maskotu openSUSE"
 

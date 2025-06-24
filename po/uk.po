@@ -1763,7 +1763,6 @@ msgid "Are you an openSUSE Conference Historian? Prove it!"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "In what year was the first-ever openSUSE Conference held?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -1837,7 +1836,6 @@ msgid "42.3 sessions"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
 msgstr "Хто, або що, є символом проєкту openSUSE?"
 
@@ -1878,7 +1876,6 @@ msgid "Geeko flavored toothpaste"
 msgstr ""
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE beer"
 msgstr "Експерт openSUSE"
 

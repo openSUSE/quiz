@@ -1849,7 +1849,6 @@ msgid "Geeko flavored toothpaste"
 msgstr ""
 
 #, fuzzy
-#| msgid "openSUSE Expert"
 msgid "openSUSE beer"
 msgstr "openSUSE expert"
 
