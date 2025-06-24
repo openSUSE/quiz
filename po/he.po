@@ -1729,6 +1729,174 @@ msgstr ""
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr ""
 
+msgid "oSC Historian"
+msgstr ""
+
+msgid "Are you an openSUSE Conference Historian? Prove it!"
+msgstr ""
+
+msgid "In what year was the first-ever openSUSE Conference held?"
+msgstr ""
+
+msgid "2009"
+msgstr ""
+
+msgid "2012"
+msgstr ""
+
+msgid "2008"
+msgstr ""
+
+msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
+msgstr ""
+
+msgid "Leslie Hawthorn from Google"
+msgstr ""
+
+msgid "Gianugo Rabellino from the Apache Software Foundation"
+msgstr ""
+
+msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
+msgstr ""
+
+msgid "Lenz Grimmer from MySQL"
+msgstr ""
+
+msgid "Which company owned and sponsored openSUSE Conference in 2009?"
+msgstr ""
+
+msgid "Novell"
+msgstr ""
+
+msgid "Micro Focus"
+msgstr ""
+
+msgid "Attachmate"
+msgstr ""
+
+msgid "SUSE"
+msgstr ""
+
+msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
+msgstr ""
+
+msgid "Dirk-Peter van Leeuwen"
+msgstr ""
+
+msgid "Rick Spencer"
+msgstr ""
+
+msgid "Melissa Di Donato"
+msgstr ""
+
+msgid "Mark Shuttleworth"
+msgstr ""
+
+msgid "Can you guess how many sessions are scheduled for oSC 2025?"
+msgstr ""
+
+msgid "78 sessions"
+msgstr ""
+
+msgid "108 sessions"
+msgstr ""
+
+msgid "58 sessions"
+msgstr ""
+
+msgid "42.3 sessions"
+msgstr ""
+
+msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
+msgstr ""
+
+msgid "Prague, Czech Republic"
+msgstr ""
+
+msgid "The Hague, Netherlands"
+msgstr ""
+
+msgid "Paris, France"
+msgstr ""
+
+msgid "Thessaloniki, Greece"
+msgstr ""
+
+msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
+msgstr ""
+
+msgid "At Kater Murr"
+msgstr ""
+
+msgid "At ZypperHaus"
+msgstr ""
+
+msgid "In the SESU club run by SUSE interns at the local university"
+msgstr ""
+
+msgid "At the virtual /bar on meet.opensuse.org"
+msgstr ""
+
+msgid "What unusual item has appeared as official openSUSE swag?"
+msgstr ""
+
+msgid "openSUSE branded surströmming"
+msgstr ""
+
+msgid "Geeko flavored toothpaste"
+msgstr ""
+
+msgid "openSUSE beer"
+msgstr ""
+
+msgid "FIPS certified socks"
+msgstr ""
+
+msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
+msgstr ""
+
+msgid "Dirty Dancing with Geeko"
+msgstr ""
+
+msgid "Singing a Free Software song"
+msgstr ""
+
+msgid "Playing the banjo"
+msgstr ""
+
+msgid "Deep dived into open bugs wearing a swimsuit"
+msgstr ""
+
+msgid "What happened to the openSUSE Conference during 2020–2021?"
+msgstr ""
+
+msgid "It was held in orbit via SpaceX"
+msgstr ""
+
+msgid "It was virtual due to COVID-19"
+msgstr ""
+
+msgid "It merged with Novel Digital"
+msgstr ""
+
+msgid "Canceled due to lack of pizza"
+msgstr ""
+
+msgid "The openSUSE Conference Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
+msgstr ""
+
+msgid "The famous SUSE band rocked the Z-Bau"
+msgstr ""
+
+msgid "A surprise keynote by Linus Torvalds"
+msgstr ""
+
+msgid "A spontaneous YaST karaoke contest"
+msgstr ""
+
+msgid "An epic dance-off between Geeko mascots"
+msgstr ""
+
 #~ msgid "Language"
 #~ msgstr "שפה"
 

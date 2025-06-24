@@ -1,6 +1,17 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-14 11:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-14 11:59+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 msgid "Kernel Ninja"
 msgstr "カーネル忍者"
@@ -1719,6 +1730,184 @@ msgstr "終了してよろしいですか？ これまでの進捗は保存さ�
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
 
+msgid "oSC Historian"
+msgstr ""
+
+msgid "Are you an openSUSE Conference Historian? Prove it!"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the mascot of openSUSE project?"
+msgid "In what year was the first-ever openSUSE Conference held?"
+msgstr "openSUSE プロジェクトのマスコットは？"
+
+msgid "2009"
+msgstr ""
+
+msgid "2012"
+msgstr ""
+
+msgid "2008"
+msgstr ""
+
+msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
+msgstr ""
+
+msgid "Leslie Hawthorn from Google"
+msgstr ""
+
+msgid "Gianugo Rabellino from the Apache Software Foundation"
+msgstr ""
+
+msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
+msgstr ""
+
+msgid "Lenz Grimmer from MySQL"
+msgstr ""
+
+msgid "Which company owned and sponsored openSUSE Conference in 2009?"
+msgstr ""
+
+msgid "Novell"
+msgstr ""
+
+msgid "Micro Focus"
+msgstr ""
+
+msgid "Attachmate"
+msgstr ""
+
+msgid "SUSE"
+msgstr ""
+
+msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
+msgstr ""
+
+msgid "Dirk-Peter van Leeuwen"
+msgstr ""
+
+msgid "Rick Spencer"
+msgstr ""
+
+msgid "Melissa Di Donato"
+msgstr ""
+
+msgid "Mark Shuttleworth"
+msgstr ""
+
+msgid "Can you guess how many sessions are scheduled for oSC 2025?"
+msgstr ""
+
+msgid "78 sessions"
+msgstr ""
+
+msgid "108 sessions"
+msgstr ""
+
+msgid "58 sessions"
+msgstr ""
+
+msgid "42.3 sessions"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which of these is a community-driven openSUSE version?"
+msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
+msgstr "コミュニティが主導している openSUSE のバージョンはどれ？"
+
+msgid "Prague, Czech Republic"
+msgstr ""
+
+msgid "The Hague, Netherlands"
+msgstr ""
+
+msgid "Paris, France"
+msgstr ""
+
+msgid "Thessaloniki, Greece"
+msgstr ""
+
+msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
+msgstr ""
+
+msgid "At Kater Murr"
+msgstr ""
+
+#, fuzzy
+#| msgid "Zyppernap"
+msgid "At ZypperHaus"
+msgstr "Zyppernap"
+
+msgid "In the SESU club run by SUSE interns at the local university"
+msgstr ""
+
+msgid "At the virtual /bar on meet.opensuse.org"
+msgstr ""
+
+msgid "What unusual item has appeared as official openSUSE swag?"
+msgstr ""
+
+msgid "openSUSE branded surströmming"
+msgstr ""
+
+msgid "Geeko flavored toothpaste"
+msgstr ""
+
+#, fuzzy
+#| msgid "openSUSE Expert"
+msgid "openSUSE beer"
+msgstr "openSUSE エキスパート"
+
+msgid "FIPS certified socks"
+msgstr ""
+
+msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
+msgstr ""
+
+msgid "Dirty Dancing with Geeko"
+msgstr ""
+
+msgid "Singing a Free Software song"
+msgstr ""
+
+msgid "Playing the banjo"
+msgstr ""
+
+msgid "Deep dived into open bugs wearing a swimsuit"
+msgstr ""
+
+msgid "What happened to the openSUSE Conference during 2020–2021?"
+msgstr ""
+
+msgid "It was held in orbit via SpaceX"
+msgstr ""
+
+msgid "It was virtual due to COVID-19"
+msgstr ""
+
+msgid "It merged with Novel Digital"
+msgstr ""
+
+msgid "Canceled due to lack of pizza"
+msgstr ""
+
+msgid "The openSUSE Conference Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
+msgstr ""
+
+msgid "The famous SUSE band rocked the Z-Bau"
+msgstr ""
+
+msgid "A surprise keynote by Linus Torvalds"
+msgstr ""
+
+msgid "A spontaneous YaST karaoke contest"
+msgstr ""
+
+#, fuzzy
+#| msgid "By email to the Geeko mascot"
+msgid "An epic dance-off between Geeko mascots"
+msgstr "Geeko マスコットに電子メールで"
+
 #~ msgid "toe"
 #~ msgstr "toe"
 
@@ -1913,11 +2102,6 @@ msgstr "ZypperJedi のような分かりやすいニックネームか、もし�
 
 #~ msgid "lang_name_uk"
 #~ msgstr "ウクライナ語"
-
-#, fuzzy
-#~| msgid "What is the mascot of openSUSE project?"
-#~ msgid "What is the main openSUSE conference called?"
-#~ msgstr "openSUSE プロジェクトのマスコットは？"
 
 #, fuzzy
 #~| msgid "openSUSE Expert"
