@@ -1,18 +1,7 @@
 # Ferdinand Galko <galko.ferdinand@gmail.com>, 2025.
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-16 13:59+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-25 06:23+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1732,41 +1721,40 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Použite rozpoznateľnú prezývku, ako napríklad ZypperJedi, alebo najlepšie svoje skutočné meno (MenoPriezvisko)."
 
 msgid "oSC Historian"
-msgstr ""
+msgstr "Historik oSC"
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
+msgstr "Ste historikom konferencií openSUSE? Dokážte to!"
 
-#, fuzzy
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "Ako sa volá hlavná konferencia openSUSE?"
+msgstr "V ktorom roku sa konala vôbec prvá konferencia openSUSE?"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "Kto predniesol úvodnú prednášku „Práca vo virtuálnej komunite“ v roku 2009?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn z Google"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino z Apache Software Foundation"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe 'Zonker' Brockmeier, správca komunity openSUSE"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer z MySQL"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "Ktorá spoločnosť vlastnila a sponzorovala konferenciu openSUSE v roku 2009?"
 
 msgid "Novell"
 msgstr ""
@@ -1810,9 +1798,8 @@ msgstr ""
 msgid "42.3 sessions"
 msgstr ""
 
-#, fuzzy
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Ktorá z týchto je komunitou riadená verzia openSUSE?"
+msgstr "V ktorom z týchto miest sa ešte NESKUTOČILA konferencia openSUSE?"
 
 msgid "Prague, Czech Republic"
 msgstr ""
@@ -1832,9 +1819,8 @@ msgstr ""
 msgid "At Kater Murr"
 msgstr ""
 
-#, fuzzy
 msgid "At ZypperHaus"
-msgstr "Zyppernap"
+msgstr "V ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
 msgstr ""
@@ -1851,9 +1837,8 @@ msgstr ""
 msgid "Geeko flavored toothpaste"
 msgstr ""
 
-#, fuzzy
 msgid "openSUSE beer"
-msgstr "openSUSE Expert"
+msgstr "Pivo openSUSE"
 
 msgid "FIPS certified socks"
 msgstr ""
@@ -1900,9 +1885,8 @@ msgstr ""
 msgid "A spontaneous YaST karaoke contest"
 msgstr ""
 
-#, fuzzy
 msgid "An epic dance-off between Geeko mascots"
-msgstr "E-mailom maskotovi Geeko"
+msgstr "Epický tanečný súboj maskotov Geeko"
 
 #~ msgid "toe"
 #~ msgstr "toe"
