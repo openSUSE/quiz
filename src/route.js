@@ -92,7 +92,6 @@ module.exports = (dependencies) => {
 
   const Filter = require("bad-words");
   const filter = new Filter();
-    
 
   router.post("/submit", (req, res) => {
     const lang = req.body.lang || "en";
@@ -107,7 +106,11 @@ module.exports = (dependencies) => {
 
     // Profanity check on username
     if (filter.isProfane(username)) {
-      return res.status(400).send("Inappropriate username detected. Please choose a different username.");
+      return res
+        .status(400)
+        .send(
+          "Inappropriate username detected. Please choose a different username."
+        );
     }
 
     if (!results[username]) {
