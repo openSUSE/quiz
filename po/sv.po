@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-14 11:59+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-25 06:23+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
@@ -1735,176 +1723,172 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Använd ett igenkännbart smeknamn, som ZypperJedi, eller helst ditt riktiga namn (NamnEfternamn)."
 
 msgid "oSC Historian"
-msgstr ""
+msgstr "oSC historik"
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
+msgstr "Är du en openSUSE-konferenshistoriker? Bevisa det!"
 
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr ""
+msgstr "Vilket år hölls den första openSUSE-konferensen någonsin?"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "Vem höll den inledande keynoten \"Working in a virtual community\" redan 2009?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn från Google"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino från Apache Software Foundation"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe 'Zonker' Brockmeier, openSUSE gemenskapsansvarig"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer från MySQL"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "Vilket företag ägde och sponsrade openSUSE konferensen år 2009?"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "Tillbaka till nutiden. Vem höll den inledande keynoten på oSC 2024?"
 
 msgid "Dirk-Peter van Leeuwen"
-msgstr ""
+msgstr "Dirk-Peter van Leeuwen"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "Kan du gissa hur många sessioner som är planerade för oSC 2025?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 sessioner"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 sessioner"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 sessioner"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42.3 sessioner"
 
-#, fuzzy
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Vilken av dessa är en gemenskapsstyrd openSUSE-version?"
+msgstr "Vilken av dessa städer har INTE varit värd för en openSUSE-konferens ännu?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "Prag, Tjeckien"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "Haag, Nederländerna"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "Paris, Frankrike"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "Thessaloniki, Grekland"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "Var i Nürnberg brukar förfesten för openSUSE konferensen äga rum?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "På Kater Murr"
 
-#, fuzzy
 msgid "At ZypperHaus"
-msgstr "Zyppernap"
+msgstr "På ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "I SESU-klubben som drivs av SUSE-praktikanter på det lokala universitetet"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "I den virtuella baren på meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "Vilket ovanligt föremål har dykt upp som officiellt openSUSE swag?"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "openSUSE-märkt surströmming"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Geeko smaksatt tandkräm"
 
-#, fuzzy
 msgid "openSUSE beer"
-msgstr "openSUSE Expert"
+msgstr "openSUSE öl"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "FIPS-certifierade strumpor"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "Vår före detta kassör Andrew fick enorma applåder för en överraskande \"skapelse\" under sitt föredrag. Vad var det?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Dirty Dancing med Geeko"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "Sjunger en sång om fri programvara"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "Spelar banjo"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "Djupt dök i öppnar buggar iklädd baddräkt"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "Vad hände med openSUSE-konferensen under 2020–2021?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "Den hölls i omloppsbana via SpaceX"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "Den var endast virtuell på grund av COVID-19"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Den slogs samman med Novel Digital"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "Inställd på grund av brist på pizza"
 
 msgid "The openSUSE Conference Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "Fredagsfesten på openSUSE-konferensen pågick en gång jättelänge på grund av ett speciellt liveframträdande. Vad gjorde det oförglömligt?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "Det berömda SUSE-bandet rockade Z-Bau"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "En överraskande keynote av Linus Torvalds"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "En spontan YaST karaoketävling"
 
-#, fuzzy
 msgid "An epic dance-off between Geeko mascots"
-msgstr "Via e-post till Geeko-maskoten"
+msgstr "En episk danstävling mellan Geeko-maskotar"
 
 #~ msgid "toe"
 #~ msgstr "toe"
