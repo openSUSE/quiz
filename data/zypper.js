@@ -9,6 +9,7 @@ const quizData = {
   ),
   submitAnytime: false,
   randomizeQuestions: true,
+  randomizeAnswers: true,
 };
 
 const questions = [
@@ -162,6 +163,14 @@ const questions = [
 // Randomize questions here if enabled
 if (quizData.randomizeQuestions) {
   questions.sort(() => Math.random() - 0.5);
+}
+
+// Randomize answers here if enabled
+// This doesn't work particularly well with "All of above" type of answers
+if (quizData.randomizeAnswers) {
+    questions.forEach((q) => {
+        q.answers.sort(() => Math.random() - 0.5);
+    });
 }
 
 module.exports = { quizData, questions };
