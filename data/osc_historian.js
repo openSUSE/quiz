@@ -113,6 +113,15 @@ const questions = [
       { text: _("An epic dance-off between Geeko mascots"), correct: false },
     ],
   },
+  {
+    text: _("Since 2022 we do have an extra service available at oSC? What is it?"),
+    answers: [
+      { text: _("A machine for tuna flavored popcorn"), correct: false },
+      { text: _("A low wave radio station"), correct: false },
+      { text: _("An ambulance"), correct: true },
+      { text: _("Self-service beer tap"), correct: false },
+    ],
+  },
 ];
 
 // Randomize questions here if enabled
