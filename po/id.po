@@ -6,30 +6,16 @@
 # Arif Budiman <arifpedia@gmail.com>, 2025.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-24 03:54+0000\n"
-"Last-Translator: Saputro Aryulianto <saputroyulianto@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
-msgstr "Kernel Ninja"
+msgstr "Ninja Kernel"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Fakta menarik tentang kernel di SUSE dan openSUSE"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Berapakah kisaran ukuran (dalam MB) dari basis (squashfs) image SUSE Automotive Linux OS?"
+msgstr "Berapa kira-kira ukuran (MB) dari image dasar (squashfs) sistem operasi SUSE Automotive Linux?"
 
 msgid "~ 20MB"
 msgstr "~ 20MB"
@@ -43,9 +29,8 @@ msgstr "~ 240MB"
 msgid "~ 520MB"
 msgstr "~ 520MB"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "Berapa banyak parameter konfigurasi (kisaran) yang disesuaikan dalam kernel Linux real-time untuk otomotif dibandingkan dengan SLES RT standar?"
+msgstr "Berapa banyak (perkiraan) parameter konfigurasi yang disesuaikan dalam kernel Linux real-time untuk otomotif dibandingkan dengan SLES RT standar?"
 
 msgid "~ 50"
 msgstr "~ 50"
@@ -209,7 +194,6 @@ msgstr "Kernel yang dioptimalkan untuk server"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Kernel dengan dukungan SELinux yang ditingkatkan"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Parameter boot kernel mana yang biasanya membantu Anda saat melakukan debugging masalah driver video?"
 
@@ -285,9 +269,8 @@ msgstr "Keep Our Tux Dancing — Pesta Dansa Rahasia di Dalam Sistem"
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division — Ahli Kernel Tingkat Jedi"
 
-#, fuzzy
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE merupakan salah satu dari enam kontributor teratas untuk kernel Linux (FSF 2017). Berapa persentase kontribusi yang diberikan oleh SUSE?"
+msgstr "SUSE merupakan salah satu dari enam kontributor teratas untuk kernel Linux (LF 2017). Berapa persentase kontribusi yang diberikan oleh SUSE?"
 
 msgid "Less than 1%"
 msgstr "Kurang dari 1%"
@@ -301,9 +284,8 @@ msgstr "Sekitar 5%"
 msgid "More than 20%"
 msgstr "Lebih dari 20%"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Bunglon yang menyenangkan untuk anak-anak!"
+msgstr "Keseruan Chameleon untuk Anak-Anak"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang penuh ingin tahu!"
@@ -1744,176 +1726,172 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Gunakan nama panggilan yang mudah dikenali, seperti ZypperJedi, atau lebih baik lagi nama asli Anda (NamaBelakang)."
 
 msgid "oSC Historian"
-msgstr ""
+msgstr "Sejarawan oSC"
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
+msgstr "Apakah Anda seorang sejarawan Konferensi openSUSE? Buktikan!"
 
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr ""
+msgstr "Pada tahun berapa konferensi openSUSE pertama kali diadakan?"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "Siapa yang menyampaikan pidato pembuka ‘Bekerja dalam komunitas virtual’ pada tahun 2009?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn dari Google"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino dari Apache Software Foundation"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe ‘Zonker’ Brockmeier, Manajer Komunitas openSUSE"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer dari MySQL"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "Perusahaan mana yang memiliki dan mensponsori Konferensi openSUSE pada tahun 2009?"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "Kembali ke masa kini. Siapa yang menyampaikan pidato pembuka di oSC 2024?"
 
 msgid "Dirk-Peter van Leeuwen"
-msgstr ""
+msgstr "Dirk-Peter van Leeuwen"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "Bisakah Anda menebak berapa banyak sesi yang dijadwalkan untuk oSC 2025?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 sesi"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 sesi"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 sesi"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42.3 sesi"
 
-#, fuzzy
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Manakah di antara ini yang merupakan versi openSUSE yang dikembangkan oleh komunitas?"
+msgstr "Dari kota-kota berikut, mana yang BELUM pernah menjadi tuan rumah Konferensi openSUSE?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "Praha, Republik Ceko"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "Den Haag, Belanda"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "Paris, Prancis"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "Thessaloniki, Yunani"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "Di mana biasanya acara pra-konferensi openSUSE diadakan di Nuremberg?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "Di Kater Murr"
 
-#, fuzzy
 msgid "At ZypperHaus"
-msgstr "Zyppernap"
+msgstr "Di ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "Di klub SESU yang dikelola oleh mahasiswa magang SUSE di universitas setempat"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "Di bar virtual di meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "Apa barang unik yang telah muncul sebagai merchandise resmi openSUSE?"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "openSUSE bermerek surströmming"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Pasta gigi rasa Geeko"
 
-#, fuzzy
 msgid "openSUSE beer"
-msgstr "Pakar openSUSE"
+msgstr "Bir openSUSE"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "Kaus kaki bersertifikat FIPS"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "Mantan Bendahara kami, Andrew, mendapat tepuk tangan meriah atas sebuah ‘karya’ yang mengejutkan selama presentasinya. Apa itu?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Menari dengan Geeko"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "Menyanyikan lagu Perangkat Lunak Bebas"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "Memainkan banjo"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "Menyelam dalam-dalam ke dalam bug yang terbuka sambil mengenakan baju renang"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "Apa yang terjadi dengan Konferensi openSUSE selama periode 2020–2021?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "Diselenggarakan di orbit melalui SpaceX"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "Diselenggarakan secara virtual karena pandemi COVID-19"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Bergabung dengan Novel Digital"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "Dibatalkan karena kekurangan pizza"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "Pesta malam Jumat oSC 2016 pernah berlangsung sangat lama karena adanya penampilan live spesial. Apa yang membuatnya tak terlupakan?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "Band terkenal SUSE mengguncang Z-Bau"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Sesi keynote kejutan oleh Linus Torvalds"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "Kontes karaoke YaST yang spontan"
 
-#, fuzzy
 msgid "An epic dance-off between Geeko mascots"
-msgstr "Melalui email ke maskot Geeko"
+msgstr "Pertarungan dansa epik antara maskot Geeko"
 
 #~ msgid "toe"
 #~ msgstr "toe"
