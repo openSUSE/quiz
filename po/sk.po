@@ -2,18 +2,16 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr "Zaujímavé fakty o jádre SUSE a openSUSE"
+msgstr "Zaujímavé fakty o jadre v SUSE a openSUSE"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Aká je približne veľkosť veľkosti (MB) základného obrazu (squashfs) operačného systému SUSE Automotive Linux?"
+msgstr "Aká je približne veľkosť (MB) základného obrazu (squashfs) OS SUSE Automotive Linux?"
 
 msgid "~ 20MB"
 msgstr "~ 20MB"
@@ -27,7 +25,6 @@ msgstr "~ 240MB"
 msgid "~ 520MB"
 msgstr "~ 520MB"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Koľko konfiguračných parametrov (približne) sa upravuje v linuxovom real-time jadre pre automobilový priemysel v porovnaní so štandardným SLES RT?"
 
@@ -193,9 +190,8 @@ msgstr "Jadro optimalizované pre servery"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Jadro s vylepšenou podporou pre SELinux"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
-msgstr "Ktorý parameter bootovania jadra vám väčšinou pomôže pri ladení problému s ovládačom grafickej karty?"
+msgstr "Ktorý spúšťací parameter jadra vám zvyčajne pomôže pri ladení problémov s ovládačom videa?"
 
 msgid "quiet"
 msgstr "quiet"
@@ -269,9 +265,8 @@ msgstr "Keep Our Tux Dancing — tajná tanečná párty ľudí kernelu"
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division — kernel ninjovia na úrovni Jedi"
 
-#, fuzzy
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE je jedným zo 6 najväčších prispievateľov do linuxového jadra (podľa FSF 2017). Aké percento príspevkov robí SUSE?"
+msgstr "SUSE je jedným zo 6 najväčších prispievateľov do linuxového jadra (FSF 2017). Približne koľko percent príspevkov poskytuje SUSE?"
 
 msgid "Less than 1%"
 msgstr "Menej než 1%"
@@ -285,9 +280,8 @@ msgstr "Približne 5%"
 msgid "More than 20%"
 msgstr "Viac než 20%"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Zábava s chameleónom pre deti!"
+msgstr "Zábava s chameleónom pre deti"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Farebný kvíz o chameleónoch a openSUSE pre zvedavé deti!"
@@ -1764,67 +1758,67 @@ msgid "Which company owned and sponsored openSUSE Conference in 2009?"
 msgstr "Ktorá spoločnosť vlastnila a sponzorovala konferenciu openSUSE v roku 2009?"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
 msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "Späť do súčasnosti. Kto predniesol úvodnú reč na oSC 2024?"
 
 msgid "Dirk-Peter van Leeuwen"
-msgstr ""
+msgstr "Dirk-Peter van Leeuwen"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "Uhádnete, koľko prednášok je naplánovaných na oSC 2025?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 prednášok"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 prednášok"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 prednášok"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42.3 prednášok"
 
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
 msgstr "V ktorom z týchto miest sa ešte NESKUTOČILA konferencia openSUSE?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "Praha, Česká republika"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "Haag, Holandsko"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "Paríž, Francúzsko"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "Solún, Grécko"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "Kde sa zvyčajne koná predkonferenčná párty openSUSE v Norimbergu?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "V Kater Murr"
 
 msgid "At ZypperHaus"
 msgstr "V ZypperHaus"
