@@ -16,10 +16,14 @@ msgstr ""
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
-msgid "Interesting facts about kernel at SUSE and openSUSE"
+#, fuzzy
+#| msgid "Interesting facts about kernel at SUSE and openSUSE"
+msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Dades interessants sobre el nucli a SUSE i openSUSE"
 
-msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+#, fuzzy
+#| msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
+msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Quina és la mida aproximada (en MB) de la imatge de base (squashfs) del sistema operatiu SUSE Automotive Linux?"
 
 msgid "~ 20MB"
@@ -34,7 +38,9 @@ msgstr "~ 240 MB"
 msgid "~ 520MB"
 msgstr "~ 520 MB"
 
-msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+#, fuzzy
+#| msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
+msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Quants paràmetres de configuració (aproximadament) s'ajusten al nucli de Linux en temps real per a l'automoció en comparació amb l'SLES RT estàndard?"
 
 msgid "~ 50"
@@ -199,7 +205,9 @@ msgstr "Un nucli optimitzat per a servidors"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Un nucli amb suport millorat per a SELinux"
 
-msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+#, fuzzy
+#| msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
+msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Quin paràmetre d'arrencada del nucli us ajudarà normalment a depurar problemes del controlador de vídeo?"
 
 msgid "quiet"
@@ -274,7 +282,9 @@ msgstr "Mantén en Tux ballant: la festa de ball secreta del nucli"
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Divisió d'entrenament d'operadors del nucli — ninges del nucli de nivell Jedi"
 
-msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+#, fuzzy
+#| msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
+msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
 msgstr "SUSE és un dels 6 principals contribuïdors al nucli de Linux (FSF 2017). Aproximadament quin percentatge de contribucions fa SUSE?"
 
 msgid "Less than 1%"
@@ -289,7 +299,9 @@ msgstr "Al voltant d'un 5 %"
 msgid "More than 20%"
 msgstr "Més del 20 %"
 
-msgid "Chameleon Fun for kids!"
+#, fuzzy
+#| msgid "Chameleon Fun for kids!"
+msgid "Chameleon Fun for kids"
 msgstr "Diversió sobre els camaleons per a la canalla!"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
@@ -1887,7 +1899,7 @@ msgstr ""
 msgid "Canceled due to lack of pizza"
 msgstr ""
 
-msgid "The openSUSE Conference Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
+msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
 msgstr ""
 
 msgid "The famous SUSE band rocked the Z-Bau"
