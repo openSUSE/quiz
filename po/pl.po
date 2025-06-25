@@ -294,7 +294,6 @@ msgid "More than 20%"
 msgstr ""
 
 #, fuzzy
-#| msgid "Chameleon Fun for kids!"
 msgid "Chameleon Fun for kids"
 msgstr "Zabawa z kameleonem dla dzieci!"
 

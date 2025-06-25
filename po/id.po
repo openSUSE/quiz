@@ -24,12 +24,10 @@ msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
 #, fuzzy
-#| msgid "Interesting facts about kernel at SUSE and openSUSE"
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Fakta menarik tentang kernel di SUSE dan openSUSE"
 
 #, fuzzy
-#| msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Berapakah kisaran ukuran (dalam MB) dari basis (squashfs) image SUSE Automotive Linux OS?"
 
@@ -46,7 +44,6 @@ msgid "~ 520MB"
 msgstr "~ 520MB"
 
 #, fuzzy
-#| msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Berapa banyak parameter konfigurasi (kisaran) yang disesuaikan dalam kernel Linux real-time untuk otomotif dibandingkan dengan SLES RT standar?"
 
@@ -213,7 +210,6 @@ msgid "Kernel with enhanced SELinux support"
 msgstr "Kernel dengan dukungan SELinux yang ditingkatkan"
 
 #, fuzzy
-#| msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Parameter boot kernel mana yang biasanya membantu Anda saat melakukan debugging masalah driver video?"
 
@@ -290,7 +286,6 @@ msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division — Ahli Kernel Tingkat Jedi"
 
 #, fuzzy
-#| msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
 msgstr "SUSE merupakan salah satu dari enam kontributor teratas untuk kernel Linux (FSF 2017). Berapa persentase kontribusi yang diberikan oleh SUSE?"
 
@@ -307,7 +302,6 @@ msgid "More than 20%"
 msgstr "Lebih dari 20%"
 
 #, fuzzy
-#| msgid "Chameleon Fun for kids!"
 msgid "Chameleon Fun for kids"
 msgstr "Bunglon yang menyenangkan untuk anak-anak!"
 

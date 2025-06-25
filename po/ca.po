@@ -17,12 +17,10 @@ msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
 #, fuzzy
-#| msgid "Interesting facts about kernel at SUSE and openSUSE"
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Dades interessants sobre el nucli a SUSE i openSUSE"
 
 #, fuzzy
-#| msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Quina és la mida aproximada (en MB) de la imatge de base (squashfs) del sistema operatiu SUSE Automotive Linux?"
 
@@ -39,7 +37,6 @@ msgid "~ 520MB"
 msgstr "~ 520 MB"
 
 #, fuzzy
-#| msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Quants paràmetres de configuració (aproximadament) s'ajusten al nucli de Linux en temps real per a l'automoció en comparació amb l'SLES RT estàndard?"
 
@@ -206,7 +203,6 @@ msgid "Kernel with enhanced SELinux support"
 msgstr "Un nucli amb suport millorat per a SELinux"
 
 #, fuzzy
-#| msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Quin paràmetre d'arrencada del nucli us ajudarà normalment a depurar problemes del controlador de vídeo?"
 
@@ -283,7 +279,6 @@ msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Divisió d'entrenament d'operadors del nucli — ninges del nucli de nivell Jedi"
 
 #, fuzzy
-#| msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
 msgstr "SUSE és un dels 6 principals contribuïdors al nucli de Linux (FSF 2017). Aproximadament quin percentatge de contribucions fa SUSE?"
 
@@ -300,7 +295,6 @@ msgid "More than 20%"
 msgstr "Més del 20 %"
 
 #, fuzzy
-#| msgid "Chameleon Fun for kids!"
 msgid "Chameleon Fun for kids"
 msgstr "Diversió sobre els camaleons per a la canalla!"
 

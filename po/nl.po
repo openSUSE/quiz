@@ -17,12 +17,10 @@ msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
 #, fuzzy
-#| msgid "Interesting facts about kernel at SUSE and openSUSE"
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Interessante feiten over kernel in SUSE en openSUSE"
 
 #, fuzzy
-#| msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Wat is ruwweg de grootte (MB) van de basis (squashfs) image van SUSE Automobiel Linux OS?"
 
@@ -39,7 +37,6 @@ msgid "~ 520MB"
 msgstr "~ 520MB"
 
 #, fuzzy
-#| msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Hoeveel configuratieparameters (ruwweg) worden er aangepast in de real-time Linux kernel voor automobielen vergeleken met de standaard SLES RT?"
 
@@ -206,7 +203,6 @@ msgid "Kernel with enhanced SELinux support"
 msgstr "Kernel met verhoogde SELinux ondersteuning"
 
 #, fuzzy
-#| msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Welke kernel boot parameter zal typisch helpen terwijl u problemen met de videodriver analyseert?"
 
@@ -298,7 +294,6 @@ msgid "More than 20%"
 msgstr ""
 
 #, fuzzy
-#| msgid "Chameleon Fun for kids!"
 msgid "Chameleon Fun for kids"
 msgstr "Kameleonpret voor kinderen!"
 

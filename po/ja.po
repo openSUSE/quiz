@@ -17,12 +17,10 @@ msgid "Kernel Ninja"
 msgstr "カーネル忍者"
 
 #, fuzzy
-#| msgid "Interesting facts about kernel at SUSE and openSUSE"
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "SUSE や openSUSE のカーネルにおける興味深い事実"
 
 #, fuzzy
-#| msgid "What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "SUSE Automotive Linux OS のベース (squashfs) イメージのサイズ (MB) はおおよそどれくらい？"
 
@@ -39,7 +37,6 @@ msgid "~ 520MB"
 msgstr "520MB くらい"
 
 #, fuzzy
-#| msgid "How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "標準の SLES RT との比較で、 automotive 向けのリアルタイム Linux カーネルに設定されているパラメータの数はおおよそどれくらい？"
 
@@ -206,7 +203,6 @@ msgid "Kernel with enhanced SELinux support"
 msgstr "拡張 SELinux サポート付きのカーネル"
 
 #, fuzzy
-#| msgid "Which kernel boot parameter will typically help you while debuging video driver issues?"
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "ビデオドライバに問題がある場合の切り分けに有用なカーネルの起動パラメータはどれ？"
 
@@ -283,7 +279,6 @@ msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division の略で、ジェダイ級のカーネル忍者"
 
 #, fuzzy
-#| msgid "SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
 msgstr "SUSE 社は Linux カーネルの貢献者としてトップ 6 に入っています (FSF 2017) 。 SUSE の貢献数の割合はどれくらい？"
 
@@ -300,7 +295,6 @@ msgid "More than 20%"
 msgstr "20% 以上"
 
 #, fuzzy
-#| msgid "Chameleon Fun for kids!"
 msgid "Chameleon Fun for kids"
 msgstr "こども向けカメレオンクイズ！"
 
