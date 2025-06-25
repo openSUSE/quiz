@@ -1,26 +1,13 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-25 06:23+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-25 06:29+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Nindža"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr "Zajímavosti o jádře u SUSE a openSUSE"
+msgstr "Zajímavosti o jádře v SUSE a openSUSE"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Jaká je zhruba velikost (MB) základního obrazu (squashfs) operačního systému SUSE Automotive Linux?"
 
@@ -36,7 +23,6 @@ msgstr "~ 240MB"
 msgid "~ 520MB"
 msgstr "~ 520MB"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Kolik konfiguračních parametrů (zhruba) se upravuje v linuxovém real-time jádře pro automobilový průmysl ve srovnání se standardním SLES RT?"
 
@@ -202,7 +188,6 @@ msgstr "Jádro optimalizované pro servery"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Jádro s vylepšenou podporou SELinuxu"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Který parametr spouštění jádra vám obvykle pomůže při ladění problémů s ovladačem grafické karty?"
 
@@ -278,9 +263,8 @@ msgstr "Keep Our Tux Dancing — tajná taneční skupina kernelářů"
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division — HustoDémonskyKrutopřísní kerneloví ninjové"
 
-#, fuzzy
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE je jedním z 6 největších přispěvatelů linuxového jádra (dle FSF 2017). Jaké procento příspěvků SUSE tvoří?"
+msgstr "SUSE je jedním z 6 největších přispěvatelů linuxového jádra (dle LF 2017). Jaké procento příspěvků SUSE tvoří?"
 
 msgid "Less than 1%"
 msgstr "Méně než 1%"
@@ -294,9 +278,8 @@ msgstr "Asi 5%"
 msgid "More than 20%"
 msgstr "Více než 20%"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Zábava s Chameleony pro děti!"
+msgstr "Zábava s Chameleony pro děti"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Barevný kvíz o chameleonech a openSUSE pro zvídavé děti!"
@@ -1742,9 +1725,8 @@ msgstr "oSC Historik"
 msgid "Are you an openSUSE Conference Historian? Prove it!"
 msgstr "Znáš historii openSUSE konferencí? Ukaž, co víš!"
 
-#, fuzzy
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "Jak se jmenuje hlavní openSUSE konference?"
+msgstr "V jakém roce se konala úplně první openSUSE Konference?"
 
 msgid "2009"
 msgstr "2009"
@@ -1815,9 +1797,8 @@ msgstr "58 přednášek"
 msgid "42.3 sessions"
 msgstr "42.3 přednášek"
 
-#, fuzzy
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
+msgstr "Ve kterém z těchto měst se ještě NEKONALA openSUSE Konference?"
 
 msgid "Prague, Czech Republic"
 msgstr "Praha, Česká republika"
@@ -1837,9 +1818,8 @@ msgstr "Kde se obvykle koná party před začátkem openSUSE Konference v Norimb
 msgid "At Kater Murr"
 msgstr "V Kater Murr"
 
-#, fuzzy
 msgid "At ZypperHaus"
-msgstr "Zyppernap"
+msgstr "V ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
 msgstr "V místním vysokoškolsem klubu SESU, který je veden interny ze SUSE"
@@ -1856,9 +1836,8 @@ msgstr "Surströmming se značkou openSUSE"
 msgid "Geeko flavored toothpaste"
 msgstr "Zubní pasta s příchutí maskota Geeka"
 
-#, fuzzy
 msgid "openSUSE beer"
-msgstr "openSUSE Expert"
+msgstr "openSUSE pivo"
 
 msgid "FIPS certified socks"
 msgstr "FIPS certifikované ponožky"
@@ -1894,20 +1873,19 @@ msgid "Canceled due to lack of pizza"
 msgstr "Byla zrušena kvůli nedostatku pizzy"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "Páteční večírek oSC 2016 se tehdy pořádně prooooooootáhl kvůli speciálnímu živému vystoupení. Co z něj udělalo nezapomenutelný zážitek?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "Slavná SUSE kapela to pořádně rozjela v Z-Bau"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Překvapivé vystoupení Linuse Torvaldse"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "Nečekaná YaST karaoke show, jakou svět neviděl"
 
-#, fuzzy
 msgid "An epic dance-off between Geeko mascots"
-msgstr "Emailem Geeko-vi maskotu openSUSE"
+msgstr "Epický taneční souboj v oblecích maskota Geeka"
 
 #~ msgid "toe"
 #~ msgstr "toe"
