@@ -1,26 +1,13 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-14 11:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "カーネル忍者"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "SUSE や openSUSE のカーネルにおける興味深い事実"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "SUSE Automotive Linux OS のベース (squashfs) イメージのサイズ (MB) はおおよそどれくらい？"
 
@@ -36,7 +23,6 @@ msgstr "240MB くらい"
 msgid "~ 520MB"
 msgstr "520MB くらい"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "標準の SLES RT との比較で、 automotive 向けのリアルタイム Linux カーネルに設定されているパラメータの数はおおよそどれくらい？"
 
@@ -202,7 +188,6 @@ msgstr "サーバ向けに最適化されたカーネル"
 msgid "Kernel with enhanced SELinux support"
 msgstr "拡張 SELinux サポート付きのカーネル"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "ビデオドライバに問題がある場合の切り分けに有用なカーネルの起動パラメータはどれ？"
 
@@ -278,7 +263,6 @@ msgstr "Keep Our Tux Dancing の略で、秘密のカーネルダンスパーテ
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division の略で、ジェダイ級のカーネル忍者"
 
-#, fuzzy
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
 msgstr "SUSE 社は Linux カーネルの貢献者としてトップ 6 に入っています (FSF 2017) 。 SUSE の貢献数の割合はどれくらい？"
 
@@ -294,9 +278,8 @@ msgstr "5% くらい"
 msgid "More than 20%"
 msgstr "20% 以上"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "こども向けカメレオンクイズ！"
+msgstr "こども向けカメレオンクイズ"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "好奇心旺盛なこどもたち向けの、カメレオンと openSUSE に関するカラフルなクイズです！"
@@ -1737,68 +1720,67 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
 
 msgid "oSC Historian"
-msgstr ""
+msgstr "oSC 歴史学者"
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
+msgstr "openSUSE カンファレンスの歴史についてお詳しいですか？ それならお試しください！"
 
-#, fuzzy
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "openSUSE プロジェクトのマスコットは？"
+msgstr "openSUSE カンファレンスが最初に開催された年は？"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "2009 年に 'Working in a virtual community' (仮想コミュニティでの作業) というオープニングキーノートを配信したのは誰？"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn (Google)"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino (Apache Software Foundation)"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe 'Zonker' Brockmeier (openSUSE コミュニティマネージャ)"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer (MySQL)"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "2009 年時点で openSUSE プロジェクトの所有およびスポンサーを行っていた企業は？"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "現在に戻ります。 oSC 2024 のオープニングキーノートを配信したのは誰？"
 
 msgid "Dirk-Peter van Leeuwen"
-msgstr ""
+msgstr "Dirk-Peter van Leeuwen"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
 msgstr ""
@@ -1815,9 +1797,8 @@ msgstr ""
 msgid "42.3 sessions"
 msgstr ""
 
-#, fuzzy
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "コミュニティが主導している openSUSE のバージョンはどれ？"
+msgstr "openSUSE カンファレンスがまだ開催されていない都市は？"
 
 msgid "Prague, Czech Republic"
 msgstr ""
@@ -1837,9 +1818,8 @@ msgstr ""
 msgid "At Kater Murr"
 msgstr ""
 
-#, fuzzy
 msgid "At ZypperHaus"
-msgstr "Zyppernap"
+msgstr "ZypperHaus にて"
 
 msgid "In the SESU club run by SUSE interns at the local university"
 msgstr ""
@@ -1856,9 +1836,8 @@ msgstr ""
 msgid "Geeko flavored toothpaste"
 msgstr ""
 
-#, fuzzy
 msgid "openSUSE beer"
-msgstr "openSUSE エキスパート"
+msgstr "openSUSE beer"
 
 msgid "FIPS certified socks"
 msgstr ""
