@@ -3,30 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-25 06:23+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Intressanta fakta om kärnan på SUSE och openSUSE"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Vad är ungefär storleken (MB) på basavbildningen (squashfs) på SUSE Automotive Linux OS?"
+msgstr "Vad är ungefär storleken (MB) på basavbildningen (squashfs) av SUSE Automotive Linux OS?"
 
 msgid "~ 20MB"
 msgstr "~ 20MB"
@@ -40,9 +26,8 @@ msgstr "~ 240MB"
 msgid "~ 520MB"
 msgstr "~ 520MB"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "Hur många konfigurationsparametrar (ungefär) justeras i realtids-Linuxkärnan för fordonsindustrin jämfört med standard SLES RT?"
+msgstr "Hur många konfigurationsparametrar (ungefär) justeras i realtidskärnan av Linux för fordonsversionen jämfört med standard SLES RT?"
 
 msgid "~ 50"
 msgstr "~ 50"
@@ -206,9 +191,8 @@ msgstr "Kärna optimerad för servrar"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Kärna med förbättrat SELinux-stöd"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
-msgstr "Vilken kärnuppstartsparameter hjälper dig vanligtvis vid felsökning av problem med grafikdrivrutiner?"
+msgstr "Vilken kärnuppstarts parametrar hjälper dig vanligtvis vid felsökning av problem med grafikdrivrutiner?"
 
 msgid "quiet"
 msgstr "quiet"
@@ -282,9 +266,8 @@ msgstr "Keep Our Tux Dancing — den hemliga kärndansfesten"
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division — kärnninjor på Jedi-nivå"
 
-#, fuzzy
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE är en av de 6 främsta bidragsgivarna till Linuxkärnan (FSF 2017). Ungefär hur stor andel av bidragen står SUSE för?"
+msgstr "SUSE är en av de 6 främsta bidragsgivarna till Linuxkärnan (LF 2017). Ungefär hur stor andel av bidragen står SUSE för?"
 
 msgid "Less than 1%"
 msgstr "Mindre än 1 %"
@@ -298,9 +281,8 @@ msgstr "Omkring 5%"
 msgid "More than 20%"
 msgstr "Mer än 20 %"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Kameleontkul för barn!"
+msgstr "Kameleontkul för barn"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Ett färgglatt quiz om kameleonter och openSUSE för nyfikna barn!"
@@ -1893,9 +1875,8 @@ msgstr "Den slogs samman med Novel Digital"
 msgid "Canceled due to lack of pizza"
 msgstr "Inställd på grund av brist på pizza"
 
-#, fuzzy
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr "Fredagsfesten på openSUSE-konferensen pågick en gång jättelänge på grund av ett speciellt liveframträdande. Vad gjorde det oförglömligt?"
+msgstr "Fredagsfesten på oSC 2016 höll en gång på lååååååångt på grund av en speciell liveakt. Vad gjorde den oförglömlig?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
 msgstr "Det berömda SUSE-bandet rockade Z-Bau"
