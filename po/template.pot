@@ -2028,7 +2028,7 @@ msgstr ""
 msgid "Why is 'transactional-update shell' generally not recommended?"
 msgstr ""
 
-msgid "While it can be helpful, this command should ideally never be used. It can be dangerous and brick the system."
+msgid "Because you can modify all parts of the system."
 msgstr ""
 
 msgid "It creates wormholes into another dimension."

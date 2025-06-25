@@ -137,7 +137,7 @@ const questions = [
   {
     text: _("Why is 'transactional-update shell' generally not recommended?"),
     answers: [
-      { text: _("While it can be helpful, this command should ideally never be used. It can be dangerous and brick the system."), correct: true },
+      { text: _("Because you can modify all parts of the system."), correct: true },
       { text: _("It creates wormholes into another dimension."), correct: false },
       { text: _("It can secretly migrate your system to Fedora."), correct: false },
       { text: _("Geeko loses a hair every time you use it."), correct: false },
@@ -146,8 +146,8 @@ const questions = [
   {
     text: _("How do our Immutable distros allow writing to /etc at runtime?"),
     answers: [
-      { text: _("By using overlayfs on top of /etc"), correct: true },
-      { text: _("By mounting a writable Btrfs subvolume directly"), correct: false },
+      { text: _("By using overlayfs on top of /etc"), correct: false },
+      { text: _("By mounting a writable Btrfs subvolume directly"), correct: true },
       { text: _("By disabling read-only mode during boot"), correct: false },
       { text: _("Through rpm-ostree layering"), correct: false },
     ],
