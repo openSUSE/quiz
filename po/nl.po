@@ -1,17 +1,6 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-14 11:59+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -653,7 +642,7 @@ msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Wat is het standaard bestandssysteem in openSUSE?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
 msgid "tak"
 msgstr ""
@@ -713,10 +702,10 @@ msgid "isopensusedown.com"
 msgstr ""
 
 msgid "yast-status-viewer"
-msgstr ""
+msgstr "yast-status-viewer"
 
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr ""
@@ -725,13 +714,13 @@ msgid "Gandalf"
 msgstr ""
 
 msgid "Zypperella"
-msgstr ""
+msgstr "Zypperella"
 
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
 msgstr ""
@@ -764,7 +753,7 @@ msgid "What command would you use to update software packages on openSUSE from t
 msgstr ""
 
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 msgid "apt-get update"
 msgstr ""
@@ -875,7 +864,7 @@ msgid "Which tool is recommended for managing software repositories and packages
 msgstr ""
 
 msgid "yum"
-msgstr ""
+msgstr "yum"
 
 msgid "apt"
 msgstr ""
@@ -941,7 +930,7 @@ msgid "YaST"
 msgstr ""
 
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
 msgstr ""
@@ -1022,7 +1011,7 @@ msgid "Leap Micro"
 msgstr ""
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 msgid "openSUSE Greenhorn"
 msgstr ""
@@ -1136,7 +1125,7 @@ msgid "A German word"
 msgstr ""
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Direct-access opslagapparaat"
 
 msgid "Swear word repeated often by s390x administrators"
 msgstr ""
@@ -1172,7 +1161,7 @@ msgid "Remote desktop viewer"
 msgstr ""
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombie virtueel geheugen"
 
 msgid "What does storage mean in the mainframe world?"
 msgstr ""
@@ -1232,7 +1221,7 @@ msgid "Made up word to confuse laptop users"
 msgstr ""
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Geïntegreerd FLat circuit"
 
 msgid "What is cio_ignore?"
 msgstr ""
@@ -1292,7 +1281,7 @@ msgid "Network"
 msgstr ""
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "The Ultimate YaST Challenge"
 msgstr ""
