@@ -1,28 +1,15 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-14 11:59+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr "Dades interessants sobre el nucli a SUSE i openSUSE"
+msgstr "Dades interessants sobre el nucli de SUSE i openSUSE"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Quina és la mida aproximada (en MB) de la imatge de base (squashfs) del sistema operatiu SUSE Automotive Linux?"
+msgstr "Quina és aproximadament la mida (en MB) de la imatge de base (squashfs) del sistema operatiu SUSE Automotive Linux?"
 
 msgid "~ 20MB"
 msgstr "~ 20 MB"
@@ -36,7 +23,6 @@ msgstr "~ 240 MB"
 msgid "~ 520MB"
 msgstr "~ 520 MB"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Quants paràmetres de configuració (aproximadament) s'ajusten al nucli de Linux en temps real per a l'automoció en comparació amb l'SLES RT estàndard?"
 
@@ -202,7 +188,6 @@ msgstr "Un nucli optimitzat per a servidors"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Un nucli amb suport millorat per a SELinux"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Quin paràmetre d'arrencada del nucli us ajudarà normalment a depurar problemes del controlador de vídeo?"
 
@@ -278,9 +263,8 @@ msgstr "Mantén en Tux ballant: la festa de ball secreta del nucli"
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Divisió d'entrenament d'operadors del nucli — ninges del nucli de nivell Jedi"
 
-#, fuzzy
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr "SUSE és un dels 6 principals contribuïdors al nucli de Linux (FSF 2017). Aproximadament quin percentatge de contribucions fa SUSE?"
+msgstr "SUSE és un dels 6 principals contribuïdors al nucli de Linux (LF 2017). Aproximadament quin percentatge de contribucions fa SUSE?"
 
 msgid "Less than 1%"
 msgstr "Menys de l'1 %"
@@ -294,9 +278,8 @@ msgstr "Al voltant d'un 5 %"
 msgid "More than 20%"
 msgstr "Més del 20 %"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Diversió sobre els camaleons per a la canalla!"
+msgstr "Diversió sobre els camaleons per a la canalla"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Un qüestionari ple de color sobre camaleons i openSUSE per a nens curiosos!"
@@ -1737,177 +1720,172 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
 msgid "oSC Historian"
-msgstr ""
+msgstr "Historiador d'oSC"
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
+msgstr "Ets un historiador de conferències d'openSUSE? Demostra-ho!"
 
-#, fuzzy
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "Quina és la mascota del projecte openSUSE?"
+msgstr "Quin any es va celebrar la primera conferència d'openSUSE?"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "Qui va pronunciar la conferència inaugural \"Treballar en una comunitat virtual\" l'any 2009?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn de Google"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino de la Fundació de Programari Apache"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe 'Zonker' Brockmeier, gestor de la comunitat d'openSUSE"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer de MySQL"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "Quina empresa va ser propietària i patrocinadora de la conferència d'openSUSE el 2009?"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "Tornem al present. Qui va pronunciar la conferència inaugural de l'oSC 2024?"
 
 msgid "Dirk-Peter van Leeuwen"
-msgstr ""
+msgstr "Dirk-Peter van Leeuwen"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "Podeu endevinar quantes sessions hi ha programades per a l'oSC 2025?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 sessions"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 sessions"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 sessions"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42.3 sessions"
 
-#, fuzzy
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Quina d'aquestes és una versió d'openSUSE impulsada per la comunitat?"
+msgstr "Quina d'aquestes ciutats NO ha acollit encara una conferència d'openSUSE?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "Praga, República Txeca"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "La Haia, Països Baixos"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "París, França"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "Tessalònica, Grècia"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "On sol tenir lloc la festa prèvia a la Conferència d'openSUSE a Nuremberg?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "A Kater Murr"
 
-#, fuzzy
 msgid "At ZypperHaus"
-msgstr "Zyppernap"
+msgstr "A la ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "Al club SESU, dirigit per estudiants en pràctiques de SUSE a la universitat local"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "Al bar virtual /bar de meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "Quin article inusual ha aparegut com a obsequi oficial d'openSUSE?"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "Surströmming, de la marca openSUSE"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Pasta de dents amb gust del Geeko"
 
-#, fuzzy
 msgid "openSUSE beer"
-msgstr "Expert d'openSUSE"
+msgstr "cervesa openSUSE"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "Mitjons certificats de FIPS"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "El nostre extresorer Andrew va rebre un enorme aplaudiment per una \"creació\" sorprenent durant la seva xerrada. De què es tractava?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Dirty Dancing amb el Geeko"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "Cantar una cançó de programari lliure"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "Tocar el banjo"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "Submergir-se en insectes oberts amb banyador"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "Què va passar amb la Conferència d'openSUSE durant el 2020–2021?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "Es va fer en òrbita a través de SpaceX"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "Va ser virtual a causa de la COVID-19"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Es va fusionar amb Novel Digital"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "Es va cancel·lar per manca de pizza"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "La festa del divendres a la nit de l'oSC 2016 va ser mooolt llarga gràcies a un concert especial. Què la va fer inoblidable?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "La famosa banda SUSE va fer vibrar el Z-Bau"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Una conferència sorpresa de Linus Torvalds"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "Un concurs de karaoke espontani de YaST"
 
-#, fuzzy
 msgid "An epic dance-off between Geeko mascots"
-msgstr "Per correu electrònic a la mascota Geeko"
+msgstr "Un ball èpic amb les mascotes Geeko"
 
 #~ msgid "toe"
 #~ msgstr "toe"
