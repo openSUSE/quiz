@@ -104,7 +104,7 @@ const questions = [
     ],
   },
   {
-    text: _("The openSUSE Conference Friday night party once went loooooooong because of a special live act. What made it unforgettable?"),
+    text: _("The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"),
     answers: [
       { text: _("The famous SUSE band rocked the Z-Bau"), correct: true },
       { text: _("A surprise keynote by Linus Torvalds"), correct: false },

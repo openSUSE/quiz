@@ -7,7 +7,7 @@ function _(str) {
 const quizData = {
   title: _("Kernel Ninja"),
   subtitle: _(
-    "Interesting facts about kernel at SUSE and openSUSE",
+    "Interesting facts about the kernel at SUSE and openSUSE",
   ),
   submitAnytime: false,
   randomizeQuestions: true,
@@ -15,7 +15,7 @@ const quizData = {
 
 const questions = [
   {
-    text: _("What is the roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"),
+    text: _("What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"),
     answers: [
       { text: _("~ 20MB"), correct: false },
       { text: _("~ 60MB"), correct: true },
@@ -24,7 +24,7 @@ const questions = [
     ],
   },
   {
-    text: _("How many configuration parameters (roughly) are adjusted in real-time Linux kernel for automotive compared to standard SLES RT?"),
+    text: _("How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"),
     answers: [
       { text: _("~ 50"), correct: false },
       { text: _("~ 500"), correct: false },
@@ -123,7 +123,7 @@ const questions = [
     ],
   },
   {
-    text: _("Which kernel boot parameter will typically help you while debuging video driver issues?"),
+    text: _("Which kernel boot parameter will typically help you while debugging video driver issues?"),
     answers: [
       { text: _("quiet"), correct: false },
       { text: _("nomodeset"), correct: true },
@@ -168,7 +168,7 @@ const questions = [
     ],
   },
   {
-    text: _("SUSE is a top 6 Linux kernel contributor (FSF 2017). About what percent of contributions does SUSE make?"),
+    text: _("SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"),
     answers: [
       { text: _("Less than 1%"), correct: false },
       { text: _("Around 3%"), correct: true },

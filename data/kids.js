@@ -5,7 +5,7 @@ function _(str) {
 }
 
 const quizData = {
-  title: _("Chameleon Fun for kids!"),
+  title: _("Chameleon Fun for kids"),
   subtitle: _(
     "A colorful quiz about chameleons and openSUSE for curious kids!",
   ),
