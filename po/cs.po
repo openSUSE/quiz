@@ -1,17 +1,6 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-25 06:29+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:50+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Nindža"
@@ -1899,39 +1888,39 @@ msgid "An epic dance-off between Geeko mascots"
 msgstr "Epický taneční souboj v oblecích maskota Geeka"
 
 msgid "Immutability"
-msgstr ""
+msgstr "Immutability"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "Pojďme se naučit něco o našich Immutable (neměnných) distribucích."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "Jednoduše řečeno, jakým způsobem funguje 'transactional-update', který je za základem pro naše Immutable distribuce?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "Většina systémových oddílů je připojena pouze pro čtení, tak aby se předešlo změnám na disku."
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "Aktualizace neovlivní běžící systém, dokud jej nerestartujete do nového snapshotu."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "Systém používá transactional-update pro bezpečné, atomické aktualizace a jednoduchou obnovu."
 
 #, fuzzy
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
 #, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS a Leap Micro"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
 #, fuzzy
 msgid "What is openSUSE MicroOS?"
@@ -1942,76 +1931,76 @@ msgid "A rolling-release web browser"
 msgstr "Rolling distribuci"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "Operační systém pro běh Micro službeb sestavený openSUSE komunitou."
 
 msgid "A package manager"
-msgstr ""
+msgstr "Manažer balíčků"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "Běhové prostředí kontejnerů"
 
 #, fuzzy
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #, fuzzy
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "Obě distribuce jsou založené na MicroOS s ready-to-use desktopovým prostředím."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "Obě distribuce používají transactional-update pro instalaci rpm balíčků."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "Obě distribuce propagují distrobox a flatpaky pro instalaci dodatečných aplikací."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "Aeon i Kalpa používají zajímavé jména nepřímo odkazující na rolling distribuci. Víte jak?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "Obojí jsou termíny odkazující se na dlouhé periody nebo kosmické cykly."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "Obě jsou jména známách Westernových filmů, kde se objvil kutálející se laskavec (tumbleweed)."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "Obojí jsou staré přezdívky původního architekta, který stojí za MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "Obojí odkazují na nástroje pro aktualizaci software v openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "V roce 2023 proběhl experiment s immutable desktopem založeným na desktopovém prostředí Sway. Znáte jeho název?"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "Který nástroj se používá k aktualizaci základního systému v našich immutable distribucích?"
 
 #, fuzzy
 msgid "zypper dup"
 msgstr "zypper -p"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
 #, fuzzy
 msgid "How can you install an additional package?"
@@ -2026,73 +2015,73 @@ msgid "dnf install"
 msgstr "Instalátor"
 
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "Proč není obecně doporučováno používat napřímo 'transactional-update shell'?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "Protože můžete modifikovat všechny části systému."
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "Vytváří červí díry do jiné dimenze."
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "Může potaji zmigrovat váš systém na Fedoru."
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "Geeko ztratí jeden vlast pokaždé když příkaz použijete."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "Jak naše Immutable distribuce umožňují zápis do /etc za běhu?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "Použitím overlayfs nad /etc"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "Přímým připojením zapisovatelného btrfs subvolume"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "Zakázáním režimu pro čtení během bootu"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "Skrze vrstvení rpm-ostree"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "Jaké jiné komponenty, mimo mechanismust aktualizací v našich immutable distribucích, PODPORUJÍ transactional-update?"
 
 #, fuzzy
 msgid "Salt and Ansible"
 msgstr "Použitím Salt nebo Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "Pouze jedna z následucjících distribucí má běžné releasy, zbytek distribucí je rolling. Víte která?"
 
 #, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Která varianta jádra se standartně používá v openSUSE Leap?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
 #, fuzzy
 msgid "systemd-boot"
 msgstr "systemctl"
 
 msgid "Since 2022 we do have an extra service available at oSC? What is it"
-msgstr ""
+msgstr "Od roku 2022 máme extra službu na každé oSC. Víte o jakou se jedná?"
 
 msgid "A machine for a tuna flavored popcorn"
 msgstr ""
