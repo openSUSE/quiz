@@ -3,7 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 04:50+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-26 04:50+0000\n"
+"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
@@ -2084,6 +2096,9 @@ msgstr "En ambulans"
 
 msgid "Self-service beer tap"
 msgstr "Självbetjäningsölkran"
+
+msgid "Richard Stallman"
+msgstr ""
 
 #~ msgid "toe"
 #~ msgstr "toe"

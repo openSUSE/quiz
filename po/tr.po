@@ -2158,6 +2158,9 @@ msgstr ""
 msgid "Self-service beer tap"
 msgstr ""
 
+msgid "Richard Stallman"
+msgstr ""
+
 #~ msgid "Which command line tool is used to manage repositories in openSUSE?"
 #~ msgstr "openSUSE'de depoları yönetmek için hangi komut satırı aracı kullanılır?"
 

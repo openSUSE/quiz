@@ -2108,6 +2108,9 @@ msgstr ""
 msgid "Self-service beer tap"
 msgstr ""
 
+msgid "Richard Stallman"
+msgstr ""
+
 #~ msgid "toe"
 #~ msgstr "toe"
 

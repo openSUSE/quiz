@@ -2125,6 +2125,9 @@ msgstr ""
 msgid "Self-service beer tap"
 msgstr ""
 
+msgid "Richard Stallman"
+msgstr ""
+
 #~ msgid "lang_name_tr"
 #~ msgstr "Турецька"
 

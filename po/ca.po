@@ -1,6 +1,17 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 07:36+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-26 07:36+0000\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
+"Language: ca\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -2081,6 +2092,9 @@ msgstr "Una ambulància"
 
 msgid "Self-service beer tap"
 msgstr "Una aixeta de cervesa d'autoservei"
+
+msgid "Richard Stallman"
+msgstr ""
 
 #~ msgid "toe"
 #~ msgstr "toe"

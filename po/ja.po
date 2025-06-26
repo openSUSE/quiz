@@ -1,6 +1,17 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 07:36+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-26 07:36+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "カーネル忍者"
@@ -2081,6 +2092,9 @@ msgstr "救急車"
 
 msgid "Self-service beer tap"
 msgstr "セルフサービスのビールタップ"
+
+msgid "Richard Stallman"
+msgstr ""
 
 #~ msgid "toe"
 #~ msgstr "toe"
