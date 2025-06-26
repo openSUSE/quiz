@@ -1,6 +1,6 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 08:39+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:50+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -276,9 +276,8 @@ msgid "About 5%"
 msgstr ""
 
 msgid "More than 20%"
-msgstr ""
+msgstr "Meer dan 20%"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
 msgstr "Kameleonpret voor kinderen!"
 
@@ -532,110 +531,109 @@ msgid "Cayman"
 msgstr "Cayman"
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr ""
+msgstr "Welke openSUSE distributie is geoptimaliseerd voor het uitvoeren van containers en micro-services?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS en Leap Micro"
 
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
+msgstr "Welke openSUSE rollende distributie biedt een kalmer alternatief dan Tumbleweed voor gebruikers die minder verrassingen willen?"
 
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Wat is Leap 16.0?"
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr ""
+msgstr "Een traditionele Linux distributie, de opvolger van Leap 15.6, uit te geven in de herfst van 2025"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "Een onveranderlijke distributie met GNOME en KDE"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "Een rollende uitgave voor mobiele apparaten"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "Een op container gericht systeem zoals MicroOS"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "Welk bureaublad-omgeving is de standaard voor openSUSE Leap 15?"
 
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "Er is geen standaard. We laten de keuze aan de gebruiker."
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "Wat is de naam van het openSUSE bouwsysteem?"
 
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr ""
+msgstr "Hoe kunt u wijzigingen aanbrengen aan de root-partitie op een op transactioneel bijwerken gebaseerd systeem?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "Gebruik het commando voor transactioneel bijwerken en start in een nieuwe momentopname"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "Door sudo-sudo te gebruiken om giga-privileges te verkrijgen"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Door Salt of Ansible te gebruiken"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "U moet bestanden bewerken onder een gebruiker netrunner en afwachten"
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "Wat is 'YaST'?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "Een kameleonsoort inheems in Afrika"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "Vrije software voor configuratie van een besturingssystem"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "De standaard webbrowser"
 
 msgid "A programming language"
-msgstr ""
+msgstr "Een programmeertaal"
 
-#, fuzzy
 msgid "What is the name of installer in openSUSE Aeon?"
-msgstr "Wat is het standaard bestandssysteem in openSUSE?"
+msgstr ""
 
 msgid "tik"
 msgstr "tik"
