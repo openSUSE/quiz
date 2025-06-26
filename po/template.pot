@@ -2082,7 +2082,7 @@ msgstr ""
 msgid "systemd-boot"
 msgstr ""
 
-msgid "Since 2022 we do have an extra service available at oSC? What is it"
+msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr ""
 
 msgid "A machine for a tuna flavored popcorn"
