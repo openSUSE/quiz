@@ -1,26 +1,13 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 00:21+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 08:39+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
-#, fuzzy
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Interessante feiten over kernel in SUSE en openSUSE"
 
-#, fuzzy
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Wat is ruwweg de grootte (MB) van de basis (squashfs) image van SUSE Automobiel Linux OS?"
 
@@ -36,7 +23,6 @@ msgstr "~ 240MB"
 msgid "~ 520MB"
 msgstr "~ 520MB"
 
-#, fuzzy
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Hoeveel configuratieparameters (ruwweg) worden er aangepast in de real-time Linux kernel voor automobielen vergeleken met de standaard SLES RT?"
 
@@ -202,7 +188,6 @@ msgstr "Kernel geoptimaliseerd voor servers"
 msgid "Kernel with enhanced SELinux support"
 msgstr "Kernel met verhoogde SELinux ondersteuning"
 
-#, fuzzy
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Welke kernel boot parameter zal typisch helpen terwijl u problemen met de videodriver analyseert?"
 
