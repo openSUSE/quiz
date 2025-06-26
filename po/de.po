@@ -3,7 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:58+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 15:14+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -27,34 +27,34 @@ msgid "~ 520MB"
 msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "Wie viele Konfigurationsparameter (ungefähr) werden im real-time Linux Kernel für die Automobilindustrie geändert im Vergleich mit dem normalen SLES RT?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "~ 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "~ 500"
 
 msgid "~ 50000"
-msgstr ""
+msgstr "~ 50000"
 
 msgid "~ 500000"
-msgstr ""
+msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "Wie viele Patches werden auf dem Upstream Kernel 15.6 (SLES 15 SP6) zum zeitpunkt 11. Juni 2025 angewendet?"
 
 msgid "4231"
-msgstr ""
+msgstr "4231"
 
 msgid "16102"
-msgstr ""
+msgstr "16102"
 
 msgid "32786"
-msgstr ""
+msgstr "32786"
 
 msgid "346870"
-msgstr ""
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "Welche Art Kernel ist Standard unter auf openSUSE Leap?"
@@ -209,79 +209,79 @@ msgid "noacpi"
 msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
+msgstr "Welche real-time scheduling Regel ist am deterministischsten in Linux?"
 
 msgid "SCHED_OTHER"
-msgstr ""
+msgstr "SCHED_OTHER"
 
 msgid "SCHED_FIFO"
-msgstr ""
+msgstr "SCHED_FIFO"
 
 msgid "SCHED_BATCH"
-msgstr ""
+msgstr "SCHED_BATCH"
 
 msgid "SCHED_IDLE"
-msgstr ""
+msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
+msgstr "Was ist der Name des Pakets das zusätzliche Firmware in openSUSE Leap bereitstellt?"
 
 msgid "kernel-firmware-extra"
-msgstr ""
+msgstr "kernel-firmware-extra"
 
 msgid "firmware-addon-leap"
-msgstr ""
+msgstr "firmware-addon-leap"
 
 msgid "kernel-default-extra"
-msgstr ""
+msgstr "kernel-default-extra"
 
 msgid "suse-firmware-pack"
-msgstr ""
+msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
+msgstr "Wie kann man AppArmor in der GRUB Kernel Kommandozeile auf openSUSE anschalten?"
 
 msgid "apparmor=1"
-msgstr ""
+msgstr "apparmor=1"
 
 msgid "security=apparmor"
-msgstr ""
+msgstr "security=apparmor"
 
 msgid "enable=apparmor"
-msgstr ""
+msgstr "enable=apparmor"
 
 msgid "selinux=off apparmor=on"
-msgstr ""
+msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "In der openSUSE Kernel-Welt, wofür steht 'KOTD'?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "Kernel Of The Day — ein täglich gebauter Kernel in OBS Kernel:xxx Projekten"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Knights Of The Old Repositories — die legendären Kernel-Verteidiger"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Keep Our Tux Dancing — eine geheime Kernel Tanzveranstaltung"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Kernel Operators Training Division — Jedi-Level Kernel Ninjas"
 
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE ist ein Top 6 Kernel Mitwirkender (LF 2017). Wie viel Prozent der Beiträge kommen ungefähr von SUSE?"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "Weniger als 1%"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "Ungefähr 3%"
 
 msgid "About 5%"
 msgstr "Ungefähr 5%"
 
 msgid "More than 20%"
-msgstr ""
+msgstr "Mehr als 20%"
 
 #, fuzzy
 msgid "Chameleon Fun for kids"
@@ -1656,7 +1656,6 @@ msgstr "Ein Symlink auf zypper, um Tippfehler bei Tastaturen mit ausgetauschten 
 msgid "The project name of next gen zypper"
 msgstr "Der Projektname der nächsten Generation von zypper"
 
-#, fuzzy
 msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Diese Frage ist schwierig! Jeder kennt 'zypper rm --clean-deps', aber was passiert wenn man 'zypper rm --clean-deps rm' ausführt?"
 
@@ -1839,97 +1838,97 @@ msgid "At the virtual /bar on meet.opensuse.org"
 msgstr "In der virtuellen /bar auf meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "Welches ungewöhnliche Objekt gab es als offiziellen openSUSE Swag?"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "openSUSE Surströmming"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Zahnpasta mit Geeko-Geschmack"
 
 msgid "openSUSE beer"
 msgstr "openSUSE-Bier"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "FIPS-zertifizierte Socken"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "Unser Ex-Buchhalter Andrew erhielt einen riesigen Applaus für eine überraschende 'Schaffung' während seines Vortrags. Was war es?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Dirty Dancing mit dem Geeko"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "Das Free Software-Lied zu singen"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "Banjo spielen"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "Eintauchen in offene Bugs in einem Badeanzug"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "Was passierte mit der openSUSE Konferenz in 2020-2021?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "Sie wurde im Weltraum mit SpaceX abgehalten"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "Sie fand virtuell statt wegen COVID-19"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Sie wurde zusammen mit Novel Digital abgehalten"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "Sie wurde wegen einem Mangel an Pizza abgesagt"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "Die oSC 2016 Freitags-Party ging sehr laaaaaaaang dank eines besonderen Live-Events. Was machte sie unvergesslich?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "Die berühmte SUSE Band rockte im Z-Bau"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Die überraschende Keynote von Linus Torvalds"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "Ein spontaner YaST Karaoke Wettbewerb"
 
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Ein episches Tanzduell zwischen Geeko Maskottchen"
 
 msgid "Immutability"
-msgstr ""
+msgstr "Immutability"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "Lass uns etwas über unsere 'Immutable' Distributionen lernen."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "In einfachen Worten, wie funktioniert 'transactional-update' welches unsere immutable Distros antreibt?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "Die meisten Systempartitionen sind read-only gemounted, was Änderungen auf der Festplatte verhindert."
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "Update verändern nicht das laufende System bis man in einen neuen Snapshot bootet."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "Das System verwendet transactional-update für sichere, atomare Upgrades und einfache Rollbacks."
 
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Welche der Antworten sind openSUSE immutable Distributionen?"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS, Leap Micro, Aeon und Kalpa"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
 msgid "What is openSUSE MicroOS?"
 msgstr "Was ist openSUSE MicroOS?"
@@ -1938,73 +1937,74 @@ msgid "A rolling-release web browser"
 msgstr "Ein rolling-release Webbrowser"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "Mikroservice OS das von der openSUSE Community gebaut wird"
 
 msgid "A package manager"
-msgstr ""
+msgstr "Ein Paketmanager"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "Eine Container-Runtime"
 
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Welche Desktop-Umgebung ist Standard auf openSUSE Aeon?"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Welche Desktop-Umgebung ist Standard auf openSUSE Kalpa?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "Beide basieren auf MicroOS mit einem ready-to-use Desktop."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "Beide verwenden transactional-updates zum Installieren von RPMs."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "Beide bewerben distrobox und flatpaks für zuätzliche Apps."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "Aeon und Kalpa haben beide interessante Namen die indirekt auf rolling-release hinweisen. Wie?"
 
+#, fuzzy
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "Beide sind antike Begriffe die lange Perioden in kosmischen Zyklen bedeuten."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "Beide sind Namen von berühmten Western wo ein rollender Steppenläufer auftaucht."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "Beides sind alte Spitznamen des ursprünglichen Architekten hinter MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "Beide beziehen sich auf Softwareupdate-Tools auf openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "Es gab 2023 einen experimentellen Sway-basierten immutable Desktop. Wie lautet dessen Name?"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "Welches Tool wird verwendet um sicher das Basissystem unserer immutable Distributionen zu updaten?"
 
 msgid "zypper dup"
 msgstr "zypper dup"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
 msgid "How can you install an additional package?"
 msgstr "Wie kann man ein zusätzliches Paket installieren?"
@@ -2016,85 +2016,85 @@ msgid "dnf install"
 msgstr "dnf install"
 
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "Warum wird 'transactional-update shell' normalerweise nicht empfohlen?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "Weil man damit alle Teile des Systems ändern kann."
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "Es erzeugt Wurmlöcher in eine andere Dimension."
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "Es migriert dein System heimlich zu Fedora."
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "Geeko verliert bei jeder Benutzung Haare."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "Wie erlauben unsere immutable Distros es /etc zur Laufzeit zu schreiben?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "Indem ein overlayfs über /etc verwendet wird"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "Indem direkt ein schreibbares Btrfs Subvolume gemounted wird"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "Indem der read-only Modus beim boot ausgeschaltet wird"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "Über rpm-ostree Schichten"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "Neben dem Update-Mechanismus in immutable Distros, welche anderen Komponenten UNTERSTÜTZEN transactional-updates?"
 
 msgid "Salt and Ansible"
 msgstr "Salt und Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "Nur eine der folgende immutable Distros hat stabile Releases, der Rest rollt. Welche?"
 
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Welcher Bootloader wird standardmäßig für openSUSE Aeon verwendet?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
 msgid "systemd-boot"
-msgstr ""
+msgstr "systemd-boot"
 
 msgid "Since 2022 we do have an extra service available at oSC. What is it?"
-msgstr ""
+msgstr "Seit 2022 haben wir einen zusätzlichen Service auf der oSC. Welchen?"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "Eine Maschine für Popcorn mit Thunfisch-Geschmack"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "Ein Niedrigwellen-Radiosender"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "Ein Notarzt"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "Ein Selbstbediehnungs-Bierzapfhahn"
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 #~ msgid "toe"
 #~ msgstr "toe"
