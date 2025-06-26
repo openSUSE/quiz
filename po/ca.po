@@ -1657,7 +1657,9 @@ msgstr "Fa un enllaç simbòlic amb el zypper, per evitar errors al teclat amb l
 msgid "The project name of next gen zypper"
 msgstr "El nom del projecte de la nova generació del Zypper"
 
-msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+#, fuzzy
+#| msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Això és complicat! Tots coneixem «zypper rm --clean deps», però què passa si s'executa «zypper rm --clean-deps rm»?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
@@ -2078,7 +2080,9 @@ msgstr "grub2"
 msgid "systemd-boot"
 msgstr "systemd-boot"
 
-msgid "Since 2022 we do have an extra service available at oSC? What is it"
+#, fuzzy
+#| msgid "Since 2022 we do have an extra service available at oSC? What is it"
+msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr "Des del 2022 tenim un servei addicional disponible a l'oSC? Què és?"
 
 msgid "A machine for a tuna flavored popcorn"

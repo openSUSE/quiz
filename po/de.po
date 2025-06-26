@@ -3,7 +3,18 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:50+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-26 13:50+0000\n"
+"Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1656,7 +1667,9 @@ msgstr "Ein Symlink auf zypper, um Tippfehler bei Tastaturen mit ausgetauschten 
 msgid "The project name of next gen zypper"
 msgstr "Der Projektname der nächsten Generation von zypper"
 
-msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+#, fuzzy
+#| msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Diese Frage ist schwierig! Jeder kennt 'zypper rm --clean-deps', aber was passiert wenn man 'zypper rm --clean-deps rm' ausführt?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
@@ -2077,7 +2090,7 @@ msgstr ""
 msgid "systemd-boot"
 msgstr ""
 
-msgid "Since 2022 we do have an extra service available at oSC? What is it"
+msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr ""
 
 msgid "A machine for a tuna flavored popcorn"

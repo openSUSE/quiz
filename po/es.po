@@ -1664,7 +1664,9 @@ msgstr "Enlace simbólico a zypper, para evitar errores en el teclado con las te
 msgid "The project name of next gen zypper"
 msgstr "El nombre del proyecto de la próxima generación de zypper"
 
-msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+#, fuzzy
+#| msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "¡Este es complicado! Todos conocemos zypper rm --clean deps, pero ¿qué pasa si ejecutas 'zypper rm --clean-deps rm'?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
@@ -2103,7 +2105,7 @@ msgstr ""
 msgid "systemd-boot"
 msgstr "systemctl"
 
-msgid "Since 2022 we do have an extra service available at oSC? What is it"
+msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr ""
 
 msgid "A machine for a tuna flavored popcorn"
