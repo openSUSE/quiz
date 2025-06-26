@@ -3,18 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 13:50+0000\n"
-"Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:58+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1802,52 +1791,52 @@ msgid "Melissa Di Donato"
 msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "Wie viele Vorträge und Workshops sind für die oSC 2025 geplant?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 Vorträge und Workshops"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 Vorträge und Workshops"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 Vorträge und Workshops"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42,3 Vorträge und Workshops"
 
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
 msgstr "In welcher dieser Städte fand noch KEINE openSUSE Konferenz statt?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "Prag, Tschechische Republik"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "Den Haag, Niederlande"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "Paris, Frankreich"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "Thessaloniki, Griechenland"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "Wo findet die openSUSE Konferenz Pre-Party normalerweise in Nürnberg statt?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "Im Kater Murr"
 
 msgid "At ZypperHaus"
 msgstr "Im ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "Im SESU Club der von SUSE Azubis geleitet wird"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "In der virtuellen /bar auf meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
 msgstr ""
