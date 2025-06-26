@@ -1,17 +1,6 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 13:50+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:58+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Nindža"
@@ -1657,9 +1646,8 @@ msgstr "Symbolický odkaz na Zypper, aby se zabránilo chybě na klávesnici s p
 msgid "The project name of next gen zypper"
 msgstr "Název projektu nové generace Zypperu"
 
-#, fuzzy
 msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr "Tohle je ošemetné! Všichni známe zypper rm --clean deps, ale co se stane, když spustíte `zypper rm --clean-deps rm`?"
+msgstr "Tohle je ošemetné! Všichni známe `zypper rm --clean-deps`, ale co se stane, když spustíte `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
 msgstr "Odinstalujete příkaz `rm` a všechny jeho zbývající závislosti. Hodně štěstí s následným odstraňováním souborů!"
@@ -1917,16 +1905,14 @@ msgstr "Aktualizace neovlivní běžící systém, dokud jej nerestartujete do n
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
 msgstr "Systém používá transactional-update pro bezpečné, atomické aktualizace a jednoduchou obnovu."
 
-#, fuzzy
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
+msgstr "Které z následujících jsou openSUSE Immutable distribuce?"
 
 msgid "Silverblue, CoreOS"
 msgstr "Silverblue, CoreOS"
 
-#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS a Leap Micro"
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
 msgstr "Argon, Krypton"
@@ -1934,13 +1920,11 @@ msgstr "Argon, Krypton"
 msgid "Hurd, Darwin"
 msgstr "Hurd, Darwin"
 
-#, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "Co je hlavním zaměřením openSUSE MicroOS?"
+msgstr "Co je openSUSE MicroOS?"
 
-#, fuzzy
 msgid "A rolling-release web browser"
-msgstr "Rolling distribuci"
+msgstr "Rolling webový prohlížeč"
 
 msgid "Micro Service OS built by the openSUSE community"
 msgstr "Operační systém pro běh Micro službeb sestavený openSUSE komunitou."
@@ -1951,16 +1935,14 @@ msgstr "Manažer balíčků"
 msgid "A container runtime"
 msgstr "Běhové prostředí kontejnerů"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
+msgstr "Které desktopové prostředí používá openSUSE Aeon?"
 
 msgid "Enlightenment"
 msgstr "Enlightenment"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
+msgstr "Které desktopové prostředí používá openSUSE Kalpa?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Obě distribuce jsou založené na MicroOS s ready-to-use desktopovým prostředím."
@@ -2004,9 +1986,8 @@ msgstr "Ultraviolet"
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
 msgstr "Který nástroj se používá k aktualizaci základního systému v našich immutable distribucích?"
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper -p"
+msgstr "zypper dup"
 
 msgid "transactional-update"
 msgstr "transactional-update"
@@ -2014,17 +1995,14 @@ msgstr "transactional-update"
 msgid "ostree pull"
 msgstr "ostree pull"
 
-#, fuzzy
 msgid "How can you install an additional package?"
-msgstr "Nainstaluje náhodný balíček"
+msgstr "Jak můžete nainstalovat dodatečný balíček?"
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper"
+msgstr "zypper in"
 
-#, fuzzy
 msgid "dnf install"
-msgstr "Instalátor"
+msgstr "dnf install"
 
 msgid "transactional-update pkg install"
 msgstr "transactional-update pkg install"
@@ -2065,9 +2043,8 @@ msgstr "Skrze vrstvení rpm-ostree"
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
 msgstr "Jaké jiné komponenty, mimo mechanismust aktualizací v našich immutable distribucích, PODPORUJÍ transactional-update?"
 
-#, fuzzy
 msgid "Salt and Ansible"
-msgstr "Použitím Salt nebo Ansible"
+msgstr "Salt a Ansible"
 
 msgid "cockpit-tukit"
 msgstr "cockpit-tukit"
@@ -2075,9 +2052,8 @@ msgstr "cockpit-tukit"
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
 msgstr "Pouze jedna z následucjících distribucí má běžné releasy, zbytek distribucí je rolling. Víte která?"
 
-#, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Která varianta jádra se standartně používá v openSUSE Leap?"
+msgstr "Která zavaděč se používá jako výchozí v openSUSE Aeonu?"
 
 msgid "lilo"
 msgstr "lilo"
@@ -2088,28 +2064,26 @@ msgstr "BOOTMGR"
 msgid "grub2"
 msgstr "grub2"
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemctl"
+msgstr "systemd-boot"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr "Od roku 2022 máme extra službu na každé oSC. Víte o jakou se jedná?"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "Stroj na tuňákový popcorn"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "Krátkovlnná radiostanice"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "Ambulance"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "Samoobslužná pivní pípa"
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 #~ msgid "toe"
 #~ msgstr "toe"
