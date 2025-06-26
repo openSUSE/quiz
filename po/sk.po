@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 00:21+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-27 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1659,9 +1648,8 @@ msgstr "Symbolický odkaz na zypper aby sa zabránilo chybe na klavesnici s preh
 msgid "The project name of next gen zypper"
 msgstr "Názov projektu Novej generácie zyppera"
 
-#, fuzzy
 msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr "Toto je chyták! Všetci vieme zypper rm --clean deps, ale čo sa stane, keď spustíme `zypper rm --clean-deps rm`?"
+msgstr "Toto je oriešok! Všetci poznáme `zypper rm --clean-deps`, ale čo sa stane, ak spustíte `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
 msgstr "Odinštalujeme príkaz `rm` a všetky jeho zostávajúce závislosti. Veľa šťastia s nasledovným mazaním suborov!"
@@ -1836,13 +1824,13 @@ msgid "At ZypperHaus"
 msgstr "V ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "V klube SESU, ktorý vedú stážisti SUSE na miestnej univerzite"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "Vo virtuálnom /bar na meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "Aký nezvyčajný predmet sa objavil ako oficiálny tovar openSUSE?"
 
 msgid "openSUSE branded surströmming"
 msgstr ""
@@ -1919,16 +1907,14 @@ msgstr ""
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
 msgstr ""
 
-#, fuzzy
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Ktorá z týchto je komunitou riadená verzia openSUSE?"
+msgstr "Ktoré z týchto sú nemenné distribúcie openSUSE?"
 
 msgid "Silverblue, CoreOS"
 msgstr ""
 
-#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS a Leap Micro"
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
 msgstr ""
@@ -1936,13 +1922,11 @@ msgstr ""
 msgid "Hurd, Darwin"
 msgstr ""
 
-#, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "Aké je hlavné zameranie openSUSE MicroOS?"
+msgstr "Čo je openSUSE MicroOS?"
 
-#, fuzzy
 msgid "A rolling-release web browser"
-msgstr "Distribúcia rolujúceho vydania"
+msgstr "Webový prehliadač rolujúceho vydania"
 
 msgid "Micro Service OS built by the openSUSE community"
 msgstr ""
@@ -1953,16 +1937,14 @@ msgstr ""
 msgid "A container runtime"
 msgstr ""
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "Ktoré desktopové prostredie je predvolené pre openSUSE Leap 15?"
+msgstr "Ktoré desktopové prostredie používa openSUSE Aeon ako predvolené?"
 
 msgid "Enlightenment"
 msgstr ""
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "Ktoré desktopové prostredie je predvolené pre openSUSE Leap 15?"
+msgstr "Ktoré desktopové prostredie používa openSUSE Kalpa ako predvolené?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr ""
@@ -2006,9 +1988,8 @@ msgstr ""
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
 msgstr ""
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper -p"
+msgstr "zypper dup"
 
 msgid "transactional-update"
 msgstr ""
@@ -2016,17 +1997,14 @@ msgstr ""
 msgid "ostree pull"
 msgstr ""
 
-#, fuzzy
 msgid "How can you install an additional package?"
-msgstr "Nainštaluje náhodný balík"
+msgstr "Ako môžete nainštalovať dodatočný balík?"
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper"
+msgstr "zypper in"
 
-#, fuzzy
 msgid "dnf install"
-msgstr "Inštalátor"
+msgstr "dnf install"
 
 msgid "transactional-update pkg install"
 msgstr ""
@@ -2067,9 +2045,8 @@ msgstr ""
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
 msgstr ""
 
-#, fuzzy
 msgid "Salt and Ansible"
-msgstr "Použitím Salt alebo Ansible"
+msgstr "Salt a Ansible"
 
 msgid "cockpit-tukit"
 msgstr ""
@@ -2077,9 +2054,8 @@ msgstr ""
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
 msgstr ""
 
-#, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Aká varianta jadra sa štandardne používa v openSUSE Leap ako predvolená?"
+msgstr "Aký správca štartu sa používa v openSUSE Aeon v predvolenom nastavení?"
 
 msgid "lilo"
 msgstr ""
@@ -2090,9 +2066,8 @@ msgstr ""
 msgid "grub2"
 msgstr ""
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemctl"
+msgstr "systemd-boot"
 
 msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr ""
