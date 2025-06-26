@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 00:21+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 04:50+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
@@ -1903,212 +1891,199 @@ msgid "An epic dance-off between Geeko mascots"
 msgstr "En episk danstävling mellan Geeko-maskotar"
 
 msgid "Immutability"
-msgstr ""
+msgstr "Oföränderlighet"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "Låt oss lära oss något om våra oföränderliga distributioner."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "Enkelt uttryckt, hur fungerar \"transaktionsuppdatering\" som driver våra oföränderliga distributioner?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "De flesta systempartitioner är monterade skrivskyddade, vilket förhindrar ändringar på disken."
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "Uppdateringar påverkar inte det körande systemet förrän omstart till en ny ögonblicksavbild."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "Systemet använder transaktionell uppdatering för säkra, atomära uppgraderingar och enkel återställning."
 
-#, fuzzy
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Vilken av dessa är en gemenskapsstyrd openSUSE-version?"
+msgstr "Vilka av dessa är OpenSUSE oföränderliga-distributioner?"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
-#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS och Leap Micro"
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
-#, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "Vad är det primära fokuset för openSUSE MicroOS?"
+msgstr "Vad är openSUSE MicroOS?"
 
-#, fuzzy
 msgid "A rolling-release web browser"
-msgstr "En rullande releasedistribution"
+msgstr "En webbläsare med rullande släpp"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "Micro Service OS byggt av openSUSE-gemenskapen"
 
 msgid "A package manager"
-msgstr ""
+msgstr "En pakethanterare"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "En behållarkörtid"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "Vilken skrivbordsmiljö är standard för openSUSE Leap 15?"
+msgstr "Vilken skrivbordsmiljö använder openSUSE Aeon som standard?"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "Vilken skrivbordsmiljö är standard för openSUSE Leap 15?"
+msgstr "Vilken skrivbordsmiljö använder openSUSE Kalpa som standard?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "Båda är baserade på MicroOS med en färdig skrivbordsmiljö."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "Båda använder transaktionella uppdateringar för rpm-installation."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "Båda marknadsför Distrobox och Flatpaks för extra program."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "Både Aeon och Kalpa har intressanta namn som indirekt syftar på en rullande utgåva. Hur då?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "Båda är forntida termer som betyder långa perioder eller kosmiska cykler."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "Båda är namn på kända västernfilmer där rullande tumbleweed dyker upp."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "Båda är mycket gamla smeknamn på den ursprungliga arkitekten bakom MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "Båda hänvisar till verktyg för programuppdatering i openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "Det gjordes ett experiment med ett Sway-baserat, oföränderligt skrivbord år 2023. Vet du vad den heter?"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "Vilket verktyg används för att säkert uppdatera bassystemet i våra ofrändliga distributioner?"
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper -p"
+msgstr "zypper dup"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
-#, fuzzy
 msgid "How can you install an additional package?"
-msgstr "Den installerar ett slumpmässigt paket"
+msgstr "Hur kan du installera ett extra paket?"
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper"
+msgstr "zypper in"
 
-#, fuzzy
 msgid "dnf install"
-msgstr "Ett installationsprogram"
+msgstr "dnf install"
 
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "Varför rekommenderas 'transaktionsuppdateringsskal' generellt sett inte?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "Eftersom du kan modifiera alla delar av systemet."
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "Det skapar maskhål till en annan dimension."
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "Det kan i hemlighet migrera ditt system till Fedora."
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "Geeko tappar ett hårstrå varje gång du använder det."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "Hur tillåter våra oföränderliga distributioner skrivning till /etc vid körning?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "Genom att använda overlayfs ovanpå /etc"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "Genom att montera en skrivbar Btrfs-undervolym direkt"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "Genom att inaktivera skrivskyddat läge under uppstart"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "Genom rpm-otree lager"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "Förutom uppdateringsmekanismen i dom oföränderliga distributionerna, vilka andra komponenter STÖDJER transaktionella uppdateringar?"
 
-#, fuzzy
 msgid "Salt and Ansible"
-msgstr "Genom att använda Salt eller Ansible"
+msgstr "Salt och Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "Endast en av följande oföränderliga distributioner har regelbundna punktutgåvor, resten är rullande. Vilken?"
 
-#, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Vilken kärnvariant används som standard i openSUSE Leap?"
+msgstr "Vilken uppstartsladdare används som standard i openSUSE Aeon?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemctl"
+msgstr "systemd-boot"
 
 msgid "Since 2022 we do have an extra service available at oSC? What is it"
-msgstr ""
+msgstr "Sedan 2022 har vi en extra tjänst tillgänglig på oSC? Vad är det"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "En maskin för popcorn med tonfisksmak"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "En lågvågsradiostation"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "En ambulans"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "Självbetjäningsölkran"
 
 #~ msgid "toe"
 #~ msgstr "toe"
