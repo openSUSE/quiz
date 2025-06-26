@@ -1,6 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 04:50+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 07:36+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "カーネル忍者"
@@ -1858,243 +1858,229 @@ msgid "Deep dived into open bugs wearing a swimsuit"
 msgstr "水着を着て対応中のバグに深く潜水"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "2020 年から 2021 年にかけて、 openSUSE カンファレンスでは何が起きた？"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "SpaceX 社の提供により宇宙軌道上で開催された"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "新型コロナウイルスウイルス感染症 (COVID-19) により仮想開催となった"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Novel Digital と同時開催となった"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "ピザ不足によりキャンセルとなった"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "oSC 2016 のフライデーナイトパーティは、特別なライブによって非常に長くなりました。さて何が起きた？"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "有名な SUSE バンドが Z-Bau を揺らした"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds による特別キーノート"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "自発的な YaST カラオケコンテスト"
 
-#, fuzzy
 msgid "An epic dance-off between Geeko mascots"
-msgstr "Geeko マスコットに電子メールで"
+msgstr "Geeko マスコットによる壮大なダンス対決"
 
 msgid "Immutability"
-msgstr ""
+msgstr "不変性"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "普遍性を持つディストリビューションに関することを学びましょう。"
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "不変型のディストリビューションでの 'transactional-update' は、どのようなディストリビューション強化を提供しているもの？"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "ほとんどのシステム用パーティションを読み込み専用にするため、ディスク内の内容が予期せず書き換えられてしまうことがない。"
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "システム更新を行っても現在のシステムには何も影響が無い。システムを再起動して切り替える。"
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "transactional-update を安全性確保の手段として用いており、システムの一括更新や不具合時の巻き戻しの機能を提供している。"
 
-#, fuzzy
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "コミュニティが主導している openSUSE のバージョンはどれ？"
+msgstr "openSUSE で不変性を持つディストリビューションはどれ？"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
-#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS および Leap Micro"
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
-#, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "openSUSE MicroOS の主な目的は？"
+msgstr "openSUSE MicroOS とは？"
 
-#, fuzzy
 msgid "A rolling-release web browser"
-msgstr "ローリングリリース型のディストリビューション"
+msgstr "ローリングリリース型の Web ブラウザ"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "openSUSE コミュニティが提供するマイクロサービス OS"
 
 msgid "A package manager"
-msgstr ""
+msgstr "パッケージマネージャ"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "コンテナランタイム"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "openSUSE Leap 15 での既定のデスクトップ環境はどれ？"
+msgstr "openSUSE Aeon での既定のデスクトップ環境はどれ？"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "openSUSE Leap 15 での既定のデスクトップ環境はどれ？"
+msgstr "openSUSE Kalpa での既定のデスクトップ環境はどれ？"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "いずれもすぐに使えるデスクトップ環境を提供する MicroOS ベースのもの。"
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "いずれも RPM インストール時に transactional-updates を使用する。"
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "いずれも追加のアプリを使用する場合に distrobox や flatpaks を推奨している。"
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "Aeon や Kalpa はいずれもローリングリリースモデルを間接的に示す特徴的な名前になっています。それは何故？"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "いずれも非常に長い時間や宇宙の周期を表す古い用語であるため。"
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "いずれも転がる回転草 (tumbleweed) が現れる有名な西部劇映画の名前であるため。"
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "いずれも MicroOS の原作者を表す古いニックネームであるため。"
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "いずれも openSUSE で使用されるソフトウエア更新ツールを意味するため。"
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "2023 年に Sway ベースの実験的な不変型デスクトップが公開された。その名前は？"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "不変型のディストリビューションにおいて、基本システムを安全に更新する際に使用するツールはどれ？"
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper -p"
+msgstr "zypper dup"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
-#, fuzzy
 msgid "How can you install an additional package?"
-msgstr "ランダムなパッケージをインストールする"
+msgstr "追加のパッケージをインストールするにはどうすればよい？"
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper"
+msgstr "zypper in"
 
-#, fuzzy
 msgid "dnf install"
-msgstr "インストーラ"
+msgstr "dnf install"
 
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "'transactional-update shell' が一般的に非推奨とされる理由は？"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "システム内の任意の箇所を変更できてしまうため。"
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "別の次元へのワームホールを作ってしまうため。"
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "お使いのシステムをこっそり Fedora に移行してしまうため。"
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "それを使うたびに Geeko が髪の毛を失うため。"
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "不変型のディストリビューションにおいて、稼働時に /etc に書き込みを許可するには？"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "/etc に対して overlayfs をマウントする"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "btrfs のサブボリュームを直接マウントする"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "起動時に読み込み専用モードを無効化する"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "rpm-ostree のレイヤ機能を介する"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "不変型ディストリビューションの更新機構のほかに、 transactional-updates をサポートする他のコンポーネントは？"
 
-#, fuzzy
 msgid "Salt and Ansible"
-msgstr "Salt や Ansible を利用する"
+msgstr "Salt や Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "以下の不変型ディストリビューションのうち、定期リリースを行っているのは 1 つだけで、それ以外はローリングリリース型です。定期リリースを行っているのはどれ？"
 
-#, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "openSUSE Leap での既定のカーネルフレーバーはどれ？"
+msgstr "openSUSE Aeon での既定のブートローダはどれ？"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemctl"
+msgstr "systemd-boot"
 
 msgid "Since 2022 we do have an extra service available at oSC? What is it"
-msgstr ""
+msgstr "2022 年より、 oSC で追加のサービスが提供されるようになりました。それは何？"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "ツナ味のポップコーンを提供するマシン"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "低波ラジオ局"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "救急車"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "セルフサービスのビールタップ"
 
 #~ msgid "toe"
 #~ msgstr "toe"
