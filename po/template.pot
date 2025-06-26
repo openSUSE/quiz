@@ -1661,7 +1661,7 @@ msgstr ""
 msgid "The project name of next gen zypper"
 msgstr ""
 
-msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr ""
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
