@@ -23,9 +23,10 @@ module.exports = (dependencies) => {
   } = dependencies;
 
   // Filename whitelist
-  const allowedQuizSlugs = fs.readdirSync(consts.DATA_DIR_PATH)
-    .filter(file => file.endsWith(".js"))
-    .map(file => path.basename(file, ".js"));
+  const allowedQuizSlugs = fs
+    .readdirSync(consts.DATA_DIR_PATH)
+    .filter((file) => file.endsWith(".js"))
+    .map((file) => path.basename(file, ".js"));
 
   // Helper to validate quizSlug
   function isValidQuizSlug(slug) {
@@ -109,7 +110,7 @@ module.exports = (dependencies) => {
     const lang = req.body.lang || "en";
     const username = req.body.username;
     const quizTitle = req.body.quizTitle;
-    const quizSlug = req.body.quizSlug; 
+    const quizSlug = req.body.quizSlug;
     let correct = Number(req.body.correct) || 0;
     let total = Number(req.body.total) || 0;
 
@@ -154,7 +155,8 @@ module.exports = (dependencies) => {
     }
 
     const aggregateWrong = aggregateTotal - aggregateCorrect;
-    let aggregateScore = aggregateCorrect * 1 + aggregateTotal * 0.05 - aggregateWrong * 0.1;
+    let aggregateScore =
+      aggregateCorrect * 1 + aggregateTotal * 0.05 - aggregateWrong * 0.1;
     aggregateScore = Math.max(aggregateScore, 0);
 
     results[username].aggregate = {
