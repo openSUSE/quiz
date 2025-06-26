@@ -1939,7 +1939,6 @@ msgid "Hurd, Darwin"
 msgstr ""
 
 #, fuzzy
-#| msgid "What makes openSUSE special?"
 msgid "What is openSUSE MicroOS?"
 msgstr "Wat maakt openSUSE speciaal?"
 
@@ -2007,7 +2006,6 @@ msgid "Which tool is used to safely update the base system in our Immutable dist
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper update"
 msgid "zypper dup"
 msgstr "zypper update"
 
@@ -2021,7 +2019,6 @@ msgid "How can you install an additional package?"
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper in"
 msgstr "zypper"
 
@@ -2077,7 +2074,6 @@ msgid "Only one of the following immutable distributions has regular point relea
 msgstr ""
 
 #, fuzzy
-#| msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Welke smaak kernel wordt er standaard gebruikt in openSUSE Leap?"
 
@@ -2091,7 +2087,6 @@ msgid "grub2"
 msgstr ""
 
 #, fuzzy
-#| msgid "systemctl"
 msgid "systemd-boot"
 msgstr "systemctl"
 

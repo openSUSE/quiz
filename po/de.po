@@ -1954,7 +1954,6 @@ msgid "The system uses transactional-update for safe, atomic upgrades and easy r
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of these is a community-driven openSUSE version?"
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Welche der Antworten ist eine von der community getriebene openSUSE Version?"
 
@@ -1962,7 +1961,6 @@ msgid "Silverblue, CoreOS"
 msgstr ""
 
 #, fuzzy
-#| msgid "MicroOS and Leap Micro"
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS und Leap Micro"
 
@@ -1973,12 +1971,10 @@ msgid "Hurd, Darwin"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the primary focus of openSUSE MicroOS?"
 msgid "What is openSUSE MicroOS?"
 msgstr "Was ist der primäre Fokus von openSUSE MicroOS?"
 
 #, fuzzy
-#| msgid "A rolling release distribution"
 msgid "A rolling-release web browser"
 msgstr "Eine rolling-release Distribution"
 
@@ -1992,7 +1988,6 @@ msgid "A container runtime"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Welche Desktop-Umgebung ist Standard unter auf openSUSE Leap 15?"
 
@@ -2000,7 +1995,6 @@ msgid "Enlightenment"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Welche Desktop-Umgebung ist Standard unter auf openSUSE Leap 15?"
 
@@ -2057,17 +2051,14 @@ msgid "ostree pull"
 msgstr ""
 
 #, fuzzy
-#| msgid "It installs a random package"
 msgid "How can you install an additional package?"
 msgstr "Es wird ein zufälliges Paket installiert"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper in"
 msgstr "zypper"
 
 #, fuzzy
-#| msgid "An installer"
 msgid "dnf install"
 msgstr "Ein Installer"
 
@@ -2111,7 +2102,6 @@ msgid "Aside from the update mechanism in Immutable distros, what other componen
 msgstr ""
 
 #, fuzzy
-#| msgid "By using Salt or Ansible"
 msgid "Salt and Ansible"
 msgstr "Indem man Salt oder Ansible verwendet"
 

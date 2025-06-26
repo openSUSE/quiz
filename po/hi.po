@@ -1941,7 +1941,6 @@ msgid "Hurd, Darwin"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the mascot of openSUSE project?"
 msgid "What is openSUSE MicroOS?"
 msgstr "ओपनसुसा परियोजना का शुभंकर क्या है?"
 

@@ -1970,7 +1970,6 @@ msgid "The system uses transactional-update for safe, atomic upgrades and easy r
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of these is a community-driven openSUSE version?"
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Bunlardan hangisi topluluk tarafından geliştirilen bir openSUSE sürümüdür?"
 
@@ -1978,7 +1977,6 @@ msgid "Silverblue, CoreOS"
 msgstr ""
 
 #, fuzzy
-#| msgid "MicroOS and Leap Micro"
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS ve Leap Micro"
 
@@ -2006,7 +2004,6 @@ msgid "A container runtime"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
 
@@ -2014,7 +2011,6 @@ msgid "Enlightenment"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Aşağıdakilerden hangisi openSUSE Leap 15 için varsayılan masaüstü ortamıdır?"
 
@@ -2075,12 +2071,10 @@ msgid "How can you install an additional package?"
 msgstr "dnf install package-name"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper in"
 msgstr "zypper"
 
 #, fuzzy
-#| msgid "An installer"
 msgid "dnf install"
 msgstr "Bir yükleyici"
 
@@ -2124,7 +2118,6 @@ msgid "Aside from the update mechanism in Immutable distros, what other componen
 msgstr ""
 
 #, fuzzy
-#| msgid "By using Salt or Ansible"
 msgid "Salt and Ansible"
 msgstr "Salt veya Ansible kullanarak"
 

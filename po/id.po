@@ -1924,7 +1924,6 @@ msgid "The system uses transactional-update for safe, atomic upgrades and easy r
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of these is a community-driven openSUSE version?"
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Manakah di antara ini yang merupakan versi openSUSE yang dikembangkan oleh komunitas?"
 
@@ -1932,7 +1931,6 @@ msgid "Silverblue, CoreOS"
 msgstr ""
 
 #, fuzzy
-#| msgid "MicroOS and Leap Micro"
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS dan Leap Micro"
 
@@ -1943,12 +1941,10 @@ msgid "Hurd, Darwin"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the primary focus of openSUSE MicroOS?"
 msgid "What is openSUSE MicroOS?"
 msgstr "Apa fokus utama dari openSUSE MicroOS?"
 
 #, fuzzy
-#| msgid "A rolling release distribution"
 msgid "A rolling-release web browser"
 msgstr "Distribusi rilis berkelanjutan"
 
@@ -1962,7 +1958,6 @@ msgid "A container runtime"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Lingkungan desktop manakah yang merupakan bawaan openSUSE Leap 15?"
 
@@ -1970,7 +1965,6 @@ msgid "Enlightenment"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Lingkungan desktop manakah yang merupakan bawaan openSUSE Leap 15?"
 
@@ -2017,7 +2011,6 @@ msgid "Which tool is used to safely update the base system in our Immutable dist
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper -p"
 msgid "zypper dup"
 msgstr "zypper -p"
 
@@ -2028,17 +2021,14 @@ msgid "ostree pull"
 msgstr ""
 
 #, fuzzy
-#| msgid "It installs a random package"
 msgid "How can you install an additional package?"
 msgstr "Menginstal paket secara acak"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper in"
 msgstr "zypper"
 
 #, fuzzy
-#| msgid "An installer"
 msgid "dnf install"
 msgstr "Installer"
 
@@ -2082,7 +2072,6 @@ msgid "Aside from the update mechanism in Immutable distros, what other componen
 msgstr ""
 
 #, fuzzy
-#| msgid "By using Salt or Ansible"
 msgid "Salt and Ansible"
 msgstr "Dengan menggunakan Salt atau Ansible"
 
@@ -2093,7 +2082,6 @@ msgid "Only one of the following immutable distributions has regular point relea
 msgstr ""
 
 #, fuzzy
-#| msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Kernel jenis apa yang digunakan secara bawaan di openSUSE Leap?"
 
@@ -2107,7 +2095,6 @@ msgid "grub2"
 msgstr ""
 
 #, fuzzy
-#| msgid "systemctl"
 msgid "systemd-boot"
 msgstr "systemctl"
 

@@ -1917,7 +1917,6 @@ msgid "The system uses transactional-update for safe, atomic upgrades and easy r
 msgstr ""
 
 #, fuzzy
-#| msgid "Which of these is a community-driven openSUSE version?"
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Quina d'aquestes és una versió d'openSUSE impulsada per la comunitat?"
 
@@ -1925,7 +1924,6 @@ msgid "Silverblue, CoreOS"
 msgstr ""
 
 #, fuzzy
-#| msgid "MicroOS and Leap Micro"
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroSO i Leap Micro"
 
@@ -1936,12 +1934,10 @@ msgid "Hurd, Darwin"
 msgstr ""
 
 #, fuzzy
-#| msgid "What is the primary focus of openSUSE MicroOS?"
 msgid "What is openSUSE MicroOS?"
 msgstr "Quin és l'objectiu principal d'openSUSE MicroSO?"
 
 #, fuzzy
-#| msgid "A rolling release distribution"
 msgid "A rolling-release web browser"
 msgstr "Una distribució de versió contínua"
 
@@ -1955,7 +1951,6 @@ msgid "A container runtime"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
 
@@ -1963,7 +1958,6 @@ msgid "Enlightenment"
 msgstr ""
 
 #, fuzzy
-#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
 
@@ -2010,7 +2004,6 @@ msgid "Which tool is used to safely update the base system in our Immutable dist
 msgstr ""
 
 #, fuzzy
-#| msgid "zypper -p"
 msgid "zypper dup"
 msgstr "zypper -p"
 
@@ -2021,17 +2014,14 @@ msgid "ostree pull"
 msgstr ""
 
 #, fuzzy
-#| msgid "It installs a random package"
 msgid "How can you install an additional package?"
 msgstr "Instal·la un paquet aleatori"
 
 #, fuzzy
-#| msgid "zypper"
 msgid "zypper in"
 msgstr "zypper"
 
 #, fuzzy
-#| msgid "An installer"
 msgid "dnf install"
 msgstr "Un instal·lador"
 
@@ -2075,7 +2065,6 @@ msgid "Aside from the update mechanism in Immutable distros, what other componen
 msgstr ""
 
 #, fuzzy
-#| msgid "By using Salt or Ansible"
 msgid "Salt and Ansible"
 msgstr "Ús de Salt o Ansible"
 
@@ -2086,7 +2075,6 @@ msgid "Only one of the following immutable distributions has regular point relea
 msgstr ""
 
 #, fuzzy
-#| msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Quin tipus de nucli s'usa per defecte a l'openSUSE Leap?"
 
@@ -2100,7 +2088,6 @@ msgid "grub2"
 msgstr ""
 
 #, fuzzy
-#| msgid "systemctl"
 msgid "systemd-boot"
 msgstr "systemctl"
 
