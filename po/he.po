@@ -1897,6 +1897,201 @@ msgstr ""
 msgid "An epic dance-off between Geeko mascots"
 msgstr ""
 
+msgid "Immutability"
+msgstr ""
+
+msgid "Let's learn something about our Immutable distros."
+msgstr ""
+
+msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
+msgstr ""
+
+msgid "Most system partitions are mounted read-only, preventing changes on disk."
+msgstr ""
+
+msgid "Updates don’t affect the running system until rebooting into a new snapshot."
+msgstr ""
+
+msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
+msgstr ""
+
+msgid "Which of these are openSUSE Immutable distros?"
+msgstr ""
+
+msgid "Silverblue, CoreOS"
+msgstr ""
+
+msgid "MicroOS, Leap Micro, Aeon, Kalpa"
+msgstr ""
+
+msgid "Argon, Krypton"
+msgstr ""
+
+msgid "Hurd, Darwin"
+msgstr ""
+
+msgid "What is openSUSE MicroOS?"
+msgstr ""
+
+msgid "A rolling-release web browser"
+msgstr ""
+
+msgid "Micro Service OS built by the openSUSE community"
+msgstr ""
+
+msgid "A package manager"
+msgstr ""
+
+msgid "A container runtime"
+msgstr ""
+
+msgid "Which desktop environment does openSUSE Aeon use by default?"
+msgstr ""
+
+msgid "Enlightenment"
+msgstr ""
+
+msgid "Which desktop environment does openSUSE Kalpa use by default?"
+msgstr ""
+
+msgid "Both are based on MicroOS with a ready-to-use desktop."
+msgstr ""
+
+msgid "Both use transactional-updates for rpm installation."
+msgstr ""
+
+msgid "Both promote distrobox and flatpaks for extra apps."
+msgstr ""
+
+msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
+msgstr ""
+
+msgid "Both are ancient terms meaning long periods or cosmic cycles."
+msgstr ""
+
+msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
+msgstr ""
+
+msgid "Both are very old nicknames of the original architect behind MicroOS."
+msgstr ""
+
+msgid "Both refer to software update tools in openSUSE."
+msgstr ""
+
+msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
+msgstr ""
+
+msgid "Greyhound"
+msgstr ""
+
+msgid "Greybeard"
+msgstr ""
+
+msgid "Bluehair"
+msgstr ""
+
+msgid "Ultraviolet"
+msgstr ""
+
+msgid "Which tool is used to safely update the base system in our Immutable distributions?"
+msgstr ""
+
+msgid "zypper dup"
+msgstr ""
+
+msgid "transactional-update"
+msgstr ""
+
+msgid "ostree pull"
+msgstr ""
+
+msgid "How can you install an additional package?"
+msgstr ""
+
+msgid "zypper in"
+msgstr ""
+
+msgid "dnf install"
+msgstr ""
+
+msgid "transactional-update pkg install"
+msgstr ""
+
+msgid "rpm-ostree install"
+msgstr ""
+
+msgid "Why is 'transactional-update shell' generally not recommended?"
+msgstr ""
+
+msgid "Because you can modify all parts of the system."
+msgstr ""
+
+msgid "It creates wormholes into another dimension."
+msgstr ""
+
+msgid "It can secretly migrate your system to Fedora."
+msgstr ""
+
+msgid "Geeko loses a hair every time you use it."
+msgstr ""
+
+msgid "How do our Immutable distros allow writing to /etc at runtime?"
+msgstr ""
+
+msgid "By using overlayfs on top of /etc"
+msgstr ""
+
+msgid "By mounting a writable Btrfs subvolume directly"
+msgstr ""
+
+msgid "By disabling read-only mode during boot"
+msgstr ""
+
+msgid "Through rpm-ostree layering"
+msgstr ""
+
+msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
+msgstr ""
+
+msgid "Salt and Ansible"
+msgstr ""
+
+msgid "cockpit-tukit"
+msgstr ""
+
+msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
+msgstr ""
+
+msgid "What bootloader is used by default in openSUSE Aeon?"
+msgstr ""
+
+msgid "lilo"
+msgstr ""
+
+msgid "BOOTMGR"
+msgstr ""
+
+msgid "grub2"
+msgstr ""
+
+msgid "systemd-boot"
+msgstr ""
+
+msgid "Since 2022 we do have an extra service available at oSC? What is it"
+msgstr ""
+
+msgid "A machine for a tuna flavored popcorn"
+msgstr ""
+
+msgid "A low wave radio station"
+msgstr ""
+
+msgid "An ambulance"
+msgstr ""
+
+msgid "Self-service beer tap"
+msgstr ""
+
 #~ msgid "Language"
 #~ msgstr "שפה"
 

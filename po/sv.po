@@ -3,7 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 00:21+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"PO-Revision-Date: 2025-06-26 00:21+0000\n"
+"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
@@ -1889,6 +1901,227 @@ msgstr "En spontan YaST karaoketävling"
 
 msgid "An epic dance-off between Geeko mascots"
 msgstr "En episk danstävling mellan Geeko-maskotar"
+
+msgid "Immutability"
+msgstr ""
+
+msgid "Let's learn something about our Immutable distros."
+msgstr ""
+
+msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
+msgstr ""
+
+msgid "Most system partitions are mounted read-only, preventing changes on disk."
+msgstr ""
+
+msgid "Updates don’t affect the running system until rebooting into a new snapshot."
+msgstr ""
+
+msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
+msgstr ""
+
+#, fuzzy
+#| msgid "Which of these is a community-driven openSUSE version?"
+msgid "Which of these are openSUSE Immutable distros?"
+msgstr "Vilken av dessa är en gemenskapsstyrd openSUSE-version?"
+
+msgid "Silverblue, CoreOS"
+msgstr ""
+
+#, fuzzy
+#| msgid "MicroOS and Leap Micro"
+msgid "MicroOS, Leap Micro, Aeon, Kalpa"
+msgstr "MicroOS och Leap Micro"
+
+msgid "Argon, Krypton"
+msgstr ""
+
+msgid "Hurd, Darwin"
+msgstr ""
+
+#, fuzzy
+#| msgid "What is the primary focus of openSUSE MicroOS?"
+msgid "What is openSUSE MicroOS?"
+msgstr "Vad är det primära fokuset för openSUSE MicroOS?"
+
+#, fuzzy
+#| msgid "A rolling release distribution"
+msgid "A rolling-release web browser"
+msgstr "En rullande releasedistribution"
+
+msgid "Micro Service OS built by the openSUSE community"
+msgstr ""
+
+msgid "A package manager"
+msgstr ""
+
+msgid "A container runtime"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
+msgid "Which desktop environment does openSUSE Aeon use by default?"
+msgstr "Vilken skrivbordsmiljö är standard för openSUSE Leap 15?"
+
+msgid "Enlightenment"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which desktop environment is the default for openSUSE Leap 15?"
+msgid "Which desktop environment does openSUSE Kalpa use by default?"
+msgstr "Vilken skrivbordsmiljö är standard för openSUSE Leap 15?"
+
+msgid "Both are based on MicroOS with a ready-to-use desktop."
+msgstr ""
+
+msgid "Both use transactional-updates for rpm installation."
+msgstr ""
+
+msgid "Both promote distrobox and flatpaks for extra apps."
+msgstr ""
+
+msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
+msgstr ""
+
+msgid "Both are ancient terms meaning long periods or cosmic cycles."
+msgstr ""
+
+msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
+msgstr ""
+
+msgid "Both are very old nicknames of the original architect behind MicroOS."
+msgstr ""
+
+msgid "Both refer to software update tools in openSUSE."
+msgstr ""
+
+msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
+msgstr ""
+
+msgid "Greyhound"
+msgstr ""
+
+msgid "Greybeard"
+msgstr ""
+
+msgid "Bluehair"
+msgstr ""
+
+msgid "Ultraviolet"
+msgstr ""
+
+msgid "Which tool is used to safely update the base system in our Immutable distributions?"
+msgstr ""
+
+#, fuzzy
+#| msgid "zypper -p"
+msgid "zypper dup"
+msgstr "zypper -p"
+
+msgid "transactional-update"
+msgstr ""
+
+msgid "ostree pull"
+msgstr ""
+
+#, fuzzy
+#| msgid "It installs a random package"
+msgid "How can you install an additional package?"
+msgstr "Den installerar ett slumpmässigt paket"
+
+#, fuzzy
+#| msgid "zypper"
+msgid "zypper in"
+msgstr "zypper"
+
+#, fuzzy
+#| msgid "An installer"
+msgid "dnf install"
+msgstr "Ett installationsprogram"
+
+msgid "transactional-update pkg install"
+msgstr ""
+
+msgid "rpm-ostree install"
+msgstr ""
+
+msgid "Why is 'transactional-update shell' generally not recommended?"
+msgstr ""
+
+msgid "Because you can modify all parts of the system."
+msgstr ""
+
+msgid "It creates wormholes into another dimension."
+msgstr ""
+
+msgid "It can secretly migrate your system to Fedora."
+msgstr ""
+
+msgid "Geeko loses a hair every time you use it."
+msgstr ""
+
+msgid "How do our Immutable distros allow writing to /etc at runtime?"
+msgstr ""
+
+msgid "By using overlayfs on top of /etc"
+msgstr ""
+
+msgid "By mounting a writable Btrfs subvolume directly"
+msgstr ""
+
+msgid "By disabling read-only mode during boot"
+msgstr ""
+
+msgid "Through rpm-ostree layering"
+msgstr ""
+
+msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
+msgstr ""
+
+#, fuzzy
+#| msgid "By using Salt or Ansible"
+msgid "Salt and Ansible"
+msgstr "Genom att använda Salt eller Ansible"
+
+msgid "cockpit-tukit"
+msgstr ""
+
+msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Which kernel flavor is used by default in openSUSE Leap?"
+msgid "What bootloader is used by default in openSUSE Aeon?"
+msgstr "Vilken kärnvariant används som standard i openSUSE Leap?"
+
+msgid "lilo"
+msgstr ""
+
+msgid "BOOTMGR"
+msgstr ""
+
+msgid "grub2"
+msgstr ""
+
+#, fuzzy
+#| msgid "systemctl"
+msgid "systemd-boot"
+msgstr "systemctl"
+
+msgid "Since 2022 we do have an extra service available at oSC? What is it"
+msgstr ""
+
+msgid "A machine for a tuna flavored popcorn"
+msgstr ""
+
+msgid "A low wave radio station"
+msgstr ""
+
+msgid "An ambulance"
+msgstr ""
+
+msgid "Self-service beer tap"
+msgstr ""
 
 #~ msgid "toe"
 #~ msgstr "toe"
