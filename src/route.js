@@ -22,6 +22,16 @@ module.exports = (dependencies) => {
     saveResultsToFile,
   } = dependencies;
 
+  // Filename whitelist
+  const allowedQuizSlugs = fs.readdirSync(consts.DATA_DIR_PATH)
+    .filter(file => file.endsWith(".js"))
+    .map(file => path.basename(file, ".js"));
+
+  // Helper to validate quizSlug
+  function isValidQuizSlug(slug) {
+    return allowedQuizSlugs.includes(slug);
+  }
+
   router.get("/", async (req, res) => {
     const lang = req.query.lang || "en";
     await loadTranslations(lang);
@@ -39,15 +49,15 @@ module.exports = (dependencies) => {
     const lang = req.query.lang || "en";
     const quizSlug = req.query.name;
 
+    if (!isValidQuizSlug(quizSlug)) {
+      return res.status(404).send("Quiz not found");
+    }
+
     await loadTranslations(lang);
     gt.setLocale(lang);
     const _ = gt.gettext.bind(gt);
 
     const quizPath = path.join(consts.DATA_DIR_PATH, `${quizSlug}.js`);
-    if (!fs.existsSync(quizPath)) {
-      return res.status(404).send("Quiz not found");
-    }
-
     const { quizData, questions } = require(quizPath);
     const localized = localizeQuizData({ quizData, questions }, _);
     const uiStrings = getUiStrings(_, name);
@@ -65,6 +75,7 @@ module.exports = (dependencies) => {
       questions: JSON.stringify(localized.questions),
       uiStrings: uiStrings,
       quizTitle: localized.quizData.title,
+      quizSlug: quizSlug,
       existingLogins: JSON.stringify(existingLoginsLower),
     });
   });
@@ -79,6 +90,7 @@ module.exports = (dependencies) => {
       t: (text) => gt.gettext(text),
     });
   });
+
   router.get("/bingo", (req, res) => res.render("bingo", { results }));
 
   router.get("/reset", (req, res) => {
@@ -97,22 +109,33 @@ module.exports = (dependencies) => {
     const lang = req.body.lang || "en";
     const username = req.body.username;
     const quizTitle = req.body.quizTitle;
-    const correct = Number(req.body.correct) || 0;
-    const total = Number(req.body.total) || 0;
+    const quizSlug = req.body.quizSlug; 
+    let correct = Number(req.body.correct) || 0;
+    let total = Number(req.body.total) || 0;
 
     if (!username || !quizTitle) {
       return res.status(400).send("Missing username or quiz title.");
     }
 
-    // Profanity check on username
+    // Profanity check
     if (filter.isProfane(username)) {
-      return res
-        .status(400)
-        .send(
-          "Inappropriate username detected. Please choose a different username."
-        );
+      return res.status(400).send("Inappropriate username detected.");
     }
 
+    // Validate quizSlug against allowed list
+    if (!isValidQuizSlug(quizSlug)) {
+      return res.status(400).send("Invalid quiz slug.");
+    }
+
+    const quizPath = path.join(consts.DATA_DIR_PATH, `${quizSlug}.js`);
+    const { questions } = require(quizPath);
+    const actualTotal = questions.length;
+
+    // Clamp totals
+    total = Math.min(total, actualTotal);
+    correct = Math.min(correct, total);
+
+    // Initialize user results if needed
     if (!results[username]) {
       results[username] = {
         quizzes: {},
@@ -120,26 +143,20 @@ module.exports = (dependencies) => {
       };
     }
 
-    // Save or update the quiz result
     results[username].quizzes[quizTitle] = { correct, total };
 
-    // Aggregate totals
+    // Recalculate aggregate results for user
     let aggregateCorrect = 0;
     let aggregateTotal = 0;
-
     for (const quizData of Object.values(results[username].quizzes)) {
       aggregateCorrect += quizData.correct;
       aggregateTotal += quizData.total;
     }
 
     const aggregateWrong = aggregateTotal - aggregateCorrect;
-
-    // Calculate aggregate score
-    let aggregateScore =
-      aggregateCorrect * 1 + aggregateTotal * 0.05 - aggregateWrong * 0.1;
+    let aggregateScore = aggregateCorrect * 1 + aggregateTotal * 0.05 - aggregateWrong * 0.1;
     aggregateScore = Math.max(aggregateScore, 0);
 
-    // Store aggregate results
     results[username].aggregate = {
       correct: aggregateCorrect,
       wrong: aggregateWrong,
@@ -147,8 +164,8 @@ module.exports = (dependencies) => {
     };
 
     saveResultsToFile();
-
     res.redirect(`/stats?lang=${lang}`);
   });
+
   return router;
 };
