@@ -44,8 +44,8 @@ const questions = [
   {
     text: _("Back to the present. Who delivered the opening keynote at the oSC 2024?"),
     answers: [
-        { text: _("Dirk-Peter van Leeuwen"), correct: true },
-        { text: _("Rick Spencer"), correct: false },
+        { text: _("Richard Stallman"), correct: false },
+        { text: _("Rick Spencer"), correct: true },
         { text: _("Melissa Di Donato"), correct: false },
         { text: _("Mark Shuttleworth"), correct: false },
     ],
@@ -116,7 +116,7 @@ const questions = [
   {
     text: _("Since 2022 we do have an extra service available at oSC? What is it?"),
     answers: [
-      { text: _("A machine for tuna flavored popcorn"), correct: false },
+      { text: _("A machine for a tuna flavored popcorn"), correct: false },
       { text: _("A low wave radio station"), correct: false },
       { text: _("An ambulance"), correct: true },
       { text: _("Self-service beer tap"), correct: false },
