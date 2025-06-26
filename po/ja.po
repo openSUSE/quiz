@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 00:21+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 04:50+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "カーネル忍者"
@@ -1794,79 +1783,79 @@ msgid "Mark Shuttleworth"
 msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "oSC 2025 で開催予定のセッション数は？"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 セッション"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 セッション"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 セッション"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42.3 セッション"
 
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
 msgstr "openSUSE カンファレンスがまだ開催されていない都市は？"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "プラハ (チェコ)"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "ハーグ (オランダ)"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "パリ (フランス)"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "テッサロニキ (ギリシャ)"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "通常、ニュルンベルクで openSUSE のカンファレンス前パーティが開催されるのはどこ？"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "Kater Murr にて"
 
 msgid "At ZypperHaus"
 msgstr "ZypperHaus にて"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "地元の大学で SUSE 社のインターンが運営する SESU クラブにて"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "meet.opensuse.org の仮想チャンネル /bar にて"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "公式の openSUSE swag で珍しいものが見つかりました。それは何？"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "openSUSE ブランドのシュールストレミング"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Geeko 味の歯磨き粉"
 
 msgid "openSUSE beer"
 msgstr "openSUSE beer"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "FIPS 認証を受けた靴下"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "元会計担当の Andrew が公演中に驚くべき '創作' を発表し、大きな拍手を浴びました。それは何？"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Geeko とダーティ・ダンシング"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "フリーソフトウエアの歌を披露"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "バンジョーを演奏"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "水着を着て対応中のバグに深く潜水"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
 msgstr ""
