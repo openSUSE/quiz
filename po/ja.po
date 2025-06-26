@@ -1658,7 +1658,6 @@ msgid "The project name of next gen zypper"
 msgstr "次世代の zypper のプロジェクト名"
 
 #, fuzzy
-#| msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "この問題は注意して回答してください！ zypper rm --clean deps についてはご存じの通りですが、 `zypper rm --clean-deps rm` を実行すると何が起こる？"
 
@@ -2081,7 +2080,6 @@ msgid "systemd-boot"
 msgstr "systemd-boot"
 
 #, fuzzy
-#| msgid "Since 2022 we do have an extra service available at oSC? What is it"
 msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgstr "2022 年より、 oSC で追加のサービスが提供されるようになりました。それは何？"
 
