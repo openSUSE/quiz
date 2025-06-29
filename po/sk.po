@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-27 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-29 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1833,94 +1833,94 @@ msgid "What unusual item has appeared as official openSUSE swag?"
 msgstr "Aký nezvyčajný predmet sa objavil ako oficiálny tovar openSUSE?"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "Surströmming pod značkou openSUSE"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Zubná pasta s príchuťou Geeko"
 
 msgid "openSUSE beer"
 msgstr "Pivo openSUSE"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "Ponožky s certifikátom FIPS"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "Náš bývalý pokladník Andrew zožal obrovský potlesk za prekvapivý 'výtvor' počas svojho príhovoru. Čo to bolo?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Hriešny tanec s Geekom"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "Spievanie piesne o slobodnom softvéri"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "Hra na bendžo"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "Hlboké ponorenie do otvorených chýb v plavkách"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "Čo sa stalo s konferenciou openSUSE v rokoch 2020-2021?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "Konala sa na obežnej dráhe pomocou SpaceX"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "Bola virtuálna kvôli COVID-19"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Zlúčila sa s Novel Digital"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "Zrušená z dôvodu nedostatku pizze"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "Piatková nočná párty oSC 2016 sa tentoraz predĺžila kvôli špeciálnemu živému vystúpeniu. Čo ju urobilo nezabudnuteľnou?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "Slávna kapela SUSE rozprúdila Z-Bau"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Prekvapujúca úvodná prednáška Linusa Torvaldsa"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "Spontánna YaST karaoke súťaž"
 
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Epický tanečný súboj maskotov Geeko"
 
 msgid "Immutability"
-msgstr ""
+msgstr "Nemennosť"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "Poďme sa niečo dozvedieť o našich nemenných distribúciách."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "Zjednodušene povedané, ako funguje 'transactional-update' poháňajúce naše nemenné distribúcie?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "Väčšina systémových oddielov je pripojená len na čítanie, čo zabraňuje zmenám na disku."
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "Aktualizácie nemajú vplyv na bežiaci systém dovtedy, kým sa nereštartuje do novej snímky."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "Systém používa transakčnú aktualizáciu na bezpečné, atomické aktualizácie a jednoduché vrátenie sa späť."
 
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Ktoré z týchto sú nemenné distribúcie openSUSE?"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
 msgid "What is openSUSE MicroOS?"
 msgstr "Čo je openSUSE MicroOS?"
@@ -1929,19 +1929,19 @@ msgid "A rolling-release web browser"
 msgstr "Webový prehliadač rolujúceho vydania"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "Micro Service OS zostavený komunitou openSUSE"
 
 msgid "A package manager"
-msgstr ""
+msgstr "Správca balíkov"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "Behové prostredie kontajnerov"
 
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Ktoré desktopové prostredie používa openSUSE Aeon ako predvolené?"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Ktoré desktopové prostredie používa openSUSE Kalpa ako predvolené?"
