@@ -1,97 +1,87 @@
+# a Rubes <aRubes@pm.me>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-03 11:33+0000\n"
-"Last-Translator: a Rubes <aRubes@pm.me>\n"
-"Language-Team: Hebrew <https://l10n.opensuse.org/projects/quiz/quiz/he/>\n"
-"Language: he\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-30 17:59+0000\nLast-Translator: a Rubes <aRubes@pm.me>\nLanguage-Team: Hebrew <https://l10n.opensuse.org/projects/quiz/quiz/he/>\nLanguage: he\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "נינג'ת קרנל (Kernel Ninja)"
 
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "עובדות מעניינות אודות הגרעין (קרנל) ב SUSE וב openSUSE"
 
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "מהו, להערכתך, גודל הקובץ במגהבייט של קובץ תמונת הדיסק הבסיסי (squashfs image) של SUSE Automotive Linux OS?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "כ - 20 מגהבייט"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "כ- 60 מגהבייט"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "כ - 240 מגהבייט"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "כ - 520 מגהבייט"
 
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "כמה פרמטרים לקונפיגורצייה (בערך) מותאמים בקרנל זמן-אמת לתעשיית הרכב בהשוואה לקרנל הסטנדרטי של SLES?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "כ - 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "כ - 500"
 
 msgid "~ 50000"
-msgstr ""
+msgstr "כ - 50000"
 
 msgid "~ 500000"
-msgstr ""
+msgstr "כ - 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "נכון ל 11 ביוני 2025, כמה פאצ'ים הוספו לקרנל המקור (upstream) גרסה 15.6 (SLES 15 SP16)?"
 
 msgid "4231"
-msgstr ""
+msgstr "4231"
 
 msgid "16102"
-msgstr ""
+msgstr "16102"
 
 msgid "32786"
-msgstr ""
+msgstr "32786"
 
 msgid "346870"
-msgstr ""
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr ""
+msgstr "איזה וריאנט של הקרנל בשימוש כברירת המחדל של openSUSE LEAP?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr ""
+msgstr "מהו ההבדל העיקרי בין הקרנלים kernel-default ו kernel-rt ב openSUSE?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt תומך בחומרה ישנה יותר"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt לא תומך במניעה (preemption)"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt תומך תמיכה מלאה במניעה בזמן אמת"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "ל kernel-rt יש פחות אפשרויות אבטחה"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
 msgstr ""
