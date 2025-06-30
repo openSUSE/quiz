@@ -6,7 +6,7 @@
 # Arif Budiman <arifpedia@gmail.com>, 2025.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-27 18:59+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-30 17:59+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Ninja Kernel"
@@ -1652,7 +1652,6 @@ msgstr "Symlink ke zypper, untuk menghindari kesalahan pada keyboard dengan tomb
 msgid "The project name of next gen zypper"
 msgstr "Nama proyek Zypper generasi berikutnya"
 
-#, fuzzy
 msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Ini agak rumit! Kita semua tahu perintah `zypper rm --clean-deps`, tapi apa yang terjadi jika Anda menjalankan `zypper rm --clean-deps rm`?"
 
@@ -2074,9 +2073,8 @@ msgstr "grub2"
 msgid "systemd-boot"
 msgstr "systemd-boot"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC. What is it?"
-msgstr "Sejak 2022, apakah oSC memiliki layanan tambahan yang tersedia? Apa itu?"
+msgstr "Sejak tahun 2022, kami memiliki layanan tambahan yang tersedia di oSC. Apa itu?"
 
 msgid "A machine for a tuna flavored popcorn"
 msgstr "Mesin untuk popcorn rasa tuna"
