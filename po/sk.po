@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-29 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-01 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1947,55 +1947,55 @@ msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "Ktoré desktopové prostredie používa openSUSE Kalpa ako predvolené?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "Obe sú založené na MicroOS s desktopom pripraveným na použitie."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "Obe používajú transakčné aktualizácie pre inštaláciu rpm."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "Obe propagujú distrobox a flatpak pre ďalšie aplikácie."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "Aeon aj Kalpa majú zaujímavé názvy, ktoré nepriamo odkazujú na rolujúce vydanie. Ako?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "Oba sú staroveké termíny, ktoré znamenajú dlhé obdobia alebo kozmické cykly."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "Oba názvy pochádzajú zo slávnych westernových filmov, v ktorých sa objavil kotúľajúci sa láskavec."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "Obe sú veľmi staré prezývky pôvodného architekta stojaceho za MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "Obe sa týkajú nástrojov na aktualizáciu softvéru v openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "V roku 2023 sa uskutočnil experiment s nemenným desktopom založeným na Sway. Viete jeho názov?"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "Ktorý nástroj sa používa na bezpečnú aktualizáciu základného systému v našich nemenných distribúciách?"
 
 msgid "zypper dup"
 msgstr "zypper dup"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
 msgid "How can you install an additional package?"
 msgstr "Ako môžete nainštalovať dodatočný balík?"
@@ -2007,16 +2007,16 @@ msgid "dnf install"
 msgstr "dnf install"
 
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "Prečo sa všeobecne neodporúča používať 'transactional-update shell'?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "Pretože môžete upraviť všetky časti systému."
 
 msgid "It creates wormholes into another dimension."
 msgstr ""
