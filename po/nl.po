@@ -1,26 +1,16 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
+# Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
-"PO-Revision-Date: 2025-06-26 13:50+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-01 18:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr "Interessante feiten over kernel in SUSE en openSUSE"
+msgstr "Interessante feiten over de kernel in SUSE en openSUSE"
 
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Wat is ruwweg de grootte (MB) van de basis (squashfs) image van SUSE Automobiel Linux OS?"
+msgstr "Wat is ruwweg de grootte (MB) van de base (squashfs) image van SUSE Automotive Linux OS?"
 
 msgid "~ 20MB"
 msgstr "~ 20MB"
@@ -35,7 +25,7 @@ msgid "~ 520MB"
 msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "Hoeveel configuratieparameters (ruwweg) worden er aangepast in de real-time Linux kernel voor automobielen vergeleken met de standaard SLES RT?"
+msgstr "Hoeveel configuratieparameters (ruwweg) worden er aangepast in de real-time Linux kernel voor automotive vergeleken met de standaard SLES RT?"
 
 msgid "~ 50"
 msgstr "~ 50"
@@ -80,16 +70,16 @@ msgid "kernel-vanilla"
 msgstr "kernel-vanilla"
 
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Wat is her primaire verschil tussen kernel-default en kernel-rt in openSUSE?"
+msgstr "Wat is het primaire verschil tussen kernel-default en kernel-rt in openSUSE?"
 
 msgid "kernel-rt supports older hardware"
 msgstr "kernel-rt ondersteunt oudere hardware"
 
 msgid "kernel-rt disables preemption"
-msgstr "kernel-rt schakelt voorrang uit"
+msgstr "kernel-rt schakelt preemtion uit"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr "kernel-rt heeft volledige real-time voorrang ingeschakeld"
+msgstr "kernel-rt heeft volledige real-time preemption ingeschakeld"
 
 msgid "kernel-rt has less security features"
 msgstr "kernel-rt heeft minder functies voor beveiliging"
@@ -110,7 +100,7 @@ msgid "Better energy efficiency"
 msgstr "Betere energie-efficiency"
 
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Wat is de naam van een (erg) snel hulpmiddel voor uitvouwen van kernel patches?"
+msgstr "Wat is de naam van een (erg) snel hulpmiddel voor uitbouwen van kernel patches?"
 
 msgid "gitlab-kernel"
 msgstr "gitlab-kernel"
@@ -215,7 +205,7 @@ msgid "noacpi"
 msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr "Welk real-time planningsbeleid is het meest deterministisch in Linux?"
+msgstr "Welke real-time scheduling policy is het meest deterministisch in Linux?"
 
 msgid "SCHED_OTHER"
 msgstr "SCHED_OTHER"
@@ -275,16 +265,16 @@ msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
 msgstr "Kernel Operators Training Division — Jedi-niveau kernel-ninjas"
 
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE is een top 6 Linux kernel bijdrager (LF 2017). Om hoeveel procent van de bijdragen gaat het?"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "Minder dan 1%"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "Ongeveer 3%"
 
 msgid "About 5%"
-msgstr ""
+msgstr "Ongeveer 5%"
 
 msgid "More than 20%"
 msgstr "Meer dan 20%"
