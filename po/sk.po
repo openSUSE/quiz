@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-01 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-03 02:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -2019,73 +2019,73 @@ msgid "Because you can modify all parts of the system."
 msgstr "Pretože môžete upraviť všetky časti systému."
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "Vytvára červie diery do inej dimenzie."
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "Môže tajne migrovať váš systém na Fedoru."
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "Geeko stratí vlas zakaždým, keď ho použijete."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "Ako naše nemenné distribúcie umožňujú zápis do /etc za behu?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "Použitím overlayfs nad /etc"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "Priamym pripojením zapisovateľného podzväzku Btrfs"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "Zakázaním režimu len na čítanie počas štartu systému"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "Prostredníctvom vrstvenia rpm-ostree"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "Okrem mechanizmu aktualizácie v nemenných distribúciách, ktoré ďalšie komponenty PODPORUJÚ transakčné aktualizácie?"
 
 msgid "Salt and Ansible"
 msgstr "Salt a Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "Iba jedna z nasledujúcich nemenných distribúcií má pravidelné vydania, ostatné sú rolujúce. Ktorá z nich?"
 
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Aký správca štartu sa používa v openSUSE Aeon v predvolenom nastavení?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
 msgid "systemd-boot"
 msgstr "systemd-boot"
 
 msgid "Since 2022 we do have an extra service available at oSC. What is it?"
-msgstr ""
+msgstr "Od roku 2022 máme na oSC k dispozícii extra službu. Čo to je?"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "Stroj na popcorn s príchuťou tuniaka"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "Nízkovlnná rádiová stanica"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "Sanitka"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "Samoobslužný výčap piva"
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 #~ msgid "toe"
 #~ msgstr "toe"
