@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-03 02:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-04 07:50+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -826,355 +826,369 @@ msgid "gedit"
 msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "Wat is het commando om een pakket te installeren in openSUSE"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install package-name"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install package-name"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S package-name"
 
 msgid "What is the name of the official openSUSE community forum?"
-msgstr ""
+msgstr "Wat is de naam van het officiële opemSUSE forum?"
 
 msgid "forums.opensuse.org"
-msgstr ""
+msgstr "forums.opensuse.org"
 
 msgid "discuss.opensuse.com"
-msgstr ""
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
 msgid "opensuse-chat.org"
-msgstr ""
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "Welke tool wordt aangeraden voor het beheer van repositories en pakketten in openSUSE"
 
 msgid "yum"
 msgstr "yum"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
+#, fuzzy
 msgid "pacman"
-msgstr ""
+msgstr "pacman"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr ""
+msgstr "Wat is de naam van openSUSE's vlaggenschip rollende uitgave?"
 
 msgid "What command will list all repositories in openSUSE?"
-msgstr ""
+msgstr "Welk commando toont alle repositories in openSUSE?"
 
 msgid "zypper repos"
-msgstr ""
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
 msgid "dnf repolist"
-msgstr ""
+msgstr "dnf repolist"
 
 msgid "pacman -Q"
-msgstr ""
+msgstr "pacman -Q"
 
 msgid "What is the primary license used by openSUSE?"
-msgstr ""
+msgstr "Wat is de primaire licentie die door openSUSE gebruikt wordt?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT License"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache License"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Proprietary"
 
 msgid "What does OBS stand for in openSUSE context?"
-msgstr ""
+msgstr "Wat betekent OBS in openSUSE context?"
 
 msgid "Open Build Service"
-msgstr ""
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System"
 
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr ""
+msgstr "Welke openSUSE service brengt live bouwomgevingen en pakket-repositories?"
 
 msgid "Open Build Service (OBS)"
-msgstr ""
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
 msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
-msgstr ""
+msgstr "Wat is het primaire doel van het openSUSE Project?"
 
 msgid "Promoting and supporting free and open source software"
-msgstr ""
+msgstr "Promoten en ondersteunen van vrije, open source software"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "Proprietary software maken"
 
 msgid "Developing video games"
-msgstr ""
+msgstr "Spelletjes maken"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "Cloud services verschaffen"
 
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr ""
+msgstr "Welke openSUSE tool wordt gebruikt voor systeem-configuratie en -beheer?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE System Settings"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr ""
+msgstr "Welk commando gebruik je om systeem snapshots te checken in openSUSE?"
 
 msgid "snapper list"
-msgstr ""
+msgstr "snapper list"
 
 msgid "timeshift --list"
-msgstr ""
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 msgid "What package format does openSUSE use?"
-msgstr ""
+msgstr "Welk pakketformaat gebruikt openSUSE?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "What is the default shell in openSUSE?"
-msgstr ""
+msgstr "Wat is de standaard shell in openSUSE?"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "Welke van deze is een gemeenschap gestuurde openSUSE versie?"
 
+#, fuzzy
 msgid "Leap Micro"
-msgstr ""
+msgstr "Leap Micro"
 
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
+#, fuzzy
 msgid "openSUSE Greenhorn"
-msgstr ""
+msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
+msgstr "Geen zorgen, deze quiz is grotenddeels educatief. Nergens voor nodig om alle antwoorden te weten."
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
+msgstr "Welke van de volgende pakketbeheerders wordt algemeen gebruikt in openSUSE?"
 
+#, fuzzy
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
+#, fuzzy
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
+#, fuzzy
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
+#, fuzzy
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "Kun je Windows spellen spelen op openSUSE?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "Nee, alleen Windows kan dat"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "Natuurlijk. Start Steam en speel ze"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "Alleen als je de spelletjesgoden aanroept"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "Je hebt eerst een geheime handdruk nodig"
 
 msgid "Where can you download openSUSE installation images?"
-msgstr ""
+msgstr "Waar kun je openSUSE installatie images downloaden?"
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr ""
+msgstr "Alleen van vreemde USB sticks die mensen achtergelaten hebben in coffeeshops"
 
 msgid "From get.opensuse.org"
-msgstr ""
+msgstr "Van get.opensuse.org"
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr ""
+msgstr "Door heel hard \"YaST\" te roepen tegen een terminal"
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr ""
+msgstr "Kan niet, worden alleen verstuurd per postduif"
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr ""
+msgstr "Waar moet je problemen die je tegenkomt rapporteren in openSUSE?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr ""
+msgstr "Tegen je scherm schreeuwen en hopen"
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr ""
+msgstr "Stuur een keiharde brief aan Geeko"
 
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr ""
+msgstr "Hier:  bugzilla.opensuse.org"
 
 msgid "Write it in your diary and move on"
-msgstr ""
+msgstr "Schrijf het in je dagboek en ga verder"
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr ""
+msgstr "Waar vind je evenmenten om mee te doen met de openSUSE gemeenschap?"
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr ""
+msgstr "Probeer oude Geeko schrifrollen te ontcijferen"
 
 msgid "On calendar.opensuse.org"
-msgstr ""
+msgstr "Op calendar.opensuse.org"
 
 msgid "Look under your keyboard for hidden clues"
-msgstr ""
+msgstr "Kijk onder je toetsenbord voor verborgen aanwijzingen"
 
 msgid "Events are revealed only during a full moon"
-msgstr ""
+msgstr "Evenementen worden geopenbaard bij volle maan"
 
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr ""
+msgstr "Waar kun je om hulp vragen, als je verdwaald bent in het openSUSE universum?"
 
+#, fuzzy
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x Expert"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "Een quiz voor mainframevrienden en exotische architecturen"
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "Wat is het verschil tussen Big Endian en Little Endian?"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s30x gebruikt maar 31b, vandaar Little Endian"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "Het gaat allemaal om \"byte ordering\". omdat s390x Big Endian is"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "Het gaat allemaal om \"byte ordering\". omdat s390x Litle Endian is"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "Wordt niet meer gebruikt. s390x is Bi-endian"
 
+#, fuzzy
 msgid "DASD is?"
-msgstr ""
+msgstr "DASD is?"
 
 msgid "A German word"
-msgstr ""
+msgstr "Een duits woord"
 
 msgid "Direct-access storage device"
 msgstr "Direct-access opslagapparaat"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "Krachtterm, vaak gebruikt door s390x beheerders"
 
+#, fuzzy
 msgid "A scsi disk"
-msgstr ""
+msgstr "scsi disk"
 
+#, fuzzy
 msgid "HMC is?"
-msgstr ""
+msgstr "HMC is?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Home mc, niks meer dan een nieuwe, vriendelijker Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
 msgstr ""
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "Een commando om hardware netwerk adressen te tonen"
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "Een verborgen \"module control unit\""
 
+#, fuzzy
 msgid "z/VM is?"
-msgstr ""
+msgstr "z/VM is?"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Virtual Machine op Z (d.w.z. s390x)"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM is een besturingssysteem dat meestal gebruikt wordt als hypervisor"
 
+#, fuzzy
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "Remote desktop viewer"
 
 msgid "Zombie Virtual Memory"
 msgstr "Zombie virtueel geheugen"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "Wat betekent opslag in de mainframe wereld?"
 
+#, fuzzy
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "Memory (RAM)"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "Data storage (disks) geteld in cylinders"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "Een ruimte waar het mainframe zich bevindt"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "Deel binnen een mainframe waar de disks zich bevinden"
 
 msgid "What is x3270?"
-msgstr ""
+msgstr "Wat is x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
 msgstr ""
