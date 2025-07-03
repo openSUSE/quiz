@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-01 18:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-07-03 02:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -382,7 +382,7 @@ msgid "It can talk to animals"
 msgstr "Het kan met dieren praten"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr "Het is een modern, vrij besturingssysteem dat iedereen kan gebruiken — ook u!"
+msgstr "Het is een modern, vrij besturingssysteem dat iedereen kan gebruiken — ook jij!"
 
 msgid "It’s made of chameleon scales"
 msgstr "Het is gemaakt van kameleonschubben"
@@ -412,7 +412,7 @@ msgid "It’s a password"
 msgstr "Het is een wachtwoord"
 
 msgid "It means everyone can use it and help make it better"
-msgstr "Het betekent dat iedereen het kan gebruiken en het helpen beter te maken"
+msgstr "Het betekent dat iedereen het kan gebruiken en kan helpen het beter te maken"
 
 msgid "It’s only for opening doors"
 msgstr "Het is alleen voor het openen van deuren"
@@ -436,7 +436,7 @@ msgid "No, their eyes are always closed"
 msgstr "Nee, hun ogen zijn altijd gesloten"
 
 msgid "openSUSE Expert"
-msgstr "openSUSE expert"
+msgstr "openSUSE Expert"
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
 msgstr "Daag andere gebruikers in ons klassement uit. 30 seconden per vraag. Stop op elk moment."
@@ -475,10 +475,10 @@ msgid "What are Aeon and Kalpa?"
 msgstr "Wat zijn Aeon en Kalpa?"
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "Modern 'onveranderbare' bureaubladen met GNOME en KDE"
+msgstr "Modern 'onveranderbare' bureaublad omgevingen met GNOME en KDE"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Rollende distributies met via transacties bijwerken met gebruik van flatpaks op het bureaublad"
+msgstr "Rollende distributies met via transactional updates met gebruik van flatpaks op het bureaublad"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "Distributies gebouwd bovenop MicroOS"
@@ -487,7 +487,7 @@ msgid "All options are correct"
 msgstr "Alle opties zijn juist"
 
 msgid "Where was the openSUSE project founded?"
-msgstr "Waar was het openSUSE project opgericht?"
+msgstr "Waar werd het openSUSE project opgericht?"
 
 msgid "In Choustníkovo Hradiště"
 msgstr "In Choustníkovo Hradiště"
@@ -547,7 +547,7 @@ msgid "Slowroll"
 msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr "Welke openSUSE rollende distributie biedt een kalmer alternatief dan Tumbleweed voor gebruikers die minder verrassingen willen?"
+msgstr "Welke openSUSE rollende distributie biedt een kalmer alternatief voor Tumbleweed voor gebruikers die minder verrassingen willen?"
 
 msgid "Tumblebleed"
 msgstr "Tumblebleed"
@@ -604,10 +604,10 @@ msgid "Autobuilder"
 msgstr "Autobuilder"
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr "Hoe kunt u wijzigingen aanbrengen aan de root-partitie op een op transactioneel bijwerken gebaseerd systeem?"
+msgstr "Hoe kunt u wijzigingen aanbrengen aan de root-partitie op een op transactional updates gebaseerd systeem?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr "Gebruik het commando voor transactioneel bijwerken en start in een nieuwe momentopname"
+msgstr "Gebruik het commando transactional-update en herstart in een nieuwe momentopname"
 
 msgid "By using sudo-sudo to gain giga privileges"
 msgstr "Door sudo-sudo te gebruiken om giga-privileges te verkrijgen"
@@ -634,67 +634,67 @@ msgid "A programming language"
 msgstr "Een programmeertaal"
 
 msgid "What is the name of installer in openSUSE Aeon?"
-msgstr ""
+msgstr "Wat is de naam van de installer in openSUSE Aeon?"
 
 msgid "tik"
 msgstr "tik"
 
 msgid "tak"
-msgstr ""
+msgstr "tak"
 
 msgid "tao"
-msgstr ""
+msgstr "tao"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
+msgstr "Wat is dé plek om voor info over projecten van Rancher en SUSE?"
 
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Rancher Academy"
 
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 msgid "Moo University"
-msgstr ""
+msgstr "Moo University"
 
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
-msgstr ""
+msgstr "Waar kun je extra pakketten of pakketten met wijzigingen van installeren, die niet in de distributie zittten?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "Met one-click van software.opensuse.org"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "Door het doolhof van projecten op OBS build.opensuse.org te doorzoeken"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
+msgstr "Door het commando opi, van de Packman repo of Flathub"
 
 msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
 msgstr ""
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, geen postduif"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "Letterlijk de lucht in"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "Stuur een email naar Geeko"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "Rooksignalen vanuit Neurenberg"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
+msgstr "Waar kun de huidige status van de openSUSE infrastructuur checken?"
 
 msgid "status.opensuse.org"
-msgstr ""
+msgstr "status.opensuse.org"
 
 msgid "isopensusedown.com"
-msgstr ""
+msgstr "isopensusedown.com"
 
 msgid "yast-status-viewer"
 msgstr "yast-status-viewer"
@@ -703,10 +703,10 @@ msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
+msgstr "Wat is de naam van de vervanger van YaST Software?"
 
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 msgid "Zypperella"
 msgstr "Zypperella"
@@ -718,112 +718,112 @@ msgid "DnfDumbledore"
 msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "Hoe vaak komt er een nieuwe Leap verse?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "Elke 5 jaar als de sterren in lijn staan"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "Elke 12 maand met 6 maand overlapping"
 
 msgid "Every month"
-msgstr ""
+msgstr "Elke maand"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "Als Geeko zich verveelt"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "Waarmee in openSUSE is deze vertaling gemaakt?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 msgid "Build Service"
-msgstr ""
+msgstr "Buid Service"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "Welk commando zou je gebruiken om software pakketten in openSUSE te updaten vanuit een terminal?"
 
 msgid "zypper update"
 msgstr "zypper update"
 
 msgid "apt-get update"
-msgstr ""
+msgstr "apt-get update"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr ""
+msgstr "Welke positie neemt Tumbleweed in in openSUSE?"
 
 msgid "A rolling release distribution"
-msgstr ""
+msgstr "Een \"rolling release\" distributie"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "Een bureaublad omgeving"
 
 msgid "The mascot"
-msgstr ""
+msgstr "De mascotte"
 
 msgid "An installer"
-msgstr ""
+msgstr "Een installatie programma"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr ""
+msgstr "Welke openSUSE distributie staat bekend als stabiele \"point\" uitgave?"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr ""
+msgstr "Wat is het primaiire doel van openSUSE MicroOS?"
 
 msgid "Immutable OS optimized for containers and microservices"
-msgstr ""
+msgstr "Immutable OS geoptimaliseerd voor containers en micro-services"
 
 msgid "Gaming"
-msgstr ""
+msgstr "Spelletjes spelen"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "Bureaublad productiviteit"
 
 msgid "Scientific computing"
-msgstr ""
+msgstr "Wetenschappelijke berekeningen"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr ""
+msgstr "Welke tool wordt gebruikt om snapshots te maken en beheren op openSUSE?"
 
 msgid "snapper"
-msgstr ""
+msgstr "snapper"
 
 msgid "timeshift"
-msgstr ""
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "Wat is de standaard tekstbewerker in openSUSE?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
 msgstr ""
