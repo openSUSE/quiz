@@ -170,6 +170,15 @@ const questions = [
       { text: _("Bluetooth"), correct: true },
     ],
   },
+   {
+    text: _("What will be delivered together with a mainframe by IBM?"),
+    answers: [
+      { text: _("A necklet with IBM on it"), correct: false },
+      { text: _("Protective footwear"), correct: false },
+      { text: _("A sword for protection of the mainframe"), correct: false },
+      { text: _("A white helmet with IBM on it"), correct: true },
+    ],
+  },
 ];
 
 // Randomize questions here if enabled
