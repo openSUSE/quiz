@@ -864,7 +864,6 @@ msgstr "yum"
 msgid "apt"
 msgstr "apt"
 
-#, fuzzy
 msgid "pacman"
 msgstr "pacman"
 
