@@ -1,18 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-07-04 07:50+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-04 11:48+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr ""
@@ -228,7 +217,6 @@ msgstr ""
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
 msgstr ""
 
-#, fuzzy
 msgid "DNF"
 msgstr "DNF"
 
@@ -1237,11 +1225,9 @@ msgstr "Welke van de volgende pakketbeheerders wordt algemeen gebruikt in openSU
 msgid "Yum"
 msgstr "Yum"
 
-#, fuzzy
 msgid "Zypper"
 msgstr "Zypper"
 
-#, fuzzy
 msgid "Pacman"
 msgstr "Pacman"
 
@@ -1318,7 +1304,7 @@ msgid "In what year was the first-ever openSUSE Conference held?"
 msgstr ""
 
 msgid "2006"
-msgstr ""
+msgstr "2006"
 
 msgid "2009"
 msgstr ""
@@ -1495,7 +1481,6 @@ msgstr ""
 msgid "Self-service beer tap"
 msgstr ""
 
-#, fuzzy
 msgid "s390x Expert"
 msgstr "s390x Expert"
 
@@ -1517,7 +1502,6 @@ msgstr "Het gaat allemaal om \"byte ordering\". omdat s390x Litle Endian is"
 msgid "It’s not used anymore, s390x are Bi-endianess"
 msgstr "Wordt niet meer gebruikt. s390x is Bi-endian"
 
-#, fuzzy
 msgid "DASD is?"
 msgstr "DASD is?"
 
@@ -1527,14 +1511,12 @@ msgstr "Een duits woord"
 msgid "Swear word repeated often by s390x administrators"
 msgstr "Krachtterm, vaak gebruikt door s390x beheerders"
 
-#, fuzzy
 msgid "A scsi disk"
-msgstr "scsi disk"
+msgstr "Een scsi-schijf"
 
 msgid "Direct-access storage device"
 msgstr "Direct-access opslagapparaat"
 
-#, fuzzy
 msgid "HMC is?"
 msgstr "HMC is?"
 
@@ -1542,7 +1524,7 @@ msgid "Home mc, just a new friendlier Midnight Commander"
 msgstr "Home mc, niks meer dan een nieuwe, vriendelijker Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
-msgstr ""
+msgstr "Een webinterface voor beheer van mainframes"
 
 msgid "A command for listing hardware network addresses."
 msgstr "Een commando om hardware netwerk adressen te tonen"
@@ -1550,7 +1532,6 @@ msgstr "Een commando om hardware netwerk adressen te tonen"
 msgid "A hidden module control unit"
 msgstr "Een verborgen \"module control unit\""
 
-#, fuzzy
 msgid "z/VM is?"
 msgstr "z/VM is?"
 
@@ -1560,9 +1541,8 @@ msgstr "z/VM is een besturingssysteem dat meestal gebruikt wordt als hypervisor"
 msgid "Virtual Machine on Z (meaning s390x)"
 msgstr "Virtual Machine op Z (d.w.z. s390x)"
 
-#, fuzzy
 msgid "Remote desktop viewer"
-msgstr "Remote desktop viewer"
+msgstr "Bureaubladviewer op afstand"
 
 msgid "Zombie Virtual Memory"
 msgstr "Zombie virtueel geheugen"
@@ -1576,9 +1556,8 @@ msgstr "Data storage (disks) geteld in cylinders"
 msgid "A room where the mainframe is located"
 msgstr "Een ruimte waar het mainframe zich bevindt"
 
-#, fuzzy
 msgid "Memory (RAM)"
-msgstr "Memory (RAM)"
+msgstr "Geheugen (RAM)"
 
 msgid "Compartment within a mainframe where the disks are located"
 msgstr "Deel binnen een mainframe waar de disks zich bevinden"
@@ -1587,103 +1566,103 @@ msgid "What is x3270?"
 msgstr "Wat is x3270?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "Speciale codering van bestanden, die moet voor bestanden op s390x"
 
 msgid "Terminal emulator for connection to a machine"
-msgstr ""
+msgstr "Terminalemulator voor verbinding met een machine"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "Hexa-code gebruikt als standaard voor wachtwoord van beheerder"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "Geen van deze belachelijke keuzes"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "Wat betekent IPL 150?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "Geef me een extra 150MB geheugen"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "IP-adres naar mijn Linux machine"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "Opstarten vanaf schijf 150."
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Installeer Python bibliotheken versie 1.5.0"
 
 msgid "What is IFL?"
-msgstr ""
+msgstr "Wat is IFL?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "Een filtratie eenheid voor koelvloeistof"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "Een verzonnen woord om laptopgebruikers te verwarren"
 
 msgid "Integrated FLat circuit"
 msgstr "Geïntegreerd FLat circuit"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "Een kern om Linux op een mainframe te draaien"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "Wat is cio_ignore?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "Een commando om zichtbaarheid van apparaten te maskeren"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "Negeer invoer/uitvoergegevens totdat de lijn gereed is om te ontvangen"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "Het betekent echt, negeer CIO"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "Een z/VM syslogfilter"
 
 msgid "What is the most used operating system on mainframes?"
-msgstr ""
+msgstr "Wat is het meest gebruikte besturingssysteem op mainframes?"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "z/VM"
-msgstr ""
+msgstr "z/VM"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "Hebben mainframes een speciale AI mogelijkheid?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "Ja, de laatste modellen hebben de Spyre versneller."
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "Nee, het is te oude technologie."
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "Ja, maar het kan niet gebruikt worden op Linux."
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "Nee, mainframes zijn niet bruikbaar voor het draaien van AI taken."
 
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr ""
+msgstr "Welke van de volgende I/O apparaten worden niet met mainframes gebruikt?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Schijven"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Magneetbandapparaten"
 
 msgid "Network"
-msgstr ""
+msgstr "Netwerk"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
@@ -1704,118 +1683,118 @@ msgid "A white helmet with IBM on it"
 msgstr ""
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "De ultieme YaST uitdaging"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "U denkt YaST te kennen? Denk nog eens."
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Hoeveel YaST2 vertaalpakketten zijn er in Tumbleweed?"
 
 msgid "about 25"
-msgstr ""
+msgstr "ongeveer 25"
 
 msgid "about 40"
-msgstr ""
+msgstr "ongeveer 40"
 
 msgid "about 60"
-msgstr ""
+msgstr "ongeveer 60"
 
 msgid "about 80"
-msgstr ""
+msgstr "ongeveer 80"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Hoeveel YaST2 pakketten (zonder vertaalpakketten) zijn er in Tumbleweed?"
 
 msgid "about 30"
-msgstr ""
+msgstr "ongeveer 30"
 
 msgid "about 50"
-msgstr ""
+msgstr "ongeveer 50"
 
 msgid "about 100"
-msgstr ""
+msgstr "ongeveer 100"
 
 msgid "about 150"
-msgstr ""
+msgstr "ongeveer 150"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "Wanneer is de eerste YaST2 uitgegeven?"
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "2002"
-msgstr ""
+msgstr "2002"
 
 msgid "2004"
-msgstr ""
+msgstr "2004"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "Wanneer bereikte YaST2 de leeftijd waarop je in Duitsland alcohol mag drinken?"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "Wat gebeurt er wanneer u de toets F2 in yast2 sw_single (Qt) indrukt?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "U krijgt de weergave \"Patches\""
 
 msgid "It crashes"
-msgstr ""
+msgstr "Het crasht"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "Het installeert een willekeurig pakket"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "De Mogwai wordt hongerig"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "Hoe kunt u een xterm in een YaST2 installatie krijgen?"
 
 msgid "you can't"
-msgstr ""
+msgstr "dat kan niet"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "u klikt 7 keer op het pictogram Geeko linksboven"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "u spreek duidelijk \"xterm\" in in de microfoon (alleen laptops)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "Kunt u de hiërarchie van widgets van een YaST2 venster inspecteren terwijl het actief is?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "Ja, klik 7 keer op de kop van de pagina"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "Ja, doe een midden-klik op een widget"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "Ja, gebruik Ctrl-Shift-Alt-Y"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "Nee - gebruik de broncode, Luke"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "Wat gebeurt er als u rechts klikt op een knop in YaST2?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "Het opent het contextmenu van de knop"
 
 msgid "It resets the page to defaults"
 msgstr ""
