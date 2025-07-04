@@ -6,22 +6,10 @@
 # Arif Budiman <arifpedia@gmail.com>, 2025.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-06-30 17:59+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-05 11:59+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
-msgstr "Ketidakberubahan"
+msgstr "Immutabilitas"
 
 msgid "Let's learn something about our Immutable distros."
 msgstr "Mari pelajari sedikit tentang distro Immutable kita."
@@ -119,9 +107,8 @@ msgstr "grub2"
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Apa itu Aeon dan Kalpa?"
+msgstr "Apa persamaan antara Aeon dan Kalpa?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Keduanya berbasis pada MicroOS dengan desktop yang siap digunakan."
@@ -132,9 +119,8 @@ msgstr "Keduanya menggunakan pembaruan transaksional untuk instalasi RPM."
 msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Keduanya mempromosikan distrobox dan flatpaks untuk aplikasi tambahan."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Semua jawaban benar"
+msgstr "Semua opsi benar."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "Baik Aeon maupun Kalpa memiliki nama yang menarik yang secara tidak langsung merujuk pada sistem rilis berkelanjutan. Bagaimana caranya?"
@@ -248,10 +234,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "Ninja Kernel"
@@ -1474,9 +1460,8 @@ msgstr "Kontes karaoke YaST yang spontan"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Pertarungan dansa epik antara maskot Geeko"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
-msgstr "Sejak tahun 2022, kami memiliki layanan tambahan yang tersedia di oSC. Apa itu?"
+msgstr "Sejak 2022, kita memiliki layanan tambahan yang tersedia di oSC? Apa itu?"
 
 msgid "A machine for a tuna flavored popcorn"
 msgstr "Mesin untuk popcorn rasa tuna"
@@ -1677,20 +1662,19 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "Apa yang akan disertakan bersama dengan mainframe dari IBM?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "Kalung leher yang bertuliskan IBM di atasnya"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "Alas kaki pelindung"
 
-#, fuzzy
 msgid "A sword for protection of the mainframe"
-msgstr "Inti untuk menjalankan Linux pada mainframe"
+msgstr "Pedang untuk melindungi sistem utama"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "Sebuah helm putih dengan tulisan IBM di atasnya"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Tantangan YaST Terakhir"
@@ -2058,7 +2042,6 @@ msgstr "Symlink ke zypper, untuk menghindari kesalahan pada keyboard dengan tomb
 msgid "The project name of next gen zypper"
 msgstr "Nama proyek Zypper generasi berikutnya"
 
-#, fuzzy
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Ini agak rumit! Kita semua tahu perintah `zypper rm --clean-deps`, tapi apa yang terjadi jika Anda menjalankan `zypper rm --clean-deps rm`?"
 
