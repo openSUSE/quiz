@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 09:16+0000\n"
+"POT-Creation-Date: 2025-06-26 16:12+0200\n"
 "PO-Revision-Date: 2025-06-12 09:14+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/quiz/quiz/pl/>\n"
@@ -16,6 +16,237 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.11.4\n"
+
+msgid "Immutability"
+msgstr ""
+
+msgid "Let's learn something about our Immutable distros."
+msgstr ""
+
+msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
+msgstr ""
+
+msgid "Most system partitions are mounted read-only, preventing changes on disk."
+msgstr ""
+
+msgid "Updates don’t affect the running system until rebooting into a new snapshot."
+msgstr ""
+
+msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
+msgstr ""
+
+msgid "All options are correct"
+msgstr ""
+
+msgid "Which of these are openSUSE Immutable distros?"
+msgstr ""
+
+msgid "Silverblue, CoreOS"
+msgstr ""
+
+msgid "MicroOS, Leap Micro, Aeon, Kalpa"
+msgstr ""
+
+msgid "Argon, Krypton"
+msgstr ""
+
+msgid "Hurd, Darwin"
+msgstr ""
+
+msgid "What is openSUSE MicroOS?"
+msgstr ""
+
+msgid "A rolling-release web browser"
+msgstr ""
+
+msgid "Micro Service OS built by the openSUSE community"
+msgstr ""
+
+msgid "A package manager"
+msgstr ""
+
+msgid "A container runtime"
+msgstr ""
+
+msgid "Which desktop environment does openSUSE Aeon use by default?"
+msgstr ""
+
+msgid "KDE Plasma"
+msgstr ""
+
+msgid "Xfce"
+msgstr ""
+
+msgid "GNOME"
+msgstr ""
+
+msgid "Enlightenment"
+msgstr ""
+
+msgid "Which desktop environment does openSUSE Kalpa use by default?"
+msgstr ""
+
+msgid "What is the name of installer in openSUSE Aeon?"
+msgstr ""
+
+msgid "tik"
+msgstr ""
+
+msgid "tak"
+msgstr ""
+
+msgid "Anaconda"
+msgstr ""
+
+msgid "Agama"
+msgstr ""
+
+msgid "What bootloader is used by default in openSUSE Aeon?"
+msgstr ""
+
+msgid "lilo"
+msgstr ""
+
+msgid "systemd-boot"
+msgstr ""
+
+msgid "grub2"
+msgstr ""
+
+msgid "BOOTMGR"
+msgstr ""
+
+msgid "What do Aeon and Kalpa have in common?"
+msgstr ""
+
+msgid "Both are based on MicroOS with a ready-to-use desktop."
+msgstr ""
+
+msgid "Both use transactional-updates for rpm installation."
+msgstr ""
+
+msgid "Both promote distrobox and flatpaks for extra apps."
+msgstr ""
+
+msgid "All options are correct."
+msgstr ""
+
+msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
+msgstr ""
+
+msgid "Both are ancient terms meaning long periods or cosmic cycles."
+msgstr ""
+
+msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
+msgstr ""
+
+msgid "Both are very old nicknames of the original architect behind MicroOS."
+msgstr ""
+
+msgid "Both refer to software update tools in openSUSE."
+msgstr ""
+
+msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
+msgstr ""
+
+msgid "Greyhound"
+msgstr ""
+
+msgid "Greybeard"
+msgstr ""
+
+msgid "Bluehair"
+msgstr ""
+
+msgid "Ultraviolet"
+msgstr ""
+
+msgid "Which tool is used to safely update the base system in our Immutable distributions?"
+msgstr ""
+
+msgid "zypper dup"
+msgstr ""
+
+msgid "dnf upgrade"
+msgstr ""
+
+msgid "transactional-update"
+msgstr ""
+
+msgid "ostree pull"
+msgstr ""
+
+msgid "How can you install an additional package?"
+msgstr ""
+
+msgid "zypper in"
+msgstr ""
+
+msgid "dnf install"
+msgstr ""
+
+msgid "transactional-update pkg install"
+msgstr ""
+
+msgid "rpm-ostree install"
+msgstr ""
+
+msgid "Why is 'transactional-update shell' generally not recommended?"
+msgstr ""
+
+msgid "Because you can modify all parts of the system."
+msgstr ""
+
+msgid "It creates wormholes into another dimension."
+msgstr ""
+
+msgid "It can secretly migrate your system to Fedora."
+msgstr ""
+
+msgid "Geeko loses a hair every time you use it."
+msgstr ""
+
+msgid "How do our Immutable distros allow writing to /etc at runtime?"
+msgstr ""
+
+msgid "By using overlayfs on top of /etc"
+msgstr ""
+
+msgid "By mounting a writable Btrfs subvolume directly"
+msgstr ""
+
+msgid "By disabling read-only mode during boot"
+msgstr ""
+
+msgid "Through rpm-ostree layering"
+msgstr ""
+
+msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
+msgstr ""
+
+msgid "DNF"
+msgstr ""
+
+msgid "Salt and Ansible"
+msgstr ""
+
+msgid "cockpit-tukit"
+msgstr ""
+
+msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
+msgstr ""
+
+msgid "Leap Micro"
+msgstr ""
+
+msgid "MicroOS"
+msgstr ""
+
+msgid "Aeon"
+msgstr ""
+
+msgid "Kalpa"
+msgstr ""
 
 msgid "Kernel Ninja"
 msgstr ""
@@ -498,9 +729,6 @@ msgstr ""
 msgid "Distributions built on top of MicroOS"
 msgstr ""
 
-msgid "All options are correct"
-msgstr ""
-
 msgid "Where was the openSUSE project founded?"
 msgstr ""
 
@@ -535,12 +763,6 @@ msgid "What’s the name of the new installer in Leap 16?"
 msgstr ""
 
 msgid "Sypper"
-msgstr ""
-
-msgid "Agama"
-msgstr ""
-
-msgid "Anaconda"
 msgstr ""
 
 msgid "Cayman"
@@ -591,15 +813,6 @@ msgstr ""
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr ""
 
-msgid "GNOME"
-msgstr ""
-
-msgid "KDE Plasma"
-msgstr ""
-
-msgid "Xfce"
-msgstr ""
-
 msgid "There is no default. We leave choice to the user."
 msgstr ""
 
@@ -646,15 +859,6 @@ msgid "The default web browser"
 msgstr ""
 
 msgid "A programming language"
-msgstr ""
-
-msgid "What is the name of installer in openSUSE Aeon?"
-msgstr ""
-
-msgid "tik"
-msgstr ""
-
-msgid "tak"
 msgstr ""
 
 msgid "tao"
@@ -768,9 +972,6 @@ msgstr ""
 msgid "apt-get update"
 msgstr ""
 
-msgid "dnf upgrade"
-msgstr ""
-
 msgid "pacman -Syu"
 msgstr ""
 
@@ -790,9 +991,6 @@ msgid "An installer"
 msgstr ""
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr ""
-
-msgid "MicroOS"
 msgstr ""
 
 msgid "What is the primary focus of openSUSE MicroOS?"
@@ -1017,9 +1215,6 @@ msgstr ""
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr ""
 
-msgid "Leap Micro"
-msgstr ""
-
 msgid "SUSE Linux Enterprise"
 msgstr ""
 
@@ -1033,9 +1228,6 @@ msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr ""
 
 msgid "Yum"
-msgstr ""
-
-msgid "DNF"
 msgstr ""
 
 msgid "Zypper"
@@ -1107,6 +1299,192 @@ msgstr ""
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr ""
 
+msgid "oSC Historian"
+msgstr ""
+
+msgid "Are you an openSUSE Conference Historian? Prove it!"
+msgstr ""
+
+msgid "In what year was the first-ever openSUSE Conference held?"
+msgstr ""
+
+msgid "2006"
+msgstr ""
+
+msgid "2009"
+msgstr ""
+
+msgid "2012"
+msgstr ""
+
+msgid "2008"
+msgstr ""
+
+msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
+msgstr ""
+
+msgid "Leslie Hawthorn from Google"
+msgstr ""
+
+msgid "Gianugo Rabellino from the Apache Software Foundation"
+msgstr ""
+
+msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
+msgstr ""
+
+msgid "Lenz Grimmer from MySQL"
+msgstr ""
+
+msgid "Which company owned and sponsored openSUSE Conference in 2009?"
+msgstr ""
+
+msgid "Novell"
+msgstr ""
+
+msgid "Micro Focus"
+msgstr ""
+
+msgid "Attachmate"
+msgstr ""
+
+msgid "SUSE"
+msgstr ""
+
+msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
+msgstr ""
+
+msgid "Richard Stallman"
+msgstr ""
+
+msgid "Rick Spencer"
+msgstr ""
+
+msgid "Melissa Di Donato"
+msgstr ""
+
+msgid "Mark Shuttleworth"
+msgstr ""
+
+msgid "Can you guess how many sessions are scheduled for oSC 2025?"
+msgstr ""
+
+msgid "78 sessions"
+msgstr ""
+
+msgid "108 sessions"
+msgstr ""
+
+msgid "58 sessions"
+msgstr ""
+
+msgid "42.3 sessions"
+msgstr ""
+
+msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
+msgstr ""
+
+msgid "Prague, Czech Republic"
+msgstr ""
+
+msgid "The Hague, Netherlands"
+msgstr ""
+
+msgid "Paris, France"
+msgstr ""
+
+msgid "Thessaloniki, Greece"
+msgstr ""
+
+msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
+msgstr ""
+
+msgid "At Kater Murr"
+msgstr ""
+
+msgid "At ZypperHaus"
+msgstr ""
+
+msgid "In the SESU club run by SUSE interns at the local university"
+msgstr ""
+
+msgid "At the virtual /bar on meet.opensuse.org"
+msgstr ""
+
+msgid "What unusual item has appeared as official openSUSE swag?"
+msgstr ""
+
+msgid "openSUSE branded surströmming"
+msgstr ""
+
+msgid "Geeko flavored toothpaste"
+msgstr ""
+
+msgid "openSUSE beer"
+msgstr ""
+
+msgid "FIPS certified socks"
+msgstr ""
+
+msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
+msgstr ""
+
+msgid "Dirty Dancing with Geeko"
+msgstr ""
+
+msgid "Singing a Free Software song"
+msgstr ""
+
+msgid "Playing the banjo"
+msgstr ""
+
+msgid "Deep dived into open bugs wearing a swimsuit"
+msgstr ""
+
+msgid "What happened to the openSUSE Conference during 2020–2021?"
+msgstr ""
+
+msgid "It was held in orbit via SpaceX"
+msgstr ""
+
+msgid "It was virtual due to COVID-19"
+msgstr ""
+
+msgid "It merged with Novel Digital"
+msgstr ""
+
+msgid "Canceled due to lack of pizza"
+msgstr ""
+
+msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
+msgstr ""
+
+msgid "The famous SUSE band rocked the Z-Bau"
+msgstr ""
+
+msgid "A surprise keynote by Linus Torvalds"
+msgstr ""
+
+msgid "A spontaneous YaST karaoke contest"
+msgstr ""
+
+msgid "An epic dance-off between Geeko mascots"
+msgstr ""
+
+msgid "Since 2022 we do have an extra service available at oSC? What is it?"
+msgstr ""
+
+msgid "A machine for a tuna flavored popcorn"
+msgstr ""
+
+msgid "A low wave radio station"
+msgstr ""
+
+msgid "An ambulance"
+msgstr ""
+
+msgid "Self-service beer tap"
+msgstr ""
+
 msgid "s390x Expert"
 msgstr ""
 
@@ -1116,10 +1494,10 @@ msgstr ""
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr ""
 
-msgid "s390x are using only 31b, that’s why they’re called Little Endian"
+msgid "It’s about byte ordering; s390x being Big Endian"
 msgstr ""
 
-msgid "It’s about byte ordering; s390x being Big Endian"
+msgid "s390x are using only 31b, that’s why they’re called Little Endian"
 msgstr ""
 
 msgid "It’s about byte ordering; s390x being Little Endian"
@@ -1134,13 +1512,13 @@ msgstr ""
 msgid "A German word"
 msgstr ""
 
-msgid "Direct-access storage device"
-msgstr ""
-
 msgid "Swear word repeated often by s390x administrators"
 msgstr ""
 
 msgid "A scsi disk"
+msgstr ""
+
+msgid "Direct-access storage device"
 msgstr ""
 
 msgid "HMC is?"
@@ -1161,10 +1539,10 @@ msgstr ""
 msgid "z/VM is?"
 msgstr ""
 
-msgid "Virtual Machine on Z (meaning s390x)"
+msgid "z/VM is operating system usually used as hypervisor"
 msgstr ""
 
-msgid "z/VM is operating system usually used as hypervisor"
+msgid "Virtual Machine on Z (meaning s390x)"
 msgstr ""
 
 msgid "Remote desktop viewer"
@@ -1176,13 +1554,13 @@ msgstr ""
 msgid "What does storage mean in the mainframe world?"
 msgstr ""
 
-msgid "Memory (RAM)"
-msgstr ""
-
 msgid "Data storage (disks) counted in cylinders"
 msgstr ""
 
 msgid "A room where the mainframe is located"
+msgstr ""
+
+msgid "Memory (RAM)"
 msgstr ""
 
 msgid "Compartment within a mainframe where the disks are located"
@@ -1224,13 +1602,13 @@ msgstr ""
 msgid "A filtration unit for cooling fluid"
 msgstr ""
 
-msgid "A core to run Linux on mainframe"
-msgstr ""
-
 msgid "Made up word to confuse laptop users"
 msgstr ""
 
 msgid "Integrated FLat circuit"
+msgstr ""
+
+msgid "A core to run Linux on mainframe"
 msgstr ""
 
 msgid "What is cio_ignore?"
@@ -1251,9 +1629,6 @@ msgstr ""
 msgid "What is the most used operating system on mainframes?"
 msgstr ""
 
-msgid "z/OS"
-msgstr ""
-
 msgid "Linux"
 msgstr ""
 
@@ -1261,6 +1636,9 @@ msgid "Windows"
 msgstr ""
 
 msgid "z/VM"
+msgstr ""
+
+msgid "z/OS"
 msgstr ""
 
 msgid "Do mainframes have any special AI capabilities?"
@@ -1291,6 +1669,21 @@ msgid "Network"
 msgstr ""
 
 msgid "Bluetooth"
+msgstr ""
+
+msgid "What will be delivered together with a mainframe by IBM?"
+msgstr ""
+
+msgid "A necklet with IBM on it"
+msgstr ""
+
+msgid "Protective footwear"
+msgstr ""
+
+msgid "A sword for protection of the mainframe"
+msgstr ""
+
+msgid "A white helmet with IBM on it"
 msgstr ""
 
 msgid "The Ultimate YaST Challenge"
@@ -1339,9 +1732,6 @@ msgid "2002"
 msgstr ""
 
 msgid "2004"
-msgstr ""
-
-msgid "2006"
 msgstr ""
 
 msgid "When did YaST2 reach the German legal drinking age?"
@@ -1662,7 +2052,7 @@ msgstr ""
 msgid "The project name of next gen zypper"
 msgstr ""
 
-msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr ""
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
@@ -1733,370 +2123,4 @@ msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr ""
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
-
-msgid "oSC Historian"
-msgstr ""
-
-msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
-
-msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr ""
-
-msgid "2009"
-msgstr ""
-
-msgid "2012"
-msgstr ""
-
-msgid "2008"
-msgstr ""
-
-msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
-
-msgid "Leslie Hawthorn from Google"
-msgstr ""
-
-msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
-
-msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
-
-msgid "Lenz Grimmer from MySQL"
-msgstr ""
-
-msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
-
-msgid "Novell"
-msgstr ""
-
-msgid "Micro Focus"
-msgstr ""
-
-msgid "Attachmate"
-msgstr ""
-
-msgid "SUSE"
-msgstr ""
-
-msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
-
-msgid "Dirk-Peter van Leeuwen"
-msgstr ""
-
-msgid "Rick Spencer"
-msgstr ""
-
-msgid "Melissa Di Donato"
-msgstr ""
-
-msgid "Mark Shuttleworth"
-msgstr ""
-
-msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
-
-msgid "78 sessions"
-msgstr ""
-
-msgid "108 sessions"
-msgstr ""
-
-msgid "58 sessions"
-msgstr ""
-
-msgid "42.3 sessions"
-msgstr ""
-
-msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr ""
-
-msgid "Prague, Czech Republic"
-msgstr ""
-
-msgid "The Hague, Netherlands"
-msgstr ""
-
-msgid "Paris, France"
-msgstr ""
-
-msgid "Thessaloniki, Greece"
-msgstr ""
-
-msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
-
-msgid "At Kater Murr"
-msgstr ""
-
-msgid "At ZypperHaus"
-msgstr ""
-
-msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
-
-msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
-
-msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
-
-msgid "openSUSE branded surströmming"
-msgstr ""
-
-msgid "Geeko flavored toothpaste"
-msgstr ""
-
-msgid "openSUSE beer"
-msgstr ""
-
-msgid "FIPS certified socks"
-msgstr ""
-
-msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
-
-msgid "Dirty Dancing with Geeko"
-msgstr ""
-
-msgid "Singing a Free Software song"
-msgstr ""
-
-msgid "Playing the banjo"
-msgstr ""
-
-msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
-
-msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
-
-msgid "It was held in orbit via SpaceX"
-msgstr ""
-
-msgid "It was virtual due to COVID-19"
-msgstr ""
-
-msgid "It merged with Novel Digital"
-msgstr ""
-
-msgid "Canceled due to lack of pizza"
-msgstr ""
-
-msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
-
-msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
-
-msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
-
-msgid "A spontaneous YaST karaoke contest"
-msgstr ""
-
-msgid "An epic dance-off between Geeko mascots"
-msgstr ""
-
-msgid "Immutability"
-msgstr ""
-
-msgid "Let's learn something about our Immutable distros."
-msgstr ""
-
-msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
-
-msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
-
-msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
-
-msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
-
-msgid "Which of these are openSUSE Immutable distros?"
-msgstr ""
-
-msgid "Silverblue, CoreOS"
-msgstr ""
-
-msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr ""
-
-msgid "Argon, Krypton"
-msgstr ""
-
-msgid "Hurd, Darwin"
-msgstr ""
-
-msgid "What is openSUSE MicroOS?"
-msgstr ""
-
-msgid "A rolling-release web browser"
-msgstr ""
-
-msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
-
-msgid "A package manager"
-msgstr ""
-
-msgid "A container runtime"
-msgstr ""
-
-msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr ""
-
-msgid "Enlightenment"
-msgstr ""
-
-msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr ""
-
-msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
-
-msgid "Both use transactional-updates for rpm installation."
-msgstr ""
-
-msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
-
-msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
-
-msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
-
-msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
-
-msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
-
-msgid "Both refer to software update tools in openSUSE."
-msgstr ""
-
-msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
-
-msgid "Greyhound"
-msgstr ""
-
-msgid "Greybeard"
-msgstr ""
-
-msgid "Bluehair"
-msgstr ""
-
-msgid "Ultraviolet"
-msgstr ""
-
-msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
-
-msgid "zypper dup"
-msgstr ""
-
-msgid "transactional-update"
-msgstr ""
-
-msgid "ostree pull"
-msgstr ""
-
-msgid "How can you install an additional package?"
-msgstr ""
-
-msgid "zypper in"
-msgstr ""
-
-msgid "dnf install"
-msgstr ""
-
-msgid "transactional-update pkg install"
-msgstr ""
-
-msgid "rpm-ostree install"
-msgstr ""
-
-msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
-
-msgid "Because you can modify all parts of the system."
-msgstr ""
-
-msgid "It creates wormholes into another dimension."
-msgstr ""
-
-msgid "It can secretly migrate your system to Fedora."
-msgstr ""
-
-msgid "Geeko loses a hair every time you use it."
-msgstr ""
-
-msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
-
-msgid "By using overlayfs on top of /etc"
-msgstr ""
-
-msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
-
-msgid "By disabling read-only mode during boot"
-msgstr ""
-
-msgid "Through rpm-ostree layering"
-msgstr ""
-
-msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
-
-msgid "Salt and Ansible"
-msgstr ""
-
-msgid "cockpit-tukit"
-msgstr ""
-
-msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
-
-msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr ""
-
-msgid "lilo"
-msgstr ""
-
-msgid "BOOTMGR"
-msgstr ""
-
-msgid "grub2"
-msgstr ""
-
-msgid "systemd-boot"
-msgstr ""
-
-msgid "Since 2022 we do have an extra service available at oSC. What is it?"
-msgstr ""
-
-msgid "A machine for a tuna flavored popcorn"
-msgstr ""
-
-msgid "A low wave radio station"
-msgstr ""
-
-msgid "An ambulance"
-msgstr ""
-
-msgid "Self-service beer tap"
-msgstr ""
-
-msgid "Richard Stallman"
 msgstr ""

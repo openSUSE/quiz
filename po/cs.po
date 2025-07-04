@@ -1,6 +1,252 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 13:58+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-26 16:12+0200\n"
+"PO-Revision-Date: 2025-06-26 13:58+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
+"Language: cs\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.12.2\n"
+
+msgid "Immutability"
+msgstr "Immutability"
+
+msgid "Let's learn something about our Immutable distros."
+msgstr "Pojďme se naučit něco o našich Immutable (neměnných) distribucích."
+
+msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
+msgstr "Jednoduše řečeno, jakým způsobem funguje 'transactional-update', který je za základem pro naše Immutable distribuce?"
+
+msgid "Most system partitions are mounted read-only, preventing changes on disk."
+msgstr "Většina systémových oddílů je připojena pouze pro čtení, tak aby se předešlo změnám na disku."
+
+msgid "Updates don’t affect the running system until rebooting into a new snapshot."
+msgstr "Aktualizace neovlivní běžící systém, dokud jej nerestartujete do nového snapshotu."
+
+msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
+msgstr "Systém používá transactional-update pro bezpečné, atomické aktualizace a jednoduchou obnovu."
+
+msgid "All options are correct"
+msgstr "Všechny možnosti jsou správné"
+
+msgid "Which of these are openSUSE Immutable distros?"
+msgstr "Které z následujících jsou openSUSE Immutable distribuce?"
+
+msgid "Silverblue, CoreOS"
+msgstr "Silverblue, CoreOS"
+
+msgid "MicroOS, Leap Micro, Aeon, Kalpa"
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
+
+msgid "Argon, Krypton"
+msgstr "Argon, Krypton"
+
+msgid "Hurd, Darwin"
+msgstr "Hurd, Darwin"
+
+msgid "What is openSUSE MicroOS?"
+msgstr "Co je openSUSE MicroOS?"
+
+msgid "A rolling-release web browser"
+msgstr "Rolling webový prohlížeč"
+
+msgid "Micro Service OS built by the openSUSE community"
+msgstr "Operační systém pro běh Micro službeb sestavený openSUSE komunitou."
+
+msgid "A package manager"
+msgstr "Manažer balíčků"
+
+msgid "A container runtime"
+msgstr "Běhové prostředí kontejnerů"
+
+msgid "Which desktop environment does openSUSE Aeon use by default?"
+msgstr "Které desktopové prostředí používá openSUSE Aeon?"
+
+msgid "KDE Plasma"
+msgstr "KDE Plasma"
+
+msgid "Xfce"
+msgstr "Xfce"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Enlightenment"
+msgstr "Enlightenment"
+
+msgid "Which desktop environment does openSUSE Kalpa use by default?"
+msgstr "Které desktopové prostředí používá openSUSE Kalpa?"
+
+msgid "What is the name of installer in openSUSE Aeon?"
+msgstr "Jak se jmenuje instalátor v openSUSE Aeonu?"
+
+msgid "tik"
+msgstr "tik"
+
+msgid "tak"
+msgstr "tak"
+
+msgid "Anaconda"
+msgstr "Anaconda"
+
+msgid "Agama"
+msgstr "Agama"
+
+msgid "What bootloader is used by default in openSUSE Aeon?"
+msgstr "Která zavaděč se používá jako výchozí v openSUSE Aeonu?"
+
+msgid "lilo"
+msgstr "lilo"
+
+msgid "systemd-boot"
+msgstr "systemd-boot"
+
+msgid "grub2"
+msgstr "grub2"
+
+msgid "BOOTMGR"
+msgstr "BOOTMGR"
+
+#, fuzzy
+#| msgid "What are Aeon and Kalpa?"
+msgid "What do Aeon and Kalpa have in common?"
+msgstr "Co jsou Aeon a Kalpa?"
+
+msgid "Both are based on MicroOS with a ready-to-use desktop."
+msgstr "Obě distribuce jsou založené na MicroOS s ready-to-use desktopovým prostředím."
+
+msgid "Both use transactional-updates for rpm installation."
+msgstr "Obě distribuce používají transactional-update pro instalaci rpm balíčků."
+
+msgid "Both promote distrobox and flatpaks for extra apps."
+msgstr "Obě distribuce propagují distrobox a flatpaky pro instalaci dodatečných aplikací."
+
+#, fuzzy
+#| msgid "All options are correct"
+msgid "All options are correct."
+msgstr "Všechny možnosti jsou správné"
+
+msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
+msgstr "Aeon i Kalpa používají zajímavé jména nepřímo odkazující na rolling distribuci. Víte jak?"
+
+msgid "Both are ancient terms meaning long periods or cosmic cycles."
+msgstr "Obojí jsou termíny odkazující se na dlouhé periody nebo kosmické cykly."
+
+msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
+msgstr "Obě jsou jména známách Westernových filmů, kde se objvil kutálející se laskavec (tumbleweed)."
+
+msgid "Both are very old nicknames of the original architect behind MicroOS."
+msgstr "Obojí jsou staré přezdívky původního architekta, který stojí za MicroOS."
+
+msgid "Both refer to software update tools in openSUSE."
+msgstr "Obojí odkazují na nástroje pro aktualizaci software v openSUSE."
+
+msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
+msgstr "V roce 2023 proběhl experiment s immutable desktopem založeným na desktopovém prostředí Sway. Znáte jeho název?"
+
+msgid "Greyhound"
+msgstr "Greyhound"
+
+msgid "Greybeard"
+msgstr "Greybeard"
+
+msgid "Bluehair"
+msgstr "Bluehair"
+
+msgid "Ultraviolet"
+msgstr "Ultraviolet"
+
+msgid "Which tool is used to safely update the base system in our Immutable distributions?"
+msgstr "Který nástroj se používá k aktualizaci základního systému v našich immutable distribucích?"
+
+msgid "zypper dup"
+msgstr "zypper dup"
+
+msgid "dnf upgrade"
+msgstr "dnf upgrade"
+
+msgid "transactional-update"
+msgstr "transactional-update"
+
+msgid "ostree pull"
+msgstr "ostree pull"
+
+msgid "How can you install an additional package?"
+msgstr "Jak můžete nainstalovat dodatečný balíček?"
+
+msgid "zypper in"
+msgstr "zypper in"
+
+msgid "dnf install"
+msgstr "dnf install"
+
+msgid "transactional-update pkg install"
+msgstr "transactional-update pkg install"
+
+msgid "rpm-ostree install"
+msgstr "rpm-ostree install"
+
+msgid "Why is 'transactional-update shell' generally not recommended?"
+msgstr "Proč není obecně doporučováno používat napřímo 'transactional-update shell'?"
+
+msgid "Because you can modify all parts of the system."
+msgstr "Protože můžete modifikovat všechny části systému."
+
+msgid "It creates wormholes into another dimension."
+msgstr "Vytváří červí díry do jiné dimenze."
+
+msgid "It can secretly migrate your system to Fedora."
+msgstr "Může potaji zmigrovat váš systém na Fedoru."
+
+msgid "Geeko loses a hair every time you use it."
+msgstr "Geeko ztratí jeden vlast pokaždé když příkaz použijete."
+
+msgid "How do our Immutable distros allow writing to /etc at runtime?"
+msgstr "Jak naše Immutable distribuce umožňují zápis do /etc za běhu?"
+
+msgid "By using overlayfs on top of /etc"
+msgstr "Použitím overlayfs nad /etc"
+
+msgid "By mounting a writable Btrfs subvolume directly"
+msgstr "Přímým připojením zapisovatelného btrfs subvolume"
+
+msgid "By disabling read-only mode during boot"
+msgstr "Zakázáním režimu pro čtení během bootu"
+
+msgid "Through rpm-ostree layering"
+msgstr "Skrze vrstvení rpm-ostree"
+
+msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
+msgstr "Jaké jiné komponenty, mimo mechanismust aktualizací v našich immutable distribucích, PODPORUJÍ transactional-update?"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Salt and Ansible"
+msgstr "Salt a Ansible"
+
+msgid "cockpit-tukit"
+msgstr "cockpit-tukit"
+
+msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
+msgstr "Pouze jedna z následucjících distribucí má běžné releasy, zbytek distribucí je rolling. Víte která?"
+
+msgid "Leap Micro"
+msgstr "Leap Micro"
+
+msgid "MicroOS"
+msgstr "MicroOS"
+
+msgid "Aeon"
+msgstr ""
+
+msgid "Kalpa"
+msgstr ""
 
 msgid "Kernel Ninja"
 msgstr "Kernel Nindža"
@@ -482,9 +728,6 @@ msgstr "Rolling distribuce s transakčními aktualizacemi používající flatpa
 msgid "Distributions built on top of MicroOS"
 msgstr "Distribuce založené na MicroOS"
 
-msgid "All options are correct"
-msgstr "Všechny možnosti jsou správné"
-
 msgid "Where was the openSUSE project founded?"
 msgstr "Kde byl projekt openSUSE založen?"
 
@@ -520,12 +763,6 @@ msgstr "Jak se jmenuje nový instalátor v Leap 16?"
 
 msgid "Sypper"
 msgstr "Sypper"
-
-msgid "Agama"
-msgstr "Agama"
-
-msgid "Anaconda"
-msgstr "Anaconda"
 
 msgid "Cayman"
 msgstr "Cayman"
@@ -575,15 +812,6 @@ msgstr "Systém zaměřený na kontejnery jako MicroOS"
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Které desktopové prostředí je výchozí pro openSUSE Leap 15?"
 
-msgid "GNOME"
-msgstr "GNOME"
-
-msgid "KDE Plasma"
-msgstr "KDE Plasma"
-
-msgid "Xfce"
-msgstr "Xfce"
-
 msgid "There is no default. We leave choice to the user."
 msgstr "Neexistuje výchozí. Volbu ponecháváme uživateli."
 
@@ -631,15 +859,6 @@ msgstr "Výchozí webový prohlížeč"
 
 msgid "A programming language"
 msgstr "Programovací jazyk"
-
-msgid "What is the name of installer in openSUSE Aeon?"
-msgstr "Jak se jmenuje instalátor v openSUSE Aeonu?"
-
-msgid "tik"
-msgstr "tik"
-
-msgid "tak"
-msgstr "tak"
 
 msgid "tao"
 msgstr "tao"
@@ -752,9 +971,6 @@ msgstr "zypper update"
 msgid "apt-get update"
 msgstr "apt-get update"
 
-msgid "dnf upgrade"
-msgstr "dnf upgrade"
-
 msgid "pacman -Syu"
 msgstr "pacman -Syu"
 
@@ -775,9 +991,6 @@ msgstr "Instalátor"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "Která distribuce openSUSE je známá svou stabilitou a vydáváním point release verzí (např. 15.6)?"
-
-msgid "MicroOS"
-msgstr "MicroOS"
 
 msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "Co je hlavním zaměřením openSUSE MicroOS?"
@@ -1001,9 +1214,6 @@ msgstr "csh"
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr "Která z těchto verzí openSUSE je komunitně řízená?"
 
-msgid "Leap Micro"
-msgstr "Leap Micro"
-
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
@@ -1018,9 +1228,6 @@ msgstr "Který z následujících správců balíčků se běžně používá v 
 
 msgid "Yum"
 msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
 
 msgid "Zypper"
 msgstr "Zypper"
@@ -1091,6 +1298,194 @@ msgstr "Události jsou odkryty veřejnosti pouze při úplňku"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "Kam se můžete obrátit o pomoc, když se ztratíte ve světě openSUSE?"
 
+msgid "oSC Historian"
+msgstr "oSC Historik"
+
+msgid "Are you an openSUSE Conference Historian? Prove it!"
+msgstr "Znáš historii openSUSE konferencí? Ukaž, co víš!"
+
+msgid "In what year was the first-ever openSUSE Conference held?"
+msgstr "V jakém roce se konala úplně první openSUSE Konference?"
+
+msgid "2006"
+msgstr "2006"
+
+msgid "2009"
+msgstr "2009"
+
+msgid "2012"
+msgstr "2012"
+
+msgid "2008"
+msgstr "2008"
+
+msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
+msgstr "Kdo pronesl úvodní přednášku ‚Práce ve virtuální komunitě‘ na oSC v roce 2009?"
+
+msgid "Leslie Hawthorn from Google"
+msgstr "Leslie Hawthorn z Google"
+
+msgid "Gianugo Rabellino from the Apache Software Foundation"
+msgstr "Gianugo Rabellino z Apache Software Foundation"
+
+msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
+msgstr "Joe 'Zonker' Brockmeier, openSUSE komunitní manažer"
+
+msgid "Lenz Grimmer from MySQL"
+msgstr "Lenz Grimmer z MySQL"
+
+msgid "Which company owned and sponsored openSUSE Conference in 2009?"
+msgstr "Která z firem pořádala openSUSE Konferenci v roce 2009?"
+
+msgid "Novell"
+msgstr "Novell"
+
+msgid "Micro Focus"
+msgstr "Micro Focus"
+
+msgid "Attachmate"
+msgstr "Attachmate"
+
+msgid "SUSE"
+msgstr "SUSE"
+
+msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
+msgstr "Zpět do současnosti. Kdo pronesl úvodní přednášku na oSC 2024?"
+
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+msgid "Rick Spencer"
+msgstr "Rick Spencer"
+
+msgid "Melissa Di Donato"
+msgstr "Melissa Di Donato"
+
+msgid "Mark Shuttleworth"
+msgstr "Mark Shuttleworth"
+
+msgid "Can you guess how many sessions are scheduled for oSC 2025?"
+msgstr "Dokážeš uhodnout, kolik přednášek je naplánováno na oSC 2025?"
+
+msgid "78 sessions"
+msgstr "78 přednášek"
+
+msgid "108 sessions"
+msgstr "108 přednášek"
+
+msgid "58 sessions"
+msgstr "58 přednášek"
+
+msgid "42.3 sessions"
+msgstr "42.3 přednášek"
+
+msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
+msgstr "Ve kterém z těchto měst se ještě NEKONALA openSUSE Konference?"
+
+msgid "Prague, Czech Republic"
+msgstr "Praha, Česká republika"
+
+msgid "The Hague, Netherlands"
+msgstr "Haag, Nizozemsko"
+
+msgid "Paris, France"
+msgstr "Paříž, Francie"
+
+msgid "Thessaloniki, Greece"
+msgstr "Thessaloniki, Řecko"
+
+msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
+msgstr "Kde se obvykle koná party před začátkem openSUSE Konference v Norimberku?"
+
+msgid "At Kater Murr"
+msgstr "V Kater Murr"
+
+msgid "At ZypperHaus"
+msgstr "V ZypperHaus"
+
+msgid "In the SESU club run by SUSE interns at the local university"
+msgstr "V místním vysokoškolsem klubu SESU, který je veden interny ze SUSE"
+
+msgid "At the virtual /bar on meet.opensuse.org"
+msgstr "Ve virtuálním /bar-u na meet.opensuse.org"
+
+msgid "What unusual item has appeared as official openSUSE swag?"
+msgstr "Jaký netradiční předmět se už objevil jako openSUSE swag?"
+
+msgid "openSUSE branded surströmming"
+msgstr "Surströmming se značkou openSUSE"
+
+msgid "Geeko flavored toothpaste"
+msgstr "Zubní pasta s příchutí maskota Geeka"
+
+msgid "openSUSE beer"
+msgstr "openSUSE pivo"
+
+msgid "FIPS certified socks"
+msgstr "FIPS certifikované ponožky"
+
+msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
+msgstr "Náš bývalý pokladník Andrew obdržel bouřlivý potlesk za překvapivou 'kreaci' během svého talku. Co předvedl?"
+
+msgid "Dirty Dancing with Geeko"
+msgstr "Hříšný tanec s plyšákem Geekem"
+
+msgid "Singing a Free Software song"
+msgstr "Zazpíval Free Software song"
+
+msgid "Playing the banjo"
+msgstr "Hrál na banjo"
+
+msgid "Deep dived into open bugs wearing a swimsuit"
+msgstr "Ponořil se do otevřených bugů v plavkách"
+
+msgid "What happened to the openSUSE Conference during 2020–2021?"
+msgstr "Co se stalo s openSUSE Konferencí behěm 2020-2021?"
+
+msgid "It was held in orbit via SpaceX"
+msgstr "Odehrála se na oběžné dráze díky SpaceX"
+
+msgid "It was virtual due to COVID-19"
+msgstr "Byla virtuální kvůli COVIDu-19"
+
+msgid "It merged with Novel Digital"
+msgstr "Sloučila se s Novel Digital"
+
+msgid "Canceled due to lack of pizza"
+msgstr "Byla zrušena kvůli nedostatku pizzy"
+
+msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
+msgstr "Páteční večírek oSC 2016 se tehdy pořádně prooooooootáhl kvůli speciálnímu živému vystoupení. Co z něj udělalo nezapomenutelný zážitek?"
+
+msgid "The famous SUSE band rocked the Z-Bau"
+msgstr "Slavná SUSE kapela to pořádně rozjela v Z-Bau"
+
+msgid "A surprise keynote by Linus Torvalds"
+msgstr "Překvapivé vystoupení Linuse Torvaldse"
+
+msgid "A spontaneous YaST karaoke contest"
+msgstr "Nečekaná YaST karaoke show, jakou svět neviděl"
+
+msgid "An epic dance-off between Geeko mascots"
+msgstr "Epický taneční souboj v oblecích maskota Geeka"
+
+#, fuzzy
+#| msgid "Since 2022 we do have an extra service available at oSC. What is it?"
+msgid "Since 2022 we do have an extra service available at oSC? What is it?"
+msgstr "Od roku 2022 máme extra službu na každé oSC. Víte o jakou se jedná?"
+
+msgid "A machine for a tuna flavored popcorn"
+msgstr "Stroj na tuňákový popcorn"
+
+msgid "A low wave radio station"
+msgstr "Krátkovlnná radiostanice"
+
+msgid "An ambulance"
+msgstr "Ambulance"
+
+msgid "Self-service beer tap"
+msgstr "Samoobslužná pivní pípa"
+
 msgid "s390x Expert"
 msgstr "s390x Expert"
 
@@ -1100,11 +1495,11 @@ msgstr "Kvíz pro přátele mainframů a exotických architektur."
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr "Jaký je rozdíl mezi Big Endian a Little Endian?"
 
-msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr "s390x používá pouze 31b proto se nazývá Little Endian"
-
 msgid "It’s about byte ordering; s390x being Big Endian"
 msgstr "Jde o řazení bajtů; s390x je Big Endian"
+
+msgid "s390x are using only 31b, that’s why they’re called Little Endian"
+msgstr "s390x používá pouze 31b proto se nazývá Little Endian"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
 msgstr "Jde o řazení bajtů; s390x je Little Endian"
@@ -1118,14 +1513,14 @@ msgstr "DASD je?"
 msgid "A German word"
 msgstr "Německé slovo"
 
-msgid "Direct-access storage device"
-msgstr "Direct-access storage device"
-
 msgid "Swear word repeated often by s390x administrators"
 msgstr "Je to nadávka, kterou často používají s390x administrátoři"
 
 msgid "A scsi disk"
 msgstr "scsi disk"
+
+msgid "Direct-access storage device"
+msgstr "Direct-access storage device"
 
 msgid "HMC is?"
 msgstr "HMC je?"
@@ -1145,11 +1540,11 @@ msgstr "Skrytý kontrolní modul (Hidden Module Control unit)"
 msgid "z/VM is?"
 msgstr "z/VM je?"
 
-msgid "Virtual Machine on Z (meaning s390x)"
-msgstr "Virtuální stroj na Z (myšleno s390x)"
-
 msgid "z/VM is operating system usually used as hypervisor"
 msgstr "z/VM je operační systém obvykle používaný jako hypervizor"
+
+msgid "Virtual Machine on Z (meaning s390x)"
+msgstr "Virtuální stroj na Z (myšleno s390x)"
 
 msgid "Remote desktop viewer"
 msgstr "Prohlížeč vzdálené plochy"
@@ -1160,14 +1555,14 @@ msgstr "Zombie Virtual Memory"
 msgid "What does storage mean in the mainframe world?"
 msgstr "Uložiště (Storage) ve světě mainframů znamená?"
 
-msgid "Memory (RAM)"
-msgstr "Operační paměť (RAM)"
-
 msgid "Data storage (disks) counted in cylinders"
 msgstr "Datové uložiště (disky) měřené v cylindrech"
 
 msgid "A room where the mainframe is located"
 msgstr "Místnost kde je mainframe umístěný"
+
+msgid "Memory (RAM)"
+msgstr "Operační paměť (RAM)"
 
 msgid "Compartment within a mainframe where the disks are located"
 msgstr "Přihrádka v mainframe, kde jsou umístěny disky"
@@ -1208,14 +1603,14 @@ msgstr "Co je IFL?"
 msgid "A filtration unit for cooling fluid"
 msgstr "Filtrační jednotka pro chladící kapalinu"
 
-msgid "A core to run Linux on mainframe"
-msgstr "Jádro pro spuštění Linuxu na mainframe"
-
 msgid "Made up word to confuse laptop users"
 msgstr "Vymyšlené slovo pro zmatení uživatelů laptopů"
 
 msgid "Integrated FLat circuit"
 msgstr "Integrated FLat circuit"
+
+msgid "A core to run Linux on mainframe"
+msgstr "Jádro pro spuštění Linuxu na mainframe"
 
 msgid "What is cio_ignore?"
 msgstr "Co je cio_ignore?"
@@ -1235,9 +1630,6 @@ msgstr "z/VM syslog filtr"
 msgid "What is the most used operating system on mainframes?"
 msgstr "Co je nejvíce používaný operační systém na mainframech?"
 
-msgid "z/OS"
-msgstr "z/OS"
-
 msgid "Linux"
 msgstr "Linux"
 
@@ -1246,6 +1638,9 @@ msgstr "Windows"
 
 msgid "z/VM"
 msgstr "z/VM"
+
+msgid "z/OS"
+msgstr "z/OS"
 
 msgid "Do mainframes have any special AI capabilities?"
 msgstr "Mají mainframy nějaké speciální podporu pro AI?"
@@ -1276,6 +1671,23 @@ msgstr "Síť"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
+
+msgid "What will be delivered together with a mainframe by IBM?"
+msgstr ""
+
+msgid "A necklet with IBM on it"
+msgstr ""
+
+msgid "Protective footwear"
+msgstr ""
+
+#, fuzzy
+#| msgid "A core to run Linux on mainframe"
+msgid "A sword for protection of the mainframe"
+msgstr "Jádro pro spuštění Linuxu na mainframe"
+
+msgid "A white helmet with IBM on it"
+msgstr ""
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Ultimátní YaST Výzva"
@@ -1324,9 +1736,6 @@ msgstr "2002"
 
 msgid "2004"
 msgstr "2004"
-
-msgid "2006"
-msgstr "2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
 msgstr "Kdy YaST2 dosáhl zákonného věku pro pití alkoholu v Něměcku?"
@@ -1646,7 +2055,9 @@ msgstr "Symbolický odkaz na Zypper, aby se zabránilo chybě na klávesnici s p
 msgid "The project name of next gen zypper"
 msgstr "Název projektu nové generace Zypperu"
 
-msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
+#, fuzzy
+#| msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Tohle je ošemetné! Všichni známe `zypper rm --clean-deps`, ale co se stane, když spustíte `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
@@ -1719,371 +2130,8 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Zvolte přezdívku tak abychom vás rozeznali, například ZypperJedi, nebo raději své skutečné jméno (JménoPříjmení)."
 
-msgid "oSC Historian"
-msgstr "oSC Historik"
-
-msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr "Znáš historii openSUSE konferencí? Ukaž, co víš!"
-
-msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "V jakém roce se konala úplně první openSUSE Konference?"
-
-msgid "2009"
-msgstr "2009"
-
-msgid "2012"
-msgstr "2012"
-
-msgid "2008"
-msgstr "2008"
-
-msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr "Kdo pronesl úvodní přednášku ‚Práce ve virtuální komunitě‘ na oSC v roce 2009?"
-
-msgid "Leslie Hawthorn from Google"
-msgstr "Leslie Hawthorn z Google"
-
-msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr "Gianugo Rabellino z Apache Software Foundation"
-
-msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr "Joe 'Zonker' Brockmeier, openSUSE komunitní manažer"
-
-msgid "Lenz Grimmer from MySQL"
-msgstr "Lenz Grimmer z MySQL"
-
-msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr "Která z firem pořádala openSUSE Konferenci v roce 2009?"
-
-msgid "Novell"
-msgstr "Novell"
-
-msgid "Micro Focus"
-msgstr "Micro Focus"
-
-msgid "Attachmate"
-msgstr "Attachmate"
-
-msgid "SUSE"
-msgstr "SUSE"
-
-msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr "Zpět do současnosti. Kdo pronesl úvodní přednášku na oSC 2024?"
-
-msgid "Dirk-Peter van Leeuwen"
-msgstr "Dirk-Peter van Leeuwen"
-
-msgid "Rick Spencer"
-msgstr "Rick Spencer"
-
-msgid "Melissa Di Donato"
-msgstr "Melissa Di Donato"
-
-msgid "Mark Shuttleworth"
-msgstr "Mark Shuttleworth"
-
-msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr "Dokážeš uhodnout, kolik přednášek je naplánováno na oSC 2025?"
-
-msgid "78 sessions"
-msgstr "78 přednášek"
-
-msgid "108 sessions"
-msgstr "108 přednášek"
-
-msgid "58 sessions"
-msgstr "58 přednášek"
-
-msgid "42.3 sessions"
-msgstr "42.3 přednášek"
-
-msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Ve kterém z těchto měst se ještě NEKONALA openSUSE Konference?"
-
-msgid "Prague, Czech Republic"
-msgstr "Praha, Česká republika"
-
-msgid "The Hague, Netherlands"
-msgstr "Haag, Nizozemsko"
-
-msgid "Paris, France"
-msgstr "Paříž, Francie"
-
-msgid "Thessaloniki, Greece"
-msgstr "Thessaloniki, Řecko"
-
-msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr "Kde se obvykle koná party před začátkem openSUSE Konference v Norimberku?"
-
-msgid "At Kater Murr"
-msgstr "V Kater Murr"
-
-msgid "At ZypperHaus"
-msgstr "V ZypperHaus"
-
-msgid "In the SESU club run by SUSE interns at the local university"
-msgstr "V místním vysokoškolsem klubu SESU, který je veden interny ze SUSE"
-
-msgid "At the virtual /bar on meet.opensuse.org"
-msgstr "Ve virtuálním /bar-u na meet.opensuse.org"
-
-msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr "Jaký netradiční předmět se už objevil jako openSUSE swag?"
-
-msgid "openSUSE branded surströmming"
-msgstr "Surströmming se značkou openSUSE"
-
-msgid "Geeko flavored toothpaste"
-msgstr "Zubní pasta s příchutí maskota Geeka"
-
-msgid "openSUSE beer"
-msgstr "openSUSE pivo"
-
-msgid "FIPS certified socks"
-msgstr "FIPS certifikované ponožky"
-
-msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr "Náš bývalý pokladník Andrew obdržel bouřlivý potlesk za překvapivou 'kreaci' během svého talku. Co předvedl?"
-
-msgid "Dirty Dancing with Geeko"
-msgstr "Hříšný tanec s plyšákem Geekem"
-
-msgid "Singing a Free Software song"
-msgstr "Zazpíval Free Software song"
-
-msgid "Playing the banjo"
-msgstr "Hrál na banjo"
-
-msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr "Ponořil se do otevřených bugů v plavkách"
-
-msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr "Co se stalo s openSUSE Konferencí behěm 2020-2021?"
-
-msgid "It was held in orbit via SpaceX"
-msgstr "Odehrála se na oběžné dráze díky SpaceX"
-
-msgid "It was virtual due to COVID-19"
-msgstr "Byla virtuální kvůli COVIDu-19"
-
-msgid "It merged with Novel Digital"
-msgstr "Sloučila se s Novel Digital"
-
-msgid "Canceled due to lack of pizza"
-msgstr "Byla zrušena kvůli nedostatku pizzy"
-
-msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr "Páteční večírek oSC 2016 se tehdy pořádně prooooooootáhl kvůli speciálnímu živému vystoupení. Co z něj udělalo nezapomenutelný zážitek?"
-
-msgid "The famous SUSE band rocked the Z-Bau"
-msgstr "Slavná SUSE kapela to pořádně rozjela v Z-Bau"
-
-msgid "A surprise keynote by Linus Torvalds"
-msgstr "Překvapivé vystoupení Linuse Torvaldse"
-
-msgid "A spontaneous YaST karaoke contest"
-msgstr "Nečekaná YaST karaoke show, jakou svět neviděl"
-
-msgid "An epic dance-off between Geeko mascots"
-msgstr "Epický taneční souboj v oblecích maskota Geeka"
-
-msgid "Immutability"
-msgstr "Immutability"
-
-msgid "Let's learn something about our Immutable distros."
-msgstr "Pojďme se naučit něco o našich Immutable (neměnných) distribucích."
-
-msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr "Jednoduše řečeno, jakým způsobem funguje 'transactional-update', který je za základem pro naše Immutable distribuce?"
-
-msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr "Většina systémových oddílů je připojena pouze pro čtení, tak aby se předešlo změnám na disku."
-
-msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr "Aktualizace neovlivní běžící systém, dokud jej nerestartujete do nového snapshotu."
-
-msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr "Systém používá transactional-update pro bezpečné, atomické aktualizace a jednoduchou obnovu."
-
-msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Které z následujících jsou openSUSE Immutable distribuce?"
-
-msgid "Silverblue, CoreOS"
-msgstr "Silverblue, CoreOS"
-
-msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
-
-msgid "Argon, Krypton"
-msgstr "Argon, Krypton"
-
-msgid "Hurd, Darwin"
-msgstr "Hurd, Darwin"
-
-msgid "What is openSUSE MicroOS?"
-msgstr "Co je openSUSE MicroOS?"
-
-msgid "A rolling-release web browser"
-msgstr "Rolling webový prohlížeč"
-
-msgid "Micro Service OS built by the openSUSE community"
-msgstr "Operační systém pro běh Micro službeb sestavený openSUSE komunitou."
-
-msgid "A package manager"
-msgstr "Manažer balíčků"
-
-msgid "A container runtime"
-msgstr "Běhové prostředí kontejnerů"
-
-msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "Které desktopové prostředí používá openSUSE Aeon?"
-
-msgid "Enlightenment"
-msgstr "Enlightenment"
-
-msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "Které desktopové prostředí používá openSUSE Kalpa?"
-
-msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr "Obě distribuce jsou založené na MicroOS s ready-to-use desktopovým prostředím."
-
-msgid "Both use transactional-updates for rpm installation."
-msgstr "Obě distribuce používají transactional-update pro instalaci rpm balíčků."
-
-msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr "Obě distribuce propagují distrobox a flatpaky pro instalaci dodatečných aplikací."
-
-msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr "Aeon i Kalpa používají zajímavé jména nepřímo odkazující na rolling distribuci. Víte jak?"
-
-msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr "Obojí jsou termíny odkazující se na dlouhé periody nebo kosmické cykly."
-
-msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr "Obě jsou jména známách Westernových filmů, kde se objvil kutálející se laskavec (tumbleweed)."
-
-msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr "Obojí jsou staré přezdívky původního architekta, který stojí za MicroOS."
-
-msgid "Both refer to software update tools in openSUSE."
-msgstr "Obojí odkazují na nástroje pro aktualizaci software v openSUSE."
-
-msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr "V roce 2023 proběhl experiment s immutable desktopem založeným na desktopovém prostředí Sway. Znáte jeho název?"
-
-msgid "Greyhound"
-msgstr "Greyhound"
-
-msgid "Greybeard"
-msgstr "Greybeard"
-
-msgid "Bluehair"
-msgstr "Bluehair"
-
-msgid "Ultraviolet"
-msgstr "Ultraviolet"
-
-msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr "Který nástroj se používá k aktualizaci základního systému v našich immutable distribucích?"
-
-msgid "zypper dup"
-msgstr "zypper dup"
-
-msgid "transactional-update"
-msgstr "transactional-update"
-
-msgid "ostree pull"
-msgstr "ostree pull"
-
-msgid "How can you install an additional package?"
-msgstr "Jak můžete nainstalovat dodatečný balíček?"
-
-msgid "zypper in"
-msgstr "zypper in"
-
-msgid "dnf install"
-msgstr "dnf install"
-
-msgid "transactional-update pkg install"
-msgstr "transactional-update pkg install"
-
-msgid "rpm-ostree install"
-msgstr "rpm-ostree install"
-
-msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr "Proč není obecně doporučováno používat napřímo 'transactional-update shell'?"
-
-msgid "Because you can modify all parts of the system."
-msgstr "Protože můžete modifikovat všechny části systému."
-
-msgid "It creates wormholes into another dimension."
-msgstr "Vytváří červí díry do jiné dimenze."
-
-msgid "It can secretly migrate your system to Fedora."
-msgstr "Může potaji zmigrovat váš systém na Fedoru."
-
-msgid "Geeko loses a hair every time you use it."
-msgstr "Geeko ztratí jeden vlast pokaždé když příkaz použijete."
-
-msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr "Jak naše Immutable distribuce umožňují zápis do /etc za běhu?"
-
-msgid "By using overlayfs on top of /etc"
-msgstr "Použitím overlayfs nad /etc"
-
-msgid "By mounting a writable Btrfs subvolume directly"
-msgstr "Přímým připojením zapisovatelného btrfs subvolume"
-
-msgid "By disabling read-only mode during boot"
-msgstr "Zakázáním režimu pro čtení během bootu"
-
-msgid "Through rpm-ostree layering"
-msgstr "Skrze vrstvení rpm-ostree"
-
-msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr "Jaké jiné komponenty, mimo mechanismust aktualizací v našich immutable distribucích, PODPORUJÍ transactional-update?"
-
-msgid "Salt and Ansible"
-msgstr "Salt a Ansible"
-
-msgid "cockpit-tukit"
-msgstr "cockpit-tukit"
-
-msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr "Pouze jedna z následucjících distribucí má běžné releasy, zbytek distribucí je rolling. Víte která?"
-
-msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Která zavaděč se používá jako výchozí v openSUSE Aeonu?"
-
-msgid "lilo"
-msgstr "lilo"
-
-msgid "BOOTMGR"
-msgstr "BOOTMGR"
-
-msgid "grub2"
-msgstr "grub2"
-
-msgid "systemd-boot"
-msgstr "systemd-boot"
-
-msgid "Since 2022 we do have an extra service available at oSC. What is it?"
-msgstr "Od roku 2022 máme extra službu na každé oSC. Víte o jakou se jedná?"
-
-msgid "A machine for a tuna flavored popcorn"
-msgstr "Stroj na tuňákový popcorn"
-
-msgid "A low wave radio station"
-msgstr "Krátkovlnná radiostanice"
-
-msgid "An ambulance"
-msgstr "Ambulance"
-
-msgid "Self-service beer tap"
-msgstr "Samoobslužná pivní pípa"
-
-msgid "Richard Stallman"
-msgstr "Richard Stallman"
+#~ msgid "Dirk-Peter van Leeuwen"
+#~ msgstr "Dirk-Peter van Leeuwen"
 
 #~ msgid "toe"
 #~ msgstr "toe"

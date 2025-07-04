@@ -1,6 +1,252 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-12 09:16+0000\nPO-Revision-Date: 2025-06-26 15:14+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-26 16:12+0200\n"
+"PO-Revision-Date: 2025-06-26 15:14+0000\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
+"Language: ca\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.2\n"
+
+msgid "Immutability"
+msgstr "Immutabilitat"
+
+msgid "Let's learn something about our Immutable distros."
+msgstr "Aprenguem alguna cosa sobre les nostres distribucions immutables."
+
+msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
+msgstr "En termes senzills, com funciona l'actualització transaccional que impulsa les nostres distribucions immutables?"
+
+msgid "Most system partitions are mounted read-only, preventing changes on disk."
+msgstr "La majoria de les particions del sistema es munten en mode de només lectura, cosa que impedeix canvis al disc."
+
+msgid "Updates don’t affect the running system until rebooting into a new snapshot."
+msgstr "Les actualitzacions no afecten el sistema en execució fins que no es reinicia en una instantània nova."
+
+msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
+msgstr "El sistema usa l'actualització transaccional per a actualitzacions atòmiques i segures i una reversió fàcil."
+
+msgid "All options are correct"
+msgstr "Totes les opcions són correctes"
+
+msgid "Which of these are openSUSE Immutable distros?"
+msgstr "Quines d'aquestes són distribucions immutables d'openSUSE?"
+
+msgid "Silverblue, CoreOS"
+msgstr "Silverblue, CoreOS"
+
+msgid "MicroOS, Leap Micro, Aeon, Kalpa"
+msgstr "MicroSO, Leap Micro, Aeon, Kalpa"
+
+msgid "Argon, Krypton"
+msgstr "Argon, Krypton"
+
+msgid "Hurd, Darwin"
+msgstr "Hurd, Darwin"
+
+msgid "What is openSUSE MicroOS?"
+msgstr "Què és l'openSUSE MicroSO?"
+
+msgid "A rolling-release web browser"
+msgstr "Un navegador web de llançament continu"
+
+msgid "Micro Service OS built by the openSUSE community"
+msgstr "Un sistema operatiu Micro Service creat per la comunitat d'openSUSE"
+
+msgid "A package manager"
+msgstr "Un gestor de paquets"
+
+msgid "A container runtime"
+msgstr "Un entorn d'execució de contenidor"
+
+msgid "Which desktop environment does openSUSE Aeon use by default?"
+msgstr "Quin entorn d'escriptori usa l'openSUSE Aeon per defecte?"
+
+msgid "KDE Plasma"
+msgstr "Plasma, de KDE"
+
+msgid "Xfce"
+msgstr "Xfce"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Enlightenment"
+msgstr "Enlightenment"
+
+msgid "Which desktop environment does openSUSE Kalpa use by default?"
+msgstr "Quin entorn d'escriptori usa l'openSUSE Kalpa per defecte?"
+
+msgid "What is the name of installer in openSUSE Aeon?"
+msgstr "Quin és el nom de l'instal·lador a l'openSUSE Aeon?"
+
+msgid "tik"
+msgstr "tik"
+
+msgid "tak"
+msgstr "tak"
+
+msgid "Anaconda"
+msgstr "Anaconda"
+
+msgid "Agama"
+msgstr "Agama"
+
+msgid "What bootloader is used by default in openSUSE Aeon?"
+msgstr "Quin carregador d'arrencada s'usa per defecte a l'openSUSE Aeon?"
+
+msgid "lilo"
+msgstr "lilo"
+
+msgid "systemd-boot"
+msgstr "systemd-boot"
+
+msgid "grub2"
+msgstr "grub2"
+
+msgid "BOOTMGR"
+msgstr "BOOTMGR"
+
+#, fuzzy
+#| msgid "What are Aeon and Kalpa?"
+msgid "What do Aeon and Kalpa have in common?"
+msgstr "Què són Aeon i Kalpa?"
+
+msgid "Both are based on MicroOS with a ready-to-use desktop."
+msgstr "Tots dos estan basats en MicroSO i tenen un escriptori a punt per usar."
+
+msgid "Both use transactional-updates for rpm installation."
+msgstr "Tots dos usen actualitzacions transaccionals per a la instal·lació d'rpm."
+
+msgid "Both promote distrobox and flatpaks for extra apps."
+msgstr "Tots dos promouen distrobox i flatpaks per a aplicacions addicionals."
+
+#, fuzzy
+#| msgid "All options are correct"
+msgid "All options are correct."
+msgstr "Totes les opcions són correctes"
+
+msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
+msgstr "Tant l'Aeon com el Kalpa tenen noms interessants que fan referència indirectament a un llançament continu. Com és això?"
+
+msgid "Both are ancient terms meaning long periods or cosmic cycles."
+msgstr "Tots dos són termes antics que signifiquen períodes llargs o cicles còsmics."
+
+msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
+msgstr "Tots dos són noms de pel·lícules de l'oest famoses on apareixia herba rodant."
+
+msgid "Both are very old nicknames of the original architect behind MicroOS."
+msgstr "Tots dos són sobrenoms molt antics de l'arquitecte original darrere de MicroSO."
+
+msgid "Both refer to software update tools in openSUSE."
+msgstr "Tots dos fan referència a les eines d'actualització de programari a l'openSUSE."
+
+msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
+msgstr "El 2023 es va fer un experiment amb un escriptori immutable basat en Sway. En saps el nom?"
+
+msgid "Greyhound"
+msgstr "Greyhound"
+
+msgid "Greybeard"
+msgstr "Greybeard"
+
+msgid "Bluehair"
+msgstr "Bluehair"
+
+msgid "Ultraviolet"
+msgstr "Ultraviolet"
+
+msgid "Which tool is used to safely update the base system in our Immutable distributions?"
+msgstr "Quina eina s'usa per actualitzar de manera segura el sistema base a les nostres distribucions immutables?"
+
+msgid "zypper dup"
+msgstr "zypper dup"
+
+msgid "dnf upgrade"
+msgstr "dnf upgrade"
+
+msgid "transactional-update"
+msgstr "transactional-update"
+
+msgid "ostree pull"
+msgstr "ostree pull"
+
+msgid "How can you install an additional package?"
+msgstr "Com es pot instal·lar un paquet addicional?"
+
+msgid "zypper in"
+msgstr "zypper in"
+
+msgid "dnf install"
+msgstr "dnf install"
+
+msgid "transactional-update pkg install"
+msgstr "transactional-update pkg install"
+
+msgid "rpm-ostree install"
+msgstr "rpm-ostree install"
+
+msgid "Why is 'transactional-update shell' generally not recommended?"
+msgstr "Per què generalment no es recomana l'ús de l'ordre transactional-update shell?"
+
+msgid "Because you can modify all parts of the system."
+msgstr "Perquè pot modificar totes les parts del sistema."
+
+msgid "It creates wormholes into another dimension."
+msgstr "Crea forats de cuc en una altra dimensió."
+
+msgid "It can secretly migrate your system to Fedora."
+msgstr "Pot migrar en secret el sistema a Fedora."
+
+msgid "Geeko loses a hair every time you use it."
+msgstr "El Geeko perd un cabell cada vegada que l'uses."
+
+msgid "How do our Immutable distros allow writing to /etc at runtime?"
+msgstr "Com permeten les nostres distribucions immutables escriure a /etc durant l'execució?"
+
+msgid "By using overlayfs on top of /etc"
+msgstr "Usant overlayfs a /etc"
+
+msgid "By mounting a writable Btrfs subvolume directly"
+msgstr "Muntant directament un subvolum Btrfs escrivible"
+
+msgid "By disabling read-only mode during boot"
+msgstr "Desactivant el mode de només lectura durant l'arrencada"
+
+msgid "Through rpm-ostree layering"
+msgstr "Mitjançant les capes rpm-ostree"
+
+msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
+msgstr "A part del mecanisme d'actualització de les distribucions Immutables, quins altres components ADMETEN les actualitzacions transaccionals?"
+
+msgid "DNF"
+msgstr "DNF"
+
+msgid "Salt and Ansible"
+msgstr "Salt i Ansible"
+
+msgid "cockpit-tukit"
+msgstr "cockpit-tukit"
+
+msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
+msgstr "Només una de les distribucions immutables següents té llançaments puntuals regulars, la resta és de llançament continu. Quina?"
+
+msgid "Leap Micro"
+msgstr "Leap Micro"
+
+msgid "MicroOS"
+msgstr "MicroSO"
+
+msgid "Aeon"
+msgstr ""
+
+msgid "Kalpa"
+msgstr ""
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -482,9 +728,6 @@ msgstr "Distribucions progressives amb actualitzacions transaccionals mitjançan
 msgid "Distributions built on top of MicroOS"
 msgstr "Distribucions creades sobre MicroOS"
 
-msgid "All options are correct"
-msgstr "Totes les opcions són correctes"
-
 msgid "Where was the openSUSE project founded?"
 msgstr "On es va fundar el projecte openSUSE?"
 
@@ -520,12 +763,6 @@ msgstr "Com es diu l'instal·lador nou del Leap 16?"
 
 msgid "Sypper"
 msgstr "Sypper"
-
-msgid "Agama"
-msgstr "Agama"
-
-msgid "Anaconda"
-msgstr "Anaconda"
 
 msgid "Cayman"
 msgstr "Cayman"
@@ -575,15 +812,6 @@ msgstr "Un sistema centrat en contenidors com ara MicroSO"
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
 msgstr "Quin entorn d'escriptori és el predeterminat per a l'openSUSE Leap 15?"
 
-msgid "GNOME"
-msgstr "GNOME"
-
-msgid "KDE Plasma"
-msgstr "Plasma, de KDE"
-
-msgid "Xfce"
-msgstr "Xfce"
-
 msgid "There is no default. We leave choice to the user."
 msgstr "No hi ha cap valor per defecte. Deixem que l'usuari triï."
 
@@ -631,15 +859,6 @@ msgstr "El navegador web predeterminat"
 
 msgid "A programming language"
 msgstr "Un llenguatge de programació"
-
-msgid "What is the name of installer in openSUSE Aeon?"
-msgstr "Quin és el nom de l'instal·lador a l'openSUSE Aeon?"
-
-msgid "tik"
-msgstr "tik"
-
-msgid "tak"
-msgstr "tak"
 
 msgid "tao"
 msgstr "tao"
@@ -752,9 +971,6 @@ msgstr "zypper update"
 msgid "apt-get update"
 msgstr "apt-get update"
 
-msgid "dnf upgrade"
-msgstr "dnf upgrade"
-
 msgid "pacman -Syu"
 msgstr "pacman -Syu"
 
@@ -775,9 +991,6 @@ msgstr "Un instal·lador"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
 msgstr "Quina distribució d'openSUSE és coneguda com a versió estable?"
-
-msgid "MicroOS"
-msgstr "MicroSO"
 
 msgid "What is the primary focus of openSUSE MicroOS?"
 msgstr "Quin és l'objectiu principal d'openSUSE MicroSO?"
@@ -1001,9 +1214,6 @@ msgstr "csh"
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr "Quina d'aquestes és una versió d'openSUSE impulsada per la comunitat?"
 
-msgid "Leap Micro"
-msgstr "Leap Micro"
-
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
@@ -1018,9 +1228,6 @@ msgstr "Quin dels següents gestors de paquets s'usa habitualment a openSUSE?"
 
 msgid "Yum"
 msgstr "Yum"
-
-msgid "DNF"
-msgstr "DNF"
 
 msgid "Zypper"
 msgstr "Zypper"
@@ -1091,6 +1298,194 @@ msgstr "Els esdeveniments es revelen només durant una lluna plena"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "On podeu demanar ajuda quan us perdeu a l'univers d'openSUSE?"
 
+msgid "oSC Historian"
+msgstr "Historiador d'oSC"
+
+msgid "Are you an openSUSE Conference Historian? Prove it!"
+msgstr "Ets un historiador de conferències d'openSUSE? Demostra-ho!"
+
+msgid "In what year was the first-ever openSUSE Conference held?"
+msgstr "Quin any es va celebrar la primera conferència d'openSUSE?"
+
+msgid "2006"
+msgstr "El 2006"
+
+msgid "2009"
+msgstr "2009"
+
+msgid "2012"
+msgstr "2012"
+
+msgid "2008"
+msgstr "2008"
+
+msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
+msgstr "Qui va pronunciar la conferència inaugural \"Treballar en una comunitat virtual\" l'any 2009?"
+
+msgid "Leslie Hawthorn from Google"
+msgstr "Leslie Hawthorn de Google"
+
+msgid "Gianugo Rabellino from the Apache Software Foundation"
+msgstr "Gianugo Rabellino de la Fundació de Programari Apache"
+
+msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
+msgstr "Joe 'Zonker' Brockmeier, gestor de la comunitat d'openSUSE"
+
+msgid "Lenz Grimmer from MySQL"
+msgstr "Lenz Grimmer de MySQL"
+
+msgid "Which company owned and sponsored openSUSE Conference in 2009?"
+msgstr "Quina empresa va ser propietària i patrocinadora de la conferència d'openSUSE el 2009?"
+
+msgid "Novell"
+msgstr "Novell"
+
+msgid "Micro Focus"
+msgstr "Micro Focus"
+
+msgid "Attachmate"
+msgstr "Attachmate"
+
+msgid "SUSE"
+msgstr "SUSE"
+
+msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
+msgstr "Tornem al present. Qui va pronunciar la conferència inaugural de l'oSC 2024?"
+
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+msgid "Rick Spencer"
+msgstr "Rick Spencer"
+
+msgid "Melissa Di Donato"
+msgstr "Melissa Di Donato"
+
+msgid "Mark Shuttleworth"
+msgstr "Mark Shuttleworth"
+
+msgid "Can you guess how many sessions are scheduled for oSC 2025?"
+msgstr "Podeu endevinar quantes sessions hi ha programades per a l'oSC 2025?"
+
+msgid "78 sessions"
+msgstr "78 sessions"
+
+msgid "108 sessions"
+msgstr "108 sessions"
+
+msgid "58 sessions"
+msgstr "58 sessions"
+
+msgid "42.3 sessions"
+msgstr "42.3 sessions"
+
+msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
+msgstr "Quina d'aquestes ciutats NO ha acollit encara una conferència d'openSUSE?"
+
+msgid "Prague, Czech Republic"
+msgstr "Praga, República Txeca"
+
+msgid "The Hague, Netherlands"
+msgstr "La Haia, Països Baixos"
+
+msgid "Paris, France"
+msgstr "París, França"
+
+msgid "Thessaloniki, Greece"
+msgstr "Tessalònica, Grècia"
+
+msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
+msgstr "On sol tenir lloc la festa prèvia a la Conferència d'openSUSE a Nuremberg?"
+
+msgid "At Kater Murr"
+msgstr "A Kater Murr"
+
+msgid "At ZypperHaus"
+msgstr "A la ZypperHaus"
+
+msgid "In the SESU club run by SUSE interns at the local university"
+msgstr "Al club SESU, dirigit per estudiants en pràctiques de SUSE a la universitat local"
+
+msgid "At the virtual /bar on meet.opensuse.org"
+msgstr "Al bar virtual /bar de meet.opensuse.org"
+
+msgid "What unusual item has appeared as official openSUSE swag?"
+msgstr "Quin article inusual ha aparegut com a obsequi oficial d'openSUSE?"
+
+msgid "openSUSE branded surströmming"
+msgstr "Surströmming, de la marca openSUSE"
+
+msgid "Geeko flavored toothpaste"
+msgstr "Pasta de dents amb gust del Geeko"
+
+msgid "openSUSE beer"
+msgstr "cervesa openSUSE"
+
+msgid "FIPS certified socks"
+msgstr "Mitjons certificats de FIPS"
+
+msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
+msgstr "El nostre extresorer Andrew va rebre un enorme aplaudiment per una \"creació\" sorprenent durant la seva xerrada. De què es tractava?"
+
+msgid "Dirty Dancing with Geeko"
+msgstr "Dirty Dancing amb el Geeko"
+
+msgid "Singing a Free Software song"
+msgstr "Cantar una cançó de programari lliure"
+
+msgid "Playing the banjo"
+msgstr "Tocar el banjo"
+
+msgid "Deep dived into open bugs wearing a swimsuit"
+msgstr "Submergir-se en insectes oberts amb banyador"
+
+msgid "What happened to the openSUSE Conference during 2020–2021?"
+msgstr "Què va passar amb la Conferència d'openSUSE durant el 2020–2021?"
+
+msgid "It was held in orbit via SpaceX"
+msgstr "Es va fer en òrbita a través de SpaceX"
+
+msgid "It was virtual due to COVID-19"
+msgstr "Va ser virtual a causa de la COVID-19"
+
+msgid "It merged with Novel Digital"
+msgstr "Es va fusionar amb Novel Digital"
+
+msgid "Canceled due to lack of pizza"
+msgstr "Es va cancel·lar per manca de pizza"
+
+msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
+msgstr "La festa del divendres a la nit de l'oSC 2016 va ser mooolt llarga gràcies a un concert especial. Què la va fer inoblidable?"
+
+msgid "The famous SUSE band rocked the Z-Bau"
+msgstr "La famosa banda SUSE va fer vibrar el Z-Bau"
+
+msgid "A surprise keynote by Linus Torvalds"
+msgstr "Una conferència sorpresa de Linus Torvalds"
+
+msgid "A spontaneous YaST karaoke contest"
+msgstr "Un concurs de karaoke espontani de YaST"
+
+msgid "An epic dance-off between Geeko mascots"
+msgstr "Un ball èpic amb les mascotes Geeko"
+
+#, fuzzy
+#| msgid "Since 2022 we do have an extra service available at oSC. What is it?"
+msgid "Since 2022 we do have an extra service available at oSC? What is it?"
+msgstr "Des de l'any 2022 tenim un servei addicional disponible a l'oSC. Què és?"
+
+msgid "A machine for a tuna flavored popcorn"
+msgstr "Una màquina per fer crispetes amb gust de tonyina"
+
+msgid "A low wave radio station"
+msgstr "Una emissora de ràdio d'ona baixa"
+
+msgid "An ambulance"
+msgstr "Una ambulància"
+
+msgid "Self-service beer tap"
+msgstr "Una aixeta de cervesa d'autoservei"
+
 msgid "s390x Expert"
 msgstr "Expert de s390x"
 
@@ -1100,11 +1495,11 @@ msgstr "Un qüestionari per a amics dels ordinadors centrals i les arquitectures
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr "Quina diferència hi ha entre Big Endian i Little Endian?"
 
-msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr "Els s390x només usen 31b, per això s'anomenen Little Endian"
-
 msgid "It’s about byte ordering; s390x being Big Endian"
 msgstr "Es tracta de l'ordenació de bytes, s390x és Big Endian."
+
+msgid "s390x are using only 31b, that’s why they’re called Little Endian"
+msgstr "Els s390x només usen 31b, per això s'anomenen Little Endian"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
 msgstr "Es tracta de l'ordenació de bytes, s390x és Little Endian."
@@ -1118,14 +1513,14 @@ msgstr "Què és DASD?"
 msgid "A German word"
 msgstr "Una paraula alemanya"
 
-msgid "Direct-access storage device"
-msgstr "Dispositiu d'emmagatzematge d'accés directe"
-
 msgid "Swear word repeated often by s390x administrators"
 msgstr "Una paraula grollera repetida sovint pels administradors de s390x"
 
 msgid "A scsi disk"
 msgstr "Un disc scsi"
+
+msgid "Direct-access storage device"
+msgstr "Dispositiu d'emmagatzematge d'accés directe"
 
 msgid "HMC is?"
 msgstr "Què és HMC?"
@@ -1145,11 +1540,11 @@ msgstr "Una unitat de control de mòduls oculta"
 msgid "z/VM is?"
 msgstr "Què és z/VM?"
 
-msgid "Virtual Machine on Z (meaning s390x)"
-msgstr "Una màquina virtual a Z (és a dir, s390x)"
-
 msgid "z/VM is operating system usually used as hypervisor"
 msgstr "El z/VM és un sistema operatiu que s'usa habitualment com a hipervisor"
+
+msgid "Virtual Machine on Z (meaning s390x)"
+msgstr "Una màquina virtual a Z (és a dir, s390x)"
 
 msgid "Remote desktop viewer"
 msgstr "Un visualitzador d'escriptori remot"
@@ -1160,14 +1555,14 @@ msgstr "Una memòria virtual zombi"
 msgid "What does storage mean in the mainframe world?"
 msgstr "Què significa emmagatzematge en el món dels ordinadors centrals?"
 
-msgid "Memory (RAM)"
-msgstr "Memòria (RAM)"
-
 msgid "Data storage (disks) counted in cylinders"
 msgstr "Emmagatzematge de dades (discos) comptat en cilindres"
 
 msgid "A room where the mainframe is located"
 msgstr "La sala on hi ha l'ordinador central"
+
+msgid "Memory (RAM)"
+msgstr "Memòria (RAM)"
 
 msgid "Compartment within a mainframe where the disks are located"
 msgstr "El compartiment d'un ordinador central on hi ha els discs"
@@ -1208,14 +1603,14 @@ msgstr "Què és IFL?"
 msgid "A filtration unit for cooling fluid"
 msgstr "Una unitat de filtració per a fluids de refrigeració"
 
-msgid "A core to run Linux on mainframe"
-msgstr "Un nucli per executar Linux en un ordinador central"
-
 msgid "Made up word to confuse laptop users"
 msgstr "Paraula inventada per confondre els usuaris d'ordinadors portàtils"
 
 msgid "Integrated FLat circuit"
 msgstr "Circuit pla integrat"
+
+msgid "A core to run Linux on mainframe"
+msgstr "Un nucli per executar Linux en un ordinador central"
 
 msgid "What is cio_ignore?"
 msgstr "Què és cio_ignore?"
@@ -1235,9 +1630,6 @@ msgstr "Un filtre de registre del sistema z/VM"
 msgid "What is the most used operating system on mainframes?"
 msgstr "Quin és el sistema operatiu més usat en ordinadors centrals?"
 
-msgid "z/OS"
-msgstr "z/OS"
-
 msgid "Linux"
 msgstr "Linux"
 
@@ -1246,6 +1638,9 @@ msgstr "Windows"
 
 msgid "z/VM"
 msgstr "z/VM"
+
+msgid "z/OS"
+msgstr "z/OS"
 
 msgid "Do mainframes have any special AI capabilities?"
 msgstr "Els ordinadors centrals tenen cap capacitat especial d'IA?"
@@ -1276,6 +1671,23 @@ msgstr "Xarxa"
 
 msgid "Bluetooth"
 msgstr "Bluetooth"
+
+msgid "What will be delivered together with a mainframe by IBM?"
+msgstr ""
+
+msgid "A necklet with IBM on it"
+msgstr ""
+
+msgid "Protective footwear"
+msgstr ""
+
+#, fuzzy
+#| msgid "A core to run Linux on mainframe"
+msgid "A sword for protection of the mainframe"
+msgstr "Un nucli per executar Linux en un ordinador central"
+
+msgid "A white helmet with IBM on it"
+msgstr ""
 
 msgid "The Ultimate YaST Challenge"
 msgstr "El repte definitiu del YaST"
@@ -1324,9 +1736,6 @@ msgstr "El 2002"
 
 msgid "2004"
 msgstr "El 2004"
-
-msgid "2006"
-msgstr "El 2006"
 
 msgid "When did YaST2 reach the German legal drinking age?"
 msgstr "Quan va arribar el YaST2 a l'edat legal alemanya per beure?"
@@ -1646,7 +2055,9 @@ msgstr "Fa un enllaç simbòlic amb el zypper, per evitar errors al teclat amb l
 msgid "The project name of next gen zypper"
 msgstr "El nom del projecte de la nova generació del Zypper"
 
-msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
+#, fuzzy
+#| msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
+msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Aquesta és complicada! Tots coneixem zypper rm --clean-deps, però què passa si executeu zypper rm --clean-deps rm?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
@@ -1719,371 +2130,8 @@ msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
-msgid "oSC Historian"
-msgstr "Historiador d'oSC"
-
-msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr "Ets un historiador de conferències d'openSUSE? Demostra-ho!"
-
-msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "Quin any es va celebrar la primera conferència d'openSUSE?"
-
-msgid "2009"
-msgstr "2009"
-
-msgid "2012"
-msgstr "2012"
-
-msgid "2008"
-msgstr "2008"
-
-msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr "Qui va pronunciar la conferència inaugural \"Treballar en una comunitat virtual\" l'any 2009?"
-
-msgid "Leslie Hawthorn from Google"
-msgstr "Leslie Hawthorn de Google"
-
-msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr "Gianugo Rabellino de la Fundació de Programari Apache"
-
-msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr "Joe 'Zonker' Brockmeier, gestor de la comunitat d'openSUSE"
-
-msgid "Lenz Grimmer from MySQL"
-msgstr "Lenz Grimmer de MySQL"
-
-msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr "Quina empresa va ser propietària i patrocinadora de la conferència d'openSUSE el 2009?"
-
-msgid "Novell"
-msgstr "Novell"
-
-msgid "Micro Focus"
-msgstr "Micro Focus"
-
-msgid "Attachmate"
-msgstr "Attachmate"
-
-msgid "SUSE"
-msgstr "SUSE"
-
-msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr "Tornem al present. Qui va pronunciar la conferència inaugural de l'oSC 2024?"
-
-msgid "Dirk-Peter van Leeuwen"
-msgstr "Dirk-Peter van Leeuwen"
-
-msgid "Rick Spencer"
-msgstr "Rick Spencer"
-
-msgid "Melissa Di Donato"
-msgstr "Melissa Di Donato"
-
-msgid "Mark Shuttleworth"
-msgstr "Mark Shuttleworth"
-
-msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr "Podeu endevinar quantes sessions hi ha programades per a l'oSC 2025?"
-
-msgid "78 sessions"
-msgstr "78 sessions"
-
-msgid "108 sessions"
-msgstr "108 sessions"
-
-msgid "58 sessions"
-msgstr "58 sessions"
-
-msgid "42.3 sessions"
-msgstr "42.3 sessions"
-
-msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Quina d'aquestes ciutats NO ha acollit encara una conferència d'openSUSE?"
-
-msgid "Prague, Czech Republic"
-msgstr "Praga, República Txeca"
-
-msgid "The Hague, Netherlands"
-msgstr "La Haia, Països Baixos"
-
-msgid "Paris, France"
-msgstr "París, França"
-
-msgid "Thessaloniki, Greece"
-msgstr "Tessalònica, Grècia"
-
-msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr "On sol tenir lloc la festa prèvia a la Conferència d'openSUSE a Nuremberg?"
-
-msgid "At Kater Murr"
-msgstr "A Kater Murr"
-
-msgid "At ZypperHaus"
-msgstr "A la ZypperHaus"
-
-msgid "In the SESU club run by SUSE interns at the local university"
-msgstr "Al club SESU, dirigit per estudiants en pràctiques de SUSE a la universitat local"
-
-msgid "At the virtual /bar on meet.opensuse.org"
-msgstr "Al bar virtual /bar de meet.opensuse.org"
-
-msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr "Quin article inusual ha aparegut com a obsequi oficial d'openSUSE?"
-
-msgid "openSUSE branded surströmming"
-msgstr "Surströmming, de la marca openSUSE"
-
-msgid "Geeko flavored toothpaste"
-msgstr "Pasta de dents amb gust del Geeko"
-
-msgid "openSUSE beer"
-msgstr "cervesa openSUSE"
-
-msgid "FIPS certified socks"
-msgstr "Mitjons certificats de FIPS"
-
-msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr "El nostre extresorer Andrew va rebre un enorme aplaudiment per una \"creació\" sorprenent durant la seva xerrada. De què es tractava?"
-
-msgid "Dirty Dancing with Geeko"
-msgstr "Dirty Dancing amb el Geeko"
-
-msgid "Singing a Free Software song"
-msgstr "Cantar una cançó de programari lliure"
-
-msgid "Playing the banjo"
-msgstr "Tocar el banjo"
-
-msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr "Submergir-se en insectes oberts amb banyador"
-
-msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr "Què va passar amb la Conferència d'openSUSE durant el 2020–2021?"
-
-msgid "It was held in orbit via SpaceX"
-msgstr "Es va fer en òrbita a través de SpaceX"
-
-msgid "It was virtual due to COVID-19"
-msgstr "Va ser virtual a causa de la COVID-19"
-
-msgid "It merged with Novel Digital"
-msgstr "Es va fusionar amb Novel Digital"
-
-msgid "Canceled due to lack of pizza"
-msgstr "Es va cancel·lar per manca de pizza"
-
-msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr "La festa del divendres a la nit de l'oSC 2016 va ser mooolt llarga gràcies a un concert especial. Què la va fer inoblidable?"
-
-msgid "The famous SUSE band rocked the Z-Bau"
-msgstr "La famosa banda SUSE va fer vibrar el Z-Bau"
-
-msgid "A surprise keynote by Linus Torvalds"
-msgstr "Una conferència sorpresa de Linus Torvalds"
-
-msgid "A spontaneous YaST karaoke contest"
-msgstr "Un concurs de karaoke espontani de YaST"
-
-msgid "An epic dance-off between Geeko mascots"
-msgstr "Un ball èpic amb les mascotes Geeko"
-
-msgid "Immutability"
-msgstr "Immutabilitat"
-
-msgid "Let's learn something about our Immutable distros."
-msgstr "Aprenguem alguna cosa sobre les nostres distribucions immutables."
-
-msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr "En termes senzills, com funciona l'actualització transaccional que impulsa les nostres distribucions immutables?"
-
-msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr "La majoria de les particions del sistema es munten en mode de només lectura, cosa que impedeix canvis al disc."
-
-msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr "Les actualitzacions no afecten el sistema en execució fins que no es reinicia en una instantània nova."
-
-msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr "El sistema usa l'actualització transaccional per a actualitzacions atòmiques i segures i una reversió fàcil."
-
-msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Quines d'aquestes són distribucions immutables d'openSUSE?"
-
-msgid "Silverblue, CoreOS"
-msgstr "Silverblue, CoreOS"
-
-msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroSO, Leap Micro, Aeon, Kalpa"
-
-msgid "Argon, Krypton"
-msgstr "Argon, Krypton"
-
-msgid "Hurd, Darwin"
-msgstr "Hurd, Darwin"
-
-msgid "What is openSUSE MicroOS?"
-msgstr "Què és l'openSUSE MicroSO?"
-
-msgid "A rolling-release web browser"
-msgstr "Un navegador web de llançament continu"
-
-msgid "Micro Service OS built by the openSUSE community"
-msgstr "Un sistema operatiu Micro Service creat per la comunitat d'openSUSE"
-
-msgid "A package manager"
-msgstr "Un gestor de paquets"
-
-msgid "A container runtime"
-msgstr "Un entorn d'execució de contenidor"
-
-msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "Quin entorn d'escriptori usa l'openSUSE Aeon per defecte?"
-
-msgid "Enlightenment"
-msgstr "Enlightenment"
-
-msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "Quin entorn d'escriptori usa l'openSUSE Kalpa per defecte?"
-
-msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr "Tots dos estan basats en MicroSO i tenen un escriptori a punt per usar."
-
-msgid "Both use transactional-updates for rpm installation."
-msgstr "Tots dos usen actualitzacions transaccionals per a la instal·lació d'rpm."
-
-msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr "Tots dos promouen distrobox i flatpaks per a aplicacions addicionals."
-
-msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr "Tant l'Aeon com el Kalpa tenen noms interessants que fan referència indirectament a un llançament continu. Com és això?"
-
-msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr "Tots dos són termes antics que signifiquen períodes llargs o cicles còsmics."
-
-msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr "Tots dos són noms de pel·lícules de l'oest famoses on apareixia herba rodant."
-
-msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr "Tots dos són sobrenoms molt antics de l'arquitecte original darrere de MicroSO."
-
-msgid "Both refer to software update tools in openSUSE."
-msgstr "Tots dos fan referència a les eines d'actualització de programari a l'openSUSE."
-
-msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr "El 2023 es va fer un experiment amb un escriptori immutable basat en Sway. En saps el nom?"
-
-msgid "Greyhound"
-msgstr "Greyhound"
-
-msgid "Greybeard"
-msgstr "Greybeard"
-
-msgid "Bluehair"
-msgstr "Bluehair"
-
-msgid "Ultraviolet"
-msgstr "Ultraviolet"
-
-msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr "Quina eina s'usa per actualitzar de manera segura el sistema base a les nostres distribucions immutables?"
-
-msgid "zypper dup"
-msgstr "zypper dup"
-
-msgid "transactional-update"
-msgstr "transactional-update"
-
-msgid "ostree pull"
-msgstr "ostree pull"
-
-msgid "How can you install an additional package?"
-msgstr "Com es pot instal·lar un paquet addicional?"
-
-msgid "zypper in"
-msgstr "zypper in"
-
-msgid "dnf install"
-msgstr "dnf install"
-
-msgid "transactional-update pkg install"
-msgstr "transactional-update pkg install"
-
-msgid "rpm-ostree install"
-msgstr "rpm-ostree install"
-
-msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr "Per què generalment no es recomana l'ús de l'ordre transactional-update shell?"
-
-msgid "Because you can modify all parts of the system."
-msgstr "Perquè pot modificar totes les parts del sistema."
-
-msgid "It creates wormholes into another dimension."
-msgstr "Crea forats de cuc en una altra dimensió."
-
-msgid "It can secretly migrate your system to Fedora."
-msgstr "Pot migrar en secret el sistema a Fedora."
-
-msgid "Geeko loses a hair every time you use it."
-msgstr "El Geeko perd un cabell cada vegada que l'uses."
-
-msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr "Com permeten les nostres distribucions immutables escriure a /etc durant l'execució?"
-
-msgid "By using overlayfs on top of /etc"
-msgstr "Usant overlayfs a /etc"
-
-msgid "By mounting a writable Btrfs subvolume directly"
-msgstr "Muntant directament un subvolum Btrfs escrivible"
-
-msgid "By disabling read-only mode during boot"
-msgstr "Desactivant el mode de només lectura durant l'arrencada"
-
-msgid "Through rpm-ostree layering"
-msgstr "Mitjançant les capes rpm-ostree"
-
-msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr "A part del mecanisme d'actualització de les distribucions Immutables, quins altres components ADMETEN les actualitzacions transaccionals?"
-
-msgid "Salt and Ansible"
-msgstr "Salt i Ansible"
-
-msgid "cockpit-tukit"
-msgstr "cockpit-tukit"
-
-msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr "Només una de les distribucions immutables següents té llançaments puntuals regulars, la resta és de llançament continu. Quina?"
-
-msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Quin carregador d'arrencada s'usa per defecte a l'openSUSE Aeon?"
-
-msgid "lilo"
-msgstr "lilo"
-
-msgid "BOOTMGR"
-msgstr "BOOTMGR"
-
-msgid "grub2"
-msgstr "grub2"
-
-msgid "systemd-boot"
-msgstr "systemd-boot"
-
-msgid "Since 2022 we do have an extra service available at oSC. What is it?"
-msgstr "Des de l'any 2022 tenim un servei addicional disponible a l'oSC. Què és?"
-
-msgid "A machine for a tuna flavored popcorn"
-msgstr "Una màquina per fer crispetes amb gust de tonyina"
-
-msgid "A low wave radio station"
-msgstr "Una emissora de ràdio d'ona baixa"
-
-msgid "An ambulance"
-msgstr "Una ambulància"
-
-msgid "Self-service beer tap"
-msgstr "Una aixeta de cervesa d'autoservei"
-
-msgid "Richard Stallman"
-msgstr "Richard Stallman"
+#~ msgid "Dirk-Peter van Leeuwen"
+#~ msgstr "Dirk-Peter van Leeuwen"
 
 #~ msgid "toe"
 #~ msgstr "toe"
