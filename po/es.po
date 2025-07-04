@@ -122,7 +122,6 @@ msgid "BOOTMGR"
 msgstr ""
 
 #, fuzzy
-#| msgid "What are Aeon and Kalpa?"
 msgid "What do Aeon and Kalpa have in common?"
 msgstr "¿Qué son Aeon y Kalpa?"
 
@@ -136,7 +135,6 @@ msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr ""
 
 #, fuzzy
-#| msgid "All options are correct"
 msgid "All options are correct."
 msgstr "Todas las opciones son correctas"
 
@@ -1705,7 +1703,6 @@ msgid "Protective footwear"
 msgstr ""
 
 #, fuzzy
-#| msgid "A core to run Linux on mainframe"
 msgid "A sword for protection of the mainframe"
 msgstr "Un núcleo para ejecutar Linux en mainframe"
 

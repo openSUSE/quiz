@@ -121,7 +121,6 @@ msgid "BOOTMGR"
 msgstr ""
 
 #, fuzzy
-#| msgid "What are Aeon and Kalpa?"
 msgid "What do Aeon and Kalpa have in common?"
 msgstr "एओन और कल्पा क्या हैं?"
 
@@ -135,7 +134,6 @@ msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr ""
 
 #, fuzzy
-#| msgid "All options are correct"
 msgid "All options are correct."
 msgstr "सभी विकल्प सही हैं"
 

@@ -113,7 +113,6 @@ msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
 #, fuzzy
-#| msgid "What are Aeon and Kalpa?"
 msgid "What do Aeon and Kalpa have in common?"
 msgstr "Co jsou Aeon a Kalpa?"
 
@@ -127,7 +126,6 @@ msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Obě distribuce propagují distrobox a flatpaky pro instalaci dodatečných aplikací."
 
 #, fuzzy
-#| msgid "All options are correct"
 msgid "All options are correct."
 msgstr "Všechny možnosti jsou správné"
 
@@ -1470,7 +1468,6 @@ msgid "An epic dance-off between Geeko mascots"
 msgstr "Epický taneční souboj v oblecích maskota Geeka"
 
 #, fuzzy
-#| msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
 msgstr "Od roku 2022 máme extra službu na každé oSC. Víte o jakou se jedná?"
 
@@ -1682,7 +1679,6 @@ msgid "Protective footwear"
 msgstr ""
 
 #, fuzzy
-#| msgid "A core to run Linux on mainframe"
 msgid "A sword for protection of the mainframe"
 msgstr "Jádro pro spuštění Linuxu na mainframe"
 
@@ -2056,7 +2052,6 @@ msgid "The project name of next gen zypper"
 msgstr "Název projektu nové generace Zypperu"
 
 #, fuzzy
-#| msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Tohle je ošemetné! Všichni známe `zypper rm --clean-deps`, ale co se stane, když spustíte `zypper rm --clean-deps rm`?"
 

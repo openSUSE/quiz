@@ -116,7 +116,6 @@ msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
 #, fuzzy
-#| msgid "What are Aeon and Kalpa?"
 msgid "What do Aeon and Kalpa have in common?"
 msgstr "Was sind Aeon und Kalpa?"
 
@@ -130,7 +129,6 @@ msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Beide bewerben distrobox und flatpaks für zuätzliche Apps."
 
 #, fuzzy
-#| msgid "All options are correct"
 msgid "All options are correct."
 msgstr "Alle Antworten sind richtig"
 
@@ -1477,7 +1475,6 @@ msgid "An epic dance-off between Geeko mascots"
 msgstr "Ein episches Tanzduell zwischen Geeko Maskottchen"
 
 #, fuzzy
-#| msgid "Since 2022 we do have an extra service available at oSC. What is it?"
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
 msgstr "Seit 2022 haben wir einen zusätzlichen Service auf der oSC. Welchen?"
 
@@ -1689,7 +1686,6 @@ msgid "Protective footwear"
 msgstr ""
 
 #, fuzzy
-#| msgid "A core to run Linux on mainframe"
 msgid "A sword for protection of the mainframe"
 msgstr "Der Kernel um Linux auf Mainfraimes auszuführen"
 
@@ -2067,7 +2063,6 @@ msgid "The project name of next gen zypper"
 msgstr "Der Projektname der nächsten Generation von zypper"
 
 #, fuzzy
-#| msgid "This one is tricky! We all know `zypper rm --clean-deps` but what happens if you run `zypper rm --clean-deps rm`?"
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Diese Frage ist schwierig! Jeder kennt 'zypper rm --clean-deps', aber was passiert wenn man 'zypper rm --clean-deps rm' ausführt?"
 

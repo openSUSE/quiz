@@ -117,7 +117,6 @@ msgid "BOOTMGR"
 msgstr ""
 
 #, fuzzy
-#| msgid "What are Aeon and Kalpa?"
 msgid "What do Aeon and Kalpa have in common?"
 msgstr "Що таке Aeon та Kalpa?"
 
