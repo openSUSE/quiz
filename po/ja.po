@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-06-27 18:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-05 11:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "不変性"
@@ -112,9 +101,8 @@ msgstr "grub2"
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Aeon, Kalpa とは何？"
+msgstr "Aeon や Kalpa に共通するものとは？"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "いずれもすぐに使えるデスクトップ環境を提供する MicroOS ベースのもの。"
@@ -125,9 +113,8 @@ msgstr "いずれも RPM インストール時に transactional-updates を使�
 msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "いずれも追加のアプリを使用する場合に distrobox や flatpaks を推奨している。"
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "これら全てが正しい"
+msgstr "これら全てが正しい。"
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "Aeon や Kalpa はいずれもローリングリリースモデルを間接的に示す特徴的な名前になっています。それは何故？"
@@ -241,10 +228,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "カーネル忍者"
@@ -1467,7 +1454,6 @@ msgstr "自発的な YaST カラオケコンテスト"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Geeko マスコットによる壮大なダンス対決"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
 msgstr "2022 年より、 oSC で追加のサービスが提供されるようになりました。それは何？"
 
@@ -1670,20 +1656,19 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "IBM がメインフレーム機とともに提供するものは何？"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "IBM ロゴ入りのネックレス"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "保護靴"
 
-#, fuzzy
 msgid "A sword for protection of the mainframe"
-msgstr "メインフレームで Linux を動作させるためのコア"
+msgstr "メインフレームを守るための剣"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "IBM ロゴの入った白いヘルメット"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "YaST からの究極チャレンジ"
@@ -2051,7 +2036,6 @@ msgstr "zypper へのシンボリックリンク (ドイツ語キーボードで
 msgid "The project name of next gen zypper"
 msgstr "次世代の zypper のプロジェクト名"
 
-#, fuzzy
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "この問題は注意して回答してください！ `zypper rm --clean deps` についてはご存じかと思いますが、 `zypper rm --clean-deps rm` を実行すると何が起こる？"
 
