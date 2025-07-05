@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-07-03 02:59+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-06 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "Nemennosť"
@@ -114,9 +103,8 @@ msgstr "grub2"
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Čo sú Aeon a Kalpa?"
+msgstr "Čo majú spoločné Aeon a Kalpa?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Obe sú založené na MicroOS s desktopom pripraveným na použitie."
@@ -127,9 +115,8 @@ msgstr "Obe používajú transakčné aktualizácie pre inštaláciu rpm."
 msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Obe propagujú distrobox a flatpak pre ďalšie aplikácie."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Všetky možnosti sú správne"
+msgstr "Všetky možnosti sú správne."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "Aeon aj Kalpa majú zaujímavé názvy, ktoré nepriamo odkazujú na rolujúce vydanie. Ako?"
@@ -243,10 +230,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1469,7 +1456,6 @@ msgstr "Spontánna YaST karaoke súťaž"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Epický tanečný súboj maskotov Geeko"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
 msgstr "Od roku 2022 máme na oSC k dispozícii extra službu. Čo to je?"
 
@@ -1672,20 +1658,19 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "Čo bude IBM dodávať spolu s mainframe?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "Náhrdelník s nápisom IBM"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "Ochranná obuv"
 
-#, fuzzy
 msgid "A sword for protection of the mainframe"
-msgstr "Jadro na beh Linuxu na mainframe"
+msgstr "Meč na ochranu mainframe"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "Biela prilba s nápisom IBM"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Záverečná výzva YaST"
@@ -2053,9 +2038,8 @@ msgstr "Symbolický odkaz na zypper aby sa zabránilo chybe na klavesnici s preh
 msgid "The project name of next gen zypper"
 msgstr "Názov projektu Novej generácie zyppera"
 
-#, fuzzy
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr "Toto je oriešok! Všetci poznáme `zypper rm --clean-deps`, ale čo sa stane, ak spustíte `zypper rm --clean-deps rm`?"
+msgstr "Toto je oriešok! Všetci poznáme zypper rm --clean deps, ale čo sa stane, ak spustíte `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
 msgstr "Odinštalujeme príkaz `rm` a všetky jeho zostávajúce závislosti. Veľa šťastia s nasledovným mazaním suborov!"
