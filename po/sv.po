@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-06-27 18:59+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-05 11:59+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "Oföränderlighet"
@@ -116,9 +104,8 @@ msgstr "grub2"
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Vad är Aeon och Kalpa?"
+msgstr "Vad har Aeon och Kalpa gemensamt?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Båda är baserade på MicroOS med en färdig skrivbordsmiljö."
@@ -129,9 +116,8 @@ msgstr "Båda använder transaktionella uppdateringar för rpm-installation."
 msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Båda marknadsför Distrobox och Flatpaks för extra program."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Alla alternativ är korrekta"
+msgstr "Alla alternativ är korrekta."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "Både Aeon och Kalpa har intressanta namn som indirekt syftar på en rullande utgåva. Hur då?"
@@ -245,10 +231,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "Kärn ninja"
@@ -1471,9 +1457,8 @@ msgstr "En spontan YaST karaoketävling"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "En episk danstävling mellan Geeko-maskotar"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
-msgstr "Sedan 2022 har vi en extra tjänst tillgänglig på oSC. Vad är det?"
+msgstr "Sedan 2022 har vi en extra tjänst tillgänglig på oSC? Vad är det?"
 
 msgid "A machine for a tuna flavored popcorn"
 msgstr "En maskin för popcorn med tonfisksmak"
@@ -1674,20 +1659,19 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "Vad kommer att levereras tillsammans med en stordator från IBM?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "Ett halsband med IBM på det"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "Skyddsskor"
 
-#, fuzzy
 msgid "A sword for protection of the mainframe"
-msgstr "En kärna för att köra Linux på stordatorer"
+msgstr "Ett svärd för att skydda stordatorn"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "En vit hjälm med IBM på den"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Den ultimata YaST-utmaningen"
@@ -2055,9 +2039,8 @@ msgstr "Symlänk till zypper, för att undvika fel på tangentbordet med utbytta
 msgid "The project name of next gen zypper"
 msgstr "Projektnamnet för nästa generations zypper"
 
-#, fuzzy
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr "Den här är knepig! Vi alla känner till `zypper rm --clean-deps` men vad händer om du kör `zypper rm --clean-deps rm`?"
+msgstr "Den här är knepig! Vi alla känner till zypper rm --clean deps men vad händer om du kör `zypper rm --clean-deps rm`?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
 msgstr "Du avinstallerar `rm`-kommandot och alla dess kvarvarande beroenden. Lycka till med att ta bort filer efteråt!"
