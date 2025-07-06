@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-05 11:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-06 15:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr ""
@@ -1319,94 +1319,103 @@ msgid "2008"
 msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "Wie gaf de openings-keynote \"Werken in een virtuele gemeenschap\" in 2009?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn van Google"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino van de Apache Software Foundation"
 
+#, fuzzy
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe 'Zonker' Brockmeier, openSUSE community manager"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer van MySQL"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "Welk bedrijf hield en sponsorde de openSUSE Confertie in 2009?"
 
+#, fuzzy
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
+#, fuzzy
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
+#, fuzzy
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
+#, fuzzy
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "Terug naar heden. Wie gaf de openings-keynote op oSC 2024?"
 
+#, fuzzy
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
+#, fuzzy
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
+#, fuzzy
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
+#, fuzzy
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "Kun je raden hoeveel sessies er zijn op oSC 2025?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 sessies"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 sessies"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 sessies"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42,3 sessies"
 
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr ""
+msgstr "In welke van deze steden was nooit een openSUSE Conference?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "Praag, Tjechië"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "Den Haag, Nederland"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "Parijs, Frankrijk"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "Thessaloniki, Griekenland"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "Waar wordt de pre-party voor de openSUSE Conferentie meestal gehouden in Neurenberg?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "Bij Kater Murr"
 
 msgid "At ZypperHaus"
-msgstr ""
+msgstr "Bij ZypperHaus"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "In de SESU club, gedraaid door SUSE stagiairs op de lokale universiteit"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "In de virtuele bar op meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
 msgstr ""
