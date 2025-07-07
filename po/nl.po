@@ -1,22 +1,23 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-06 15:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-07 13:45+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
+#, fuzzy
 msgid "Immutability"
-msgstr ""
+msgstr "Immutability"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "Laten we 's wat leren over onze \"immutable distros."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "Simpel gezegd, hoe werkt 'transactional-update' op onze immutable distros?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "Meeste systeem partities worden alleen-lezen aangekoppeld, en voorkomen zo veranderingen op schijf."
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "Updates doen niks met het draaiende systeem, tot een herstart in het nieuwe snapshot."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
 msgstr ""
@@ -1418,80 +1419,80 @@ msgid "At the virtual /bar on meet.opensuse.org"
 msgstr "In de virtuele bar op meet.opensuse.org"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
-
-msgid "openSUSE branded surströmming"
-msgstr ""
-
-msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Welk ongebuikelijk item verscheen als officiële openSUSE \"swag\"?"
 
 #, fuzzy
+msgid "openSUSE branded surströmming"
+msgstr "openSUSE branded surströmming"
+
+msgid "Geeko flavored toothpaste"
+msgstr "Tandpasta met Geeko smaak"
+
 msgid "openSUSE beer"
-msgstr "openSUSE expert"
+msgstr "openSUSE bier"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "FIPS gecertificeerde sokken"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "Onze oud-treasurer Andrew kreeg enorm applaus voor een verrassende \"creatie\" tijdens zijn talk. Wat was het?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Dirty Dancing met Geeko"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "Een Free Software lied zingen"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "Banjo spelen"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "Nam een diepe duik in open bugs in zwembroek"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "Wat gebeurde er met de openSUSE Conference in 2020-2021?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "Was in de ruimte via SpaceX"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "Het was alleen vrtueel door COVID-19"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "Was samen met Novel Digital"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "Afgelast wegens gebrek aan pizza"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "De oSC 2016 Vrijdag party werd ooit nogal laaaaaaaat dankzij een speciale live act. Wat maakte dat onvergetelijk?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "De beroemde SUSE band speelde de Z-Bau plat"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Een verrassings-keynote van Linus Torvalds"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "Een spontane YaST karaoke wedstrijd"
 
 msgid "An epic dance-off between Geeko mascots"
-msgstr ""
+msgstr "Een epische \"dance-off\" tussen Geeko mascottes"
 
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
-msgstr ""
+msgstr "Sinds 2022 bieden we een extra service op oSC. Welke?"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "Een machine voor popcorn met tonijnsmaak"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "Een lange golf radio station"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "Een ambulance"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "Een zelfbedienings-biertap"
 
 msgid "s390x Expert"
 msgstr "s390x Expert"
