@@ -2,16 +2,16 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-06 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-07 13:45+0000\nLast-Translator: Stanislav Mitra <mitrastanislav@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
-msgstr "Nemennosť"
+msgstr "Immutability"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr "Poďme sa niečo dozvedieť o našich nemenných distribúciách."
+msgstr "Poďme sa niečo dozvedieť o našich Immutable (nemenných) distribúciách."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr "Zjednodušene povedané, ako funguje 'transactional-update' poháňajúce naše nemenné distribúcie?"
+msgstr "Zjednodušene povedané, ako funguje 'transactional-update' poháňajúce naše Immutable distribúcie?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
 msgstr "Väčšina systémových oddielov je pripojená len na čítanie, čo zabraňuje zmenám na disku."
@@ -26,7 +26,7 @@ msgid "All options are correct"
 msgstr "Všetky možnosti sú správne"
 
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Ktoré z týchto sú nemenné distribúcie openSUSE?"
+msgstr "Ktoré z týchto sú Immutable distribúcie openSUSE?"
 
 msgid "Silverblue, CoreOS"
 msgstr "Silverblue, CoreOS"
@@ -47,7 +47,7 @@ msgid "A rolling-release web browser"
 msgstr "Webový prehliadač rolujúceho vydania"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr "Micro Service OS zostavený komunitou openSUSE"
+msgstr "Micro Service OS postavený komunitou openSUSE"
 
 msgid "A package manager"
 msgstr "Správca balíkov"
@@ -89,7 +89,7 @@ msgid "Agama"
 msgstr "Agama"
 
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Aký správca štartu sa používa v openSUSE Aeon v predvolenom nastavení?"
+msgstr "Aký bootloader sa používa v openSUSE Aeon v predvolenom nastavení?"
 
 msgid "lilo"
 msgstr "lilo"
@@ -110,31 +110,31 @@ msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Obe sú založené na MicroOS s desktopom pripraveným na použitie."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr "Obe používajú transakčné aktualizácie pre inštaláciu rpm."
+msgstr "Obidve používajú transakčné aktualizácie pre inštaláciu rpm."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr "Obe propagujú distrobox a flatpak pre ďalšie aplikácie."
+msgstr "Obidve propagujú distrobox a flatpak pre ďalšie aplikácie."
 
 msgid "All options are correct."
 msgstr "Všetky možnosti sú správne."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr "Aeon aj Kalpa majú zaujímavé názvy, ktoré nepriamo odkazujú na rolujúce vydanie. Ako?"
+msgstr "Aeon aj Kalpa majú zaujímavé názvy, ktoré nepriamo odkazujú na rolujúce vydanie. Viete ako?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
 msgstr "Oba sú staroveké termíny, ktoré znamenajú dlhé obdobia alebo kozmické cykly."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr "Oba názvy pochádzajú zo slávnych westernových filmov, v ktorých sa objavil kotúľajúci sa láskavec."
+msgstr "Oba názvy pochádzajú zo slávnych westernových filmov, v ktorých sa objavil kotúľajúci sa láskavec (tumbleweed)."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr "Obe sú veľmi staré prezývky pôvodného architekta stojaceho za MicroOS."
+msgstr "Obidve sú veľmi staré prezývky pôvodného architekta stojaceho za MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr "Obe sa týkajú nástrojov na aktualizáciu softvéru v openSUSE."
+msgstr "Obidve sa odkazujú nástrojom na aktualizáciu softvéru v openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr "V roku 2023 sa uskutočnil experiment s nemenným desktopom založeným na Sway. Viete jeho názov?"
+msgstr "V roku 2023 sa uskutočnil experiment s immutable desktopom založeným na Sway. Viete jeho názov?"
 
 msgid "Greyhound"
 msgstr "Greyhound"
@@ -149,7 +149,7 @@ msgid "Ultraviolet"
 msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr "Ktorý nástroj sa používa na bezpečnú aktualizáciu základného systému v našich nemenných distribúciách?"
+msgstr "Ktorý nástroj sa používa na bezpečnú aktualizáciu základného systému v našich immutable distribúciách?"
 
 msgid "zypper dup"
 msgstr "zypper dup"
@@ -194,7 +194,7 @@ msgid "Geeko loses a hair every time you use it."
 msgstr "Geeko stratí vlas zakaždým, keď ho použijete."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr "Ako naše nemenné distribúcie umožňujú zápis do /etc za behu?"
+msgstr "Ako naše immutable distribúcie umožňujú zápis do /etc za behu?"
 
 msgid "By using overlayfs on top of /etc"
 msgstr "Použitím overlayfs nad /etc"
@@ -221,7 +221,7 @@ msgid "cockpit-tukit"
 msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr "Iba jedna z nasledujúcich nemenných distribúcií má pravidelné vydania, ostatné sú rolujúce. Ktorá z nich?"
+msgstr "Iba jedna z nasledujúcich immutable distribúcií má pravidelné vydania, ostatné sú rolujúce. Ktorá z nich?"
 
 msgid "Leap Micro"
 msgstr "Leap Micro"
@@ -242,7 +242,7 @@ msgid "Interesting facts about the kernel at SUSE and openSUSE"
 msgstr "Zaujímavé fakty o jadre v SUSE a openSUSE"
 
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Aká je približne veľkosť (MB) základného obrazu (squashfs) OS SUSE Automotive Linux?"
+msgstr "Aká je približná veľkosť (MB) základného obrazu (squashfs) OS SUSE Automotive Linux?"
 
 msgid "~ 20MB"
 msgstr "~ 20MB"
