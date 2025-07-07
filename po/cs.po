@@ -1,17 +1,6 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-06-26 13:58+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-07 13:45+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -112,9 +101,8 @@ msgstr "grub2"
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Co jsou Aeon a Kalpa?"
+msgstr "Co mají Aeon a Kalpa společného?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Obě distribuce jsou založené na MicroOS s ready-to-use desktopovým prostředím."
@@ -125,9 +113,8 @@ msgstr "Obě distribuce používají transactional-update pro instalaci rpm bal�
 msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Obě distribuce propagují distrobox a flatpaky pro instalaci dodatečných aplikací."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Všechny možnosti jsou správné"
+msgstr "Všechny možnosti jsou správné."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "Aeon i Kalpa používají zajímavé jména nepřímo odkazující na rolling distribuci. Víte jak?"
@@ -241,10 +228,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Nindža"
@@ -1467,7 +1454,6 @@ msgstr "Nečekaná YaST karaoke show, jakou svět neviděl"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Epický taneční souboj v oblecích maskota Geeka"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
 msgstr "Od roku 2022 máme extra službu na každé oSC. Víte o jakou se jedná?"
 
@@ -1670,20 +1656,19 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "Co bude doručeno spolu s mainframem od IBM?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "Náhrdelník s nápisem IBM"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "Ochranné boty"
 
-#, fuzzy
 msgid "A sword for protection of the mainframe"
-msgstr "Jádro pro spuštění Linuxu na mainframe"
+msgstr "Meč na ochranu mainframu"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "Bílá helma s nápisem IBM"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Ultimátní YaST Výzva"
@@ -2051,7 +2036,6 @@ msgstr "Symbolický odkaz na Zypper, aby se zabránilo chybě na klávesnici s p
 msgid "The project name of next gen zypper"
 msgstr "Název projektu nové generace Zypperu"
 
-#, fuzzy
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Tohle je ošemetné! Všichni známe `zypper rm --clean-deps`, ale co se stane, když spustíte `zypper rm --clean-deps rm`?"
 
