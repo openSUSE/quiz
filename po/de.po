@@ -3,18 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-06-26 15:14+0000\n"
-"Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-10 10:59+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -115,9 +104,8 @@ msgstr "grub2"
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Was sind Aeon und Kalpa?"
+msgstr "Was haben Aeon und Kalpa gemeinsam?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
 msgstr "Beide basieren auf MicroOS mit einem ready-to-use Desktop."
@@ -128,16 +116,14 @@ msgstr "Beide verwenden transactional-updates zum Installieren von RPMs."
 msgid "Both promote distrobox and flatpaks for extra apps."
 msgstr "Beide bewerben distrobox und flatpaks für zuätzliche Apps."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Alle Antworten sind richtig"
+msgstr "Alle Antworten sind richtig."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "Aeon und Kalpa haben beide interessante Namen die indirekt auf rolling-release hinweisen. Wie?"
 
-#, fuzzy
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr "Beide sind antike Begriffe die lange Perioden in kosmischen Zyklen bedeuten."
+msgstr "Beides sind antike Begriffe die lange Perioden in kosmischen Zyklen bedeuten."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
 msgstr "Beide sind Namen von berühmten Western wo ein rollender Steppenläufer auftaucht."
@@ -245,10 +231,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -530,7 +516,7 @@ msgstr "Mehr als 20%"
 
 #, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Chamäleon Spaß für Kinder"
+msgstr "Chamäleon-Spaß für Kinder"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Ein farbenfrohes quiz über Chamäleons und openSUSE für neugierige Kinder!"
@@ -1474,7 +1460,6 @@ msgstr "Ein spontaner YaST Karaoke Wettbewerb"
 msgid "An epic dance-off between Geeko mascots"
 msgstr "Ein episches Tanzduell zwischen Geeko Maskottchen"
 
-#, fuzzy
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
 msgstr "Seit 2022 haben wir einen zusätzlichen Service auf der oSC. Welchen?"
 
@@ -1677,20 +1662,19 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "Was wird bei einem IBM Mainframe mitgeliefert?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "Eine Halskette mit IBM drauf"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "Sicherheitsschuhe"
 
-#, fuzzy
 msgid "A sword for protection of the mainframe"
-msgstr "Der Kernel um Linux auf Mainfraimes auszuführen"
+msgstr "Ein Schwert um den Mainframe zu verteidigen"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "Ein weißer Helm mit IBM drauf"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "Die Ultimative YaST Herausforderung"
