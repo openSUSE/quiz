@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-07 13:45+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-10 10:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 #, fuzzy
 msgid "Immutability"
@@ -26,35 +26,39 @@ msgid "All options are correct"
 msgstr "Alle opties zijn juist"
 
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr ""
+msgstr "Welke van deze zijn openSUSE immutable distros?"
 
+#, fuzzy
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
+#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr ""
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
+#, fuzzy
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
+#, fuzzy
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
 #, fuzzy
 msgid "What is openSUSE MicroOS?"
 msgstr "Wat maakt openSUSE speciaal?"
 
 msgid "A rolling-release web browser"
-msgstr ""
+msgstr "Een rolling-release web browser"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "Micro Service OS gebouwd door de openSUSE community"
 
 msgid "A package manager"
-msgstr ""
+msgstr "Een package manager"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "Een container runtime"
 
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr ""
@@ -124,13 +128,13 @@ msgid "All options are correct."
 msgstr "Alle opties zijn juist"
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "De de namen van Aeon en Kalpa refereren indirect aan \"rolling release\". Hoezo?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "Beide zijn termen voor lange perioden of kosmische cycli."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "Beide zijn de namen van westerns waar de rolling release Tumbleweed in verscheen."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
 msgstr ""
@@ -141,20 +145,24 @@ msgstr ""
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
 msgstr ""
 
+#, fuzzy
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
+#, fuzzy
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
+#, fuzzy
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
+#, fuzzy
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "Welke tool wordt gebruikt om op een veilige manier het basis systeem in een immutable distributie te updaten?"
 
 #, fuzzy
 msgid "zypper dup"
@@ -163,39 +171,44 @@ msgstr "zypper update"
 msgid "dnf upgrade"
 msgstr "dnf upgrade"
 
+#, fuzzy
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
+#, fuzzy
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
 msgid "How can you install an additional package?"
-msgstr ""
+msgstr "Hoe kun je extra pakketten installeren?"
 
 #, fuzzy
 msgid "zypper in"
 msgstr "zypper"
 
+#, fuzzy
 msgid "dnf install"
-msgstr ""
+msgstr "dnf install"
 
+#, fuzzy
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
+#, fuzzy
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "Waarom wordt 'transactional-update shell' niet aangeraden?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "Omdat je daarmee alles van het systeem kunt veranderen."
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "Het creëert wormholes naar een andere dimensie."
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "Het kan je systeem stiekem veranderen in Fedora."
 
 msgid "Geeko loses a hair every time you use it."
 msgstr ""
@@ -1690,10 +1703,10 @@ msgid "Protective footwear"
 msgstr ""
 
 msgid "A sword for protection of the mainframe"
-msgstr ""
+msgstr "Een zwaard om het mainframe te beschermen"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "Een witte helm met IBM erop"
 
 msgid "The Ultimate YaST Challenge"
 msgstr "De ultieme YaST uitdaging"
@@ -1810,31 +1823,32 @@ msgid "It opens the button's context menu"
 msgstr "Het opent het contextmenu van de knop"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "Het herstelt de pagina naar standaardinstellingen"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "Het vraagt of je wilt omschakelen naar een linkshandige muis"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "Het schakelt naar donker widget thema of terug"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "Kan het YaST (Qt) kleuren palet worden gewijzigd voor slechtzienden?"
 
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "Ja, klik het zon/maan ikoontje"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "Ja, gebruik Shift-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "Ja, rechts-klik de Help knop"
 
+#, fuzzy
 msgid "Zypper Jedi"
-msgstr ""
+msgstr "Zypper Jedi"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
 msgstr ""
