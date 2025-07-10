@@ -1,11 +1,10 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-10 10:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-11 16:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
-#, fuzzy
 msgid "Immutability"
-msgstr "Immutability"
+msgstr "Onveranderlijk"
 
 msgid "Let's learn something about our Immutable distros."
 msgstr "Laten we 's wat leren over onze \"immutable distros."
@@ -20,7 +19,7 @@ msgid "Updates don’t affect the running system until rebooting into a new snap
 msgstr "Updates doen niks met het draaiende systeem, tot een herstart in het nieuwe snapshot."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "Het systeem gebruikt transactioneel bijwerken voor veilig, atomisch opwaarderen en gemakkelijk terugrollen."
 
 msgid "All options are correct"
 msgstr "Alle opties zijn juist"
@@ -28,25 +27,20 @@ msgstr "Alle opties zijn juist"
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Welke van deze zijn openSUSE immutable distros?"
 
-#, fuzzy
 msgid "Silverblue, CoreOS"
 msgstr "Silverblue, CoreOS"
 
-#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
-#, fuzzy
 msgid "Argon, Krypton"
 msgstr "Argon, Krypton"
 
-#, fuzzy
 msgid "Hurd, Darwin"
 msgstr "Hurd, Darwin"
 
-#, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "Wat maakt openSUSE speciaal?"
+msgstr "Wat is openSUSE MicroOS?"
 
 msgid "A rolling-release web browser"
 msgstr "Een rolling-release web browser"
@@ -61,7 +55,7 @@ msgid "A container runtime"
 msgstr "Een container runtime"
 
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr ""
+msgstr "Welke bureaubladomgeving gebruikt openSUSE Aeon standaard?"
 
 msgid "KDE Plasma"
 msgstr "KDE Plasma"
@@ -73,10 +67,10 @@ msgid "GNOME"
 msgstr "GNOME"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr ""
+msgstr "Welke bureaubladomgeving gebruikt openSUSE Kalpa standaard?"
 
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Wat is de naam van de installer in openSUSE Aeon?"
@@ -93,39 +87,35 @@ msgstr "Anaconda"
 msgid "Agama"
 msgstr "Agama"
 
-#, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Welke smaak kernel wordt er standaard gebruikt in openSUSE Leap?"
+msgstr "Welke bootloader wordt standaard gebruikt in openSUSE Aeon?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemctl"
+msgstr "systemd-boot"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Wat zijn Aeon en Kalpa?"
+msgstr "Wat hebben Aeon en Kalpa gemeenschappelijk?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "Beiden zijn gebaseerd op MicroOS met een direkt te gebruiken bureaublad."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "Beiden gebruiken transactioneel bijwerken voor rpm-installatie."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "Beiden promoten distrobox en flatpaks voor extra toepassingen."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Alle opties zijn juist"
+msgstr "Alle opties zijn juist."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr "De de namen van Aeon en Kalpa refereren indirect aan \"rolling release\". Hoezo?"
@@ -137,64 +127,53 @@ msgid "Both are names of famous Western movies where rolling tumbleweed appeared
 msgstr "Beide zijn de namen van westerns waar de rolling release Tumbleweed in verscheen."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "Beiden zijn erg oude schermnamen van de originele architect achter MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "Beiden verwijzen naar software hulpmiddelen voor bijwerken in openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "Er was een experiment met en op Sway gebaseerde onveranderlijk bureaublad in 2023. Weet u zijn naam?"
 
-#, fuzzy
 msgid "Greyhound"
 msgstr "Greyhound"
 
-#, fuzzy
 msgid "Greybeard"
 msgstr "Greybeard"
 
-#, fuzzy
 msgid "Bluehair"
 msgstr "Bluehair"
 
-#, fuzzy
 msgid "Ultraviolet"
 msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
 msgstr "Welke tool wordt gebruikt om op een veilige manier het basis systeem in een immutable distributie te updaten?"
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper update"
+msgstr "zypper dup"
 
 msgid "dnf upgrade"
 msgstr "dnf upgrade"
 
-#, fuzzy
 msgid "transactional-update"
-msgstr "transactional-update"
+msgstr "transactioneel bijgewerkt"
 
-#, fuzzy
 msgid "ostree pull"
 msgstr "ostree pull"
 
 msgid "How can you install an additional package?"
 msgstr "Hoe kun je extra pakketten installeren?"
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper"
+msgstr "zypper in"
 
-#, fuzzy
 msgid "dnf install"
 msgstr "dnf install"
 
-#, fuzzy
 msgid "transactional-update pkg install"
 msgstr "transactional-update pkg install"
 
-#, fuzzy
 msgid "rpm-ostree install"
 msgstr "rpm-ostree install"
 
@@ -211,39 +190,38 @@ msgid "It can secretly migrate your system to Fedora."
 msgstr "Het kan je systeem stiekem veranderen in Fedora."
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "Geeko verliest een haar elke keer dat u het gebruikt."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "Hoe laten uw onveranderlijke distributies schrijven naar /etc tijdens uitvoeren?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "Door overlayfs bovenop /etc te gebruiken"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "Door een beschrijfbare Btrfs subvolume direct aan te koppelen"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "Door modus alleen-lezen uit te schakelen tijdens opstarten"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "Via rpm-ostree lagen"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "Naast het mechanisme bijwerken in onveranderlijke distributies, welke andere componenten ONDERSTEUNEN transactioneel bijwerken?"
 
 msgid "DNF"
 msgstr "DNF"
 
 msgid "Salt and Ansible"
-msgstr ""
+msgstr "Salt en Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "Slechts een van de volgende onveranderlijke distributies heeft reguliere puntuitgaven, de rest zijn rollend. Welke?"
 
-#, fuzzy
 msgid "Leap Micro"
 msgstr "Leap Micro"
 
@@ -251,10 +229,10 @@ msgid "MicroOS"
 msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
@@ -1225,7 +1203,6 @@ msgstr "Welke van deze is een gemeenschap gestuurde openSUSE versie?"
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
-#, fuzzy
 msgid "openSUSE Greenhorn"
 msgstr "openSUSE Greenhorn"
 
@@ -1235,7 +1212,6 @@ msgstr "Geen zorgen, deze quiz is grotendeels educatief. Nergens voor nodig om a
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr "Welke van de volgende pakketbeheerders wordt algemeen gebruikt in openSUSE?"
 
-#, fuzzy
 msgid "Yum"
 msgstr "Yum"
 
@@ -1320,15 +1296,12 @@ msgstr "In welk jaar was de allereerste openSUSE Conference?"
 msgid "2006"
 msgstr "2006"
 
-#, fuzzy
 msgid "2009"
 msgstr "2009"
 
-#, fuzzy
 msgid "2012"
 msgstr "2012"
 
-#, fuzzy
 msgid "2008"
 msgstr "2008"
 
@@ -1341,7 +1314,6 @@ msgstr "Leslie Hawthorn van Google"
 msgid "Gianugo Rabellino from the Apache Software Foundation"
 msgstr "Gianugo Rabellino van de Apache Software Foundation"
 
-#, fuzzy
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
 msgstr "Joe 'Zonker' Brockmeier, openSUSE community manager"
 
@@ -1351,38 +1323,30 @@ msgstr "Lenz Grimmer van MySQL"
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
 msgstr "Welk bedrijf hield en sponsorde de openSUSE Confertie in 2009?"
 
-#, fuzzy
 msgid "Novell"
 msgstr "Novell"
 
-#, fuzzy
 msgid "Micro Focus"
 msgstr "Micro Focus"
 
-#, fuzzy
 msgid "Attachmate"
 msgstr "Attachmate"
 
-#, fuzzy
 msgid "SUSE"
 msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
 msgstr "Terug naar heden. Wie gaf de openings-keynote op oSC 2024?"
 
-#, fuzzy
 msgid "Richard Stallman"
 msgstr "Richard Stallman"
 
-#, fuzzy
 msgid "Rick Spencer"
 msgstr "Rick Spencer"
 
-#, fuzzy
 msgid "Melissa Di Donato"
 msgstr "Melissa Di Donato"
 
-#, fuzzy
 msgid "Mark Shuttleworth"
 msgstr "Mark Shuttleworth"
 
@@ -1434,7 +1398,6 @@ msgstr "In de virtuele bar op meet.opensuse.org"
 msgid "What unusual item has appeared as official openSUSE swag?"
 msgstr "Welk ongebuikelijk item verscheen als officiële openSUSE \"swag\"?"
 
-#, fuzzy
 msgid "openSUSE branded surströmming"
 msgstr "openSUSE branded surströmming"
 
@@ -1694,13 +1657,13 @@ msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "Wat zal geleverd worden samen met a mainframe door IBM?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "Een halsketting met IBM erop"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "Veiligheidsschoenen"
 
 msgid "A sword for protection of the mainframe"
 msgstr "Een zwaard om het mainframe te beschermen"
@@ -1846,66 +1809,65 @@ msgstr "Ja, gebruik Shift-F3"
 msgid "Yes, right-click the \"Help\" button"
 msgstr "Ja, rechts-klik de Help knop"
 
-#, fuzzy
 msgid "Zypper Jedi"
 msgstr "Zypper Jedi"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "Leuke en verborgen feiten over Zypper, de pakketbeheerder van openSUSE"
 
 msgid "What is the name of the library used by the default openSUSE package manager?"
-msgstr ""
+msgstr "Wat is de naam van de bibliotheek gebruikt door de standaard pakketbeheerder van openSUSE?"
 
 msgid "libzypp"
-msgstr ""
+msgstr "libzypp"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "openSUSE gebruikt libzypp als de backend bibllotheek voor zijn pakketbeheerder, Zypper. Het staat bekend voor krachtige oplossing van afhankelijkheden en ondersteuning vofor delta RPM's."
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "Waar waren Zypper respectievelijk libzypp voor het eerst geïntroduceerd?"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "In SuSE Linux 7.1 (2001)"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "In SUSE Linux 10.1 (2006)"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "Als onderdeel van openSUSE Leap 42.3 magische uitgave (2017)"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "Het was er vanaf het begin. S.u.S.E. Linux 1.0 (1994)"
 
 msgid "What does 'zypper refs' do?"
-msgstr ""
+msgstr "Wat doet 'zypper refs'?"
 
 msgid "Refreshes all repositories"
-msgstr ""
+msgstr "Vernieuwt alle opslagruimten"
 
 msgid "Lists orphaned packages"
-msgstr ""
+msgstr "Maakt een lijst van verweesde pakketten"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "Maakt een lijst met zachte vergrendelingen van pakketten"
 
 msgid "Refreshes defined repository index services."
-msgstr ""
+msgstr "Vernieuwt gedefinieerde indexservices van opslagruimten."
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "Wat doet RIS (Repository Index Service) werkelijk in openSUSE?"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
-msgstr ""
+msgstr "Biedt gecentraliseerd en flexibel beheer van opslagruimten. openSUSE gebruikt het om .repo bestanden uit rpm-beheerde repoindex.xml te gegereren"
 
 msgid "It injects RPMs into your system while you're not looking."
 msgstr ""
