@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-11 16:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-13 13:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -1870,187 +1870,184 @@ msgid "Allows centralized and flexible repository management. openSUSE uses it t
 msgstr "Biedt gecentraliseerd en flexibel beheer van opslagruimten. openSUSE gebruikt het om .repo bestanden uit rpm-beheerde repoindex.xml te gegereren"
 
 msgid "It injects RPMs into your system while you're not looking."
-msgstr ""
+msgstr "Het injecteert RPM's in uw systeem terwijl u niet kijkt."
 
 msgid "It schedules all recursive installs to happen only during coffee breaks."
-msgstr ""
+msgstr "Het plant alle recursieve installaties om gedaan te worden alleen tijdens koffiebreaks."
 
 msgid "It just exists to confuse people with too many acronyms."
-msgstr ""
+msgstr "Het bestaat gewoon om mensen te verwarren met te veel acroniemen."
 
 msgid "What does the Zypper command 'zypper dup' do?"
-msgstr ""
+msgstr "Wat doet het commando 'zypper dup'?"
 
 msgid "Deletes unused packages"
-msgstr ""
+msgstr "Verwijdert ongebruikte pakketten"
 
 msgid "Performs a distribution upgrade"
-msgstr ""
+msgstr "Voert een opwaardering van de distributie uit"
 
 msgid "Downloads all updates in background"
-msgstr ""
+msgstr "Downloadt alle elementen voor bijwerken in de achtergrond"
 
 msgid "Displays user preferences"
-msgstr ""
+msgstr "Toont voorkeuren van de gebruiker"
 
 msgid "Which Zypper command enables parallel package downloads?"
-msgstr ""
+msgstr "Welk zypper-commando schakelt parallel downloaden van pakketten in?"
 
 msgid "zypper --fast"
-msgstr ""
+msgstr "zypper --fast"
 
 msgid "zypper -p"
-msgstr ""
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "De laatste zypper gebruikt standaard parallel downloaden"
 
 msgid "zypper turbo"
-msgstr ""
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Welk bestand is het hoofdconfiguratiebestand voor zypper?"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
 msgid "/etc/zypperrc"
-msgstr ""
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr ""
+msgstr "Welk van de volgende zypper-commando's zal alle pakketten in de cache wissen?"
 
 msgid "zypper refresh --clean"
-msgstr ""
+msgstr "zypper refresh --clean"
 
-#, fuzzy
 msgid "zypper clean --all"
 msgstr "zypper clean --all"
 
-#, fuzzy
 msgid "zypper purge-cache"
 msgstr "zypper purge-cache"
 
-#, fuzzy
 msgid "zypper remove-cache"
 msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "Zypper kan patronen installeren. Wat is een patroon in termen van zypper?"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "Een regulier expressie voor overeenkomende pakketnamen"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "Een groep van pakketten die een rol of gebruiksgeval definiëren"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "Een configuratiebestand voor een thema"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "Een metagegevens tag voor een opslagruimte"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "Wat gebeurt er als u 'zypper dup --from packman' uitvoert?"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "Alleen bijwerken van de metagegevens van de 'packman' opslagruimte"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "Alle niet-packman pakketten worden verwijderd"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "Dwing het opwaarderen van geïnstalleerde pakketten af naar versies uit de opslagruimte packman"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "Maak een reservekopie alvorens op te waarderen"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "Verbeterd beheer van opslagruimten in Leap 16.0 met standaard CDN, RIS beheerde opslagruimten en minder totaal aantal opslagruimten. Hoeveel distributie opslagruimten neemt Leap 16.0 standaard mee?"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "Leap 16.0 gebruikt nu door RIS beheerde opslagruimten. Hoe worden instellingen van opslagruimten aangepast zonder zaken te breken?"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "/etc/zypp/repos.d/ zoals in de goede oude dagen"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "Wijzig .repo bestanden niet, ze zullen overschreven worden! Gebruik in plaats daarvan /etc/zypp/vars.d."
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "Voer `zypper --edit-repo --force` uit — de officiële manier."
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "Bewerk handmatig repoindex.xml en hoop het beste."
 
 msgid "What can users do at software.opensuse.org?"
-msgstr ""
+msgstr "Wat kunnen gebruikers doen op software.opensuse.org?"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "Pakketten installeren met zypper via een enkele klik in de browser."
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "Blader en installeer additionele software, inclusief pakketten uit home-projecten."
 
 msgid "View screenshots and details of cool open source software."
-msgstr ""
+msgstr "Bekijk schermafdrukken en details van coole open-source software."
 
 msgid "All of the above."
-msgstr ""
+msgstr "Al het bovenstaande."
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
+msgstr "In welke sectie van manpage zou u zoeken naar zypper documentatie?"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "42"
-msgstr ""
+msgstr "42"
 
 msgid "What is yzpper?"
-msgstr ""
+msgstr "Wat is yzpper?"
 
 msgid "Turkish translation of zypper"
-msgstr ""
+msgstr "Turkse vertaling van zypper"
 
 msgid "Reverse (undo) the last zypper command"
-msgstr ""
+msgstr "Draai het laatste zypper commando terug"
 
 msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
-msgstr ""
+msgstr "Symbolische koppeling naar zypper, om een fout op het toetsenbord te vermijden met omgewisselde Y en Z toetsen [duits]"
 
 msgid "The project name of next gen zypper"
-msgstr ""
+msgstr "De projectnaam van de volgende generatie zypper"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr ""
+msgstr "Deze is tricky! We kennen allemaal zypper rm --clean deps maar wat gebeurt er als u `zypper rm --clean-deps rm` uitvoert?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
-msgstr ""
+msgstr "U verwijdert de installatie van het `rm` commando en alle overgebleven afhankelijkheden. Veel geluk met verwijderen van bestanden daarna!"
 
 msgid "Only the `rm` command gets removed, dependencies stay put."
-msgstr ""
+msgstr "Alleen het commando `rm` wordt verwijderd, afhankelijkheden blijven bestaan."
 
 msgid "It cleans your system of the `rm` command but keeps a backup just in case."
-msgstr ""
+msgstr "Het schoont uw systeem van het commando `rm` maar behoud een reservekopie in geval dat."
 
 msgid "Nothing happens `rm` command belongs to coreutils."
 msgstr ""
