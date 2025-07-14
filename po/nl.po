@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-13 13:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-07-15 09:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.12.2\n"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -511,7 +511,7 @@ msgid "More than 20%"
 msgstr "Meer dan 20%"
 
 msgid "Chameleon Fun for kids"
-msgstr "Kameleonpret voor kinderen!"
+msgstr "Kameleonpret voor kinderen"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
 msgstr "Een kleurrijke quiz over kameleons en openSUSE voor nieuwsgierige kinderen!"
@@ -1024,7 +1024,7 @@ msgid "gedit"
 msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr "Wat is het commando om een pakket te installeren in openSUSE"
+msgstr "Wat is het commando om een pakket te installeren in openSUSE?"
 
 msgid "zypper install package-name"
 msgstr "zypper install package-name"
@@ -1054,7 +1054,7 @@ msgid "opensuse-chat.org"
 msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr "Welke tool wordt aangeraden voor het beheer van repositories en pakketten in openSUSE"
+msgstr "Welke hulpmiddel wordt aangeraden voor het beheer van opslagruimten en pakketten in openSUSE?"
 
 msgid "yum"
 msgstr "yum"
@@ -1096,7 +1096,7 @@ msgid "Apache License"
 msgstr "Apache License"
 
 msgid "Proprietary"
-msgstr "Proprietary"
+msgstr "Bedrijfseigendom"
 
 msgid "What does OBS stand for in openSUSE context?"
 msgstr "Wat betekent OBS in openSUSE context?"
@@ -1147,7 +1147,7 @@ msgid "Gnome Control Center"
 msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
-msgstr "KDE System Settings"
+msgstr "KDE systeeminstellingen"
 
 msgid "Synaptic"
 msgstr "Synaptic"
@@ -1261,7 +1261,7 @@ msgid "Send a strongly worded letter to Geeko"
 msgstr "Stuur een keiharde brief aan Geeko"
 
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr "Hier:  bugzilla.opensuse.org"
+msgstr "Indienen op bugzilla.opensuse.org"
 
 msgid "Write it in your diary and move on"
 msgstr "Schrijf het in je dagboek en ga verder"
@@ -1474,7 +1474,7 @@ msgid "s390x Expert"
 msgstr "s390x Expert"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr "Een quiz voor mainframevrienden en exotische architecturen"
+msgstr "Een quiz voor vrienden van mainframes en exotische architecturen."
 
 msgid "What’s the difference between Big Endian and Little Endian?"
 msgstr "Wat is het verschil tussen Big Endian en Little Endian?"
@@ -1516,7 +1516,7 @@ msgid "The administration of mainframe machine through web interface"
 msgstr "Een webinterface voor beheer van mainframes"
 
 msgid "A command for listing hardware network addresses."
-msgstr "Een commando om hardware netwerk adressen te tonen"
+msgstr "Een commando om hardware netwerkadressen te tonen."
 
 msgid "A hidden module control unit"
 msgstr "Een verborgen \"module control unit\""
@@ -2050,65 +2050,65 @@ msgid "It cleans your system of the `rm` command but keeps a backup just in case
 msgstr "Het schoont uw systeem van het commando `rm` maar behoud een reservekopie in geval dat."
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "Er gebeurt niets commando `rm` behoort bij coreutils."
 
 msgid "Start Quiz"
-msgstr ""
+msgstr "Begin met de quiz"
 
 msgid "Start"
-msgstr ""
+msgstr "Begin"
 
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 msgid "Submit"
-msgstr ""
+msgstr "Stuur op"
 
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 msgid "Quit"
-msgstr ""
+msgstr "Afsluiten"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Stuur op en sluit af"
 
 msgid "Time left"
-msgstr ""
+msgstr "Resterende tijd"
 
 msgid "Score"
-msgstr ""
+msgstr "Score"
 
 msgid "Final"
-msgstr ""
+msgstr "Uiteindelijk"
 
 msgid "Restart"
-msgstr ""
+msgstr "Opnieuw beginnen"
 
 msgid "Question"
-msgstr ""
+msgstr "Vraag"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "Voer een gebruikersnaam in om door te gaan."
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Welkom, %s"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Wilt u afsluiten en opsturen?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "Gebruikersnaam is te kort."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Sorry, deze aanmeldnaam is al bezet."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Wilt u afsluiten? Uw voortgang zal niet worden opgeslagen."
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
+msgstr "Gebruik een herkenbare schermnaam, zols ZypperJedi of bij voorkeur uw echte naam (NaamAchternaam)."
 
 #~ msgid "Language"
 #~ msgstr "Taal"
