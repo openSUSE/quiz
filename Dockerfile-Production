@@ -3,6 +3,8 @@ FROM registry.opensuse.org/opensuse/infrastructure/images/bci/containers/bci-nod
 WORKDIR /opt/quiz
 COPY . .
 RUN \
+        # Fix issue with npm error EMFILE: too many open files in cache
+        RUN ulimit -n 65535 || true
 	npm clean-install --omit=dev && \
 	npm run build:css && \
 	rm -r /var/{cache,log}/* && \
