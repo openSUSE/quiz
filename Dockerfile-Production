@@ -3,7 +3,8 @@ FROM registry.opensuse.org/opensuse/infrastructure/images/bci/containers/bci-nod
 WORKDIR /opt/quiz
 COPY . .
 RUN \
-	npm clean-install --omit=dev && \
+        # --maxsockets should fix issue with npm error EMFILE: too many open files in cache
+	npm clean-install --omit=dev --maxsockets 50 && \
 	npm run build:css && \
 	rm -r /var/{cache,log}/* && \
 	useradd -mU quiz
