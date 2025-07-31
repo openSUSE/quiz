@@ -305,7 +305,11 @@ Thanks for your contribution! 🐲💚
 
 ## 🌐 Instance
 
-[https://quiz-o-o.netlify.app/](https://quiz-o-o.netlify.app/) 🌍
+Latest Build (dev): [https://quiz-o-o.netlify.app/](https://quiz-o-o.netlify.app/) 🌍
+
+Main Instance Build: [https://quiz.opensuse.org/](https://quiz.opensuse.org/) 🌍
+
+For event instance please open issue to plan for it.
 
 **💡 Booth staff tip**
 You can make individual instances for conferences by creating a new pull request (e.g., "Devconf 2025") which will spawn a new instance of quiz-o-o in netlify.app. ✨
