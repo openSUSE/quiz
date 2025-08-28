@@ -2124,13 +2124,13 @@ msgstr ""
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr ""
 
-msgid "oSAS Facts"
+msgid "Asia Summit Dragon"
 msgstr ""
 
-msgid "A quiz for true openSUSE Asia Summit historians."
+msgid "Challenge the dragon of knowledge"
 msgstr ""
 
-msgid "In which city was the first openSUSE Asia Summit in 2014 held?"
+msgid "In which city was the first openSUSE Asia Summit hosted?"
 msgstr ""
 
 msgid "Taipei, Taiwan"
@@ -2145,22 +2145,7 @@ msgstr ""
 msgid "Tokyo, Japan"
 msgstr ""
 
-msgid "Which country has hosted the openSUSE Asia Summit more than once?"
-msgstr ""
-
-msgid "Thailand"
-msgstr ""
-
-msgid "Indonesia"
-msgstr ""
-
-msgid "India"
-msgstr ""
-
-msgid "South Korea"
-msgstr ""
-
-msgid "In which years was the openSUSE Asia Summit held in Tokyo, Japan?"
+msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
 msgstr ""
 
 msgid "2022"
@@ -2187,7 +2172,7 @@ msgstr ""
 msgid "Taipei"
 msgstr ""
 
-msgid "Seoul"
+msgid "Faridabad"
 msgstr ""
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
@@ -2208,6 +2193,12 @@ msgstr ""
 msgid "Vietnam"
 msgstr ""
 
+msgid "India"
+msgstr ""
+
+msgid "Indonesia"
+msgstr ""
+
 msgid "Taiwan"
 msgstr ""
 
@@ -2224,6 +2215,9 @@ msgid "Surabaya"
 msgstr ""
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
+msgstr ""
+
+msgid "Seoul"
 msgstr ""
 
 msgid "Denpasar (Bali)"
@@ -2274,7 +2268,7 @@ msgstr ""
 msgid "2019 in Bali"
 msgstr ""
 
-msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the firs time?"
+msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
 msgstr ""
 
 msgid "2025 in Faridabad"
@@ -2282,3 +2276,10 @@ msgstr ""
 
 msgid "2014 in Beijing"
 msgstr ""
+
+msgid "The longest elevator trip to openSUSE Asia summit was in?"
+msgstr ""
+
+msgid "Beijing"
+msgstr ""
+

@@ -5,8 +5,8 @@ function _(str) {
 }
 
 const quizData = {
-  title: _("oSAS Facts"),
-  subtitle: _("A quiz for true openSUSE Asia Summit historians."),
+  title: _("Asia Summit Dragon"),
+  subtitle: _("Challenge the dragon of knowledge"),
   submitAnytime: false,
   timeout: 20,
   randomizeQuestions: true,
@@ -15,7 +15,7 @@ const quizData = {
 
 const questions = [
   {
-    text: _("In which city was the first openSUSE Asia Summit in 2014 held?"),
+    text: _("In which city was the first openSUSE Asia Summit hosted?"),
     answers: [
       { text: _("Taipei, Taiwan"), correct: false },
       { text: _("Beijing, China"), correct: true },
@@ -24,16 +24,7 @@ const questions = [
     ],
   },
   {
-    text: _("Which country has hosted the openSUSE Asia Summit more than once?"),
-    answers: [
-      { text: _("Thailand"), correct: false },
-      { text: _("Indonesia"), correct: true },
-      { text: _("India"), correct: false },
-      { text: _("South Korea"), correct: false },
-    ],
-  },
-  {
-    text: _("In which years was the openSUSE Asia Summit held in Tokyo, Japan?"),
+    text: _("When was openSUSE Asia Summit hosted in Tokyo, Japan?"),
     answers: [
       { text: _("2022"), correct: false },
       { text: _("2017 and 2024"), correct: true },
@@ -47,7 +38,7 @@ const questions = [
       { text: _("Denpasar"), correct: false },
       { text: _("Mumbai"), correct: true },
       { text: _("Taipei"), correct: false },
-      { text: _("Seoul"), correct: false },
+      { text: _("Faridabad"), correct: false },
     ],
   },
   {
@@ -63,8 +54,8 @@ const questions = [
     text: _("Which of the following countries has never hosted an openSUSE Asia Summit?"),
     answers: [
       { text: _("Vietnam"), correct: true },
-      { text: _("South Korea"), correct: false },
-      { text: _("Thailand"), correct: false },
+      { text: _("India"), correct: false },
+      { text: _("Indonesia"), correct: false },
       { text: _("Taiwan"), correct: false },
     ],
   },
@@ -114,12 +105,21 @@ const questions = [
     ]
   },
   {
-    text: _("Which openSUSE Asia Summit used the openSUSE Quiz app for the firs time?"),
+    text: _("Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"),
     answers: [
       { text: _("2025 in Faridabad"), correct: true },
       { text: _("2017 in Tokyo"), correct: false },
       { text: _("2018 in Taipei"), correct: false },
       { text: _("2014 in Beijing"), correct: false }
+    ]
+  },
+  {
+    text: _("The longest elevator trip to openSUSE Asia summit was in?"),
+    answers: [
+      { text: _("Tokyo"), correct: true },
+      { text: _("Jakarta"), correct: false },
+      { text: _("Denpasar"), correct: false },
+      { text: _("Beijing"), correct: false }
     ]
   }
 ];
