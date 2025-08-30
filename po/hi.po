@@ -3,7 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-08-30 11:59+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Hindi <https://l10n.opensuse.org/projects/quiz/quiz/hi/>\nLanguage: hi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.13\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-26 16:12+0200\n"
+"PO-Revision-Date: 2025-08-30 11:59+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Hindi <https://l10n.opensuse.org/projects/quiz/quiz/hi/>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2118,4 +2130,163 @@ msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr ""
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr ""
+
+msgid "Asia Summit Dragon"
+msgstr ""
+
+msgid "Challenge the dragon of knowledge"
+msgstr ""
+
+msgid "In which city was the first openSUSE Asia Summit hosted?"
+msgstr ""
+
+msgid "Taipei, Taiwan"
+msgstr ""
+
+msgid "Beijing, China"
+msgstr ""
+
+msgid "Jakarta, Indonesia"
+msgstr ""
+
+msgid "Tokyo, Japan"
+msgstr ""
+
+msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
+msgstr ""
+
+msgid "2022"
+msgstr ""
+
+msgid "2017 and 2024"
+msgstr ""
+
+msgid "2018"
+msgstr ""
+
+msgid "Only 2024"
+msgstr ""
+
+msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
+msgstr ""
+
+msgid "Denpasar"
+msgstr ""
+
+msgid "Mumbai"
+msgstr ""
+
+msgid "Taipei"
+msgstr ""
+
+msgid "Faridabad"
+msgstr ""
+
+msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
+msgstr ""
+
+msgid "Hong Kong"
+msgstr ""
+
+msgid "Jakarta"
+msgstr ""
+
+msgid "Tokyo"
+msgstr ""
+
+msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
+msgstr ""
+
+msgid "Vietnam"
+msgstr ""
+
+msgid "India"
+msgstr ""
+
+msgid "Indonesia"
+msgstr ""
+
+msgid "Taiwan"
+msgstr ""
+
+msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
+msgstr ""
+
+msgid "Yogyakarta"
+msgstr ""
+
+msgid "Bandung"
+msgstr ""
+
+msgid "Surabaya"
+msgstr ""
+
+msgid "Where was the openSUSE Asia Summit held in 2019?"
+msgstr ""
+
+msgid "Seoul"
+msgstr ""
+
+msgid "Denpasar (Bali)"
+msgstr ""
+
+msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
+msgstr ""
+
+msgid "Budget cuts"
+msgstr ""
+
+msgid "Lack of organizers"
+msgstr ""
+
+msgid "COVID-19 pandemic"
+msgstr ""
+
+msgid "Scheduling conflicts"
+msgstr ""
+
+msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
+msgstr ""
+
+msgid "Geenardo Da Vinci"
+msgstr ""
+
+msgid "A professional graphic designer hired by the openSUSE Foundation"
+msgstr ""
+
+msgid "The community through an annual design contest"
+msgstr ""
+
+msgid "The developers from the openSUSE infrastructure team"
+msgstr ""
+
+msgid "Which openSUSE Asia Summit had a red logo?"
+msgstr ""
+
+msgid "2016 in Beijing"
+msgstr ""
+
+msgid "2017 in Tokyo"
+msgstr ""
+
+msgid "2018 in Taipei"
+msgstr ""
+
+msgid "2019 in Bali"
+msgstr ""
+
+msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
+msgstr ""
+
+msgid "2025 in Faridabad"
+msgstr ""
+
+msgid "2014 in Beijing"
+msgstr ""
+
+msgid "The longest elevator trip to openSUSE Asia summit was in?"
+msgstr ""
+
+msgid "Beijing"
 msgstr ""
