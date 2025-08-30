@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-07-07 13:45+0000\n"
-"Last-Translator: Stanislav Mitra <mitrastanislav@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-08-31 13:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2123,103 +2112,103 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Použite rozpoznateľnú prezývku, ako napríklad ZypperJedi, alebo najlepšie svoje skutočné meno (MenoPriezvisko)."
 
 msgid "Asia Summit Dragon"
-msgstr ""
+msgstr "Drak ázijského samitu"
 
 msgid "Challenge the dragon of knowledge"
-msgstr ""
+msgstr "Vyzvite draka vedomostí"
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr ""
+msgstr "V ktorom meste sa konal prvý openSUSE Asia Summit?"
 
 msgid "Taipei, Taiwan"
-msgstr ""
+msgstr "Tchaj-pej, Taiwan"
 
 msgid "Beijing, China"
-msgstr ""
+msgstr "Peking, Čína"
 
 msgid "Jakarta, Indonesia"
-msgstr ""
+msgstr "Jakarta, Indonézia"
 
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "Tokio, Japonsko"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
+msgstr "Kedy sa konal openSUSE Asia Summit v Tokiu v Japonsku?"
 
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 msgid "2017 and 2024"
-msgstr ""
+msgstr "2017 a 2024"
 
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 msgid "Only 2024"
-msgstr ""
+msgstr "Iba 2024"
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Ktoré z nasledujúcich miest NIKDY nehostilo openSUSE Asia Summit?"
 
 msgid "Denpasar"
-msgstr ""
+msgstr "Denpasar"
 
 msgid "Mumbai"
-msgstr ""
+msgstr "Bombaj"
 
 msgid "Taipei"
-msgstr ""
+msgstr "Tchaj-pej"
 
 msgid "Faridabad"
-msgstr ""
+msgstr "Farídábád"
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
+msgstr "V ktorom meste sa konal ročník 2018 openSUSE Asia Summit?"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hongkong"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "Jakarta"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "Tokio"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
+msgstr "Ktorá z nasledujúcich krajín nikdy nehostila openSUSE Asia Summit?"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 msgid "India"
-msgstr ""
+msgstr "India"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonézia"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
+msgstr "V roku 2016 sa samit konal na Universitas Islam Indonesia. V ktorom meste sa táto univerzita nachádza?"
 
 msgid "Yogyakarta"
-msgstr ""
+msgstr "Yogyakarta"
 
 msgid "Bandung"
-msgstr ""
+msgstr "Bandung"
 
 msgid "Surabaya"
-msgstr ""
+msgstr "Surabaja"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
+msgstr "Kde sa konal openSUSE Asia Summit v roku 2019?"
 
 msgid "Seoul"
-msgstr ""
+msgstr "Soul"
 
 msgid "Denpasar (Bali)"
-msgstr ""
+msgstr "Denpasar (Bali)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
 msgstr ""
