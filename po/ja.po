@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-07-05 11:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-08-31 13:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "不変性"
@@ -2121,163 +2110,163 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
 
 msgid "Asia Summit Dragon"
-msgstr ""
+msgstr "アジアサミットドラゴン"
 
 msgid "Challenge the dragon of knowledge"
-msgstr ""
+msgstr "知識のドラゴンに挑戦"
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr ""
+msgstr "openSUSE アジアサミットが最初に開催された都市はどこ？"
 
 msgid "Taipei, Taiwan"
-msgstr ""
+msgstr "台北 (台湾)"
 
 msgid "Beijing, China"
-msgstr ""
+msgstr "北京 (中国)"
 
 msgid "Jakarta, Indonesia"
-msgstr ""
+msgstr "ジャカルタ (インドネシア)"
 
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "東京 (日本)"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
+msgstr "openSUSE アジアサミットが東京で開催されたのはいつ？"
 
 msgid "2022"
-msgstr ""
+msgstr "2022 年"
 
 msgid "2017 and 2024"
-msgstr ""
+msgstr "2017 年と 2024 年"
 
 msgid "2018"
-msgstr ""
+msgstr "2018 年"
 
 msgid "Only 2024"
-msgstr ""
+msgstr "2024 年のみ"
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
+msgstr "openSUSE アジアサミットが開催されて \"いない\" 都市はどこ？"
 
 msgid "Denpasar"
-msgstr ""
+msgstr "デンパサル"
 
 msgid "Mumbai"
-msgstr ""
+msgstr "ムンバイ"
 
 msgid "Taipei"
-msgstr ""
+msgstr "台北"
 
 msgid "Faridabad"
-msgstr ""
+msgstr "ファリダバド"
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
+msgstr "2018 年の openSUSE アジアサミットが開催されたのはどの都市？"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "香港"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "ジャカルタ"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "東京"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
+msgstr "openSUSE アジアサミットが開催されて \"いない\" 国はどこ？"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "ベトナム"
 
 msgid "India"
-msgstr ""
+msgstr "インド"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "インドネシア"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "台湾"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
+msgstr "2016 年のサミットはインドネシア・イスラム大学で開催されました。この大学の存在する都市はどこ？"
 
 msgid "Yogyakarta"
-msgstr ""
+msgstr "ジョクジャカルタ"
 
 msgid "Bandung"
-msgstr ""
+msgstr "バンドン"
 
 msgid "Surabaya"
-msgstr ""
+msgstr "スラバヤ"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
+msgstr "openSUSE アジアサミット 2019 が開催されたのはどこ？"
 
 msgid "Seoul"
-msgstr ""
+msgstr "ソウル"
 
 msgid "Denpasar (Bali)"
-msgstr ""
+msgstr "デンパサル (バリ州)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
+msgstr "openSUSE アジアサミット 2020 および 2021 はオンライン開催となりました。オンライン開催となった主な理由は？"
 
 msgid "Budget cuts"
-msgstr ""
+msgstr "予算削減"
 
 msgid "Lack of organizers"
-msgstr ""
+msgstr "開催都市の名乗りがなかった"
 
 msgid "COVID-19 pandemic"
-msgstr ""
+msgstr "新型コロナウイルス感染症のパンデミック"
 
 msgid "Scheduling conflicts"
-msgstr ""
+msgstr "スケジュールの都合"
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
+msgstr "openSUSE アジアサミットの公式ロゴを通常手がけているのは誰？"
 
 msgid "Geenardo Da Vinci"
-msgstr ""
+msgstr "レオナルド・ダ・ヴィンチ"
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
+msgstr "openSUSE Foundation が雇ったプロのグラフィックデザイナー"
 
 msgid "The community through an annual design contest"
-msgstr ""
+msgstr "コミュニティ内で毎年行われているデザインコンテストの優勝者"
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
+msgstr "openSUSE インフラチーム内の開発者"
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
+msgstr "赤いロゴだった openSUSE サミットはどれ？"
 
 msgid "2016 in Beijing"
-msgstr ""
+msgstr "2016 年に北京で開催されたサミット"
 
 msgid "2017 in Tokyo"
-msgstr ""
+msgstr "2017 年に東京で開催されたサミット"
 
 msgid "2018 in Taipei"
-msgstr ""
+msgstr "2018 年に台北で開催されたサミット"
 
 msgid "2019 in Bali"
-msgstr ""
+msgstr "2019 年にバリで開催されたサミット"
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
+msgstr "openSUSE アジアサミットで openSUSE クイズアプリが最初に使われたのはどこ？"
 
 msgid "2025 in Faridabad"
-msgstr ""
+msgstr "2025 年にファリダバドで開催されたサミット"
 
 msgid "2014 in Beijing"
-msgstr ""
+msgstr "2014 年に北京で開催されたサミット"
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
+msgstr "openSUSE アジアサミットでの最長エレベータ移動はどれ？"
 
 msgid "Beijing"
-msgstr ""
+msgstr "北京"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
