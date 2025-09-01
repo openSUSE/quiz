@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-08-31 13:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-01 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2211,64 +2211,64 @@ msgid "Denpasar (Bali)"
 msgstr "Denpasar (Bali)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
+msgstr "openSUSE Asia Summit 2020 a 2021 sa konali online. Aký bol hlavný dôvod?"
 
 msgid "Budget cuts"
-msgstr ""
+msgstr "Rozpočtové škrty"
 
 msgid "Lack of organizers"
-msgstr ""
+msgstr "Nedostatok organizátorov"
 
 msgid "COVID-19 pandemic"
-msgstr ""
+msgstr "Pandémia COVID-19"
 
 msgid "Scheduling conflicts"
-msgstr ""
+msgstr "Konflikty pri plánovaní"
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Kto zvyčajne navrhuje oficiálne logo pre openSUSE Asia Summit?"
 
 msgid "Geenardo Da Vinci"
-msgstr ""
+msgstr "Leonardo Da Vinci"
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
+msgstr "Profesionálny grafický dizajnér najatý openSUSE Foundation"
 
 msgid "The community through an annual design contest"
-msgstr ""
+msgstr "Komunita prostredníctvom každoročnej súťaže návrhov"
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
+msgstr "Vývojári z tímu infraštruktúry openSUSE"
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
+msgstr "Ktorý openSUSE Asia Summit mal červené logo?"
 
 msgid "2016 in Beijing"
-msgstr ""
+msgstr "2016 v Pekingu"
 
 msgid "2017 in Tokyo"
-msgstr ""
+msgstr "2017 v Tokiu"
 
 msgid "2018 in Taipei"
-msgstr ""
+msgstr "2018 v Tchaj-peji"
 
 msgid "2019 in Bali"
-msgstr ""
+msgstr "2019 na Bali"
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
+msgstr "Ktorý openSUSE Asia Summit použil aplikáciu openSUSE Quiz po prvýkrát?"
 
 msgid "2025 in Faridabad"
-msgstr ""
+msgstr "2025 vo Farídábáde"
 
 msgid "2014 in Beijing"
-msgstr ""
+msgstr "2014 v Pekingu"
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
+msgstr "Najdlhšia cesta výťahom na openSUSE Asia summit bola v?"
 
 msgid "Beijing"
-msgstr ""
+msgstr "Pekingu"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
