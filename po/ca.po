@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-07-04 11:48+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-03 10:59+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
@@ -2121,163 +2110,163 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
 msgid "Asia Summit Dragon"
-msgstr ""
+msgstr "Cimera del Drac d'Àsia"
 
 msgid "Challenge the dragon of knowledge"
-msgstr ""
+msgstr "Desafieu el drac del coneixement"
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr ""
+msgstr "A quina ciutat es va celebrar la primera Cimera d'Àsia d'openSUSE?"
 
 msgid "Taipei, Taiwan"
-msgstr ""
+msgstr "Taipei, Taiwan"
 
 msgid "Beijing, China"
-msgstr ""
+msgstr "Pequín, Xina"
 
 msgid "Jakarta, Indonesia"
-msgstr ""
+msgstr "Jakarta, Indonèsia"
 
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "Tòquio, Japó"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
+msgstr "Quan es va celebrar la Cimera d'Àsia de l'openSUSE a Tòquio, Japó?"
 
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 msgid "2017 and 2024"
-msgstr ""
+msgstr "2017 i 2024"
 
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 msgid "Only 2024"
-msgstr ""
+msgstr "Només el 2024"
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Quina de les ciutats següents MAI no ha acollit la Cimera d'Àsia d'openSUSE?"
 
 msgid "Denpasar"
-msgstr ""
+msgstr "Denpasar"
 
 msgid "Mumbai"
-msgstr ""
+msgstr "Bombai"
 
 msgid "Taipei"
-msgstr ""
+msgstr "Taipei"
 
 msgid "Faridabad"
-msgstr ""
+msgstr "Faridabad"
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
+msgstr "A quina ciutat va tenir lloc l'edició de 2018 de la Cimera d'Àsia de l'openSUSE?"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "Jakarta"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "Tòquio"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
+msgstr "Quin dels països següents no ha acollit mai una Cimera d'Àsia de l'openSUSE?"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 msgid "India"
-msgstr ""
+msgstr "Índia"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonèsia"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
+msgstr "El 2016, la cimera es va celebrar a la Universitas Islam Indonesia. A quina ciutat es troba aquesta universitat?"
 
 msgid "Yogyakarta"
-msgstr ""
+msgstr "Yogyakarta"
 
 msgid "Bandung"
-msgstr ""
+msgstr "Bandung"
 
 msgid "Surabaya"
-msgstr ""
+msgstr "Surabaya"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
+msgstr "On es va celebrar la Cimera Àsia d'openSUSE el 2019?"
 
 msgid "Seoul"
-msgstr ""
+msgstr "Seül"
 
 msgid "Denpasar (Bali)"
-msgstr ""
+msgstr "Denpasar (Bali)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
+msgstr "La Cimera d'Àsia d'openSUSE de 2020 i 2021 es va celebrar en línia. Quin en va ser el motiu principal?"
 
 msgid "Budget cuts"
-msgstr ""
+msgstr "Retallades pressupostàries"
 
 msgid "Lack of organizers"
-msgstr ""
+msgstr "Falta d'organitzadors"
 
 msgid "COVID-19 pandemic"
-msgstr ""
+msgstr "La pandèmia de la covid-19"
 
 msgid "Scheduling conflicts"
-msgstr ""
+msgstr "Conflictes de programació"
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Qui dissenya normalment el logotip oficial de la Cimera d'Àsia d'openSUSE?"
 
 msgid "Geenardo Da Vinci"
-msgstr ""
+msgstr "Geenardo Da Vinci"
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
+msgstr "Un dissenyador gràfic professional contractat per la Fundació openSUSE"
 
 msgid "The community through an annual design contest"
-msgstr ""
+msgstr "La comunitat, a través d'un concurs anual de disseny"
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
+msgstr "Els desenvolupadors de l'equip d'infraestructura d'openSUSE"
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
+msgstr "Quina Cimera d'openSUSE asiàtica tenia un logotip vermell?"
 
 msgid "2016 in Beijing"
-msgstr ""
+msgstr "2016 a Pequín"
 
 msgid "2017 in Tokyo"
-msgstr ""
+msgstr "2017 a Tòquio"
 
 msgid "2018 in Taipei"
-msgstr ""
+msgstr "2018 a Taipei"
 
 msgid "2019 in Bali"
-msgstr ""
+msgstr "2019 a Bali"
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
+msgstr "Quina Cimera d'Àsia d'openSUSE va usar l'aplicació openSUSE Quiz per primera vegada?"
 
 msgid "2025 in Faridabad"
-msgstr ""
+msgstr "2025 a Faridabad"
 
 msgid "2014 in Beijing"
-msgstr ""
+msgstr "2014 a Pequín"
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
+msgstr "On es va fer el viatge en ascensor més llarg a la Cimera d'Àsia d'openSUSE?"
 
 msgid "Beijing"
-msgstr ""
+msgstr "Pequín"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
