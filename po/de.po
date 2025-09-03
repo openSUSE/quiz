@@ -3,18 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-07-10 10:59+0000\n"
-"Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-03 10:59+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2132,163 +2121,163 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Benutzen Sie einen erkennbaren Usernamen wie ZypperJedi oder vorzugsweise ihren echten Namen (VornameNachname)."
 
 msgid "Asia Summit Dragon"
-msgstr ""
+msgstr "Asia Summit Drache"
 
 msgid "Challenge the dragon of knowledge"
-msgstr ""
+msgstr "Fordere den Drachen des Wissens heraus"
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr ""
+msgstr "In welcher Stadt fand der erste openSUSE Asia Summit statt?"
 
 msgid "Taipei, Taiwan"
-msgstr ""
+msgstr "Taipeh, Taiwan"
 
 msgid "Beijing, China"
-msgstr ""
+msgstr "Peking, China"
 
 msgid "Jakarta, Indonesia"
-msgstr ""
+msgstr "Jakarta, Indonesien"
 
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "Tokio, Japan"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
+msgstr "Wann fand der openSUSE Asia Summit in Tokio, Japan statt?"
 
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 msgid "2017 and 2024"
-msgstr ""
+msgstr "2017 und 2024"
 
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 msgid "Only 2024"
-msgstr ""
+msgstr "Nur in 2024"
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
+msgstr "In welcher der folgenden Städte fand KEIN openSUSE Asia Summit statt?"
 
 msgid "Denpasar"
-msgstr ""
+msgstr "Denpasar"
 
 msgid "Mumbai"
-msgstr ""
+msgstr "Mumbai"
 
 msgid "Taipei"
-msgstr ""
+msgstr "Taipeh"
 
 msgid "Faridabad"
-msgstr ""
+msgstr "Faridabad"
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
+msgstr "Der openSUSE Asia Summit fand 2018 in welcher Stadt statt?"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hongkong"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "Jakarta"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "Tokio"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
+msgstr "In welchem der folgenden Länder fand noch nie ein openSUSE Asia Summit statt?"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 msgid "India"
-msgstr ""
+msgstr "Indien"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesien"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
+msgstr "In 2016 fand der Summit an der Universitas Islam Indonesia statt. In welcher Stadt befindet sich die Universität?"
 
 msgid "Yogyakarta"
-msgstr ""
+msgstr "Yogyakarta"
 
 msgid "Bandung"
-msgstr ""
+msgstr "Bandung"
 
 msgid "Surabaya"
-msgstr ""
+msgstr "Surabaya"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
+msgstr "Wo wurde der openSUSE Asia Summit in 2019 abgehalten?"
 
 msgid "Seoul"
-msgstr ""
+msgstr "Seoul"
 
 msgid "Denpasar (Bali)"
-msgstr ""
+msgstr "Denpasar (Bali)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
+msgstr "Der openSUSE Asia Summit fand 2020 und 2021 online statt. Was war der Hauptgrund dafür?"
 
 msgid "Budget cuts"
-msgstr ""
+msgstr "Das Budget wurde gekürzt"
 
 msgid "Lack of organizers"
-msgstr ""
+msgstr "Fehlende Veranstalter"
 
 msgid "COVID-19 pandemic"
-msgstr ""
+msgstr "Die COVID-19 Pandemie"
 
 msgid "Scheduling conflicts"
-msgstr ""
+msgstr "Terminkonflikte"
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Wer entwirft normalerweise das offizielle openSUSE Asia Summit Logo?"
 
 msgid "Geenardo Da Vinci"
-msgstr ""
+msgstr "Geenardo Da Vinci"
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
+msgstr "Ein professioneller Grafikdesigner der von der openSUSE Foundation angeheuert wird"
 
 msgid "The community through an annual design contest"
-msgstr ""
+msgstr "Die Community durch einen jährlichen Wettbewerb"
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
+msgstr "Die Entwickler des openSUSE Infrastruktur Teams"
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
+msgstr "Welcher openSUSE Asia Summit hatte ein rotes Logo?"
 
 msgid "2016 in Beijing"
-msgstr ""
+msgstr "2016 in Peking"
 
 msgid "2017 in Tokyo"
-msgstr ""
+msgstr "2017 in Tokio"
 
 msgid "2018 in Taipei"
-msgstr ""
+msgstr "2018 in Taipeh"
 
 msgid "2019 in Bali"
-msgstr ""
+msgstr "2019 in Bali"
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
+msgstr "Welcher openSUSE Asia Summit hat zum ersten Mal die openSUSE Quiz App verwendet?"
 
 msgid "2025 in Faridabad"
-msgstr ""
+msgstr "2025 in Faridabad"
 
 msgid "2014 in Beijing"
-msgstr ""
+msgstr "2014 in Peking"
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
+msgstr "Die längste Aufzugfahrt zum openSUSE Asia Summit gab es wo?"
 
 msgid "Beijing"
-msgstr ""
+msgstr "Peking"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
