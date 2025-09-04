@@ -3,7 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-03 10:59+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-05 02:59+0000\nLast-Translator: Ettore Atalan <atalanttore@googlemail.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -1859,7 +1859,6 @@ msgstr "Was macht `zypper refs'?"
 msgid "Refreshes all repositories"
 msgstr "Es lädt alle Repositories neu"
 
-#, fuzzy
 msgid "Lists orphaned packages"
 msgstr "Verwaiste Pakete auflisten"
 
@@ -1947,16 +1946,14 @@ msgstr "zypper remove-cache"
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
 msgstr "Zypper kann 'Patterns' installieren. Was ist ein 'Pattern' bei Zypper?"
 
-#, fuzzy
 msgid "A regex for matching package names"
-msgstr "Eine regex um Paketnamen auszuwählen"
+msgstr "Ein regulärer Ausdruck zum Abgleichen von Paketnamen"
 
 msgid "A group of packages defining a role or use-case"
 msgstr "Eine Gruppe an Paketen die Use-cases und Rollen definieren"
 
-#, fuzzy
 msgid "A theming configuration file"
-msgstr "Eine Konfigurationsdatei für Designs"
+msgstr "Eine Konfigurationsdatei für die Themenauswahl"
 
 #, fuzzy
 msgid "A metadata tag for a repository"
@@ -2223,7 +2220,7 @@ msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the mai
 msgstr "Der openSUSE Asia Summit fand 2020 und 2021 online statt. Was war der Hauptgrund dafür?"
 
 msgid "Budget cuts"
-msgstr "Das Budget wurde gekürzt"
+msgstr "Budgetkürzungen"
 
 msgid "Lack of organizers"
 msgstr "Fehlende Veranstalter"
