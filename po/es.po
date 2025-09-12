@@ -1,53 +1,41 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Victor hck <victorhck@opensuse.org>, 2025.
+# "Marina J. Donis" <marinajdonis@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-06-14 11:59+0000\n"
-"Last-Translator: Victor hck <victorhck@opensuse.org>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-13 12:59+0000\nLast-Translator: \"Marina J. Donis\" <marinajdonis@gmail.com>\nLanguage-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr ""
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "Aprendamos algo sobre nuestras distribuciones Immutable (inmutables)."
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "En términos simples, ¿cómo funciona el 'transactional-update' que impulsa nuestras distribuciones Immutable (inmutables)?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "La mayoría de las particiones del sistema están montadas como sólo lectura, previniendo cambios en el disco."
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "Las actualizaciones no afectan al sistema en ejecución hasta que se reinicie a una nueva instantánea."
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "El sistema usa transactional-update para actualizaciones seguras, atómicas y fácilmente revertibles."
 
 msgid "All options are correct"
 msgstr "Todas las opciones son correctas"
 
-#, fuzzy
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "¿Cuál de las siguientes es una versión de openSUSE impulsada por la comunidad?"
+msgstr "¿Cuál de las siguientes es una versión de openSUSE Immutable (inmutable)?"
 
 msgid "Silverblue, CoreOS"
 msgstr ""
 
-#, fuzzy
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS y Leap Micro"
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
 msgstr ""
@@ -85,9 +73,8 @@ msgstr "GNOME"
 msgid "Enlightenment"
 msgstr ""
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "¿Qué entorno de escritorio es el predeterminado para openSUSE Leap 15?"
+msgstr "¿Qué entorno de escritorio usa por defecto openSUSE Kalpa?"
 
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "¿Cómo se llama el instalador de openSUSE Aeon?"
@@ -104,118 +91,111 @@ msgstr "Anaconda"
 msgid "Agama"
 msgstr "Agama"
 
-#, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "¿Qué tipo de kernel se utiliza de forma predeterminada en openSUSE Leap?"
+msgstr "¿Qué cargador de arranque se utiliza por defecto en openSUSE Aeon?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemctl"
+msgstr "systemd-boot"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
-#, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "¿Qué son Aeon y Kalpa?"
+msgstr "¿Qué tienen en común Aeon y Kalpa?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "Ambos están basados en MicroOs con un escritorio listo para usar."
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "Ambos usan transactional-update para instalación de rpms."
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "Ambos promueven distrobox y flatpaks para aplicaciones extra."
 
-#, fuzzy
 msgid "All options are correct."
-msgstr "Todas las opciones son correctas"
+msgstr "Todas las opciones son correctas."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
 msgstr ""
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "Ambos son términos antiguos que se refieren a períodos largos o ciclos cósmicos."
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "Ambos son nombres de famosas películas Western donde aparecen plantas rodantes (tumbleweed)."
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "Ambos son apodos muy antiguos del arquitecto originalmente detrás de MicroOS."
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "Ambos se refieren a herramientas de actualización de software en openSUSE."
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "Hubo un experimento con un escritorio inmutable basado en Sway en 2023. ¿Conoce su nombre?"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "¿Qué herramienta se utiliza para actualizar de forma segura el sistema base en nuestras distribuciones Immutable (inmutables)?"
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper -p"
+msgstr "zypper dup"
 
 msgid "dnf upgrade"
 msgstr "dnf upgrade"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
-#, fuzzy
 msgid "How can you install an additional package?"
-msgstr "Instala un paquete aleatorio"
+msgstr "¿Cómo se puede instalar un paquete adicional?"
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper"
+msgstr "zypper in"
+
+msgid "dnf install"
+msgstr "dnf install"
 
 #, fuzzy
-msgid "dnf install"
-msgstr "Un instalador"
-
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "¿Por qué generalmente no se recomienda 'transactional-update shell'?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "Porque permite modificar todas las partes del sistema."
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "Crea agujeros de gusano hacia otra dimensión."
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "Puede secretamente migrar su sistema a Fedora."
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "Geeko pierde un pelo cada vez que lo use."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
 msgstr ""
