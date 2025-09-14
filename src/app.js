@@ -89,6 +89,10 @@ async function loadTranslations(lang) {
   }
 }
 
+console.log("\n==============================");
+console.log(`🔑  RESET TOKEN: ${consts.RESET_TOKEN}`);
+console.log("==============================\n");
+
 const router = routes({
   loadTranslations,
   quizzes,
