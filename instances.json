@@ -2,9 +2,8 @@
 {
   "instances": {
     // "main" maps to quiz.opesuse.org
-    "main": {},
+    "main": {"theme": "openSUSE"},
     // all others map to <instance>.quiz.opensuse.org
-    "test": {},
-    "osas2025": {},
+    "test": {"theme": "openSUSE", "quizzes": ["opensuse_greenhorn", "kids"]}
   }
 }
