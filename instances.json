@@ -6,6 +6,6 @@
     // all others map to <instance>.quiz.opensuse.org
     "test": {},
     "linuxdays": {},
-    "openssl": {},
+    "suse": {},
   }
 }
