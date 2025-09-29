@@ -1,7 +1,18 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-09-01 18:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-26 16:12+0200\n"
+"PO-Revision-Date: 2025-09-01 18:59+0000\n"
+"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
+"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -2268,6 +2279,285 @@ msgstr "Waar was de langste liftreis naar de openSUSE Asia summit in?"
 
 msgid "Beijing"
 msgstr "Beijing"
+
+msgid "SUSE Story"
+msgstr ""
+
+msgid "Discover SUSE, one click at a time."
+msgstr ""
+
+msgid "What is SUSE’s business?"
+msgstr ""
+
+msgid "Providing Enterprise Linux solutions for mission-critical systems"
+msgstr ""
+
+msgid "Delivering modern container and VM management with Rancher and Harvester"
+msgstr ""
+
+msgid "Securing cloud-native workloads with NeuVector"
+msgstr ""
+
+msgid "All of the above"
+msgstr ""
+
+msgid "What does the acronym SUSE stand for?"
+msgstr ""
+
+msgid "Software- und System-Entwicklung (Software and Systems Development)"
+msgstr ""
+
+msgid "Super User Space Explorer"
+msgstr ""
+
+msgid "Silly Unix Shell Enthusiasts"
+msgstr ""
+
+msgid "System Upgrade & Security Engine"
+msgstr ""
+
+msgid "How many employees does SUSE have worldwide?"
+msgstr ""
+
+msgid "Around 500"
+msgstr ""
+
+msgid "Around 1,200"
+msgstr ""
+
+msgid "Around 2,500"
+msgstr ""
+
+msgid "Around 10,000"
+msgstr ""
+
+msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
+msgstr ""
+
+msgid "Prague"
+msgstr ""
+
+msgid "Cupertino"
+msgstr ""
+
+msgid "Redmont"
+msgstr ""
+
+msgid "Raleigh"
+msgstr ""
+
+msgid "Which of the following is true about the SUSE Logo?"
+msgstr ""
+
+msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
+msgstr ""
+
+msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
+msgstr ""
+
+msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
+msgstr ""
+
+msgid "When was the first version of SUSE Linux released?"
+msgstr ""
+
+msgid "1989"
+msgstr ""
+
+msgid "1991"
+msgstr ""
+
+msgid "1994"
+msgstr ""
+
+msgid "2014"
+msgstr ""
+
+msgid "What is Rancher primarily used for?"
+msgstr ""
+
+msgid "Managing and scaling Kubernetes clusters"
+msgstr ""
+
+msgid "Herding virtual cows in the cloud"
+msgstr ""
+
+msgid "Automating SUSE Linux installations only"
+msgstr ""
+
+msgid "Playing old-school ranch simulation games"
+msgstr ""
+
+msgid "What does NeuVector focus on?"
+msgstr ""
+
+msgid "Cloud-native container security"
+msgstr ""
+
+msgid "Making networking faster on Linux desktops"
+msgstr ""
+
+msgid "Automating package builds"
+msgstr ""
+
+msgid "Coloring the chameleon logo green"
+msgstr ""
+
+msgid "What is SUSE Harvester?"
+msgstr ""
+
+msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
+msgstr ""
+
+msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
+msgstr ""
+
+msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
+msgstr ""
+
+msgid "What is openSUSE?"
+msgstr ""
+
+msgid "A community project sponsored by SUSE"
+msgstr ""
+
+msgid "More than just one community Linux distribution"
+msgstr ""
+
+msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
+msgstr ""
+
+msgid "What are SUSE BCI (Base Container Images) known for?"
+msgstr ""
+
+msgid "Being bloated with unnecessary packages"
+msgstr ""
+
+msgid "Only working on SUSE Linux Enterprise Server"
+msgstr ""
+
+msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
+msgstr ""
+
+msgid "Standing for 'Big Chameleon Initiative'"
+msgstr ""
+
+msgid "SUSE x openSSL"
+msgstr ""
+
+msgid "When SUSE meets openSSL, surprises await."
+msgstr ""
+
+msgid "How many SUSE products use OpenSSL?"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "All of them"
+msgstr ""
+
+msgid "How many SUSE engineers are actively working on OpenSSL?"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "42.3"
+msgstr ""
+
+msgid "19"
+msgstr ""
+
+msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
+msgstr ""
+
+msgid "It allows all cryptographic algorithms, including insecure ones."
+msgstr ""
+
+msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
+msgstr ""
+
+msgid "It has no impact on system performance or compatibility."
+msgstr ""
+
+msgid "You start smiling like 'Hide the Pain Harold' meme guy."
+msgstr ""
+
+msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
+msgstr ""
+
+msgid "The OpenSSL office"
+msgstr ""
+
+msgid "Starbucks"
+msgstr ""
+
+msgid "Red Hat office"
+msgstr ""
+
+msgid "Vaňkovka shopping gallery"
+msgstr ""
+
+msgid "Why does SUSE invest in OpenSSL?"
+msgstr ""
+
+msgid "To contribute back to the community SUSE and many others relies on"
+msgstr ""
+
+msgid "To make chameleons browse the web safely"
+msgstr ""
+
+msgid "To win a race against penguins"
+msgstr ""
+
+msgid "To shorten Linux kernel boot times"
+msgstr ""
+
+msgid "SUSE engineers contribute to OpenSSL by"
+msgstr ""
+
+msgid "Active development and code reviews"
+msgstr ""
+
+msgid "Contributing fixes and new features"
+msgstr ""
+
+msgid "Running enterprise-grade testing with tools like openQA"
+msgstr ""
+
+msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
+msgstr ""
+
+msgid "It secures communication and cryptographic operations"
+msgstr ""
+
+msgid "It only adds fancy wallpapers"
+msgstr ""
+
+msgid "It makes Open Build Service run faster"
+msgstr ""
+
+msgid "It manages Rancher clusters"
+msgstr ""
+
+msgid "Why is FIPS certification in OpenSSL important for SUSE?"
+msgstr ""
+
+msgid "It allows SUSE customers in regulated industries to meet strict security standards"
+msgstr ""
+
+msgid "It makes the chameleon change colors faster"
+msgstr ""
+
+msgid "It guarantees free coffee for certified systems"
+msgstr ""
+
+msgid "It is only useful for retro Linux distributions"
+msgstr ""
 
 #~ msgid "Language"
 #~ msgstr "Taal"
