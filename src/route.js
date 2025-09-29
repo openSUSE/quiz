@@ -36,8 +36,14 @@ module.exports = (dependencies) => {
   router.get("/", async (req, res) => {
     const lang = req.query.lang || "en";
     await loadTranslations(lang);
+ 
     res.render("index", {
-      quizzes,
+      // filter by passed ENABLED_QUIZZES variable
+      // format [{ title: 'Immutability', slug: 'immutability' }, ...
+
+      quizzes: consts.ENABLED_QUIZZES.length
+        ? quizzes.filter(q => consts.ENABLED_QUIZZES.includes(q.slug))
+        : quizzes,
       lang,
       availableLanguages,
       event: consts.EVENT,

@@ -28,6 +28,13 @@ const RESET_TOKEN = envFileExists
 
 const EVENT = process.env.EVENT || "openSUSE";
 
+// controls used logo of the quiz
+const THEME = process.env.THEME || "openSUSE";
+
+const ENABLED_QUIZZES = process.env.QUIZZES
+  ? process.env.QUIZZES.split(",")
+  : [];
+
 // Just a helper function to detect _() by gettext
 function _(str) {
   return str;
@@ -46,4 +53,6 @@ module.exports = {
   STATS_FILE_PATH,
   EVENT,
   USERNAME_POLICY,
+  ENABLED_QUIZZES,
+  THEME,
 };
