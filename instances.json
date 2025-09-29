@@ -5,6 +5,7 @@
     "main": {},
     // all others map to <instance>.quiz.opensuse.org
     "test": {},
-    "osas2025": {},
+    "linuxdays": {},
+    "openssl": {},
   }
 }
