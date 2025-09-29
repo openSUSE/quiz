@@ -42,10 +42,10 @@
     </div>
     <div class="quiz-main-header">
       <div class="opensuse-quiz-logo-header">
-        <img src="/img/button-colour.png" alt="openSUSE Logo" class="opensuse-quiz-logo-header__image">
+        <img src="<%= THEME_IMAGE %>" alt="<%= THEME_TITLE %>" class="opensuse-quiz-logo-header__image">
         <div class="opensuse-quiz-logo-header__text-block">
-          <span class="opensuse-quiz-logo-header__text--opensuse"><%= event %></span>
-          <span class="opensuse-quiz-logo-header__text--quiz">QU1Z!</span>
+          <span class="opensuse-quiz-logo-header__text--opensuse"><%= THEME_TITLE %></span>
+          <span class="opensuse-quiz-logo-header__text--quiz" style="color:<%= THEME_COLOR %>;">QU1Z!</span>
         </div>
       </div>
       <p class="quiz-main-subtitle"><%= t("Available quizzes") %>:</p>

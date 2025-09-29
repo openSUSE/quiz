@@ -26,8 +26,6 @@ const RESET_TOKEN = envFileExists
   ? process.env.RESET_TOKEN || ""
   : "supersecret";
 
-const EVENT = process.env.EVENT || "openSUSE";
-
 // controls used logo of the quiz
 const THEME = process.env.THEME || "openSUSE";
 
@@ -51,7 +49,6 @@ module.exports = {
   RESET_TOKEN,
   STATS_MODE,
   STATS_FILE_PATH,
-  EVENT,
   USERNAME_POLICY,
   ENABLED_QUIZZES,
   THEME,
