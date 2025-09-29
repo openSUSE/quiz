@@ -2430,21 +2430,6 @@ msgstr ""
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
 msgstr ""
 
-msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
-
-msgid "Less than 1%"
-msgstr ""
-
-msgid "Around 3%"
-msgstr ""
-
-msgid "About 5%"
-msgstr ""
-
-msgid "More than 20%"
-msgstr ""
-
 msgid "What are SUSE BCI (Base Container Images) known for?"
 msgstr ""
 
@@ -2469,13 +2454,7 @@ msgstr ""
 msgid "How many SUSE products use OpenSSL?"
 msgstr ""
 
-msgid "1"
-msgstr ""
-
 msgid "5"
-msgstr ""
-
-msgid "10"
 msgstr ""
 
 msgid "All of them"
@@ -2551,9 +2530,6 @@ msgid "Contributing fixes and new features"
 msgstr ""
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
-
-msgid "All of the above"
 msgstr ""
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
