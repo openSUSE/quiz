@@ -10,6 +10,9 @@ const {
 } = require("./i18nHelpers");
 const availableLanguages = getAvailableLanguages(PO_DIR);
 
+const themeConfig = require('./config/theme.json');
+const theme = themeConfig[consts.THEME];
+
 module.exports = (dependencies) => {
   const router = express.Router();
   const {
@@ -40,13 +43,14 @@ module.exports = (dependencies) => {
     res.render("index", {
       // filter by passed ENABLED_QUIZZES variable
       // format [{ title: 'Immutability', slug: 'immutability' }, ...
-
       quizzes: consts.ENABLED_QUIZZES.length
         ? quizzes.filter((q) => consts.ENABLED_QUIZZES.includes(q.slug))
         : quizzes,
       lang,
       availableLanguages,
-      event: consts.EVENT,
+      THEME_IMAGE: theme.IMAGE,
+      THEME_TITLE: theme.TITLE,
+      THEME_COLOR: theme.PRIMARY_COLOR,
       t: (text) => gt.gettext(text),
     });
   });
@@ -76,7 +80,6 @@ module.exports = (dependencies) => {
       nickname: name,
       lang,
       availableLanguages,
-      event: consts.EVENT,
       usernamePolicy: consts.USERNAME_POLICY,
       quizData: JSON.stringify(localized.quizData),
       questions: JSON.stringify(localized.questions),
@@ -94,6 +97,9 @@ module.exports = (dependencies) => {
       results,
       lang,
       availableLanguages,
+      THEME_IMAGE: theme.IMAGE,
+      THEME_TITLE: theme.TITLE,
+      THEME_COLOR: theme.PRIMARY_COLOR,
       t: (text) => gt.gettext(text),
     });
   });

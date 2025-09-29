@@ -1,0 +1,12 @@
+{
+  "openSUSE": {
+    "IMAGE": "img/openSUSE.png",
+    "TITLE": "openSUSE",
+    "PRIMARY_COLOR": "#73BA25"
+  },
+  "SUSE": {
+    "IMAGE": "img/SUSE.png",
+    "TITLE": "SUSE",
+    "PRIMARY_COLOR": "#30ba78"
+  }
+}
