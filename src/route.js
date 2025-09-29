@@ -10,7 +10,7 @@ const {
 } = require("./i18nHelpers");
 const availableLanguages = getAvailableLanguages(PO_DIR);
 
-const themeConfig = require('./config/theme.json');
+const themeConfig = require("./config/theme.json");
 const theme = themeConfig[consts.THEME];
 
 module.exports = (dependencies) => {
