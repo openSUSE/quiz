@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-08-31 13:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-01 01:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "不変性"
@@ -2280,283 +2269,283 @@ msgid "Beijing"
 msgstr "北京"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "SUSE ストーリー"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "SUSE 社の歴史について 1 つずつ学んでいきましょう。"
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "SUSE の事業内容は？"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "ミッションクリティカルなシステムに対するエンタープライズ Linux ソリューションの提供"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Rancher や Harvester によるモダンなコンテナ／仮想マシンの管理機能の提供"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "NeuVector によるクラウドネイティブな処理の保全"
 
 msgid "All of the above"
-msgstr ""
+msgstr "これら全て"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "SUSE は何の略？"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (Software and Systems Development)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "System Upgrade & Security Engine"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "SUSE 社の従業員数は全世界でどれくらい？"
 
 msgid "Around 500"
-msgstr ""
+msgstr "500 人くらい"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "1,200 人くらい"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "2,500 人くらい"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "10,000 人くらい"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "SUSECON 2026 が 4 月に開催されます。この最大級の SUSE カンファレンスが開催される都市は？"
 
 msgid "Prague"
-msgstr ""
+msgstr "プラハ"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "クパチーノ"
 
 msgid "Redmont"
-msgstr ""
+msgstr "レドモント"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "ローリー"
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "SUSE ロゴに関する説明で正しいものはどれ？"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "設立者の 1 人である Hubert Mantel 氏が友人にロゴデザインを依頼し、そのデザインを彼以外の全員が気に入った。"
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "カメレオンの描き方がかなり上手になり、現在は 1996 年の初代ロゴから 6 代目にあたるロゴを使用している"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "SUSE ロゴはカメレオンのもつ柔軟性と適応力を示している"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "SUSE Linux の最初のバージョンが公開されたのはいつ？"
 
 msgid "1989"
-msgstr ""
+msgstr "1989 年"
 
 msgid "1991"
-msgstr ""
+msgstr "1991 年"
 
 msgid "1994"
-msgstr ""
+msgstr "1994 年"
 
 msgid "2014"
-msgstr ""
+msgstr "2014 年"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Rancher の主な用途は？"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Kubernetes クラスタの管理とスケーリング"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "クラウド内の仮想乳牛の飼育"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "SUSE Linux の自動インストールのみ"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "古くさい牧場経営ゲームの実行"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "NeuVector はどのような目的で使用する？"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "クラウドネイティブやコンテナセキュリティ"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Linux デスクトップでのネットワーク処理の高速化"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "パッケージ構築の自動化"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "カメレオンロゴに緑色の色づけをする"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "SUSE Harvester とは何？"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "ベアメタルサーバ内での仮想マシンの作成や移行、バックアップや復元などを簡単に実行できる仮想化プラットフォーム"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "仮想化に対して KubeVirt を、ストレージに対して Longhorn を使用する Kubernetes 上のシステムで、仮想マシンだけでなくコンテナの動作にも対応するシステム"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "コンテナと仮想マシンの両方を組み合わせた Rancher で統合されたソリューションで、ネットワークと可観測性に優れるもの"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "openSUSE とは何？"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "SUSE 社がスポンサーをつとめるコミュニティプロジェクト"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "1 つのコミュニティ型 Linux ディストリビューションを超越したもの"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "openQA, Open Build Service などのツールを利用した開発プロジェクトで、楽しく参加者歓迎のコミュニティ"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "SUSE BCI (Base Container Images) とは何？"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "不要なパッケージによって肥大化しているシステム"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "SUSE Linux Enterprise サーバでのみ動作するシステム"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise をベースにしたシステムで、真に開かれた柔軟で安全なイメージを提供する仕組み"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "'Big Chameleon Initiative' の略"
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x openSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "SUSE と openSSL が出会ったとき、驚きが生まれます。"
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "OpenSSL を使用している SUSE プロジェクトの数は？"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "これら全て"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "OpenSSL で作業を行っている SUSE 社のエンジニア数は？"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "SUSE システムで FIPS モードを有効化した場合、どのような副作用が起こりうる？"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "安全とは言えないものを含めて全ての暗号化アルゴリズムを許可してしまう。"
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "暗号化に際して FIPS で検証済みのアルゴリズムやバイナリしか実行できなくなる。"
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "システムの性能や互換性に対する影響はない。"
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "「痛みを隠すハロルド」で知られるネットミームのような笑顔になってしまう。"
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "チェコ共和国ブルノの SUSE 社エンジニアは、 SUSE Hackweek 25 にどこから参加する？"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "OpenSSL のオフィスから"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "スターバックスから"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Red Hat 社のオフィスから"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "ヴァンコフカのショッピングギャラリーから"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "SUSE 社が OpenSSL に出資するのは何故？"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "SUSE 社を含む様々な企業が頼りにしているコミュニティに貢献するため"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "カメレオンが Web ブラウジングを安全にできるようにするため"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "ペンギンレースで勝利するため"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Linux カーネルの起動時間を短縮するため"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "SUSE 社のエンジニアが OpenSSL に貢献する際の手段は？"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "積極的な開発やコードレビューへの参加"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "修正や新機能の提供"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "openQA のようなエンタープライズグレードのテスト実施"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "SUSE Linux Enterprise で OpenSSL が果たしている役割は？"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "通信や暗号化処理の保安"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "可愛らしい壁紙の提供のみ"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Open Build Service のより高速な実行"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Rancher クラスタの管理"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "SUSE 社にとって OpenSSL の FIPS 認証が重要であるのは何故？"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "SUSE 社の顧客である規制業種の企業では、より厳格なセキュリティ標準への適合が求められるため"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "カメレオンが色を素早く変更できるようにするため"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "認証済みシステムで無料のコーヒーを保証するため"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "古い Linux ディストリビューションでのみ有用であるため"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
