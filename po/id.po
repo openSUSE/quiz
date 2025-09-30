@@ -6,19 +6,7 @@
 # Arif Budiman <arifpedia@gmail.com>, 2025.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-09-01 18:59+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-01 01:59+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Imutabilitas"
@@ -2287,283 +2275,283 @@ msgid "Beijing"
 msgstr "Beijing"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "Cerita SUSE"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "Temukan SUSE, satu klik demi satu."
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "Apa bisnis SUSE?"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "Menyediakan solusi Enterprise Linux untuk sistem yang kritis"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Mengelola kontainer dan VM modern dengan Rancher dan Harvester"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "Melindungi beban kerja berbasis cloud dengan NeuVector"
 
 msgid "All of the above"
-msgstr ""
+msgstr "Semua yang tercantum di atas"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "Apa kepanjangan dari akronim SUSE?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (Pengembangan Perangkat Lunak dan Sistem)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "Peningkatan Sistem & Mesin Keamanan"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "Berapa banyak karyawan yang dimiliki SUSE di seluruh dunia?"
 
 msgid "Around 500"
-msgstr ""
+msgstr "Sekitar 500"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "Sekitar 1.200"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "Sekitar 2.500"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "Sekitar 10.000"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "SUSECON 2026 akan digelar pada bulan April! Kota mana yang akan menjadi tuan rumah konferensi SUSE terbesar?"
 
 msgid "Prague"
-msgstr ""
+msgstr "Praha"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
-msgstr ""
+msgstr "Redmont"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "Raleigh"
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "Manakah yang benar tentang logo SUSE?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "Hubert Mantel, salah satu pendiri, meminta seorang teman untuk mendesain logo, dan semua orang kecuali dia sebenarnya menyukainya."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "Kami telah menjadi jauh lebih baik dalam menggambar chameleon. Logo saat ini adalah generasi ke-6 sejak logo pertama pada tahun 1996"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "Logo SUSE melambangkan fleksibilitas dan kemampuan beradaptasi, sama seperti seekor chameleon"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Kapan versi pertama SUSE Linux dirilis?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Untuk apa Rancher terutama digunakan?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Mengelola dan menskalakan kluster Kubernetes"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Menggembalakan sapi virtual di awan"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Otomatisasi instalasi SUSE Linux saja"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Bermain game simulasi peternakan gaya lama"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "Apa yang menjadi fokus NeuVector?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Keamanan kontainer berbasis cloud"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Mempercepat koneksi jaringan pada desktop Linux"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "Otomatisasi proses pembuatan paket"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "Mewarnai logo chameleon dengan warna hijau"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "Apa itu SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "Platform virtualisasi yang memungkinkan Anda dengan mudah membuat, memigrasikan, mencadangkan, dan memulihkan VM pada server bare metal"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Sistem yang dibangun di atas Kubernetes yang menggunakan KubeVirt untuk virtualisasi, Longhorn untuk penyimpanan, dan mendukung eksekusi kontainer bersama dengan mesin virtual (VM)"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "Sebuah solusi yang terintegrasi dengan Rancher, menggabungkan pengelolaan kontainer dan VM dengan jaringan dan pemantauan"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "Apa itu openSUSE?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "Proyek komunitas yang didukung oleh SUSE"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "Lebih dari sekadar satu distribusi Linux komunitas"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "Tempat yang luar biasa untuk mengembangkan proyek dengan alat seperti openQA, Open Build Service, dan komunitas yang ramah"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "Apa yang membuat SUSE BCI (Base Container Images) terkenal?"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "Terlalu banyak paket yang tidak diperlukan"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "Hanya berfungsi pada SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "Untuk menyediakan gambar yang benar-benar terbuka, fleksibel, dan aman berdasarkan SUSE Linux Enterprise"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "Singkatan dari ‘Inisiatif Chameleon Besar’"
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x OpenSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "Ketika SUSE bertemu dengan openSSL, kejutan menanti."
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "Berapa banyak produk SUSE yang menggunakan OpenSSL?"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "Semua dari mereka"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "Berapa banyak insinyur SUSE yang saat ini sedang bekerja pada OpenSSL?"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "Mengaktifkan mode FIPS pada sistem SUSE dapat menyebabkan efek samping berikut?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "Memungkinkan semua algoritma kriptografi, termasuk yang tidak aman."
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "Hal ini membatasi penggunaan kriptografi hanya pada algoritma dan file biner yang telah diverifikasi sesuai standar FIPS."
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "Tidak berdampak pada kinerja sistem atau kompatibilitasnya."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "Anda mulai tersenyum seperti karakter meme ‘Hide the Pain Harold’."
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Dari mana para insinyur SUSE di Brno, Republik Ceko, akan berpartisipasi dalam SUSE Hackweek 25?"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "Kantor OpenSSL"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "Starbucks"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Kantor Red Hat"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "Galeri Belanja Vaňkovka"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "Mengapa SUSE berinvestasi dalam OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "Untuk berkontribusi kembali kepada komunitas, SUSE dan banyak lainnya bergantung pada"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "Untuk memungkinkan chameleon menjelajahi internet dengan aman"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "Untuk menang dalam balapan melawan penguin"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Untuk memperpendek waktu booting kernel Linux"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "Insinyur SUSE berkontribusi pada OpenSSL dengan"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "Pengembangan aktif dan tinjauan kode"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "Menyumbangkan perbaikan dan fitur baru"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "Melakukan pengujian tingkat perusahaan menggunakan alat seperti openQA"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "Peran apa yang dimainkan OpenSSL dalam SUSE Linux Enterprise?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "Ini memastikan keamanan komunikasi dan operasi kriptografi"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "Hanya menambahkan wallpaper yang menarik"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Membuat Open Build Service berjalan lebih cepat"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Ia mengelola kluster Rancher"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "Mengapa sertifikasi FIPS pada OpenSSL penting bagi SUSE?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "Memungkinkan pelanggan SUSE di industri yang diatur untuk memenuhi standar keamanan yang ketat"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "Membuat chameleon berubah warna lebih cepat"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "Menjamin kopi gratis untuk sistem yang bersertifikat"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "Hanya berguna untuk distribusi Linux versi lama"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
