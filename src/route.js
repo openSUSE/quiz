@@ -156,26 +156,24 @@ module.exports = (dependencies) => {
       };
     }
 
-    results[username].quizzes[quizTitle] = { correct, total };
-
-    // Recalculate aggregate results for user
-    let aggregateCorrect = 0;
-    let aggregateTotal = 0;
-    for (const quizData of Object.values(results[username].quizzes)) {
-      aggregateCorrect += quizData.correct;
-      aggregateTotal += quizData.total;
+    // Initialize user results if needed
+    if (!results[username]) {
+      results[username] = {
+        quizzes: {},
+      };
     }
 
-    const aggregateWrong = aggregateTotal - aggregateCorrect;
-    let aggregateScore =
-      aggregateCorrect * 1 + aggregateTotal * 0.05 - aggregateWrong * 0.1;
-    aggregateScore = Math.max(aggregateScore, 0);
-
-    results[username].aggregate = {
-      correct: aggregateCorrect,
-      wrong: aggregateWrong,
-      score: aggregateScore,
-    };
+    if (!results[username].quizzes[quizSlug]) {
+      results[username].quizzes[quizSlug] = {
+        correct,
+        total,
+        retakes: 0,
+      };
+    } else {
+      results[username].quizzes[quizSlug].retakes += 1;
+      results[username].quizzes[quizSlug].correct = correct;
+      results[username].quizzes[quizSlug].total = total;
+    }
 
     saveResultsToFile();
     res.redirect(`/stats?lang=${lang}`);
