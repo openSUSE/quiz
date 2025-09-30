@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-09-03 10:59+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-01 01:59+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
@@ -2280,283 +2269,283 @@ msgid "Beijing"
 msgstr "Pequín"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "Història de SUSE"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "Descobriu SUSE, clic a clic."
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "Quin és el negoci de SUSE?"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "Proporcionar solucions d'empresa amb Linux per a sistemes de missió crítica"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Oferir una gestió moderna de contenidors i màquines virtuals amb Rancher i Harvester"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "Assegurar càrregues de treball natives de núvol amb NeuVector"
 
 msgid "All of the above"
-msgstr ""
+msgstr "Totes les anteriors"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "Què significa l'acrònim SUSE?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (Desenvolupament de programari i sistemes)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Explorador d'espais de superusuari"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Entusiastes ximples de l'intèrpret d'Unix"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "Actualització del sistema i motor de seguretat"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "Quants empleats té SUSE a tot el món?"
 
 msgid "Around 500"
-msgstr ""
+msgstr "Uns 500"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "Uns 1200"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "Uns 2500"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "Uns 10000"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "La SUSECON 2026 arriba a l'abril! Quina ciutat acollirà la conferència de SUSE més gran?"
 
 msgid "Prague"
-msgstr ""
+msgstr "Praga"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
-msgstr ""
+msgstr "Redmont"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "Raleigh"
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "Quina de les afirmacions següents és certa sobre el logotip de SUSE?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "Hubert Mantel, un dels fundadors, va demanar a un amic que en dissenyés el logotip, i a tothom menys a ell li va agradar."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "Hem millorat molt dibuixant camaleons. El logotip actual és la sisena generació des del primer, el 1996."
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "El logotip de SUSE representa flexibilitat i l'adaptabilitat, igual que el camaleó."
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Quan es va publicar la primera versió de SUSE Linux?"
 
 msgid "1989"
-msgstr ""
+msgstr "El 1989"
 
 msgid "1991"
-msgstr ""
+msgstr "El 1991"
 
 msgid "1994"
-msgstr ""
+msgstr "El 1994"
 
 msgid "2014"
-msgstr ""
+msgstr "El 2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Per a què s'usa principalment el Rancher?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Gestió i escalabilitat de clústers de Kubernetes"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Pasturatge de vaques virtuals al núvol"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Automatització només d'instal·lacions de SUSE Linux"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Jugar a jocs de simulació de ranxos de la vella escola"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "En què se centra NeuVector?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Seguretat de contenidors nativa al núvol"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Fer que la xarxa sigui més ràpida als escriptoris Linux"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "Automatització de la compilació de paquets"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "Pintar el logotip del camaleó de verd"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "Què és SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "Una plataforma de virtualització que permet crear, migrar, fer còpies de seguretat i restaurar fàcilment màquines virtuals en servidors de metall nu"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Un sistema basat en Kubernetes que usa KubeVirt per a la virtualització, Longhorn per a l'emmagatzematge i admet l'execució de contenidors juntament amb màquines virtuals"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "Una solució que s'integra amb Rancher, combinant la gestió de contenidors i màquines virtuals amb la creació de xarxes i l'observabilitat"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "Què és openSUSE?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "Un projecte comunitari patrocinat per SUSE"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "Més que una distribució comunitària de Linux"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "Un lloc increïble per desenvolupar projectes amb eines com ara openQA, Open Build Service i una comunitat acollidora"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "Per què són conegudes les imatges de contenidors de base (BCI) de SUSE?"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "Estar botides amb paquets innecessaris"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "Només funciona amb SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "Per oferir imatges realment obertes, flexibles i segures basades en SUSE Linux Enterprise"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "Significa la 'Iniciativa del Gran Camaleó'"
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x openSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "Quan SUSE es troba amb openSSL hi ha sorpreses."
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "Quants productes SUSE usen OpenSSL?"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "Tots"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "Quants enginyers de SUSE treballen activament a OpenSSL?"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "Quin dels efectes secundaris següents pot tenir l'habilitació del mode FIPS en un sistema SUSE?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "Permet tots els algoritmes criptogràfics, inclosos els insegurs."
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "Restringeix l'ús de criptografia només a algoritmes i binaris validats per FIPS."
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "No té cap impacte en el rendiment ni en la compatibilitat del sistema."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "Comences a somriure com el paio del meme d'«Amaga el dolor, Harold»."
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Des d'on participaran els enginyers de SUSE a Brno, Txèquia, a la SUSE Hackweek 25?"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "L'oficina d'OpenSSL"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "L'Starbucks"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "L'oficina de Red Hat"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "La galeria comercial Vaňkovka"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "Per què SUSE inverteix en OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "Per tornar la contribució a la comunitat en què SUSE i molts altres confien"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "Perquè els camaleons naveguin per la web de manera segura"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "Per guanyar una cursa contra els pingüins"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Per escurçar el temps d'arrencada del nucli de Linux"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "Els enginyers de SUSE contribueixen a OpenSSL mitjançant..."
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "El desenvolupament actiu i revisions de codi"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "Correccions i funcions noves"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "Execució de proves de nivell empresarial amb eines com ara openQA"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "Quin paper juga OpenSSL a SUSE Linux Enterprise?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "Assegura la comunicació i les operacions criptogràfiques"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "Només afegeix fons de pantalla elegants"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Fa que el servei Open Build funcioni més ràpid"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Gestiona clústers de Rancher"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "Per què és important la certificació FIPS a OpenSSL per a SUSE?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "Permet als clients de SUSE d'indústries regulades complir estàndards de seguretat estrictes."
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "Fa que el camaleó canviï de color més ràpid."
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "Garanteix cafè gratuït per a sistemes certificats."
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "Només és útil per a distribucions retro de Linux."
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
