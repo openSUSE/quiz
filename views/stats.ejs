@@ -58,14 +58,54 @@
         <p><%= t("No users found") %></p>
       <% } else { %>
       <%
-        // Extract leaderboard from precomputed aggregate data
-        const leaderboard = Object.entries(results)
-          .filter(([_, data]) => data.aggregate) // ensure aggregate exists
-          .map(([user, data]) => {
-            const { correct, wrong, score } = data.aggregate;
-            return { user, totalCorrect: correct, wrong, score };
+        function computeUserStats(data) {
+          const WRONG_PENALTY = 0.25;
+          let totalCorrect = 0;
+          let totalWrong = 0;
+          let totalPoints = 0;
+          let totalRetakes = 0;
+
+          if (!data.quizzes) return { totalCorrect: 0, wrong: 0, score: 0, retakes: 0 };
+
+          Object.values(data.quizzes).forEach((quiz) => {
+            const correct = Number(quiz.correct) || 0;
+            const total = Number(quiz.total) || 0;
+            const retakes = Number(quiz.retakes) || 0;
+
+            const wrong = Math.max(0, total - correct);
+
+            totalCorrect += correct;
+            totalWrong += wrong;
+            totalRetakes += retakes;
+
+            const positivePoints = correct;
+            const negativePoints = WRONG_PENALTY * wrong;
+
+            // Apply retake penalty only to gained points
+            const adjustedPositive = positivePoints * Math.max(0, 1 - retakes * 0.1);
+
+            // minimum is 0, let's make sure we don't destroy score otherwise people would not "gamble"
+            const quizPoints = Math.max(0, adjustedPositive - negativePoints);
+
+            totalPoints += quizPoints;
           });
 
+          return { totalCorrect, wrong: totalWrong, score: totalPoints, retakes: totalRetakes };
+        }
+
+        // Compute leaderboard
+        const leaderboard = Object.entries(results || {}).map(([user, data]) => {
+          const s = computeUserStats(data);
+          return {
+            user,
+            totalCorrect: s.totalCorrect,
+            wrong: s.wrong,
+            score: s.score,
+            retakes: s.retakes,
+          };
+        });
+
+        // Sort by total points descending, then by username
         leaderboard.sort((a, b) => b.score - a.score || a.user.localeCompare(b.user));
       %>
       <table class="results">
