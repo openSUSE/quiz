@@ -4,7 +4,16 @@
     // "main" maps to quiz.opesuse.org
     "main": {},
     // all others map to <instance>.quiz.opensuse.org
-    "test": {},
+    "test": {
+	    // question catalogues to enable (QUIZZES) - defaults to all available ones
+	    // (names of files under data/ without suffix)
+	    "quizzes": [
+		    "kernel",
+		    "yast",
+	    ],
+	    // branding/theme to set (THEME) - defaults to "openSUSE"
+	    "theme": "SUSE",
+    },
     "linuxdays": {},
     "suse": {},
   }
