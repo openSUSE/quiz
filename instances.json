@@ -15,6 +15,12 @@
 	    "theme": "SUSE",
     },
     "linuxdays": {},
-    "suse": {},
+    "suse": {
+	    "quizzes": [
+		    "suse",
+		    "suse_openssl",
+	    ],
+	    "theme": "SUSE",
+    },
   }
 }
