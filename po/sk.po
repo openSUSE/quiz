@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-09-01 18:59+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-02 19:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2282,43 +2271,43 @@ msgid "Beijing"
 msgstr "Pekingu"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "Príbeh SUSE"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "Objavte SUSE, jedným kliknutím za druhým."
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "Čo je predmetom podnikania SUSE?"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "Poskytovanie podnikových riešení Linuxu pre systémy kritické pre činnosť organizácie"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Poskytovanie moderných kontajnerov a správy VM s Rancher a Harvester"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "Zabezpečenie cloudových pracovných zaťažení pomocou NeuVector"
 
 msgid "All of the above"
-msgstr ""
+msgstr "Všetko vyššie uvedené"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "Čo znamená skratka SUSE?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (Vývoj softvéru a systémov)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "System Upgrade & Security Engine"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "Koľko zamestnancov má SUSE celosvetovo?"
 
 msgid "Around 500"
 msgstr ""
