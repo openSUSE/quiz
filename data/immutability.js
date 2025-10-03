@@ -11,6 +11,7 @@ const quizData = {
   submitAnytime: false,
   randomizeQuestions: false, // We want to build Immutable story, don't randomize
   randomizeAnswers: false, // Keep order for users, many times "all options are correct"
+  difficulty: 4,
 };
 
 const questions = [
