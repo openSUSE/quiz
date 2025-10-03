@@ -26,8 +26,6 @@ function isLoginTaken(login) {
   if (storedNick && storedNick.toLowerCase() === lowerLogin) {
     return false;
   }
-
-  // Otherwise, check if it's already used
   return existingLogins.includes(lowerLogin);
 }
 
@@ -49,21 +47,21 @@ window.addEventListener("load", () => {
   const savedNickname = localStorage.getItem("quizNickname");
   if (savedNickname) {
     updateUsernameValues(savedNickname);
+    // auto-skip start screen and go straight to quiz
+    handleStartAction();
   }
 
   usernameInput.addEventListener("input", () => {
-    // This needs to be checked only before
-    // we initially set local variable
     if (isLoginTaken(usernameInput.value)) {
       usernameInput.classList.add("input-error");
       usernameInput.setAttribute("title", uiStrings.usernameTaken);
-      usernameInput.focus();
       return;
     }
-
-    localStorage.setItem("quizNickname", usernameInput.value);
+    if (usernameInput.classList.contains("input-error")) {
+      usernameInput.classList.remove("input-error");
+      usernameInput.removeAttribute("title");
+    }
     if (usernameTopHidden) usernameTopHidden.value = usernameInput.value;
-
     if (usernameInput.classList.contains("input-error")) {
       usernameInput.classList.remove("input-error");
       usernameInput.removeAttribute("title");
@@ -109,9 +107,7 @@ window.addEventListener("load", () => {
   const usernameForm = document.querySelector(".submit-form-bottom");
   if (usernameForm) {
     usernameForm.addEventListener("submit", (event) => {
-      // Triggered by the submitBtn in this form
-      event.preventDefault(); // Prevent the default HTML form submission
-
+      event.preventDefault(); // Prevent default HTML form submission
       const usernameInput = document.getElementById("username");
       const username = usernameInput.value.trim();
 
@@ -119,17 +115,15 @@ window.addEventListener("load", () => {
         usernameInput.classList.add("input-error");
         usernameInput.setAttribute("title", uiStrings.usernamePrompt);
         usernameInput.focus();
-        return; // Stop if username is missing
+        return;
       }
       if (username.length < 4) {
         usernameInput.classList.add("input-error");
         usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
         usernameInput.focus();
-        return; // Stop if username is too short
+        return;
       }
 
-      // Call endQuiz(true) to handle <the submission of results.
-      // endQuiz will populate the hidden fields in the topForm and submit it.
       endQuiz(true);
     });
   }
@@ -163,33 +157,47 @@ function handleStartAction() {
   }
 
   const username = usernameInput.value.trim();
-  if (username !== "") {
-    if (username.length < 4) {
-      usernameInput.classList.add("input-error");
-      usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
-      usernameInput.focus();
-      return;
-    }
 
-    usernameInput.disabled = true;
-    document.getElementById("username-top-hidden").value = usernameInput.value;
-    usernameInput.classList.remove("input-error");
-    usernameInput.removeAttribute("title");
-
-    topForm.classList.remove("hide");
-    if (quizData.submitAnytime) {
-      submitAnytimeBtn.classList.remove("hide");
-    }
-    quitBtn.classList.remove("hide");
-    backBtnQuiz.classList.add("hide");
-
-    startQuiz();
-  } else {
+  // validate nickname
+  if (username === "") {
     usernameInput.classList.add("input-error");
     usernameInput.setAttribute("title", uiStrings.usernamePrompt);
     usernameInput.focus();
+    return;
   }
+
+  if (username.length < 4) {
+    usernameInput.classList.add("input-error");
+    usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
+    usernameInput.focus();
+    return;
+  }
+
+  if (isLoginTaken(username)) {
+    usernameInput.classList.add("input-error");
+    usernameInput.setAttribute("title", uiStrings.usernameTaken);
+    usernameInput.focus();
+    return;
+  }
+
+  // passed validation — save nickname now
+  localStorage.setItem("quizNickname", username);
+
+  usernameInput.disabled = true;
+  document.getElementById("username-top-hidden").value = username;
+  usernameInput.classList.remove("input-error");
+  usernameInput.removeAttribute("title");
+
+  topForm.classList.remove("hide");
+  if (quizData.submitAnytime) {
+    submitAnytimeBtn.classList.remove("hide");
+  }
+  quitBtn.classList.remove("hide");
+  backBtnQuiz.classList.add("hide");
+
+  startQuiz();
 }
+
 
 startBtn.addEventListener("click", (event) => {
   event.preventDefault();
@@ -239,18 +247,43 @@ function endQuiz(isQuitAndSubmit = false) {
   quitBtn.classList.add("hide");
 
   const topForm = document.querySelector(".submit-form-top");
+  document.getElementById("username-top-hidden").disabled = false;
 
-  const usernameTopHidden = document.getElementById("username-top-hidden");
-  usernameTopHidden.disabled = false;
+  // Mark this quiz as completed
+  const params = new URLSearchParams(window.location.search);
+  const quizSlug = params.get("name");
+  if (quizSlug) {
+    let completed = JSON.parse(localStorage.getItem("completedQuizzes") || "[]");
+    if (!completed.includes(quizSlug)) {
+      completed.push(quizSlug);
+      localStorage.setItem("completedQuizzes", JSON.stringify(completed));
+    }
+  }
+
+  // Unlock next difficulty
+  let currentDifficulty = parseInt(localStorage.getItem("quizDifficulty") || "1");
+  let nextDifficulty = parseInt(localStorage.getItem("quizNextDifficulty") || (currentDifficulty + 1));
+  if (nextDifficulty > currentDifficulty) {
+    localStorage.setItem("quizDifficulty", nextDifficulty);
+    localStorage.setItem("quizNextDifficulty", nextDifficulty + 1);
+    // trigger animation on index.ejs when new quizzes are unlocked
+    localStorage.setItem("newQuizzesUnlocked", "true");
+  }
 
   if (isQuitAndSubmit || currentQuestion === questions.length) {
     topForm.submit();
   }
 
-  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ <span class="score-correct">${correct}</span>/<span class="score-total">${currentQuestion > 0 ? currentQuestion : questions.length}</span>`;
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ 
+    <span class="score-correct">${correct}</span>/
+    <span class="score-total">${currentQuestion > 0 ? currentQuestion : questions.length}</span>`;
 
+  // Show start screen again
   const usernameForm = document.querySelector(".submit-form-bottom");
+  const usernameInstructions = document.querySelector(".username-instructions");
   usernameForm.classList.remove("hide");
+  usernameInstructions.classList.remove("hide");
+
   startBtn.textContent = "Restart";
   usernameBox.disabled = true;
 }
@@ -260,6 +293,12 @@ function isFinalQuestion() {
 }
 
 function loadQuestion(questionNum) {
+  // End early if we’ve run out of questions
+  if (currentQuestion === questions.length) {
+    endQuiz();
+    return;
+  }
+
   var usernameBox = document.getElementById("username");
   var correctBoxTop = document.getElementById("correct-top-hidden");
   var totalBoxTop = document.getElementById("total-top-hidden");
@@ -283,14 +322,9 @@ function loadQuestion(questionNum) {
     timerInterval = setInterval(() => {
       timeLeft--;
       updateTimerDisplay(timerDisplay, timeLeft);
-
-      if (timeLeft <= 5) {
-        timerDisplay.className = "critical";
-      } else if (timeLeft <= 10) {
-        timerDisplay.className = "warning";
-      } else {
-        timerDisplay.className = "";
-      }
+      if (timeLeft <= 5) timerDisplay.className = "critical";
+      else if (timeLeft <= 10) timerDisplay.className = "warning";
+      else timerDisplay.className = "";
 
       if (timeLeft <= 0) {
         clearInterval(timerInterval);
@@ -309,49 +343,33 @@ function loadQuestion(questionNum) {
   totalBoxTop.value = questions.length;
   document.getElementById("username-top-hidden").value = usernameBox.value;
 
-  if (currentQuestion === questions.length) {
-    const usernameForm = document.querySelector(".submit-form-bottom");
-    usernameForm.classList.remove("hide");
-    usernameBox.disabled = true;
-
-    submitBtn.classList.remove("hide");
-    submitAnytimeBtn.classList.add("hide");
-    quitBtn.classList.add("hide");
-    nextBtn.classList.add("hide");
-    questionContainer.classList.add("hide");
-    answersContainer.classList.add("hide");
-    startBtn.textContent = "Restart";
-    updateScoreDisplay(usernameBox.value, true);
-  } else {
-    submitBtn.classList.add("hide");
-    if (quizData.submitAnytime) {
-      submitAnytimeBtn.classList.remove("hide");
-    }
-    quitBtn.classList.remove("hide");
-    while (answersContainer.firstChild) {
-      answersContainer.removeChild(answersContainer.firstChild);
-    }
-    questionElement.innerHTML = questions[questionNum].text;
-
-    const btnGrid = document.createElement("div");
-    btnGrid.classList.add("btn-grid");
-    answersContainer.appendChild(btnGrid);
-
-    questions[questionNum].answers.forEach((answer) => {
-      const answerElement = document.createElement("button");
-      answerElement.innerHTML = answer.text;
-      answerElement.dataset.correct = answer.correct;
-      answerElement.addEventListener("click", (e) => {
-        // disable all buttons
-        Array.from(btnGrid.children).forEach(
-          (element) => (element.disabled = true)
-        );
-        e.target.dataset.clicked = "true";
-        checkAnswer();
-      });
-      btnGrid.appendChild(answerElement);
-    });
+  // Normal question render
+  submitBtn.classList.add("hide");
+  if (quizData.submitAnytime) {
+    submitAnytimeBtn.classList.remove("hide");
   }
+  quitBtn.classList.remove("hide");
+
+  while (answersContainer.firstChild) {
+    answersContainer.removeChild(answersContainer.firstChild);
+  }
+
+  questionElement.innerHTML = questions[questionNum].text;
+  const btnGrid = document.createElement("div");
+  btnGrid.classList.add("btn-grid");
+  answersContainer.appendChild(btnGrid);
+
+  questions[questionNum].answers.forEach((answer) => {
+    const answerElement = document.createElement("button");
+    answerElement.innerHTML = answer.text;
+    answerElement.dataset.correct = answer.correct;
+    answerElement.addEventListener("click", (e) => {
+      Array.from(btnGrid.children).forEach((element) => (element.disabled = true));
+      e.target.dataset.clicked = "true";
+      checkAnswer();
+    });
+    btnGrid.appendChild(answerElement);
+  });
 }
 
 function checkAnswer(isTimeout = false) {
@@ -378,10 +396,7 @@ function updateTimerDisplay(timerElement, timeLeft) {
   const minutes = Math.floor(timeLeft / 60);
   const seconds = timeLeft % 60;
   const timeString =
-    minutes > 0
-      ? `${minutes}:${seconds.toString().padStart(2, "0")}`
-      : `${seconds}s`;
-
+    minutes > 0 ? `${minutes}:${seconds.toString().padStart(2, "0")}` : `${seconds}s`;
   timerElement.innerHTML = `⏱️ ${timeString}`;
 }
 

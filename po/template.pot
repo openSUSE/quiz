@@ -2762,3 +2762,9 @@ msgstr ""
 
 msgid "On many local Linux portals and websites"
 msgstr ""
+
+msgid "Show All"
+msgstr ""
+
+msgid "Level Up"
+msgstr ""

@@ -11,15 +11,30 @@
   <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700&display=swap" rel="stylesheet">
   <link href="/styles.css" rel="stylesheet" type="text/css" />
+  <style>
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .quiz-btn.slide-in {
+      animation: slideIn 0.6s ease-out forwards;
+    }
+  </style>
 </head>
 <body>
   <div class="main-page-container">
     <div class="top-bar-container">
-    <div id="loggedInBanner">
-      <span id="loggedInUserText"></span>
-      <button id="logoutBtn">Forget</button>
-    </div>
-      <div class="user-controls-block"> <!-- New wrapper div -->
+      <div id="loggedInBanner">
+        <span id="loggedInUserText"></span>
+        <button id="logoutBtn">Forget</button>
+      </div>
+      <div class="user-controls-block">
         <div class="language-selector-container">
           <label for="lang-select">🌐 <%= t("Language") %>:</label>
           <select id="lang-select">
@@ -34,11 +49,17 @@
           <a href="/stats?lang=<%= lang %>" style="text-decoration:none;">
             <button class="quiz-btn stats-btn slim-stats-btn">
               <span class="quiz-btn-icon">📊</span>
-              <span style="color:rgb(255,255,255);" class="quiz-btn-title"><%= t("Stats") %></span>
+              <span class="quiz-btn-title"><%= t("Stats") %></span>
             </button>
           </a>
         </div>
-      </div> <!-- End of user-controls-block -->
+        <div class="toggle-link-container">
+          <button id="showAllQuizzesBtn" class="quiz-btn stats-btn slim-stats-btn">
+            <span class="quiz-btn-icon">✨</span>
+            <span class="quiz-btn-title"><%= t("Show All") %></span>
+          </button>
+        </div>
+      </div>
     </div>
     <div class="quiz-main-header">
       <div class="opensuse-quiz-logo-header">
@@ -48,12 +69,14 @@
           <span class="opensuse-quiz-logo-header__text--quiz" style="color:<%= THEME_COLOR %>;">QU1Z!</span>
         </div>
       </div>
-      <p class="quiz-main-subtitle"><%= t("Available quizzes") %>:</p>
+      <p class="quiz-main-subtitle">🧗 <%= t("Progress to unlock more quizzes.") %></p>
     </div>
     <div class="quizzes">
       <% quizzes.forEach((quiz, index) => { %>
-        <a href="./quiz?name=<%- quiz.slug %>&lang=<%= lang %>" class="quiz-link">
-          <button class="quiz-btn quiz-btn-color-<%= index % 4 %>">
+        <a href="./quiz?name=<%- quiz.slug %>&lang=<%= lang %>"
+          class="quiz-link"
+          data-difficulty="<%= quiz.difficulty || 1 %>">
+          <button class="quiz-btn quiz-btn-color-<%= index % 4 %> hide">
             <span class="quiz-btn-icon">📋</span>
             <span class="quiz-btn-title"><%= t(quiz.title) %></span>
           </button>
@@ -71,8 +94,7 @@
     });
 
     function showLoggedInUser() {
-      const loggedInUser = localStorage.getItem("quizNickname");  // <-- use quizNickname
-      console.log(loggedInUser);
+      const loggedInUser = localStorage.getItem("quizNickname");
       const banner = document.getElementById("loggedInBanner");
       const textSpan = document.getElementById("loggedInUserText");
 
@@ -82,15 +104,107 @@
       } else {
         banner.style.display = "none";
       }
-  }
+    }
 
-  document.getElementById("logoutBtn").addEventListener("click", () => {
-    localStorage.removeItem("quizNickname");  // <-- use quizNickname
+    function showQuizzes() {
+      const quizzes = document.querySelectorAll(".quiz-link");
+      const completedSlugs = JSON.parse(localStorage.getItem("completedQuizzes") || "[]");
+      const currentDifficulty = parseInt(localStorage.getItem("quizDifficulty") || "1");
+
+      // group quizzes by difficulty
+      const allDifficulties = {};
+      quizzes.forEach(el => {
+        const diff = parseInt(el.dataset.difficulty || "1");
+        if (!allDifficulties[diff]) allDifficulties[diff] = [];
+        allDifficulties[diff].push(el);
+      });
+
+      // count completions at current level
+      const totalAtLevel = (allDifficulties[currentDifficulty] || []).length;
+      const doneAtLevel = (allDifficulties[currentDifficulty] || []).filter(el => {
+        const slug = new URL(el.href).searchParams.get("name");
+        return completedSlugs.includes(slug);
+      }).length;
+
+      // progression rule
+      let unlockNext = false;
+      if (totalAtLevel === 1) {
+        unlockNext = doneAtLevel === 1;
+      } else if (totalAtLevel === 2) {
+        unlockNext = doneAtLevel >= 1;
+      } else if (totalAtLevel > 2) {
+        unlockNext = doneAtLevel >= 2;
+      }
+
+      if (unlockNext) {
+        localStorage.setItem("quizDifficulty", currentDifficulty + 1);
+        localStorage.setItem("newQuizzesUnlocked", "true");
+      }
+
+      const quizDifficulty = parseInt(localStorage.getItem("quizDifficulty") || "1");
+      const showAll = localStorage.getItem("showAllQuizzes") === "true";
+      const animateNew = localStorage.getItem("newQuizzesUnlocked") === "true";
+
+      // show/hide and mark quizzes
+      quizzes.forEach(el => {
+        const diff = parseInt(el.dataset.difficulty || "1");
+        const btn = el.querySelector(".quiz-btn");
+
+        if (showAll || diff <= quizDifficulty) {
+          if (btn.classList.contains("hide")) {
+            btn.classList.remove("hide");
+
+            if (animateNew && diff === quizDifficulty) {
+              btn.classList.add("slide-in");
+              setTimeout(() => btn.classList.remove("slide-in"), 1000);
+            }
+          }
+        } else {
+          btn.classList.add("hide");
+        }
+
+        const slug = new URL(el.href).searchParams.get("name");
+        if (completedSlugs.includes(slug)) {
+          el.classList.add("completed");
+          const iconSpan = el.querySelector(".quiz-btn-icon");
+          if (iconSpan) iconSpan.textContent = "✅";
+        }
+      });
+
+      // clear flag after animation
+      if (animateNew) {
+        localStorage.removeItem("newQuizzesUnlocked");
+      }
+    }
+
+    document.getElementById("logoutBtn").addEventListener("click", () => {
+      localStorage.removeItem("quizNickname");
+      localStorage.removeItem("quizDifficulty");
+      localStorage.removeItem("quizNextDifficulty");
+      localStorage.removeItem("completedQuizzes");
+
+      showLoggedInUser();
+      showQuizzes();
+    });
+
+    // Toggle behavior
+    const toggleLabels = {
+      showAll: "<%= t('Show All') %>",
+      hideLocked: "<%= t('Level Up') %>"
+    };
+
+    const toggleBtn = document.getElementById("showAllQuizzesBtn");
+    toggleBtn.addEventListener("click", () => {
+      const newState = localStorage.getItem("showAllQuizzes") !== "true";
+      localStorage.setItem("showAllQuizzes", newState);
+      toggleBtn.querySelector(".quiz-btn-icon").textContent = newState ? "🚀" : "✨";
+      toggleBtn.querySelector(".quiz-btn-title").textContent = newState ? toggleLabels.hideLocked : toggleLabels.showAll;
+      showQuizzes();
+    });
+    showQuizzes();
     showLoggedInUser();
-  });
-
-  showLoggedInUser();
   </script>
+
   <footer>
     <p>
       © 2025 openSUSE contributors | Made with ❤️ by openSUSE Community
