@@ -10,6 +10,7 @@ const quizData = {
   submitAnytime: false,
   randomizeQuestions: false,
   randomizeAnswers: false,
+  difficulty: 1,
 };
 
 const questions = [

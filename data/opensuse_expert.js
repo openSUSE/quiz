@@ -13,6 +13,7 @@ const quizData = {
   timeout: 30,
   randomizeQuestions: true,
   randomizeAnswers: true,
+  difficulty: 2,
 };
 
 const questions = [

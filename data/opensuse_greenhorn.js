@@ -12,6 +12,7 @@ const quizData = {
   submitAnytime: false,
   randomizeQuestions: false, // quiz tells a story some questions might be relevant
   randomizeAnswers: true,
+  difficulty: 1,
 };
 
 const questions = [

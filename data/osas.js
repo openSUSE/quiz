@@ -11,6 +11,7 @@ const quizData = {
   timeout: 20,
   randomizeQuestions: true,
   randomizeAnswers: true,
+  difficulty: 5,
 };
 
 const questions = [
