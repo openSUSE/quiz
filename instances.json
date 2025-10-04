@@ -14,7 +14,19 @@
 	    // branding/theme to set (THEME) - defaults to "openSUSE"
 	    "theme": "SUSE",
     },
-    "linuxdays": {},
+    "linuxdays": {
+      "quizzes": [
+        "immutability",
+        "kernel",
+        "kids",
+        "opensuse_intro",
+        "opensuse_expert",
+        "s390x",
+        "yast",
+        "zypper",
+        "stats"
+      ]
+    },
     "suse": {
 	    "quizzes": [
 		    "suse",
