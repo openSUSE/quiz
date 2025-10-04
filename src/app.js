@@ -68,7 +68,15 @@ const quizzes = quizFileDir.map((file) => {
   return {
     title: quizFile.quizData.title,
     slug: file.replace(".js", ""),
+    difficulty: parseInt(quizFile.quizData.difficulty || "1", 10),
   };
+});
+
+quizzes.sort((a, b) => {
+  if (a.difficulty !== b.difficulty) {
+    return a.difficulty - b.difficulty;
+  }
+  return a.title.localeCompare(b.title);
 });
 
 async function loadTranslations(lang) {
