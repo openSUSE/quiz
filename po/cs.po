@@ -1,17 +1,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
+# Markéta Tišnovská <mtisnovs@seznam.cz>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-09-29 21:43+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-05 07:59+0000\nLast-Translator: Markéta Tišnovská <mtisnovs@seznam.cz>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2130,16 +2120,16 @@ msgid "In which city was the first openSUSE Asia Summit hosted?"
 msgstr "Ve kterém městě se konal první openSUSE Asia Summit?"
 
 msgid "Taipei, Taiwan"
-msgstr ""
+msgstr "Tchaj-pej, Tchai-wan"
 
 msgid "Beijing, China"
-msgstr ""
+msgstr "Peking, Čína"
 
 msgid "Jakarta, Indonesia"
-msgstr ""
+msgstr "Jakarta, Indonésie"
 
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "Tokio, Japonsko"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
 msgstr ""
