@@ -68,7 +68,7 @@ const quizzes = quizFileDir.map((file) => {
   return {
     title: quizFile.quizData.title,
     slug: file.replace(".js", ""),
-    difficulty: parseInt(quizFile.quizData.difficulty || "1", 10)
+    difficulty: parseInt(quizFile.quizData.difficulty || "1", 10),
   };
 });
 

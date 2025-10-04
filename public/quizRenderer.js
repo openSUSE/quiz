@@ -198,7 +198,6 @@ function handleStartAction() {
   startQuiz();
 }
 
-
 startBtn.addEventListener("click", (event) => {
   event.preventDefault();
   handleStartAction();
@@ -253,7 +252,9 @@ function endQuiz(isQuitAndSubmit = false) {
   const params = new URLSearchParams(window.location.search);
   const quizSlug = params.get("name");
   if (quizSlug) {
-    let completed = JSON.parse(localStorage.getItem("completedQuizzes") || "[]");
+    let completed = JSON.parse(
+      localStorage.getItem("completedQuizzes") || "[]"
+    );
     if (!completed.includes(quizSlug)) {
       completed.push(quizSlug);
       localStorage.setItem("completedQuizzes", JSON.stringify(completed));
@@ -261,8 +262,12 @@ function endQuiz(isQuitAndSubmit = false) {
   }
 
   // Unlock next difficulty
-  let currentDifficulty = parseInt(localStorage.getItem("quizDifficulty") || "1");
-  let nextDifficulty = parseInt(localStorage.getItem("quizNextDifficulty") || (currentDifficulty + 1));
+  let currentDifficulty = parseInt(
+    localStorage.getItem("quizDifficulty") || "1"
+  );
+  let nextDifficulty = parseInt(
+    localStorage.getItem("quizNextDifficulty") || currentDifficulty + 1
+  );
   if (nextDifficulty > currentDifficulty) {
     localStorage.setItem("quizDifficulty", nextDifficulty);
     localStorage.setItem("quizNextDifficulty", nextDifficulty + 1);
@@ -274,7 +279,7 @@ function endQuiz(isQuitAndSubmit = false) {
     topForm.submit();
   }
 
-  correctCount.innerHTML = `👤 ${usernameBox.value} ✅ 
+  correctCount.innerHTML = `👤 ${usernameBox.value} ✅
     <span class="score-correct">${correct}</span>/
     <span class="score-total">${currentQuestion > 0 ? currentQuestion : questions.length}</span>`;
 
@@ -364,7 +369,9 @@ function loadQuestion(questionNum) {
     answerElement.innerHTML = answer.text;
     answerElement.dataset.correct = answer.correct;
     answerElement.addEventListener("click", (e) => {
-      Array.from(btnGrid.children).forEach((element) => (element.disabled = true));
+      Array.from(btnGrid.children).forEach(
+        (element) => (element.disabled = true)
+      );
       e.target.dataset.clicked = "true";
       checkAnswer();
     });
@@ -396,7 +403,9 @@ function updateTimerDisplay(timerElement, timeLeft) {
   const minutes = Math.floor(timeLeft / 60);
   const seconds = timeLeft % 60;
   const timeString =
-    minutes > 0 ? `${minutes}:${seconds.toString().padStart(2, "0")}` : `${seconds}s`;
+    minutes > 0
+      ? `${minutes}:${seconds.toString().padStart(2, "0")}`
+      : `${seconds}s`;
   timerElement.innerHTML = `⏱️ ${timeString}`;
 }
 
