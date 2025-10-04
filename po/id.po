@@ -5,8 +5,9 @@
 # Bayu Aji <bajinra@gmail.com>, 2025.
 # Arif Budiman <arifpedia@gmail.com>, 2025.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
+# Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-01 01:59+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-05 07:59+0000\nLast-Translator: Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Imutabilitas"
@@ -519,7 +520,7 @@ msgid "Chameleon Fun for kids"
 msgstr "Keseruan Chameleon untuk Anak-Anak"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang penuh ingin tahu!"
+msgstr "Kuis penuh warna tentang bunglon dan openSUSE untuk anak-anak yang ingin tahu!"
 
 msgid "What color can a chameleon turn into?"
 msgstr "Bunglon bisa berubah menjadi warna apa?"
