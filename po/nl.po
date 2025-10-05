@@ -1,18 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-02 19:59+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -2353,37 +2342,37 @@ msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, an
 msgstr "Hubert Mantel, een van de oprichters, vroeg een vriend om het logo te ontwerpen en iedereen behalve hij vond het werkelijk mooi."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "We zijn steeds beter geworden in kameleons tekenen. Het huidige logo is de 6de generatie sinds de eerste in 1996"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "Het SUSE logo beeldt flexibiliteit en aanpasbaarheid, net als een kameleon"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Wanneer werd de eerste versie van SUSE Linux vrijgegeven?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Waar wordt Rancher met name voor gebruikt?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Beheren en schalen van Kubernetes clusters"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Het hoeden van kuddes in de cloud"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Alleen voor het automatiseren van SUSE Linux installaties"
 
 msgid "Playing old-school ranch simulation games"
 msgstr ""
