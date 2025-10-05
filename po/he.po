@@ -2558,6 +2558,213 @@ msgstr ""
 msgid "It is only useful for retro Linux distributions"
 msgstr ""
 
+msgid "openSUSE Introduction"
+msgstr ""
+
+msgid "Discover openSUSE, one click at a time."
+msgstr ""
+
+msgid "A project supported by SUSE, made for everyone"
+msgstr ""
+
+msgid "More than just one Linux distribution"
+msgstr ""
+
+msgid "A friendly place to build software and learn new tools"
+msgstr ""
+
+msgid "All of these things together"
+msgstr ""
+
+msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
+msgstr ""
+
+msgid "2025 – this year! 🎉"
+msgstr ""
+
+msgid "1998 – that’s when Google started, not openSUSE"
+msgstr ""
+
+msgid "1994 – that’s the first SUSE Linux, not openSUSE"
+msgstr ""
+
+msgid "2005 – the year openSUSE was born, but not 20 years ago"
+msgstr ""
+
+msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
+msgstr ""
+
+msgid "Stable and Rolling"
+msgstr ""
+
+msgid "Stable and Wobbly"
+msgstr ""
+
+msgid "Rolling and Sitting"
+msgstr ""
+
+msgid "Rolling and Leaping"
+msgstr ""
+
+msgid "Which openSUSE versions are Rolling (always up-to-date)?"
+msgstr ""
+
+msgid "Aeon, Kalpa, and MicroOS"
+msgstr ""
+
+msgid "Slowroll and Slowroll Micro"
+msgstr ""
+
+msgid "All of these are Rolling"
+msgstr ""
+
+msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
+msgstr ""
+
+msgid "Each minor release receive updates for about 24 months"
+msgstr ""
+
+msgid "They have one big release every 12 months"
+msgstr ""
+
+msgid "They come with release parties everyone can join 🎉"
+msgstr ""
+
+msgid "All of the above (and you can stay on Leap 16 until 2033!)"
+msgstr ""
+
+msgid "openSUSE also has “immutable” editions. What does that mean?"
+msgstr ""
+
+msgid "They use a read-only system base and update safely with special tools"
+msgstr ""
+
+msgid "They cannot be installed on laptops"
+msgstr ""
+
+msgid "They are distributions that never change wallpapers"
+msgstr ""
+
+msgid "They come only as DVDs by mail"
+msgstr ""
+
+msgid "What is Slowroll?"
+msgstr ""
+
+msgid "A variant of Tumbleweed with updates grouped into tested batches"
+msgstr ""
+
+msgid "A racing game mode in Linux"
+msgstr ""
+
+msgid "A distribution that only updates once per decade"
+msgstr ""
+
+msgid "The mascot’s new nickname"
+msgstr ""
+
+msgid "What are some of the key openSUSE community tools and projects?"
+msgstr ""
+
+msgid "Open Build Service (OBS) for building software"
+msgstr ""
+
+msgid "openQA for automated testing"
+msgstr ""
+
+msgid "The Wiki, Weblate, forums, and more"
+msgstr ""
+
+msgid "All of these are part of openSUSE"
+msgstr ""
+
+msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
+msgstr ""
+
+msgid "Heroes"
+msgstr ""
+
+msgid "Avengers"
+msgstr ""
+
+msgid "Thunderbolts"
+msgstr ""
+
+msgid "Villains"
+msgstr ""
+
+msgid "Windows 10 is out of support. What could you do with that laptop?"
+msgstr ""
+
+msgid "Install openSUSE on your laptop"
+msgstr ""
+
+msgid "Install openSUSE on your friend’s laptop"
+msgstr ""
+
+msgid "Install openSUSE on your grandmother’s laptop"
+msgstr ""
+
+msgid "All of these are great ideas"
+msgstr ""
+
+msgid "A chameleon named Geeko"
+msgstr ""
+
+msgid "A penguin named Tux"
+msgstr ""
+
+msgid "A tumbleweed rolling in the desert"
+msgstr ""
+
+msgid "A lizard in sunglasses"
+msgstr ""
+
+msgid "Why do people love openSUSE?"
+msgstr ""
+
+msgid "Stable Leap releases and fast-moving Tumbleweed updates"
+msgstr ""
+
+msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
+msgstr ""
+
+msgid "A friendly worldwide community that welcomes everyone"
+msgstr ""
+
+msgid "All of these together"
+msgstr ""
+
+msgid "Where can you help translate openSUSE (and even this quiz)?"
+msgstr ""
+
+msgid "Weblate at l10n.opensuse.org"
+msgstr ""
+
+msgid "By whispering translations into the chameleon’s ear"
+msgstr ""
+
+msgid "At Google Translate headquarters in a secret bunker"
+msgstr ""
+
+msgid "By posting translations on random Reddit threads"
+msgstr ""
+
+msgid "Where can you get help with openSUSE?"
+msgstr ""
+
+msgid "Ask your friend who uses Linux"
+msgstr ""
+
+msgid "On many local Linux portals and websites"
+msgstr ""
+
+msgid "Show All"
+msgstr ""
+
+msgid "Level Up"
+msgstr ""
+
 #~ msgid "Language"
 #~ msgstr "שפה"
 
