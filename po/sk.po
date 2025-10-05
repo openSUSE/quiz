@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-05 07:59+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2351,61 +2340,61 @@ msgid "Which of the following is true about the SUSE Logo?"
 msgstr "Ktoré z nasledujúcich tvrdení o logu SUSE je pravdivé?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "Hubert Mantel, jeden zo zakladateľov, požiadal priateľa, aby navrhol logo, a všetkým okrem neho sa páčilo."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "V kreslení chameleónov sme sa veľmi zlepšili. Súčasné logo je už 6. generáciou od prvého loga z roku 1996"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "Logo SUSE symbolizuje flexibilitu a prispôsobivosť, rovnako ako chameleón"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Kedy bola vydaná prvá verzia SUSE Linux?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Na čo sa Rancher primárne používa?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Správa a škálovanie klastrov Kubernetes"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Pasenie virtuálnych kráv v cloude"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Iba automatizácia inštalácií SUSE Linux"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Hranie simulácií rančov zo starej školy"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "Na čo sa zameriava NeuVector?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Bezpečnosť kontajnerov v cloude"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Zrýchlenie sieťovania na linuxových desktopoch"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "Automatizácia zostavovania balíkov"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "Vyfarbenie loga chameleóna na zeleno"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "Čo je SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
 msgstr ""
