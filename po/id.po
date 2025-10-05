@@ -7,19 +7,7 @@
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 # Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-05 07:59+0000\n"
-"Last-Translator: Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Imutabilitas"
@@ -2567,211 +2555,211 @@ msgid "It is only useful for retro Linux distributions"
 msgstr "Hanya berguna untuk distribusi Linux versi lama"
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "Pengantar openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "Temukan openSUSE, satu klik demi satu."
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "Proyek yang didukung oleh SUSE, dibuat untuk semua orang"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "Lebih dari sekadar satu distribusi Linux"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "Tempat yang ramah untuk mengembangkan perangkat lunak dan mempelajari alat-alat baru"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "Semua hal ini secara keseluruhan"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE baru saja merayakan ulang tahun ke-20! Pada tahun berapa hal itu terjadi?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – tahun ini! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – itulah saat Google didirikan, bukan openSUSE"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – itulah versi pertama SUSE Linux, bukan openSUSE"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – tahun kelahiran openSUSE, tetapi bukan 20 tahun yang lalu"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE memiliki dua cara utama untuk mendapatkan pembaruan. Yang pertama adalah rilis besar sekali setahun, yang lain memberikan pembaruan secara terus-menerus. Apa nama keduanya?"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stabil dan Bergulir"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stabil dan Bergetar"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Bergulir dan Duduk"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Bergulir dan Melompat"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "Versi openSUSE mana yang bersifat bergulir (selalu diperbarui)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa, dan MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll dan Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "Semuanya bergulir"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap dan Leap Micro adalah distribusi stabil kami. Apa artinya itu?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "Setiap rilis minor mendapatkan pembaruan selama sekitar 24 bulan"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "Mereka memiliki satu rilis besar setiap 12 bulan"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "Mereka hadir dengan pesta peluncuran yang bisa diikuti oleh semua orang 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "Semua yang disebutkan di atas (dan Anda dapat tetap menggunakan Leap 16 hingga tahun 2033!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE juga memiliki edisi “immutable”. Apa artinya itu?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "Menggunakan sistem dasar yang hanya dapat dibaca dan pembaruan yang aman menggunakan alat khusus"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "Tidak dapat dipasang pada laptop"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "Distribusi yang tidak pernah mengubah wallpaper"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "Hanya tersedia dalam bentuk DVD yang dikirim melalui pos"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Apa itu Slowroll?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Varian Tumbleweed dengan pembaruan yang dikelompokkan ke dalam batch yang telah diuji"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Mode permainan balap di Linux"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "Sebuah distribusi yang hanya diperbarui sekali dalam sepuluh tahun"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "Julukan maskot yang baru"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "Apa saja beberapa alat dan proyek komunitas openSUSE yang penting?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "Open Build Service (OBS) untuk membangun perangkat lunak"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "openQA untuk pengujian otomatis"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "Wiki, Weblate, forum, dan lainnya"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "Semua ini merupakan bagian dari openSUSE"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "Tim yang mengelola infrastruktur openSUSE disebut ... openSUSE?"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Pahlawan"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Avengers"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Petir"
 
 msgid "Villains"
-msgstr ""
+msgstr "Penjahat"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 tidak lagi didukung. Apa yang bisa Anda lakukan dengan laptop itu?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "Pasang openSUSE di laptop Anda"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "Pasang openSUSE di laptop teman Anda"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "Pasang openSUSE di laptop nenek Anda"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "Semua ide ini sangat bagus"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Seekor kadal bunglon bernama Geeko"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Seekor penguin bernama Tux"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "Sebuah tumbleweed (semak kering) bergulir di gurun"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "Seekor kadal yang memakai kacamata hitam"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "Mengapa orang menyukai openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Rilis Leap yang stabil dan pembaruan Tumbleweed yang cepat"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Alat modern seperti Agama, Myrlyn, zypper, OBS, dan openQA"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "Komunitas global yang ramah dan terbuka untuk semua orang"
 
 msgid "All of these together"
-msgstr ""
+msgstr "Semua ini bersama-sama"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "Di mana Anda dapat membantu menerjemahkan openSUSE (dan bahkan kuis ini)?"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "Weblate di l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "Dengan berbisik menerjemahkan ke telinga kadal bunglon"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "Di markas Google Translate di sebuah bunker rahasia"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Dengan memposting terjemahan di thread Reddit yang acak"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "Di mana Anda bisa mendapatkan bantuan untuk openSUSE?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Tanyakan kepada temanmu yang menggunakan Linux"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "Di banyak portal dan situs web Linux lokal"
 
 msgid "Show All"
-msgstr ""
+msgstr "Tampilkan Semua"
 
 msgid "Level Up"
-msgstr ""
+msgstr "Naik Level"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
