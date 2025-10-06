@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-01 01:59+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
@@ -2559,211 +2548,211 @@ msgid "It is only useful for retro Linux distributions"
 msgstr "Només és útil per a distribucions retro de Linux."
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "Introducció a openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "Descobriu l'openSUSE, clic a clic."
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "Un projecte amb el suport de SUSE, fet per a tothom"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "Més que una distribució de Linux"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "Un lloc agradable per crear programari i aprendre eines noves"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "Totes aquestes coses juntes"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "L'openSUSE acaba de celebrar el seu 20è aniversari! En quin any va passar això?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – aquest any! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – llavors va començar Google, no OpenSUSE"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – aquest és el primer SUSE Linux, no openSUSE"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – l'any en què va néixer openSUSE, però no fa 20 anys"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "L'openSUSE té dues maneres principals d'obtenir actualitzacions. Una és un gran llançament un cop l'any, l'altra proporciona actualitzacions contínues. Com es diuen?"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Estable i Rolling"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Estable i Wobbly"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rolling i Sitting"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rolling i Leaping"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "Quines versions d'openSUSE són Rolling (sempre actualitzades)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa, i MicroSO"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll i Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "Totes són contínues."
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap i Leap Micro són les nostres distribucions estables. Què vol dir això?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "Cada versió menor rep actualitzacions durant uns 24 mesos."
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "Tenen un gran llançament cada 12 mesos."
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "Tenen festes de llançament a les quals tothom pot unir-s'hi 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "Tot l'anterior (i podeu quedar-vos al Leap 16 fins al 2033!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "L'openSUSE també té edicions immutables. Què vol dir això?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "Usen una base de sistema de només lectura i s'actualitzen de manera segura amb eines especials."
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "No es poden instal·lar en ordinadors portàtils."
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "Són distribucions que no canvien mai els fons de pantalla."
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "Només arriben en DVD per correu."
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Què és l'Slowroll?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Una variant de Tumbleweed amb actualitzacions agrupades en lots provats"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Un mode de joc de curses a Linux"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "Una distribució que només s'actualitza un cop per dècada"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "El nou sobrenom de la mascota"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "Quines són algunes de les eines i projectes clau de la comunitat d'openSUSE?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "Servei de compilació obert (OBS) per a la creació de programari"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "openQA per a proves automatitzades"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "El Wiki, el Weblate, els fòrums i més"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "Tot això forma part d'openSUSE."
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "L'equip que s'encarrega de la infraestructura d'openSUSE es diu openSUSE...?"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Herois"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Venjadors"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Trons"
 
 msgid "Villains"
-msgstr ""
+msgstr "Vilans"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "El Windows 10 ja no és compatible. Què podries fer amb aquest portàtil?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "Instal·lar-hi l'openSUSE"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "Instal·lar l'openSUSE al portàtil del teu amic"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "Instal·lar l'openSUSE al portàtil de la teva àvia"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "Totes són idees bones."
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Un camaleó anomenat Geeko"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Un pingüí anomenat Tux"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "Una herba rodadora rodant pel desert"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "Un llangardaix amb ulleres de sol"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "Per què a la gent li agrada l'openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Llançaments estables del Leap i actualitzacions ràpides del Tumbleweed"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Eines modernes com ara Agama, Myrlyn, zypper, OBS i openQA"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "Una comunitat mundial amable que acull tothom"
 
 msgid "All of these together"
-msgstr ""
+msgstr "Tot plegat"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "On podeu ajudar a traduir l'openSUSE (i fins i tot aquest qüestionari)?"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "Al Weblate, a l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "Xiuxiuejant traduccions a l'orella del camaleó"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "A la seu de Google Translate, en un búnquer secret"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Publicant traduccions en fils aleatoris de Reddit"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "On podeu obtenir ajuda amb l'openSUSE?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Preguntar a un amic que usi Linux"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "En molts portals i llocs web locals de Linux"
 
 msgid "Show All"
-msgstr ""
+msgstr "Mostra-ho tot"
 
 msgid "Level Up"
-msgstr ""
+msgstr "Puja de nivell"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
