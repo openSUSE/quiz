@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Gertjan Lettink <knurpht@glosscomputer.com>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -2375,145 +2375,145 @@ msgid "Automating SUSE Linux installations only"
 msgstr "Alleen voor het automatiseren van SUSE Linux installaties"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Oudere boerderijsimulatiespellen spelen"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "Waar focust NeuVector zich op?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Cloud-eigen beveiliging in container"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Netwerken sneller maken op Linux bureabladen"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "Bouwen van pakketten automatiseren"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "Het kameleon-logo groen kleuren"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "Wat is SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "Een virtualisatieplatform dat u gemakkelijk aanmaakt, migreert, een reservekopie van maakt en VM's herstelt op lege hardware van servers"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Een systeem gebouwd op Kubernetes dat KubeVirt gebruikt voor virtualisatie, Longhorn voor opslag en actieve containers ondersteunt naast VM's"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "Een oplossing die integreert met Rancher, container en VM-beheer combineert met netwerken en waarneembaarheid"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "Wat is openSUSE?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "Een gemeenschapsproject gesponsord door SUSE"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "Meer dan gewoon een gemeenschap rond een Linux distributie"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "Een verbazingwekkende plaats om projecten te ontwikkelen met hulpmiddelen zoals openQA, Open Build Service en een gemeenschap die u verwelkomt"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "Waar zijn SUSE BCI (Base Container Images) bekend voor?"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "Wordt opgeblazen met onnodige pakketten"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "Werken alleen op SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "Voor het bieden van echt open, flexibele en veilige images gebaseerd op SUSE Linux Enterprise"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "Staat voor 'Big Chameleon Initiative'"
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x openSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "Wanneer SUSE openSSL ontmoet, wachten verrassingen."
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "Hoeveel SUSE producten gebruiken OpenSSL?"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "Alle"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "Hoeveel SUSE ingenieurs zijn actief aan het werk op OpenSSL?"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "FIPS-modus inschakelen op een SUSE systeem kan welke van de volgende bijeffecten hebben?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "Het biedt alle cryptografische algoritmen, inclusief die onveilig zijn."
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "Het beperkt het gebruik van cryptografie tot alleen FIPS-gevalideerde algoritmen en binaire programma's."
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "Het heeft geen impact op systeemprestaties of compatibiliteit."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "U begint glimlachen zoals 'Hide the Pain Harold' mememan."
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Vanaf waar zullen SUSE ingenieurs in Brno, Tsjechië participeren in SUSE Hackweek 25?"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "Het OpenSSL kantoor"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "Starbucks"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Red Hat kantoor"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "Vaňkovka winkelgalerij"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "Waarom investeert SUSE in OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "Om terug bij te dragen aan de gemeenschap waar SUSE en vele anderen van afhankelijk zijn"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "Om kameleons veilig op het web te laten bladeren"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "Om een wedstrijd tegen pinguïns te winnen"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Om de opstarttijd van Linux korter te maken"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "SUSE ingenieurs dragen aan OpenSSL bij door"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "Actieve ontwikkeling en evalueren van code"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "Reparaties en nieuwe mogelijkheden bijdragen"
 
 msgid "Running enterprise-grade testing with tools like openQA"
 msgstr ""
