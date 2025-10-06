@@ -3,18 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-09-05 02:59+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-07 11:33+0000\nLast-Translator: Ettore Atalan <atalanttore@googlemail.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -319,13 +308,11 @@ msgstr "Was ist der Unterschied zwischen kernel-default und kernel-rt in openSUS
 msgid "kernel-rt supports older hardware"
 msgstr "kernel-rt unterstützt alte Hardware"
 
-#, fuzzy
 msgid "kernel-rt disables preemption"
-msgstr "kernel-rt schaltet preemtion aus"
+msgstr "kernel-rt deaktiviert Präemption"
 
-#, fuzzy
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr "kernel-rt hat volle Echtzeit preemption angeschaltet"
+msgstr "kernel-rt hat vollständige Echtzeit-Präemption aktiviert"
 
 msgid "kernel-rt has less security features"
 msgstr "kernel-rt hat weniger Sicherheits-features"
@@ -525,7 +512,6 @@ msgstr "Ungefähr 5%"
 msgid "More than 20%"
 msgstr "Mehr als 20%"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
 msgstr "Chamäleon-Spaß für Kinder"
 
@@ -2288,31 +2274,31 @@ msgid "Beijing"
 msgstr "Peking"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "SUSE-Geschichte"
 
 msgid "Discover SUSE, one click at a time."
 msgstr ""
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "Was ist das Geschäftsfeld von SUSE?"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "Bereitstellung von Enterprise-Linux-Lösungen für unternehmenskritische Systeme"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Moderne Container- und VM-Verwaltung mit Rancher und Harvester"
 
 msgid "Securing cloud-native workloads with NeuVector"
 msgstr ""
 
 msgid "All of the above"
-msgstr ""
+msgstr "Alle oben genannten Punkte"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "Wofür steht die Abkürzung SUSE?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung"
 
 msgid "Super User Space Explorer"
 msgstr ""
@@ -2324,28 +2310,28 @@ msgid "System Upgrade & Security Engine"
 msgstr ""
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "Wie viele Mitarbeiter hat SUSE weltweit?"
 
 msgid "Around 500"
-msgstr ""
+msgstr "Ungefähr 500"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "Ungefähr 1.200"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "Ungefähr 2.500"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "Ungefähr 10.000"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
 msgstr ""
 
 msgid "Prague"
-msgstr ""
+msgstr "Prag"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
 msgstr ""
@@ -2354,64 +2340,64 @@ msgid "Raleigh"
 msgstr ""
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "Welche der folgenden Aussagen über das SUSE-Logo ist richtig?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "Hubert Mantel, einer der Gründer, bat einen Freund, das Logo zu entwerfen, und allen außer ihm gefiel es tatsächlich."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "Wir sind viel besser darin geworden, Chamäleons zu zeichnen. Das aktuelle Logo ist die sechste Generation seit dem ersten Logo aus dem Jahr 1996"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "Das SUSE-Logo steht für Flexibilität und Anpassungsfähigkeit, genau wie das Chamäleon"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Wann wurde die erste Version von SUSE Linux veröffentlicht?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Wofür wird Rancher hauptsächlich verwendet?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Verwalten und Skalieren von Kubernetes-Clustern"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Virtuelle Kühe in der Cloud hüten"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Nur SUSE Linux-Installationen automatisieren"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Althergebrachte Ranch-Simulationsspiele spielen"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "Worauf konzentriert sich NeuVector?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Cloud-native Containersicherheit"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Schnellere Vernetzung auf Linux-Desktops"
 
 msgid "Automating package builds"
 msgstr ""
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "Einfärben des Chamäleon-Logos in Grün"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "Was ist SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
 msgstr ""
@@ -2423,10 +2409,10 @@ msgid "A solution that integrates with Rancher, combining container and VM manag
 msgstr ""
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "Was ist openSUSE?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "Ein von SUSE gesponsertes Gemeinschaftsprojekt"
 
 msgid "More than just one community Linux distribution"
 msgstr ""
@@ -2438,10 +2424,10 @@ msgid "What are SUSE BCI (Base Container Images) known for?"
 msgstr ""
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "Mit unnötigen Paketen überladen sein"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "Funktioniert nur unter SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
 msgstr ""
@@ -2450,34 +2436,34 @@ msgid "Standing for 'Big Chameleon Initiative'"
 msgstr ""
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x openSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "Wenn SUSE auf OpenSSL trifft, warten Überraschungen."
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "Wie viele SUSE-Produkte verwenden OpenSSL?"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "Alle"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "Wie viele SUSE-Ingenieure arbeiten aktiv an OpenSSL?"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42,3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
 msgstr ""
@@ -2489,7 +2475,7 @@ msgid "It restricts the use of cryptography to only FIPS-validated algorithms an
 msgstr ""
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "Es hat keine Auswirkungen auf die Systemleistung oder Kompatibilität."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
 msgstr ""
@@ -2498,19 +2484,19 @@ msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackw
 msgstr ""
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "Das OpenSSL-Büro"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "Starbucks"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Red Hat-Büro"
 
 msgid "Vaňkovka shopping gallery"
 msgstr ""
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "Warum investiert SUSE in OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
 msgstr ""
@@ -2519,28 +2505,28 @@ msgid "To make chameleons browse the web safely"
 msgstr ""
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "Um ein Rennen gegen Pinguine zu gewinnen"
 
 msgid "To shorten Linux kernel boot times"
 msgstr ""
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "SUSE-Ingenieure tragen zu OpenSSL bei durch"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "Aktive Entwicklung und Codeüberprüfungen"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "Bereitstellung von Fehlerbehebungen und neuen Funktionen"
 
 msgid "Running enterprise-grade testing with tools like openQA"
 msgstr ""
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "Welche Rolle spielt OpenSSL in SUSE Linux Enterprise?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "Es sichert die Kommunikation und kryptografische Vorgänge"
 
 msgid "It only adds fancy wallpapers"
 msgstr ""
@@ -2552,31 +2538,31 @@ msgid "It manages Rancher clusters"
 msgstr ""
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "Warum ist die FIPS-Zertifizierung in OpenSSL für SUSE wichtig?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "Es ermöglicht SUSE-Kunden in regulierten Branchen, strenge Sicherheitsstandards zu erfüllen"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "Es lässt das Chamäleon schneller seine Farbe wechseln"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "Es garantiert kostenlosen Kaffee für zertifizierte Systeme"
 
 msgid "It is only useful for retro Linux distributions"
 msgstr ""
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "Einführung in openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
 msgstr ""
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "Ein von SUSE unterstütztes Projekt für alle"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "Mehr als nur eine Linux-Distribution"
 
 msgid "A friendly place to build software and learn new tools"
 msgstr ""
@@ -2585,43 +2571,43 @@ msgid "All of these things together"
 msgstr ""
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE hat gerade seinen 20. Geburtstag gefeiert! In welchem Jahr war das?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – dieses Jahr! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – da begann Google, nicht openSUSE"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – das ist das erste SUSE Linux, nicht openSUSE"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – das Jahr, in dem openSUSE geboren wurde, aber nicht vor 20 Jahren"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
 msgstr ""
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stabil und rollierend"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stabil und wackelig"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rollend und sitzend"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rollend und springend"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
 msgstr ""
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa und MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll und Slowroll Micro"
 
 msgid "All of these are Rolling"
 msgstr ""
@@ -2690,64 +2676,64 @@ msgid "The team that takes care of openSUSE infrastructure is called openSUSE...
 msgstr ""
 
 msgid "Heroes"
-msgstr ""
+msgstr "Helden"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Rächer"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Blitze"
 
 msgid "Villains"
-msgstr ""
+msgstr "Bösewichte"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 wird nicht mehr unterstützt. Was könnten Sie mit diesem Laptop machen?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "openSUSE auf Ihrem Laptop installieren"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "openSUSE auf dem Laptop Ihres Freundes installieren"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "openSUSE auf dem Laptop Ihrer Großmutter installieren"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "Das sind alles großartige Ideen"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Ein Chamäleon namens Geeko"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Ein Pinguin namens Tux"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "Ein Steppenläufer rollt durch die Wüste"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "Eine Eidechse mit Sonnenbrille"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "Warum lieben Menschen openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
 msgstr ""
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Moderne Werkzeuge wie Agama, Myrlyn, zypper, OBS und openQA"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "Eine freundliche weltweite Gemeinschaft, die alle willkommen heißt"
 
 msgid "All of these together"
-msgstr ""
+msgstr "All dies zusammen"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
 msgstr ""
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "Weblate unter l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
 msgstr ""
@@ -2759,7 +2745,7 @@ msgid "By posting translations on random Reddit threads"
 msgstr ""
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "Wo kann man Hilfe zu openSUSE bekommen?"
 
 msgid "Ask your friend who uses Linux"
 msgstr ""
@@ -2768,7 +2754,7 @@ msgid "On many local Linux portals and websites"
 msgstr ""
 
 msgid "Show All"
-msgstr ""
+msgstr "Alles anzeigen"
 
 msgid "Level Up"
 msgstr ""
