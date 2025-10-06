@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-07 11:33+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2397,34 +2397,34 @@ msgid "What is SUSE Harvester?"
 msgstr "Čo je SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "Virtualizačná platforma, ktorá vám umožňuje jednoducho vytvárať, migrovať, zálohovať a obnovovať virtuálne stroje na fyzických serveroch"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Systém postavený na Kubernetes, ktorý používa KubeVirt na virtualizáciu, Longhorn na ukladanie a podporuje prevádzku kontajnerov spolu s virtuálnymi strojmi"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "Riešenie, ktoré sa integruje s nástrojom Rancher a kombinuje správu kontajnerov a virtuálnych strojov so sieťovaním a pozorovateľnosťou"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "Čo je openSUSE?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "Komunitný projekt sponzorovaný SUSE"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "Viac ako len jedna komunitná linuxová distribúcia"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "Úžasné miesto pre vývoj projektov s nástrojmi ako openQA, Open Build Service a srdečnou komunitou"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "Čím sú známe SUSE BCI (Base Container Images)?"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "Preplnené zbytočnými balíkmi"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "Fungujúce iba na SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
 msgstr ""
