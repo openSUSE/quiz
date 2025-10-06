@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-01 01:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "不変性"
@@ -2559,211 +2548,211 @@ msgid "It is only useful for retro Linux distributions"
 msgstr "古い Linux ディストリビューションでのみ有用であるため"
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "openSUSE の概要"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "openSUSE について 1 つずつ学んでいきましょう。"
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "誰にでも使用できることを目的とした、 SUSE 社サポートのプロジェクト"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "1 つの Linux ディストリビューションを超越したもの"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "ソフトウエアを構築したり新しいツールについて学んだりすることができるフレンドリーな場所"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "これら全て"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE はちょうど 20 周年になります！ それはいつのこと？"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 年 (今年🎉)"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 年 (openSUSE ではなく Google 社が設立された年)"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 年 (openSUSE ではなく SUSE Linux の最初のバージョンが公開された年)"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 年 (openSUSE が生まれた年ですが、20 年前ではありません)"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE では更新手法として 2 種類の形態を提供しています。 1 つは年単位で行われる大がかりなリリースによるもの、もう 1 つは適宜公開される更新によるものがあります。このような仕組みを総称してなんと呼ぶ？"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stable and Rolling (安定版とローリングリリース版)"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stable and Wobbly (安定版と不安定版)"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rolling and Sitting (ローリングリリース版とシッティング版)"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rolling and Leaping (ローリングリリース版とリープ版)"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "openSUSE のうち、ローリングリリース (常に最新版に更新される) 版はどれ？"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa, MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll, Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "これら全てがローリングリリース版"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap と Leap Micro はいずれも安定版のディストリビューションです。これが意味するものは？"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "各マイナーリリースは 24 ヶ月間サポートが提供される"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "12 ヶ月ごとに 1 つの大きなリリースが提供される"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "誰でも参加できるリリースパーティ 🎉 が開催される"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "これら全て (Leap 16 については 2033 年までのサポートです)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE には \"不変型\" のエディションがあります。これが意味するものは？"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "読み込み専用のベースシステムがあり、特別なツールを利用して安全に更新できる"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "ラップトップにはインストールできない"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "壁紙を変更できないディストリビューションである"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "DVD 形式でしか提供されておらず、郵送してもらう必要がある"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Slowroll とは何？"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Tumbleweed の派生形で、まとめてテストすることで更新を提供するもの"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Linux でのレーシングゲームモード"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "10 年に 1 回しか更新できないディストリビューション"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "マスコットの新しい名前"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "主要な openSUSE コミュニティツールやプロジェクトにはどのようなものがある？"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "ソフトウエアを構築するための Open Build Service (OBS)"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "テスト自動化のための openQA"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "Wiki, Weblate, フォーラムなど"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "これら全てが openSUSE として提供されている"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "openSUSE のインフラストラクチャを管理しているチームの名前は、 \"openSUSE ?\" ？"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Heroes"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Avengers"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Thunderbolts"
 
 msgid "Villains"
-msgstr ""
+msgstr "Villains"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 のサポートが終了します。ラップトップではどのような対処方法がある？"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "お使いのラップトップに openSUSE をインストールする"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "友人のラップトップに openSUSE をインストールする"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "母親のラップトップに openSUSE をインストールする"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "これら全てが素晴らしいアイディア"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Geeko という名前のカメレオン"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Tux という名前のペンギン"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "砂漠に転がるタンブルウィード (回転草)"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "サングラスをかけたトカゲ"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "なぜ openSUSE が愛されるのか？"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Leap で安定版のリリースを、 Tumbleweed で最新版をそれぞれ提供するから"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Agama, Myrlyn, zypper, OBS, openQA 等のモダンなツールが提供されているから"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "参加歓迎のワールドワイドな友好的コミュニティが提供されているから"
 
 msgid "All of these together"
-msgstr ""
+msgstr "これら全て"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "openSUSE (およびこのクイズ自身) の翻訳を支援するには、どこから行う？"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "l10n.opensuse.org にある Weblate"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "カメレオンの耳に翻訳文をささやく"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "秘密の場所にある Google 翻訳の本社"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Reddit のスレッドへの翻訳文の投稿"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "openSUSE で支援を求めるにはどうすればよい？"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Linux を使用する友人に尋ねる"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "数多く存在する Linux ポータルや Web サイトなどを活用する"
 
 msgid "Show All"
-msgstr ""
+msgstr "全てを表示"
 
 msgid "Level Up"
-msgstr ""
+msgstr "レベルアップ"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
