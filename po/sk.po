@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-08 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-10 14:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2457,34 +2457,34 @@ msgid "3"
 msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "Ktoré z nasledujúcich vedľajších následkov môže mať povolenie režimu FIPS v systéme SUSE?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "Umožňuje všetky šifrovacie algoritmy, vrátane tých, ktoré nie sú bezpečné."
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "Obmedzuje používanie šifrovania iba na algoritmy a binárne súbory overené podľa FIPS."
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "Nemá to žiadny vplyv na výkon alebo kompatibilitu systému."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "Začnete sa usmievať ako chlapík z meme 'Hide the Pain Harold'."
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Odkiaľ sa budú inžinieri SUSE v Brne v Česku podieľať na SUSE Hackweek 25?"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "Kancelária OpenSSL"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "Starbucks"
 
 msgid "Red Hat office"
 msgstr ""
