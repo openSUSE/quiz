@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-06 09:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-12 20:59+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -2516,94 +2516,94 @@ msgid "Contributing fixes and new features"
 msgstr "Reparaties en nieuwe mogelijkheden bijdragen"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "Testen op ondernemingsniveau uitvoeren met hulpmiddelen zoals openQA"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "Welke rol speelt OpenSSL in SUSE Linux Enterprise?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "Het verzekert communicatie en cryptografische bewerkingen"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "Het voegt alleen mooie achtergrondafbeeldingen toe"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Het zorgt dat Open Build Service sneller werkt"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Het beheert Rancher clusters"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "Waarom is FIPS certificatie in OpenSSL belangrijk voor SUSE?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "Het biedt klanten van SUSE in gereguleerde industrieën om te voldoen aan strikte beveiligingsstandaarden"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "Het maakt dat de kameleon sneller van kleur verandert"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "Het garandeert vrije koffie voor gecertificeerde systemen"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "Het is alleen nuttig voor oudere Linux distributies"
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "Introductie in openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "Ontdek openSUSE, één klik tegelijk."
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "Een project ondersteund door SUSE, gemaakt voor iedereen"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "Meer dan gewoon een Linux distributie"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "Een vriendelijke plaats om software te bouwen en nieuwe hulpmiddelen te leren"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "Al deze dingen samen"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE vierde net zijn 20ste verjaardag! In welk jaar gebeurde dat?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – dit jaar! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – dat is toen Google begon, niet openSUSE"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – dat is de eerste SUSE Linux, niet openSUSE"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – het jaar dat openSUSE is geboren, maar niet 20 jaar geleden"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE heeft twee hoofd manieren om elementen voor bijwerken te krijgen. Eén is een grote vrijgave eenmaal per jaar, de andere geeft deze voortdurend. Hoe worden ze genoemd?"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stabiel en rollend"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stabiel en wiebelig"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rollend en zittend"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rollend en springend"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "Welke openSUSE versies zijn rollend (altijd bijgewerkt)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa en MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll en Slowroll Micro"
 
 msgid "All of these are Rolling"
 msgstr ""
