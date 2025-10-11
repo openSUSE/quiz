@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-10 14:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-11 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2487,64 +2487,64 @@ msgid "Starbucks"
 msgstr "Starbucks"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Kancelária Red Hat"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "Nákupná galéria Vaňkovka"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "Prečo SUSE investuje do OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "Prispieť späť komunite, na ktorú sa SUSE a mnoho ďalších spolieha"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "Umožniť chameleónom bezpečne prehliadať web"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "Vyhrať preteky proti tučniakom"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Skrátiť čas spúšťania jadra Linuxu"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "Inžinieri SUSE prispievajú do OpenSSL prostredníctvom"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "Aktívny vývoj a kontroly kódu"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "Prispievanie opravami a novými funkciami"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "Vykonávanie testovania na podnikovej úrovni pomocou nástrojov ako openQA"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "Akú úlohu zohráva OpenSSL v SUSE Linux Enterprise?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "Zabezpečuje komunikáciu a šifrovacie operácie"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "Pridáva iba efektné tapety"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Zrýchľuje chod Open Build Service"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Spravuje klastre Rancher"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "Prečo je certifikácia FIPS v OpenSSL dôležitá pre SUSE?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "Umožňuje zákazníkom SUSE v regulovaných odvetviach spĺňať prísne bezpečnostné štandardy"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "Vďaka tomu chameleón mení farby rýchlejšie"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "Zaručuje bezplatnú kávu pre certifikované systémy"
 
 msgid "It is only useful for retro Linux distributions"
 msgstr ""
