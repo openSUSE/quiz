@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-11 15:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-12 20:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2547,64 +2547,64 @@ msgid "It guarantees free coffee for certified systems"
 msgstr "Zaručuje bezplatnú kávu pre certifikované systémy"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "Je to užitočné len pre retro distribúcie Linuxu"
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "Predstavenie openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "Objavte openSUSE, jedným kliknutím za druhým."
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "Projekt podporovaný SUSE, určený pre všetkých"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "Viac ako len jedna linuxová distribúcia"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "Priateľské miesto na tvorbu softvéru a učenie sa nových nástrojov"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "Všetky tieto veci dohromady"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE práve oslávilo svoje 20. narodeniny! V ktorom roku sa to stalo?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – tento rok! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – vtedy začal Google, nie openSUSE"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – to je prvý SUSE Linux, nie openSUSE"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – rok, kedy vznikol openSUSE, ale nie pred 20 rokmi"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE má dva hlavné spôsoby získavania aktualizácií. Jedným z nich je veľká aktualizácia raz ročne, druhým sú neustále aktualizácie. Ako sa nazývajú?"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stabilné a rolujúce"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stabilné a rozkolísané"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rolujúce a sediace"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rolujúce a skákajúce"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "Ktoré verzie openSUSE sú rolujúce (vždy aktuálne)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa a MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll a Slowroll Micro"
 
 msgid "All of these are Rolling"
 msgstr ""
