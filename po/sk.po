@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-12 20:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-14 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2607,34 +2607,34 @@ msgid "Slowroll and Slowroll Micro"
 msgstr "Slowroll a Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "Všetky tieto sú rolujúce"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap a Leap Micro sú naše stabilné distribúcie. Čo to znamená?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "Každé minoritné vydanie dostáva aktualizácie približne 24 mesiacov"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "Majú jedno veľké vydanie každých 12 mesiacov"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "Vychádzajú s release party, na ktorých sa môže zúčastniť každý 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "Všetko vyššie uvedené (a môžete zostať na Leap 16 až do roku 2033!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE má aj “nemenné“ edície. Čo to znamená?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "Používajú základ systému len na čítanie a bezpečne sa aktualizujú pomocou špeciálnych nástrojov"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "Nemôžu byť nainštalované na notebookoch"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "Sú to distribúcie, ktoré nikdy nemenia tapety"
 
 msgid "They come only as DVDs by mail"
 msgstr ""
