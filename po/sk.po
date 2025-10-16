@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-14 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-16 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2637,64 +2637,64 @@ msgid "They are distributions that never change wallpapers"
 msgstr "Sú to distribúcie, ktoré nikdy nemenia tapety"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "Sú dostupné iba ako DVD zasielané poštou"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Čo je Slowroll?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Varianta Tumbleweed s aktualizáciami zoskupenými do testovaných dávok"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Režim pretekárskej hry v Linuxe"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "Distribúcia, ktorá sa aktualizuje len raz za dekádu"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "Nová prezývka maskota"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "Aké sú niektoré z kľúčových nástrojov a projektov komunity openSUSE?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "Open Build Service (OBS) pre zostavovanie softvéru"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "openQA pre automatizované testovanie"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "Wiki, Weblate, fóra a ďalšie"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "Všetko toto je súčasťou openSUSE"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "Tím, ktorý sa stará o infraštruktúru openSUSE, sa nazýva openSUSE...?"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Heroes"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Avengers"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Thunderbolts"
 
 msgid "Villains"
-msgstr ""
+msgstr "Villains"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 už nie je podporovaný. Čo by ste mohli robiť s takýmto notebookom?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "Nainštalovať openSUSE na váš notebook"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "Nainštalovať openSUSE na notebook vášho priateľa"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "Nainštalovať openSUSE na notebook vašej babičky"
 
 msgid "All of these are great ideas"
 msgstr ""
