@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-16 18:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-18 20:59+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2697,64 +2697,64 @@ msgid "Install openSUSE on your grandmother’s laptop"
 msgstr "Nainštalovať openSUSE na notebook vašej babičky"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "Všetky tieto nápady sú skvelé"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Chameleón nazývaný Geeko"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Tučniak nazývaný Tux"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "Tumbleweed rolujúci sa v púšti"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "Lizard v slnečných okuliaroch"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "Prečo majú ľudia radi openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Stabilné vydania Leap a rýchle aktualizácie Tumbleweed"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Moderné nástroje ako Agama, Myrlyn, zypper, OBS a openQA"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "Priateľská celosvetová komunita, ktorá víta každého"
 
 msgid "All of these together"
-msgstr ""
+msgstr "Toto všetko dohromady"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "Kde môžete pomôcť preložiť openSUSE (a dokonca aj tento kvíz)?"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "Weblate na l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "Šepkaním prekladov do ucha chameleónovi"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "V centrále Google Translate v tajnom bunkri"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Zverejňovaním prekladov v náhodných vláknach na Reddite"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "Kde môžete získať pomoc s openSUSE?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Požiadajte svojho priateľa, ktorý používa Linux"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "Na mnohých miestnych linuxových portáloch a webových stránkach"
 
 msgid "Show All"
-msgstr ""
+msgstr "Zobraziť všetko"
 
 msgid "Level Up"
-msgstr ""
+msgstr "Úroveň vyššie"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
