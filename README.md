@@ -1,5 +1,5 @@
-# 🦎 openSUSE-quiz 🦎
-
+# 🦎 Fork of openSUSE-quiz 🦎
+Oryginalne README poniżej
 <!-- Badges -->
 
 [![Powered by openSUSE](https://img.shields.io/badge/powered%20by-openSUSE-6da741?logo=opensuse&logoColor=white)](https://www.opensuse.org/)
