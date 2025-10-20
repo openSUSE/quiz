@@ -40,7 +40,7 @@ function _(str) {
 const USERNAME_POLICY =
   process.env.USERNAME_POLICY ||
   _(
-    "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+    "Podaj swoje imię i nazwisko"
   );
 
 module.exports = {

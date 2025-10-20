@@ -1,0 +1,21 @@
+{
+  "ignore": [
+    "data/stats.json",
+    "public/stats.json",
+    "netlify/functions/tmp/stats.json",
+    "**/*.json.sample",
+    "**/stats.json"
+  ],
+  "watch": [
+    "src/**/*",
+    "views/**/*",
+    "public/**/*.js",
+    "public/**/*.ejs",
+    "data/**/*.js"
+  ],
+  "ext": "js,ejs",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "verbose": false
+}

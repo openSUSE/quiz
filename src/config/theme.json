@@ -8,5 +8,10 @@
     "IMAGE": "img/SUSE.png",
     "TITLE": "SUSE",
     "PRIMARY_COLOR": "#30ba78"
+  },
+  "STRZELEC": {
+    "IMAGE": "img/STRZELEC.png",
+    "TITLE": "STRZELEC",
+    "PRIMARY_COLOR": "#ffcc00"
   }
 }

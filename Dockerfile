@@ -23,6 +23,7 @@ VOLUME /usr/src/app/data
 EXPOSE 3000
 
 # Define environment variables (optional, can be set at runtime)
+ENV THEME=STRZELEC
 # ENV PORT=3000
 # ENV RESET_TOKEN=supersecret
 
