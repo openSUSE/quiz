@@ -13,6 +13,9 @@ RUN npm install
 # Bundle app source
 COPY . .
 
+# Build CSS from LESS files
+RUN npm run build:css
+
 # Create a volume for stats.json to persist data
 VOLUME /usr/src/app/data
 
