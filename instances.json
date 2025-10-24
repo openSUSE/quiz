@@ -34,5 +34,12 @@
 	    ],
 	    "theme": "SUSE",
     },
+    "university": {
+	    "quizzes": [
+		    "suse",
+        "opensuse_intro",
+	    ],
+	    "theme": "SUSE",
+    },
   }
 }
