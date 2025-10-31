@@ -2802,9 +2802,6 @@ msgstr ""
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
 msgstr ""
 
-msgid "All of the above"
-msgstr ""
-
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
 msgstr ""
 
@@ -2827,9 +2824,6 @@ msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
 msgstr ""
 
 msgid "Linus Torvalds"
-msgstr ""
-
-msgid "Richard Stallman"
 msgstr ""
 
 msgid "Eric S. Raymond "
