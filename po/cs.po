@@ -2386,563 +2386,563 @@ msgstr "Zabezpečení kontejnerů v prostředí cloud-native"
 msgid "Making networking faster on Linux desktops"
 msgstr "Zrychlování síťových připojení na linuxových desktopových systémech"
 
+ChatGPT said:
+
 msgid "Automating package builds"
-msgstr ""
+msgstr "Automatizace sestavování balíčků"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "Zbarvení loga chameleona do zelena"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "Co je SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "Virtualizační platforma, která umožňuje snadno vytvářet, migrovat, zálohovat a obnovovat virtuální stroje na fyzických serverech"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Systém postavený na Kubernetes, který používá KubeVirt pro virtualizaci, Longhorn pro úložiště a podporuje běh kontejnerů vedle virtuálních strojů"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "Řešení integrované s Rancherem, které kombinuje správu kontejnerů a virtuálních strojů se sítí a monitorováním"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "Co je openSUSE?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "Komunitní projekt sponzorovaný společností SUSE"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "Více než jen jedna komunitní linuxová distribuce"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "Úžasné místo pro vývoj projektů s nástroji jako openQA, Open Build Service a přátelskou komunitou"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "Čím jsou SUSE BCI (Base Container Images) známé?"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "Tím, že jsou přeplněné zbytečnými balíčky"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "Fungují pouze na SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "Tím, že nabízejí skutečně otevřené, flexibilní a bezpečné obrazy založené na SUSE Linux Enterprise"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "Znamenají „Big Chameleon Initiative“ (Velká iniciativa chameleona)"
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x openSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "Když se SUSE potká s openSSL, čekají tě překvapení."
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "Kolik produktů SUSE používá OpenSSL?"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "Všechny"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "Kolik inženýrů SUSE aktivně pracuje na OpenSSL?"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "Povolení režimu FIPS v systému SUSE může mít který z následujících vedlejších účinků?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "Umožňuje všechny kryptografické algoritmy, včetně nebezpečných."
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "Omezuje použití kryptografie pouze na FIPS certifikované algoritmy a binárky."
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "Nemá žádný vliv na výkon nebo kompatibilitu systému."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "Začneš se usmívat jako chlápek z memu 'Hide the Pain Harold'."
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Odkud se inženýři SUSE v Brně zúčastní SUSE Hackweek 25?"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "Kancelář OpenSSL"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "Starbucks"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Kancelář Red Hatu"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "Obchodní galerie Vaňkovka"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "Proč SUSE investuje do OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "Aby přispěla zpět komunitě, na kterou SUSE a mnozí další spoléhají"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "Aby chameleoni mohli bezpečně procházet web"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "Aby vyhrála závod proti tučňákům"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Aby zkrátila dobu spouštění linuxového jádra"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "Inženýři SUSE přispívají do OpenSSL tím, že"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "Aktivně vyvíjejí a provádějí kontrolu kódu"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "Přispívají opravami a novými funkcemi"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "Provádějí testování na podnikové úrovni pomocí nástrojů jako openQA"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "Jakou roli hraje OpenSSL v SUSE Linux Enterprise?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "Zabezpečuje komunikaci a kryptografické operace"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "Přidává pouze stylové tapety"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Způsobuje, že Open Build Service běží rychleji"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Spravuje clustery Rancher"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "Proč je certifikace FIPS v OpenSSL důležitá pro SUSE?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "Umožňuje zákazníkům SUSE v regulovaných odvětvích splnit přísné bezpečnostní standardy"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "Díky tomu chameleon rychleji mění barvy"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "Zaručuje zdarma kávu pro certifikované systémy"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "Je užitečná pouze pro retro linuxové distribuce"
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "Úvod do openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "Objevuj openSUSE, jedno kliknutí po druhém."
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "Projekt podporovaný společností SUSE, vytvořený pro všechny"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "Více než jen jedna linuxová distribuce"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "Přátelské místo pro tvorbu softwaru a učení se novým nástrojům"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "Všechny tyto věci dohromady"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE právě oslavilo své 20. narozeniny! Ve kterém roce se to stalo?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – letos! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – tehdy vznikl Google, ne openSUSE"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – to byl první SUSE Linux, ne openSUSE"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – rok, kdy se zrodilo openSUSE, ale ještě ne před 20 lety"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE má dva hlavní způsoby aktualizací. Jeden je velké vydání jednou ročně, druhý poskytuje aktualizace neustále. Jak se jmenují?"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stable a Rolling"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stable a Wobbly"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rolling a Sitting"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rolling a Leaping"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "Které verze openSUSE jsou Rolling (vždy aktuální)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa a MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll a Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "Všechny tyto verze jsou Rolling"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap a Leap Micro jsou naše stabilní distribuce. Co to znamená?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "Každé dílčí vydání dostává aktualizace přibližně po dobu 24 měsíců"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "Mají jedno velké vydání každých 12 měsíců"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "Jsou doprovázeny vydávacími večírky, ke kterým se může každý připojit 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "Vše výše uvedené (a na Leap 16 můžeš zůstat až do roku 2033!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE má také „neměnné“ edice. Co to znamená?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "Používají systémový základ pouze pro čtení a bezpečně se aktualizují pomocí speciálních nástrojů"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "Nelze je nainstalovat na notebooky"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "Jsou to distribuce, které nikdy nemění tapety"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "Dodávají se pouze na DVD poštou"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Co je Slowroll?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Varianta Tumbleweedu s aktualizacemi seskupenými do otestovaných dávek"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Závodní herní mód v Linuxu"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "Distribuce, která se aktualizuje jen jednou za desetiletí"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "Nová přezdívka maskota"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "Které nástroje a projekty jsou klíčové pro komunitu openSUSE?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "Open Build Service (OBS) pro sestavování softwaru"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "openQA pro automatizované testování"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "Wiki, Weblate, fóra a další"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "Všechny tyto věci jsou součástí openSUSE"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "Tým, který se stará o infrastrukturu openSUSE, se nazývá openSUSE...?"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Heroes"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Avengers"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Thunderbolts"
 
 msgid "Villains"
-msgstr ""
+msgstr "Villains"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 již nejsou podporovány. Co můžeš udělat s tím notebookem?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "Nainstaluj openSUSE na svůj notebook"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "Nainstaluj openSUSE na notebook svého kamaráda"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "Nainstaluj openSUSE na notebook své babičky"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "Všechny tyto nápady jsou skvělé"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Chameleon jménem Geeko"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Tučňák jménem Tux"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "Koule trávy kutálející se pouští"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "Ještěrka v slunečních brýlích"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "Proč lidé milují openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Stabilní vydání Leap a rychle se vyvíjející aktualizace Tumbleweed"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Moderní nástroje jako Agama, Myrlyn, zypper, OBS a openQA"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "Přátelská celosvětová komunita, která vítá každého"
 
 msgid "All of these together"
-msgstr ""
+msgstr "Všechny tyto věci dohromady"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "Kde můžeš pomoci překládat openSUSE (a dokonce i tento kvíz)?"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "Weblate na l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "Šeptáním překladů chameleonovi do ucha"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "V centrále Google Překladače v tajném bunkru"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Zasíláním překladů do náhodných vláken na Redditu"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "Kde můžeš získat pomoc s openSUSE?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Zeptej se kamaráda, který používá Linux"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "Na mnoha místních linuxových portálech a webech"
 
 msgid "Show All"
-msgstr ""
+msgstr "Zobrazit vše"
 
 msgid "Level Up"
-msgstr ""
+msgstr "Postup na vyšší úroveň"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Cesta podpory hardwaru na platformě Arm."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Co je Arm v kontextu výpočetní techniky?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Rodina energeticky úsporných architektur procesorů široce používaných v mobilních zařízeních, vestavěných systémech a serverech"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Robotická končetina, která kompiluje tvůj kód"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "Zvláštní oddělení SUSE pro přetlačování s chybami jádra"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Nový typ souborového systému vynalezený Geekem"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Co je Raspberry Pi 5?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Počítač velikosti kreditní karty využívající architekturu Arm"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Dostupný a energeticky úsporný malý počítač, ideální pro děti na prohlížení webu, sledování YouTube, učení programování nebo hraní jednoduchých her"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "Malý, ale výkonný server pro provoz domácího NASu, Home Assistantu, Nextcloudu nebo lokálního openSUSE mirroru"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Jaký je správný zápis architektury procesoru podporované openSUSE na Raspberry Pi 5?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm… nejsem si jistý"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "Kdo stojí za podporou u-bootu pro Raspberry Pi 5 v upstream jádru Linuxu?"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
-
-msgid "Linus Torvalds"
-msgstr "Linus Torvalds"
+msgstr "Ivan Ivanov a Matthias Brugger z týmu SUSE HW Enablement."
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond"
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Které edice openSUSE nabízejí speciální obrazy pro Raspberry Pi?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed a MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Pouze Tumbleweed, protože se nikdy nepřestává kutálet"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Pouze Leap 42.3, protože je věčný"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Pouze MicroOS, všechno ostatní roztálo"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Jaký je preferovaný formát obrazu pro openSUSE na Raspberry Pi?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Surový obraz disku (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe instalátor"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr ".iso obraz DVD vyžadující ruční pájení"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz plný snů"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE může běžet i na mobilních telefonech! Jaké instalační obrazy jsou dostupné pro PinePhone?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed s Phosh (pro fanoušky Purismu) a Tumbleweed s Plasma Mobile (pro milovníky KDE)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Leap Micro s GNOME Shellem pro ledničky"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Tumbleweed LXQt Edition pro otočné telefony"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "MicroOS Text Edition s Morseovským vstupním režimem"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Kde můžeš najít obrazy openSUSE pro zařízení s Arm, jako jsou Raspberry Pi, PinePhone nebo Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – přívětivý výchozí bod pro nejpoužívanější obrazy openSUSE"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm – portál Arm s odkazy a dokumentací"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – pro odvážné, kteří rádi procházejí ručně"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "Je openSUSE Tumbleweed Arm sestavován společně s balíčky x86_64?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "Ne, je sestavován samostatně jako součást openSUSE Ports"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Ano, všechno pochází z jednoho magického build serveru"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Pouze když je Měsíc v retrográdní poloze"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Ano, ale kompilují to tučňáci"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Který příkaz se běžně používá k zápisu obrazu openSUSE na SD kartu?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Z jakého typu úložiště mohou obrazy openSUSE pro Raspberry Pi bootovat?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD karta, USB nebo NVMe (na Pi 5)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Pouze z disket, pokud máš trpělivost"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Cloudová synchronizace pomocí poštovních holubů"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "Záloha na pásku, pokud dostatečně věříš"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Jaký je nejlepší způsob, jak zůstat v obraze o vývoji openSUSE Arm?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Sleduj mailing list openSUSE Arm a kanál Matrix (podrobnosti níže)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Požádej ChatGPT o denní úniky firmwaru"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Porad se s hvězdami za úplňku"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "Obnovuj get.opensuse.org, dokud nezačne blikat"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Pokud vyhraješ Raspberry Pi 5, co na něm můžeš spustit jako první?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Začni s openSUSE Tumbleweed pro Arm a objev plnohodnotné linuxové prostředí"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Nastav si osobní domácí server s Nextcloudem, Home Assistantem nebo vlastním openSUSE mirrorem"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Vyzkoušej zábavné experimenty jako retro hraní, multimediální centra nebo programování pro děti"
+
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
