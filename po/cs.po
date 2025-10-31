@@ -2386,6 +2386,8 @@ msgstr "Zabezpečení kontejnerů v prostředí cloud-native"
 msgid "Making networking faster on Linux desktops"
 msgstr "Zrychlování síťových připojení na linuxových desktopových systémech"
 
+ChatGPT said:
+
 msgid "Automating package builds"
 msgstr "Automatizace sestavování balíčků"
 
