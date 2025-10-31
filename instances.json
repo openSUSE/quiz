@@ -14,8 +14,9 @@
 	    // branding/theme to set (THEME) - defaults to "openSUSE"
 	    "theme": "SUSE",
     },
-    "linuxdays": {
+    "openalt": {
       "quizzes": [
+        "arm",
         "immutability",
         "kernel",
         "kids",
@@ -24,7 +25,7 @@
         "s390x",
         "yast",
         "zypper",
-        "stats"
+        "stats",
       ]
     },
     "suse": {
