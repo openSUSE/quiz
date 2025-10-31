@@ -1,18 +1,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Markéta Tišnovská <mtisnovs@seznam.cz>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-07 11:34+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-31 21:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2125,7 +2114,7 @@ msgid "Asia Summit Dragon"
 msgstr "Asijský drak"
 
 msgid "Challenge the dragon of knowledge"
-msgstr ""
+msgstr "Vyzvi draka vědění"
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
 msgstr "Ve kterém městě se konal první openSUSE Asia Summit?"
@@ -2143,259 +2132,259 @@ msgid "Tokyo, Japan"
 msgstr "Tokio, Japonsko"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
+msgstr "Kdy se konal openSUSE Asia Summit v Tokiu v Japonsku?"
 
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 msgid "2017 and 2024"
-msgstr ""
+msgstr "2017 a 2024"
 
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 msgid "Only 2024"
-msgstr ""
+msgstr "Pouze v 2024"
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Které z následujících měst NIKDY nehostilo openSUSE Asia Summit?"
 
 msgid "Denpasar"
-msgstr ""
+msgstr "Denpasar"
 
 msgid "Mumbai"
-msgstr ""
+msgstr "Mumbai"
 
 msgid "Taipei"
-msgstr ""
+msgstr "Taipei"
 
 msgid "Faridabad"
-msgstr ""
+msgstr "Faridabad"
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
+msgstr "V kterém městě se konal openSUSE Asia Summit v roce 2018?"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "Jakarta"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "Tokyo"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
+msgstr "Která z následujících zemí nikdy nehostila openSUSE Asia Summit?"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 msgid "India"
-msgstr ""
+msgstr "Indie"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesie"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
+msgstr "V roce 2016 se summit konal na Universitas Islam Indonesia. Ve kterém městě se tato univerzita nachází?"
 
 msgid "Yogyakarta"
-msgstr ""
+msgstr "Yogyakarta"
 
 msgid "Bandung"
-msgstr ""
+msgstr "Bandung"
 
 msgid "Surabaya"
-msgstr ""
+msgstr "Surabaya"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
+msgstr "Kde se konal openSUSE Asia Summit v roce 2019?"
 
 msgid "Seoul"
-msgstr ""
+msgstr "Seoul"
 
 msgid "Denpasar (Bali)"
-msgstr ""
+msgstr "Denpasar (Bali)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
+msgstr "openSUSE Asia Summit v letech 2020 a 2021 se konal online. Jaký byl hlavní důvod?"
 
 msgid "Budget cuts"
-msgstr ""
+msgstr "Rozpočtové škrty"
 
 msgid "Lack of organizers"
-msgstr ""
+msgstr "Nedostatek organizátorů"
 
 msgid "COVID-19 pandemic"
-msgstr ""
+msgstr "COVID-19 pandemie"
 
 msgid "Scheduling conflicts"
-msgstr ""
+msgstr "Kolize v harmonogramu"
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
+msgstr "Kdo obvykle navrhuje oficiální logo pro openSUSE Asia Summit?"
 
 msgid "Geenardo Da Vinci"
-msgstr ""
+msgstr "Geenardo Da Vinci"
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
+msgstr "Profesionální grafický designér najatý nadací openSUSE"
 
 msgid "The community through an annual design contest"
-msgstr ""
+msgstr "Komunita prostřednictvím každoroční soutěže o návrh loga"
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
+msgstr "Vývojáři z infra týmu openSUSE"
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
+msgstr "Který openSUSE Asia Summit měl červené logo?"
 
 msgid "2016 in Beijing"
-msgstr ""
+msgstr "2016 v Pekingu"
 
 msgid "2017 in Tokyo"
-msgstr ""
+msgstr "2017 v Tokyu"
 
 msgid "2018 in Taipei"
-msgstr ""
+msgstr "2018 v Taipei"
 
 msgid "2019 in Bali"
-msgstr ""
+msgstr "2019 na Bali"
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
+msgstr "Který openSUSE Asia Summit poprvé použil aplikaci openSUSE Quiz?"
 
 msgid "2025 in Faridabad"
-msgstr ""
+msgstr "2025 ve Faridabadu"
 
 msgid "2014 in Beijing"
-msgstr ""
+msgstr "2014 v Pekingu"
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
+msgstr "Nejdelší jízda výtahem na openSUSE Asia Summit byla v?"
 
 msgid "Beijing"
-msgstr ""
+msgstr "Pekingu"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "Příběh SUSE"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "Objevuj SUSE, klik po kliku."
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "Jaké je zaměření podnikání společnosti SUSE?"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "Poskytování Enterprise Linux řešení pro kritické systémy"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Poskytování moderní správy kontejnerů a virtuálních strojů pomocí Rancheru a Harvesteru"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "Zabezpečení cloud-native pracovních zátěží pomocí NeuVectoru"
 
 msgid "All of the above"
-msgstr ""
+msgstr "Vše výše uvedené"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "Co znamená zkratka SUSE?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (Vývoj softwaru a systémů)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "System Upgrade & Security Engine"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "Kolik má SUSE zaměstnanců po celém světě?"
 
 msgid "Around 500"
-msgstr ""
+msgstr "Asi 500"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "Asi 1 200"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "Asi 2 500"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "Asi 10 000"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "SUSECON 2026 se blíží v dubnu! Které město bude hostit největší konferenci SUSE?"
 
 msgid "Prague"
-msgstr ""
+msgstr "Praha"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
-msgstr ""
+msgstr "Redmont"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "Raleigh"
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "Které z následujících tvrzení je pravdivé o logu SUSE?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "Hubert Mantel, jeden ze zakladatelů, požádal přítele, aby navrhl logo, a všem kromě něj se vlastně líbilo."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "V kreslení chameleonů jsme se hodně zlepšili. Současné logo je již šestá generace od prvního z roku 1996"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "Logo SUSE představuje flexibilitu a přizpůsobivost, stejně jako chameleon"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Kdy byla vydána první verze SUSE Linuxu?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
 msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "K čemu se Rancher primárně používá?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Správa a škálování Kubernetes clusterů"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Nahánění virtuálních krav v cloudu"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Automatizace pouze instalací SUSE Linuxu"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Hraní starých simulátorů farmaření"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "Na co se zaměřuje NeuVector?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Zabezpečení kontejnerů v prostředí cloud-native"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Zrychlování síťových připojení na linuxových desktopových systémech"
 
 msgid "Automating package builds"
 msgstr ""
