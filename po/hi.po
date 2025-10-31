@@ -2776,3 +2776,192 @@ msgstr ""
 
 msgid "Level Up"
 msgstr ""
+
+msgid "openSUSE Arm"
+msgstr ""
+
+msgid "Hardware Enablement journey on Arm."
+msgstr ""
+
+msgid "What is Arm, in the context of computing?"
+msgstr ""
+
+msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
+msgstr ""
+
+msgid "A robotic limb that compiles your code"
+msgstr ""
+
+msgid "A special SUSE department for arm wrestling kernel bugs"
+msgstr ""
+
+msgid "A new kind of filesystem invented by Geeko"
+msgstr ""
+
+msgid "What is the Raspberry Pi 5?"
+msgstr ""
+
+msgid "A credit-card-sized computer using Arm architecture"
+msgstr ""
+
+msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
+msgstr ""
+
+msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
+msgstr ""
+
+msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "Arm"
+msgstr ""
+
+msgid "ARM!"
+msgstr ""
+
+msgid "Armmm… not sure"
+msgstr ""
+
+msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
+msgstr ""
+
+msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
+msgstr ""
+
+msgid "Linus Torvalds"
+msgstr ""
+
+msgid "Eric S. Raymond "
+msgstr ""
+
+msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
+msgstr ""
+
+msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
+msgstr ""
+
+msgid "Only Tumbleweed, because it never stops rolling"
+msgstr ""
+
+msgid "Just Leap 42.3 because it’s eternal"
+msgstr ""
+
+msgid "Only MicroOS, everything else melted"
+msgstr ""
+
+msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
+msgstr ""
+
+msgid "Raw disk image (.raw.xz)"
+msgstr ""
+
+msgid ".exe installer"
+msgstr ""
+
+msgid ".iso DVD image with manual soldering required"
+msgstr ""
+
+msgid ".tar.gz full of dreams"
+msgstr ""
+
+msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
+msgstr ""
+
+msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
+msgstr ""
+
+msgid "Leap Micro with GNOME Shell for refrigerators"
+msgstr ""
+
+msgid "Tumbleweed LXQt Edition for rotary phones"
+msgstr ""
+
+msgid "MicroOS Text Edition with Morse input mode"
+msgstr ""
+
+msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
+msgstr ""
+
+msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
+msgstr ""
+
+msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
+msgstr ""
+
+msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
+msgstr ""
+
+msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
+msgstr ""
+
+msgid "No, it’s built separately as part of openSUSE Ports"
+msgstr ""
+
+msgid "Yes, it all comes from one magical build server"
+msgstr ""
+
+msgid "Only if the moon is in retrograde"
+msgstr ""
+
+msgid "Yes, but it’s compiled by penguins"
+msgstr ""
+
+msgid "Which command is commonly used to write the openSUSE image to an SD card?"
+msgstr ""
+
+msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+msgstr ""
+
+msgid "sudo print-image-now"
+msgstr ""
+
+msgid "cat image > coffee"
+msgstr ""
+
+msgid "rpm -i image.raw.xz"
+msgstr ""
+
+msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
+msgstr ""
+
+msgid "SD card, USB, or NVMe (on Pi 5)"
+msgstr ""
+
+msgid "Only floppy disks with patience"
+msgstr ""
+
+msgid "Cloud sync via pigeon post"
+msgstr ""
+
+msgid "Tape backup, if you believe hard enough"
+msgstr ""
+
+msgid "What’s the best way to stay updated on openSUSE Arm development?"
+msgstr ""
+
+msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
+msgstr ""
+
+msgid "Ask ChatGPT for daily firmware leaks"
+msgstr ""
+
+msgid "Consult the stars under a full moon"
+msgstr ""
+
+msgid "Refresh get.opensuse.org until it blinks"
+msgstr ""
+
+msgid "If you win this Raspberry Pi 5, what could you run on it first?"
+msgstr ""
+
+msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
+msgstr ""
+
+msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
+msgstr ""
+
+msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
+msgstr ""
