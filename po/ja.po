@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-06 09:59+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-02 00:04+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14\n"
 
 msgid "Immutability"
 msgstr "不変性"
@@ -2766,193 +2755,193 @@ msgid "Level Up"
 msgstr "レベルアップ"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Arm ハードウエア対応への取り組みに関するクイズです。"
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "コンピューティングの世界で Arm とは？"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "モバイルデバイスや組み込みデバイス、サーバ等で幅広く用いられている高効率の CPU アーキテクチャファミリ"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "あなたのコードをコンパイルするためのロボットの手足"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "カーネルバグを力ずくで解決するための特別な SUSE 社内の部署"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Geeko が発明した新しい種類のファイルシステム"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Raspberry Pi 5 とは何？"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Arm アーキテクチャを利用したクレジットカードサイズのコンピュータ"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "手ごろな価格で省電力な小型デスクトップ -- Web や YouTube 動画の閲覧のほか、コーディング学習や軽量ゲームなどが実行できる子供向けコンピュータ"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "家庭向けの NAS やホームアシスタント、 Nextcloud やローカルの openSUSE ミラーとしても動作させることのできる、小さいながらも有能なサーバ"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "openSUSE の対応するアーキテクチャのうち、 Raspberry Pi 5 で動作する CPU アーキテクチャの正式なスペルはどれ？"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm… よくわかりません"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "アップストリームの Linux カーネルで、 Raspberry Pi 5 に対する u-boot サポートを開発しているのは誰？"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "SUSE HW Enablement チームの Ivan Ivanov と Matthias Brugger 。"
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Raspberry Pi 向けに特別に用意されている openSUSE のエディションはどれ？"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed, MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Tumbleweed のみ (常に機能が追加され続けているため)"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Leap 42.3 のみ (永遠だから)"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "MicroOS (これ以外は全て溶けてしまったので)"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Raspberry Pi で openSUSE を動作させる際に使用する適切なイメージ形式はどれ？"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Raw ディスクイメージ (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe 形式のインストーラ"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr ".iso DVD イメージ (手作業での半田付けが必要)"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr "夢がいっぱいの .tar.gz"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE はモバイルデバイスでも動作します！ PinePhone 向けに利用できるインストールイメージはどれ？"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed with Phosh (Purism ファン向け) と Tumbleweed with Plasma Mobile (KDE 愛好者向け)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "冷蔵庫向け Leap Micro with GNOME Shell"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "黒電話向け Tumbleweed LXQt Edition"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "モールス信号入力モードに対応した MicroOS Text Edition"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Raspberry Pi や PinePhone, Pinebook 等の Arm デバイス向けの openSUSE イメージは、どこからダウンロードできる？"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – ほとんどの openSUSE イメージがダウンロードできる分かりやすいサイト"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "ja.opensuse.org/Portal:Arm – リンクやドキュメンテーションの書かれた Arm ポータル"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – ご自分で探したい勇者向け"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "openSUSE Tumbleweed の Arm 版パッケージは、 x86_64 版パッケージと同じ場所で構築されている？"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "いいえ、 openSUSE Ports の一部として個別に構築されている"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "はい、魔法のようなビルドサーバで構築されている"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "はい、ただし月が逆行している場合にのみ"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "はい、ペンギンさんが頑張っています"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "openSUSE のイメージを SD メモリカードに書き込む際、一般的に使用されているコマンドはどれ？"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "openSUSE の Raspberry Pi 版イメージを起動できるストレージの種類は？"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD メモリカード, USB メモリ, NVMe (Pi 5 のみ)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "面倒なフロッピィディスクのみ"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "伝書鳩を介したクラウド同期"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "十分な堅牢性を備えたテープバックアップ"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "openSUSE の Arm 版での開発にあたって、最新の情報を得ることができる方法はどれ？"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "openSUSE Arm メーリングリストの購読と Matrix チャンネルへの参加 (詳細は後述)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "毎日ファームウエアの欠陥を知らせてくれる ChatGPT"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "満月のもとで星に尋ねる"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "点滅するまで get.opensuse.org を更新し続ける"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Raspberry Pi 5 を購入したら、最初に実行できるのはどれ？"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Arm 版の openSUSE Tumbleweed を起動し、完全なデスクトップエクスペリエンスを堪能"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Nextcloud で個人用のホームサーバや openSUSE のミラーサイトを立ち上げたりする"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "古いゲームやメディアセンター、子供向けのコーディングプロジェクトなどの楽しい実験をやってみる"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
