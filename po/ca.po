@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-06 09:59+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-02 00:04+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14\n"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
@@ -2766,193 +2755,193 @@ msgid "Level Up"
 msgstr "Puja de nivell"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Viatge d'habilitació de maquinari a Arm."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Què és Arm, en el context informàtic?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Una família d'arquitectures de CPU d'alta eficiència energètica àmpliament usades en dispositius mòbils, sistemes integrats i servidors"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Una extremitat robòtica que compila codi"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "Un departament especial de SUSE per a lluitar contra errors del nucli amb els braços"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Un tipus de sistema de fitxers nou inventat per Geeko"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Què és la Raspberry Pi 5?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Un ordinador de la mida d'una targeta de crèdit amb arquitectura Arm"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Un escriptori petit i assequible i energèticament eficient: perfecte perquè la canalla navegui per la web, miri YouTube, aprengui a programar o jugui a jocs lleugers"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "Un servidor petit però capaç per executar un NAS domèstic, Home Assistant, Nextcloud o fins i tot una rèplica d'openSUSE local"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Quina és l'ortografia correcta de l'arquitectura de CPU compatible amb openSUSE a Raspberry Pi 5?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm… No n'estic segur."
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "Qui hi ha darrere del suport u-boot de Raspberry PI5 al nucli de Linux?"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "Ivan Ivanov i Matthias Brugger de l'equip de SUSE HW Enablement."
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Quines edicions d'openSUSE ofereixen imatges especialitzades per a Raspberry Pi?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed i MicroSO"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Només el Tumbleweed, perquè mai para de rodar"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Només el Leap 42.3 perquè és etern"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Només el MicroSO, tota la resta s'ha fos"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Quin és el format d'imatge preferit per a openSUSE a Raspberry Pi?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Imatge de disc en cru (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr "instal·lador .exe"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr "Imatge de DVD .iso amb soldadura manual necessària"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz ple de somnis"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "L'openSUSE també es pot executar en telèfons mòbils! Quines imatges d'instal·lació hi ha disponibles per al PinePhone?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed amb Phosh (per a fans del Purisme) i Tumbleweed amb Plasma Mobile (per a amants del KDE)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Leap Micro amb GNOME Shell per a refrigeradors"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Edició Tumbleweed LXQt per a telèfons rotatius"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "Edició de text de MicroSO amb mode d'entrada Morse"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "On puc trobar imatges d'openSUSE per a dispositius Arm com ara Raspberry Pi, PinePhone o Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org: el punt de partida fàcil per a les imatges d'openSUSE més usades"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm: el portal d'Arm amb enllaços i documentació"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed: per als valents a qui els agrada la navegació manual"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "L'openSUSE Tumbleweed Arm està construït juntament amb paquets x86_64?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "No, està construït per separat com a part dels les versions derivades d'openSUSE."
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Sí, tot prové d'un servidor de compilació màgic."
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Només si la lluna té fase minvant"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Sí, però està compilat per pingüins."
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Quina ordre s'usa habitualment per escriure la imatge d'openSUSE en una targeta SD?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Des de quin tipus d'emmagatzematge poden arrencar les imatges d'openSUSE Raspberry Pi?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "Targeta SD, USB o NVMe (amb Pi 5)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Només disquets, amb paciència"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Sincronització amb el núvol mitjançant un pal de coloms"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "Còpia de seguretat en cinta, si hi creus prou"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Quina és la millor manera de mantenir-se al dia sobre el desenvolupament de l'openSUSE Arm?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Seguir la llista de correu d'openSUSE Arm i el canal Matrix (detalls a continuació)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Demanar a ChatGPT filtracions diàries sobre programari"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Consultar les estrelles sota la lluna plena"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "Refrescar get.opensuse.org fins que parpellegi"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Si guanyeu aquesta Raspberry Pi 5, què hi podríeu executar primer?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Començar amb openSUSE Tumbleweed per a Arm i explorar una experiència d'escriptori Linux completa"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Configurar un servidor domèstic personal amb Nextcloud, Home Assistant o una rèplica pròpia d'openSUSE"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Provar experiments divertits com ara jocs retro, centres multimèdia o projectes de codificació per a la canalla"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
