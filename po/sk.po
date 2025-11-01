@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-18 20:59+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-02 00:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2768,13 +2757,13 @@ msgid "Level Up"
 msgstr "Úroveň vyššie"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Cesta k hardvérovej podpore na Arm."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Čo je Arm v kontexte výpočtovej techniky?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
 msgstr ""
