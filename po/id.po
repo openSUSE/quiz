@@ -7,19 +7,7 @@
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 # Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-06 09:59+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-02 00:04+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.14\n"
 
 msgid "Immutability"
 msgstr "Imutabilitas"
@@ -391,7 +379,7 @@ msgid "Documentation and manuals for the Linux kernel"
 msgstr "Dokumentasi dan manual untuk kernel Linux"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr "Gambar tersembunyi dari acara team building terbaru dari tim kernel SUSE"
+msgstr "Citra tersembunyi dari acara team building terbaru dari tim kernel SUSE"
 
 msgid "Which of the following is a program to load kernel modules?"
 msgstr "Manakah di antara berikut ini yang merupakan program untuk memuat modul kernel?"
@@ -1252,7 +1240,7 @@ msgid "Only if you summon the gaming gods"
 msgstr "Hanya jika kamu memanggil para dewa permainan"
 
 msgid "You need a secret handshake first"
-msgstr "Anda perlu melakukan jabat tangan rahasia terlebih dahulu."
+msgstr "Anda perlu melakukan jabat tangan rahasia terlebih dahulu"
 
 msgid "Where can you download openSUSE installation images?"
 msgstr "Di mana Anda dapat mengunduh image instalasi openSUSE?"
@@ -1273,7 +1261,7 @@ msgid "Where should you report issues you find in openSUSE?"
 msgstr "Di mana Anda harus melaporkan masalah yang Anda temukan di openSUSE?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr "Cukup teriak ke layar Anda dan berharap yang terbaik."
+msgstr "Cukup teriak ke layar Anda dan berharap yang terbaik"
 
 msgid "Send a strongly worded letter to Geeko"
 msgstr "Kirim surat yang tegas kepada Geeko"
@@ -1489,7 +1477,7 @@ msgid "Self-service beer tap"
 msgstr "Keran bir self-service"
 
 msgid "s390x Expert"
-msgstr "Ahli s390x"
+msgstr "Pakar s390x"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
 msgstr "Kuis untuk para penggemar mainframe dan arsitektur eksotis."
@@ -1756,7 +1744,7 @@ msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
 msgstr "Apa yang terjadi ketika Anda menekan tombol F2 di yast2 sw_single (Qt)?"
 
 msgid "You get the \"Patches\" view"
-msgstr "Anda akan melihat tampilan “Patches”"
+msgstr "Anda akan melihat tampilan \"Patches\""
 
 msgid "It crashes"
 msgstr "Jadi crash"
@@ -1780,7 +1768,7 @@ msgid "Ctrl-Shift-Alt-X"
 msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr "Anda berbicara dengan jelas “xterm” ke mikrofon (hanya untuk laptop)"
+msgstr "Anda berbicara dengan jelas \"xterm\" ke mikrofon (hanya untuk laptop)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
 msgstr "Apakah Anda dapat memeriksa hierarki widget dari jendela YaST2 saat sedang berjalan?"
@@ -1825,7 +1813,7 @@ msgid "Yes, use Shift-F3"
 msgstr "Ya, gunakan Shift-F3"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr "Ya, klik kanan tombol “Bantuan”"
+msgstr "Ya, klik kanan tombol \"Bantuan\""
 
 msgid "Zypper Jedi"
 msgstr "Zypper Jedi"
@@ -2444,7 +2432,7 @@ msgid "Only working on SUSE Linux Enterprise Server"
 msgstr "Hanya berfungsi pada SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr "Untuk menyediakan gambar yang benar-benar terbuka, fleksibel, dan aman berdasarkan SUSE Linux Enterprise"
+msgstr "Untuk menyediakan citra yang benar-benar terbuka, fleksibel, dan aman berdasarkan SUSE Linux Enterprise"
 
 msgid "Standing for 'Big Chameleon Initiative'"
 msgstr "Singkatan dari ‘Inisiatif Chameleon Besar’"
@@ -2642,7 +2630,7 @@ msgid "All of the above (and you can stay on Leap 16 until 2033!)"
 msgstr "Semua yang disebutkan di atas (dan Anda dapat tetap menggunakan Leap 16 hingga tahun 2033!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr "openSUSE juga memiliki edisi “immutable”. Apa artinya itu?"
+msgstr "openSUSE juga memiliki edisi \"immutable\". Apa artinya itu?"
 
 msgid "They use a read-only system base and update safely with special tools"
 msgstr "Menggunakan sistem dasar yang hanya dapat dibaca dan pembaruan yang aman menggunakan alat khusus"
@@ -2774,193 +2762,193 @@ msgid "Level Up"
 msgstr "Naik Level"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Perjalanan Implementasi Hardware di Arm."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Apa itu Arm dalam konteks komputasi?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Sebuah keluarga arsitektur CPU hemat energi yang banyak digunakan dalam perangkat mobile, sistem tertanam, dan server"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Anggota tubuh robotik yang mengompilasi kode Anda"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "Departemen khusus SUSE untuk menangani bug kernel dalam arm wrestling"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Sebuah sistem berkas baru yang diciptakan oleh Geeko"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Apa itu Raspberry Pi 5?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Komputer berukuran kartu kredit yang menggunakan arsitektur Arm"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Sebuah desktop kecil yang terjangkau dan hemat energi — sempurna untuk anak-anak menjelajahi internet, menonton YouTube, belajar pemrograman, atau memainkan game ringan"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "Sebuah server kecil namun mumpuni untuk menjalankan NAS rumahan, Home Assistant, Nextcloud, atau bahkan cermin openSUSE lokal"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Apa ejaan yang benar untuk arsitektur CPU yang didukung oleh openSUSE pada Raspberry Pi 5?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm… tidak yakin"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "Siapa yang bertanggung jawab atas dukungan u-boot untuk Raspberry PI5 di kernel Linux hulu?"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "Ivan Ivanov dan Matthias Brugger dari Tim Implementasi Perangkat Keras SUSE."
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Edisi openSUSE mana yang menyediakan citra khusus untuk Raspberry Pi?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed, dan MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Hanya Tumbleweed, karena ia tidak pernah berhenti berguling"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Leap 42.3 saja karena itu abadi"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Hanya MicroOS, yang lain meleleh"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Apa format citra yang disarankan untuk openSUSE di Raspberry Pi?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Citra disk mentah (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr "Penginstal .exe"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr "Citra ISO DVD yang memerlukan penyolderan manual"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz yang penuh dengan impian"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE juga dapat dijalankan di ponsel pintar! Apa saja citra instalasi yang tersedia untuk PinePhone?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed dengan Phosh (untuk penggemar Purism) dan Tumbleweed dengan Plasma Mobile (untuk penggemar KDE)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Leap Micro dengan GNOME Shell untuk lemari es"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Tumbleweed LXQt Edition untuk telepon putar"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "MicroOS Edisi Teks dengan Mode Masukan Morse"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Di mana Anda dapat menemukan citra openSUSE untuk perangkat Arm seperti Raspberry Pi, PinePhone, atau Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – titik awal yang ramah untuk citra openSUSE yang paling sering digunakan"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm – portal Arm dengan tautan dan dokumentasi"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – untuk para pemberani yang suka menjelajah secara manual"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "Apakah openSUSE Tumbleweed Arm dibangun bersama dengan paket x86_64?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "Tidak, itu dibangun secara terpisah sebagai bagian dari openSUSE Ports"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Ya, semuanya berasal dari satu server build yang ajaib"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Hanya jika bulan berada dalam fase retrograde"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Ya, tapi itu disusun oleh penguin"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Perintah apa yang umumnya digunakan untuk menulis citra openSUSE ke kartu SD?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Jenis penyimpanan apa yang dapat digunakan untuk booting citra openSUSE Raspberry Pi?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD card, USB, atau NVMe (di Pi 5)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Hanya disket dengan kesabaran"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Sinkronisasi cloud melalui pos merpati"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "Cadangan kaset, jika Anda cukup yakin"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Bagaimana cara terbaik untuk tetap mendapatkan informasi terbaru tentang pengembangan openSUSE Arm?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Ikuti daftar milis openSUSE Arm dan saluran Matrix (rincian di bawah ini)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Minta ChatGPT untuk bocoran firmware harian"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Konsultasikan bintang-bintang di bawah bulan purnama"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "Segarkan get.opensuse.org hingga berkedip"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Jika Anda memenangkan Raspberry Pi 5 ini, apa yang akan Anda jalankan pertama kali di perangkat tersebut?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Mulailah dengan openSUSE Tumbleweed untuk Arm dan jelajahi pengalaman desktop Linux yang lengkap"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Pasang server pribadi di rumah dengan Nextcloud, Home Assistant, atau cermin openSUSE Anda sendiri"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Coba eksperimen seru seperti bermain game retro, pusat media, atau proyek pemrograman untuk anak-anak"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
