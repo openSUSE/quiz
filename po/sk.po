@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-02 00:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-03 13:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2766,34 +2766,34 @@ msgid "What is Arm, in the context of computing?"
 msgstr "Čo je Arm v kontexte výpočtovej techniky?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Rodina energeticky úsporných CPU architektúr široko používaných v mobilných zariadeniach, vstavaných systémoch a serveroch"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Robotická končatina, ktorá kompiluje váš kód"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "Špeciálne oddelenie SUSE pre odstraňovanie chýb jadra pretláčaním"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Nový typ súborového systému, ktorý vynašiel Geeko"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Čo je Raspberry Pi 5?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Počítač veľkosti kreditnej karty využívajúci architektúru Arm"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Cenovo dostupný a energeticky úsporný malý stolný počítač – ideálny pre deti na prehliadanie webu, sledovanie YouTube, učenie sa programovania alebo hranie nenáročných hier"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "Malý, ale výkonný server na prevádzku domáceho NAS, Home Assistant, Nextcloud alebo dokonca lokálneho zrkadla openSUSE"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Aký je správny pravopis architektúry CPU podporovanej openSUSE na Raspberry Pi 5?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
 msgstr ""
