@@ -168,6 +168,7 @@ function handleStartAction() {
 
   if (username.length < 4) {
     usernameInput.classList.add("input-error");
+    alert("user name is too short.Enter a valid user name");
     usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
     usernameInput.focus();
     return;
