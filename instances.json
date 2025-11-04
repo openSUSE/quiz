@@ -32,6 +32,7 @@
 	    "quizzes": [
 		    "suse",
 		    "suse_openssl",
+		    "sles16",
 	    ],
 	    "theme": "SUSE",
     },
