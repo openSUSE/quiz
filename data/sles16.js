@@ -43,7 +43,7 @@ const questions = [
     ],
   },
   {
-    text: _("When does LTS Support for SLES 16.0?"),
+    text: _("When does LTS Support for SLES 16.0 end?"),
     answers: [
       { text: _("2030"), correct: true },
       { text: _("Never – it’s eternal like systemd"), correct: false },
