@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-04 16:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-05 17:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2826,67 +2826,67 @@ msgid "Only Tumbleweed, because it never stops rolling"
 msgstr "Len Tumbleweed, pretože sa nikdy neprestane kotúľať"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Len Leap 42.3, pretože je večné"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Len MicroOS, všetko ostatné sa rozpustilo"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Aký je preferovaný formát obrazu pre openSUSE na Raspberry Pi?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Surový obraz disku (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe inštalátor"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr ".iso DVD obraz s nutnosťou ručného spájkovania"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz plný snov"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE môže bežať aj na mobilných telefónoch! Aké inštalačné obrazy sú k dispozícii pre PinePhone?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed s Phosh (pre fanúšikov Purismu) a Tumbleweed s Plasma Mobile (pre milovníkov KDE)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Leap Micro s GNOME Shell pre chladničky"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Tumbleweed LXQt Edition pre telefóny s otočným číselníkom"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "MicroOS Text Edition s Morseovým vstupným režimom"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Kde nájdete obrazy openSUSE pre zariadenia Arm, ako sú Raspberry Pi, PinePhone alebo Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – priateľský východiskový bod pre najčastejšie používané obrazy openSUSE"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm – Arm portál s odkazmi a dokumentáciou"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – pre odvážnych, ktorí majú radi ručné prehliadanie"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "Je openSUSE Tumbleweed Arm zostavené spolu s balíkmi x86_64?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "Nie, je zostavené samostatne ako súčasť portov openSUSE"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Áno, všetko pochádza z jedného magického zostavovacieho servera"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Iba ak je mesiac v retrográdnej fáze"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Áno, ale zostavili to tučniaci"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
 msgstr ""
