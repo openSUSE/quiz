@@ -161,6 +161,7 @@ function handleStartAction() {
   // validate nickname
   if (username === "") {
     usernameInput.classList.add("input-error");
+    alert(uiStrings.usernamePrompt);
     usernameInput.setAttribute("title", uiStrings.usernamePrompt);
     usernameInput.focus();
     return;
@@ -168,7 +169,7 @@ function handleStartAction() {
 
   if (username.length < 4) {
     usernameInput.classList.add("input-error");
-    alert("user name is too short.Enter a valid user name");
+    alert(uiStrings.tooSimpleUsername);
     usernameInput.setAttribute("title", uiStrings.tooSimpleUsername);
     usernameInput.focus();
     return;
@@ -176,6 +177,7 @@ function handleStartAction() {
 
   if (isLoginTaken(username)) {
     usernameInput.classList.add("input-error");
+    alert(uiStrings.usernameTaken);
     usernameInput.setAttribute("title", uiStrings.usernameTaken);
     usernameInput.focus();
     return;
