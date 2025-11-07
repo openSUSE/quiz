@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-05 17:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-08 17:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2889,31 +2889,31 @@ msgid "Yes, but it’s compiled by penguins"
 msgstr "Áno, ale zostavili to tučniaci"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Ktorý príkaz sa bežne používa na zápis obrazu openSUSE na SD kartu?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Z akého typu úložiska sa môžu spúšťať obrazy openSUSE Raspberry Pi?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD karta, USB alebo NVMe (na Pi 5)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Iba diskety s trpezlivosťou"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Synchronizácia v cloude prostredníctvom holubej pošty"
 
 msgid "Tape backup, if you believe hard enough"
 msgstr ""
