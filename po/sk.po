@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-08 17:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-09 19:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -2916,34 +2916,34 @@ msgid "Cloud sync via pigeon post"
 msgstr "Synchronizácia v cloude prostredníctvom holubej pošty"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "Záloha na páske, ak tomu dostatočne veríte"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Aký je najlepší spôsob, ako zostať informovaný o vývoji openSUSE Arm?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Sledujte e-mailovú konferenciu openSUSE Arm a kanál Matrix (podrobnosti nižšie)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Opýtajte sa ChatGPT na denné úniky firmvéru"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Poraďte sa s hviezdami pri splne"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "Obnovujte stránku get.opensuse.org, kým nezačne blikať"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Ak vyhráte tento Raspberry Pi 5, čo by ste na ňom spustili ako prvé?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Spustíte openSUSE Tumbleweed pre Arm a objavíte všetky možnosti linuxového desktopu"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Zriadite si osobný domáci server s Nextcloud, Home Assistant alebo vlastným zrkadlom openSUSE"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Vyskúšate zábavné experimenty, ako sú retro hry, mediálne centrá alebo kódovanie projektov pre deti"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
