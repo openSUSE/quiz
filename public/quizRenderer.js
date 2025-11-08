@@ -42,13 +42,21 @@ window.addEventListener("load", () => {
 
   const usernameInput = document.getElementById("username");
   const usernameTopHidden = document.getElementById("username-top-hidden");
-
-  // Load saved nickname from localStorage, if any
+  const saved = JSON.parse(localStorage.getItem("quizProgress") || "null");
   const savedNickname = localStorage.getItem("quizNickname");
-  if (savedNickname) {
-    updateUsernameValues(savedNickname);
-    // auto-skip start screen and go straight to quiz
+
+  if (saved && saved.nickname === savedNickname) {
+    // apply penalty of 1-point
+    saved.correct = Math.max(0, saved.correct - 1);
+
+    currentQuestion = saved.currentQuestion;
+    correct = saved.correct;
+
+    updateUsernameValues(saved.nickname);
+
+    // start quiz immediately with restored state
     handleStartAction();
+    loadQuestion(currentQuestion);
   }
 
   usernameInput.addEventListener("input", () => {
@@ -261,6 +269,9 @@ function endQuiz(isQuitAndSubmit = false) {
     }
   }
 
+  //remove the current quiz progress from localStorage
+  localStorage.removeItem("quizProgress");
+
   // Unlock next difficulty
   let currentDifficulty = parseInt(
     localStorage.getItem("quizDifficulty") || "1"
@@ -393,6 +404,16 @@ function checkAnswer(isTimeout = false) {
     }
     button.disabled = true;
   });
+
+  //save the progress for the every question answered in local storage
+  localStorage.setItem(
+    "quizProgress",
+    JSON.stringify({
+      currentQuestion,
+      correct,
+      nickname: document.getElementById("username").value,
+    })
+  );
 
   currentQuestion++;
   const usernameBox = document.getElementById("username");
