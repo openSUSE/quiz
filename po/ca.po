@@ -1,6 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-02 00:04+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-08 17:04+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.3\n"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
@@ -2800,7 +2800,7 @@ msgid "ARM!"
 msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr "Armmm… No n'estic segur."
+msgstr "Ui… No n'estic segur."
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
 msgstr "Qui hi ha darrere del suport u-boot de Raspberry PI5 al nucli de Linux?"
