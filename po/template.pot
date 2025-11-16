@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
+"POT-Creation-Date: 2025-11-16 13:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,201 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "openSUSE Arm"
+msgstr ""
+
+msgid "Hardware Enablement journey on Arm."
+msgstr ""
+
+msgid "What is Arm, in the context of computing?"
+msgstr ""
+
+msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
+msgstr ""
+
+msgid "A robotic limb that compiles your code"
+msgstr ""
+
+msgid "A special SUSE department for arm wrestling kernel bugs"
+msgstr ""
+
+msgid "A new kind of filesystem invented by Geeko"
+msgstr ""
+
+msgid "What is the Raspberry Pi 5?"
+msgstr ""
+
+msgid "A credit-card-sized computer using Arm architecture"
+msgstr ""
+
+msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
+msgstr ""
+
+msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
+msgstr ""
+
+msgid "All of the above"
+msgstr ""
+
+msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "Arm"
+msgstr ""
+
+msgid "ARM!"
+msgstr ""
+
+msgid "Armmm… not sure"
+msgstr ""
+
+msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
+msgstr ""
+
+msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
+msgstr ""
+
+msgid "Linus Torvalds"
+msgstr ""
+
+msgid "Richard Stallman"
+msgstr ""
+
+msgid "Eric S. Raymond "
+msgstr ""
+
+msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
+msgstr ""
+
+msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
+msgstr ""
+
+msgid "Only Tumbleweed, because it never stops rolling"
+msgstr ""
+
+msgid "Just Leap 42.3 because it’s eternal"
+msgstr ""
+
+msgid "Only MicroOS, everything else melted"
+msgstr ""
+
+msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
+msgstr ""
+
+msgid "Raw disk image (.raw.xz)"
+msgstr ""
+
+msgid ".exe installer"
+msgstr ""
+
+msgid ".iso DVD image with manual soldering required"
+msgstr ""
+
+msgid ".tar.gz full of dreams"
+msgstr ""
+
+msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
+msgstr ""
+
+msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
+msgstr ""
+
+msgid "Leap Micro with GNOME Shell for refrigerators"
+msgstr ""
+
+msgid "Tumbleweed LXQt Edition for rotary phones"
+msgstr ""
+
+msgid "MicroOS Text Edition with Morse input mode"
+msgstr ""
+
+msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
+msgstr ""
+
+msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
+msgstr ""
+
+msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
+msgstr ""
+
+msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
+msgstr ""
+
+msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
+msgstr ""
+
+msgid "No, it’s built separately as part of openSUSE Ports"
+msgstr ""
+
+msgid "Yes, it all comes from one magical build server"
+msgstr ""
+
+msgid "Only if the moon is in retrograde"
+msgstr ""
+
+msgid "Yes, but it’s compiled by penguins"
+msgstr ""
+
+msgid "Which command is commonly used to write the openSUSE image to an SD card?"
+msgstr ""
+
+msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+msgstr ""
+
+msgid "sudo print-image-now"
+msgstr ""
+
+msgid "cat image > coffee"
+msgstr ""
+
+msgid "rpm -i image.raw.xz"
+msgstr ""
+
+msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
+msgstr ""
+
+msgid "SD card, USB, or NVMe (on Pi 5)"
+msgstr ""
+
+msgid "Only floppy disks with patience"
+msgstr ""
+
+msgid "Cloud sync via pigeon post"
+msgstr ""
+
+msgid "Tape backup, if you believe hard enough"
+msgstr ""
+
+msgid "What’s the best way to stay updated on openSUSE Arm development?"
+msgstr ""
+
+msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
+msgstr ""
+
+msgid "Ask ChatGPT for daily firmware leaks"
+msgstr ""
+
+msgid "Consult the stars under a full moon"
+msgstr ""
+
+msgid "Refresh get.opensuse.org until it blinks"
+msgstr ""
+
+msgid "If you win this Raspberry Pi 5, what could you run on it first?"
+msgstr ""
+
+msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
+msgstr ""
+
+msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
+msgstr ""
+
+msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
+msgstr ""
 
 msgid "Immutability"
 msgstr ""
@@ -1298,6 +1493,369 @@ msgstr ""
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr ""
 
+msgid "openSUSE Introduction"
+msgstr ""
+
+msgid "Discover openSUSE, one click at a time."
+msgstr ""
+
+msgid "What is openSUSE?"
+msgstr ""
+
+msgid "A project supported by SUSE, made for everyone"
+msgstr ""
+
+msgid "More than just one Linux distribution"
+msgstr ""
+
+msgid "A friendly place to build software and learn new tools"
+msgstr ""
+
+msgid "All of these things together"
+msgstr ""
+
+msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
+msgstr ""
+
+msgid "2025 – this year! 🎉"
+msgstr ""
+
+msgid "1998 – that’s when Google started, not openSUSE"
+msgstr ""
+
+msgid "1994 – that’s the first SUSE Linux, not openSUSE"
+msgstr ""
+
+msgid "2005 – the year openSUSE was born, but not 20 years ago"
+msgstr ""
+
+msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
+msgstr ""
+
+msgid "Stable and Rolling"
+msgstr ""
+
+msgid "Stable and Wobbly"
+msgstr ""
+
+msgid "Rolling and Sitting"
+msgstr ""
+
+msgid "Rolling and Leaping"
+msgstr ""
+
+msgid "Which openSUSE versions are Rolling (always up-to-date)?"
+msgstr ""
+
+msgid "Aeon, Kalpa, and MicroOS"
+msgstr ""
+
+msgid "Slowroll and Slowroll Micro"
+msgstr ""
+
+msgid "All of these are Rolling"
+msgstr ""
+
+msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
+msgstr ""
+
+msgid "Each minor release receive updates for about 24 months"
+msgstr ""
+
+msgid "They have one big release every 12 months"
+msgstr ""
+
+msgid "They come with release parties everyone can join 🎉"
+msgstr ""
+
+msgid "All of the above (and you can stay on Leap 16 until 2033!)"
+msgstr ""
+
+msgid "openSUSE also has “immutable” editions. What does that mean?"
+msgstr ""
+
+msgid "They use a read-only system base and update safely with special tools"
+msgstr ""
+
+msgid "They cannot be installed on laptops"
+msgstr ""
+
+msgid "They are distributions that never change wallpapers"
+msgstr ""
+
+msgid "They come only as DVDs by mail"
+msgstr ""
+
+msgid "What is Slowroll?"
+msgstr ""
+
+msgid "A variant of Tumbleweed with updates grouped into tested batches"
+msgstr ""
+
+msgid "A racing game mode in Linux"
+msgstr ""
+
+msgid "A distribution that only updates once per decade"
+msgstr ""
+
+msgid "The mascot’s new nickname"
+msgstr ""
+
+msgid "What are some of the key openSUSE community tools and projects?"
+msgstr ""
+
+msgid "Open Build Service (OBS) for building software"
+msgstr ""
+
+msgid "openQA for automated testing"
+msgstr ""
+
+msgid "The Wiki, Weblate, forums, and more"
+msgstr ""
+
+msgid "All of these are part of openSUSE"
+msgstr ""
+
+msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
+msgstr ""
+
+msgid "Heroes"
+msgstr ""
+
+msgid "Avengers"
+msgstr ""
+
+msgid "Thunderbolts"
+msgstr ""
+
+msgid "Villains"
+msgstr ""
+
+msgid "Windows 10 is out of support. What could you do with that laptop?"
+msgstr ""
+
+msgid "Install openSUSE on your laptop"
+msgstr ""
+
+msgid "Install openSUSE on your friend’s laptop"
+msgstr ""
+
+msgid "Install openSUSE on your grandmother’s laptop"
+msgstr ""
+
+msgid "All of these are great ideas"
+msgstr ""
+
+msgid "A chameleon named Geeko"
+msgstr ""
+
+msgid "A penguin named Tux"
+msgstr ""
+
+msgid "A tumbleweed rolling in the desert"
+msgstr ""
+
+msgid "A lizard in sunglasses"
+msgstr ""
+
+msgid "Why do people love openSUSE?"
+msgstr ""
+
+msgid "Stable Leap releases and fast-moving Tumbleweed updates"
+msgstr ""
+
+msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
+msgstr ""
+
+msgid "A friendly worldwide community that welcomes everyone"
+msgstr ""
+
+msgid "All of these together"
+msgstr ""
+
+msgid "Where can you help translate openSUSE (and even this quiz)?"
+msgstr ""
+
+msgid "Weblate at l10n.opensuse.org"
+msgstr ""
+
+msgid "By whispering translations into the chameleon’s ear"
+msgstr ""
+
+msgid "At Google Translate headquarters in a secret bunker"
+msgstr ""
+
+msgid "By posting translations on random Reddit threads"
+msgstr ""
+
+msgid "Where can you get help with openSUSE?"
+msgstr ""
+
+msgid "Ask your friend who uses Linux"
+msgstr ""
+
+msgid "On many local Linux portals and websites"
+msgstr ""
+
+msgid "Asia Summit Dragon"
+msgstr ""
+
+msgid "Challenge the dragon of knowledge"
+msgstr ""
+
+msgid "In which city was the first openSUSE Asia Summit hosted?"
+msgstr ""
+
+msgid "Taipei, Taiwan"
+msgstr ""
+
+msgid "Beijing, China"
+msgstr ""
+
+msgid "Jakarta, Indonesia"
+msgstr ""
+
+msgid "Tokyo, Japan"
+msgstr ""
+
+msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
+msgstr ""
+
+msgid "2022"
+msgstr ""
+
+msgid "2017 and 2024"
+msgstr ""
+
+msgid "2018"
+msgstr ""
+
+msgid "Only 2024"
+msgstr ""
+
+msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
+msgstr ""
+
+msgid "Denpasar"
+msgstr ""
+
+msgid "Mumbai"
+msgstr ""
+
+msgid "Taipei"
+msgstr ""
+
+msgid "Faridabad"
+msgstr ""
+
+msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
+msgstr ""
+
+msgid "Hong Kong"
+msgstr ""
+
+msgid "Jakarta"
+msgstr ""
+
+msgid "Tokyo"
+msgstr ""
+
+msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
+msgstr ""
+
+msgid "Vietnam"
+msgstr ""
+
+msgid "India"
+msgstr ""
+
+msgid "Indonesia"
+msgstr ""
+
+msgid "Taiwan"
+msgstr ""
+
+msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
+msgstr ""
+
+msgid "Yogyakarta"
+msgstr ""
+
+msgid "Bandung"
+msgstr ""
+
+msgid "Surabaya"
+msgstr ""
+
+msgid "Where was the openSUSE Asia Summit held in 2019?"
+msgstr ""
+
+msgid "Seoul"
+msgstr ""
+
+msgid "Denpasar (Bali)"
+msgstr ""
+
+msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
+msgstr ""
+
+msgid "Budget cuts"
+msgstr ""
+
+msgid "Lack of organizers"
+msgstr ""
+
+msgid "COVID-19 pandemic"
+msgstr ""
+
+msgid "Scheduling conflicts"
+msgstr ""
+
+msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
+msgstr ""
+
+msgid "Geenardo Da Vinci"
+msgstr ""
+
+msgid "A professional graphic designer hired by the openSUSE Foundation"
+msgstr ""
+
+msgid "The community through an annual design contest"
+msgstr ""
+
+msgid "The developers from the openSUSE infrastructure team"
+msgstr ""
+
+msgid "Which openSUSE Asia Summit had a red logo?"
+msgstr ""
+
+msgid "2016 in Beijing"
+msgstr ""
+
+msgid "2017 in Tokyo"
+msgstr ""
+
+msgid "2018 in Taipei"
+msgstr ""
+
+msgid "2019 in Bali"
+msgstr ""
+
+msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
+msgstr ""
+
+msgid "2025 in Faridabad"
+msgstr ""
+
+msgid "2014 in Beijing"
+msgstr ""
+
+msgid "The longest elevator trip to openSUSE Asia summit was in?"
+msgstr ""
+
+msgid "Beijing"
+msgstr ""
+
 msgid "oSC Historian"
 msgstr ""
 
@@ -1350,9 +1908,6 @@ msgid "SUSE"
 msgstr ""
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
-
-msgid "Richard Stallman"
 msgstr ""
 
 msgid "Rick Spencer"
@@ -1685,6 +2240,483 @@ msgstr ""
 msgid "A white helmet with IBM on it"
 msgstr ""
 
+msgid "SLES 16 in Numbers"
+msgstr ""
+
+msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
+msgstr ""
+
+msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "16"
+msgstr ""
+
+msgid "42"
+msgstr ""
+
+msgid "Just one: German!"
+msgstr ""
+
+msgid "How many features have been reported against SLES + SAP 16.0? "
+msgstr ""
+
+msgid "1099"
+msgstr ""
+
+msgid "404 – features not found"
+msgstr ""
+
+msgid "9999 – we lost count"
+msgstr ""
+
+msgid "How many of those features were resolved in 16.0?"
+msgstr ""
+
+msgid "798"
+msgstr ""
+
+msgid "789"
+msgstr ""
+
+msgid "123"
+msgstr ""
+
+msgid "666"
+msgstr ""
+
+msgid "When does LTS Support for SLES 16.0?"
+msgstr ""
+
+msgid "2030"
+msgstr ""
+
+msgid "Never – it’s eternal like systemd"
+msgstr ""
+
+msgid "2029"
+msgstr ""
+
+msgid "2032"
+msgstr ""
+
+msgid "How many valid bugs were resolved in SLES 16.0?"
+msgstr ""
+
+msgid "999"
+msgstr ""
+
+msgid "0, because it’s perfect"
+msgstr ""
+
+msgid "Too many to fit in Bugzilla"
+msgstr ""
+
+msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "1 – we’re almost there!"
+msgstr ""
+
+msgid "0, No P1 shall pass RC!"
+msgstr ""
+
+msgid "When can we expect SLES 16.1 to be released?"
+msgstr ""
+
+msgid "November 3rd 2026"
+msgstr ""
+
+msgid "June 16th, 2026"
+msgstr ""
+
+msgid "4th of July 2026"
+msgstr ""
+
+msgid "30th February 2026"
+msgstr ""
+
+msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
+msgstr ""
+
+msgid "slfo-1.2 "
+msgstr ""
+
+msgid "devel branch in src.opensuse.org/pool"
+msgstr ""
+
+msgid "slfo-main"
+msgstr ""
+
+msgid "slfo-1.0"
+msgstr ""
+
+msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "Thousands of packages in coldpool"
+msgstr ""
+
+msgid "All of them. Maintainers are overrated"
+msgstr ""
+
+msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
+msgstr ""
+
+msgid "python-3.13"
+msgstr ""
+
+msgid "python-2.7"
+msgstr ""
+
+msgid "python-3.11"
+msgstr ""
+
+msgid "python-3.6"
+msgstr ""
+
+msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
+msgstr ""
+
+msgid "ruby-3.4"
+msgstr ""
+
+msgid "ruby-2.7 LTS"
+msgstr ""
+
+msgid "ruby-3.1"
+msgstr ""
+
+msgid "ruby-3.2"
+msgstr ""
+
+msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
+msgstr ""
+
+msgid "None. We solely rely on testing in production."
+msgstr ""
+
+msgid "1999"
+msgstr ""
+
+msgid "9999"
+msgstr ""
+
+msgid "Who is the Release Manager Lead for SLES 16.1?"
+msgstr ""
+
+msgid "Radoslav Tsvetkov"
+msgstr ""
+
+msgid "Libor Miksik"
+msgstr ""
+
+msgid "Daniela Giri"
+msgstr ""
+
+msgid "Prokop Vlasin"
+msgstr ""
+
+msgid "What component managed to survive its own death in SLES 16?"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "System Management"
+msgstr ""
+
+msgid "Installer"
+msgstr ""
+
+msgid "Migration tool"
+msgstr ""
+
+msgid "SUSE Story"
+msgstr ""
+
+msgid "Discover SUSE, one click at a time."
+msgstr ""
+
+msgid "What is SUSE’s business?"
+msgstr ""
+
+msgid "Providing Enterprise Linux solutions for mission-critical systems"
+msgstr ""
+
+msgid "Delivering modern container and VM management with Rancher and Harvester"
+msgstr ""
+
+msgid "Securing cloud-native workloads with NeuVector"
+msgstr ""
+
+msgid "What does the acronym SUSE stand for?"
+msgstr ""
+
+msgid "Software- und System-Entwicklung (Software and Systems Development)"
+msgstr ""
+
+msgid "Super User Space Explorer"
+msgstr ""
+
+msgid "Silly Unix Shell Enthusiasts"
+msgstr ""
+
+msgid "System Upgrade & Security Engine"
+msgstr ""
+
+msgid "How many employees does SUSE have worldwide?"
+msgstr ""
+
+msgid "Around 500"
+msgstr ""
+
+msgid "Around 1,200"
+msgstr ""
+
+msgid "Around 2,500"
+msgstr ""
+
+msgid "Around 10,000"
+msgstr ""
+
+msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
+msgstr ""
+
+msgid "Prague"
+msgstr ""
+
+msgid "Cupertino"
+msgstr ""
+
+msgid "Redmont"
+msgstr ""
+
+msgid "Raleigh"
+msgstr ""
+
+msgid "Which of the following is true about the SUSE Logo?"
+msgstr ""
+
+msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
+msgstr ""
+
+msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
+msgstr ""
+
+msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
+msgstr ""
+
+msgid "When was the first version of SUSE Linux released?"
+msgstr ""
+
+msgid "1989"
+msgstr ""
+
+msgid "1991"
+msgstr ""
+
+msgid "1994"
+msgstr ""
+
+msgid "2014"
+msgstr ""
+
+msgid "What is Rancher primarily used for?"
+msgstr ""
+
+msgid "Managing and scaling Kubernetes clusters"
+msgstr ""
+
+msgid "Herding virtual cows in the cloud"
+msgstr ""
+
+msgid "Automating SUSE Linux installations only"
+msgstr ""
+
+msgid "Playing old-school ranch simulation games"
+msgstr ""
+
+msgid "What does NeuVector focus on?"
+msgstr ""
+
+msgid "Cloud-native container security"
+msgstr ""
+
+msgid "Making networking faster on Linux desktops"
+msgstr ""
+
+msgid "Automating package builds"
+msgstr ""
+
+msgid "Coloring the chameleon logo green"
+msgstr ""
+
+msgid "What is SUSE Harvester?"
+msgstr ""
+
+msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
+msgstr ""
+
+msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
+msgstr ""
+
+msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
+msgstr ""
+
+msgid "A community project sponsored by SUSE"
+msgstr ""
+
+msgid "More than just one community Linux distribution"
+msgstr ""
+
+msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
+msgstr ""
+
+msgid "What are SUSE BCI (Base Container Images) known for?"
+msgstr ""
+
+msgid "Being bloated with unnecessary packages"
+msgstr ""
+
+msgid "Only working on SUSE Linux Enterprise Server"
+msgstr ""
+
+msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
+msgstr ""
+
+msgid "Standing for 'Big Chameleon Initiative'"
+msgstr ""
+
+msgid "SUSE x openSSL"
+msgstr ""
+
+msgid "When SUSE meets openSSL, surprises await."
+msgstr ""
+
+msgid "How many SUSE products use OpenSSL?"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "All of them"
+msgstr ""
+
+msgid "How many SUSE engineers are actively working on OpenSSL?"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "42.3"
+msgstr ""
+
+msgid "19"
+msgstr ""
+
+msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
+msgstr ""
+
+msgid "It allows all cryptographic algorithms, including insecure ones."
+msgstr ""
+
+msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
+msgstr ""
+
+msgid "It has no impact on system performance or compatibility."
+msgstr ""
+
+msgid "You start smiling like 'Hide the Pain Harold' meme guy."
+msgstr ""
+
+msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
+msgstr ""
+
+msgid "The OpenSSL office"
+msgstr ""
+
+msgid "Starbucks"
+msgstr ""
+
+msgid "Red Hat office"
+msgstr ""
+
+msgid "Vaňkovka shopping gallery"
+msgstr ""
+
+msgid "Why does SUSE invest in OpenSSL?"
+msgstr ""
+
+msgid "To contribute back to the community SUSE and many others relies on"
+msgstr ""
+
+msgid "To make chameleons browse the web safely"
+msgstr ""
+
+msgid "To win a race against penguins"
+msgstr ""
+
+msgid "To shorten Linux kernel boot times"
+msgstr ""
+
+msgid "SUSE engineers contribute to OpenSSL by"
+msgstr ""
+
+msgid "Active development and code reviews"
+msgstr ""
+
+msgid "Contributing fixes and new features"
+msgstr ""
+
+msgid "Running enterprise-grade testing with tools like openQA"
+msgstr ""
+
+msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
+msgstr ""
+
+msgid "It secures communication and cryptographic operations"
+msgstr ""
+
+msgid "It only adds fancy wallpapers"
+msgstr ""
+
+msgid "It makes Open Build Service run faster"
+msgstr ""
+
+msgid "It manages Rancher clusters"
+msgstr ""
+
+msgid "Why is FIPS certification in OpenSSL important for SUSE?"
+msgstr ""
+
+msgid "It allows SUSE customers in regulated industries to meet strict security standards"
+msgstr ""
+
+msgid "It makes the chameleon change colors faster"
+msgstr ""
+
+msgid "It guarantees free coffee for certified systems"
+msgstr ""
+
+msgid "It is only useful for retro Linux distributions"
+msgstr ""
+
 msgid "The Ultimate YaST Challenge"
 msgstr ""
 
@@ -1722,9 +2754,6 @@ msgid "about 150"
 msgstr ""
 
 msgid "When was the first YaST2 released?"
-msgstr ""
-
-msgid "1999"
 msgstr ""
 
 msgid "2002"
@@ -1988,9 +3017,6 @@ msgstr ""
 msgid "14"
 msgstr ""
 
-msgid "10"
-msgstr ""
-
 msgid "8"
 msgstr ""
 
@@ -2028,12 +3054,6 @@ msgid "All of the above."
 msgstr ""
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
-
-msgid "1"
-msgstr ""
-
-msgid "42"
 msgstr ""
 
 msgid "What is yzpper?"
@@ -2122,838 +3142,4 @@ msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr ""
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
-
-msgid "Asia Summit Dragon"
-msgstr ""
-
-msgid "Challenge the dragon of knowledge"
-msgstr ""
-
-msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr ""
-
-msgid "Taipei, Taiwan"
-msgstr ""
-
-msgid "Beijing, China"
-msgstr ""
-
-msgid "Jakarta, Indonesia"
-msgstr ""
-
-msgid "Tokyo, Japan"
-msgstr ""
-
-msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
-
-msgid "2022"
-msgstr ""
-
-msgid "2017 and 2024"
-msgstr ""
-
-msgid "2018"
-msgstr ""
-
-msgid "Only 2024"
-msgstr ""
-
-msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
-
-msgid "Denpasar"
-msgstr ""
-
-msgid "Mumbai"
-msgstr ""
-
-msgid "Taipei"
-msgstr ""
-
-msgid "Faridabad"
-msgstr ""
-
-msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
-
-msgid "Hong Kong"
-msgstr ""
-
-msgid "Jakarta"
-msgstr ""
-
-msgid "Tokyo"
-msgstr ""
-
-msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
-
-msgid "Vietnam"
-msgstr ""
-
-msgid "India"
-msgstr ""
-
-msgid "Indonesia"
-msgstr ""
-
-msgid "Taiwan"
-msgstr ""
-
-msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
-
-msgid "Yogyakarta"
-msgstr ""
-
-msgid "Bandung"
-msgstr ""
-
-msgid "Surabaya"
-msgstr ""
-
-msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
-
-msgid "Seoul"
-msgstr ""
-
-msgid "Denpasar (Bali)"
-msgstr ""
-
-msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
-
-msgid "Budget cuts"
-msgstr ""
-
-msgid "Lack of organizers"
-msgstr ""
-
-msgid "COVID-19 pandemic"
-msgstr ""
-
-msgid "Scheduling conflicts"
-msgstr ""
-
-msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
-
-msgid "Geenardo Da Vinci"
-msgstr ""
-
-msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
-
-msgid "The community through an annual design contest"
-msgstr ""
-
-msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
-
-msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
-
-msgid "2016 in Beijing"
-msgstr ""
-
-msgid "2017 in Tokyo"
-msgstr ""
-
-msgid "2018 in Taipei"
-msgstr ""
-
-msgid "2019 in Bali"
-msgstr ""
-
-msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
-
-msgid "2025 in Faridabad"
-msgstr ""
-
-msgid "2014 in Beijing"
-msgstr ""
-
-msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
-
-msgid "Beijing"
-msgstr ""
-
-msgid "SUSE Story"
-msgstr ""
-
-msgid "Discover SUSE, one click at a time."
-msgstr ""
-
-msgid "What is SUSE’s business?"
-msgstr ""
-
-msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
-
-msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
-
-msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
-
-msgid "All of the above"
-msgstr ""
-
-msgid "What does the acronym SUSE stand for?"
-msgstr ""
-
-msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
-
-msgid "Super User Space Explorer"
-msgstr ""
-
-msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
-
-msgid "System Upgrade & Security Engine"
-msgstr ""
-
-msgid "How many employees does SUSE have worldwide?"
-msgstr ""
-
-msgid "Around 500"
-msgstr ""
-
-msgid "Around 1,200"
-msgstr ""
-
-msgid "Around 2,500"
-msgstr ""
-
-msgid "Around 10,000"
-msgstr ""
-
-msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
-
-msgid "Prague"
-msgstr ""
-
-msgid "Cupertino"
-msgstr ""
-
-msgid "Redmont"
-msgstr ""
-
-msgid "Raleigh"
-msgstr ""
-
-msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
-
-msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
-
-msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
-
-msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
-
-msgid "When was the first version of SUSE Linux released?"
-msgstr ""
-
-msgid "1989"
-msgstr ""
-
-msgid "1991"
-msgstr ""
-
-msgid "1994"
-msgstr ""
-
-msgid "2014"
-msgstr ""
-
-msgid "What is Rancher primarily used for?"
-msgstr ""
-
-msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
-
-msgid "Herding virtual cows in the cloud"
-msgstr ""
-
-msgid "Automating SUSE Linux installations only"
-msgstr ""
-
-msgid "Playing old-school ranch simulation games"
-msgstr ""
-
-msgid "What does NeuVector focus on?"
-msgstr ""
-
-msgid "Cloud-native container security"
-msgstr ""
-
-msgid "Making networking faster on Linux desktops"
-msgstr ""
-
-msgid "Automating package builds"
-msgstr ""
-
-msgid "Coloring the chameleon logo green"
-msgstr ""
-
-msgid "What is SUSE Harvester?"
-msgstr ""
-
-msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
-
-msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
-
-msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
-
-msgid "What is openSUSE?"
-msgstr ""
-
-msgid "A community project sponsored by SUSE"
-msgstr ""
-
-msgid "More than just one community Linux distribution"
-msgstr ""
-
-msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
-
-msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
-
-msgid "Being bloated with unnecessary packages"
-msgstr ""
-
-msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
-
-msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
-
-msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
-
-msgid "SUSE x openSSL"
-msgstr ""
-
-msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
-
-msgid "How many SUSE products use OpenSSL?"
-msgstr ""
-
-msgid "5"
-msgstr ""
-
-msgid "All of them"
-msgstr ""
-
-msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
-
-msgid "0"
-msgstr ""
-
-msgid "3"
-msgstr ""
-
-msgid "42.3"
-msgstr ""
-
-msgid "19"
-msgstr ""
-
-msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
-
-msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
-
-msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
-
-msgid "It has no impact on system performance or compatibility."
-msgstr ""
-
-msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
-
-msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
-
-msgid "The OpenSSL office"
-msgstr ""
-
-msgid "Starbucks"
-msgstr ""
-
-msgid "Red Hat office"
-msgstr ""
-
-msgid "Vaňkovka shopping gallery"
-msgstr ""
-
-msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
-
-msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
-
-msgid "To make chameleons browse the web safely"
-msgstr ""
-
-msgid "To win a race against penguins"
-msgstr ""
-
-msgid "To shorten Linux kernel boot times"
-msgstr ""
-
-msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
-
-msgid "Active development and code reviews"
-msgstr ""
-
-msgid "Contributing fixes and new features"
-msgstr ""
-
-msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
-
-msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
-
-msgid "It secures communication and cryptographic operations"
-msgstr ""
-
-msgid "It only adds fancy wallpapers"
-msgstr ""
-
-msgid "It makes Open Build Service run faster"
-msgstr ""
-
-msgid "It manages Rancher clusters"
-msgstr ""
-
-msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
-
-msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
-
-msgid "It makes the chameleon change colors faster"
-msgstr ""
-
-msgid "It guarantees free coffee for certified systems"
-msgstr ""
-
-msgid "It is only useful for retro Linux distributions"
-msgstr ""
-
-msgid "openSUSE Introduction"
-msgstr ""
-
-msgid "Discover openSUSE, one click at a time."
-msgstr ""
-
-msgid "A project supported by SUSE, made for everyone"
-msgstr ""
-
-msgid "More than just one Linux distribution"
-msgstr ""
-
-msgid "A friendly place to build software and learn new tools"
-msgstr ""
-
-msgid "All of these things together"
-msgstr ""
-
-msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
-
-msgid "2025 – this year! 🎉"
-msgstr ""
-
-msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
-
-msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
-
-msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
-
-msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
-
-msgid "Stable and Rolling"
-msgstr ""
-
-msgid "Stable and Wobbly"
-msgstr ""
-
-msgid "Rolling and Sitting"
-msgstr ""
-
-msgid "Rolling and Leaping"
-msgstr ""
-
-msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
-
-msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
-
-msgid "Slowroll and Slowroll Micro"
-msgstr ""
-
-msgid "All of these are Rolling"
-msgstr ""
-
-msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
-
-msgid "Each minor release receive updates for about 24 months"
-msgstr ""
-
-msgid "They have one big release every 12 months"
-msgstr ""
-
-msgid "They come with release parties everyone can join 🎉"
-msgstr ""
-
-msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
-
-msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
-
-msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
-
-msgid "They cannot be installed on laptops"
-msgstr ""
-
-msgid "They are distributions that never change wallpapers"
-msgstr ""
-
-msgid "They come only as DVDs by mail"
-msgstr ""
-
-msgid "What is Slowroll?"
-msgstr ""
-
-msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
-
-msgid "A racing game mode in Linux"
-msgstr ""
-
-msgid "A distribution that only updates once per decade"
-msgstr ""
-
-msgid "The mascot’s new nickname"
-msgstr ""
-
-msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
-
-msgid "Open Build Service (OBS) for building software"
-msgstr ""
-
-msgid "openQA for automated testing"
-msgstr ""
-
-msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
-
-msgid "All of these are part of openSUSE"
-msgstr ""
-
-msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
-
-msgid "Heroes"
-msgstr ""
-
-msgid "Avengers"
-msgstr ""
-
-msgid "Thunderbolts"
-msgstr ""
-
-msgid "Villains"
-msgstr ""
-
-msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
-
-msgid "Install openSUSE on your laptop"
-msgstr ""
-
-msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
-
-msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
-
-msgid "All of these are great ideas"
-msgstr ""
-
-msgid "A chameleon named Geeko"
-msgstr ""
-
-msgid "A penguin named Tux"
-msgstr ""
-
-msgid "A tumbleweed rolling in the desert"
-msgstr ""
-
-msgid "A lizard in sunglasses"
-msgstr ""
-
-msgid "Why do people love openSUSE?"
-msgstr ""
-
-msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
-
-msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
-
-msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
-
-msgid "All of these together"
-msgstr ""
-
-msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
-
-msgid "Weblate at l10n.opensuse.org"
-msgstr ""
-
-msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
-
-msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
-
-msgid "By posting translations on random Reddit threads"
-msgstr ""
-
-msgid "Where can you get help with openSUSE?"
-msgstr ""
-
-msgid "Ask your friend who uses Linux"
-msgstr ""
-
-msgid "On many local Linux portals and websites"
-msgstr ""
-
-msgid "Show All"
-msgstr ""
-
-msgid "Level Up"
-msgstr ""
-
-msgid "openSUSE Arm"
-msgstr ""
-
-msgid "Hardware Enablement journey on Arm."
-msgstr ""
-
-msgid "What is Arm, in the context of computing?"
-msgstr ""
-
-msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
-
-msgid "A robotic limb that compiles your code"
-msgstr ""
-
-msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
-
-msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
-
-msgid "What is the Raspberry Pi 5?"
-msgstr ""
-
-msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
-
-msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
-
-msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
-
-msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
-
-msgid "arm"
-msgstr ""
-
-msgid "Arm"
-msgstr ""
-
-msgid "ARM!"
-msgstr ""
-
-msgid "Armmm… not sure"
-msgstr ""
-
-msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
-
-msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
-
-msgid "Linus Torvalds"
-msgstr ""
-
-msgid "Eric S. Raymond "
-msgstr ""
-
-msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
-
-msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
-
-msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
-
-msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
-
-msgid "Only MicroOS, everything else melted"
-msgstr ""
-
-msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
-
-msgid "Raw disk image (.raw.xz)"
-msgstr ""
-
-msgid ".exe installer"
-msgstr ""
-
-msgid ".iso DVD image with manual soldering required"
-msgstr ""
-
-msgid ".tar.gz full of dreams"
-msgstr ""
-
-msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
-
-msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
-
-msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
-
-msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
-
-msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
-
-msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
-
-msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
-
-msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
-
-msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
-
-msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
-
-msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
-
-msgid "Yes, it all comes from one magical build server"
-msgstr ""
-
-msgid "Only if the moon is in retrograde"
-msgstr ""
-
-msgid "Yes, but it’s compiled by penguins"
-msgstr ""
-
-msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
-
-msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
-
-msgid "sudo print-image-now"
-msgstr ""
-
-msgid "cat image > coffee"
-msgstr ""
-
-msgid "rpm -i image.raw.xz"
-msgstr ""
-
-msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
-
-msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
-
-msgid "Only floppy disks with patience"
-msgstr ""
-
-msgid "Cloud sync via pigeon post"
-msgstr ""
-
-msgid "Tape backup, if you believe hard enough"
-msgstr ""
-
-msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
-
-msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
-
-msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
-
-msgid "Consult the stars under a full moon"
-msgstr ""
-
-msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
-
-msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
-
-msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
-
-msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
-
-msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
 msgstr ""
