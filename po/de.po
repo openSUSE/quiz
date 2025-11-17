@@ -3,18 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-10-07 11:33+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-18 16:04+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.3\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -1963,7 +1952,6 @@ msgstr "Eine Gruppe an Paketen die Use-cases und Rollen definieren"
 msgid "A theming configuration file"
 msgstr "Eine Konfigurationsdatei für die Themenauswahl"
 
-#, fuzzy
 msgid "A metadata tag for a repository"
 msgstr "Ein Metadaten-Tag eines Repositories"
 
@@ -2051,7 +2039,6 @@ msgstr "Ein Symlink auf zypper, um Tippfehler bei Tastaturen mit ausgetauschten 
 msgid "The project name of next gen zypper"
 msgstr "Der Projektname der nächsten Generation von zypper"
 
-#, fuzzy
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
 msgstr "Diese Frage ist schwierig! Jeder kennt 'zypper rm --clean-deps', aber was passiert wenn man 'zypper rm --clean-deps rm' ausführt?"
 
@@ -2288,7 +2275,7 @@ msgid "SUSE Story"
 msgstr "SUSE-Geschichte"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "Entdecke SUSE, einen Klick nach dem anderen."
 
 msgid "What is SUSE’s business?"
 msgstr "Was ist das Geschäftsfeld von SUSE?"
@@ -2300,7 +2287,7 @@ msgid "Delivering modern container and VM management with Rancher and Harvester"
 msgstr "Moderne Container- und VM-Verwaltung mit Rancher und Harvester"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "Cloud-native workloads mit NeuVector absichern"
 
 msgid "All of the above"
 msgstr "Alle oben genannten Punkte"
@@ -2312,13 +2299,13 @@ msgid "Software- und System-Entwicklung (Software and Systems Development)"
 msgstr "Software- und System-Entwicklung"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "System Upgrade & Security Engine"
 
 msgid "How many employees does SUSE have worldwide?"
 msgstr "Wie viele Mitarbeiter hat SUSE weltweit?"
@@ -2336,7 +2323,7 @@ msgid "Around 10,000"
 msgstr "Ungefähr 10.000"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "SUSECON 2026 kommt im April! In welcher Stadt findet die größte SUSE Konferenz statt?"
 
 msgid "Prague"
 msgstr "Prag"
@@ -2345,10 +2332,10 @@ msgid "Cupertino"
 msgstr "Cupertino"
 
 msgid "Redmont"
-msgstr ""
+msgstr "Redmont"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "Raleigh"
 
 msgid "Which of the following is true about the SUSE Logo?"
 msgstr "Welche der folgenden Aussagen über das SUSE-Logo ist richtig?"
@@ -2402,7 +2389,7 @@ msgid "Making networking faster on Linux desktops"
 msgstr "Schnellere Vernetzung auf Linux-Desktops"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "Automatisieren von Paket-Builds"
 
 msgid "Coloring the chameleon logo green"
 msgstr "Einfärben des Chamäleon-Logos in Grün"
@@ -2411,13 +2398,13 @@ msgid "What is SUSE Harvester?"
 msgstr "Was ist SUSE Harvester?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "Eine Virtualisierungsplatform die dich einfach VMs auf Bare-Metal-Servern erstellen, migrieren, sichern und wiederherstellen lässt"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Ein auf Kubernetes basierendes System welches KubeVirt für Virtualisierung, Longhorn für Datenspeicher nutzt und das Ausführen von Containern neben VMs erlaubt"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "Eine mit Rancher integrierte Lösung, die Container- und VM-Management mit Netzwerkverwaltung und Überwachung kombiniert"
 
 msgid "What is openSUSE?"
 msgstr "Was ist openSUSE?"
@@ -2426,13 +2413,13 @@ msgid "A community project sponsored by SUSE"
 msgstr "Ein von SUSE gesponsertes Gemeinschaftsprojekt"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "Mehr als nur eine Community-Linux-Distribution"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "Ein toller Ort um Projekte wie openQA, den Open Build Service und eine freundliche community zu entwickeln"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "Wofür sind SUSE BCI (Base Container Images) bekannt?"
 
 msgid "Being bloated with unnecessary packages"
 msgstr "Mit unnötigen Paketen überladen sein"
@@ -2441,10 +2428,10 @@ msgid "Only working on SUSE Linux Enterprise Server"
 msgstr "Funktioniert nur unter SUSE Linux Enterprise Server"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "Wirklich offene, flexible und sichere Images basierend auf SUSE Linux Enterprise bereitzustellen"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "Für 'Big Chameleon Initiative' zu stehen"
 
 msgid "SUSE x openSSL"
 msgstr "SUSE x openSSL"
@@ -2477,22 +2464,22 @@ msgid "19"
 msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "Den FIPS Modus auf einem SUSE System zu aktiveren hat welchen der folgenden Effekte?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "Er erlaubt alle kryptographischen Algorithmen, auch unsichere."
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "Er beschränkt die Benutzung von Kryptographie auf FIPS-zertifizierte Algorithmen und Programme."
 
 msgid "It has no impact on system performance or compatibility."
 msgstr "Es hat keine Auswirkungen auf die Systemleistung oder Kompatibilität."
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "Du fängst an zu lächeln wie im 'Hide the Pain Harold' Meme."
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Von wo aus werden SUSE Entwickler in Brno, Tschechien an der SUSE Hackweek 25 teilnehmen?"
 
 msgid "The OpenSSL office"
 msgstr "Das OpenSSL-Büro"
@@ -2504,22 +2491,22 @@ msgid "Red Hat office"
 msgstr "Red Hat-Büro"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "Vaňkovka Einkaufspassage"
 
 msgid "Why does SUSE invest in OpenSSL?"
 msgstr "Warum investiert SUSE in OpenSSL?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "Um an die community zurückzugeben auf die sich SUSE und viele andere verlassen"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "Damit Chamäleons sicher im Internet browsen können"
 
 msgid "To win a race against penguins"
 msgstr "Um ein Rennen gegen Pinguine zu gewinnen"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Um die Linux Kernel Bootdauer zu reduzieren"
 
 msgid "SUSE engineers contribute to OpenSSL by"
 msgstr "SUSE-Ingenieure tragen zu OpenSSL bei durch"
@@ -2531,7 +2518,7 @@ msgid "Contributing fixes and new features"
 msgstr "Bereitstellung von Fehlerbehebungen und neuen Funktionen"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "Durchführen von Enterprise-grade Tests mit Programmen wie openQA"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
 msgstr "Welche Rolle spielt OpenSSL in SUSE Linux Enterprise?"
@@ -2540,13 +2527,13 @@ msgid "It secures communication and cryptographic operations"
 msgstr "Es sichert die Kommunikation und kryptografische Vorgänge"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "Es fügt neue Desktophintergründe hinzu"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "Es lässt den Open Build Service schneller laufen"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "Es verwaltet Rancher-Cluster"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
 msgstr "Warum ist die FIPS-Zertifizierung in OpenSSL für SUSE wichtig?"
@@ -2561,13 +2548,13 @@ msgid "It guarantees free coffee for certified systems"
 msgstr "Es garantiert kostenlosen Kaffee für zertifizierte Systeme"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "Es ist nur in Retro-Linuxdistributionen nützlich"
 
 msgid "openSUSE Introduction"
 msgstr "Einführung in openSUSE"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "Entdecke openSUSE, einen Klick nach dem anderen."
 
 msgid "A project supported by SUSE, made for everyone"
 msgstr "Ein von SUSE unterstütztes Projekt für alle"
@@ -2576,10 +2563,10 @@ msgid "More than just one Linux distribution"
 msgstr "Mehr als nur eine Linux-Distribution"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "Ein netter Ort um Software zu bauen und neue Programme zu lernen"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "Alle diese Dinge zusammen"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
 msgstr "openSUSE hat gerade seinen 20. Geburtstag gefeiert! In welchem Jahr war das?"
@@ -2597,7 +2584,7 @@ msgid "2005 – the year openSUSE was born, but not 20 years ago"
 msgstr "2005 – das Jahr, in dem openSUSE geboren wurde, aber nicht vor 20 Jahren"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE hat 2 hauptsächliche Wege um Updates zu installieren. Einer ist ein großer Release einmal im Jahr, der andere liefert dauernd Updates. Wie heißen sie?"
 
 msgid "Stable and Rolling"
 msgstr "Stabil und rollierend"
@@ -2612,7 +2599,7 @@ msgid "Rolling and Leaping"
 msgstr "Rollend und springend"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "Welche openSUSE Version 'rollt' (immer up-to-date)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
 msgstr "Aeon, Kalpa und MicroOS"
@@ -2621,70 +2608,70 @@ msgid "Slowroll and Slowroll Micro"
 msgstr "Slowroll und Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "Alle Antworten 'rollen'"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap und Leap Micro sind stabile Distributionen. Was heißt das?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "Jeder Minor-Release erhält Updates für ungefähr 24 Monate"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "Sie erhalten einen großen Release alle 12 Monate"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "Sie halten Release Parties ab bei denen jeder mitmachen kann 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "Jede dieser Antworten (und du kannst Leap 16 bis 2033 benutzen!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE hat auch 'immutable' Distributionen. Was heißt das?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "Sie benutzen ein read-only Basissystem und updaten sicher mit besonderen Programmen"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "Sie können nicht auf Laptops installiert werden"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "Es sind Distributionen die nie den Desktophintergrund ändern"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "Sie sind nur als DVD per Post erhältlich"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Was ist Slowroll?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Eine Variante von Tumbleweed bei den Updates in getestete Pakete gebündelt werden"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Ein Rennspiel Modus in Linux"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "Eine Distribution die nur einmal alle 10 Jahre updatet"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "Der neue Name des Maskottchens"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "Was sind einige der wichtigsten openSUSE community Tools und Projekte?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "Open Build Service (OBS) um Software zu bauen"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "openQA für automatisiertes Testen"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "Das Wiki, Weblate, Foren und vieles mehr"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "Alles davon ist Teil von openSUSE"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "Das Team das sich um die openSUSE Infrastruktur kümmert heißt openSUSE...?"
 
 msgid "Heroes"
 msgstr "Helden"
@@ -2729,7 +2716,7 @@ msgid "Why do people love openSUSE?"
 msgstr "Warum lieben Menschen openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Stabile Leap Releases und schnelle Tumbleweed Updates"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
 msgstr "Moderne Werkzeuge wie Agama, Myrlyn, zypper, OBS und openQA"
@@ -2741,223 +2728,223 @@ msgid "All of these together"
 msgstr "All dies zusammen"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "Wo kannst du mithelfen openSUSE zu übersetzen (auch dieses Quiz)?"
 
 msgid "Weblate at l10n.opensuse.org"
 msgstr "Weblate unter l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "Indem du die Übersetzungen ins Ohr des Chamäleons flüsterst"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "Im Hauptsitz von Google Übersetzer in einem geheimen Bunker"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Indem man mit den Übersetzungen auf zufällige Reddit Posts antwortet"
 
 msgid "Where can you get help with openSUSE?"
 msgstr "Wo kann man Hilfe zu openSUSE bekommen?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Frag einen Freund der Linux benutzt"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "Auf vielen lokalen Linux Portalen und Websiten"
 
 msgid "Show All"
 msgstr "Alles anzeigen"
 
 msgid "Level Up"
-msgstr ""
+msgstr "Aufleveln"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Hardware-Enablement Reise auf Arm."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Was ist Arm, im Computerkontext?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Eine Familie von energieeffizienten CPU Architekturen die weit auf mobilen Geräten, eingebettteten Systemen und Servern verbreitet ist"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Mechanische Gliedmaßen die deinen Code kompilieren"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "Eine besonderes SUSE Abteilung für Armdrücken gegen Kernel Bugs"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Ein neues Dateisystem welches von Geeko erfunden wurde"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Was ist der Raspberry Pi 5?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Ein Kreditkarten-großer Computer der die Arm Architektur benutzt"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Ein erschwinglicher und energieeffizienter kleiner Desktop - perfekt für Kinder um das Internet zu browsen, YouTube anzuschauen, Programmieren zu lernen oder Spiele zu spielen"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "Ein kleiner aber fähiger Server um ein NAS, Home Assistant, Nextcloud order einen lokalen openSUSE Mirror zuhause laufen zu lassen"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Was ist die korrekte Schreibweise für die CPU Architektur die von openSUSE auf dem Respberry Pi 5 unterstützt wird?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm... unsicher"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "Wer steckt hinter dem Raspberry Pi 5 u-boot Support im upstream Linux-Kernel?"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "Ivan Ivanov und Matthias Brugger aus dem SUSE Hardware Enablement Team."
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Welche openSUSE Edition bietet speziellen Support für Raspberry Pi Images?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed und MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Nur Tumbleweed, weil es nie aufhört zu rollen"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Nur Leap 42.3, weil es unendlich ist"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Nur MicroOS, alles andere ist geschmolzen"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Was ist das bevorzugte Image Format für openSUSE auf dem Raspberry Pi?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Rohes disk image (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe Installer"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr ".iso DVD Image welches manuell gelötet werden muss"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz voller Träume"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE kann auch auf Mobilgeräten laufen! Welches Installationsmedium steht für das PinePhone zur Verfügung?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed mit Phosh (für Puristen) und Tumbleweed mit Plasma Mobile (für KDE Fans)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Leap Micro mit einer GNOME Kommandozeile für Kühlschränke"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Tumbleweed LXQt Edition für Wählscheibentelefone"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "MicroOS Text Edition für Morse Eingaben"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Wo findet man openSUSE Images für Arm Geräte wie den Raspberry Pi, das PinePhone oder das Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org - der freundliche Startpunkt für die meistverwendeten openSUSE Images"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Protal:Arm - das Arm Portal mit Links und Dokumentation"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed - für die Mutigen die gerne selbst browsen"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "Wird openSUSE Tumbleweed Arm zusammen mit x86_64 Paketen gebaut?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "Nein, es wird seperat als Teil von openSUSE Ports gebaut"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Ja, alles kommt aus einem magischen Build-Server"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Nur wenn sich der Mond gerade in Rückläufigkeit befindet"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Ja, aber alles wird von Pinguinen kompiliert"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Welcher Befehl wird häufig genutzt um ein openSUSE Image auf eine SD Karte zu schreiben?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Von welcher Art von Speichermedien kann ein openSUSE Raspberry Pi Image booten?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD Karte, USB, oder NVMe (auf dem Pi 5)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Nur von Floppy Disks mit viel Geduld"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Cloud Synchronisierung mit Brieftauben"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "Von Magnetband-Backups, wenn du genug daran glaubst"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Wie bleibt man am besten über openSUSE Arm Entwicklung informiert?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Der openSUSE Arm Mailingliste und Matrix Kanal folgen (Details unten)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Frag ChatGPT nach täglichen Firmware Leaks"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Die Sterne unter einem Vollmond befragen"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "get.opensuse.org aktualisieren bis es blinkt"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Wenn du diesen Raspberry Pi 5 gewinnst, wofür möchtest du ihn verwenden?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Mit openSUSE Tumbleweed für Arm anfangen und die volle Linux Desktop Erfahrung erhalten"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Einen eigenen Homeserver mit Nextcloud, Home Assistant oder deinem eigenen openSUSE Mirror aufsetzen"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Coole Experimente wie Retro Gaming, Medienserver oder Programmierprojekte für Kinder ausprobieren"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
