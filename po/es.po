@@ -2,21 +2,10 @@
 # Victor hck <victorhck@opensuse.org>, 2025.
 # "Marina J. Donis" <marinajdonis@gmail.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
-"PO-Revision-Date: 2025-09-13 12:59+0000\n"
-"Last-Translator: \"Marina J. Donis\" <marinajdonis@gmail.com>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-26 12:04+0000\nLast-Translator: \"Marina J. Donis\" <marinajdonis@gmail.com>\nLanguage-Team: Spanish <https://l10n.opensuse.org/projects/quiz/quiz/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.3\n"
 
 msgid "Immutability"
-msgstr ""
+msgstr "Immutability"
 
 msgid "Let's learn something about our Immutable distros."
 msgstr "Aprendamos algo sobre nuestras distribuciones Immutable (inmutables)."
@@ -40,7 +29,7 @@ msgid "Which of these are openSUSE Immutable distros?"
 msgstr "¿Cuál de las siguientes es una versión de openSUSE Immutable (inmutable)?"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
@@ -49,28 +38,25 @@ msgid "Argon, Krypton"
 msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
-#, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "¿Cuál es el objetivo principal de openSUSE MicroOS?"
+msgstr "¿Qué es openSUSE MicroOS?"
 
-#, fuzzy
 msgid "A rolling-release web browser"
-msgstr "Una distribución de lanzamientos continuos"
+msgstr "Un navegador web de lanzamientos continuos"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "Micro Service OS creado por la comunidad openSUSE"
 
 msgid "A package manager"
-msgstr ""
+msgstr "Un administrador de paquetes"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "Un entorno de ejecución de contenedores"
 
-#, fuzzy
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "¿Qué entorno de escritorio es el predeterminado para openSUSE Leap 15?"
+msgstr "¿Qué entorno de escritorio es el predeterminado para openSUSE Aeon?"
 
 msgid "KDE Plasma"
 msgstr "KDE Plasma"
@@ -82,7 +68,7 @@ msgid "GNOME"
 msgstr "GNOME"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr "¿Qué entorno de escritorio usa por defecto openSUSE Kalpa?"
@@ -133,7 +119,7 @@ msgid "All options are correct."
 msgstr "Todas las opciones son correctas."
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "Tanto Aeon como Kalpa tienen nombres interesantes que indirectamente refieren a un lanzamiento continuo. ¿Cómo?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
 msgstr "Ambos son términos antiguos que se refieren a períodos largos o ciclos cósmicos."
@@ -186,7 +172,6 @@ msgstr "zypper in"
 msgid "dnf install"
 msgstr "dnf install"
 
-#, fuzzy
 msgid "transactional-update pkg install"
 msgstr "transactional-update pkg install"
 
@@ -209,16 +194,16 @@ msgid "Geeko loses a hair every time you use it."
 msgstr "Geeko pierde un pelo cada vez que lo use."
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "¿Cómo permiten nuestras distros inmutables (immutable) escribir a /etc en tiempo de ejecución?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "Utilizando overlayfs sobre /etc"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "Montando un volumen Btrfs escribible directamente"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "Desabilitando el modo sólo lectura durante el arranque"
 
 msgid "Through rpm-ostree layering"
 msgstr ""
@@ -1313,66 +1298,65 @@ msgstr ""
 msgid "Are you an openSUSE Conference Historian? Prove it!"
 msgstr ""
 
-#, fuzzy
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "¿Cuál es la mascota del proyecto openSUSE?"
+msgstr "¿En qué año se hizo la primer conferencia openSUSE?"
 
 msgid "2006"
 msgstr "2006"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "¿Quién dió el discurso inaugural \"Working in a virtual community\" en 2009?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Leslie Hawthorn de Google"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Gianugo Rabellino de la Apache Software Foundation"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe \"Zonker\" Brockmeier, community manager de openSUSE"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "Lenz Grimmer de MySQL"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "¿Qué empresa fue propietaria y patrocinó la conferencia openSUSE en 2009?"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "Volviendo al presente. ¿Quién dio el discurso inaugural en la oSC 2024?"
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
 msgstr ""
