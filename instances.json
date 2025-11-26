@@ -31,8 +31,11 @@
     "suse": {
 	    "quizzes": [
 		    "suse",
-		    "suse_openssl",
 		    "sles16",
+			"opensuse_intro",
+			"zypper",
+			"kids",
+			"kernel",
 	    ],
 	    "theme": "SUSE",
     },
