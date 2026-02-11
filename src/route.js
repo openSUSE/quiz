@@ -73,7 +73,7 @@ module.exports = (dependencies) => {
     const localized = localizeQuizData({ quizData, questions }, _);
     const uiStrings = getUiStrings(_, name);
     const existingLoginsLower = Object.keys(results || {}).map((k) =>
-      k.toLowerCase()
+      encodeURIComponent(k.toLowerCase())
     );
 
     res.render("quiz", {
