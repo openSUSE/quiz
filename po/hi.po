@@ -18,679 +18,679 @@ msgstr ""
 "X-Generator: Weblate 5.13\n"
 
 msgid "Immutability"
-msgstr "Immutability"
+msgstr "अपरिवर्तनीयता"
 
 msgid "Let's learn something about our Immutable distros."
-msgstr ""
+msgstr "आइए अपनी अपरिवर्तनीय डिस्ट्रीब्यूशन्स के बारे में कुछ सीखें।"
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr ""
+msgstr "सरल शब्दों में बताइए, हमारी अपरिवर्तनीय डिस्ट्रीब्यूशन्स को चलाने वाला 'transactional-update' कैसे काम करता है?"
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr ""
+msgstr "ज्यादातर सिस्टम पार्टिशन को केवल-पढ़ने योग्य (read-only) के रूप में माउंट किया जाता है, जिससे डिस्क पर बदलाव रोका जाता है।"
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr ""
+msgstr "अपडेट तब तक चल रहे सिस्टम को प्रभावित नहीं करते जब तक आप नए स्नैपशॉट में रीबूट नहीं करते।"
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr ""
+msgstr "सिस्टम सुरक्षित, एटोमिक अपग्रेड और आसान रोलबैक के लिए transactional-update का उपयोग करता है।"
 
 msgid "All options are correct"
 msgstr "सभी विकल्प सही हैं"
 
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr ""
+msgstr "इनमें से कौन‑सी openSUSE अपरिवर्तनीय डिस्ट्रीब्यूशन्स हैं?"
 
 msgid "Silverblue, CoreOS"
-msgstr ""
+msgstr "Silverblue, CoreOS"
 
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr ""
+msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
 msgid "Argon, Krypton"
-msgstr ""
+msgstr "Argon, Krypton"
 
 msgid "Hurd, Darwin"
-msgstr ""
+msgstr "Hurd, Darwin"
 
 #, fuzzy
 msgid "What is openSUSE MicroOS?"
-msgstr "ओपनसुसा परियोजना का शुभंकर क्या है?"
+msgstr "ओपनसुसा माइक्रोओएस क्या है?"
 
 msgid "A rolling-release web browser"
-msgstr ""
+msgstr "एक रोलिंग‑रिलीज़ वेब ब्राउज़र"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr ""
+msgstr "ओपनसुसा समुदाय द्वारा बनाया गया माइक्रो सर्विस ऑपरेटिंग सिस्टम"
 
 msgid "A package manager"
-msgstr ""
+msgstr "एक पैकेज प्रबंधक"
 
 msgid "A container runtime"
-msgstr ""
+msgstr "एक कंटेनर रनटाइम"
 
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr ""
+msgstr "ओपनसुसा एओन डिफ़ॉल्ट रूप से कौन‑सा डेस्कटॉप वातावरण उपयोग करता है?"
 
 msgid "KDE Plasma"
-msgstr ""
+msgstr "KDE Plasma"
 
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr ""
+msgstr "ओपनसुसा कल्पा डिफ़ॉल्ट रूप से कौन‑सा डेस्कटॉप वातावरण उपयोग करता है?"
 
 #, fuzzy
 msgid "What is the name of installer in openSUSE Aeon?"
-msgstr "ओपनसुसा परियोजना का मुख्य लक्ष्य क्या है?"
+msgstr "ओपनसुसा एओन में इंस्टालर का नाम क्या है?"
 
 msgid "tik"
-msgstr ""
+msgstr "tik"
 
 msgid "tak"
-msgstr ""
+msgstr "tak"
 
 msgid "Anaconda"
-msgstr ""
+msgstr "Anaconda"
 
 msgid "Agama"
-msgstr ""
+msgstr "Agama"
 
 #, fuzzy
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "ओपनसुसा परियोजना का मुख्य लक्ष्य क्या है?"
+msgstr "ओपनसुसा एओन में डिफ़ॉल्ट रूप से कौन‑सा बूटलोडर उपयोग किया जाता है?"
 
 msgid "lilo"
-msgstr ""
+msgstr "lilo"
 
 msgid "systemd-boot"
-msgstr ""
+msgstr "systemd-boot"
 
 msgid "grub2"
-msgstr ""
+msgstr "grub2"
 
 msgid "BOOTMGR"
-msgstr ""
+msgstr "BOOTMGR"
 
 #, fuzzy
 msgid "What do Aeon and Kalpa have in common?"
 msgstr "एओन और कल्पा क्या हैं?"
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr ""
+msgstr "दोनों माइक्रोओएस पर आधारित हैं और तैयार‑उपयोग डेस्कटॉप प्रदान करते हैं।"
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr ""
+msgstr "दोनों rpm इंस्टॉलेशन के लिए transactional-update का उपयोग करते हैं।"
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr ""
+msgstr "दोनों अतिरिक्त ऐप्स के लिए distrobox और flatpak को बढ़ावा देते हैं।"
 
 #, fuzzy
 msgid "All options are correct."
 msgstr "सभी विकल्प सही हैं"
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr ""
+msgstr "एओन और कल्पा दोनों के नाम दिलचस्प हैं जो परोक्ष रूप से रोलिंग रिलीज़ की ओर संकेत करते हैं। कैसे?"
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr ""
+msgstr "दोनों बहुत पुराने शब्द हैं जिनका अर्थ लंबे समय या ब्रह्मांडीय चक्रों से है।"
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr ""
+msgstr "दोनों प्रसिद्ध वेस्टर्न फ़िल्मों के नाम हैं जिनमें रोलिंग टंबलवीड दिखाई देता है।"
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr ""
+msgstr "दोनों माइक्रोओएस के मूल आर्किटेक्ट के बहुत पुराने उपनाम हैं।"
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr ""
+msgstr "दोनों ओपनसुसा में सॉफ़्टवेयर अपडेट टूल्स के नाम हैं।"
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr ""
+msgstr "2023 में Sway आधारित एक अपरिवर्तनीय डेस्कटॉप के साथ एक प्रयोग हुआ था। क्या आप उसका नाम जानते हैं?"
 
 msgid "Greyhound"
-msgstr ""
+msgstr "Greyhound"
 
 msgid "Greybeard"
-msgstr ""
+msgstr "Greybeard"
 
 msgid "Bluehair"
-msgstr ""
+msgstr "Bluehair"
 
 msgid "Ultraviolet"
-msgstr ""
+msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr ""
+msgstr "हमारी अपरिवर्तनीय डिस्ट्रीब्यूशन्स में बेस सिस्टम को सुरक्षित रूप से अपडेट करने के लिए कौन‑सा टूल उपयोग किया जाता है?"
 
 msgid "zypper dup"
-msgstr ""
+msgstr "zypper dup"
 
 msgid "dnf upgrade"
-msgstr ""
+msgstr "dnf upgrade"
 
 msgid "transactional-update"
-msgstr ""
+msgstr "transactional-update"
 
 msgid "ostree pull"
-msgstr ""
+msgstr "ostree pull"
 
 msgid "How can you install an additional package?"
-msgstr ""
+msgstr "आप एक अतिरिक्त पैकेज कैसे इंस्टॉल कर सकते हैं?"
 
 msgid "zypper in"
-msgstr ""
+msgstr "zypper in"
 
 msgid "dnf install"
-msgstr ""
+msgstr "dnf install"
 
 msgid "transactional-update pkg install"
-msgstr ""
+msgstr "transactional-update pkg install"
 
 msgid "rpm-ostree install"
-msgstr ""
+msgstr "rpm-ostree install"
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr ""
+msgstr "'transactional-update shell' आमतौर पर क्यों अनुशंसित नहीं है?"
 
 msgid "Because you can modify all parts of the system."
-msgstr ""
+msgstr "क्योंकि आप सिस्टम के सभी हिस्सों में बदलाव कर सकते हैं।"
 
 msgid "It creates wormholes into another dimension."
-msgstr ""
+msgstr "यह आपको दूसरी डाइमेंशन में ले जाने के लिए wormholes बना देता है।"
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr ""
+msgstr "यह गुप्त रूप से आपके सिस्टम को Fedora में माइग्रेट कर सकता है।"
 
 msgid "Geeko loses a hair every time you use it."
-msgstr ""
+msgstr "आप जब‑जब इसे उपयोग करते हैं, Geeko के बालों की एक लट कम हो जाती है।"
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr ""
+msgstr "हमारी अपरिवर्तनीय डिस्ट्रीब्यूशन्स रनटाइम पर /etc में लिखने की अनुमति कैसे देती हैं?"
 
 msgid "By using overlayfs on top of /etc"
-msgstr ""
+msgstr "/etc के ऊपर overlayfs का उपयोग करके"
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr ""
+msgstr "किसी लिखने योग्य Btrfs सबवॉल्यूम को सीधे माउंट करके"
 
 msgid "By disabling read-only mode during boot"
-msgstr ""
+msgstr "बूट के दौरान read-only मोड को अक्षम करके"
 
 msgid "Through rpm-ostree layering"
-msgstr ""
+msgstr "rpm-ostree लेयरिंग के माध्यम से"
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr ""
+msgstr "अपरिवर्तनीय डिस्ट्रीब्यूशन्स में अपडेट मैकेनिज़्म के अलावा, कौन‑से अन्य घटक transactional-update को सपोर्ट करते हैं?"
 
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 msgid "Salt and Ansible"
-msgstr ""
+msgstr "Salt और Ansible"
 
 msgid "cockpit-tukit"
-msgstr ""
+msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr ""
+msgstr "निम्नलिखित अपरिवर्तनीय डिस्ट्रीब्यूशन्स में से केवल एक में नियमित पॉइंट रिलीज़ होते हैं, बाकी रोलिंग हैं। वह कौन‑सी है?"
 
 msgid "Leap Micro"
-msgstr ""
+msgstr "Leap Micro"
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 msgid "Aeon"
-msgstr ""
+msgstr "Aeon"
 
 msgid "Kalpa"
-msgstr ""
+msgstr "Kalpa"
 
 msgid "Kernel Ninja"
-msgstr ""
+msgstr "कर्नेल निंजा"
 
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr ""
+msgstr "SUSE और openSUSE में कर्नेल के बारे में रोचक तथ्य"
 
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr ""
+msgstr "SUSE Automotive Linux OS की बेस (squashfs) इमेज का आकार (MB में) लगभग कितना है?"
 
 msgid "~ 20MB"
-msgstr ""
+msgstr "~ 20MB"
 
 msgid "~ 60MB"
-msgstr ""
+msgstr "~ 60MB"
 
 msgid "~ 240MB"
-msgstr ""
+msgstr "~ 240MB"
 
 msgid "~ 520MB"
-msgstr ""
+msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr ""
+msgstr "ऑटोमोटिव उपयोग के लिए रियल‑टाइम लिनक्स कर्नेल में, मानक SLES RT की तुलना में लगभग कितने कॉन्फ़िगरेशन पैरामीटर समायोजित किए जाते हैं?"
 
 msgid "~ 50"
-msgstr ""
+msgstr "~ 50"
 
 msgid "~ 500"
-msgstr ""
+msgstr "~ 500"
 
 msgid "~ 50000"
-msgstr ""
+msgstr "~ 50000"
 
 msgid "~ 500000"
-msgstr ""
+msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr ""
+msgstr "11 जून 2025 तक upstream kernel 15.6 (SLES 15 SP6) के ऊपर लगभग कितने पैच लगाए गए थे?"
 
 msgid "4231"
-msgstr ""
+msgstr "4231"
 
 msgid "16102"
-msgstr ""
+msgstr "16102"
 
 msgid "32786"
-msgstr ""
+msgstr "32786"
 
 msgid "346870"
-msgstr ""
+msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr ""
+msgstr "ओपनसुसा लीप में डिफ़ॉल्ट रूप से कौन‑सा कर्नेल फ्लेवर उपयोग किया जाता है?"
 
 msgid "kernel-suse"
-msgstr ""
+msgstr "kernel-suse"
 
 msgid "kernel-default"
-msgstr ""
+msgstr "kernel-default"
 
 msgid "kernel-leap"
-msgstr ""
+msgstr "kernel-leap"
 
 msgid "kernel-vanilla"
-msgstr ""
+msgstr "kernel-vanilla"
 
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr ""
+msgstr "ओपनसुसा में kernel-default और kernel-rt के बीच मुख्य अंतर क्या है?"
 
 msgid "kernel-rt supports older hardware"
-msgstr ""
+msgstr "kernel-rt पुराने हार्डवेयर को सपोर्ट करता है"
 
 msgid "kernel-rt disables preemption"
-msgstr ""
+msgstr "kernel-rt प्रीएम्प्शन को अक्षम करता है"
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr ""
+msgstr "kernel-rt में पूर्ण रियल‑टाइम प्रीएम्प्शन सक्षम है"
 
 msgid "kernel-rt has less security features"
-msgstr ""
+msgstr "kernel-rt में सुरक्षा फ़ीचर्स कम हैं"
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr ""
+msgstr "लिनक्स कर्नेल में 'PREEMPT_RT' क्या सक्षम करता है?"
 
 msgid "Real-time audio streaming"
-msgstr ""
+msgstr "रियल‑टाइम ऑडियो स्ट्रीमिंग"
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr ""
+msgstr "पूर्ण प्रीएम्प्शन, जिससे महत्वपूर्ण हिस्सों में लेटेंसी कम होती है"
 
 msgid "Faster boot times"
-msgstr ""
+msgstr "तेज़ बूट समय"
 
 msgid "Better energy efficiency"
-msgstr ""
+msgstr "बेहतर ऊर्जा दक्षता"
 
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr ""
+msgstr "कर्नेल पैच को फैलाने (expand) के लिए उपयोग होने वाला (बहुत) तेज़ टूल कौन‑सा है?"
 
 msgid "gitlab-kernel"
-msgstr ""
+msgstr "gitlab-kernel"
 
 msgid "obs-kernel"
-msgstr ""
+msgstr "obs-kernel"
 
 msgid "rapidquilt"
-msgstr ""
+msgstr "rapidquilt"
 
 msgid "susepatch"
-msgstr ""
+msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr ""
+msgstr "openSUSE में सोर्स ट्री के भीतर कर्नेल बिल्ड कॉन्फ़िग आमतौर पर कहाँ संग्रहीत होते हैं?"
 
 msgid "configs/"
-msgstr ""
+msgstr "configs/"
 
 msgid "source/"
-msgstr ""
+msgstr "source/"
 
 msgid "etc/"
-msgstr ""
+msgstr "etc/"
 
 msgid "boot/"
-msgstr ""
+msgstr "boot/"
 
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr ""
+msgstr "openSUSE में 'kernel-devel' पैकेज क्या प्रदान करता है?"
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr ""
+msgstr "बाहरी कर्नेल मॉड्यूल बनाने के आधार के रूप में उपयोग होने वाले सामान्य कर्नेल हेडर"
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr ""
+msgstr "डिबगिंग और मॉड्यूल बनाने के लिए आवश्यक पूरा कर्नेल सोर्स कोड"
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr ""
+msgstr "लिनक्स कर्नेल के लिए प्रलेखन (डोक्यूमेंटेशन) और मैनुअल"
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr ""
+msgstr "नवीनतम SUSE कर्नेल टीम के टीम‑बिल्डिंग इवेंट की एक छिपी हुई तस्वीर"
 
 msgid "Which of the following is a program to load kernel modules?"
-msgstr ""
+msgstr "निम्नलिखित में से कौन‑सा प्रोग्राम कर्नेल मॉड्यूल लोड करने के लिए उपयोग होता है?"
 
 msgid "mkinitrd"
-msgstr ""
+msgstr "mkinitrd"
 
 msgid "zypper"
-msgstr ""
+msgstr "zypper"
 
 msgid "modprobe"
-msgstr ""
+msgstr "modprobe"
 
 msgid "systemctl"
-msgstr ""
+msgstr "systemctl"
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr ""
+msgstr "openSUSE Tumbleweed का कर्नेल (आमतौर पर) कितनी बार अपडेट होता है?"
 
 msgid "Every 6 months"
-msgstr ""
+msgstr "हर 6 महीने में"
 
 msgid "Once a year"
-msgstr ""
+msgstr "साल में एक बार"
 
 msgid "Weekly or even more frequently"
-msgstr ""
+msgstr "साप्ताहिक या उससे भी अधिक बार"
 
 msgid "Only when Linus pushes a new tag"
-msgstr ""
+msgstr "केवल तब, जब Linus कोई नया टैग पुश करते हैं"
 
 #, fuzzy
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "ओपनसुसा परियोजना का मुख्य लक्ष्य क्या है?"
+msgstr "openSUSE में 'vanilla' कर्नेल फ्लेवर किसका प्रतिनिधित्व करता है?"
 
 msgid "Kernel with experimental SUSE patches"
-msgstr ""
+msgstr "SUSE के प्रायोगिक पैच वाला कर्नेल"
 
 msgid "Unmodified upstream Linux kernel"
-msgstr ""
+msgstr "बिना बदला हुआ upstream लिनक्स कर्नेल"
 
 msgid "Kernel optimized for servers"
-msgstr ""
+msgstr "सर्वर के लिए अनुकूलित कर्नेल"
 
 msgid "Kernel with enhanced SELinux support"
-msgstr ""
+msgstr "अधिक उन्नत SELinux सपोर्ट वाला कर्नेल"
 
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
-msgstr ""
+msgstr "वीडियो ड्राइवर की समस्याओं को डिबग करते समय आमतौर पर कौन‑सा कर्नेल बूट पैरामीटर मदद करता है?"
 
 msgid "quiet"
-msgstr ""
+msgstr "quiet"
 
 msgid "nomodeset"
-msgstr ""
+msgstr "nomodeset"
 
 msgid "bumblebee"
-msgstr ""
+msgstr "bumblebee"
 
 msgid "noacpi"
-msgstr ""
+msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr ""
+msgstr "लिनक्स में कौन‑सी रियल‑टाइम शेड्यूलिंग नीति सबसे अधिक निर्धारक (deterministic) है?"
 
 msgid "SCHED_OTHER"
-msgstr ""
+msgstr "SCHED_OTHER"
 
 msgid "SCHED_FIFO"
-msgstr ""
+msgstr "SCHED_FIFO"
 
 msgid "SCHED_BATCH"
-msgstr ""
+msgstr "SCHED_BATCH"
 
 msgid "SCHED_IDLE"
-msgstr ""
+msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr ""
+msgstr "openSUSE Leap में अतिरिक्त फर्मवेयर प्रदान करने वाले पैकेज का नाम क्या है?"
 
 msgid "kernel-firmware-extra"
-msgstr ""
+msgstr "kernel-firmware-extra"
 
 msgid "firmware-addon-leap"
-msgstr ""
+msgstr "firmware-addon-leap"
 
 msgid "kernel-default-extra"
-msgstr ""
+msgstr "kernel-default-extra"
 
 msgid "suse-firmware-pack"
-msgstr ""
+msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr ""
+msgstr "openSUSE में GRUB कर्नेल कमांड लाइन के माध्यम से आप AppArmor को कैसे सक्षम कर सकते हैं?"
 
 msgid "apparmor=1"
-msgstr ""
+msgstr "apparmor=1"
 
 msgid "security=apparmor"
-msgstr ""
+msgstr "security=apparmor"
 
 msgid "enable=apparmor"
-msgstr ""
+msgstr "enable=apparmor"
 
 msgid "selinux=off apparmor=on"
-msgstr ""
+msgstr "selinux=off apparmor=on"
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr ""
+msgstr "openSUSE कर्नेल दुनिया में 'KOTD' का क्या अर्थ है?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr ""
+msgstr "Kernel Of The Day — OBS Kernel:xxx प्रोजेक्ट्स पर प्रतिदिन बनाए जाने वाले कर्नेल"
 
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr ""
+msgstr "Knights Of The Old Repositories — दिग्गज कर्नेल रक्षक"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr ""
+msgstr "Keep Our Tux Dancing — गुप्त कर्नेल डांस पार्टी"
 
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr ""
+msgstr "Kernel Operators Training Division — जेडाई‑स्तर के कर्नेल निंजा"
 
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr ""
+msgstr "SUSE शीर्ष 6 लिनक्स कर्नेल कॉन्ट्रिब्यूटर्स में से एक है (LF 2017)। SUSE लगभग कितने प्रतिशत योगदान देती है?"
 
 msgid "Less than 1%"
-msgstr ""
+msgstr "1% से कम"
 
 msgid "Around 3%"
-msgstr ""
+msgstr "लगभग 3%"
 
 msgid "About 5%"
-msgstr ""
+msgstr "करीब 5%"
 
 msgid "More than 20%"
-msgstr ""
+msgstr "20% से अधिक"
 
 msgid "Chameleon Fun for kids"
-msgstr ""
+msgstr "बच्चों के लिए गिरगिट मस्ती"
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr ""
+msgstr "जिज्ञासु बच्चों के लिए गिरगिट और openSUSE पर एक रंगीन प्रश्नोत्तरी!"
 
 msgid "What color can a chameleon turn into?"
-msgstr ""
+msgstr "गिरगिट किस‑किस रंग में बदल सकता है?"
 
 msgid "Only green"
-msgstr ""
+msgstr "सिर्फ हरा"
 
 msgid "Any color, even purple!"
-msgstr ""
+msgstr "कोई भी रंग, यहाँ तक कि बैंगनी भी!"
 
 msgid "Many colors like green, brown, yellow"
-msgstr ""
+msgstr "हरे, भूरे, पीले जैसे कई रंग"
 
 msgid "Only black and white"
-msgstr ""
+msgstr "सिर्फ काला और सफेद"
 
 msgid "What is the mascot of openSUSE?"
-msgstr ""
+msgstr "openSUSE का शुभंकर (mascot) क्या है?"
 
 msgid "A penguin"
-msgstr ""
+msgstr "एक पेंगुइन"
 
 msgid "A chameleon called Geeko"
-msgstr ""
+msgstr "गीको नाम का एक गिरगिट"
 
 msgid "A dragon"
-msgstr ""
+msgstr "एक ड्रैगन"
 
 msgid "A robot"
-msgstr ""
+msgstr "एक रोबोट"
 
 msgid "Why do chameleons change color?"
-msgstr ""
+msgstr "गिरगिट अपना रंग क्यों बदलते हैं?"
 
 msgid "To show how they feel or to hide"
-msgstr ""
+msgstr "अपनी भावना दिखाने या छिपने के लिए"
 
 msgid "Because they are bored"
-msgstr ""
+msgstr "क्योंकि वे बोर हो जाते हैं"
 
 msgid "Because they are cold-blooded robots"
-msgstr ""
+msgstr "क्योंकि वे ठंडे खून वाले रोबोट हैं"
 
 msgid "To glow in the dark"
-msgstr ""
+msgstr "अँधेरे में चमकने के लिए"
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr ""
+msgstr "गिरगिट मुख्य रूप से दुनिया के किस हिस्से में पाए जाते हैं?"
 
 msgid "South America"
-msgstr ""
+msgstr "दक्षिण अमेरिका"
 
 msgid "Africa and Madagascar"
-msgstr ""
+msgstr "अफ़्रीका और मेडागास्कर"
 
 msgid "Southeast Asia"
-msgstr ""
+msgstr "दक्षिण‑पूर्व एशिया"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "अंटार्कटिका"
 
 msgid "How do chameleons catch their food?"
-msgstr ""
+msgstr "गिरगिट अपना भोजन कैसे पकड़ते हैं?"
 
 msgid "With their hands"
-msgstr ""
+msgstr "अपने हाथों से"
 
 msgid "With their long sticky tongue"
-msgstr ""
+msgstr "अपनी लंबी और चिपचिपी जीभ से"
 
 msgid "By shouting at it"
-msgstr ""
+msgstr "उस पर चिल्लाकर"
 
 msgid "With a net"
-msgstr ""
+msgstr "जाल से"
 
 msgid "What do chameleons eat?"
-msgstr ""
+msgstr "गिरगिट क्या खाते हैं?"
 
 msgid "Ice cream"
-msgstr ""
+msgstr "आइसक्रीम"
 
 msgid "Insects"
-msgstr ""
+msgstr "कीड़े‑मकोड़े"
 
 msgid "Pineapples"
-msgstr ""
+msgstr "अनानास"
 
 msgid "Hot dogs"
-msgstr ""
+msgstr "हॉट डॉग्स"
 
 msgid "What makes openSUSE special?"
-msgstr ""
+msgstr "openSUSE को खास क्या बनाता है?"
 
 msgid "It can talk to animals"
-msgstr ""
+msgstr "यह जानवरों से बात कर सकता है"
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr ""
+msgstr "यह एक आधुनिक, मुफ़्त ऑपरेटिंग सिस्टम है जिसे कोई भी उपयोग कर सकता है — आप भी!"
 
 msgid "It’s made of chameleon scales"
-msgstr ""
+msgstr "यह गिरगिट की चमड़ी के तराजू (स्केल्स) से बना है"
 
 msgid "It’s only for secret agents"
-msgstr ""
+msgstr "यह केवल गुप्त एजेंटों के लिए है"
 
 msgid "Do all chameleons look the same?"
-msgstr ""
+msgstr "क्या सारे गिरगिट एक जैसे दिखते हैं?"
 
 msgid "Yes, they are all green and grumpy"
-msgstr ""
+msgstr "हाँ, वे सब हरे और चिड़चिड़े होते हैं"
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr ""
+msgstr "नहीं, वे कई आकार, आकारों और रंगों में आते हैं"
 
 msgid "Yes, they all wear hats"
-msgstr ""
+msgstr "हाँ, वे सभी टोपी पहनते हैं"
 
 msgid "They all wear openSUSE stickers"
-msgstr ""
+msgstr "वे सभी openSUSE स्टिकर्स पहनते हैं"
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr ""
+msgstr "openSUSE में 'open' शब्द का क्या अर्थ है?"
 
 msgid "It’s a password"
-msgstr ""
+msgstr "यह एक पासवर्ड है"
 
 msgid "It means everyone can use it and help make it better"
-msgstr ""
+msgstr "इसका मतलब है कि हर कोई इसे इस्तेमाल कर सकता है और इसे बेहतर बनाने में मदद कर सकता है"
 
 msgid "It’s only for opening doors"
-msgstr ""
+msgstr "यह केवल दरवाज़े खोलने के लिए है"
 
 msgid "It’s about opening candy wrappers"
-msgstr ""
+msgstr "यह टॉफी के रैपर खोलने के बारे में है"
 
 msgid "Can chameleons move their eyes separately?"
-msgstr ""
+msgstr "क्या गिरगिट अपनी दोनों आँखों को अलग‑अलग घुमा सकते हैं?"
 
 msgid "No, they blink both eyes together"
-msgstr ""
+msgstr "नहीं, वे दोनों आँखें एक साथ झपकाते हैं"
 
 msgid "Yes, they can look in two directions at once!"
-msgstr ""
+msgstr "हाँ, वे एक साथ दो दिशाओं में देख सकते हैं!"
 
 msgid "They close one eye when sleeping"
-msgstr ""
+msgstr "वे सोते समय एक आँख बंद करते हैं"
 
 msgid "No, their eyes are always closed"
-msgstr ""
+msgstr "नहीं, उनकी आँखें हमेशा बंद रहती हैं"
 
 msgid "openSUSE Expert"
-msgstr ""
+msgstr "openSUSE विशेषज्ञ"
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
-msgstr ""
+msgstr "हमारी लीडरबोर्ड में अन्य उपयोगकर्ताओं को चुनौती दें। प्रति प्रश्न 30 सेकंड। कभी भी रोक सकते हैं।"
 
 msgid "What is the mascot of openSUSE project?"
 msgstr "ओपनसुसा परियोजना का शुभंकर क्या है?"
@@ -729,7 +729,7 @@ msgid "Modern 'Immutable' desktops with GNOME and KDE"
 msgstr "गनोम और केडीई के साथ आधुनिक 'अपरिवर्तनीय' डेस्कटॉप"
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr ""
+msgstr "डेस्कटॉप पर flatpak के साथ transactional अपडेट वाली रोलिंग डिस्ट्रीब्यूशन्स"
 
 msgid "Distributions built on top of MicroOS"
 msgstr "माइक्रोओएस पर आधारित वितरण"
@@ -738,2230 +738,2230 @@ msgid "Where was the openSUSE project founded?"
 msgstr "ओपनसुसा परियोजना की स्थापना कहां की गई थी?"
 
 msgid "In Choustníkovo Hradiště"
-msgstr ""
+msgstr "Choustníkovo Hradiště में"
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr ""
+msgstr "LinuxWorld Conference & Expo 2005, सैन फ़्रांसिस्को में"
 
 msgid "In Redmont"
-msgstr ""
+msgstr "रेडमोंट में"
 
 msgid "At the University of Helsinki"
-msgstr ""
+msgstr "हेलसिंकी विश्वविद्यालय में"
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr ""
+msgstr "openSUSE में डिफ़ॉल्ट फ़ाइल सिस्टम कौन‑सा है?"
 
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 msgid "InterPlanetary File System"
-msgstr ""
+msgstr "InterPlanetary File System"
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr ""
+msgstr "Leap 16 में नए इंस्टॉलर का नाम क्या है?"
 
 msgid "Sypper"
-msgstr ""
+msgstr "Sypper"
 
 msgid "Cayman"
-msgstr ""
+msgstr "Cayman"
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr ""
+msgstr "कौन‑सी openSUSE डिस्ट्रीब्यूशन कंटेनर और माइक्रो सर्विसेज चलाने के लिए अनुकूलित है?"
 
 msgid "MicroOS and Leap Micro"
-msgstr ""
+msgstr "MicroOS और Leap Micro"
 
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 msgid "Leap"
-msgstr ""
+msgstr "Leap"
 
 msgid "Slowroll"
-msgstr ""
+msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr ""
+msgstr "जो उपयोगकर्ता कम आश्चर्य (कम बदलाव) पसंद करते हैं, उनके लिए Tumbleweed का अधिक शांत विकल्प कौन‑सी openSUSE रोलिंग डिस्ट्रीब्यूशन प्रदान करती है?"
 
 msgid "Tumblebleed"
-msgstr ""
+msgstr "Tumblebleed"
 
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 msgid "Zyppernap"
-msgstr ""
+msgstr "Zyppernap"
 
 msgid "What is Leap 16.0?"
-msgstr ""
+msgstr "Leap 16.0 क्या है?"
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr ""
+msgstr "एक पारंपरिक लिनक्स डिस्ट्रीब्यूशन, जो Leap 15.6 की उत्तराधिकारी है, और फ़ॉल 2025 में जारी हुई है"
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr ""
+msgstr "GNOME और KDE के साथ एक अपरिवर्तनीय डिस्ट्रीब्यूशन"
 
 msgid "A rolling release for mobile devices"
-msgstr ""
+msgstr "मोबाइल उपकरणों के लिए एक रोलिंग रिलीज़"
 
 msgid "A container-focused system like MicroOS"
-msgstr ""
+msgstr "MicroOS जैसे कंटेनर‑केंद्रित सिस्टम"
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr ""
+msgstr "openSUSE Leap 15 के लिए डिफ़ॉल्ट डेस्कटॉप वातावरण कौन‑सा है?"
 
 msgid "There is no default. We leave choice to the user."
-msgstr ""
+msgstr "कोई डिफ़ॉल्ट नहीं है। हम विकल्प उपयोगकर्ता पर छोड़ते हैं।"
 
 msgid "What is the name of the openSUSE build system?"
-msgstr ""
+msgstr "openSUSE बिल्ड सिस्टम का नाम क्या है?"
 
 msgid "OBS (Open Build Service)"
-msgstr ""
+msgstr "OBS (Open Build Service)"
 
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgid "Autobuilder"
-msgstr ""
+msgstr "Autobuilder"
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr ""
+msgstr "आप transactional-update आधारित सिस्टम पर रूट पार्टिशन में बदलाव कैसे कर सकते हैं?"
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr ""
+msgstr "transactional-update कमांड का उपयोग करें और नए स्नैपशॉट में रीबूट करें"
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr ""
+msgstr "sudo-sudo का उपयोग करके giga विशेषाधिकार प्राप्त करके"
 
 msgid "By using Salt or Ansible"
-msgstr ""
+msgstr "Salt या Ansible का उपयोग करके"
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr ""
+msgstr "आपको उपयोगकर्ता netrunner के अंतर्गत फ़ाइलें संपादित करनी होंगी और अच्छे की उम्मीद करनी होगी"
 
 msgid "What is 'YaST'?"
-msgstr ""
+msgstr "'YaST' क्या है?"
 
 msgid "A chameleon species native to Africa"
-msgstr ""
+msgstr "अफ़्रीका की मूल निवासी गिरगिट की एक प्रजाति"
 
 msgid "A free software for configuration of operating system"
-msgstr ""
+msgstr "ऑपरेटिंग सिस्टम की कॉन्फ़िगरेशन के लिए मुक्त सॉफ़्टवेयर"
 
 msgid "The default web browser"
-msgstr ""
+msgstr "डिफ़ॉल्ट वेब ब्राउज़र"
 
 msgid "A programming language"
-msgstr ""
+msgstr "एक प्रोग्रामिंग भाषा"
 
 msgid "tao"
-msgstr ""
+msgstr "tao"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr ""
+msgstr "Rancher और SUSE की परियोजनाओं के बारे में सीखने की मुख्य (go-to) जगह कौन‑सी है?"
 
 msgid "Rancher Academy"
-msgstr ""
+msgstr "Rancher Academy"
 
 msgid "Cow College"
-msgstr ""
+msgstr "Cow College"
 
 msgid "Moo University"
-msgstr ""
+msgstr "Moo University"
 
 msgid "Cowboy Hat"
-msgstr ""
+msgstr "Cowboy Hat"
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
-msgstr ""
+msgstr "आप अतिरिक्त पैकेज या ऐसे पैकेज जिनके बदलाव मुख्य डिस्ट्रीब्यूशन में नहीं आ पाए, कहाँ से इंस्टॉल कर सकते हैं?"
 
 msgid "With a single click from software.opensuse.org"
-msgstr ""
+msgstr "software.opensuse.org से एक ही क्लिक में"
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr ""
+msgstr "OBS build.opensuse.org पर असंख्य प्रोजेक्ट्स ब्राउज़ करके"
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr ""
+msgstr "opi कमांड के माध्यम से, Packman रिपॉज़िटरी से या Flathub से"
 
 msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
-msgstr ""
+msgstr "जब आप openSUSE में पैकेज सबमिट करते हैं, तो आप उन्हें (रूपक रूप से) कहाँ भेजते हैं?"
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr ""
+msgstr "build.opensuse.org, कोई कबूतर डाक नहीं"
 
 msgid "To the cloud (literally)"
-msgstr ""
+msgstr "क्लाउड में (शाब्दिक रूप से)"
 
 msgid "By email to the Geeko mascot"
-msgstr ""
+msgstr "Geeko शुभंकर को ईमेल करके"
 
 msgid "Via smoke signals from Nuremberg"
-msgstr ""
+msgstr "न्यूरमबर्ग से धुएँ के संकेतों के ज़रिए"
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr ""
+msgstr "आप openSUSE अवसंरचना की वर्तमान स्थिति कहाँ देख सकते हैं?"
 
 msgid "status.opensuse.org"
-msgstr ""
+msgstr "status.opensuse.org"
 
 msgid "isopensusedown.com"
-msgstr ""
+msgstr "isopensusedown.com"
 
 msgid "yast-status-viewer"
-msgstr ""
+msgstr "yast-status-viewer"
 
 msgid "zypper up --ping"
-msgstr ""
+msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr ""
+msgstr "YaST को बदलने वाले नए पैकेज मैनेजर GUI का नाम क्या है?"
 
 msgid "Gandalf"
-msgstr ""
+msgstr "Gandalf"
 
 msgid "Zypperella"
-msgstr ""
+msgstr "Zypperella"
 
 msgid "Myrlyn"
-msgstr ""
+msgstr "Myrlyn"
 
 msgid "DnfDumbledore"
-msgstr ""
+msgstr "DnfDumbledore"
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr ""
+msgstr "openSUSE Leap एक नया स्थिर संस्करण कितनी बार जारी करता है?"
 
 msgid "Every 5 years when the stars align"
-msgstr ""
+msgstr "हर 5 साल में, जब सितारे अनुकूल हों"
 
 msgid "Every 12 months with 6 months overlap"
-msgstr ""
+msgstr "हर 12 महीने में, 6 महीने के ओवरलैप के साथ"
 
 msgid "Every month"
-msgstr ""
+msgstr "हर महीने"
 
 msgid "When the Geeko gets bored"
-msgstr ""
+msgstr "जब Geeko बोर हो जाए"
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr ""
+msgstr "स्थानीयकरण और अनुवाद प्रबंधन के लिए कौन‑सी openSUSE सेवा उपयोग की जाती है?"
 
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 msgid "Build Service"
-msgstr ""
+msgstr "Build Service"
 
 msgid "Kickstart"
-msgstr ""
+msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr ""
+msgstr "टर्मिनल से openSUSE पर सॉफ़्टवेयर पैकेज अपडेट करने के लिए आप कौन‑सा कमांड उपयोग करेंगे?"
 
 msgid "zypper update"
-msgstr ""
+msgstr "zypper update"
 
 msgid "apt-get update"
-msgstr ""
+msgstr "apt-get update"
 
 msgid "pacman -Syu"
-msgstr ""
+msgstr "pacman -Syu"
 
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr ""
+msgstr "openSUSE में Tumbleweed क्या दर्शाता है?"
 
 msgid "A rolling release distribution"
-msgstr ""
+msgstr "एक रोलिंग रिलीज़ डिस्ट्रीब्यूशन"
 
 msgid "A desktop environment"
-msgstr ""
+msgstr "एक डेस्कटॉप वातावरण"
 
 msgid "The mascot"
-msgstr ""
+msgstr "शुभंकर"
 
 msgid "An installer"
-msgstr ""
+msgstr "एक इंस्टॉलर"
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr ""
+msgstr "कौन‑सी openSUSE डिस्ट्रीब्यूशन स्थिर पॉइंट रिलीज़ के लिए जानी जाती है?"
 
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr ""
+msgstr "openSUSE MicroOS का मुख्य फोकस क्या है?"
 
 msgid "Immutable OS optimized for containers and microservices"
-msgstr ""
+msgstr "कंटेनर और माइक्रोसर्विसेज के लिए अनुकूलित अपरिवर्तनीय OS"
 
 msgid "Gaming"
-msgstr ""
+msgstr "गेमिंग"
 
 msgid "Desktop productivity"
-msgstr ""
+msgstr "डेस्कटॉप प्रोडक्टिविटी"
 
 msgid "Scientific computing"
-msgstr ""
+msgstr "वैज्ञानिक कंप्यूटिंग"
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr ""
+msgstr "openSUSE पर स्नैपशॉट बनाने और प्रबंधित करने के लिए कौन‑सा टूल उपयोग किया जाता है?"
 
 msgid "snapper"
-msgstr ""
+msgstr "snapper"
 
 msgid "timeshift"
-msgstr ""
+msgstr "timeshift"
 
 msgid "btrfs-snap"
-msgstr ""
+msgstr "btrfs-snap"
 
 msgid "rsnapshot"
-msgstr ""
+msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
-msgstr ""
+msgstr "openSUSE का डिफ़ॉल्ट टेक्स्ट एडिटर कौन‑सा है?"
 
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 msgid "gedit"
-msgstr ""
+msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
-msgstr ""
+msgstr "openSUSE में कोई पैकेज इंस्टॉल करने के लिए आप कौन‑सा कमांड चलाएँगे?"
 
 msgid "zypper install package-name"
-msgstr ""
+msgstr "zypper install package-name"
 
 msgid "apt-get install package-name"
-msgstr ""
+msgstr "apt-get install package-name"
 
 msgid "dnf install package-name"
-msgstr ""
+msgstr "dnf install package-name"
 
 msgid "pacman -S package-name"
-msgstr ""
+msgstr "pacman -S package-name"
 
 msgid "What is the name of the official openSUSE community forum?"
-msgstr ""
+msgstr "आधिकारिक openSUSE समुदाय फ़ोरम का नाम क्या है?"
 
 msgid "forums.opensuse.org"
-msgstr ""
+msgstr "forums.opensuse.org"
 
 msgid "discuss.opensuse.com"
-msgstr ""
+msgstr "discuss.opensuse.com"
 
 msgid "geeko-talk.net"
-msgstr ""
+msgstr "geeko-talk.net"
 
 msgid "opensuse-chat.org"
-msgstr ""
+msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr ""
+msgstr "openSUSE में सॉफ़्टवेयर रिपॉज़िटरी और पैकेज प्रबंधन के लिए कौन‑सा टूल अनुशंसित है?"
 
 msgid "yum"
-msgstr ""
+msgstr "yum"
 
 msgid "apt"
-msgstr ""
+msgstr "apt"
 
 msgid "pacman"
-msgstr ""
+msgstr "pacman"
 
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr ""
+msgstr "openSUSE की प्रमुख (flagship) रोलिंग रिलीज़ का नाम क्या है?"
 
 msgid "What command will list all repositories in openSUSE?"
-msgstr ""
+msgstr "openSUSE में सभी रिपॉज़िटरी की सूची दिखाने के लिए आप कौन‑सा कमांड चलाएँगे?"
 
 msgid "zypper repos"
-msgstr ""
+msgstr "zypper repos"
 
 msgid "apt list"
-msgstr ""
+msgstr "apt list"
 
 msgid "dnf repolist"
-msgstr ""
+msgstr "dnf repolist"
 
 msgid "pacman -Q"
-msgstr ""
+msgstr "pacman -Q"
 
 msgid "What is the primary license used by openSUSE?"
-msgstr ""
+msgstr "openSUSE में मुख्य रूप से कौन‑सा लाइसेंस उपयोग किया जाता है?"
 
 msgid "GPL (GNU General Public License)"
-msgstr ""
+msgstr "GPL (GNU General Public License)"
 
 msgid "MIT License"
-msgstr ""
+msgstr "MIT License"
 
 msgid "Apache License"
-msgstr ""
+msgstr "Apache License"
 
 msgid "Proprietary"
-msgstr ""
+msgstr "Proprietary"
 
 msgid "What does OBS stand for in openSUSE context?"
-msgstr ""
+msgstr "openSUSE के संदर्भ में OBS का पूरा नाम क्या है?"
 
 msgid "Open Build Service"
-msgstr ""
+msgstr "Open Build Service"
 
 msgid "Online Backup System"
-msgstr ""
+msgstr "Online Backup System"
 
 msgid "Open Box Scheduler"
-msgstr ""
+msgstr "Open Box Scheduler"
 
 msgid "Official Build System"
-msgstr ""
+msgstr "Official Build System"
 
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr ""
+msgstr "कौन‑सी openSUSE सेवा लाइव बिल्ड वातावरण और पैकेज रिपॉज़िटरी प्रदान करती है?"
 
 msgid "Open Build Service (OBS)"
-msgstr ""
+msgstr "Open Build Service (OBS)"
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
-msgstr ""
+msgstr "openSUSE परियोजना का मुख्य लक्ष्य क्या है?"
 
 msgid "Promoting and supporting free and open source software"
-msgstr ""
+msgstr "मुक्त और मुक्त स्रोत सॉफ़्टवेयर को बढ़ावा देना और उसका समर्थन करना"
 
 msgid "Creating proprietary software"
-msgstr ""
+msgstr "प्रोप्राइटरी सॉफ़्टवेयर बनाना"
 
 msgid "Developing video games"
-msgstr ""
+msgstr "वीडियो गेम विकसित करना"
 
 msgid "Providing cloud services"
-msgstr ""
+msgstr "क्लाउड सेवाएँ प्रदान करना"
 
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr ""
+msgstr "सिस्टम कॉन्फ़िगरेशन और प्रबंधन के लिए कौन‑सा openSUSE टूल उपयोग होता है?"
 
 msgid "Gnome Control Center"
-msgstr ""
+msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "KDE System Settings"
 
 msgid "Synaptic"
-msgstr ""
+msgstr "Synaptic"
 
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr ""
+msgstr "openSUSE पर सिस्टम स्नैपशॉट जाँचने के लिए कौन‑सा कमांड उपयोग किया जाता है?"
 
 msgid "snapper list"
-msgstr ""
+msgstr "snapper list"
 
 msgid "timeshift --list"
-msgstr ""
+msgstr "timeshift --list"
 
 msgid "btrfs subvolume list"
-msgstr ""
+msgstr "btrfs subvolume list"
 
 msgid "rsnapshot config"
-msgstr ""
+msgstr "rsnapshot config"
 
 msgid "What package format does openSUSE use?"
-msgstr ""
+msgstr "openSUSE कौन‑सा पैकेज फ़ॉर्मेट उपयोग करता है?"
 
 msgid "RPM"
-msgstr ""
+msgstr "RPM"
 
 msgid "DEB"
-msgstr ""
+msgstr "DEB"
 
 msgid "PKG"
-msgstr ""
+msgstr "PKG"
 
 msgid "APK"
-msgstr ""
+msgstr "APK"
 
 msgid "What is the default shell in openSUSE?"
-msgstr ""
+msgstr "openSUSE में डिफ़ॉल्ट शेल कौन‑सा है?"
 
 msgid "bash"
-msgstr ""
+msgstr "bash"
 
 msgid "zsh"
-msgstr ""
+msgstr "zsh"
 
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 msgid "csh"
-msgstr ""
+msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr ""
+msgstr "इनमें से कौन‑सा समुदाय‑चालित openSUSE संस्करण है?"
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 #, fuzzy
 msgid "openSUSE Greenhorn"
-msgstr "ओपनसुसा देवकॉन्फ 2025"
+msgstr "openSUSE Greenhorn"
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr ""
+msgstr "चिंता न करें, यह क्विज़ ज़्यादातर शैक्षिक है। आपको सभी उत्तर पता होना ज़रूरी नहीं है।"
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr ""
+msgstr "निम्नलिखित में से कौन‑सा पैकेज मैनेजर openSUSE में आमतौर पर उपयोग होता है?"
 
 msgid "Yum"
-msgstr ""
+msgstr "Yum"
 
 msgid "Zypper"
-msgstr ""
+msgstr "Zypper"
 
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr ""
+msgstr "क्या आप openSUSE पर Windows गेम खेल सकते हैं?"
 
 msgid "No way, only Windows can do that"
-msgstr ""
+msgstr "बिलकुल नहीं, ऐसा सिर्फ Windows कर सकता है"
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr ""
+msgstr "बिलकुल! बस Steam चलाएँ और गेम खेलें"
 
 msgid "Only if you summon the gaming gods"
-msgstr ""
+msgstr "सिर्फ तभी, जब आप गेमिंग देवताओं को बुलाएँ"
 
 msgid "You need a secret handshake first"
-msgstr ""
+msgstr "सबसे पहले आपको एक गुप्त हैंडशेक की ज़रूरत होगी"
 
 msgid "Where can you download openSUSE installation images?"
-msgstr ""
+msgstr "आप openSUSE इंस्टॉलेशन इमेजेज़ कहाँ से डाउनलोड कर सकते हैं?"
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr ""
+msgstr "केवल कॉफी शॉप्स में छोड़ी गई रहस्यमय USB स्टिक से"
 
 msgid "From get.opensuse.org"
-msgstr ""
+msgstr "get.opensuse.org से"
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr ""
+msgstr "अपने टर्मिनल में ज़ोर से 'YaST' चिल्लाकर"
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr ""
+msgstr "आप नहीं डाउनलोड कर सकते, वे कबूतर डाक से भेजी जाती हैं"
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr ""
+msgstr "openSUSE में मिली समस्याएँ आपको कहाँ रिपोर्ट करनी चाहिए?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr ""
+msgstr "बस स्क्रीन पर चिल्लाएँ और अच्छे की उम्मीद करें"
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr ""
+msgstr "Geeko को कड़े शब्दों वाला पत्र भेजें"
 
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr ""
+msgstr "इसे bugzilla.opensuse.org पर सबमिट करें"
 
 msgid "Write it in your diary and move on"
-msgstr ""
+msgstr "इसे अपनी डायरी में लिखें और आगे बढ़ जाएँ"
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr ""
+msgstr "आप openSUSE समुदाय के साथ शामिल होने और भाग लेने के लिए इवेंट्स कहाँ पा सकते हैं?"
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr ""
+msgstr "प्राचीन Geeko स्क्रॉल्स को डिकोड करने की कोशिश करें"
 
 msgid "On calendar.opensuse.org"
-msgstr ""
+msgstr "calendar.opensuse.org पर"
 
 msgid "Look under your keyboard for hidden clues"
-msgstr ""
+msgstr "छिपे हुए सुरागों के लिए अपने कीबोर्ड के नीचे देखें"
 
 msgid "Events are revealed only during a full moon"
-msgstr ""
+msgstr "इवेंट्स केवल पूर्णिमा की रात को प्रकट होते हैं"
 
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr ""
+msgstr "जब आप openSUSE ब्रह्मांड में खो जाएँ तो आप मदद कहाँ माँग सकते हैं?"
 
 msgid "oSC Historian"
-msgstr ""
+msgstr "oSC इतिहासकार"
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr ""
+msgstr "क्या आप openSUSE कॉन्फ़्रेंस के इतिहासकार हैं? इसे साबित कीजिए!"
 
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr ""
+msgstr "पहली openSUSE कॉन्फ़्रेंस किस वर्ष आयोजित की गई थी?"
 
 msgid "2006"
-msgstr ""
+msgstr "2006"
 
 msgid "2009"
-msgstr ""
+msgstr "2009"
 
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr ""
+msgstr "2009 में 'Working in a virtual community' शीर्षक वाला उद्घाटन कीनोट किसने दिया था?"
 
 msgid "Leslie Hawthorn from Google"
-msgstr ""
+msgstr "Google की Leslie Hawthorn"
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr ""
+msgstr "Apache Software Foundation के Gianugo Rabellino"
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr ""
+msgstr "Joe 'Zonker' Brockmeier, openSUSE कम्युनिटी मैनेजर"
 
 msgid "Lenz Grimmer from MySQL"
-msgstr ""
+msgstr "MySQL के Lenz Grimmer"
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr ""
+msgstr "2009 में openSUSE कॉन्फ़्रेंस की मालिक और प्रायोजक कंपनी कौन‑सी थी?"
 
 msgid "Novell"
-msgstr ""
+msgstr "Novell"
 
 msgid "Micro Focus"
-msgstr ""
+msgstr "Micro Focus"
 
 msgid "Attachmate"
-msgstr ""
+msgstr "Attachmate"
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr ""
+msgstr "अब वर्तमान में लौटते हैं। oSC 2024 में उद्घाटन कीनोट किसने दिया था?"
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 msgid "Rick Spencer"
-msgstr ""
+msgstr "Rick Spencer"
 
 msgid "Melissa Di Donato"
-msgstr ""
+msgstr "Melissa Di Donato"
 
 msgid "Mark Shuttleworth"
-msgstr ""
+msgstr "Mark Shuttleworth"
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr ""
+msgstr "क्या आप अनुमान लगा सकते हैं कि oSC 2025 के लिए कितने सेशन निर्धारित हैं?"
 
 msgid "78 sessions"
-msgstr ""
+msgstr "78 सत्र"
 
 msgid "108 sessions"
-msgstr ""
+msgstr "108 सत्र"
 
 msgid "58 sessions"
-msgstr ""
+msgstr "58 सत्र"
 
 msgid "42.3 sessions"
-msgstr ""
+msgstr "42.3 सत्र"
 
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr ""
+msgstr "इनमें से किस शहर ने अभी तक openSUSE कॉन्फ़्रेंस की मेज़बानी नहीं की है?"
 
 msgid "Prague, Czech Republic"
-msgstr ""
+msgstr "प्राग, चेक गणराज्य"
 
 msgid "The Hague, Netherlands"
-msgstr ""
+msgstr "द हेग, नीदरलैंड्स"
 
 msgid "Paris, France"
-msgstr ""
+msgstr "पेरिस, फ़्रांस"
 
 msgid "Thessaloniki, Greece"
-msgstr ""
+msgstr "थेसालोनिकी, ग्रीस"
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr ""
+msgstr "न्यूरमबर्ग में openSUSE कॉन्फ़्रेंस की प्री‑पार्टी आमतौर पर कहाँ होती है?"
 
 msgid "At Kater Murr"
-msgstr ""
+msgstr "Kater Murr में"
 
 msgid "At ZypperHaus"
-msgstr ""
+msgstr "ZypperHaus में"
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr ""
+msgstr "स्थानीय विश्वविद्यालय में SUSE इंटर्न द्वारा संचालित SESU क्लब में"
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr ""
+msgstr "meet.opensuse.org पर वर्चुअल /bar में"
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr ""
+msgstr "कौन‑सी असामान्य वस्तु आधिकारिक openSUSE स्वैग (उपहार) के रूप में दिखाई दी है?"
 
 msgid "openSUSE branded surströmming"
-msgstr ""
+msgstr "openSUSE ब्रांडेड surströmming"
 
 msgid "Geeko flavored toothpaste"
-msgstr ""
+msgstr "Geeko स्वाद वाला टूथपेस्ट"
 
 #, fuzzy
 msgid "openSUSE beer"
-msgstr "ओपनसुसा देवकॉन्फ 2025"
+msgstr "openSUSE beer"
 
 msgid "FIPS certified socks"
-msgstr ""
+msgstr "FIPS प्रमाणित मोज़े"
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr ""
+msgstr "हमारे पूर्व कोषाध्यक्ष Andrew को अपने एक आश्चर्यजनक 'creation' के लिए उनके टॉक के दौरान बहुत तालियाँ मिलीं। वह क्या था?"
 
 msgid "Dirty Dancing with Geeko"
-msgstr ""
+msgstr "Geeko के साथ Dirty Dancing"
 
 msgid "Singing a Free Software song"
-msgstr ""
+msgstr "फ्री सॉफ़्टवेयर गीत गाना"
 
 msgid "Playing the banjo"
-msgstr ""
+msgstr "बैंजो बजाना"
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr ""
+msgstr "स्विमसूट पहनकर खुले बग्स (open bugs) में गहराई तक गोता लगाना"
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr ""
+msgstr "2020–2021 के दौरान openSUSE कॉन्फ़्रेंस के साथ क्या हुआ?"
 
 msgid "It was held in orbit via SpaceX"
-msgstr ""
+msgstr "यह SpaceX के माध्यम से कक्षा (orbit) में आयोजित हुई"
 
 msgid "It was virtual due to COVID-19"
-msgstr ""
+msgstr "COVID-19 के कारण यह वर्चुअल थी"
 
 msgid "It merged with Novel Digital"
-msgstr ""
+msgstr "यह Novel Digital के साथ विलय हो गई"
 
 msgid "Canceled due to lack of pizza"
-msgstr ""
+msgstr "पिज़्ज़ा की कमी के कारण रद्द कर दी गई"
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr ""
+msgstr "oSC 2016 की शुक्रवार रात की पार्टी एक बार एक खास लाइव एक्ट की वजह से बहुत लम्बी चली। उसे अविस्मरणीय किसने बनाया?"
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr ""
+msgstr "प्रसिद्ध SUSE बैंड ने Z-Bau में धूम मचा दी"
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds द्वारा सरप्राइज़ कीनोट"
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr ""
+msgstr "एक अचानक से हुआ YaST कराओके प्रतियोगिता"
 
 msgid "An epic dance-off between Geeko mascots"
-msgstr ""
+msgstr "Geeko शुभंकरों के बीच एक महा नृत्य प्रतियोगिता"
 
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
-msgstr ""
+msgstr "2022 से हमारे पास oSC में एक अतिरिक्त सेवा उपलब्ध है। वह क्या है?"
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr ""
+msgstr "टूना स्वाद वाली पॉपकॉर्न मशीन"
 
 msgid "A low wave radio station"
-msgstr ""
+msgstr "लो वेव रेडियो स्टेशन"
 
 msgid "An ambulance"
-msgstr ""
+msgstr "एक एम्बुलेंस"
 
 msgid "Self-service beer tap"
-msgstr ""
+msgstr "सेल्फ‑सर्विस बीयर टैप"
 
 msgid "s390x Expert"
-msgstr ""
+msgstr "s390x विशेषज्ञ"
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr ""
+msgstr "मेनफ़्रेम और विशिष्ट (exotic) आर्किटेक्चर के मित्रों के लिए एक क्विज़।"
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr ""
+msgstr "Big Endian और Little Endian के बीच क्या अंतर है?"
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr ""
+msgstr "यह बाइट क्रम (byte ordering) के बारे में है; s390x Big Endian है"
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr ""
+msgstr "s390x केवल 31b का उपयोग करता है, इसलिए उसे Little Endian कहा जाता है"
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr ""
+msgstr "यह बाइट क्रम के बारे में है; s390x Little Endian है"
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr ""
+msgstr "अब इसका उपयोग नहीं होता, s390x Bi-endian है"
 
 msgid "DASD is?"
-msgstr ""
+msgstr "DASD क्या है?"
 
 msgid "A German word"
-msgstr ""
+msgstr "एक जर्मन शब्द"
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr ""
+msgstr "s390x प्रशासकों द्वारा अक्सर बोला जाने वाला गाली शब्द"
 
 msgid "A scsi disk"
-msgstr ""
+msgstr "एक SCSI डिस्क"
 
 msgid "Direct-access storage device"
-msgstr ""
+msgstr "Direct-access storage device"
 
 msgid "HMC is?"
-msgstr ""
+msgstr "HMC क्या है?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr ""
+msgstr "Home mc, बस एक नया, ज़्यादा दोस्ताना Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
-msgstr ""
+msgstr "वेब इंटरफ़ेस के माध्यम से मेनफ़्रेम मशीन का प्रशासन"
 
 msgid "A command for listing hardware network addresses."
-msgstr ""
+msgstr "हार्डवेयर नेटवर्क पतों को सूचीबद्ध करने वाला कमांड"
 
 msgid "A hidden module control unit"
-msgstr ""
+msgstr "एक छिपी हुई मॉड्यूल कंट्रोल यूनिट"
 
 msgid "z/VM is?"
-msgstr ""
+msgstr "z/VM क्या है?"
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr ""
+msgstr "z/VM एक ऑपरेटिंग सिस्टम है जिसे आमतौर पर हाइपरवाइज़र के रूप में उपयोग किया जाता है"
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr ""
+msgstr "Z (अर्थात s390x) पर वर्चुअल मशीन"
 
 msgid "Remote desktop viewer"
-msgstr ""
+msgstr "रिमोट डेस्कटॉप व्यूअर"
 
 msgid "Zombie Virtual Memory"
-msgstr ""
+msgstr "Zombie Virtual Memory"
 
 msgid "What does storage mean in the mainframe world?"
-msgstr ""
+msgstr "मेनफ़्रेम की दुनिया में storage का क्या अर्थ है?"
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr ""
+msgstr "डेटा स्टोरेज (डिस्क), जिन्हें सिलिंडरों में गिना जाता है"
 
 msgid "A room where the mainframe is located"
-msgstr ""
+msgstr "वह कमरा जहाँ मेनफ़्रेम स्थित है"
 
 msgid "Memory (RAM)"
-msgstr ""
+msgstr "मेमोरी (RAM)"
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr ""
+msgstr "मेनफ़्रेम के अंदर का वह हिस्सा़ जहाँ डिस्क रखे जाते हैं"
 
 msgid "What is x3270?"
-msgstr ""
+msgstr "x3270 क्या है?"
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr ""
+msgstr "एक विशेष फ़ाइल एन्कोडिंग, जो s390x पर फ़ाइलों के लिए ज़रूरी है"
 
 msgid "Terminal emulator for connection to a machine"
-msgstr ""
+msgstr "मशीन से कनेक्शन के लिए टर्मिनल एमुलेटर"
 
 msgid "Hexa code used as default admin password"
-msgstr ""
+msgstr "डिफ़ॉल्ट एडमिन पासवर्ड के रूप में उपयोग होने वाला हेक्सा कोड"
 
 msgid "None of these ridiculous choices"
-msgstr ""
+msgstr "इनमें से कोई भी हास्यास्पद विकल्प नहीं"
 
 msgid "What does IPL 150 mean?"
-msgstr ""
+msgstr "IPL 150 का क्या अर्थ है?"
 
 msgid "Give me additional 150MB of memory"
-msgstr ""
+msgstr "मुझे अतिरिक्त 150MB मेमोरी दो"
 
 msgid "IP to my Linux machine"
-msgstr ""
+msgstr "मेरी Linux मशीन का IP"
 
 msgid "Boot from disk 150."
-msgstr ""
+msgstr "डिस्क 150 से बूट करो"
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr ""
+msgstr "Python Libraries संस्करण 1.5.0 इंस्टॉल करो"
 
 msgid "What is IFL?"
-msgstr ""
+msgstr "IFL क्या है?"
 
 msgid "A filtration unit for cooling fluid"
-msgstr ""
+msgstr "कूलिंग द्रव के लिए फ़िल्ट्रेशन यूनिट"
 
 msgid "Made up word to confuse laptop users"
-msgstr ""
+msgstr "लैपटॉप उपयोगकर्ताओं को भ्रमित करने के लिए गढ़ा गया शब्द"
 
 msgid "Integrated FLat circuit"
-msgstr ""
+msgstr "Integrated FLat circuit"
 
 msgid "A core to run Linux on mainframe"
-msgstr ""
+msgstr "मेनफ़्रेम पर Linux चलाने के लिए एक कोर"
 
 msgid "What is cio_ignore?"
-msgstr ""
+msgstr "cio_ignore क्या है?"
 
 msgid "A command masking visibility of devices"
-msgstr ""
+msgstr "डिवाइसों की दृश्यता छिपाने वाला कमांड"
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr ""
+msgstr "जब तक लाइन रिसीव करने के लिए तैयार न हो, इनपुट/आउटपुट डेटा को अनदेखा करना"
 
 msgid "It actually means ignore CIO"
-msgstr ""
+msgstr "इसका असल अर्थ है CIO को नज़रअंदाज़ करना"
 
 msgid "A z/VM syslog filter"
-msgstr ""
+msgstr "एक z/VM syslog फ़िल्टर"
 
 msgid "What is the most used operating system on mainframes?"
-msgstr ""
+msgstr "मेनफ़्रेम पर सबसे ज़्यादा उपयोग होने वाला ऑपरेटिंग सिस्टम कौन‑सा है?"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "z/VM"
-msgstr ""
+msgstr "z/VM"
 
 msgid "z/OS"
-msgstr ""
+msgstr "z/OS"
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr ""
+msgstr "क्या मेनफ़्रेम में कोई विशेष AI क्षमताएँ होती हैं?"
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr ""
+msgstr "हाँ, नवीनतम मॉडलों में Spyre accelerator होता है।"
 
 msgid "No, it's too old technology."
-msgstr ""
+msgstr "नहीं, यह बहुत पुरानी तकनीक है।"
 
 msgid "Yes, but it can't be used on Linux."
-msgstr ""
+msgstr "हाँ, लेकिन इसे Linux पर उपयोग नहीं किया जा सकता।"
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr ""
+msgstr "नहीं, मेनफ़्रेम AI कार्य चलाने के लिए उपयोगी नहीं हैं।"
 
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr ""
+msgstr "निम्नलिखित I/O डिवाइसों में से कौन‑सा मेनफ़्रेम के साथ उपयोग नहीं होता है?"
 
 msgid "Disks"
-msgstr ""
+msgstr "Disks"
 
 msgid "Tape drives"
-msgstr ""
+msgstr "Tape drives"
 
 msgid "Network"
-msgstr ""
+msgstr "Network"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr ""
+msgstr "IBM द्वारा मेनफ़्रेम के साथ क्या दिया जाता है?"
 
 msgid "A necklet with IBM on it"
-msgstr ""
+msgstr "IBM लिखा हुआ गले का हार"
 
 msgid "Protective footwear"
-msgstr ""
+msgstr "सुरक्षात्मक जूते"
 
 msgid "A sword for protection of the mainframe"
-msgstr ""
+msgstr "मेनफ़्रेम की सुरक्षा के लिए तलवार"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "IBM लिखा हुआ सफ़ेद हेलमेट"
 
 msgid "The Ultimate YaST Challenge"
-msgstr ""
+msgstr "अल्टीमेट YaST चैलेंज"
 
 msgid "Think you know YaST? Think again."
-msgstr ""
+msgstr "आपको लगता है कि आप YaST को जानते हैं? फिर से सोचिए।"
 
 msgid "How many YaST2 translation packages are there in Tumbleweed?"
-msgstr ""
+msgstr "Tumbleweed में कितने YaST2 अनुवाद पैकेज हैं?"
 
 msgid "about 25"
-msgstr ""
+msgstr "लगभग 25"
 
 msgid "about 40"
-msgstr ""
+msgstr "लगभग 40"
 
 msgid "about 60"
-msgstr ""
+msgstr "लगभग 60"
 
 msgid "about 80"
-msgstr ""
+msgstr "लगभग 80"
 
 msgid "How many YaST2 packages (without translation packages) are there in Tumbleweed?"
-msgstr ""
+msgstr "Tumbleweed में (अनुवाद पैकेजों को छोड़कर) कितने YaST2 पैकेज हैं?"
 
 msgid "about 30"
-msgstr ""
+msgstr "लगभग 30"
 
 msgid "about 50"
-msgstr ""
+msgstr "लगभग 50"
 
 msgid "about 100"
-msgstr ""
+msgstr "लगभग 100"
 
 msgid "about 150"
-msgstr ""
+msgstr "लगभग 150"
 
 msgid "When was the first YaST2 released?"
-msgstr ""
+msgstr "पहला YaST2 कब जारी किया गया था?"
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "2002"
-msgstr ""
+msgstr "2002"
 
 msgid "2004"
-msgstr ""
+msgstr "2004"
 
 msgid "When did YaST2 reach the German legal drinking age?"
-msgstr ""
+msgstr "YaST2 जर्मन कानूनी ड्रिंकिंग आयु तक कब पहुँचा?"
 
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 msgid "2024"
-msgstr ""
+msgstr "2024"
 
 msgid "What happens when you press the F2 key in yast2 sw_single (Qt)?"
-msgstr ""
+msgstr "जब आप yast2 sw_single (Qt) में F2 कुंजी दबाते हैं तो क्या होता है?"
 
 msgid "You get the \"Patches\" view"
-msgstr ""
+msgstr "आपको \"Patches\" दृश्य मिलता है"
 
 msgid "It crashes"
-msgstr ""
+msgstr "यह क्रैश हो जाता है"
 
 msgid "It installs a random package"
-msgstr ""
+msgstr "यह एक रैंडम पैकेज इंस्टॉल कर देता है"
 
 msgid "The Mogwai get hungry"
-msgstr ""
+msgstr "Mogwai को भूख लग जाती है"
 
 msgid "How can you get an xterm in a YaST2 installation?"
-msgstr ""
+msgstr "आप YaST2 इंस्टॉलेशन में xterm कैसे प्राप्त कर सकते हैं?"
 
 msgid "you can't"
-msgstr ""
+msgstr "आप नहीं कर सकते"
 
 msgid "you click the Geeko icon on the top left 7 times"
-msgstr ""
+msgstr "आप ऊपर बाएँ Geeko आइकन पर 7 बार क्लिक करते हैं"
 
 msgid "Ctrl-Shift-Alt-X"
-msgstr ""
+msgstr "Ctrl-Shift-Alt-X"
 
 msgid "you speak clearly \"xterm\" into the microphone (laptops only)"
-msgstr ""
+msgstr "आप माइक्रोफ़ोन में साफ़‑साफ़ \"xterm\" बोलते हैं (केवल लैपटॉप पर)"
 
 msgid "Can you inspect the widget hierarchy of a YaST2 window while it is running?"
-msgstr ""
+msgstr "क्या आप चल रहे YaST2 विंडो की विजेट hierarchy देख सकते हैं?"
 
 msgid "Yes, click the page heading 7 times"
-msgstr ""
+msgstr "हाँ, पेज हेडिंग पर 7 बार क्लिक करें"
 
 msgid "Yes, middle-click any widget"
-msgstr ""
+msgstr "हाँ, किसी भी विजेट पर मिडिल‑क्लिक करें"
 
 msgid "Yes, use Ctrl-Shift-Alt-Y"
-msgstr ""
+msgstr "हाँ, Ctrl-Shift-Alt-Y का उपयोग करें"
 
 msgid "No - use the source, Luke"
-msgstr ""
+msgstr "नहीं – सोर्स देखो, ल्यूक"
 
 msgid "What happens if you right-click a button in YaST2?"
-msgstr ""
+msgstr "यदि आप YaST2 में किसी बटन पर राइट‑क्लिक करते हैं तो क्या होता है?"
 
 msgid "It opens the button's context menu"
-msgstr ""
+msgstr "यह बटन का कॉन्टेक्स्ट मेन्यू खोलता है"
 
 msgid "It resets the page to defaults"
-msgstr ""
+msgstr "यह पेज को डिफ़ॉल्ट पर रीसेट कर देता है"
 
 msgid "It asks if you want to switch the mouse to left-handed mode"
-msgstr ""
+msgstr "यह पूछता है कि क्या आप माउस को बाएँ हाथ मोड में स्विच करना चाहते हैं"
 
 msgid "It switches to the dark widget theme or back"
-msgstr ""
+msgstr "यह डार्क विजेट थीम पर (या वापस) स्विच कर देता है"
 
 msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
-msgstr ""
+msgstr "क्या दृष्टिबाधित उपयोगकर्ताओं के लिए YaST (Qt) रंग पैलेट बदला जा सकता है?"
 
 msgid "No"
-msgstr ""
+msgstr "नहीं"
 
 msgid "Yes, click the sun/moon icon"
-msgstr ""
+msgstr "हाँ, सूरज/चाँद आइकन पर क्लिक करें"
 
 msgid "Yes, use Shift-F3"
-msgstr ""
+msgstr "हाँ, Shift-F3 का उपयोग करें"
 
 msgid "Yes, right-click the \"Help\" button"
-msgstr ""
+msgstr "हाँ, \"Help\" बटन पर राइट‑क्लिक करें"
 
 msgid "Zypper Jedi"
-msgstr ""
+msgstr "Zypper जेडाई"
 
 msgid "Fun and obscure facts about Zypper, openSUSE's package manager"
-msgstr ""
+msgstr "Zypper, जो openSUSE का पैकेज मैनेजर है, उसके बारे में मज़ेदार और अनोखे तथ्य"
 
 msgid "What is the name of the library used by the default openSUSE package manager?"
-msgstr ""
+msgstr "डिफ़ॉल्ट openSUSE पैकेज मैनेजर द्वारा उपयोग की जाने वाली लाइब्रेरी का नाम क्या है?"
 
 msgid "libzypp"
-msgstr ""
+msgstr "libzypp"
 
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
-msgstr ""
+msgstr "openSUSE अपने पैकेज मैनेजर Zypper के लिए बैकएंड लाइब्रेरी के रूप में libzypp का उपयोग करता है। यह शक्तिशाली dependency resolution और delta RPMs के समर्थन के लिए जाना जाता है।"
 
 msgid "Where was Zypper respective libzypp first introduced?"
-msgstr ""
+msgstr "Zypper और libzypp को पहली बार कहाँ पेश किया गया था?"
 
 msgid "In SuSE Linux 7.1 (2001)"
-msgstr ""
+msgstr "SuSE Linux 7.1 (2001) में"
 
 msgid "In SUSE Linux 10.1 (2006)"
-msgstr ""
+msgstr "SUSE Linux 10.1 (2006) में"
 
 msgid "As part of openSUSE Leap 42.3 magical release (2017)"
-msgstr ""
+msgstr "openSUSE Leap 42.3 की जादुई रिलीज़ (2017) के हिस्से के रूप में"
 
 msgid "It was there since the beginning. S.u.S.E. Linux 1.0 (1994)"
-msgstr ""
+msgstr "यह शुरुआत से ही था: S.u.S.E. Linux 1.0 (1994)"
 
 msgid "What does 'zypper refs' do?"
-msgstr ""
+msgstr "'zypper refs' क्या करता है?"
 
 msgid "Refreshes all repositories"
-msgstr ""
+msgstr "सभी रिपॉज़िटरी को रिफ्रेश करता है"
 
 msgid "Lists orphaned packages"
-msgstr ""
+msgstr "अनाथ (orphaned) पैकेजों की सूची दिखाता है"
 
 msgid "Lists soft package locks"
-msgstr ""
+msgstr "सॉफ़्ट पैकेज लॉक की सूची दिखाता है"
 
 msgid "Refreshes defined repository index services."
-msgstr ""
+msgstr "निर्धारित रिपॉज़िटरी इंडेक्स सेवाओं को रिफ्रेश करता है।"
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
-msgstr ""
+msgstr "openSUSE में RIS (Repository Index Service) वास्तव में क्या करता है?"
 
 msgid "Allows centralized and flexible repository management. openSUSE uses it to generate .repo files from rpm-managed repoindex.xml"
-msgstr ""
+msgstr "केंद्रीकृत और लचीला रिपॉज़िटरी प्रबंधन सक्षम करता है। openSUSE इसका उपयोग rpm द्वारा प्रबंधित repoindex.xml से .repo फ़ाइलें बनाने के लिए करता है"
 
 msgid "It injects RPMs into your system while you're not looking."
-msgstr ""
+msgstr "यह तब आपके सिस्टम में RPMs डालता है जब आप नहीं देख रहे होते।"
 
 msgid "It schedules all recursive installs to happen only during coffee breaks."
-msgstr ""
+msgstr "यह सभी recursive इंस्टॉल को केवल कॉफी ब्रेक के दौरान चलने के लिए शेड्यूल करता है।"
 
 msgid "It just exists to confuse people with too many acronyms."
-msgstr ""
+msgstr "यह सिर्फ लोगों को बहुत सारे acronym से भ्रमित करने के लिए मौजूद है।"
 
 msgid "What does the Zypper command 'zypper dup' do?"
-msgstr ""
+msgstr "Zypper कमांड 'zypper dup' क्या करता है?"
 
 msgid "Deletes unused packages"
-msgstr ""
+msgstr "अनुपयोगी पैकेजों को हटाता है"
 
 msgid "Performs a distribution upgrade"
-msgstr ""
+msgstr "डिस्ट्रीब्यूशन अपग्रेड करता है"
 
 msgid "Downloads all updates in background"
-msgstr ""
+msgstr "सभी अपडेट्स को बैकग्राउंड में डाउनलोड करता है"
 
 msgid "Displays user preferences"
-msgstr ""
+msgstr "उपयोगकर्ता प्रेफरेंसेज़ दिखाता है"
 
 msgid "Which Zypper command enables parallel package downloads?"
-msgstr ""
+msgstr "कौन‑सा Zypper कमांड पैकेजों के समानांतर (parallel) डाउनलोड सक्षम करता है?"
 
 msgid "zypper --fast"
-msgstr ""
+msgstr "zypper --fast"
 
 msgid "zypper -p"
-msgstr ""
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "नवीनतम zypper डिफ़ॉल्ट रूप से parallel डाउनलोड का उपयोग करता है"
 
 msgid "zypper turbo"
-msgstr ""
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Zypper के लिए मुख्य कॉन्फ़िगरेशन फ़ाइल कौन‑सी है?"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
 msgid "/etc/zypperrc"
-msgstr ""
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr ""
+msgstr "निम्नलिखित Zypper कमांडों में से कौन‑सा सभी cached पैकेजों को साफ़ करेगा?"
 
 msgid "zypper refresh --clean"
-msgstr ""
+msgstr "zypper refresh --clean"
 
 msgid "zypper clean --all"
-msgstr ""
+msgstr "zypper clean --all"
 
 msgid "zypper purge-cache"
-msgstr ""
+msgstr "zypper purge-cache"
 
 msgid "zypper remove-cache"
-msgstr ""
+msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "Zypper पैटर्न भी इंस्टॉल कर सकता है। Zypper की भाषा में pattern क्या होता है?"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "पैकेज नामों से मेल खाने के लिए regex"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "पैकेजों का समूह जो किसी भूमिका या उपयोग‑केस को परिभाषित करता है"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "थीमिंग कॉन्फ़िगरेशन फ़ाइल"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "रिपॉज़िटरी के लिए metadata टैग"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "यदि आप 'zypper dup --from packman' चलाते हैं तो क्या होता है?"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "केवल 'packman' रिपॉज़िटरी का मेटाडेटा अपडेट होता है"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "सभी non-packman पैकेज हटा दिए जाते हैं"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "इंस्टॉल किए गए पैकेजों को packman रिपॉज़िटरी के संस्करणों में force upgrade करता है"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "अपग्रेड से पहले बैकअप बनाता है"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "Leap 16.0 ने डिफ़ॉल्ट रूप से CDN, RIS‑प्रबंधित रिपॉज़िटरी और कम कुल रिपॉज़िटरी के साथ रिपॉज़िटरी प्रबंधन में सुधार किया है। Leap 16.0 में डिफ़ॉल्ट रूप से कितनी डिस्ट्रीब्यूशन रिपॉज़िटरी शामिल हैं?"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "Leap 16.0 अब RIS‑प्रबंधित रिपॉज़िटरी का उपयोग करता है। आप चीज़ें तोड़े बिना रिपॉज़िटरी सेटिंग्स को कैसे समायोजित करते हैं?"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "/etc/zypp/repos.d/ जैसे पुराने अच्छे दिनों में करते थे"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "डिस्ट्रीब्यूशन की .repo फ़ाइलों को न छुएँ, वे ओवरराइट हो जाएँगी! इसके बजाय /etc/zypp/vars.d का उपयोग करें।"
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "`zypper --edit-repo --force` चलाएँ — आधिकारिक तरीका।"
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "repoindex.xml को मैन्युअल रूप से संपादित करें और अच्छे की उम्मीद करें।"
 
 msgid "What can users do at software.opensuse.org?"
-msgstr ""
+msgstr "उपयोगकर्ता software.opensuse.org पर क्या कर सकते हैं?"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "ब्राउज़र में एक ही क्लिक से zypper के ज़रिए पैकेज इंस्टॉल कर सकते हैं।"
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "अतिरिक्त सॉफ़्टवेयर, जिसमें home projects के पैकेज भी शामिल हैं, ब्राउज़ और इंस्टॉल कर सकते हैं।"
 
 msgid "View screenshots and details of cool open source software."
-msgstr ""
+msgstr "शानदार ओपन सोर्स सॉफ़्टवेयर के स्क्रीनशॉट और विवरण देख सकते हैं।"
 
 msgid "All of the above."
-msgstr ""
+msgstr "उपरोक्त सभी।"
 
 msgid "At what manpage section would you look for zypper docs?"
-msgstr ""
+msgstr "zypper डॉक्यूमेंटेशन के लिए आप manpage के किस सेक्शन में देखेंगे?"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "42"
-msgstr ""
+msgstr "42"
 
 msgid "What is yzpper?"
-msgstr ""
+msgstr "yzpper क्या है?"
 
 msgid "Turkish translation of zypper"
-msgstr ""
+msgstr "zypper का तुर्की अनुवाद"
 
 msgid "Reverse (undo) the last zypper command"
-msgstr ""
+msgstr "आख़िरी zypper कमांड को उलटना (undo करना)"
 
 msgid "Symlink to zypper, to avoid error on keyboard with swapped Y and Z key [german]"
-msgstr ""
+msgstr "zypper का symlink, ताकि Y और Z कुंजी स्वैप होने पर (जर्मन कीबोर्ड) गलती से बचा जा सके"
 
 msgid "The project name of next gen zypper"
-msgstr ""
+msgstr "अगली पीढ़ी के zypper का प्रोजेक्ट नाम"
 
 msgid "This one is tricky! We all know zypper rm --clean deps but what happens if you run `zypper rm --clean-deps rm`?"
-msgstr ""
+msgstr "यह वाला पेचीदा है! हम सभी `zypper rm --clean deps` जानते हैं, लेकिन अगर आप `zypper rm --clean-deps rm` चलाएँ तो क्या होता है?"
 
 msgid "You uninstall the `rm` command and all its leftover dependencies. Good luck removing files afterward!"
-msgstr ""
+msgstr "आप `rm` कमांड और उसकी सभी बची हुई dependency अनइंस्टॉल कर देते हैं। उसके बाद फ़ाइलें हटाने के लिए शुभकामनाएँ!"
 
 msgid "Only the `rm` command gets removed, dependencies stay put."
-msgstr ""
+msgstr "केवल `rm` कमांड हटाया जाता है, dependency वहीं रहती हैं।"
 
 msgid "It cleans your system of the `rm` command but keeps a backup just in case."
-msgstr ""
+msgstr "यह आपके सिस्टम से `rm` कमांड को साफ़ कर देता है लेकिन ज़रूरत पड़ने पर एक बैकअप रखता है।"
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "कुछ नहीं होता, `rm` कमांड coreutils का हिस्सा है।"
 
 msgid "Start Quiz"
-msgstr ""
+msgstr "क्विज़ शुरू करें"
 
 msgid "Start"
-msgstr ""
+msgstr "प्रारंभ"
 
 msgid "Back"
-msgstr ""
+msgstr "पीछे"
 
 msgid "Submit"
-msgstr ""
+msgstr "सबमिट करें"
 
 msgid "Next"
-msgstr ""
+msgstr "अगला"
 
 msgid "Quit"
-msgstr ""
+msgstr "बंद करें"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "सबमिट करके बंद करें"
 
 msgid "Time left"
-msgstr ""
+msgstr "शेष समय"
 
 msgid "Score"
-msgstr ""
+msgstr "स्कोर"
 
 msgid "Final"
-msgstr ""
+msgstr "अंतिम"
 
 msgid "Restart"
-msgstr ""
+msgstr "दोबारा शुरू करें"
 
 msgid "Question"
-msgstr ""
+msgstr "प्रश्न"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "आगे बढ़ने के लिए कृपया एक उपयोगकर्ता नाम दर्ज करें।"
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "स्वागत है, %s"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "क्या आप वाकई सबमिट करके बाहर निकलना चाहते हैं?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "उपयोगकर्ता नाम बहुत छोटा है।"
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "क्षमा कीजिए, यह लॉगिन पहले से उपयोग में है।"
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "क्या आप वाकई बाहर निकलना चाहते हैं? आपकी प्रगति सहेजी नहीं जाएगी।"
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
+msgstr "कोई पहचाने योग्य उपनाम उपयोग करें, जैसे ZypperJedi, या बेहतर है कि अपना असली नाम (NameSurname) लिखें।"
 
 msgid "Asia Summit Dragon"
-msgstr ""
+msgstr "एशिया समिट ड्रैगन"
 
 msgid "Challenge the dragon of knowledge"
-msgstr ""
+msgstr "ज्ञान के ड्रैगन को चुनौती दें"
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr ""
+msgstr "पहला openSUSE एशिया समिट किस शहर में आयोजित किया गया था?"
 
 msgid "Taipei, Taiwan"
-msgstr ""
+msgstr "ताइपेई, ताइवान"
 
 msgid "Beijing, China"
-msgstr ""
+msgstr "बीजिंग, चीन"
 
 msgid "Jakarta, Indonesia"
-msgstr ""
+msgstr "जकार्ता, इंडोनेशिया"
 
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "टोक्यो, जापान"
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr ""
+msgstr "openSUSE एशिया समिट टोक्यो, जापान में कब आयोजित हुआ था?"
 
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 msgid "2017 and 2024"
-msgstr ""
+msgstr "2017 और 2024"
 
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 msgid "Only 2024"
-msgstr ""
+msgstr "केवल 2024"
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr ""
+msgstr "निम्नलिखित में से किस शहर ने कभी भी openSUSE एशिया समिट की मेज़बानी नहीं की है?"
 
 msgid "Denpasar"
-msgstr ""
+msgstr "Denpasar"
 
 msgid "Mumbai"
-msgstr ""
+msgstr "मुंबई"
 
 msgid "Taipei"
-msgstr ""
+msgstr "ताइपेई"
 
 msgid "Faridabad"
-msgstr ""
+msgstr "फरीदाबाद"
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr ""
+msgstr "openSUSE एशिया समिट का 2018 संस्करण किस शहर में आयोजित हुआ था?"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "हांगकांग"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "जकार्ता"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "टोक्यो"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr ""
+msgstr "निम्नलिखित देशों में से किसने कभी openSUSE एशिया समिट की मेज़बानी नहीं की है?"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "वियतनाम"
 
 msgid "India"
-msgstr ""
+msgstr "भारत"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "इंडोनेशिया"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "ताइवान"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr ""
+msgstr "2016 में समिट Universitas Islam Indonesia में आयोजित हुई थी। यह विश्वविद्यालय किस शहर में स्थित है?"
 
 msgid "Yogyakarta"
-msgstr ""
+msgstr "योग्याकार्ता"
 
 msgid "Bandung"
-msgstr ""
+msgstr "बांडुंग"
 
 msgid "Surabaya"
-msgstr ""
+msgstr "सुराबाया"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr ""
+msgstr "2019 में openSUSE एशिया समिट कहाँ आयोजित हुआ था?"
 
 msgid "Seoul"
-msgstr ""
+msgstr "सियोल"
 
 msgid "Denpasar (Bali)"
-msgstr ""
+msgstr "देनपासार (बाली)"
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr ""
+msgstr "openSUSE एशिया समिट 2020 और 2021 ऑनलाइन आयोजित हुए थे। इसका मुख्य कारण क्या था?"
 
 msgid "Budget cuts"
-msgstr ""
+msgstr "बजट में कटौती"
 
 msgid "Lack of organizers"
-msgstr ""
+msgstr "आयोजकों की कमी"
 
 msgid "COVID-19 pandemic"
-msgstr ""
+msgstr "COVID-19 महामारी"
 
 msgid "Scheduling conflicts"
-msgstr ""
+msgstr "शेड्यूलिंग टकराव"
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr ""
+msgstr "openSUSE एशिया समिट का आधिकारिक लोगो आमतौर पर कौन डिज़ाइन करता है?"
 
 msgid "Geenardo Da Vinci"
-msgstr ""
+msgstr "Geenardo Da Vinci"
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr ""
+msgstr "openSUSE Foundation द्वारा नियुक्त एक पेशेवर ग्राफ़िक डिज़ाइनर"
 
 msgid "The community through an annual design contest"
-msgstr ""
+msgstr "समुदाय, वार्षिक डिज़ाइन प्रतियोगिता के ज़रिए"
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr ""
+msgstr "openSUSE इन्फ़्रास्ट्रक्चर टीम के डेवलपर्स"
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr ""
+msgstr "किस openSUSE एशिया समिट का लोगो लाल रंग का था?"
 
 msgid "2016 in Beijing"
-msgstr ""
+msgstr "2016, बीजिंग"
 
 msgid "2017 in Tokyo"
-msgstr ""
+msgstr "2017, टोक्यो"
 
 msgid "2018 in Taipei"
-msgstr ""
+msgstr "2018, ताइपेई"
 
 msgid "2019 in Bali"
-msgstr ""
+msgstr "2019, बाली"
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr ""
+msgstr "किस openSUSE एशिया समिट में पहली बार openSUSE Quiz ऐप का उपयोग किया गया था?"
 
 msgid "2025 in Faridabad"
-msgstr ""
+msgstr "2025, फरीदाबाद"
 
 msgid "2014 in Beijing"
-msgstr ""
+msgstr "2014, बीजिंग"
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr ""
+msgstr "openSUSE एशिया समिट तक की सबसे लंबी लिफ्ट यात्रा कहाँ हुई थी?"
 
 msgid "Beijing"
-msgstr ""
+msgstr "बीजिंग"
 
 msgid "SUSE Story"
-msgstr ""
+msgstr "SUSE की कहानी"
 
 msgid "Discover SUSE, one click at a time."
-msgstr ""
+msgstr "एक‑एक क्लिक में SUSE की खोज करें।"
 
 msgid "What is SUSE’s business?"
-msgstr ""
+msgstr "SUSE किस व्यवसाय में है?"
 
 msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr ""
+msgstr "मिशन‑क्रिटिकल सिस्टम्स के लिए Enterprise Linux समाधान प्रदान करना"
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Rancher और Harvester के साथ आधुनिक कंटेनर और VM प्रबंधन प्रदान करना"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "NeuVector के साथ क्लाउड‑नेटिव वर्कलोड्स को सुरक्षित करना"
 
 msgid "All of the above"
-msgstr ""
+msgstr "उपरोक्त सभी"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "SUSE संक्षिप्त नाम (acronym) का पूरा अर्थ क्या है?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (Software and Systems Development)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "System Upgrade & Security Engine"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "दुनिया भर में SUSE के लगभग कितने कर्मचारी हैं?"
 
 msgid "Around 500"
-msgstr ""
+msgstr "लगभग 500"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "लगभग 1,200"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "लगभग 2,500"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "लगभग 10,000"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "SUSECON 2026 अप्रैल में आ रहा है! सबसे बड़ा SUSE सम्मेलन किस शहर में आयोजित होगा?"
 
 msgid "Prague"
-msgstr ""
+msgstr "प्राग"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "कूपरटिनो"
 
 msgid "Redmont"
-msgstr ""
+msgstr "रेडमोंट"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "रैले"
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "SUSE लोगो के बारे में निम्नलिखित में से कौन‑सा कथन सही है?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "संस्थापकों में से एक Hubert Mantel ने अपने एक मित्र से लोगो डिज़ाइन करने को कहा, और उन्हें छोड़कर बाक़ी सभी को यह लोगो वास्तव में पसंद आया।"
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "हम गिरगिट (chameleon) बनाने में काफ़ी बेहतर हो गए हैं। वर्तमान लोगो 1996 के पहले लोगो के बाद से 6वीं पीढ़ी का है।"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "SUSE लोगो लचीलेपन और अनुकूलन क्षमता का प्रतिनिधित्व करता है, ठीक गिरगिट की तरह"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "SUSE Linux का पहला संस्करण कब जारी किया गया था?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Rancher का मुख्य उपयोग किस लिए होता है?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Kubernetes क्लस्टर्स का प्रबंधन और स्केलिंग"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "क्लाउड में वर्चुअल गायों को चराना"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "केवल SUSE Linux इंस्टॉलेशन को ऑटोमेट करना"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "पुराने ज़माने के रैंच सिमुलेशन गेम खेलना"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "NeuVector का मुख्य फोकस किस पर है?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "क्लाउड‑नेटिव कंटेनर सुरक्षा"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "Linux डेस्कटॉप्स पर नेटवर्किंग को तेज़ बनाना"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "पैकेज बिल्ड को ऑटोमेट करना"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "गिरगिट लोगो को हरा रंग देना"
 
 msgid "What is SUSE Harvester?"
-msgstr ""
+msgstr "SUSE Harvester क्या है?"
 
 msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr ""
+msgstr "एक वर्चुअलाइज़ेशन प्लेटफ़ॉर्म जो आपको बेयर‑मेटल सर्वरों पर VM बनाना, माइग्रेट करना, बैकअप और रिस्टोर आसानी से करने देता है"
 
 msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr ""
+msgstr "Kubernetes पर आधारित एक सिस्टम जो वर्चुअलाइज़ेशन के लिए KubeVirt, स्टोरेज के लिए Longhorn का उपयोग करता है और VM के साथ‑साथ कंटेनर चलाने का समर्थन करता है"
 
 msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr ""
+msgstr "एक समाधान जो Rancher के साथ एकीकृत होकर कंटेनर और VM प्रबंधन को नेटवर्किंग तथा observability के साथ जोड़ता है"
 
 msgid "What is openSUSE?"
-msgstr ""
+msgstr "openSUSE क्या है?"
 
 msgid "A community project sponsored by SUSE"
-msgstr ""
+msgstr "SUSE द्वारा प्रायोजित एक समुदाय परियोजना"
 
 msgid "More than just one community Linux distribution"
-msgstr ""
+msgstr "सिर्फ एक समुदाय लिनक्स डिस्ट्रीब्यूशन से कहीं अधिक"
 
 msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr ""
+msgstr "openQA, Open Build Service जैसे टूल्स और स्वागत करने वाले समुदाय के साथ परियोजनाएँ विकसित करने की एक शानदार जगह"
 
 msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr ""
+msgstr "SUSE BCI (Base Container Images) किस बात के लिए जानी जाती हैं?"
 
 msgid "Being bloated with unnecessary packages"
-msgstr ""
+msgstr "अनावश्यक पैकेजों से फूली हुई होना"
 
 msgid "Only working on SUSE Linux Enterprise Server"
-msgstr ""
+msgstr "केवल SUSE Linux Enterprise Server पर काम करना"
 
 msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise आधारित वास्तव में ओपन, लचीली और सुरक्षित इमेज उपलब्ध कराना"
 
 msgid "Standing for 'Big Chameleon Initiative'"
-msgstr ""
+msgstr "'Big Chameleon Initiative' के लिए संक्षिप्त नाम होना"
 
 msgid "SUSE x openSSL"
-msgstr ""
+msgstr "SUSE x openSSL"
 
 msgid "When SUSE meets openSSL, surprises await."
-msgstr ""
+msgstr "जब SUSE की मुलाक़ात openSSL से होती है, तो कई सरप्राइज़ आपका इंतज़ार करते हैं।"
 
 msgid "How many SUSE products use OpenSSL?"
-msgstr ""
+msgstr "कितने SUSE उत्पाद OpenSSL का उपयोग करते हैं?"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "All of them"
-msgstr ""
+msgstr "सभी"
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr ""
+msgstr "कितने SUSE इंजीनियर सक्रिय रूप से OpenSSL पर काम कर रहे हैं?"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
-msgstr ""
+msgstr "42.3"
 
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr ""
+msgstr "SUSE सिस्टम पर FIPS मोड सक्षम करने से निम्नलिखित में से कौन‑सा साइड इफ़ेक्ट हो सकता है?"
 
 msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr ""
+msgstr "यह सभी क्रिप्टोग्राफ़िक एल्गोरिदम, यहाँ तक कि असुरक्षित वाले भी, उपयोग करने देता है।"
 
 msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr ""
+msgstr "यह क्रिप्टोग्राफ़ी के उपयोग को केवल FIPS‑validated एल्गोरिदम और बाइनरी तक सीमित कर देता है।"
 
 msgid "It has no impact on system performance or compatibility."
-msgstr ""
+msgstr "इसका सिस्टम के प्रदर्शन या संगतता पर कोई प्रभाव नहीं पड़ता।"
 
 msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr ""
+msgstr "आप 'Hide the Pain Harold' मीम वाले अंकल की तरह मुस्कुराने लगते हैं।"
 
 msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr ""
+msgstr "Brno, Czechia में SUSE इंजीनियर SUSE Hackweek 25 में कहाँ से भाग लेंगे?"
 
 msgid "The OpenSSL office"
-msgstr ""
+msgstr "OpenSSL दफ़्तर से"
 
 msgid "Starbucks"
-msgstr ""
+msgstr "Starbucks से"
 
 msgid "Red Hat office"
-msgstr ""
+msgstr "Red Hat दफ़्तर से"
 
 msgid "Vaňkovka shopping gallery"
-msgstr ""
+msgstr "Vaňkovka शॉपिंग गैलरी से"
 
 msgid "Why does SUSE invest in OpenSSL?"
-msgstr ""
+msgstr "SUSE OpenSSL में निवेश क्यों करता है?"
 
 msgid "To contribute back to the community SUSE and many others relies on"
-msgstr ""
+msgstr "उस समुदाय को वापस योगदान देने के लिए, जिस पर SUSE और कई अन्य निर्भर हैं"
 
 msgid "To make chameleons browse the web safely"
-msgstr ""
+msgstr "ताकि गिरगिट वेब पर सुरक्षित रूप से ब्राउज़ कर सकें"
 
 msgid "To win a race against penguins"
-msgstr ""
+msgstr "पेंगुइन के ख़िलाफ़ दौड़ जीतने के लिए"
 
 msgid "To shorten Linux kernel boot times"
-msgstr ""
+msgstr "Linux कर्नेल के बूट समय को कम करने के लिए"
 
 msgid "SUSE engineers contribute to OpenSSL by"
-msgstr ""
+msgstr "SUSE इंजीनियर OpenSSL में इस तरह योगदान देते हैं:"
 
 msgid "Active development and code reviews"
-msgstr ""
+msgstr "सक्रिय विकास और कोड समीक्षा के माध्यम से"
 
 msgid "Contributing fixes and new features"
-msgstr ""
+msgstr "फ़िक्स और नए फ़ीचर्स का योगदान देकर"
 
 msgid "Running enterprise-grade testing with tools like openQA"
-msgstr ""
+msgstr "openQA जैसे टूल्स के साथ एंटरप्राइज़‑ग्रेड परीक्षण चलाकर"
 
 msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr ""
+msgstr "SUSE Linux Enterprise में OpenSSL क्या भूमिका निभाता है?"
 
 msgid "It secures communication and cryptographic operations"
-msgstr ""
+msgstr "यह संचार और क्रिप्टोग्राफ़िक कार्यों को सुरक्षित बनाता है"
 
 msgid "It only adds fancy wallpapers"
-msgstr ""
+msgstr "यह सिर्फ़ सजावटी वॉलपेपर जोड़ता है"
 
 msgid "It makes Open Build Service run faster"
-msgstr ""
+msgstr "यह Open Build Service को तेज़ नहीं बनाता, बस मज़ाक का विषय बनाता है"
 
 msgid "It manages Rancher clusters"
-msgstr ""
+msgstr "यह Rancher क्लस्टर्स को मैनेज करता है"
 
 msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr ""
+msgstr "OpenSSL में FIPS प्रमाणन SUSE के लिए क्यों महत्वपूर्ण है?"
 
 msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr ""
+msgstr "यह विनियमित (regulated) उद्योगों में SUSE ग्राहकों को कड़े सुरक्षा मानकों को पूरा करने में सक्षम बनाता है"
 
 msgid "It makes the chameleon change colors faster"
-msgstr ""
+msgstr "यह गिरगिट को और तेज़ी से रंग बदलने में मदद करता है"
 
 msgid "It guarantees free coffee for certified systems"
-msgstr ""
+msgstr "यह प्रमाणित सिस्टम्स के लिए मुफ़्त कॉफ़ी की गारंटी देता है"
 
 msgid "It is only useful for retro Linux distributions"
-msgstr ""
+msgstr "यह केवल रेट्रो लिनक्स डिस्ट्रीब्यूशन्स के लिए उपयोगी है"
 
 msgid "openSUSE Introduction"
-msgstr ""
+msgstr "openSUSE परिचय"
 
 msgid "Discover openSUSE, one click at a time."
-msgstr ""
+msgstr "एक‑एक क्लिक में openSUSE को खोजें।"
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr ""
+msgstr "SUSE द्वारा समर्थित, सभी के लिए बनाया गया एक प्रोजेक्ट"
 
 msgid "More than just one Linux distribution"
-msgstr ""
+msgstr "सिर्फ एक लिनक्स डिस्ट्रीब्यूशन से कहीं अधिक"
 
 msgid "A friendly place to build software and learn new tools"
-msgstr ""
+msgstr "सॉफ़्टवेयर बनाने और नए टूल सीखने के लिए एक दोस्ताना जगह"
 
 msgid "All of these things together"
-msgstr ""
+msgstr "इन सभी चीज़ों का मेल"
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr ""
+msgstr "openSUSE ने अभी‑अभी अपना 20वाँ जन्मदिन मनाया है! यह किस वर्ष हुआ?"
 
 msgid "2025 – this year! 🎉"
-msgstr ""
+msgstr "2025 – इसी साल! 🎉"
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr ""
+msgstr "1998 – यह Google की शुरुआत का साल है, openSUSE का नहीं"
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr ""
+msgstr "1994 – यह पहले SUSE Linux का साल है, openSUSE का नहीं"
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr ""
+msgstr "2005 – जब openSUSE पैदा हुआ था, लेकिन उसे अभी 20 साल नहीं हुए"
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr ""
+msgstr "openSUSE में अपडेट पाने के दो मुख्य तरीके हैं। एक में साल में एक बार बड़ा रिलीज़ आता है, दूसरा लगातार अपडेट देता रहता है। इन्हें क्या कहा जाता है?"
 
 msgid "Stable and Rolling"
-msgstr ""
+msgstr "Stable और Rolling"
 
 msgid "Stable and Wobbly"
-msgstr ""
+msgstr "Stable और Wobbly"
 
 msgid "Rolling and Sitting"
-msgstr ""
+msgstr "Rolling और Sitting"
 
 msgid "Rolling and Leaping"
-msgstr ""
+msgstr "Rolling और Leaping"
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr ""
+msgstr "कौन‑सी openSUSE संस्करण Rolling हैं (हमेशा अपडेट रहते हैं)?"
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr ""
+msgstr "Aeon, Kalpa और MicroOS"
 
 msgid "Slowroll and Slowroll Micro"
-msgstr ""
+msgstr "Slowroll और Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "ये सभी Rolling हैं"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap और Leap Micro हमारी Stable डिस्ट्रीब्यूशन्स हैं। इसका क्या मतलब है?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "प्रत्येक माइनर रिलीज़ को लगभग 24 महीने तक अपडेट मिलते हैं"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "हर 12 महीने में एक बड़ा रिलीज़ आता है"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "इनके साथ रिलीज़ पार्टियाँ होती हैं जिनमें हर कोई शामिल हो सकता है 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "उपरोक्त सभी (और आप Leap 16 पर 2033 तक रह सकते हैं!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE के पास “immutable” संस्करण भी हैं। इसका क्या मतलब है?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "वे read-only सिस्टम बेस का उपयोग करते हैं और विशेष टूल्स के ज़रिए सुरक्षित रूप से अपडेट होते हैं"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "उन्हें लैपटॉप पर इंस्टॉल नहीं किया जा सकता"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "वे ऐसी डिस्ट्रीब्यूशन्स हैं जिनमें वॉलपेपर कभी नहीं बदलते"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "वे केवल डाक से आने वाली DVD के रूप में मिलती हैं"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Slowroll क्या है?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Tumbleweed का ऐसा रूप जिसमें अपडेट को परखे गए बैचों में समाहित किया जाता है"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Linux में एक रेसिंग गेम मोड"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "ऐसी डिस्ट्रीब्यूशन जो केवल दस साल में एक बार अपडेट होती है"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "शुभंकर (mascot) का नया उपनाम"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "openSUSE समुदाय के कुछ प्रमुख टूल और प्रोजेक्ट कौन‑से हैं?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "सॉफ़्टवेयर बनाने के लिए Open Build Service (OBS)"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "स्वचालित परीक्षण (automated testing) के लिए openQA"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "Wiki, Weblate, फ़ोरम और बहुत कुछ"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "ये सभी openSUSE का हिस्सा हैं"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "openSUSE इन्फ्रास्ट्रक्चर का ध्यान रखने वाली टीम को openSUSE ... क्या कहा जाता है?"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Heroes"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Avengers"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Thunderbolts"
 
 msgid "Villains"
-msgstr ""
+msgstr "Villains"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 का सपोर्ट समाप्त हो गया है। आप उस लैपटॉप के साथ क्या कर सकते हैं?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "अपने लैपटॉप पर openSUSE इंस्टॉल करें"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "अपने दोस्त के लैपटॉप पर openSUSE इंस्टॉल करें"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "अपनी दादी के लैपटॉप पर openSUSE इंस्टॉल करें"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "ये सभी बहुत बढ़िया विचार हैं"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Geeko नाम का एक गिरगिट"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Tux नाम का एक पेंगुइन"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "रेगिस्तान में लुढ़कता हुआ tumbleweed"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "धूप का चश्मा लगाए एक छिपकली"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "लोग openSUSE को क्यों पसंद करते हैं?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "स्थिर Leap रिलीज़ और तेज़ी से चलने वाले Tumbleweed अपडेट"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Agama, Myrlyn, zypper, OBS और openQA जैसे आधुनिक टूल"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "एक दोस्ताना वैश्विक समुदाय जो सभी का स्वागत करता है"
 
 msgid "All of these together"
-msgstr ""
+msgstr "ये सभी मिलकर"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "आप openSUSE (और यहाँ तक कि इस क्विज़) के अनुवाद में कहाँ मदद कर सकते हैं?"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "l10n.opensuse.org पर Weblate"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "गिरगिट के कान में अनुवाद फुसफुसाकर"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "Google Translate मुख्यालय के गुप्त बंकर में"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "अनुवादों को यादृच्छिक Reddit थ्रेड्स पर पोस्ट करके"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "आप openSUSE के बारे में मदद कहाँ से पा सकते हैं?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "अपने उस दोस्त से पूछें जो Linux उपयोग करता है"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "कई स्थानीय Linux पोर्टल्स और वेबसाइट्स पर"
 
 msgid "Show All"
-msgstr ""
+msgstr "सभी दिखाएँ"
 
 msgid "Level Up"
-msgstr ""
+msgstr "लेवल अप"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Arm पर Hardware Enablement की यात्रा।"
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "कंप्यूटिंग के संदर्भ में Arm क्या है?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "ऊर्जा‑कुशल CPU आर्किटेक्चर का परिवार, जो मोबाइल डिवाइसेज़, एम्बेडेड सिस्टम और सर्वर में व्यापक रूप से उपयोग होता है"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "एक रोबोटिक हाथ जो आपका कोड कम्पाइल करता है"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "कर्नेल बग्स के साथ arm wrestling करने वाला विशेष SUSE विभाग"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Geeko द्वारा आविष्कृत एक नए तरह का फ़ाइल सिस्टम"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Raspberry Pi 5 क्या है?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Arm आर्किटेक्चर का उपयोग करने वाला क्रेडिट‑कार्ड आकार का कंप्यूटर"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "सस्ता और ऊर्जा‑कुशल छोटा डेस्कटॉप — बच्चों के लिए वेब ब्राउज़ करने, YouTube देखने, कोडिंग सीखने या हल्के गेम खेलने के लिए उपयुक्त"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "एक छोटा लेकिन सक्षम सर्वर जो होम NAS, Home Assistant, Nextcloud या यहाँ तक कि लोकल openSUSE mirror चलाने के लिए इस्तेमाल किया जा सकता है"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Raspberry Pi 5 पर openSUSE द्वारा समर्थित CPU आर्किटेक्चर की सही स्पेलिंग क्या है?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm… पक्का नहीं"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "Raspberry Pi 5 u-boot समर्थन के पीछे upstream Linux कर्नेल में कौन है?"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "SUSE HW Enablement टीम के Ivan Ivanov और Matthias Brugger।"
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "कौन‑सी openSUSE एडिशन विशेष Raspberry Pi इमेज प्रदान करती हैं?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed और MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "केवल Tumbleweed, क्योंकि वह कभी rolling होना बंद नहीं करता"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "सिर्फ Leap 42.3 क्योंकि वह अनंत काल तक रहने वाला है"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "सिर्फ MicroOS, बाक़ी सब पिघल गया"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Raspberry Pi पर openSUSE के लिए पसंदीदा इमेज फ़ॉर्मेट क्या है?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Raw disk image (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe इंस्टॉलर"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr ".iso DVD इमेज, जिसमें मैन्युअल सोल्डरिंग की आवश्यकता है"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz जो सपनों से भरा हुआ है"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE मोबाइल फ़ोनों पर भी चल सकता है! PinePhone के लिए कौन‑सी इंस्टॉलेशन इमेज उपलब्ध हैं?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed with Phosh (Purism प्रशंसकों के लिए) और Tumbleweed with Plasma Mobile (KDE प्रेमियों के लिए)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "रेफ्रिजरेटर के लिए GNOME Shell के साथ Leap Micro"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "रोटरी फ़ोनों के लिए Tumbleweed LXQt Edition"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "Morse इनपुट मोड के साथ MicroOS Text Edition"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Raspberry Pi, PinePhone या Pinebook जैसे Arm डिवाइसेज़ के लिए openSUSE इमेज आप कहाँ पा सकते हैं?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – सबसे ज़्यादा उपयोग होने वाली openSUSE इमेज के लिए दोस्ताना शुरुआती बिंदु"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm – लिंक और डॉक्यूमेंटेशन वाला Arm पोर्टल"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – उनके लिए जो मैन्युअल ब्राउज़िंग पसंद करते हैं"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "क्या openSUSE Tumbleweed Arm को x86_64 पैकेजों के साथ ही बनाया जाता है?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "नहीं, इसे openSUSE Ports के हिस्से के रूप में अलग से बनाया जाता है"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "हाँ, यह सब एक जादुई build सर्वर से आता है"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "सिर्फ तब, जब चाँद retrograde में हो"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "हाँ, लेकिन इसे पेंगुइन कम्पाइल करते हैं"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "SD कार्ड पर openSUSE इमेज लिखने के लिए आमतौर पर कौन‑सा कमांड उपयोग किया जाता है?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "openSUSE Raspberry Pi इमेज किस प्रकार के स्टोरेज से बूट कर सकती हैं?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD कार्ड, USB या NVMe (Pi 5 पर)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "सिर्फ फ़्लॉपी डिस्क, वह भी बहुत धैर्य के साथ"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "pigeon post के ज़रिए क्लाउड sync"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "टेप बैकअप, यदि आप पूरे विश्वास के साथ विश्वास करें"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "openSUSE Arm विकास के बारे में अपडेट रहने का सबसे अच्छा तरीका क्या है?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "openSUSE Arm mailing list और Matrix चैनल का अनुसरण करें (विवरण नीचे)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "दैनिक फ़र्मवेयर leaks के लिए ChatGPT से पूछें"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "पूर्णिमा की रात तारों से सलाह लें"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "get.opensuse.org को तब तक रिफ्रेश करते रहें जब तक वह पलक न झपकाए"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "यदि आप यह Raspberry Pi 5 जीतते हैं, तो आप उस पर सबसे पहले क्या चला सकते हैं?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Arm के लिए openSUSE Tumbleweed से शुरू करें और पूरा Linux डेस्कटॉप अनुभव खोजें"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Nextcloud, Home Assistant या अपने स्वयं के openSUSE mirror के साथ व्यक्तिगत होम सर्वर सेटअप करें"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "retro gaming, मीडिया सेंटर या बच्चों के लिए कोडिंग प्रोजेक्ट जैसे मज़ेदार प्रयोग करके देखें"
