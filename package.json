@@ -17,7 +17,7 @@
     "bad-words": "3.0.4",
     "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
-    "express": "^4.20.0",
+    "express": "^4.22.1",
     "gettext-parser": "^8.0.0",
     "less": "^4.3.0",
     "node-gettext": "^3.0.0",
