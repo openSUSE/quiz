@@ -1,8 +1,8 @@
-# Ferdinand Galko <galko.ferdinand@gmail.com>, 2025.
+# Ferdinand Galko <galko.ferdinand@gmail.com>, 2025, 2026.
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-09 19:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.14.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2026-03-09 15:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -1862,7 +1862,7 @@ msgid "Lists soft package locks"
 msgstr "Vylistuje všetky soft package locks"
 
 msgid "Refreshes defined repository index services."
-msgstr "Obnoví definované repository index services (RIS)."
+msgstr "Obnoví definované služby indexovania repositárov."
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
 msgstr "Čo presne robí RIS (Repository Index Service) v openSUSE?"
