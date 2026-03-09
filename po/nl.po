@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 16:12+0200\n"
+"POT-Creation-Date: 2025-11-16 13:03+0000\n"
 "PO-Revision-Date: 2025-10-12 20:59+0000\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
@@ -13,6 +13,201 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.13.3\n"
+
+msgid "openSUSE Arm"
+msgstr ""
+
+msgid "Hardware Enablement journey on Arm."
+msgstr ""
+
+msgid "What is Arm, in the context of computing?"
+msgstr ""
+
+msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
+msgstr ""
+
+msgid "A robotic limb that compiles your code"
+msgstr ""
+
+msgid "A special SUSE department for arm wrestling kernel bugs"
+msgstr ""
+
+msgid "A new kind of filesystem invented by Geeko"
+msgstr ""
+
+msgid "What is the Raspberry Pi 5?"
+msgstr ""
+
+msgid "A credit-card-sized computer using Arm architecture"
+msgstr ""
+
+msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
+msgstr ""
+
+msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
+msgstr ""
+
+msgid "All of the above"
+msgstr "Al het bovenstaande"
+
+msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "Arm"
+msgstr ""
+
+msgid "ARM!"
+msgstr ""
+
+msgid "Armmm… not sure"
+msgstr ""
+
+msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
+msgstr ""
+
+msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
+msgstr ""
+
+msgid "Linus Torvalds"
+msgstr ""
+
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+msgid "Eric S. Raymond "
+msgstr ""
+
+msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
+msgstr ""
+
+msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
+msgstr ""
+
+msgid "Only Tumbleweed, because it never stops rolling"
+msgstr ""
+
+msgid "Just Leap 42.3 because it’s eternal"
+msgstr ""
+
+msgid "Only MicroOS, everything else melted"
+msgstr ""
+
+msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
+msgstr ""
+
+msgid "Raw disk image (.raw.xz)"
+msgstr ""
+
+msgid ".exe installer"
+msgstr ""
+
+msgid ".iso DVD image with manual soldering required"
+msgstr ""
+
+msgid ".tar.gz full of dreams"
+msgstr ""
+
+msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
+msgstr ""
+
+msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
+msgstr ""
+
+msgid "Leap Micro with GNOME Shell for refrigerators"
+msgstr ""
+
+msgid "Tumbleweed LXQt Edition for rotary phones"
+msgstr ""
+
+msgid "MicroOS Text Edition with Morse input mode"
+msgstr ""
+
+msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
+msgstr ""
+
+msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
+msgstr ""
+
+msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
+msgstr ""
+
+msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
+msgstr ""
+
+msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
+msgstr ""
+
+msgid "No, it’s built separately as part of openSUSE Ports"
+msgstr ""
+
+msgid "Yes, it all comes from one magical build server"
+msgstr ""
+
+msgid "Only if the moon is in retrograde"
+msgstr ""
+
+msgid "Yes, but it’s compiled by penguins"
+msgstr ""
+
+msgid "Which command is commonly used to write the openSUSE image to an SD card?"
+msgstr ""
+
+msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+msgstr ""
+
+msgid "sudo print-image-now"
+msgstr ""
+
+msgid "cat image > coffee"
+msgstr ""
+
+msgid "rpm -i image.raw.xz"
+msgstr ""
+
+msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
+msgstr ""
+
+msgid "SD card, USB, or NVMe (on Pi 5)"
+msgstr ""
+
+msgid "Only floppy disks with patience"
+msgstr ""
+
+msgid "Cloud sync via pigeon post"
+msgstr ""
+
+msgid "Tape backup, if you believe hard enough"
+msgstr ""
+
+msgid "What’s the best way to stay updated on openSUSE Arm development?"
+msgstr ""
+
+msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
+msgstr ""
+
+msgid "Ask ChatGPT for daily firmware leaks"
+msgstr ""
+
+msgid "Consult the stars under a full moon"
+msgstr ""
+
+msgid "Refresh get.opensuse.org until it blinks"
+msgstr ""
+
+msgid "If you win this Raspberry Pi 5, what could you run on it first?"
+msgstr ""
+
+msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
+msgstr ""
+
+msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
+msgstr ""
+
+msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
+msgstr ""
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -1295,6 +1490,369 @@ msgstr "Evenementen worden geopenbaard bij volle maan"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "Waar kun je om hulp vragen, als je verdwaald bent in het openSUSE universum?"
 
+msgid "openSUSE Introduction"
+msgstr "Introductie in openSUSE"
+
+msgid "Discover openSUSE, one click at a time."
+msgstr "Ontdek openSUSE, één klik tegelijk."
+
+msgid "What is openSUSE?"
+msgstr "Wat is openSUSE?"
+
+msgid "A project supported by SUSE, made for everyone"
+msgstr "Een project ondersteund door SUSE, gemaakt voor iedereen"
+
+msgid "More than just one Linux distribution"
+msgstr "Meer dan gewoon een Linux distributie"
+
+msgid "A friendly place to build software and learn new tools"
+msgstr "Een vriendelijke plaats om software te bouwen en nieuwe hulpmiddelen te leren"
+
+msgid "All of these things together"
+msgstr "Al deze dingen samen"
+
+msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
+msgstr "openSUSE vierde net zijn 20ste verjaardag! In welk jaar gebeurde dat?"
+
+msgid "2025 – this year! 🎉"
+msgstr "2025 – dit jaar! 🎉"
+
+msgid "1998 – that’s when Google started, not openSUSE"
+msgstr "1998 – dat is toen Google begon, niet openSUSE"
+
+msgid "1994 – that’s the first SUSE Linux, not openSUSE"
+msgstr "1994 – dat is de eerste SUSE Linux, niet openSUSE"
+
+msgid "2005 – the year openSUSE was born, but not 20 years ago"
+msgstr "2005 – het jaar dat openSUSE is geboren, maar niet 20 jaar geleden"
+
+msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
+msgstr "openSUSE heeft twee hoofd manieren om elementen voor bijwerken te krijgen. Eén is een grote vrijgave eenmaal per jaar, de andere geeft deze voortdurend. Hoe worden ze genoemd?"
+
+msgid "Stable and Rolling"
+msgstr "Stabiel en rollend"
+
+msgid "Stable and Wobbly"
+msgstr "Stabiel en wiebelig"
+
+msgid "Rolling and Sitting"
+msgstr "Rollend en zittend"
+
+msgid "Rolling and Leaping"
+msgstr "Rollend en springend"
+
+msgid "Which openSUSE versions are Rolling (always up-to-date)?"
+msgstr "Welke openSUSE versies zijn rollend (altijd bijgewerkt)?"
+
+msgid "Aeon, Kalpa, and MicroOS"
+msgstr "Aeon, Kalpa en MicroOS"
+
+msgid "Slowroll and Slowroll Micro"
+msgstr "Slowroll en Slowroll Micro"
+
+msgid "All of these are Rolling"
+msgstr ""
+
+msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
+msgstr ""
+
+msgid "Each minor release receive updates for about 24 months"
+msgstr ""
+
+msgid "They have one big release every 12 months"
+msgstr ""
+
+msgid "They come with release parties everyone can join 🎉"
+msgstr ""
+
+msgid "All of the above (and you can stay on Leap 16 until 2033!)"
+msgstr ""
+
+msgid "openSUSE also has “immutable” editions. What does that mean?"
+msgstr ""
+
+msgid "They use a read-only system base and update safely with special tools"
+msgstr ""
+
+msgid "They cannot be installed on laptops"
+msgstr ""
+
+msgid "They are distributions that never change wallpapers"
+msgstr ""
+
+msgid "They come only as DVDs by mail"
+msgstr ""
+
+msgid "What is Slowroll?"
+msgstr ""
+
+msgid "A variant of Tumbleweed with updates grouped into tested batches"
+msgstr ""
+
+msgid "A racing game mode in Linux"
+msgstr ""
+
+msgid "A distribution that only updates once per decade"
+msgstr ""
+
+msgid "The mascot’s new nickname"
+msgstr ""
+
+msgid "What are some of the key openSUSE community tools and projects?"
+msgstr ""
+
+msgid "Open Build Service (OBS) for building software"
+msgstr ""
+
+msgid "openQA for automated testing"
+msgstr ""
+
+msgid "The Wiki, Weblate, forums, and more"
+msgstr ""
+
+msgid "All of these are part of openSUSE"
+msgstr ""
+
+msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
+msgstr ""
+
+msgid "Heroes"
+msgstr ""
+
+msgid "Avengers"
+msgstr ""
+
+msgid "Thunderbolts"
+msgstr ""
+
+msgid "Villains"
+msgstr ""
+
+msgid "Windows 10 is out of support. What could you do with that laptop?"
+msgstr ""
+
+msgid "Install openSUSE on your laptop"
+msgstr ""
+
+msgid "Install openSUSE on your friend’s laptop"
+msgstr ""
+
+msgid "Install openSUSE on your grandmother’s laptop"
+msgstr ""
+
+msgid "All of these are great ideas"
+msgstr ""
+
+msgid "A chameleon named Geeko"
+msgstr ""
+
+msgid "A penguin named Tux"
+msgstr ""
+
+msgid "A tumbleweed rolling in the desert"
+msgstr ""
+
+msgid "A lizard in sunglasses"
+msgstr ""
+
+msgid "Why do people love openSUSE?"
+msgstr ""
+
+msgid "Stable Leap releases and fast-moving Tumbleweed updates"
+msgstr ""
+
+msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
+msgstr ""
+
+msgid "A friendly worldwide community that welcomes everyone"
+msgstr ""
+
+msgid "All of these together"
+msgstr ""
+
+msgid "Where can you help translate openSUSE (and even this quiz)?"
+msgstr ""
+
+msgid "Weblate at l10n.opensuse.org"
+msgstr ""
+
+msgid "By whispering translations into the chameleon’s ear"
+msgstr ""
+
+msgid "At Google Translate headquarters in a secret bunker"
+msgstr ""
+
+msgid "By posting translations on random Reddit threads"
+msgstr ""
+
+msgid "Where can you get help with openSUSE?"
+msgstr ""
+
+msgid "Ask your friend who uses Linux"
+msgstr ""
+
+msgid "On many local Linux portals and websites"
+msgstr ""
+
+msgid "Asia Summit Dragon"
+msgstr "Asia Summit Dragon"
+
+msgid "Challenge the dragon of knowledge"
+msgstr "Daag de draak van kennis uit"
+
+msgid "In which city was the first openSUSE Asia Summit hosted?"
+msgstr "In welke plaats werd de eerste openSUSE Asia Summit gehouden?"
+
+msgid "Taipei, Taiwan"
+msgstr "Taipei, Taiwan"
+
+msgid "Beijing, China"
+msgstr "Beijing, China"
+
+msgid "Jakarta, Indonesia"
+msgstr "Jakarta, Indonesië"
+
+msgid "Tokyo, Japan"
+msgstr "Tokyo, Japan"
+
+msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
+msgstr "Wanneer werd de openSUSE Asia Summit gehouden in Tokyo, Japan?"
+
+msgid "2022"
+msgstr "2022"
+
+msgid "2017 and 2024"
+msgstr "2017 en 2024"
+
+msgid "2018"
+msgstr "2018"
+
+msgid "Only 2024"
+msgstr "Alleen 2024"
+
+msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
+msgstr "Welke van de volgende plaatsen heeft NOOIT de openSUSE Asia Summit gehuisvest?"
+
+msgid "Denpasar"
+msgstr "Denpasar"
+
+msgid "Mumbai"
+msgstr "Mumbai"
+
+msgid "Taipei"
+msgstr "Taipei"
+
+msgid "Faridabad"
+msgstr "Faridabad"
+
+msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
+msgstr "De 2018 editie van openSUSE Asia Summit vond plaats in welke plaats?"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Jakarta"
+msgstr "Jakarta"
+
+msgid "Tokyo"
+msgstr "Tokyo"
+
+msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
+msgstr "Welke van de volgende landen heeft nooit een openSUSE Asia Summit gehuisvest?"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonesië"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
+msgstr "In 2016 was de summit gehuisvest op Universitas Islam Indonesia. In welke plaats is die universiteit gelokaliseerd?"
+
+msgid "Yogyakarta"
+msgstr "Yogyakarta"
+
+msgid "Bandung"
+msgstr "Bandung"
+
+msgid "Surabaya"
+msgstr "Surabaya"
+
+msgid "Where was the openSUSE Asia Summit held in 2019?"
+msgstr "Waar werd de openSUSE Asia Summit gehouden in 2019?"
+
+msgid "Seoul"
+msgstr "Seoul"
+
+msgid "Denpasar (Bali)"
+msgstr "Denpasar (Bali)"
+
+msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
+msgstr "De openSUSE Asia Summit 2020 en 2021 werden online gehouden. Wat was de hoofdreden?"
+
+msgid "Budget cuts"
+msgstr "Kortingen in het budget"
+
+msgid "Lack of organizers"
+msgstr "Gebrek aan organisators"
+
+msgid "COVID-19 pandemic"
+msgstr "COVID-19 pandemie"
+
+msgid "Scheduling conflicts"
+msgstr "Conflicten over planning"
+
+msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
+msgstr "Wie ontwerpt typisch het officiële logo voor de openSUSE Asia Summit?"
+
+msgid "Geenardo Da Vinci"
+msgstr "Geenardo Da Vinci"
+
+msgid "A professional graphic designer hired by the openSUSE Foundation"
+msgstr "Een professionele grafisch ontwerper ingehuurd door de stichting openSUSE"
+
+msgid "The community through an annual design contest"
+msgstr "De gemeenschap via een jaarlijkse ontwerpwedstrijd"
+
+msgid "The developers from the openSUSE infrastructure team"
+msgstr "De ontwikkelaars uit het team voor de openSUSE infrastructuur"
+
+msgid "Which openSUSE Asia Summit had a red logo?"
+msgstr "Welke openSUSE Asia Summit had een rood logo?"
+
+msgid "2016 in Beijing"
+msgstr "2016 in Beijing"
+
+msgid "2017 in Tokyo"
+msgstr "2017 in Tokyo"
+
+msgid "2018 in Taipei"
+msgstr "2018 in Taipei"
+
+msgid "2019 in Bali"
+msgstr "2019 in Bali"
+
+msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
+msgstr "Welke openSUSE Asia Summit gebruikt de openSUSE Quiz app voor de eerste keer?"
+
+msgid "2025 in Faridabad"
+msgstr "2025 in Faridabad"
+
+msgid "2014 in Beijing"
+msgstr "2014 in Beijing"
+
+msgid "The longest elevator trip to openSUSE Asia summit was in?"
+msgstr "Waar was de langste liftreis naar de openSUSE Asia summit in?"
+
+msgid "Beijing"
+msgstr "Beijing"
+
 msgid "oSC Historian"
 msgstr "oSC Historicus"
 
@@ -1348,9 +1906,6 @@ msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
 msgstr "Terug naar heden. Wie gaf de openings-keynote op oSC 2024?"
-
-msgid "Richard Stallman"
-msgstr "Richard Stallman"
 
 msgid "Rick Spencer"
 msgstr "Rick Spencer"
@@ -1682,6 +2237,483 @@ msgstr "Een zwaard om het mainframe te beschermen"
 msgid "A white helmet with IBM on it"
 msgstr "Een witte helm met IBM erop"
 
+msgid "SLES 16 in Numbers"
+msgstr ""
+
+msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
+msgstr ""
+
+msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "16"
+msgstr ""
+
+msgid "42"
+msgstr "42"
+
+msgid "Just one: German!"
+msgstr ""
+
+msgid "How many features have been reported against SLES + SAP 16.0? "
+msgstr ""
+
+msgid "1099"
+msgstr ""
+
+msgid "404 – features not found"
+msgstr ""
+
+msgid "9999 – we lost count"
+msgstr ""
+
+msgid "How many of those features were resolved in 16.0?"
+msgstr ""
+
+msgid "798"
+msgstr ""
+
+msgid "789"
+msgstr ""
+
+msgid "123"
+msgstr ""
+
+msgid "666"
+msgstr ""
+
+msgid "When does LTS Support for SLES 16.0?"
+msgstr ""
+
+msgid "2030"
+msgstr ""
+
+msgid "Never – it’s eternal like systemd"
+msgstr ""
+
+msgid "2029"
+msgstr ""
+
+msgid "2032"
+msgstr ""
+
+msgid "How many valid bugs were resolved in SLES 16.0?"
+msgstr ""
+
+msgid "999"
+msgstr ""
+
+msgid "0, because it’s perfect"
+msgstr ""
+
+msgid "Too many to fit in Bugzilla"
+msgstr ""
+
+msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "1 – we’re almost there!"
+msgstr ""
+
+msgid "0, No P1 shall pass RC!"
+msgstr ""
+
+msgid "When can we expect SLES 16.1 to be released?"
+msgstr ""
+
+msgid "November 3rd 2026"
+msgstr ""
+
+msgid "June 16th, 2026"
+msgstr ""
+
+msgid "4th of July 2026"
+msgstr ""
+
+msgid "30th February 2026"
+msgstr ""
+
+msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
+msgstr ""
+
+msgid "slfo-1.2 "
+msgstr ""
+
+msgid "devel branch in src.opensuse.org/pool"
+msgstr ""
+
+msgid "slfo-main"
+msgstr ""
+
+msgid "slfo-1.0"
+msgstr ""
+
+msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
+msgstr ""
+
+msgid "0"
+msgstr "0"
+
+msgid "Thousands of packages in coldpool"
+msgstr ""
+
+msgid "All of them. Maintainers are overrated"
+msgstr ""
+
+msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
+msgstr ""
+
+msgid "python-3.13"
+msgstr ""
+
+msgid "python-2.7"
+msgstr ""
+
+msgid "python-3.11"
+msgstr ""
+
+msgid "python-3.6"
+msgstr ""
+
+msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
+msgstr ""
+
+msgid "ruby-3.4"
+msgstr ""
+
+msgid "ruby-2.7 LTS"
+msgstr ""
+
+msgid "ruby-3.1"
+msgstr ""
+
+msgid "ruby-3.2"
+msgstr ""
+
+msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
+msgstr ""
+
+msgid "None. We solely rely on testing in production."
+msgstr ""
+
+msgid "1999"
+msgstr "1999"
+
+msgid "9999"
+msgstr ""
+
+msgid "Who is the Release Manager Lead for SLES 16.1?"
+msgstr ""
+
+msgid "Radoslav Tsvetkov"
+msgstr ""
+
+msgid "Libor Miksik"
+msgstr ""
+
+msgid "Daniela Giri"
+msgstr ""
+
+msgid "Prokop Vlasin"
+msgstr ""
+
+msgid "What component managed to survive its own death in SLES 16?"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "System Management"
+msgstr ""
+
+msgid "Installer"
+msgstr ""
+
+msgid "Migration tool"
+msgstr ""
+
+msgid "SUSE Story"
+msgstr "SUSE Story"
+
+msgid "Discover SUSE, one click at a time."
+msgstr "Ontdek SUSE, één klik tegelijk."
+
+msgid "What is SUSE’s business?"
+msgstr "Wat is de business van SUSE?"
+
+msgid "Providing Enterprise Linux solutions for mission-critical systems"
+msgstr "Leveren van Enterprise Linux oplossingen voor missie kritieke systemen"
+
+msgid "Delivering modern container and VM management with Rancher and Harvester"
+msgstr "Leveren van moderne container en VM beheer met Rancher en Harvester"
+
+msgid "Securing cloud-native workloads with NeuVector"
+msgstr "Beveiligen van cloud-inheemse werkladingen met NeuVector"
+
+msgid "What does the acronym SUSE stand for?"
+msgstr "Waar staat het acroniem SUSE voor?"
+
+msgid "Software- und System-Entwicklung (Software and Systems Development)"
+msgstr "Software- und System-Entwicklung (Software and Systems Development)"
+
+msgid "Super User Space Explorer"
+msgstr "Super User Space Explorer"
+
+msgid "Silly Unix Shell Enthusiasts"
+msgstr "Silly Unix Shell Enthusiasts"
+
+msgid "System Upgrade & Security Engine"
+msgstr "System Upgrade & Security Engine"
+
+msgid "How many employees does SUSE have worldwide?"
+msgstr "Hoeveel employees heeft SUSE wereldwijd?"
+
+msgid "Around 500"
+msgstr "Rond de 500"
+
+msgid "Around 1,200"
+msgstr "Rond de 1.200"
+
+msgid "Around 2,500"
+msgstr "Rond de 2.500"
+
+msgid "Around 10,000"
+msgstr "Rond de 10.000"
+
+msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
+msgstr "SUSECON 2026 komt in april! Welke stad zal de gastheer zijn van de grootste SUSE conferentie?"
+
+msgid "Prague"
+msgstr "Praag"
+
+msgid "Cupertino"
+msgstr "Cupertino"
+
+msgid "Redmont"
+msgstr "Redmont"
+
+msgid "Raleigh"
+msgstr "Raleigh"
+
+msgid "Which of the following is true about the SUSE Logo?"
+msgstr "Wat van het volgende is waar over het logo van SUSE?"
+
+msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
+msgstr "Hubert Mantel, een van de oprichters, vroeg een vriend om het logo te ontwerpen en iedereen behalve hij vond het werkelijk mooi."
+
+msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
+msgstr "We zijn steeds beter geworden in kameleons tekenen. Het huidige logo is de 6de generatie sinds de eerste in 1996"
+
+msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
+msgstr "Het SUSE logo beeldt flexibiliteit en aanpasbaarheid, net als een kameleon"
+
+msgid "When was the first version of SUSE Linux released?"
+msgstr "Wanneer werd de eerste versie van SUSE Linux vrijgegeven?"
+
+msgid "1989"
+msgstr "1989"
+
+msgid "1991"
+msgstr "1991"
+
+msgid "1994"
+msgstr "1994"
+
+msgid "2014"
+msgstr "2014"
+
+msgid "What is Rancher primarily used for?"
+msgstr "Waar wordt Rancher met name voor gebruikt?"
+
+msgid "Managing and scaling Kubernetes clusters"
+msgstr "Beheren en schalen van Kubernetes clusters"
+
+msgid "Herding virtual cows in the cloud"
+msgstr "Het hoeden van kuddes in de cloud"
+
+msgid "Automating SUSE Linux installations only"
+msgstr "Alleen voor het automatiseren van SUSE Linux installaties"
+
+msgid "Playing old-school ranch simulation games"
+msgstr "Oudere boerderijsimulatiespellen spelen"
+
+msgid "What does NeuVector focus on?"
+msgstr "Waar focust NeuVector zich op?"
+
+msgid "Cloud-native container security"
+msgstr "Cloud-eigen beveiliging in container"
+
+msgid "Making networking faster on Linux desktops"
+msgstr "Netwerken sneller maken op Linux bureabladen"
+
+msgid "Automating package builds"
+msgstr "Bouwen van pakketten automatiseren"
+
+msgid "Coloring the chameleon logo green"
+msgstr "Het kameleon-logo groen kleuren"
+
+msgid "What is SUSE Harvester?"
+msgstr "Wat is SUSE Harvester?"
+
+msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
+msgstr "Een virtualisatieplatform dat u gemakkelijk aanmaakt, migreert, een reservekopie van maakt en VM's herstelt op lege hardware van servers"
+
+msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
+msgstr "Een systeem gebouwd op Kubernetes dat KubeVirt gebruikt voor virtualisatie, Longhorn voor opslag en actieve containers ondersteunt naast VM's"
+
+msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
+msgstr "Een oplossing die integreert met Rancher, container en VM-beheer combineert met netwerken en waarneembaarheid"
+
+msgid "A community project sponsored by SUSE"
+msgstr "Een gemeenschapsproject gesponsord door SUSE"
+
+msgid "More than just one community Linux distribution"
+msgstr "Meer dan gewoon een gemeenschap rond een Linux distributie"
+
+msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
+msgstr "Een verbazingwekkende plaats om projecten te ontwikkelen met hulpmiddelen zoals openQA, Open Build Service en een gemeenschap die u verwelkomt"
+
+msgid "What are SUSE BCI (Base Container Images) known for?"
+msgstr "Waar zijn SUSE BCI (Base Container Images) bekend voor?"
+
+msgid "Being bloated with unnecessary packages"
+msgstr "Wordt opgeblazen met onnodige pakketten"
+
+msgid "Only working on SUSE Linux Enterprise Server"
+msgstr "Werken alleen op SUSE Linux Enterprise Server"
+
+msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
+msgstr "Voor het bieden van echt open, flexibele en veilige images gebaseerd op SUSE Linux Enterprise"
+
+msgid "Standing for 'Big Chameleon Initiative'"
+msgstr "Staat voor 'Big Chameleon Initiative'"
+
+msgid "SUSE x openSSL"
+msgstr "SUSE x openSSL"
+
+msgid "When SUSE meets openSSL, surprises await."
+msgstr "Wanneer SUSE openSSL ontmoet, wachten verrassingen."
+
+msgid "How many SUSE products use OpenSSL?"
+msgstr "Hoeveel SUSE producten gebruiken OpenSSL?"
+
+msgid "1"
+msgstr "1"
+
+msgid "5"
+msgstr "5"
+
+msgid "10"
+msgstr "10"
+
+msgid "All of them"
+msgstr "Alle"
+
+msgid "How many SUSE engineers are actively working on OpenSSL?"
+msgstr "Hoeveel SUSE ingenieurs zijn actief aan het werk op OpenSSL?"
+
+msgid "3"
+msgstr "3"
+
+msgid "42.3"
+msgstr "42.3"
+
+msgid "19"
+msgstr "19"
+
+msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
+msgstr "FIPS-modus inschakelen op een SUSE systeem kan welke van de volgende bijeffecten hebben?"
+
+msgid "It allows all cryptographic algorithms, including insecure ones."
+msgstr "Het biedt alle cryptografische algoritmen, inclusief die onveilig zijn."
+
+msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
+msgstr "Het beperkt het gebruik van cryptografie tot alleen FIPS-gevalideerde algoritmen en binaire programma's."
+
+msgid "It has no impact on system performance or compatibility."
+msgstr "Het heeft geen impact op systeemprestaties of compatibiliteit."
+
+msgid "You start smiling like 'Hide the Pain Harold' meme guy."
+msgstr "U begint glimlachen zoals 'Hide the Pain Harold' mememan."
+
+msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
+msgstr "Vanaf waar zullen SUSE ingenieurs in Brno, Tsjechië participeren in SUSE Hackweek 25?"
+
+msgid "The OpenSSL office"
+msgstr "Het OpenSSL kantoor"
+
+msgid "Starbucks"
+msgstr "Starbucks"
+
+msgid "Red Hat office"
+msgstr "Red Hat kantoor"
+
+msgid "Vaňkovka shopping gallery"
+msgstr "Vaňkovka winkelgalerij"
+
+msgid "Why does SUSE invest in OpenSSL?"
+msgstr "Waarom investeert SUSE in OpenSSL?"
+
+msgid "To contribute back to the community SUSE and many others relies on"
+msgstr "Om terug bij te dragen aan de gemeenschap waar SUSE en vele anderen van afhankelijk zijn"
+
+msgid "To make chameleons browse the web safely"
+msgstr "Om kameleons veilig op het web te laten bladeren"
+
+msgid "To win a race against penguins"
+msgstr "Om een wedstrijd tegen pinguïns te winnen"
+
+msgid "To shorten Linux kernel boot times"
+msgstr "Om de opstarttijd van Linux korter te maken"
+
+msgid "SUSE engineers contribute to OpenSSL by"
+msgstr "SUSE ingenieurs dragen aan OpenSSL bij door"
+
+msgid "Active development and code reviews"
+msgstr "Actieve ontwikkeling en evalueren van code"
+
+msgid "Contributing fixes and new features"
+msgstr "Reparaties en nieuwe mogelijkheden bijdragen"
+
+msgid "Running enterprise-grade testing with tools like openQA"
+msgstr "Testen op ondernemingsniveau uitvoeren met hulpmiddelen zoals openQA"
+
+msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
+msgstr "Welke rol speelt OpenSSL in SUSE Linux Enterprise?"
+
+msgid "It secures communication and cryptographic operations"
+msgstr "Het verzekert communicatie en cryptografische bewerkingen"
+
+msgid "It only adds fancy wallpapers"
+msgstr "Het voegt alleen mooie achtergrondafbeeldingen toe"
+
+msgid "It makes Open Build Service run faster"
+msgstr "Het zorgt dat Open Build Service sneller werkt"
+
+msgid "It manages Rancher clusters"
+msgstr "Het beheert Rancher clusters"
+
+msgid "Why is FIPS certification in OpenSSL important for SUSE?"
+msgstr "Waarom is FIPS certificatie in OpenSSL belangrijk voor SUSE?"
+
+msgid "It allows SUSE customers in regulated industries to meet strict security standards"
+msgstr "Het biedt klanten van SUSE in gereguleerde industrieën om te voldoen aan strikte beveiligingsstandaarden"
+
+msgid "It makes the chameleon change colors faster"
+msgstr "Het maakt dat de kameleon sneller van kleur verandert"
+
+msgid "It guarantees free coffee for certified systems"
+msgstr "Het garandeert vrije koffie voor gecertificeerde systemen"
+
+msgid "It is only useful for retro Linux distributions"
+msgstr "Het is alleen nuttig voor oudere Linux distributies"
+
 msgid "The Ultimate YaST Challenge"
 msgstr "De ultieme YaST uitdaging"
 
@@ -1720,9 +2752,6 @@ msgstr "ongeveer 150"
 
 msgid "When was the first YaST2 released?"
 msgstr "Wanneer is de eerste YaST2 uitgegeven?"
-
-msgid "1999"
-msgstr "1999"
 
 msgid "2002"
 msgstr "2002"
@@ -1985,9 +3014,6 @@ msgstr "Verbeterd beheer van opslagruimten in Leap 16.0 met standaard CDN, RIS b
 msgid "14"
 msgstr "14"
 
-msgid "10"
-msgstr "10"
-
 msgid "8"
 msgstr "8"
 
@@ -2026,12 +3052,6 @@ msgstr "Al het bovenstaande."
 
 msgid "At what manpage section would you look for zypper docs?"
 msgstr "In welke sectie van manpage zou u zoeken naar zypper documentatie?"
-
-msgid "1"
-msgstr "1"
-
-msgid "42"
-msgstr "42"
 
 msgid "What is yzpper?"
 msgstr "Wat is yzpper?"
@@ -2120,840 +3140,6 @@ msgstr "Wilt u afsluiten? Uw voortgang zal niet worden opgeslagen."
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Gebruik een herkenbare schermnaam, zols ZypperJedi of bij voorkeur uw echte naam (NaamAchternaam)."
-
-msgid "Asia Summit Dragon"
-msgstr "Asia Summit Dragon"
-
-msgid "Challenge the dragon of knowledge"
-msgstr "Daag de draak van kennis uit"
-
-msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr "In welke plaats werd de eerste openSUSE Asia Summit gehouden?"
-
-msgid "Taipei, Taiwan"
-msgstr "Taipei, Taiwan"
-
-msgid "Beijing, China"
-msgstr "Beijing, China"
-
-msgid "Jakarta, Indonesia"
-msgstr "Jakarta, Indonesië"
-
-msgid "Tokyo, Japan"
-msgstr "Tokyo, Japan"
-
-msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr "Wanneer werd de openSUSE Asia Summit gehouden in Tokyo, Japan?"
-
-msgid "2022"
-msgstr "2022"
-
-msgid "2017 and 2024"
-msgstr "2017 en 2024"
-
-msgid "2018"
-msgstr "2018"
-
-msgid "Only 2024"
-msgstr "Alleen 2024"
-
-msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr "Welke van de volgende plaatsen heeft NOOIT de openSUSE Asia Summit gehuisvest?"
-
-msgid "Denpasar"
-msgstr "Denpasar"
-
-msgid "Mumbai"
-msgstr "Mumbai"
-
-msgid "Taipei"
-msgstr "Taipei"
-
-msgid "Faridabad"
-msgstr "Faridabad"
-
-msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr "De 2018 editie van openSUSE Asia Summit vond plaats in welke plaats?"
-
-msgid "Hong Kong"
-msgstr "Hong Kong"
-
-msgid "Jakarta"
-msgstr "Jakarta"
-
-msgid "Tokyo"
-msgstr "Tokyo"
-
-msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr "Welke van de volgende landen heeft nooit een openSUSE Asia Summit gehuisvest?"
-
-msgid "Vietnam"
-msgstr "Vietnam"
-
-msgid "India"
-msgstr "India"
-
-msgid "Indonesia"
-msgstr "Indonesië"
-
-msgid "Taiwan"
-msgstr "Taiwan"
-
-msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr "In 2016 was de summit gehuisvest op Universitas Islam Indonesia. In welke plaats is die universiteit gelokaliseerd?"
-
-msgid "Yogyakarta"
-msgstr "Yogyakarta"
-
-msgid "Bandung"
-msgstr "Bandung"
-
-msgid "Surabaya"
-msgstr "Surabaya"
-
-msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr "Waar werd de openSUSE Asia Summit gehouden in 2019?"
-
-msgid "Seoul"
-msgstr "Seoul"
-
-msgid "Denpasar (Bali)"
-msgstr "Denpasar (Bali)"
-
-msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr "De openSUSE Asia Summit 2020 en 2021 werden online gehouden. Wat was de hoofdreden?"
-
-msgid "Budget cuts"
-msgstr "Kortingen in het budget"
-
-msgid "Lack of organizers"
-msgstr "Gebrek aan organisators"
-
-msgid "COVID-19 pandemic"
-msgstr "COVID-19 pandemie"
-
-msgid "Scheduling conflicts"
-msgstr "Conflicten over planning"
-
-msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr "Wie ontwerpt typisch het officiële logo voor de openSUSE Asia Summit?"
-
-msgid "Geenardo Da Vinci"
-msgstr "Geenardo Da Vinci"
-
-msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr "Een professionele grafisch ontwerper ingehuurd door de stichting openSUSE"
-
-msgid "The community through an annual design contest"
-msgstr "De gemeenschap via een jaarlijkse ontwerpwedstrijd"
-
-msgid "The developers from the openSUSE infrastructure team"
-msgstr "De ontwikkelaars uit het team voor de openSUSE infrastructuur"
-
-msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr "Welke openSUSE Asia Summit had een rood logo?"
-
-msgid "2016 in Beijing"
-msgstr "2016 in Beijing"
-
-msgid "2017 in Tokyo"
-msgstr "2017 in Tokyo"
-
-msgid "2018 in Taipei"
-msgstr "2018 in Taipei"
-
-msgid "2019 in Bali"
-msgstr "2019 in Bali"
-
-msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr "Welke openSUSE Asia Summit gebruikt de openSUSE Quiz app voor de eerste keer?"
-
-msgid "2025 in Faridabad"
-msgstr "2025 in Faridabad"
-
-msgid "2014 in Beijing"
-msgstr "2014 in Beijing"
-
-msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr "Waar was de langste liftreis naar de openSUSE Asia summit in?"
-
-msgid "Beijing"
-msgstr "Beijing"
-
-msgid "SUSE Story"
-msgstr "SUSE Story"
-
-msgid "Discover SUSE, one click at a time."
-msgstr "Ontdek SUSE, één klik tegelijk."
-
-msgid "What is SUSE’s business?"
-msgstr "Wat is de business van SUSE?"
-
-msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr "Leveren van Enterprise Linux oplossingen voor missie kritieke systemen"
-
-msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr "Leveren van moderne container en VM beheer met Rancher en Harvester"
-
-msgid "Securing cloud-native workloads with NeuVector"
-msgstr "Beveiligen van cloud-inheemse werkladingen met NeuVector"
-
-msgid "All of the above"
-msgstr "Al het bovenstaande"
-
-msgid "What does the acronym SUSE stand for?"
-msgstr "Waar staat het acroniem SUSE voor?"
-
-msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr "Software- und System-Entwicklung (Software and Systems Development)"
-
-msgid "Super User Space Explorer"
-msgstr "Super User Space Explorer"
-
-msgid "Silly Unix Shell Enthusiasts"
-msgstr "Silly Unix Shell Enthusiasts"
-
-msgid "System Upgrade & Security Engine"
-msgstr "System Upgrade & Security Engine"
-
-msgid "How many employees does SUSE have worldwide?"
-msgstr "Hoeveel employees heeft SUSE wereldwijd?"
-
-msgid "Around 500"
-msgstr "Rond de 500"
-
-msgid "Around 1,200"
-msgstr "Rond de 1.200"
-
-msgid "Around 2,500"
-msgstr "Rond de 2.500"
-
-msgid "Around 10,000"
-msgstr "Rond de 10.000"
-
-msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr "SUSECON 2026 komt in april! Welke stad zal de gastheer zijn van de grootste SUSE conferentie?"
-
-msgid "Prague"
-msgstr "Praag"
-
-msgid "Cupertino"
-msgstr "Cupertino"
-
-msgid "Redmont"
-msgstr "Redmont"
-
-msgid "Raleigh"
-msgstr "Raleigh"
-
-msgid "Which of the following is true about the SUSE Logo?"
-msgstr "Wat van het volgende is waar over het logo van SUSE?"
-
-msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr "Hubert Mantel, een van de oprichters, vroeg een vriend om het logo te ontwerpen en iedereen behalve hij vond het werkelijk mooi."
-
-msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr "We zijn steeds beter geworden in kameleons tekenen. Het huidige logo is de 6de generatie sinds de eerste in 1996"
-
-msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr "Het SUSE logo beeldt flexibiliteit en aanpasbaarheid, net als een kameleon"
-
-msgid "When was the first version of SUSE Linux released?"
-msgstr "Wanneer werd de eerste versie van SUSE Linux vrijgegeven?"
-
-msgid "1989"
-msgstr "1989"
-
-msgid "1991"
-msgstr "1991"
-
-msgid "1994"
-msgstr "1994"
-
-msgid "2014"
-msgstr "2014"
-
-msgid "What is Rancher primarily used for?"
-msgstr "Waar wordt Rancher met name voor gebruikt?"
-
-msgid "Managing and scaling Kubernetes clusters"
-msgstr "Beheren en schalen van Kubernetes clusters"
-
-msgid "Herding virtual cows in the cloud"
-msgstr "Het hoeden van kuddes in de cloud"
-
-msgid "Automating SUSE Linux installations only"
-msgstr "Alleen voor het automatiseren van SUSE Linux installaties"
-
-msgid "Playing old-school ranch simulation games"
-msgstr "Oudere boerderijsimulatiespellen spelen"
-
-msgid "What does NeuVector focus on?"
-msgstr "Waar focust NeuVector zich op?"
-
-msgid "Cloud-native container security"
-msgstr "Cloud-eigen beveiliging in container"
-
-msgid "Making networking faster on Linux desktops"
-msgstr "Netwerken sneller maken op Linux bureabladen"
-
-msgid "Automating package builds"
-msgstr "Bouwen van pakketten automatiseren"
-
-msgid "Coloring the chameleon logo green"
-msgstr "Het kameleon-logo groen kleuren"
-
-msgid "What is SUSE Harvester?"
-msgstr "Wat is SUSE Harvester?"
-
-msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr "Een virtualisatieplatform dat u gemakkelijk aanmaakt, migreert, een reservekopie van maakt en VM's herstelt op lege hardware van servers"
-
-msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr "Een systeem gebouwd op Kubernetes dat KubeVirt gebruikt voor virtualisatie, Longhorn voor opslag en actieve containers ondersteunt naast VM's"
-
-msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr "Een oplossing die integreert met Rancher, container en VM-beheer combineert met netwerken en waarneembaarheid"
-
-msgid "What is openSUSE?"
-msgstr "Wat is openSUSE?"
-
-msgid "A community project sponsored by SUSE"
-msgstr "Een gemeenschapsproject gesponsord door SUSE"
-
-msgid "More than just one community Linux distribution"
-msgstr "Meer dan gewoon een gemeenschap rond een Linux distributie"
-
-msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr "Een verbazingwekkende plaats om projecten te ontwikkelen met hulpmiddelen zoals openQA, Open Build Service en een gemeenschap die u verwelkomt"
-
-msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr "Waar zijn SUSE BCI (Base Container Images) bekend voor?"
-
-msgid "Being bloated with unnecessary packages"
-msgstr "Wordt opgeblazen met onnodige pakketten"
-
-msgid "Only working on SUSE Linux Enterprise Server"
-msgstr "Werken alleen op SUSE Linux Enterprise Server"
-
-msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr "Voor het bieden van echt open, flexibele en veilige images gebaseerd op SUSE Linux Enterprise"
-
-msgid "Standing for 'Big Chameleon Initiative'"
-msgstr "Staat voor 'Big Chameleon Initiative'"
-
-msgid "SUSE x openSSL"
-msgstr "SUSE x openSSL"
-
-msgid "When SUSE meets openSSL, surprises await."
-msgstr "Wanneer SUSE openSSL ontmoet, wachten verrassingen."
-
-msgid "How many SUSE products use OpenSSL?"
-msgstr "Hoeveel SUSE producten gebruiken OpenSSL?"
-
-msgid "5"
-msgstr "5"
-
-msgid "All of them"
-msgstr "Alle"
-
-msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr "Hoeveel SUSE ingenieurs zijn actief aan het werk op OpenSSL?"
-
-msgid "0"
-msgstr "0"
-
-msgid "3"
-msgstr "3"
-
-msgid "42.3"
-msgstr "42.3"
-
-msgid "19"
-msgstr "19"
-
-msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr "FIPS-modus inschakelen op een SUSE systeem kan welke van de volgende bijeffecten hebben?"
-
-msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr "Het biedt alle cryptografische algoritmen, inclusief die onveilig zijn."
-
-msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr "Het beperkt het gebruik van cryptografie tot alleen FIPS-gevalideerde algoritmen en binaire programma's."
-
-msgid "It has no impact on system performance or compatibility."
-msgstr "Het heeft geen impact op systeemprestaties of compatibiliteit."
-
-msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr "U begint glimlachen zoals 'Hide the Pain Harold' mememan."
-
-msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr "Vanaf waar zullen SUSE ingenieurs in Brno, Tsjechië participeren in SUSE Hackweek 25?"
-
-msgid "The OpenSSL office"
-msgstr "Het OpenSSL kantoor"
-
-msgid "Starbucks"
-msgstr "Starbucks"
-
-msgid "Red Hat office"
-msgstr "Red Hat kantoor"
-
-msgid "Vaňkovka shopping gallery"
-msgstr "Vaňkovka winkelgalerij"
-
-msgid "Why does SUSE invest in OpenSSL?"
-msgstr "Waarom investeert SUSE in OpenSSL?"
-
-msgid "To contribute back to the community SUSE and many others relies on"
-msgstr "Om terug bij te dragen aan de gemeenschap waar SUSE en vele anderen van afhankelijk zijn"
-
-msgid "To make chameleons browse the web safely"
-msgstr "Om kameleons veilig op het web te laten bladeren"
-
-msgid "To win a race against penguins"
-msgstr "Om een wedstrijd tegen pinguïns te winnen"
-
-msgid "To shorten Linux kernel boot times"
-msgstr "Om de opstarttijd van Linux korter te maken"
-
-msgid "SUSE engineers contribute to OpenSSL by"
-msgstr "SUSE ingenieurs dragen aan OpenSSL bij door"
-
-msgid "Active development and code reviews"
-msgstr "Actieve ontwikkeling en evalueren van code"
-
-msgid "Contributing fixes and new features"
-msgstr "Reparaties en nieuwe mogelijkheden bijdragen"
-
-msgid "Running enterprise-grade testing with tools like openQA"
-msgstr "Testen op ondernemingsniveau uitvoeren met hulpmiddelen zoals openQA"
-
-msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr "Welke rol speelt OpenSSL in SUSE Linux Enterprise?"
-
-msgid "It secures communication and cryptographic operations"
-msgstr "Het verzekert communicatie en cryptografische bewerkingen"
-
-msgid "It only adds fancy wallpapers"
-msgstr "Het voegt alleen mooie achtergrondafbeeldingen toe"
-
-msgid "It makes Open Build Service run faster"
-msgstr "Het zorgt dat Open Build Service sneller werkt"
-
-msgid "It manages Rancher clusters"
-msgstr "Het beheert Rancher clusters"
-
-msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr "Waarom is FIPS certificatie in OpenSSL belangrijk voor SUSE?"
-
-msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr "Het biedt klanten van SUSE in gereguleerde industrieën om te voldoen aan strikte beveiligingsstandaarden"
-
-msgid "It makes the chameleon change colors faster"
-msgstr "Het maakt dat de kameleon sneller van kleur verandert"
-
-msgid "It guarantees free coffee for certified systems"
-msgstr "Het garandeert vrije koffie voor gecertificeerde systemen"
-
-msgid "It is only useful for retro Linux distributions"
-msgstr "Het is alleen nuttig voor oudere Linux distributies"
-
-msgid "openSUSE Introduction"
-msgstr "Introductie in openSUSE"
-
-msgid "Discover openSUSE, one click at a time."
-msgstr "Ontdek openSUSE, één klik tegelijk."
-
-msgid "A project supported by SUSE, made for everyone"
-msgstr "Een project ondersteund door SUSE, gemaakt voor iedereen"
-
-msgid "More than just one Linux distribution"
-msgstr "Meer dan gewoon een Linux distributie"
-
-msgid "A friendly place to build software and learn new tools"
-msgstr "Een vriendelijke plaats om software te bouwen en nieuwe hulpmiddelen te leren"
-
-msgid "All of these things together"
-msgstr "Al deze dingen samen"
-
-msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr "openSUSE vierde net zijn 20ste verjaardag! In welk jaar gebeurde dat?"
-
-msgid "2025 – this year! 🎉"
-msgstr "2025 – dit jaar! 🎉"
-
-msgid "1998 – that’s when Google started, not openSUSE"
-msgstr "1998 – dat is toen Google begon, niet openSUSE"
-
-msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr "1994 – dat is de eerste SUSE Linux, niet openSUSE"
-
-msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr "2005 – het jaar dat openSUSE is geboren, maar niet 20 jaar geleden"
-
-msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr "openSUSE heeft twee hoofd manieren om elementen voor bijwerken te krijgen. Eén is een grote vrijgave eenmaal per jaar, de andere geeft deze voortdurend. Hoe worden ze genoemd?"
-
-msgid "Stable and Rolling"
-msgstr "Stabiel en rollend"
-
-msgid "Stable and Wobbly"
-msgstr "Stabiel en wiebelig"
-
-msgid "Rolling and Sitting"
-msgstr "Rollend en zittend"
-
-msgid "Rolling and Leaping"
-msgstr "Rollend en springend"
-
-msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr "Welke openSUSE versies zijn rollend (altijd bijgewerkt)?"
-
-msgid "Aeon, Kalpa, and MicroOS"
-msgstr "Aeon, Kalpa en MicroOS"
-
-msgid "Slowroll and Slowroll Micro"
-msgstr "Slowroll en Slowroll Micro"
-
-msgid "All of these are Rolling"
-msgstr ""
-
-msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
-
-msgid "Each minor release receive updates for about 24 months"
-msgstr ""
-
-msgid "They have one big release every 12 months"
-msgstr ""
-
-msgid "They come with release parties everyone can join 🎉"
-msgstr ""
-
-msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
-
-msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
-
-msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
-
-msgid "They cannot be installed on laptops"
-msgstr ""
-
-msgid "They are distributions that never change wallpapers"
-msgstr ""
-
-msgid "They come only as DVDs by mail"
-msgstr ""
-
-msgid "What is Slowroll?"
-msgstr ""
-
-msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
-
-msgid "A racing game mode in Linux"
-msgstr ""
-
-msgid "A distribution that only updates once per decade"
-msgstr ""
-
-msgid "The mascot’s new nickname"
-msgstr ""
-
-msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
-
-msgid "Open Build Service (OBS) for building software"
-msgstr ""
-
-msgid "openQA for automated testing"
-msgstr ""
-
-msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
-
-msgid "All of these are part of openSUSE"
-msgstr ""
-
-msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
-
-msgid "Heroes"
-msgstr ""
-
-msgid "Avengers"
-msgstr ""
-
-msgid "Thunderbolts"
-msgstr ""
-
-msgid "Villains"
-msgstr ""
-
-msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
-
-msgid "Install openSUSE on your laptop"
-msgstr ""
-
-msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
-
-msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
-
-msgid "All of these are great ideas"
-msgstr ""
-
-msgid "A chameleon named Geeko"
-msgstr ""
-
-msgid "A penguin named Tux"
-msgstr ""
-
-msgid "A tumbleweed rolling in the desert"
-msgstr ""
-
-msgid "A lizard in sunglasses"
-msgstr ""
-
-msgid "Why do people love openSUSE?"
-msgstr ""
-
-msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
-
-msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
-
-msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
-
-msgid "All of these together"
-msgstr ""
-
-msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
-
-msgid "Weblate at l10n.opensuse.org"
-msgstr ""
-
-msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
-
-msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
-
-msgid "By posting translations on random Reddit threads"
-msgstr ""
-
-msgid "Where can you get help with openSUSE?"
-msgstr ""
-
-msgid "Ask your friend who uses Linux"
-msgstr ""
-
-msgid "On many local Linux portals and websites"
-msgstr ""
-
-msgid "Show All"
-msgstr ""
-
-msgid "Level Up"
-msgstr ""
-
-msgid "openSUSE Arm"
-msgstr ""
-
-msgid "Hardware Enablement journey on Arm."
-msgstr ""
-
-msgid "What is Arm, in the context of computing?"
-msgstr ""
-
-msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
-
-msgid "A robotic limb that compiles your code"
-msgstr ""
-
-msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
-
-msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
-
-msgid "What is the Raspberry Pi 5?"
-msgstr ""
-
-msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
-
-msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
-
-msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
-
-msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
-
-msgid "arm"
-msgstr ""
-
-msgid "Arm"
-msgstr ""
-
-msgid "ARM!"
-msgstr ""
-
-msgid "Armmm… not sure"
-msgstr ""
-
-msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
-
-msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
-
-msgid "Linus Torvalds"
-msgstr ""
-
-msgid "Eric S. Raymond "
-msgstr ""
-
-msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
-
-msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
-
-msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
-
-msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
-
-msgid "Only MicroOS, everything else melted"
-msgstr ""
-
-msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
-
-msgid "Raw disk image (.raw.xz)"
-msgstr ""
-
-msgid ".exe installer"
-msgstr ""
-
-msgid ".iso DVD image with manual soldering required"
-msgstr ""
-
-msgid ".tar.gz full of dreams"
-msgstr ""
-
-msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
-
-msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
-
-msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
-
-msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
-
-msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
-
-msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
-
-msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
-
-msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
-
-msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
-
-msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
-
-msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
-
-msgid "Yes, it all comes from one magical build server"
-msgstr ""
-
-msgid "Only if the moon is in retrograde"
-msgstr ""
-
-msgid "Yes, but it’s compiled by penguins"
-msgstr ""
-
-msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
-
-msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
-
-msgid "sudo print-image-now"
-msgstr ""
-
-msgid "cat image > coffee"
-msgstr ""
-
-msgid "rpm -i image.raw.xz"
-msgstr ""
-
-msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
-
-msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
-
-msgid "Only floppy disks with patience"
-msgstr ""
-
-msgid "Cloud sync via pigeon post"
-msgstr ""
-
-msgid "Tape backup, if you believe hard enough"
-msgstr ""
-
-msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
-
-msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
-
-msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
-
-msgid "Consult the stars under a full moon"
-msgstr ""
-
-msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
-
-msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
-
-msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
-
-msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
-
-msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
 
 #~ msgid "Language"
 #~ msgstr "Taal"

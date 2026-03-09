@@ -1,6 +1,212 @@
 # David Medina <medipas@gmail.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-11-08 17:04+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14.3\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-16 13:03+0000\n"
+"PO-Revision-Date: 2025-11-08 17:04+0000\n"
+"Last-Translator: David Medina <medipas@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
+"Language: ca\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgid "openSUSE Arm"
+msgstr "openSUSE Arm"
+
+msgid "Hardware Enablement journey on Arm."
+msgstr "Viatge d'habilitació de maquinari a Arm."
+
+msgid "What is Arm, in the context of computing?"
+msgstr "Què és Arm, en el context informàtic?"
+
+msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
+msgstr "Una família d'arquitectures de CPU d'alta eficiència energètica àmpliament usades en dispositius mòbils, sistemes integrats i servidors"
+
+msgid "A robotic limb that compiles your code"
+msgstr "Una extremitat robòtica que compila codi"
+
+msgid "A special SUSE department for arm wrestling kernel bugs"
+msgstr "Un departament especial de SUSE per a lluitar contra errors del nucli amb els braços"
+
+msgid "A new kind of filesystem invented by Geeko"
+msgstr "Un tipus de sistema de fitxers nou inventat per Geeko"
+
+msgid "What is the Raspberry Pi 5?"
+msgstr "Què és la Raspberry Pi 5?"
+
+msgid "A credit-card-sized computer using Arm architecture"
+msgstr "Un ordinador de la mida d'una targeta de crèdit amb arquitectura Arm"
+
+msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
+msgstr "Un escriptori petit i assequible i energèticament eficient: perfecte perquè la canalla navegui per la web, miri YouTube, aprengui a programar o jugui a jocs lleugers"
+
+msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
+msgstr "Un servidor petit però capaç per executar un NAS domèstic, Home Assistant, Nextcloud o fins i tot una rèplica d'openSUSE local"
+
+msgid "All of the above"
+msgstr "Totes les anteriors"
+
+msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
+msgstr "Quina és l'ortografia correcta de l'arquitectura de CPU compatible amb openSUSE a Raspberry Pi 5?"
+
+msgid "arm"
+msgstr "arm"
+
+msgid "Arm"
+msgstr "Arm"
+
+msgid "ARM!"
+msgstr "ARM!"
+
+msgid "Armmm… not sure"
+msgstr "Ui… No n'estic segur."
+
+msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
+msgstr "Qui hi ha darrere del suport u-boot de Raspberry PI5 al nucli de Linux?"
+
+msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
+msgstr "Ivan Ivanov i Matthias Brugger de l'equip de SUSE HW Enablement."
+
+msgid "Linus Torvalds"
+msgstr "Linus Torvalds"
+
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+msgid "Eric S. Raymond "
+msgstr "Eric S. Raymond "
+
+msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
+msgstr "Quines edicions d'openSUSE ofereixen imatges especialitzades per a Raspberry Pi?"
+
+msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
+msgstr "Leap, Leap Micro, Tumbleweed i MicroSO"
+
+msgid "Only Tumbleweed, because it never stops rolling"
+msgstr "Només el Tumbleweed, perquè mai para de rodar"
+
+msgid "Just Leap 42.3 because it’s eternal"
+msgstr "Només el Leap 42.3 perquè és etern"
+
+msgid "Only MicroOS, everything else melted"
+msgstr "Només el MicroSO, tota la resta s'ha fos"
+
+msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
+msgstr "Quin és el format d'imatge preferit per a openSUSE a Raspberry Pi?"
+
+msgid "Raw disk image (.raw.xz)"
+msgstr "Imatge de disc en cru (.raw.xz)"
+
+msgid ".exe installer"
+msgstr "instal·lador .exe"
+
+msgid ".iso DVD image with manual soldering required"
+msgstr "Imatge de DVD .iso amb soldadura manual necessària"
+
+msgid ".tar.gz full of dreams"
+msgstr ".tar.gz ple de somnis"
+
+msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
+msgstr "L'openSUSE també es pot executar en telèfons mòbils! Quines imatges d'instal·lació hi ha disponibles per al PinePhone?"
+
+msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
+msgstr "Tumbleweed amb Phosh (per a fans del Purisme) i Tumbleweed amb Plasma Mobile (per a amants del KDE)"
+
+msgid "Leap Micro with GNOME Shell for refrigerators"
+msgstr "Leap Micro amb GNOME Shell per a refrigeradors"
+
+msgid "Tumbleweed LXQt Edition for rotary phones"
+msgstr "Edició Tumbleweed LXQt per a telèfons rotatius"
+
+msgid "MicroOS Text Edition with Morse input mode"
+msgstr "Edició de text de MicroSO amb mode d'entrada Morse"
+
+msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
+msgstr "On puc trobar imatges d'openSUSE per a dispositius Arm com ara Raspberry Pi, PinePhone o Pinebook?"
+
+msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
+msgstr "get.opensuse.org: el punt de partida fàcil per a les imatges d'openSUSE més usades"
+
+msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
+msgstr "en.opensuse.org/Portal:Arm: el portal d'Arm amb enllaços i documentació"
+
+msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed: per als valents a qui els agrada la navegació manual"
+
+msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
+msgstr "L'openSUSE Tumbleweed Arm està construït juntament amb paquets x86_64?"
+
+msgid "No, it’s built separately as part of openSUSE Ports"
+msgstr "No, està construït per separat com a part dels les versions derivades d'openSUSE."
+
+msgid "Yes, it all comes from one magical build server"
+msgstr "Sí, tot prové d'un servidor de compilació màgic."
+
+msgid "Only if the moon is in retrograde"
+msgstr "Només si la lluna té fase minvant"
+
+msgid "Yes, but it’s compiled by penguins"
+msgstr "Sí, però està compilat per pingüins."
+
+msgid "Which command is commonly used to write the openSUSE image to an SD card?"
+msgstr "Quina ordre s'usa habitualment per escriure la imatge d'openSUSE en una targeta SD?"
+
+msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+
+msgid "sudo print-image-now"
+msgstr "sudo print-image-now"
+
+msgid "cat image > coffee"
+msgstr "cat image > coffee"
+
+msgid "rpm -i image.raw.xz"
+msgstr "rpm -i image.raw.xz"
+
+msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
+msgstr "Des de quin tipus d'emmagatzematge poden arrencar les imatges d'openSUSE Raspberry Pi?"
+
+msgid "SD card, USB, or NVMe (on Pi 5)"
+msgstr "Targeta SD, USB o NVMe (amb Pi 5)"
+
+msgid "Only floppy disks with patience"
+msgstr "Només disquets, amb paciència"
+
+msgid "Cloud sync via pigeon post"
+msgstr "Sincronització amb el núvol mitjançant un pal de coloms"
+
+msgid "Tape backup, if you believe hard enough"
+msgstr "Còpia de seguretat en cinta, si hi creus prou"
+
+msgid "What’s the best way to stay updated on openSUSE Arm development?"
+msgstr "Quina és la millor manera de mantenir-se al dia sobre el desenvolupament de l'openSUSE Arm?"
+
+msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
+msgstr "Seguir la llista de correu d'openSUSE Arm i el canal Matrix (detalls a continuació)"
+
+msgid "Ask ChatGPT for daily firmware leaks"
+msgstr "Demanar a ChatGPT filtracions diàries sobre programari"
+
+msgid "Consult the stars under a full moon"
+msgstr "Consultar les estrelles sota la lluna plena"
+
+msgid "Refresh get.opensuse.org until it blinks"
+msgstr "Refrescar get.opensuse.org fins que parpellegi"
+
+msgid "If you win this Raspberry Pi 5, what could you run on it first?"
+msgstr "Si guanyeu aquesta Raspberry Pi 5, què hi podríeu executar primer?"
+
+msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
+msgstr "Començar amb openSUSE Tumbleweed per a Arm i explorar una experiència d'escriptori Linux completa"
+
+msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
+msgstr "Configurar un servidor domèstic personal amb Nextcloud, Home Assistant o una rèplica pròpia d'openSUSE"
+
+msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
+msgstr "Provar experiments divertits com ara jocs retro, centres multimèdia o projectes de codificació per a la canalla"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
@@ -1283,6 +1489,369 @@ msgstr "Els esdeveniments es revelen només durant una lluna plena"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "On podeu demanar ajuda quan us perdeu a l'univers d'openSUSE?"
 
+msgid "openSUSE Introduction"
+msgstr "Introducció a openSUSE"
+
+msgid "Discover openSUSE, one click at a time."
+msgstr "Descobriu l'openSUSE, clic a clic."
+
+msgid "What is openSUSE?"
+msgstr "Què és openSUSE?"
+
+msgid "A project supported by SUSE, made for everyone"
+msgstr "Un projecte amb el suport de SUSE, fet per a tothom"
+
+msgid "More than just one Linux distribution"
+msgstr "Més que una distribució de Linux"
+
+msgid "A friendly place to build software and learn new tools"
+msgstr "Un lloc agradable per crear programari i aprendre eines noves"
+
+msgid "All of these things together"
+msgstr "Totes aquestes coses juntes"
+
+msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
+msgstr "L'openSUSE acaba de celebrar el seu 20è aniversari! En quin any va passar això?"
+
+msgid "2025 – this year! 🎉"
+msgstr "2025 – aquest any! 🎉"
+
+msgid "1998 – that’s when Google started, not openSUSE"
+msgstr "1998 – llavors va començar Google, no OpenSUSE"
+
+msgid "1994 – that’s the first SUSE Linux, not openSUSE"
+msgstr "1994 – aquest és el primer SUSE Linux, no openSUSE"
+
+msgid "2005 – the year openSUSE was born, but not 20 years ago"
+msgstr "2005 – l'any en què va néixer openSUSE, però no fa 20 anys"
+
+msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
+msgstr "L'openSUSE té dues maneres principals d'obtenir actualitzacions. Una és un gran llançament un cop l'any, l'altra proporciona actualitzacions contínues. Com es diuen?"
+
+msgid "Stable and Rolling"
+msgstr "Estable i Rolling"
+
+msgid "Stable and Wobbly"
+msgstr "Estable i Wobbly"
+
+msgid "Rolling and Sitting"
+msgstr "Rolling i Sitting"
+
+msgid "Rolling and Leaping"
+msgstr "Rolling i Leaping"
+
+msgid "Which openSUSE versions are Rolling (always up-to-date)?"
+msgstr "Quines versions d'openSUSE són Rolling (sempre actualitzades)?"
+
+msgid "Aeon, Kalpa, and MicroOS"
+msgstr "Aeon, Kalpa, i MicroSO"
+
+msgid "Slowroll and Slowroll Micro"
+msgstr "Slowroll i Slowroll Micro"
+
+msgid "All of these are Rolling"
+msgstr "Totes són contínues."
+
+msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
+msgstr "Leap i Leap Micro són les nostres distribucions estables. Què vol dir això?"
+
+msgid "Each minor release receive updates for about 24 months"
+msgstr "Cada versió menor rep actualitzacions durant uns 24 mesos."
+
+msgid "They have one big release every 12 months"
+msgstr "Tenen un gran llançament cada 12 mesos."
+
+msgid "They come with release parties everyone can join 🎉"
+msgstr "Tenen festes de llançament a les quals tothom pot unir-s'hi 🎉"
+
+msgid "All of the above (and you can stay on Leap 16 until 2033!)"
+msgstr "Tot l'anterior (i podeu quedar-vos al Leap 16 fins al 2033!)"
+
+msgid "openSUSE also has “immutable” editions. What does that mean?"
+msgstr "L'openSUSE també té edicions immutables. Què vol dir això?"
+
+msgid "They use a read-only system base and update safely with special tools"
+msgstr "Usen una base de sistema de només lectura i s'actualitzen de manera segura amb eines especials."
+
+msgid "They cannot be installed on laptops"
+msgstr "No es poden instal·lar en ordinadors portàtils."
+
+msgid "They are distributions that never change wallpapers"
+msgstr "Són distribucions que no canvien mai els fons de pantalla."
+
+msgid "They come only as DVDs by mail"
+msgstr "Només arriben en DVD per correu."
+
+msgid "What is Slowroll?"
+msgstr "Què és l'Slowroll?"
+
+msgid "A variant of Tumbleweed with updates grouped into tested batches"
+msgstr "Una variant de Tumbleweed amb actualitzacions agrupades en lots provats"
+
+msgid "A racing game mode in Linux"
+msgstr "Un mode de joc de curses a Linux"
+
+msgid "A distribution that only updates once per decade"
+msgstr "Una distribució que només s'actualitza un cop per dècada"
+
+msgid "The mascot’s new nickname"
+msgstr "El nou sobrenom de la mascota"
+
+msgid "What are some of the key openSUSE community tools and projects?"
+msgstr "Quines són algunes de les eines i projectes clau de la comunitat d'openSUSE?"
+
+msgid "Open Build Service (OBS) for building software"
+msgstr "Servei de compilació obert (OBS) per a la creació de programari"
+
+msgid "openQA for automated testing"
+msgstr "openQA per a proves automatitzades"
+
+msgid "The Wiki, Weblate, forums, and more"
+msgstr "El Wiki, el Weblate, els fòrums i més"
+
+msgid "All of these are part of openSUSE"
+msgstr "Tot això forma part d'openSUSE."
+
+msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
+msgstr "L'equip que s'encarrega de la infraestructura d'openSUSE es diu openSUSE...?"
+
+msgid "Heroes"
+msgstr "Herois"
+
+msgid "Avengers"
+msgstr "Venjadors"
+
+msgid "Thunderbolts"
+msgstr "Trons"
+
+msgid "Villains"
+msgstr "Vilans"
+
+msgid "Windows 10 is out of support. What could you do with that laptop?"
+msgstr "El Windows 10 ja no és compatible. Què podries fer amb aquest portàtil?"
+
+msgid "Install openSUSE on your laptop"
+msgstr "Instal·lar-hi l'openSUSE"
+
+msgid "Install openSUSE on your friend’s laptop"
+msgstr "Instal·lar l'openSUSE al portàtil del teu amic"
+
+msgid "Install openSUSE on your grandmother’s laptop"
+msgstr "Instal·lar l'openSUSE al portàtil de la teva àvia"
+
+msgid "All of these are great ideas"
+msgstr "Totes són idees bones."
+
+msgid "A chameleon named Geeko"
+msgstr "Un camaleó anomenat Geeko"
+
+msgid "A penguin named Tux"
+msgstr "Un pingüí anomenat Tux"
+
+msgid "A tumbleweed rolling in the desert"
+msgstr "Una herba rodadora rodant pel desert"
+
+msgid "A lizard in sunglasses"
+msgstr "Un llangardaix amb ulleres de sol"
+
+msgid "Why do people love openSUSE?"
+msgstr "Per què a la gent li agrada l'openSUSE?"
+
+msgid "Stable Leap releases and fast-moving Tumbleweed updates"
+msgstr "Llançaments estables del Leap i actualitzacions ràpides del Tumbleweed"
+
+msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
+msgstr "Eines modernes com ara Agama, Myrlyn, zypper, OBS i openQA"
+
+msgid "A friendly worldwide community that welcomes everyone"
+msgstr "Una comunitat mundial amable que acull tothom"
+
+msgid "All of these together"
+msgstr "Tot plegat"
+
+msgid "Where can you help translate openSUSE (and even this quiz)?"
+msgstr "On podeu ajudar a traduir l'openSUSE (i fins i tot aquest qüestionari)?"
+
+msgid "Weblate at l10n.opensuse.org"
+msgstr "Al Weblate, a l10n.opensuse.org"
+
+msgid "By whispering translations into the chameleon’s ear"
+msgstr "Xiuxiuejant traduccions a l'orella del camaleó"
+
+msgid "At Google Translate headquarters in a secret bunker"
+msgstr "A la seu de Google Translate, en un búnquer secret"
+
+msgid "By posting translations on random Reddit threads"
+msgstr "Publicant traduccions en fils aleatoris de Reddit"
+
+msgid "Where can you get help with openSUSE?"
+msgstr "On podeu obtenir ajuda amb l'openSUSE?"
+
+msgid "Ask your friend who uses Linux"
+msgstr "Preguntar a un amic que usi Linux"
+
+msgid "On many local Linux portals and websites"
+msgstr "En molts portals i llocs web locals de Linux"
+
+msgid "Asia Summit Dragon"
+msgstr "Cimera del Drac d'Àsia"
+
+msgid "Challenge the dragon of knowledge"
+msgstr "Desafieu el drac del coneixement"
+
+msgid "In which city was the first openSUSE Asia Summit hosted?"
+msgstr "A quina ciutat es va celebrar la primera Cimera d'Àsia d'openSUSE?"
+
+msgid "Taipei, Taiwan"
+msgstr "Taipei, Taiwan"
+
+msgid "Beijing, China"
+msgstr "Pequín, Xina"
+
+msgid "Jakarta, Indonesia"
+msgstr "Jakarta, Indonèsia"
+
+msgid "Tokyo, Japan"
+msgstr "Tòquio, Japó"
+
+msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
+msgstr "Quan es va celebrar la Cimera d'Àsia de l'openSUSE a Tòquio, Japó?"
+
+msgid "2022"
+msgstr "2022"
+
+msgid "2017 and 2024"
+msgstr "2017 i 2024"
+
+msgid "2018"
+msgstr "2018"
+
+msgid "Only 2024"
+msgstr "Només el 2024"
+
+msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
+msgstr "Quina de les ciutats següents MAI no ha acollit la Cimera d'Àsia d'openSUSE?"
+
+msgid "Denpasar"
+msgstr "Denpasar"
+
+msgid "Mumbai"
+msgstr "Bombai"
+
+msgid "Taipei"
+msgstr "Taipei"
+
+msgid "Faridabad"
+msgstr "Faridabad"
+
+msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
+msgstr "A quina ciutat va tenir lloc l'edició de 2018 de la Cimera d'Àsia de l'openSUSE?"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Jakarta"
+msgstr "Jakarta"
+
+msgid "Tokyo"
+msgstr "Tòquio"
+
+msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
+msgstr "Quin dels països següents no ha acollit mai una Cimera d'Àsia de l'openSUSE?"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "India"
+msgstr "Índia"
+
+msgid "Indonesia"
+msgstr "Indonèsia"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
+msgstr "El 2016, la cimera es va celebrar a la Universitas Islam Indonesia. A quina ciutat es troba aquesta universitat?"
+
+msgid "Yogyakarta"
+msgstr "Yogyakarta"
+
+msgid "Bandung"
+msgstr "Bandung"
+
+msgid "Surabaya"
+msgstr "Surabaya"
+
+msgid "Where was the openSUSE Asia Summit held in 2019?"
+msgstr "On es va celebrar la Cimera Àsia d'openSUSE el 2019?"
+
+msgid "Seoul"
+msgstr "Seül"
+
+msgid "Denpasar (Bali)"
+msgstr "Denpasar (Bali)"
+
+msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
+msgstr "La Cimera d'Àsia d'openSUSE de 2020 i 2021 es va celebrar en línia. Quin en va ser el motiu principal?"
+
+msgid "Budget cuts"
+msgstr "Retallades pressupostàries"
+
+msgid "Lack of organizers"
+msgstr "Falta d'organitzadors"
+
+msgid "COVID-19 pandemic"
+msgstr "La pandèmia de la covid-19"
+
+msgid "Scheduling conflicts"
+msgstr "Conflictes de programació"
+
+msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
+msgstr "Qui dissenya normalment el logotip oficial de la Cimera d'Àsia d'openSUSE?"
+
+msgid "Geenardo Da Vinci"
+msgstr "Geenardo Da Vinci"
+
+msgid "A professional graphic designer hired by the openSUSE Foundation"
+msgstr "Un dissenyador gràfic professional contractat per la Fundació openSUSE"
+
+msgid "The community through an annual design contest"
+msgstr "La comunitat, a través d'un concurs anual de disseny"
+
+msgid "The developers from the openSUSE infrastructure team"
+msgstr "Els desenvolupadors de l'equip d'infraestructura d'openSUSE"
+
+msgid "Which openSUSE Asia Summit had a red logo?"
+msgstr "Quina Cimera d'openSUSE asiàtica tenia un logotip vermell?"
+
+msgid "2016 in Beijing"
+msgstr "2016 a Pequín"
+
+msgid "2017 in Tokyo"
+msgstr "2017 a Tòquio"
+
+msgid "2018 in Taipei"
+msgstr "2018 a Taipei"
+
+msgid "2019 in Bali"
+msgstr "2019 a Bali"
+
+msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
+msgstr "Quina Cimera d'Àsia d'openSUSE va usar l'aplicació openSUSE Quiz per primera vegada?"
+
+msgid "2025 in Faridabad"
+msgstr "2025 a Faridabad"
+
+msgid "2014 in Beijing"
+msgstr "2014 a Pequín"
+
+msgid "The longest elevator trip to openSUSE Asia summit was in?"
+msgstr "On es va fer el viatge en ascensor més llarg a la Cimera d'Àsia d'openSUSE?"
+
+msgid "Beijing"
+msgstr "Pequín"
+
 msgid "oSC Historian"
 msgstr "Historiador d'oSC"
 
@@ -1336,9 +1905,6 @@ msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
 msgstr "Tornem al present. Qui va pronunciar la conferència inaugural de l'oSC 2024?"
-
-msgid "Richard Stallman"
-msgstr "Richard Stallman"
 
 msgid "Rick Spencer"
 msgstr "Rick Spencer"
@@ -1670,6 +2236,483 @@ msgstr "Una espasa per a la protecció de l'ordinador central"
 msgid "A white helmet with IBM on it"
 msgstr "Un casc blanc amb la marca d'IBM a sobre"
 
+msgid "SLES 16 in Numbers"
+msgstr ""
+
+msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
+msgstr ""
+
+msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "16"
+msgstr ""
+
+msgid "42"
+msgstr "42"
+
+msgid "Just one: German!"
+msgstr ""
+
+msgid "How many features have been reported against SLES + SAP 16.0? "
+msgstr ""
+
+msgid "1099"
+msgstr ""
+
+msgid "404 – features not found"
+msgstr ""
+
+msgid "9999 – we lost count"
+msgstr ""
+
+msgid "How many of those features were resolved in 16.0?"
+msgstr ""
+
+msgid "798"
+msgstr ""
+
+msgid "789"
+msgstr ""
+
+msgid "123"
+msgstr ""
+
+msgid "666"
+msgstr ""
+
+msgid "When does LTS Support for SLES 16.0?"
+msgstr ""
+
+msgid "2030"
+msgstr ""
+
+msgid "Never – it’s eternal like systemd"
+msgstr ""
+
+msgid "2029"
+msgstr ""
+
+msgid "2032"
+msgstr ""
+
+msgid "How many valid bugs were resolved in SLES 16.0?"
+msgstr ""
+
+msgid "999"
+msgstr ""
+
+msgid "0, because it’s perfect"
+msgstr ""
+
+msgid "Too many to fit in Bugzilla"
+msgstr ""
+
+msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "1 – we’re almost there!"
+msgstr ""
+
+msgid "0, No P1 shall pass RC!"
+msgstr ""
+
+msgid "When can we expect SLES 16.1 to be released?"
+msgstr ""
+
+msgid "November 3rd 2026"
+msgstr ""
+
+msgid "June 16th, 2026"
+msgstr ""
+
+msgid "4th of July 2026"
+msgstr ""
+
+msgid "30th February 2026"
+msgstr ""
+
+msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
+msgstr ""
+
+msgid "slfo-1.2 "
+msgstr ""
+
+msgid "devel branch in src.opensuse.org/pool"
+msgstr ""
+
+msgid "slfo-main"
+msgstr ""
+
+msgid "slfo-1.0"
+msgstr ""
+
+msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
+msgstr ""
+
+msgid "0"
+msgstr "0"
+
+msgid "Thousands of packages in coldpool"
+msgstr ""
+
+msgid "All of them. Maintainers are overrated"
+msgstr ""
+
+msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
+msgstr ""
+
+msgid "python-3.13"
+msgstr ""
+
+msgid "python-2.7"
+msgstr ""
+
+msgid "python-3.11"
+msgstr ""
+
+msgid "python-3.6"
+msgstr ""
+
+msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
+msgstr ""
+
+msgid "ruby-3.4"
+msgstr ""
+
+msgid "ruby-2.7 LTS"
+msgstr ""
+
+msgid "ruby-3.1"
+msgstr ""
+
+msgid "ruby-3.2"
+msgstr ""
+
+msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
+msgstr ""
+
+msgid "None. We solely rely on testing in production."
+msgstr ""
+
+msgid "1999"
+msgstr "El 1999"
+
+msgid "9999"
+msgstr ""
+
+msgid "Who is the Release Manager Lead for SLES 16.1?"
+msgstr ""
+
+msgid "Radoslav Tsvetkov"
+msgstr ""
+
+msgid "Libor Miksik"
+msgstr ""
+
+msgid "Daniela Giri"
+msgstr ""
+
+msgid "Prokop Vlasin"
+msgstr ""
+
+msgid "What component managed to survive its own death in SLES 16?"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "System Management"
+msgstr ""
+
+msgid "Installer"
+msgstr ""
+
+msgid "Migration tool"
+msgstr ""
+
+msgid "SUSE Story"
+msgstr "Història de SUSE"
+
+msgid "Discover SUSE, one click at a time."
+msgstr "Descobriu SUSE, clic a clic."
+
+msgid "What is SUSE’s business?"
+msgstr "Quin és el negoci de SUSE?"
+
+msgid "Providing Enterprise Linux solutions for mission-critical systems"
+msgstr "Proporcionar solucions d'empresa amb Linux per a sistemes de missió crítica"
+
+msgid "Delivering modern container and VM management with Rancher and Harvester"
+msgstr "Oferir una gestió moderna de contenidors i màquines virtuals amb Rancher i Harvester"
+
+msgid "Securing cloud-native workloads with NeuVector"
+msgstr "Assegurar càrregues de treball natives de núvol amb NeuVector"
+
+msgid "What does the acronym SUSE stand for?"
+msgstr "Què significa l'acrònim SUSE?"
+
+msgid "Software- und System-Entwicklung (Software and Systems Development)"
+msgstr "Software- und System-Entwicklung (Desenvolupament de programari i sistemes)"
+
+msgid "Super User Space Explorer"
+msgstr "Explorador d'espais de superusuari"
+
+msgid "Silly Unix Shell Enthusiasts"
+msgstr "Entusiastes ximples de l'intèrpret d'Unix"
+
+msgid "System Upgrade & Security Engine"
+msgstr "Actualització del sistema i motor de seguretat"
+
+msgid "How many employees does SUSE have worldwide?"
+msgstr "Quants empleats té SUSE a tot el món?"
+
+msgid "Around 500"
+msgstr "Uns 500"
+
+msgid "Around 1,200"
+msgstr "Uns 1200"
+
+msgid "Around 2,500"
+msgstr "Uns 2500"
+
+msgid "Around 10,000"
+msgstr "Uns 10000"
+
+msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
+msgstr "La SUSECON 2026 arriba a l'abril! Quina ciutat acollirà la conferència de SUSE més gran?"
+
+msgid "Prague"
+msgstr "Praga"
+
+msgid "Cupertino"
+msgstr "Cupertino"
+
+msgid "Redmont"
+msgstr "Redmont"
+
+msgid "Raleigh"
+msgstr "Raleigh"
+
+msgid "Which of the following is true about the SUSE Logo?"
+msgstr "Quina de les afirmacions següents és certa sobre el logotip de SUSE?"
+
+msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
+msgstr "Hubert Mantel, un dels fundadors, va demanar a un amic que en dissenyés el logotip, i a tothom menys a ell li va agradar."
+
+msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
+msgstr "Hem millorat molt dibuixant camaleons. El logotip actual és la sisena generació des del primer, el 1996."
+
+msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
+msgstr "El logotip de SUSE representa flexibilitat i l'adaptabilitat, igual que el camaleó."
+
+msgid "When was the first version of SUSE Linux released?"
+msgstr "Quan es va publicar la primera versió de SUSE Linux?"
+
+msgid "1989"
+msgstr "El 1989"
+
+msgid "1991"
+msgstr "El 1991"
+
+msgid "1994"
+msgstr "El 1994"
+
+msgid "2014"
+msgstr "El 2014"
+
+msgid "What is Rancher primarily used for?"
+msgstr "Per a què s'usa principalment el Rancher?"
+
+msgid "Managing and scaling Kubernetes clusters"
+msgstr "Gestió i escalabilitat de clústers de Kubernetes"
+
+msgid "Herding virtual cows in the cloud"
+msgstr "Pasturatge de vaques virtuals al núvol"
+
+msgid "Automating SUSE Linux installations only"
+msgstr "Automatització només d'instal·lacions de SUSE Linux"
+
+msgid "Playing old-school ranch simulation games"
+msgstr "Jugar a jocs de simulació de ranxos de la vella escola"
+
+msgid "What does NeuVector focus on?"
+msgstr "En què se centra NeuVector?"
+
+msgid "Cloud-native container security"
+msgstr "Seguretat de contenidors nativa al núvol"
+
+msgid "Making networking faster on Linux desktops"
+msgstr "Fer que la xarxa sigui més ràpida als escriptoris Linux"
+
+msgid "Automating package builds"
+msgstr "Automatització de la compilació de paquets"
+
+msgid "Coloring the chameleon logo green"
+msgstr "Pintar el logotip del camaleó de verd"
+
+msgid "What is SUSE Harvester?"
+msgstr "Què és SUSE Harvester?"
+
+msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
+msgstr "Una plataforma de virtualització que permet crear, migrar, fer còpies de seguretat i restaurar fàcilment màquines virtuals en servidors de metall nu"
+
+msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
+msgstr "Un sistema basat en Kubernetes que usa KubeVirt per a la virtualització, Longhorn per a l'emmagatzematge i admet l'execució de contenidors juntament amb màquines virtuals"
+
+msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
+msgstr "Una solució que s'integra amb Rancher, combinant la gestió de contenidors i màquines virtuals amb la creació de xarxes i l'observabilitat"
+
+msgid "A community project sponsored by SUSE"
+msgstr "Un projecte comunitari patrocinat per SUSE"
+
+msgid "More than just one community Linux distribution"
+msgstr "Més que una distribució comunitària de Linux"
+
+msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
+msgstr "Un lloc increïble per desenvolupar projectes amb eines com ara openQA, Open Build Service i una comunitat acollidora"
+
+msgid "What are SUSE BCI (Base Container Images) known for?"
+msgstr "Per què són conegudes les imatges de contenidors de base (BCI) de SUSE?"
+
+msgid "Being bloated with unnecessary packages"
+msgstr "Estar botides amb paquets innecessaris"
+
+msgid "Only working on SUSE Linux Enterprise Server"
+msgstr "Només funciona amb SUSE Linux Enterprise Server"
+
+msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
+msgstr "Per oferir imatges realment obertes, flexibles i segures basades en SUSE Linux Enterprise"
+
+msgid "Standing for 'Big Chameleon Initiative'"
+msgstr "Significa la 'Iniciativa del Gran Camaleó'"
+
+msgid "SUSE x openSSL"
+msgstr "SUSE x openSSL"
+
+msgid "When SUSE meets openSSL, surprises await."
+msgstr "Quan SUSE es troba amb openSSL hi ha sorpreses."
+
+msgid "How many SUSE products use OpenSSL?"
+msgstr "Quants productes SUSE usen OpenSSL?"
+
+msgid "1"
+msgstr "1"
+
+msgid "5"
+msgstr "5"
+
+msgid "10"
+msgstr "10"
+
+msgid "All of them"
+msgstr "Tots"
+
+msgid "How many SUSE engineers are actively working on OpenSSL?"
+msgstr "Quants enginyers de SUSE treballen activament a OpenSSL?"
+
+msgid "3"
+msgstr "3"
+
+msgid "42.3"
+msgstr "42.3"
+
+msgid "19"
+msgstr "19"
+
+msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
+msgstr "Quin dels efectes secundaris següents pot tenir l'habilitació del mode FIPS en un sistema SUSE?"
+
+msgid "It allows all cryptographic algorithms, including insecure ones."
+msgstr "Permet tots els algoritmes criptogràfics, inclosos els insegurs."
+
+msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
+msgstr "Restringeix l'ús de criptografia només a algoritmes i binaris validats per FIPS."
+
+msgid "It has no impact on system performance or compatibility."
+msgstr "No té cap impacte en el rendiment ni en la compatibilitat del sistema."
+
+msgid "You start smiling like 'Hide the Pain Harold' meme guy."
+msgstr "Comences a somriure com el paio del meme d'«Amaga el dolor, Harold»."
+
+msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
+msgstr "Des d'on participaran els enginyers de SUSE a Brno, Txèquia, a la SUSE Hackweek 25?"
+
+msgid "The OpenSSL office"
+msgstr "L'oficina d'OpenSSL"
+
+msgid "Starbucks"
+msgstr "L'Starbucks"
+
+msgid "Red Hat office"
+msgstr "L'oficina de Red Hat"
+
+msgid "Vaňkovka shopping gallery"
+msgstr "La galeria comercial Vaňkovka"
+
+msgid "Why does SUSE invest in OpenSSL?"
+msgstr "Per què SUSE inverteix en OpenSSL?"
+
+msgid "To contribute back to the community SUSE and many others relies on"
+msgstr "Per tornar la contribució a la comunitat en què SUSE i molts altres confien"
+
+msgid "To make chameleons browse the web safely"
+msgstr "Perquè els camaleons naveguin per la web de manera segura"
+
+msgid "To win a race against penguins"
+msgstr "Per guanyar una cursa contra els pingüins"
+
+msgid "To shorten Linux kernel boot times"
+msgstr "Per escurçar el temps d'arrencada del nucli de Linux"
+
+msgid "SUSE engineers contribute to OpenSSL by"
+msgstr "Els enginyers de SUSE contribueixen a OpenSSL mitjançant..."
+
+msgid "Active development and code reviews"
+msgstr "El desenvolupament actiu i revisions de codi"
+
+msgid "Contributing fixes and new features"
+msgstr "Correccions i funcions noves"
+
+msgid "Running enterprise-grade testing with tools like openQA"
+msgstr "Execució de proves de nivell empresarial amb eines com ara openQA"
+
+msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
+msgstr "Quin paper juga OpenSSL a SUSE Linux Enterprise?"
+
+msgid "It secures communication and cryptographic operations"
+msgstr "Assegura la comunicació i les operacions criptogràfiques"
+
+msgid "It only adds fancy wallpapers"
+msgstr "Només afegeix fons de pantalla elegants"
+
+msgid "It makes Open Build Service run faster"
+msgstr "Fa que el servei Open Build funcioni més ràpid"
+
+msgid "It manages Rancher clusters"
+msgstr "Gestiona clústers de Rancher"
+
+msgid "Why is FIPS certification in OpenSSL important for SUSE?"
+msgstr "Per què és important la certificació FIPS a OpenSSL per a SUSE?"
+
+msgid "It allows SUSE customers in regulated industries to meet strict security standards"
+msgstr "Permet als clients de SUSE d'indústries regulades complir estàndards de seguretat estrictes."
+
+msgid "It makes the chameleon change colors faster"
+msgstr "Fa que el camaleó canviï de color més ràpid."
+
+msgid "It guarantees free coffee for certified systems"
+msgstr "Garanteix cafè gratuït per a sistemes certificats."
+
+msgid "It is only useful for retro Linux distributions"
+msgstr "Només és útil per a distribucions retro de Linux."
+
 msgid "The Ultimate YaST Challenge"
 msgstr "El repte definitiu del YaST"
 
@@ -1708,9 +2751,6 @@ msgstr "Uns 150"
 
 msgid "When was the first YaST2 released?"
 msgstr "Quan es va publicar el primer YaST2?"
-
-msgid "1999"
-msgstr "El 1999"
 
 msgid "2002"
 msgstr "El 2002"
@@ -1973,9 +3013,6 @@ msgstr "El Leap 16.0 ha millorat la gestió de repositoris amb CDN per defecte, 
 msgid "14"
 msgstr "14"
 
-msgid "10"
-msgstr "10"
-
 msgid "8"
 msgstr "8"
 
@@ -2014,12 +3051,6 @@ msgstr "Tot l'anterior"
 
 msgid "At what manpage section would you look for zypper docs?"
 msgstr "En quina secció de la pàgina de manual buscaríeu la documentació del Zypper?"
-
-msgid "1"
-msgstr "1"
-
-msgid "42"
-msgstr "42"
 
 msgid "What is yzpper?"
 msgstr "Què és yzpper?"
@@ -2109,839 +3140,11 @@ msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
-msgid "Asia Summit Dragon"
-msgstr "Cimera del Drac d'Àsia"
-
-msgid "Challenge the dragon of knowledge"
-msgstr "Desafieu el drac del coneixement"
-
-msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr "A quina ciutat es va celebrar la primera Cimera d'Àsia d'openSUSE?"
-
-msgid "Taipei, Taiwan"
-msgstr "Taipei, Taiwan"
-
-msgid "Beijing, China"
-msgstr "Pequín, Xina"
-
-msgid "Jakarta, Indonesia"
-msgstr "Jakarta, Indonèsia"
-
-msgid "Tokyo, Japan"
-msgstr "Tòquio, Japó"
-
-msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr "Quan es va celebrar la Cimera d'Àsia de l'openSUSE a Tòquio, Japó?"
-
-msgid "2022"
-msgstr "2022"
-
-msgid "2017 and 2024"
-msgstr "2017 i 2024"
-
-msgid "2018"
-msgstr "2018"
-
-msgid "Only 2024"
-msgstr "Només el 2024"
-
-msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr "Quina de les ciutats següents MAI no ha acollit la Cimera d'Àsia d'openSUSE?"
-
-msgid "Denpasar"
-msgstr "Denpasar"
-
-msgid "Mumbai"
-msgstr "Bombai"
-
-msgid "Taipei"
-msgstr "Taipei"
-
-msgid "Faridabad"
-msgstr "Faridabad"
-
-msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr "A quina ciutat va tenir lloc l'edició de 2018 de la Cimera d'Àsia de l'openSUSE?"
-
-msgid "Hong Kong"
-msgstr "Hong Kong"
-
-msgid "Jakarta"
-msgstr "Jakarta"
-
-msgid "Tokyo"
-msgstr "Tòquio"
-
-msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr "Quin dels països següents no ha acollit mai una Cimera d'Àsia de l'openSUSE?"
-
-msgid "Vietnam"
-msgstr "Vietnam"
-
-msgid "India"
-msgstr "Índia"
-
-msgid "Indonesia"
-msgstr "Indonèsia"
-
-msgid "Taiwan"
-msgstr "Taiwan"
-
-msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr "El 2016, la cimera es va celebrar a la Universitas Islam Indonesia. A quina ciutat es troba aquesta universitat?"
-
-msgid "Yogyakarta"
-msgstr "Yogyakarta"
-
-msgid "Bandung"
-msgstr "Bandung"
-
-msgid "Surabaya"
-msgstr "Surabaya"
-
-msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr "On es va celebrar la Cimera Àsia d'openSUSE el 2019?"
-
-msgid "Seoul"
-msgstr "Seül"
-
-msgid "Denpasar (Bali)"
-msgstr "Denpasar (Bali)"
-
-msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr "La Cimera d'Àsia d'openSUSE de 2020 i 2021 es va celebrar en línia. Quin en va ser el motiu principal?"
-
-msgid "Budget cuts"
-msgstr "Retallades pressupostàries"
-
-msgid "Lack of organizers"
-msgstr "Falta d'organitzadors"
-
-msgid "COVID-19 pandemic"
-msgstr "La pandèmia de la covid-19"
-
-msgid "Scheduling conflicts"
-msgstr "Conflictes de programació"
-
-msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr "Qui dissenya normalment el logotip oficial de la Cimera d'Àsia d'openSUSE?"
-
-msgid "Geenardo Da Vinci"
-msgstr "Geenardo Da Vinci"
-
-msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr "Un dissenyador gràfic professional contractat per la Fundació openSUSE"
-
-msgid "The community through an annual design contest"
-msgstr "La comunitat, a través d'un concurs anual de disseny"
-
-msgid "The developers from the openSUSE infrastructure team"
-msgstr "Els desenvolupadors de l'equip d'infraestructura d'openSUSE"
-
-msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr "Quina Cimera d'openSUSE asiàtica tenia un logotip vermell?"
-
-msgid "2016 in Beijing"
-msgstr "2016 a Pequín"
-
-msgid "2017 in Tokyo"
-msgstr "2017 a Tòquio"
-
-msgid "2018 in Taipei"
-msgstr "2018 a Taipei"
-
-msgid "2019 in Bali"
-msgstr "2019 a Bali"
-
-msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr "Quina Cimera d'Àsia d'openSUSE va usar l'aplicació openSUSE Quiz per primera vegada?"
-
-msgid "2025 in Faridabad"
-msgstr "2025 a Faridabad"
-
-msgid "2014 in Beijing"
-msgstr "2014 a Pequín"
-
-msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr "On es va fer el viatge en ascensor més llarg a la Cimera d'Àsia d'openSUSE?"
-
-msgid "Beijing"
-msgstr "Pequín"
-
-msgid "SUSE Story"
-msgstr "Història de SUSE"
-
-msgid "Discover SUSE, one click at a time."
-msgstr "Descobriu SUSE, clic a clic."
-
-msgid "What is SUSE’s business?"
-msgstr "Quin és el negoci de SUSE?"
-
-msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr "Proporcionar solucions d'empresa amb Linux per a sistemes de missió crítica"
-
-msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr "Oferir una gestió moderna de contenidors i màquines virtuals amb Rancher i Harvester"
-
-msgid "Securing cloud-native workloads with NeuVector"
-msgstr "Assegurar càrregues de treball natives de núvol amb NeuVector"
-
-msgid "All of the above"
-msgstr "Totes les anteriors"
-
-msgid "What does the acronym SUSE stand for?"
-msgstr "Què significa l'acrònim SUSE?"
-
-msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr "Software- und System-Entwicklung (Desenvolupament de programari i sistemes)"
-
-msgid "Super User Space Explorer"
-msgstr "Explorador d'espais de superusuari"
-
-msgid "Silly Unix Shell Enthusiasts"
-msgstr "Entusiastes ximples de l'intèrpret d'Unix"
-
-msgid "System Upgrade & Security Engine"
-msgstr "Actualització del sistema i motor de seguretat"
-
-msgid "How many employees does SUSE have worldwide?"
-msgstr "Quants empleats té SUSE a tot el món?"
-
-msgid "Around 500"
-msgstr "Uns 500"
-
-msgid "Around 1,200"
-msgstr "Uns 1200"
-
-msgid "Around 2,500"
-msgstr "Uns 2500"
-
-msgid "Around 10,000"
-msgstr "Uns 10000"
-
-msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr "La SUSECON 2026 arriba a l'abril! Quina ciutat acollirà la conferència de SUSE més gran?"
-
-msgid "Prague"
-msgstr "Praga"
-
-msgid "Cupertino"
-msgstr "Cupertino"
-
-msgid "Redmont"
-msgstr "Redmont"
-
-msgid "Raleigh"
-msgstr "Raleigh"
-
-msgid "Which of the following is true about the SUSE Logo?"
-msgstr "Quina de les afirmacions següents és certa sobre el logotip de SUSE?"
-
-msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr "Hubert Mantel, un dels fundadors, va demanar a un amic que en dissenyés el logotip, i a tothom menys a ell li va agradar."
-
-msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr "Hem millorat molt dibuixant camaleons. El logotip actual és la sisena generació des del primer, el 1996."
-
-msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr "El logotip de SUSE representa flexibilitat i l'adaptabilitat, igual que el camaleó."
-
-msgid "When was the first version of SUSE Linux released?"
-msgstr "Quan es va publicar la primera versió de SUSE Linux?"
-
-msgid "1989"
-msgstr "El 1989"
-
-msgid "1991"
-msgstr "El 1991"
-
-msgid "1994"
-msgstr "El 1994"
-
-msgid "2014"
-msgstr "El 2014"
-
-msgid "What is Rancher primarily used for?"
-msgstr "Per a què s'usa principalment el Rancher?"
-
-msgid "Managing and scaling Kubernetes clusters"
-msgstr "Gestió i escalabilitat de clústers de Kubernetes"
-
-msgid "Herding virtual cows in the cloud"
-msgstr "Pasturatge de vaques virtuals al núvol"
-
-msgid "Automating SUSE Linux installations only"
-msgstr "Automatització només d'instal·lacions de SUSE Linux"
-
-msgid "Playing old-school ranch simulation games"
-msgstr "Jugar a jocs de simulació de ranxos de la vella escola"
-
-msgid "What does NeuVector focus on?"
-msgstr "En què se centra NeuVector?"
-
-msgid "Cloud-native container security"
-msgstr "Seguretat de contenidors nativa al núvol"
-
-msgid "Making networking faster on Linux desktops"
-msgstr "Fer que la xarxa sigui més ràpida als escriptoris Linux"
-
-msgid "Automating package builds"
-msgstr "Automatització de la compilació de paquets"
-
-msgid "Coloring the chameleon logo green"
-msgstr "Pintar el logotip del camaleó de verd"
-
-msgid "What is SUSE Harvester?"
-msgstr "Què és SUSE Harvester?"
-
-msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr "Una plataforma de virtualització que permet crear, migrar, fer còpies de seguretat i restaurar fàcilment màquines virtuals en servidors de metall nu"
-
-msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr "Un sistema basat en Kubernetes que usa KubeVirt per a la virtualització, Longhorn per a l'emmagatzematge i admet l'execució de contenidors juntament amb màquines virtuals"
-
-msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr "Una solució que s'integra amb Rancher, combinant la gestió de contenidors i màquines virtuals amb la creació de xarxes i l'observabilitat"
-
-msgid "What is openSUSE?"
-msgstr "Què és openSUSE?"
-
-msgid "A community project sponsored by SUSE"
-msgstr "Un projecte comunitari patrocinat per SUSE"
-
-msgid "More than just one community Linux distribution"
-msgstr "Més que una distribució comunitària de Linux"
-
-msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr "Un lloc increïble per desenvolupar projectes amb eines com ara openQA, Open Build Service i una comunitat acollidora"
-
-msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr "Per què són conegudes les imatges de contenidors de base (BCI) de SUSE?"
-
-msgid "Being bloated with unnecessary packages"
-msgstr "Estar botides amb paquets innecessaris"
-
-msgid "Only working on SUSE Linux Enterprise Server"
-msgstr "Només funciona amb SUSE Linux Enterprise Server"
-
-msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr "Per oferir imatges realment obertes, flexibles i segures basades en SUSE Linux Enterprise"
-
-msgid "Standing for 'Big Chameleon Initiative'"
-msgstr "Significa la 'Iniciativa del Gran Camaleó'"
-
-msgid "SUSE x openSSL"
-msgstr "SUSE x openSSL"
-
-msgid "When SUSE meets openSSL, surprises await."
-msgstr "Quan SUSE es troba amb openSSL hi ha sorpreses."
-
-msgid "How many SUSE products use OpenSSL?"
-msgstr "Quants productes SUSE usen OpenSSL?"
-
-msgid "5"
-msgstr "5"
-
-msgid "All of them"
-msgstr "Tots"
-
-msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr "Quants enginyers de SUSE treballen activament a OpenSSL?"
-
-msgid "0"
-msgstr "0"
-
-msgid "3"
-msgstr "3"
-
-msgid "42.3"
-msgstr "42.3"
-
-msgid "19"
-msgstr "19"
-
-msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr "Quin dels efectes secundaris següents pot tenir l'habilitació del mode FIPS en un sistema SUSE?"
-
-msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr "Permet tots els algoritmes criptogràfics, inclosos els insegurs."
-
-msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr "Restringeix l'ús de criptografia només a algoritmes i binaris validats per FIPS."
-
-msgid "It has no impact on system performance or compatibility."
-msgstr "No té cap impacte en el rendiment ni en la compatibilitat del sistema."
-
-msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr "Comences a somriure com el paio del meme d'«Amaga el dolor, Harold»."
-
-msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr "Des d'on participaran els enginyers de SUSE a Brno, Txèquia, a la SUSE Hackweek 25?"
-
-msgid "The OpenSSL office"
-msgstr "L'oficina d'OpenSSL"
-
-msgid "Starbucks"
-msgstr "L'Starbucks"
-
-msgid "Red Hat office"
-msgstr "L'oficina de Red Hat"
-
-msgid "Vaňkovka shopping gallery"
-msgstr "La galeria comercial Vaňkovka"
-
-msgid "Why does SUSE invest in OpenSSL?"
-msgstr "Per què SUSE inverteix en OpenSSL?"
-
-msgid "To contribute back to the community SUSE and many others relies on"
-msgstr "Per tornar la contribució a la comunitat en què SUSE i molts altres confien"
-
-msgid "To make chameleons browse the web safely"
-msgstr "Perquè els camaleons naveguin per la web de manera segura"
-
-msgid "To win a race against penguins"
-msgstr "Per guanyar una cursa contra els pingüins"
-
-msgid "To shorten Linux kernel boot times"
-msgstr "Per escurçar el temps d'arrencada del nucli de Linux"
-
-msgid "SUSE engineers contribute to OpenSSL by"
-msgstr "Els enginyers de SUSE contribueixen a OpenSSL mitjançant..."
-
-msgid "Active development and code reviews"
-msgstr "El desenvolupament actiu i revisions de codi"
-
-msgid "Contributing fixes and new features"
-msgstr "Correccions i funcions noves"
-
-msgid "Running enterprise-grade testing with tools like openQA"
-msgstr "Execució de proves de nivell empresarial amb eines com ara openQA"
-
-msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr "Quin paper juga OpenSSL a SUSE Linux Enterprise?"
-
-msgid "It secures communication and cryptographic operations"
-msgstr "Assegura la comunicació i les operacions criptogràfiques"
-
-msgid "It only adds fancy wallpapers"
-msgstr "Només afegeix fons de pantalla elegants"
-
-msgid "It makes Open Build Service run faster"
-msgstr "Fa que el servei Open Build funcioni més ràpid"
-
-msgid "It manages Rancher clusters"
-msgstr "Gestiona clústers de Rancher"
-
-msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr "Per què és important la certificació FIPS a OpenSSL per a SUSE?"
-
-msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr "Permet als clients de SUSE d'indústries regulades complir estàndards de seguretat estrictes."
-
-msgid "It makes the chameleon change colors faster"
-msgstr "Fa que el camaleó canviï de color més ràpid."
-
-msgid "It guarantees free coffee for certified systems"
-msgstr "Garanteix cafè gratuït per a sistemes certificats."
-
-msgid "It is only useful for retro Linux distributions"
-msgstr "Només és útil per a distribucions retro de Linux."
-
-msgid "openSUSE Introduction"
-msgstr "Introducció a openSUSE"
-
-msgid "Discover openSUSE, one click at a time."
-msgstr "Descobriu l'openSUSE, clic a clic."
-
-msgid "A project supported by SUSE, made for everyone"
-msgstr "Un projecte amb el suport de SUSE, fet per a tothom"
-
-msgid "More than just one Linux distribution"
-msgstr "Més que una distribució de Linux"
-
-msgid "A friendly place to build software and learn new tools"
-msgstr "Un lloc agradable per crear programari i aprendre eines noves"
-
-msgid "All of these things together"
-msgstr "Totes aquestes coses juntes"
-
-msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr "L'openSUSE acaba de celebrar el seu 20è aniversari! En quin any va passar això?"
-
-msgid "2025 – this year! 🎉"
-msgstr "2025 – aquest any! 🎉"
-
-msgid "1998 – that’s when Google started, not openSUSE"
-msgstr "1998 – llavors va començar Google, no OpenSUSE"
-
-msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr "1994 – aquest és el primer SUSE Linux, no openSUSE"
-
-msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr "2005 – l'any en què va néixer openSUSE, però no fa 20 anys"
-
-msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr "L'openSUSE té dues maneres principals d'obtenir actualitzacions. Una és un gran llançament un cop l'any, l'altra proporciona actualitzacions contínues. Com es diuen?"
-
-msgid "Stable and Rolling"
-msgstr "Estable i Rolling"
-
-msgid "Stable and Wobbly"
-msgstr "Estable i Wobbly"
-
-msgid "Rolling and Sitting"
-msgstr "Rolling i Sitting"
-
-msgid "Rolling and Leaping"
-msgstr "Rolling i Leaping"
-
-msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr "Quines versions d'openSUSE són Rolling (sempre actualitzades)?"
-
-msgid "Aeon, Kalpa, and MicroOS"
-msgstr "Aeon, Kalpa, i MicroSO"
-
-msgid "Slowroll and Slowroll Micro"
-msgstr "Slowroll i Slowroll Micro"
-
-msgid "All of these are Rolling"
-msgstr "Totes són contínues."
-
-msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr "Leap i Leap Micro són les nostres distribucions estables. Què vol dir això?"
-
-msgid "Each minor release receive updates for about 24 months"
-msgstr "Cada versió menor rep actualitzacions durant uns 24 mesos."
-
-msgid "They have one big release every 12 months"
-msgstr "Tenen un gran llançament cada 12 mesos."
-
-msgid "They come with release parties everyone can join 🎉"
-msgstr "Tenen festes de llançament a les quals tothom pot unir-s'hi 🎉"
-
-msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr "Tot l'anterior (i podeu quedar-vos al Leap 16 fins al 2033!)"
-
-msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr "L'openSUSE també té edicions immutables. Què vol dir això?"
-
-msgid "They use a read-only system base and update safely with special tools"
-msgstr "Usen una base de sistema de només lectura i s'actualitzen de manera segura amb eines especials."
-
-msgid "They cannot be installed on laptops"
-msgstr "No es poden instal·lar en ordinadors portàtils."
-
-msgid "They are distributions that never change wallpapers"
-msgstr "Són distribucions que no canvien mai els fons de pantalla."
-
-msgid "They come only as DVDs by mail"
-msgstr "Només arriben en DVD per correu."
-
-msgid "What is Slowroll?"
-msgstr "Què és l'Slowroll?"
-
-msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr "Una variant de Tumbleweed amb actualitzacions agrupades en lots provats"
-
-msgid "A racing game mode in Linux"
-msgstr "Un mode de joc de curses a Linux"
-
-msgid "A distribution that only updates once per decade"
-msgstr "Una distribució que només s'actualitza un cop per dècada"
-
-msgid "The mascot’s new nickname"
-msgstr "El nou sobrenom de la mascota"
-
-msgid "What are some of the key openSUSE community tools and projects?"
-msgstr "Quines són algunes de les eines i projectes clau de la comunitat d'openSUSE?"
-
-msgid "Open Build Service (OBS) for building software"
-msgstr "Servei de compilació obert (OBS) per a la creació de programari"
-
-msgid "openQA for automated testing"
-msgstr "openQA per a proves automatitzades"
-
-msgid "The Wiki, Weblate, forums, and more"
-msgstr "El Wiki, el Weblate, els fòrums i més"
-
-msgid "All of these are part of openSUSE"
-msgstr "Tot això forma part d'openSUSE."
-
-msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr "L'equip que s'encarrega de la infraestructura d'openSUSE es diu openSUSE...?"
-
-msgid "Heroes"
-msgstr "Herois"
-
-msgid "Avengers"
-msgstr "Venjadors"
-
-msgid "Thunderbolts"
-msgstr "Trons"
-
-msgid "Villains"
-msgstr "Vilans"
-
-msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr "El Windows 10 ja no és compatible. Què podries fer amb aquest portàtil?"
-
-msgid "Install openSUSE on your laptop"
-msgstr "Instal·lar-hi l'openSUSE"
-
-msgid "Install openSUSE on your friend’s laptop"
-msgstr "Instal·lar l'openSUSE al portàtil del teu amic"
-
-msgid "Install openSUSE on your grandmother’s laptop"
-msgstr "Instal·lar l'openSUSE al portàtil de la teva àvia"
-
-msgid "All of these are great ideas"
-msgstr "Totes són idees bones."
-
-msgid "A chameleon named Geeko"
-msgstr "Un camaleó anomenat Geeko"
-
-msgid "A penguin named Tux"
-msgstr "Un pingüí anomenat Tux"
-
-msgid "A tumbleweed rolling in the desert"
-msgstr "Una herba rodadora rodant pel desert"
-
-msgid "A lizard in sunglasses"
-msgstr "Un llangardaix amb ulleres de sol"
-
-msgid "Why do people love openSUSE?"
-msgstr "Per què a la gent li agrada l'openSUSE?"
-
-msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr "Llançaments estables del Leap i actualitzacions ràpides del Tumbleweed"
-
-msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr "Eines modernes com ara Agama, Myrlyn, zypper, OBS i openQA"
-
-msgid "A friendly worldwide community that welcomes everyone"
-msgstr "Una comunitat mundial amable que acull tothom"
-
-msgid "All of these together"
-msgstr "Tot plegat"
-
-msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr "On podeu ajudar a traduir l'openSUSE (i fins i tot aquest qüestionari)?"
-
-msgid "Weblate at l10n.opensuse.org"
-msgstr "Al Weblate, a l10n.opensuse.org"
-
-msgid "By whispering translations into the chameleon’s ear"
-msgstr "Xiuxiuejant traduccions a l'orella del camaleó"
-
-msgid "At Google Translate headquarters in a secret bunker"
-msgstr "A la seu de Google Translate, en un búnquer secret"
-
-msgid "By posting translations on random Reddit threads"
-msgstr "Publicant traduccions en fils aleatoris de Reddit"
-
-msgid "Where can you get help with openSUSE?"
-msgstr "On podeu obtenir ajuda amb l'openSUSE?"
-
-msgid "Ask your friend who uses Linux"
-msgstr "Preguntar a un amic que usi Linux"
-
-msgid "On many local Linux portals and websites"
-msgstr "En molts portals i llocs web locals de Linux"
-
-msgid "Show All"
-msgstr "Mostra-ho tot"
-
-msgid "Level Up"
-msgstr "Puja de nivell"
-
-msgid "openSUSE Arm"
-msgstr "openSUSE Arm"
-
-msgid "Hardware Enablement journey on Arm."
-msgstr "Viatge d'habilitació de maquinari a Arm."
-
-msgid "What is Arm, in the context of computing?"
-msgstr "Què és Arm, en el context informàtic?"
-
-msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr "Una família d'arquitectures de CPU d'alta eficiència energètica àmpliament usades en dispositius mòbils, sistemes integrats i servidors"
-
-msgid "A robotic limb that compiles your code"
-msgstr "Una extremitat robòtica que compila codi"
-
-msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr "Un departament especial de SUSE per a lluitar contra errors del nucli amb els braços"
-
-msgid "A new kind of filesystem invented by Geeko"
-msgstr "Un tipus de sistema de fitxers nou inventat per Geeko"
-
-msgid "What is the Raspberry Pi 5?"
-msgstr "Què és la Raspberry Pi 5?"
-
-msgid "A credit-card-sized computer using Arm architecture"
-msgstr "Un ordinador de la mida d'una targeta de crèdit amb arquitectura Arm"
-
-msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr "Un escriptori petit i assequible i energèticament eficient: perfecte perquè la canalla navegui per la web, miri YouTube, aprengui a programar o jugui a jocs lleugers"
-
-msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr "Un servidor petit però capaç per executar un NAS domèstic, Home Assistant, Nextcloud o fins i tot una rèplica d'openSUSE local"
-
-msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr "Quina és l'ortografia correcta de l'arquitectura de CPU compatible amb openSUSE a Raspberry Pi 5?"
-
-msgid "arm"
-msgstr "arm"
-
-msgid "Arm"
-msgstr "Arm"
-
-msgid "ARM!"
-msgstr "ARM!"
-
-msgid "Armmm… not sure"
-msgstr "Ui… No n'estic segur."
-
-msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr "Qui hi ha darrere del suport u-boot de Raspberry PI5 al nucli de Linux?"
-
-msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr "Ivan Ivanov i Matthias Brugger de l'equip de SUSE HW Enablement."
-
-msgid "Linus Torvalds"
-msgstr "Linus Torvalds"
-
-msgid "Eric S. Raymond "
-msgstr "Eric S. Raymond "
-
-msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr "Quines edicions d'openSUSE ofereixen imatges especialitzades per a Raspberry Pi?"
-
-msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr "Leap, Leap Micro, Tumbleweed i MicroSO"
-
-msgid "Only Tumbleweed, because it never stops rolling"
-msgstr "Només el Tumbleweed, perquè mai para de rodar"
-
-msgid "Just Leap 42.3 because it’s eternal"
-msgstr "Només el Leap 42.3 perquè és etern"
-
-msgid "Only MicroOS, everything else melted"
-msgstr "Només el MicroSO, tota la resta s'ha fos"
-
-msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr "Quin és el format d'imatge preferit per a openSUSE a Raspberry Pi?"
-
-msgid "Raw disk image (.raw.xz)"
-msgstr "Imatge de disc en cru (.raw.xz)"
-
-msgid ".exe installer"
-msgstr "instal·lador .exe"
-
-msgid ".iso DVD image with manual soldering required"
-msgstr "Imatge de DVD .iso amb soldadura manual necessària"
-
-msgid ".tar.gz full of dreams"
-msgstr ".tar.gz ple de somnis"
-
-msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr "L'openSUSE també es pot executar en telèfons mòbils! Quines imatges d'instal·lació hi ha disponibles per al PinePhone?"
-
-msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr "Tumbleweed amb Phosh (per a fans del Purisme) i Tumbleweed amb Plasma Mobile (per a amants del KDE)"
-
-msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr "Leap Micro amb GNOME Shell per a refrigeradors"
-
-msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr "Edició Tumbleweed LXQt per a telèfons rotatius"
-
-msgid "MicroOS Text Edition with Morse input mode"
-msgstr "Edició de text de MicroSO amb mode d'entrada Morse"
-
-msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr "On puc trobar imatges d'openSUSE per a dispositius Arm com ara Raspberry Pi, PinePhone o Pinebook?"
-
-msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr "get.opensuse.org: el punt de partida fàcil per a les imatges d'openSUSE més usades"
-
-msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr "en.opensuse.org/Portal:Arm: el portal d'Arm amb enllaços i documentació"
-
-msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr "download.opensuse.org/ports/aarch64/tumbleweed: per als valents a qui els agrada la navegació manual"
-
-msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr "L'openSUSE Tumbleweed Arm està construït juntament amb paquets x86_64?"
-
-msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr "No, està construït per separat com a part dels les versions derivades d'openSUSE."
-
-msgid "Yes, it all comes from one magical build server"
-msgstr "Sí, tot prové d'un servidor de compilació màgic."
-
-msgid "Only if the moon is in retrograde"
-msgstr "Només si la lluna té fase minvant"
-
-msgid "Yes, but it’s compiled by penguins"
-msgstr "Sí, però està compilat per pingüins."
-
-msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr "Quina ordre s'usa habitualment per escriure la imatge d'openSUSE en una targeta SD?"
-
-msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-
-msgid "sudo print-image-now"
-msgstr "sudo print-image-now"
-
-msgid "cat image > coffee"
-msgstr "cat image > coffee"
-
-msgid "rpm -i image.raw.xz"
-msgstr "rpm -i image.raw.xz"
-
-msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr "Des de quin tipus d'emmagatzematge poden arrencar les imatges d'openSUSE Raspberry Pi?"
-
-msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr "Targeta SD, USB o NVMe (amb Pi 5)"
-
-msgid "Only floppy disks with patience"
-msgstr "Només disquets, amb paciència"
-
-msgid "Cloud sync via pigeon post"
-msgstr "Sincronització amb el núvol mitjançant un pal de coloms"
-
-msgid "Tape backup, if you believe hard enough"
-msgstr "Còpia de seguretat en cinta, si hi creus prou"
-
-msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr "Quina és la millor manera de mantenir-se al dia sobre el desenvolupament de l'openSUSE Arm?"
-
-msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr "Seguir la llista de correu d'openSUSE Arm i el canal Matrix (detalls a continuació)"
-
-msgid "Ask ChatGPT for daily firmware leaks"
-msgstr "Demanar a ChatGPT filtracions diàries sobre programari"
-
-msgid "Consult the stars under a full moon"
-msgstr "Consultar les estrelles sota la lluna plena"
-
-msgid "Refresh get.opensuse.org until it blinks"
-msgstr "Refrescar get.opensuse.org fins que parpellegi"
-
-msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr "Si guanyeu aquesta Raspberry Pi 5, què hi podríeu executar primer?"
-
-msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr "Començar amb openSUSE Tumbleweed per a Arm i explorar una experiència d'escriptori Linux completa"
-
-msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr "Configurar un servidor domèstic personal amb Nextcloud, Home Assistant o una rèplica pròpia d'openSUSE"
-
-msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr "Provar experiments divertits com ara jocs retro, centres multimèdia o projectes de codificació per a la canalla"
+#~ msgid "Show All"
+#~ msgstr "Mostra-ho tot"
+
+#~ msgid "Level Up"
+#~ msgstr "Puja de nivell"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"

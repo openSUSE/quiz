@@ -1,7 +1,213 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Markéta Tišnovská <mtisnovs@seznam.cz>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-06-26 16:12+0200\nPO-Revision-Date: 2025-10-31 21:14+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.13.3\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-16 13:03+0000\n"
+"PO-Revision-Date: 2025-10-31 21:14+0000\n"
+"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
+"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
+"Language: cs\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "openSUSE Arm"
+msgstr "openSUSE Arm"
+
+msgid "Hardware Enablement journey on Arm."
+msgstr "Cesta podpory hardwaru na platformě Arm."
+
+msgid "What is Arm, in the context of computing?"
+msgstr "Co je Arm v kontextu výpočetní techniky?"
+
+msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
+msgstr "Rodina energeticky úsporných architektur procesorů široce používaných v mobilních zařízeních, vestavěných systémech a serverech"
+
+msgid "A robotic limb that compiles your code"
+msgstr "Robotická končetina, která kompiluje tvůj kód"
+
+msgid "A special SUSE department for arm wrestling kernel bugs"
+msgstr "Zvláštní oddělení SUSE pro přetlačování s chybami jádra"
+
+msgid "A new kind of filesystem invented by Geeko"
+msgstr "Nový typ souborového systému vynalezený Geekem"
+
+msgid "What is the Raspberry Pi 5?"
+msgstr "Co je Raspberry Pi 5?"
+
+msgid "A credit-card-sized computer using Arm architecture"
+msgstr "Počítač velikosti kreditní karty využívající architekturu Arm"
+
+msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
+msgstr "Dostupný a energeticky úsporný malý počítač, ideální pro děti na prohlížení webu, sledování YouTube, učení programování nebo hraní jednoduchých her"
+
+msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
+msgstr "Malý, ale výkonný server pro provoz domácího NASu, Home Assistantu, Nextcloudu nebo lokálního openSUSE mirroru"
+
+msgid "All of the above"
+msgstr "Vše výše uvedené"
+
+msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
+msgstr "Jaký je správný zápis architektury procesoru podporované openSUSE na Raspberry Pi 5?"
+
+msgid "arm"
+msgstr "arm"
+
+msgid "Arm"
+msgstr "Arm"
+
+msgid "ARM!"
+msgstr "ARM!"
+
+msgid "Armmm… not sure"
+msgstr "Armmm… nejsem si jistý"
+
+msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
+msgstr "Kdo stojí za podporou u-bootu pro Raspberry Pi 5 v upstream jádru Linuxu?"
+
+msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
+msgstr "Ivan Ivanov a Matthias Brugger z týmu SUSE HW Enablement."
+
+msgid "Linus Torvalds"
+msgstr ""
+
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+msgid "Eric S. Raymond "
+msgstr "Eric S. Raymond"
+
+msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
+msgstr "Které edice openSUSE nabízejí speciální obrazy pro Raspberry Pi?"
+
+msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
+msgstr "Leap, Leap Micro, Tumbleweed a MicroOS"
+
+msgid "Only Tumbleweed, because it never stops rolling"
+msgstr "Pouze Tumbleweed, protože se nikdy nepřestává kutálet"
+
+msgid "Just Leap 42.3 because it’s eternal"
+msgstr "Pouze Leap 42.3, protože je věčný"
+
+msgid "Only MicroOS, everything else melted"
+msgstr "Pouze MicroOS, všechno ostatní roztálo"
+
+msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
+msgstr "Jaký je preferovaný formát obrazu pro openSUSE na Raspberry Pi?"
+
+msgid "Raw disk image (.raw.xz)"
+msgstr "Surový obraz disku (.raw.xz)"
+
+msgid ".exe installer"
+msgstr ".exe instalátor"
+
+msgid ".iso DVD image with manual soldering required"
+msgstr ".iso obraz DVD vyžadující ruční pájení"
+
+msgid ".tar.gz full of dreams"
+msgstr ".tar.gz plný snů"
+
+msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
+msgstr "openSUSE může běžet i na mobilních telefonech! Jaké instalační obrazy jsou dostupné pro PinePhone?"
+
+msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
+msgstr "Tumbleweed s Phosh (pro fanoušky Purismu) a Tumbleweed s Plasma Mobile (pro milovníky KDE)"
+
+msgid "Leap Micro with GNOME Shell for refrigerators"
+msgstr "Leap Micro s GNOME Shellem pro ledničky"
+
+msgid "Tumbleweed LXQt Edition for rotary phones"
+msgstr "Tumbleweed LXQt Edition pro otočné telefony"
+
+msgid "MicroOS Text Edition with Morse input mode"
+msgstr "MicroOS Text Edition s Morseovským vstupním režimem"
+
+msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
+msgstr "Kde můžeš najít obrazy openSUSE pro zařízení s Arm, jako jsou Raspberry Pi, PinePhone nebo Pinebook?"
+
+msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
+msgstr "get.opensuse.org – přívětivý výchozí bod pro nejpoužívanější obrazy openSUSE"
+
+msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
+msgstr "en.opensuse.org/Portal:Arm – portál Arm s odkazy a dokumentací"
+
+msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – pro odvážné, kteří rádi procházejí ručně"
+
+msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
+msgstr "Je openSUSE Tumbleweed Arm sestavován společně s balíčky x86_64?"
+
+msgid "No, it’s built separately as part of openSUSE Ports"
+msgstr "Ne, je sestavován samostatně jako součást openSUSE Ports"
+
+msgid "Yes, it all comes from one magical build server"
+msgstr "Ano, všechno pochází z jednoho magického build serveru"
+
+msgid "Only if the moon is in retrograde"
+msgstr "Pouze když je Měsíc v retrográdní poloze"
+
+msgid "Yes, but it’s compiled by penguins"
+msgstr "Ano, ale kompilují to tučňáci"
+
+msgid "Which command is commonly used to write the openSUSE image to an SD card?"
+msgstr "Který příkaz se běžně používá k zápisu obrazu openSUSE na SD kartu?"
+
+msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+
+msgid "sudo print-image-now"
+msgstr "sudo print-image-now"
+
+msgid "cat image > coffee"
+msgstr "cat image > coffee"
+
+msgid "rpm -i image.raw.xz"
+msgstr "rpm -i image.raw.xz"
+
+msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
+msgstr "Z jakého typu úložiště mohou obrazy openSUSE pro Raspberry Pi bootovat?"
+
+msgid "SD card, USB, or NVMe (on Pi 5)"
+msgstr "SD karta, USB nebo NVMe (na Pi 5)"
+
+msgid "Only floppy disks with patience"
+msgstr "Pouze z disket, pokud máš trpělivost"
+
+msgid "Cloud sync via pigeon post"
+msgstr "Cloudová synchronizace pomocí poštovních holubů"
+
+msgid "Tape backup, if you believe hard enough"
+msgstr "Záloha na pásku, pokud dostatečně věříš"
+
+msgid "What’s the best way to stay updated on openSUSE Arm development?"
+msgstr "Jaký je nejlepší způsob, jak zůstat v obraze o vývoji openSUSE Arm?"
+
+msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
+msgstr "Sleduj mailing list openSUSE Arm a kanál Matrix (podrobnosti níže)"
+
+msgid "Ask ChatGPT for daily firmware leaks"
+msgstr "Požádej ChatGPT o denní úniky firmwaru"
+
+msgid "Consult the stars under a full moon"
+msgstr "Porad se s hvězdami za úplňku"
+
+msgid "Refresh get.opensuse.org until it blinks"
+msgstr "Obnovuj get.opensuse.org, dokud nezačne blikat"
+
+msgid "If you win this Raspberry Pi 5, what could you run on it first?"
+msgstr "Pokud vyhraješ Raspberry Pi 5, co na něm můžeš spustit jako první?"
+
+msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
+msgstr "Začni s openSUSE Tumbleweed pro Arm a objev plnohodnotné linuxové prostředí"
+
+msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
+msgstr "Nastav si osobní domácí server s Nextcloudem, Home Assistantem nebo vlastním openSUSE mirrorem"
+
+msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
+msgstr "Vyzkoušej zábavné experimenty jako retro hraní, multimediální centra nebo programování pro děti"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -1284,6 +1490,369 @@ msgstr "Události jsou odkryty veřejnosti pouze při úplňku"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "Kam se můžete obrátit o pomoc, když se ztratíte ve světě openSUSE?"
 
+msgid "openSUSE Introduction"
+msgstr "Úvod do openSUSE"
+
+msgid "Discover openSUSE, one click at a time."
+msgstr "Objevuj openSUSE, jedno kliknutí po druhém."
+
+msgid "What is openSUSE?"
+msgstr "Co je openSUSE?"
+
+msgid "A project supported by SUSE, made for everyone"
+msgstr "Projekt podporovaný společností SUSE, vytvořený pro všechny"
+
+msgid "More than just one Linux distribution"
+msgstr "Více než jen jedna linuxová distribuce"
+
+msgid "A friendly place to build software and learn new tools"
+msgstr "Přátelské místo pro tvorbu softwaru a učení se novým nástrojům"
+
+msgid "All of these things together"
+msgstr "Všechny tyto věci dohromady"
+
+msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
+msgstr "openSUSE právě oslavilo své 20. narozeniny! Ve kterém roce se to stalo?"
+
+msgid "2025 – this year! 🎉"
+msgstr "2025 – letos! 🎉"
+
+msgid "1998 – that’s when Google started, not openSUSE"
+msgstr "1998 – tehdy vznikl Google, ne openSUSE"
+
+msgid "1994 – that’s the first SUSE Linux, not openSUSE"
+msgstr "1994 – to byl první SUSE Linux, ne openSUSE"
+
+msgid "2005 – the year openSUSE was born, but not 20 years ago"
+msgstr "2005 – rok, kdy se zrodilo openSUSE, ale ještě ne před 20 lety"
+
+msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
+msgstr "openSUSE má dva hlavní způsoby aktualizací. Jeden je velké vydání jednou ročně, druhý poskytuje aktualizace neustále. Jak se jmenují?"
+
+msgid "Stable and Rolling"
+msgstr "Stable a Rolling"
+
+msgid "Stable and Wobbly"
+msgstr "Stable a Wobbly"
+
+msgid "Rolling and Sitting"
+msgstr "Rolling a Sitting"
+
+msgid "Rolling and Leaping"
+msgstr "Rolling a Leaping"
+
+msgid "Which openSUSE versions are Rolling (always up-to-date)?"
+msgstr "Které verze openSUSE jsou Rolling (vždy aktuální)?"
+
+msgid "Aeon, Kalpa, and MicroOS"
+msgstr "Aeon, Kalpa a MicroOS"
+
+msgid "Slowroll and Slowroll Micro"
+msgstr "Slowroll a Slowroll Micro"
+
+msgid "All of these are Rolling"
+msgstr "Všechny tyto verze jsou Rolling"
+
+msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
+msgstr "Leap a Leap Micro jsou naše stabilní distribuce. Co to znamená?"
+
+msgid "Each minor release receive updates for about 24 months"
+msgstr "Každé dílčí vydání dostává aktualizace přibližně po dobu 24 měsíců"
+
+msgid "They have one big release every 12 months"
+msgstr "Mají jedno velké vydání každých 12 měsíců"
+
+msgid "They come with release parties everyone can join 🎉"
+msgstr "Jsou doprovázeny vydávacími večírky, ke kterým se může každý připojit 🎉"
+
+msgid "All of the above (and you can stay on Leap 16 until 2033!)"
+msgstr "Vše výše uvedené (a na Leap 16 můžeš zůstat až do roku 2033!)"
+
+msgid "openSUSE also has “immutable” editions. What does that mean?"
+msgstr "openSUSE má také „neměnné“ edice. Co to znamená?"
+
+msgid "They use a read-only system base and update safely with special tools"
+msgstr "Používají systémový základ pouze pro čtení a bezpečně se aktualizují pomocí speciálních nástrojů"
+
+msgid "They cannot be installed on laptops"
+msgstr "Nelze je nainstalovat na notebooky"
+
+msgid "They are distributions that never change wallpapers"
+msgstr "Jsou to distribuce, které nikdy nemění tapety"
+
+msgid "They come only as DVDs by mail"
+msgstr "Dodávají se pouze na DVD poštou"
+
+msgid "What is Slowroll?"
+msgstr "Co je Slowroll?"
+
+msgid "A variant of Tumbleweed with updates grouped into tested batches"
+msgstr "Varianta Tumbleweedu s aktualizacemi seskupenými do otestovaných dávek"
+
+msgid "A racing game mode in Linux"
+msgstr "Závodní herní mód v Linuxu"
+
+msgid "A distribution that only updates once per decade"
+msgstr "Distribuce, která se aktualizuje jen jednou za desetiletí"
+
+msgid "The mascot’s new nickname"
+msgstr "Nová přezdívka maskota"
+
+msgid "What are some of the key openSUSE community tools and projects?"
+msgstr "Které nástroje a projekty jsou klíčové pro komunitu openSUSE?"
+
+msgid "Open Build Service (OBS) for building software"
+msgstr "Open Build Service (OBS) pro sestavování softwaru"
+
+msgid "openQA for automated testing"
+msgstr "openQA pro automatizované testování"
+
+msgid "The Wiki, Weblate, forums, and more"
+msgstr "Wiki, Weblate, fóra a další"
+
+msgid "All of these are part of openSUSE"
+msgstr "Všechny tyto věci jsou součástí openSUSE"
+
+msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
+msgstr "Tým, který se stará o infrastrukturu openSUSE, se nazývá openSUSE...?"
+
+msgid "Heroes"
+msgstr "Heroes"
+
+msgid "Avengers"
+msgstr "Avengers"
+
+msgid "Thunderbolts"
+msgstr "Thunderbolts"
+
+msgid "Villains"
+msgstr "Villains"
+
+msgid "Windows 10 is out of support. What could you do with that laptop?"
+msgstr "Windows 10 již nejsou podporovány. Co můžeš udělat s tím notebookem?"
+
+msgid "Install openSUSE on your laptop"
+msgstr "Nainstaluj openSUSE na svůj notebook"
+
+msgid "Install openSUSE on your friend’s laptop"
+msgstr "Nainstaluj openSUSE na notebook svého kamaráda"
+
+msgid "Install openSUSE on your grandmother’s laptop"
+msgstr "Nainstaluj openSUSE na notebook své babičky"
+
+msgid "All of these are great ideas"
+msgstr "Všechny tyto nápady jsou skvělé"
+
+msgid "A chameleon named Geeko"
+msgstr "Chameleon jménem Geeko"
+
+msgid "A penguin named Tux"
+msgstr "Tučňák jménem Tux"
+
+msgid "A tumbleweed rolling in the desert"
+msgstr "Koule trávy kutálející se pouští"
+
+msgid "A lizard in sunglasses"
+msgstr "Ještěrka v slunečních brýlích"
+
+msgid "Why do people love openSUSE?"
+msgstr "Proč lidé milují openSUSE?"
+
+msgid "Stable Leap releases and fast-moving Tumbleweed updates"
+msgstr "Stabilní vydání Leap a rychle se vyvíjející aktualizace Tumbleweed"
+
+msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
+msgstr "Moderní nástroje jako Agama, Myrlyn, zypper, OBS a openQA"
+
+msgid "A friendly worldwide community that welcomes everyone"
+msgstr "Přátelská celosvětová komunita, která vítá každého"
+
+msgid "All of these together"
+msgstr "Všechny tyto věci dohromady"
+
+msgid "Where can you help translate openSUSE (and even this quiz)?"
+msgstr "Kde můžeš pomoci překládat openSUSE (a dokonce i tento kvíz)?"
+
+msgid "Weblate at l10n.opensuse.org"
+msgstr "Weblate na l10n.opensuse.org"
+
+msgid "By whispering translations into the chameleon’s ear"
+msgstr "Šeptáním překladů chameleonovi do ucha"
+
+msgid "At Google Translate headquarters in a secret bunker"
+msgstr "V centrále Google Překladače v tajném bunkru"
+
+msgid "By posting translations on random Reddit threads"
+msgstr "Zasíláním překladů do náhodných vláken na Redditu"
+
+msgid "Where can you get help with openSUSE?"
+msgstr "Kde můžeš získat pomoc s openSUSE?"
+
+msgid "Ask your friend who uses Linux"
+msgstr "Zeptej se kamaráda, který používá Linux"
+
+msgid "On many local Linux portals and websites"
+msgstr "Na mnoha místních linuxových portálech a webech"
+
+msgid "Asia Summit Dragon"
+msgstr "Asijský drak"
+
+msgid "Challenge the dragon of knowledge"
+msgstr "Vyzvi draka vědění"
+
+msgid "In which city was the first openSUSE Asia Summit hosted?"
+msgstr "Ve kterém městě se konal první openSUSE Asia Summit?"
+
+msgid "Taipei, Taiwan"
+msgstr "Tchaj-pej, Tchai-wan"
+
+msgid "Beijing, China"
+msgstr "Peking, Čína"
+
+msgid "Jakarta, Indonesia"
+msgstr "Jakarta, Indonésie"
+
+msgid "Tokyo, Japan"
+msgstr "Tokio, Japonsko"
+
+msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
+msgstr "Kdy se konal openSUSE Asia Summit v Tokiu v Japonsku?"
+
+msgid "2022"
+msgstr "2022"
+
+msgid "2017 and 2024"
+msgstr "2017 a 2024"
+
+msgid "2018"
+msgstr "2018"
+
+msgid "Only 2024"
+msgstr "Pouze v 2024"
+
+msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
+msgstr "Které z následujících měst NIKDY nehostilo openSUSE Asia Summit?"
+
+msgid "Denpasar"
+msgstr "Denpasar"
+
+msgid "Mumbai"
+msgstr "Mumbai"
+
+msgid "Taipei"
+msgstr "Taipei"
+
+msgid "Faridabad"
+msgstr "Faridabad"
+
+msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
+msgstr "V kterém městě se konal openSUSE Asia Summit v roce 2018?"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Jakarta"
+msgstr "Jakarta"
+
+msgid "Tokyo"
+msgstr "Tokyo"
+
+msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
+msgstr "Která z následujících zemí nikdy nehostila openSUSE Asia Summit?"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "India"
+msgstr "Indie"
+
+msgid "Indonesia"
+msgstr "Indonesie"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
+msgstr "V roce 2016 se summit konal na Universitas Islam Indonesia. Ve kterém městě se tato univerzita nachází?"
+
+msgid "Yogyakarta"
+msgstr "Yogyakarta"
+
+msgid "Bandung"
+msgstr "Bandung"
+
+msgid "Surabaya"
+msgstr "Surabaya"
+
+msgid "Where was the openSUSE Asia Summit held in 2019?"
+msgstr "Kde se konal openSUSE Asia Summit v roce 2019?"
+
+msgid "Seoul"
+msgstr "Seoul"
+
+msgid "Denpasar (Bali)"
+msgstr "Denpasar (Bali)"
+
+msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
+msgstr "openSUSE Asia Summit v letech 2020 a 2021 se konal online. Jaký byl hlavní důvod?"
+
+msgid "Budget cuts"
+msgstr "Rozpočtové škrty"
+
+msgid "Lack of organizers"
+msgstr "Nedostatek organizátorů"
+
+msgid "COVID-19 pandemic"
+msgstr "COVID-19 pandemie"
+
+msgid "Scheduling conflicts"
+msgstr "Kolize v harmonogramu"
+
+msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
+msgstr "Kdo obvykle navrhuje oficiální logo pro openSUSE Asia Summit?"
+
+msgid "Geenardo Da Vinci"
+msgstr "Geenardo Da Vinci"
+
+msgid "A professional graphic designer hired by the openSUSE Foundation"
+msgstr "Profesionální grafický designér najatý nadací openSUSE"
+
+msgid "The community through an annual design contest"
+msgstr "Komunita prostřednictvím každoroční soutěže o návrh loga"
+
+msgid "The developers from the openSUSE infrastructure team"
+msgstr "Vývojáři z infra týmu openSUSE"
+
+msgid "Which openSUSE Asia Summit had a red logo?"
+msgstr "Který openSUSE Asia Summit měl červené logo?"
+
+msgid "2016 in Beijing"
+msgstr "2016 v Pekingu"
+
+msgid "2017 in Tokyo"
+msgstr "2017 v Tokyu"
+
+msgid "2018 in Taipei"
+msgstr "2018 v Taipei"
+
+msgid "2019 in Bali"
+msgstr "2019 na Bali"
+
+msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
+msgstr "Který openSUSE Asia Summit poprvé použil aplikaci openSUSE Quiz?"
+
+msgid "2025 in Faridabad"
+msgstr "2025 ve Faridabadu"
+
+msgid "2014 in Beijing"
+msgstr "2014 v Pekingu"
+
+msgid "The longest elevator trip to openSUSE Asia summit was in?"
+msgstr "Nejdelší jízda výtahem na openSUSE Asia Summit byla v?"
+
+msgid "Beijing"
+msgstr "Pekingu"
+
 msgid "oSC Historian"
 msgstr "oSC Historik"
 
@@ -1337,9 +1906,6 @@ msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
 msgstr "Zpět do současnosti. Kdo pronesl úvodní přednášku na oSC 2024?"
-
-msgid "Richard Stallman"
-msgstr "Richard Stallman"
 
 msgid "Rick Spencer"
 msgstr "Rick Spencer"
@@ -1671,6 +2237,483 @@ msgstr "Meč na ochranu mainframu"
 msgid "A white helmet with IBM on it"
 msgstr "Bílá helma s nápisem IBM"
 
+msgid "SLES 16 in Numbers"
+msgstr ""
+
+msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
+msgstr ""
+
+msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "16"
+msgstr ""
+
+msgid "42"
+msgstr "42"
+
+msgid "Just one: German!"
+msgstr ""
+
+msgid "How many features have been reported against SLES + SAP 16.0? "
+msgstr ""
+
+msgid "1099"
+msgstr ""
+
+msgid "404 – features not found"
+msgstr ""
+
+msgid "9999 – we lost count"
+msgstr ""
+
+msgid "How many of those features were resolved in 16.0?"
+msgstr ""
+
+msgid "798"
+msgstr ""
+
+msgid "789"
+msgstr ""
+
+msgid "123"
+msgstr ""
+
+msgid "666"
+msgstr ""
+
+msgid "When does LTS Support for SLES 16.0?"
+msgstr ""
+
+msgid "2030"
+msgstr ""
+
+msgid "Never – it’s eternal like systemd"
+msgstr ""
+
+msgid "2029"
+msgstr ""
+
+msgid "2032"
+msgstr ""
+
+msgid "How many valid bugs were resolved in SLES 16.0?"
+msgstr ""
+
+msgid "999"
+msgstr ""
+
+msgid "0, because it’s perfect"
+msgstr ""
+
+msgid "Too many to fit in Bugzilla"
+msgstr ""
+
+msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "1 – we’re almost there!"
+msgstr ""
+
+msgid "0, No P1 shall pass RC!"
+msgstr ""
+
+msgid "When can we expect SLES 16.1 to be released?"
+msgstr ""
+
+msgid "November 3rd 2026"
+msgstr ""
+
+msgid "June 16th, 2026"
+msgstr ""
+
+msgid "4th of July 2026"
+msgstr ""
+
+msgid "30th February 2026"
+msgstr ""
+
+msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
+msgstr ""
+
+msgid "slfo-1.2 "
+msgstr ""
+
+msgid "devel branch in src.opensuse.org/pool"
+msgstr ""
+
+msgid "slfo-main"
+msgstr ""
+
+msgid "slfo-1.0"
+msgstr ""
+
+msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
+msgstr ""
+
+msgid "0"
+msgstr "0"
+
+msgid "Thousands of packages in coldpool"
+msgstr ""
+
+msgid "All of them. Maintainers are overrated"
+msgstr ""
+
+msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
+msgstr ""
+
+msgid "python-3.13"
+msgstr ""
+
+msgid "python-2.7"
+msgstr ""
+
+msgid "python-3.11"
+msgstr ""
+
+msgid "python-3.6"
+msgstr ""
+
+msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
+msgstr ""
+
+msgid "ruby-3.4"
+msgstr ""
+
+msgid "ruby-2.7 LTS"
+msgstr ""
+
+msgid "ruby-3.1"
+msgstr ""
+
+msgid "ruby-3.2"
+msgstr ""
+
+msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
+msgstr ""
+
+msgid "None. We solely rely on testing in production."
+msgstr ""
+
+msgid "1999"
+msgstr "1999"
+
+msgid "9999"
+msgstr ""
+
+msgid "Who is the Release Manager Lead for SLES 16.1?"
+msgstr ""
+
+msgid "Radoslav Tsvetkov"
+msgstr ""
+
+msgid "Libor Miksik"
+msgstr ""
+
+msgid "Daniela Giri"
+msgstr ""
+
+msgid "Prokop Vlasin"
+msgstr ""
+
+msgid "What component managed to survive its own death in SLES 16?"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "System Management"
+msgstr ""
+
+msgid "Installer"
+msgstr ""
+
+msgid "Migration tool"
+msgstr ""
+
+msgid "SUSE Story"
+msgstr "Příběh SUSE"
+
+msgid "Discover SUSE, one click at a time."
+msgstr "Objevuj SUSE, klik po kliku."
+
+msgid "What is SUSE’s business?"
+msgstr "Jaké je zaměření podnikání společnosti SUSE?"
+
+msgid "Providing Enterprise Linux solutions for mission-critical systems"
+msgstr "Poskytování Enterprise Linux řešení pro kritické systémy"
+
+msgid "Delivering modern container and VM management with Rancher and Harvester"
+msgstr "Poskytování moderní správy kontejnerů a virtuálních strojů pomocí Rancheru a Harvesteru"
+
+msgid "Securing cloud-native workloads with NeuVector"
+msgstr "Zabezpečení cloud-native pracovních zátěží pomocí NeuVectoru"
+
+msgid "What does the acronym SUSE stand for?"
+msgstr "Co znamená zkratka SUSE?"
+
+msgid "Software- und System-Entwicklung (Software and Systems Development)"
+msgstr "Software- und System-Entwicklung (Vývoj softwaru a systémů)"
+
+msgid "Super User Space Explorer"
+msgstr "Super User Space Explorer"
+
+msgid "Silly Unix Shell Enthusiasts"
+msgstr "Silly Unix Shell Enthusiasts"
+
+msgid "System Upgrade & Security Engine"
+msgstr "System Upgrade & Security Engine"
+
+msgid "How many employees does SUSE have worldwide?"
+msgstr "Kolik má SUSE zaměstnanců po celém světě?"
+
+msgid "Around 500"
+msgstr "Asi 500"
+
+msgid "Around 1,200"
+msgstr "Asi 1 200"
+
+msgid "Around 2,500"
+msgstr "Asi 2 500"
+
+msgid "Around 10,000"
+msgstr "Asi 10 000"
+
+msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
+msgstr "SUSECON 2026 se blíží v dubnu! Které město bude hostit největší konferenci SUSE?"
+
+msgid "Prague"
+msgstr "Praha"
+
+msgid "Cupertino"
+msgstr "Cupertino"
+
+msgid "Redmont"
+msgstr "Redmont"
+
+msgid "Raleigh"
+msgstr "Raleigh"
+
+msgid "Which of the following is true about the SUSE Logo?"
+msgstr "Které z následujících tvrzení je pravdivé o logu SUSE?"
+
+msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
+msgstr "Hubert Mantel, jeden ze zakladatelů, požádal přítele, aby navrhl logo, a všem kromě něj se vlastně líbilo."
+
+msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
+msgstr "V kreslení chameleonů jsme se hodně zlepšili. Současné logo je již šestá generace od prvního z roku 1996"
+
+msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
+msgstr "Logo SUSE představuje flexibilitu a přizpůsobivost, stejně jako chameleon"
+
+msgid "When was the first version of SUSE Linux released?"
+msgstr "Kdy byla vydána první verze SUSE Linuxu?"
+
+msgid "1989"
+msgstr "1989"
+
+msgid "1991"
+msgstr "1991"
+
+msgid "1994"
+msgstr "1994"
+
+msgid "2014"
+msgstr "2014"
+
+msgid "What is Rancher primarily used for?"
+msgstr "K čemu se Rancher primárně používá?"
+
+msgid "Managing and scaling Kubernetes clusters"
+msgstr "Správa a škálování Kubernetes clusterů"
+
+msgid "Herding virtual cows in the cloud"
+msgstr "Nahánění virtuálních krav v cloudu"
+
+msgid "Automating SUSE Linux installations only"
+msgstr "Automatizace pouze instalací SUSE Linuxu"
+
+msgid "Playing old-school ranch simulation games"
+msgstr "Hraní starých simulátorů farmaření"
+
+msgid "What does NeuVector focus on?"
+msgstr "Na co se zaměřuje NeuVector?"
+
+msgid "Cloud-native container security"
+msgstr "Zabezpečení kontejnerů v prostředí cloud-native"
+
+msgid "Making networking faster on Linux desktops"
+msgstr "Zrychlování síťových připojení na linuxových desktopových systémech"
+
+msgid "Automating package builds"
+msgstr "Automatizace sestavování balíčků"
+
+msgid "Coloring the chameleon logo green"
+msgstr "Zbarvení loga chameleona do zelena"
+
+msgid "What is SUSE Harvester?"
+msgstr "Co je SUSE Harvester?"
+
+msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
+msgstr "Virtualizační platforma, která umožňuje snadno vytvářet, migrovat, zálohovat a obnovovat virtuální stroje na fyzických serverech"
+
+msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
+msgstr "Systém postavený na Kubernetes, který používá KubeVirt pro virtualizaci, Longhorn pro úložiště a podporuje běh kontejnerů vedle virtuálních strojů"
+
+msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
+msgstr "Řešení integrované s Rancherem, které kombinuje správu kontejnerů a virtuálních strojů se sítí a monitorováním"
+
+msgid "A community project sponsored by SUSE"
+msgstr "Komunitní projekt sponzorovaný společností SUSE"
+
+msgid "More than just one community Linux distribution"
+msgstr "Více než jen jedna komunitní linuxová distribuce"
+
+msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
+msgstr "Úžasné místo pro vývoj projektů s nástroji jako openQA, Open Build Service a přátelskou komunitou"
+
+msgid "What are SUSE BCI (Base Container Images) known for?"
+msgstr "Čím jsou SUSE BCI (Base Container Images) známé?"
+
+msgid "Being bloated with unnecessary packages"
+msgstr "Tím, že jsou přeplněné zbytečnými balíčky"
+
+msgid "Only working on SUSE Linux Enterprise Server"
+msgstr "Fungují pouze na SUSE Linux Enterprise Server"
+
+msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
+msgstr "Tím, že nabízejí skutečně otevřené, flexibilní a bezpečné obrazy založené na SUSE Linux Enterprise"
+
+msgid "Standing for 'Big Chameleon Initiative'"
+msgstr "Znamenají „Big Chameleon Initiative“ (Velká iniciativa chameleona)"
+
+msgid "SUSE x openSSL"
+msgstr "SUSE x openSSL"
+
+msgid "When SUSE meets openSSL, surprises await."
+msgstr "Když se SUSE potká s openSSL, čekají tě překvapení."
+
+msgid "How many SUSE products use OpenSSL?"
+msgstr "Kolik produktů SUSE používá OpenSSL?"
+
+msgid "1"
+msgstr "1"
+
+msgid "5"
+msgstr "5"
+
+msgid "10"
+msgstr "10"
+
+msgid "All of them"
+msgstr "Všechny"
+
+msgid "How many SUSE engineers are actively working on OpenSSL?"
+msgstr "Kolik inženýrů SUSE aktivně pracuje na OpenSSL?"
+
+msgid "3"
+msgstr "3"
+
+msgid "42.3"
+msgstr "42.3"
+
+msgid "19"
+msgstr "19"
+
+msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
+msgstr "Povolení režimu FIPS v systému SUSE může mít který z následujících vedlejších účinků?"
+
+msgid "It allows all cryptographic algorithms, including insecure ones."
+msgstr "Umožňuje všechny kryptografické algoritmy, včetně nebezpečných."
+
+msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
+msgstr "Omezuje použití kryptografie pouze na FIPS certifikované algoritmy a binárky."
+
+msgid "It has no impact on system performance or compatibility."
+msgstr "Nemá žádný vliv na výkon nebo kompatibilitu systému."
+
+msgid "You start smiling like 'Hide the Pain Harold' meme guy."
+msgstr "Začneš se usmívat jako chlápek z memu 'Hide the Pain Harold'."
+
+msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
+msgstr "Odkud se inženýři SUSE v Brně zúčastní SUSE Hackweek 25?"
+
+msgid "The OpenSSL office"
+msgstr "Kancelář OpenSSL"
+
+msgid "Starbucks"
+msgstr "Starbucks"
+
+msgid "Red Hat office"
+msgstr "Kancelář Red Hatu"
+
+msgid "Vaňkovka shopping gallery"
+msgstr "Obchodní galerie Vaňkovka"
+
+msgid "Why does SUSE invest in OpenSSL?"
+msgstr "Proč SUSE investuje do OpenSSL?"
+
+msgid "To contribute back to the community SUSE and many others relies on"
+msgstr "Aby přispěla zpět komunitě, na kterou SUSE a mnozí další spoléhají"
+
+msgid "To make chameleons browse the web safely"
+msgstr "Aby chameleoni mohli bezpečně procházet web"
+
+msgid "To win a race against penguins"
+msgstr "Aby vyhrála závod proti tučňákům"
+
+msgid "To shorten Linux kernel boot times"
+msgstr "Aby zkrátila dobu spouštění linuxového jádra"
+
+msgid "SUSE engineers contribute to OpenSSL by"
+msgstr "Inženýři SUSE přispívají do OpenSSL tím, že"
+
+msgid "Active development and code reviews"
+msgstr "Aktivně vyvíjejí a provádějí kontrolu kódu"
+
+msgid "Contributing fixes and new features"
+msgstr "Přispívají opravami a novými funkcemi"
+
+msgid "Running enterprise-grade testing with tools like openQA"
+msgstr "Provádějí testování na podnikové úrovni pomocí nástrojů jako openQA"
+
+msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
+msgstr "Jakou roli hraje OpenSSL v SUSE Linux Enterprise?"
+
+msgid "It secures communication and cryptographic operations"
+msgstr "Zabezpečuje komunikaci a kryptografické operace"
+
+msgid "It only adds fancy wallpapers"
+msgstr "Přidává pouze stylové tapety"
+
+msgid "It makes Open Build Service run faster"
+msgstr "Způsobuje, že Open Build Service běží rychleji"
+
+msgid "It manages Rancher clusters"
+msgstr "Spravuje clustery Rancher"
+
+msgid "Why is FIPS certification in OpenSSL important for SUSE?"
+msgstr "Proč je certifikace FIPS v OpenSSL důležitá pro SUSE?"
+
+msgid "It allows SUSE customers in regulated industries to meet strict security standards"
+msgstr "Umožňuje zákazníkům SUSE v regulovaných odvětvích splnit přísné bezpečnostní standardy"
+
+msgid "It makes the chameleon change colors faster"
+msgstr "Díky tomu chameleon rychleji mění barvy"
+
+msgid "It guarantees free coffee for certified systems"
+msgstr "Zaručuje zdarma kávu pro certifikované systémy"
+
+msgid "It is only useful for retro Linux distributions"
+msgstr "Je užitečná pouze pro retro linuxové distribuce"
+
 msgid "The Ultimate YaST Challenge"
 msgstr "Ultimátní YaST Výzva"
 
@@ -1709,9 +2752,6 @@ msgstr "Asi tak 150"
 
 msgid "When was the first YaST2 released?"
 msgstr "Kdy byl vydán první YaST2?"
-
-msgid "1999"
-msgstr "1999"
 
 msgid "2002"
 msgstr "2002"
@@ -1974,9 +3014,6 @@ msgstr "Leap 16.0 vylepšil správu repozitářů s CDN ve výchozím nastavení
 msgid "14"
 msgstr "14"
 
-msgid "10"
-msgstr "10"
-
 msgid "8"
 msgstr "8"
 
@@ -2015,12 +3052,6 @@ msgstr "Vše uvedené."
 
 msgid "At what manpage section would you look for zypper docs?"
 msgstr "V jaké sekci manuálových stránek byste hledali dokumentaci k Zypperu?"
-
-msgid "1"
-msgstr "1"
-
-msgid "42"
-msgstr "42"
 
 msgid "What is yzpper?"
 msgstr "Co je yzpper?"
@@ -2110,837 +3141,11 @@ msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Zvolte přezdívku tak abychom vás rozeznali, například ZypperJedi, nebo raději své skutečné jméno (JménoPříjmení)."
 
-msgid "Asia Summit Dragon"
-msgstr "Asijský drak"
-
-msgid "Challenge the dragon of knowledge"
-msgstr "Vyzvi draka vědění"
-
-msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr "Ve kterém městě se konal první openSUSE Asia Summit?"
-
-msgid "Taipei, Taiwan"
-msgstr "Tchaj-pej, Tchai-wan"
-
-msgid "Beijing, China"
-msgstr "Peking, Čína"
-
-msgid "Jakarta, Indonesia"
-msgstr "Jakarta, Indonésie"
-
-msgid "Tokyo, Japan"
-msgstr "Tokio, Japonsko"
-
-msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr "Kdy se konal openSUSE Asia Summit v Tokiu v Japonsku?"
-
-msgid "2022"
-msgstr "2022"
-
-msgid "2017 and 2024"
-msgstr "2017 a 2024"
-
-msgid "2018"
-msgstr "2018"
-
-msgid "Only 2024"
-msgstr "Pouze v 2024"
-
-msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr "Které z následujících měst NIKDY nehostilo openSUSE Asia Summit?"
-
-msgid "Denpasar"
-msgstr "Denpasar"
-
-msgid "Mumbai"
-msgstr "Mumbai"
-
-msgid "Taipei"
-msgstr "Taipei"
-
-msgid "Faridabad"
-msgstr "Faridabad"
-
-msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr "V kterém městě se konal openSUSE Asia Summit v roce 2018?"
-
-msgid "Hong Kong"
-msgstr "Hong Kong"
-
-msgid "Jakarta"
-msgstr "Jakarta"
-
-msgid "Tokyo"
-msgstr "Tokyo"
-
-msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr "Která z následujících zemí nikdy nehostila openSUSE Asia Summit?"
-
-msgid "Vietnam"
-msgstr "Vietnam"
-
-msgid "India"
-msgstr "Indie"
-
-msgid "Indonesia"
-msgstr "Indonesie"
-
-msgid "Taiwan"
-msgstr "Taiwan"
-
-msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr "V roce 2016 se summit konal na Universitas Islam Indonesia. Ve kterém městě se tato univerzita nachází?"
-
-msgid "Yogyakarta"
-msgstr "Yogyakarta"
-
-msgid "Bandung"
-msgstr "Bandung"
-
-msgid "Surabaya"
-msgstr "Surabaya"
-
-msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr "Kde se konal openSUSE Asia Summit v roce 2019?"
-
-msgid "Seoul"
-msgstr "Seoul"
-
-msgid "Denpasar (Bali)"
-msgstr "Denpasar (Bali)"
-
-msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr "openSUSE Asia Summit v letech 2020 a 2021 se konal online. Jaký byl hlavní důvod?"
-
-msgid "Budget cuts"
-msgstr "Rozpočtové škrty"
-
-msgid "Lack of organizers"
-msgstr "Nedostatek organizátorů"
-
-msgid "COVID-19 pandemic"
-msgstr "COVID-19 pandemie"
-
-msgid "Scheduling conflicts"
-msgstr "Kolize v harmonogramu"
-
-msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr "Kdo obvykle navrhuje oficiální logo pro openSUSE Asia Summit?"
-
-msgid "Geenardo Da Vinci"
-msgstr "Geenardo Da Vinci"
-
-msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr "Profesionální grafický designér najatý nadací openSUSE"
-
-msgid "The community through an annual design contest"
-msgstr "Komunita prostřednictvím každoroční soutěže o návrh loga"
-
-msgid "The developers from the openSUSE infrastructure team"
-msgstr "Vývojáři z infra týmu openSUSE"
-
-msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr "Který openSUSE Asia Summit měl červené logo?"
-
-msgid "2016 in Beijing"
-msgstr "2016 v Pekingu"
-
-msgid "2017 in Tokyo"
-msgstr "2017 v Tokyu"
-
-msgid "2018 in Taipei"
-msgstr "2018 v Taipei"
-
-msgid "2019 in Bali"
-msgstr "2019 na Bali"
-
-msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr "Který openSUSE Asia Summit poprvé použil aplikaci openSUSE Quiz?"
-
-msgid "2025 in Faridabad"
-msgstr "2025 ve Faridabadu"
-
-msgid "2014 in Beijing"
-msgstr "2014 v Pekingu"
-
-msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr "Nejdelší jízda výtahem na openSUSE Asia Summit byla v?"
-
-msgid "Beijing"
-msgstr "Pekingu"
-
-msgid "SUSE Story"
-msgstr "Příběh SUSE"
-
-msgid "Discover SUSE, one click at a time."
-msgstr "Objevuj SUSE, klik po kliku."
-
-msgid "What is SUSE’s business?"
-msgstr "Jaké je zaměření podnikání společnosti SUSE?"
-
-msgid "Providing Enterprise Linux solutions for mission-critical systems"
-msgstr "Poskytování Enterprise Linux řešení pro kritické systémy"
-
-msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr "Poskytování moderní správy kontejnerů a virtuálních strojů pomocí Rancheru a Harvesteru"
-
-msgid "Securing cloud-native workloads with NeuVector"
-msgstr "Zabezpečení cloud-native pracovních zátěží pomocí NeuVectoru"
-
-msgid "All of the above"
-msgstr "Vše výše uvedené"
-
-msgid "What does the acronym SUSE stand for?"
-msgstr "Co znamená zkratka SUSE?"
-
-msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr "Software- und System-Entwicklung (Vývoj softwaru a systémů)"
-
-msgid "Super User Space Explorer"
-msgstr "Super User Space Explorer"
-
-msgid "Silly Unix Shell Enthusiasts"
-msgstr "Silly Unix Shell Enthusiasts"
-
-msgid "System Upgrade & Security Engine"
-msgstr "System Upgrade & Security Engine"
-
-msgid "How many employees does SUSE have worldwide?"
-msgstr "Kolik má SUSE zaměstnanců po celém světě?"
-
-msgid "Around 500"
-msgstr "Asi 500"
-
-msgid "Around 1,200"
-msgstr "Asi 1 200"
-
-msgid "Around 2,500"
-msgstr "Asi 2 500"
-
-msgid "Around 10,000"
-msgstr "Asi 10 000"
-
-msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr "SUSECON 2026 se blíží v dubnu! Které město bude hostit největší konferenci SUSE?"
-
-msgid "Prague"
-msgstr "Praha"
-
-msgid "Cupertino"
-msgstr "Cupertino"
-
-msgid "Redmont"
-msgstr "Redmont"
-
-msgid "Raleigh"
-msgstr "Raleigh"
-
-msgid "Which of the following is true about the SUSE Logo?"
-msgstr "Které z následujících tvrzení je pravdivé o logu SUSE?"
-
-msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr "Hubert Mantel, jeden ze zakladatelů, požádal přítele, aby navrhl logo, a všem kromě něj se vlastně líbilo."
-
-msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr "V kreslení chameleonů jsme se hodně zlepšili. Současné logo je již šestá generace od prvního z roku 1996"
-
-msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr "Logo SUSE představuje flexibilitu a přizpůsobivost, stejně jako chameleon"
-
-msgid "When was the first version of SUSE Linux released?"
-msgstr "Kdy byla vydána první verze SUSE Linuxu?"
-
-msgid "1989"
-msgstr "1989"
-
-msgid "1991"
-msgstr "1991"
-
-msgid "1994"
-msgstr "1994"
-
-msgid "2014"
-msgstr "2014"
-
-msgid "What is Rancher primarily used for?"
-msgstr "K čemu se Rancher primárně používá?"
-
-msgid "Managing and scaling Kubernetes clusters"
-msgstr "Správa a škálování Kubernetes clusterů"
-
-msgid "Herding virtual cows in the cloud"
-msgstr "Nahánění virtuálních krav v cloudu"
-
-msgid "Automating SUSE Linux installations only"
-msgstr "Automatizace pouze instalací SUSE Linuxu"
-
-msgid "Playing old-school ranch simulation games"
-msgstr "Hraní starých simulátorů farmaření"
-
-msgid "What does NeuVector focus on?"
-msgstr "Na co se zaměřuje NeuVector?"
-
-msgid "Cloud-native container security"
-msgstr "Zabezpečení kontejnerů v prostředí cloud-native"
-
-msgid "Making networking faster on Linux desktops"
-msgstr "Zrychlování síťových připojení na linuxových desktopových systémech"
-
-msgid "Automating package builds"
-msgstr "Automatizace sestavování balíčků"
-
-msgid "Coloring the chameleon logo green"
-msgstr "Zbarvení loga chameleona do zelena"
-
-msgid "What is SUSE Harvester?"
-msgstr "Co je SUSE Harvester?"
-
-msgid "A virtualization platform that lets you easily create, migrate, back up, and restore VMs on bare metal servers"
-msgstr "Virtualizační platforma, která umožňuje snadno vytvářet, migrovat, zálohovat a obnovovat virtuální stroje na fyzických serverech"
-
-msgid "A system built on Kubernetes that uses KubeVirt for virtualization, Longhorn for storage, and supports running containers alongside VMs"
-msgstr "Systém postavený na Kubernetes, který používá KubeVirt pro virtualizaci, Longhorn pro úložiště a podporuje běh kontejnerů vedle virtuálních strojů"
-
-msgid "A solution that integrates with Rancher, combining container and VM management with networking and observability"
-msgstr "Řešení integrované s Rancherem, které kombinuje správu kontejnerů a virtuálních strojů se sítí a monitorováním"
-
-msgid "What is openSUSE?"
-msgstr "Co je openSUSE?"
-
-msgid "A community project sponsored by SUSE"
-msgstr "Komunitní projekt sponzorovaný společností SUSE"
-
-msgid "More than just one community Linux distribution"
-msgstr "Více než jen jedna komunitní linuxová distribuce"
-
-msgid "An amazing place to develop projects with tools like openQA, Open Build Service, and a welcoming community"
-msgstr "Úžasné místo pro vývoj projektů s nástroji jako openQA, Open Build Service a přátelskou komunitou"
-
-msgid "What are SUSE BCI (Base Container Images) known for?"
-msgstr "Čím jsou SUSE BCI (Base Container Images) známé?"
-
-msgid "Being bloated with unnecessary packages"
-msgstr "Tím, že jsou přeplněné zbytečnými balíčky"
-
-msgid "Only working on SUSE Linux Enterprise Server"
-msgstr "Fungují pouze na SUSE Linux Enterprise Server"
-
-msgid "For offering truly open, flexible, and secure images based on SUSE Linux Enterprise"
-msgstr "Tím, že nabízejí skutečně otevřené, flexibilní a bezpečné obrazy založené na SUSE Linux Enterprise"
-
-msgid "Standing for 'Big Chameleon Initiative'"
-msgstr "Znamenají „Big Chameleon Initiative“ (Velká iniciativa chameleona)"
-
-msgid "SUSE x openSSL"
-msgstr "SUSE x openSSL"
-
-msgid "When SUSE meets openSSL, surprises await."
-msgstr "Když se SUSE potká s openSSL, čekají tě překvapení."
-
-msgid "How many SUSE products use OpenSSL?"
-msgstr "Kolik produktů SUSE používá OpenSSL?"
-
-msgid "5"
-msgstr "5"
-
-msgid "All of them"
-msgstr "Všechny"
-
-msgid "How many SUSE engineers are actively working on OpenSSL?"
-msgstr "Kolik inženýrů SUSE aktivně pracuje na OpenSSL?"
-
-msgid "0"
-msgstr "0"
-
-msgid "3"
-msgstr "3"
-
-msgid "42.3"
-msgstr "42.3"
-
-msgid "19"
-msgstr "19"
-
-msgid "Enabling FIPS mode on a SUSE system can have which of the following side effects?"
-msgstr "Povolení režimu FIPS v systému SUSE může mít který z následujících vedlejších účinků?"
-
-msgid "It allows all cryptographic algorithms, including insecure ones."
-msgstr "Umožňuje všechny kryptografické algoritmy, včetně nebezpečných."
-
-msgid "It restricts the use of cryptography to only FIPS-validated algorithms and binaries."
-msgstr "Omezuje použití kryptografie pouze na FIPS certifikované algoritmy a binárky."
-
-msgid "It has no impact on system performance or compatibility."
-msgstr "Nemá žádný vliv na výkon nebo kompatibilitu systému."
-
-msgid "You start smiling like 'Hide the Pain Harold' meme guy."
-msgstr "Začneš se usmívat jako chlápek z memu 'Hide the Pain Harold'."
-
-msgid "From where will SUSE engineers in Brno, Czechia participate in SUSE Hackweek 25?"
-msgstr "Odkud se inženýři SUSE v Brně zúčastní SUSE Hackweek 25?"
-
-msgid "The OpenSSL office"
-msgstr "Kancelář OpenSSL"
-
-msgid "Starbucks"
-msgstr "Starbucks"
-
-msgid "Red Hat office"
-msgstr "Kancelář Red Hatu"
-
-msgid "Vaňkovka shopping gallery"
-msgstr "Obchodní galerie Vaňkovka"
-
-msgid "Why does SUSE invest in OpenSSL?"
-msgstr "Proč SUSE investuje do OpenSSL?"
-
-msgid "To contribute back to the community SUSE and many others relies on"
-msgstr "Aby přispěla zpět komunitě, na kterou SUSE a mnozí další spoléhají"
-
-msgid "To make chameleons browse the web safely"
-msgstr "Aby chameleoni mohli bezpečně procházet web"
-
-msgid "To win a race against penguins"
-msgstr "Aby vyhrála závod proti tučňákům"
-
-msgid "To shorten Linux kernel boot times"
-msgstr "Aby zkrátila dobu spouštění linuxového jádra"
-
-msgid "SUSE engineers contribute to OpenSSL by"
-msgstr "Inženýři SUSE přispívají do OpenSSL tím, že"
-
-msgid "Active development and code reviews"
-msgstr "Aktivně vyvíjejí a provádějí kontrolu kódu"
-
-msgid "Contributing fixes and new features"
-msgstr "Přispívají opravami a novými funkcemi"
-
-msgid "Running enterprise-grade testing with tools like openQA"
-msgstr "Provádějí testování na podnikové úrovni pomocí nástrojů jako openQA"
-
-msgid "What role does OpenSSL play in SUSE Linux Enterprise?"
-msgstr "Jakou roli hraje OpenSSL v SUSE Linux Enterprise?"
-
-msgid "It secures communication and cryptographic operations"
-msgstr "Zabezpečuje komunikaci a kryptografické operace"
-
-msgid "It only adds fancy wallpapers"
-msgstr "Přidává pouze stylové tapety"
-
-msgid "It makes Open Build Service run faster"
-msgstr "Způsobuje, že Open Build Service běží rychleji"
-
-msgid "It manages Rancher clusters"
-msgstr "Spravuje clustery Rancher"
-
-msgid "Why is FIPS certification in OpenSSL important for SUSE?"
-msgstr "Proč je certifikace FIPS v OpenSSL důležitá pro SUSE?"
-
-msgid "It allows SUSE customers in regulated industries to meet strict security standards"
-msgstr "Umožňuje zákazníkům SUSE v regulovaných odvětvích splnit přísné bezpečnostní standardy"
-
-msgid "It makes the chameleon change colors faster"
-msgstr "Díky tomu chameleon rychleji mění barvy"
-
-msgid "It guarantees free coffee for certified systems"
-msgstr "Zaručuje zdarma kávu pro certifikované systémy"
-
-msgid "It is only useful for retro Linux distributions"
-msgstr "Je užitečná pouze pro retro linuxové distribuce"
-
-msgid "openSUSE Introduction"
-msgstr "Úvod do openSUSE"
-
-msgid "Discover openSUSE, one click at a time."
-msgstr "Objevuj openSUSE, jedno kliknutí po druhém."
-
-msgid "A project supported by SUSE, made for everyone"
-msgstr "Projekt podporovaný společností SUSE, vytvořený pro všechny"
-
-msgid "More than just one Linux distribution"
-msgstr "Více než jen jedna linuxová distribuce"
-
-msgid "A friendly place to build software and learn new tools"
-msgstr "Přátelské místo pro tvorbu softwaru a učení se novým nástrojům"
-
-msgid "All of these things together"
-msgstr "Všechny tyto věci dohromady"
-
-msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr "openSUSE právě oslavilo své 20. narozeniny! Ve kterém roce se to stalo?"
-
-msgid "2025 – this year! 🎉"
-msgstr "2025 – letos! 🎉"
-
-msgid "1998 – that’s when Google started, not openSUSE"
-msgstr "1998 – tehdy vznikl Google, ne openSUSE"
-
-msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr "1994 – to byl první SUSE Linux, ne openSUSE"
-
-msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr "2005 – rok, kdy se zrodilo openSUSE, ale ještě ne před 20 lety"
-
-msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr "openSUSE má dva hlavní způsoby aktualizací. Jeden je velké vydání jednou ročně, druhý poskytuje aktualizace neustále. Jak se jmenují?"
-
-msgid "Stable and Rolling"
-msgstr "Stable a Rolling"
-
-msgid "Stable and Wobbly"
-msgstr "Stable a Wobbly"
-
-msgid "Rolling and Sitting"
-msgstr "Rolling a Sitting"
-
-msgid "Rolling and Leaping"
-msgstr "Rolling a Leaping"
-
-msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr "Které verze openSUSE jsou Rolling (vždy aktuální)?"
-
-msgid "Aeon, Kalpa, and MicroOS"
-msgstr "Aeon, Kalpa a MicroOS"
-
-msgid "Slowroll and Slowroll Micro"
-msgstr "Slowroll a Slowroll Micro"
-
-msgid "All of these are Rolling"
-msgstr "Všechny tyto verze jsou Rolling"
-
-msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr "Leap a Leap Micro jsou naše stabilní distribuce. Co to znamená?"
-
-msgid "Each minor release receive updates for about 24 months"
-msgstr "Každé dílčí vydání dostává aktualizace přibližně po dobu 24 měsíců"
-
-msgid "They have one big release every 12 months"
-msgstr "Mají jedno velké vydání každých 12 měsíců"
-
-msgid "They come with release parties everyone can join 🎉"
-msgstr "Jsou doprovázeny vydávacími večírky, ke kterým se může každý připojit 🎉"
-
-msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr "Vše výše uvedené (a na Leap 16 můžeš zůstat až do roku 2033!)"
-
-msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr "openSUSE má také „neměnné“ edice. Co to znamená?"
-
-msgid "They use a read-only system base and update safely with special tools"
-msgstr "Používají systémový základ pouze pro čtení a bezpečně se aktualizují pomocí speciálních nástrojů"
-
-msgid "They cannot be installed on laptops"
-msgstr "Nelze je nainstalovat na notebooky"
-
-msgid "They are distributions that never change wallpapers"
-msgstr "Jsou to distribuce, které nikdy nemění tapety"
-
-msgid "They come only as DVDs by mail"
-msgstr "Dodávají se pouze na DVD poštou"
-
-msgid "What is Slowroll?"
-msgstr "Co je Slowroll?"
-
-msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr "Varianta Tumbleweedu s aktualizacemi seskupenými do otestovaných dávek"
-
-msgid "A racing game mode in Linux"
-msgstr "Závodní herní mód v Linuxu"
-
-msgid "A distribution that only updates once per decade"
-msgstr "Distribuce, která se aktualizuje jen jednou za desetiletí"
-
-msgid "The mascot’s new nickname"
-msgstr "Nová přezdívka maskota"
-
-msgid "What are some of the key openSUSE community tools and projects?"
-msgstr "Které nástroje a projekty jsou klíčové pro komunitu openSUSE?"
-
-msgid "Open Build Service (OBS) for building software"
-msgstr "Open Build Service (OBS) pro sestavování softwaru"
-
-msgid "openQA for automated testing"
-msgstr "openQA pro automatizované testování"
-
-msgid "The Wiki, Weblate, forums, and more"
-msgstr "Wiki, Weblate, fóra a další"
-
-msgid "All of these are part of openSUSE"
-msgstr "Všechny tyto věci jsou součástí openSUSE"
-
-msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr "Tým, který se stará o infrastrukturu openSUSE, se nazývá openSUSE...?"
-
-msgid "Heroes"
-msgstr "Heroes"
-
-msgid "Avengers"
-msgstr "Avengers"
-
-msgid "Thunderbolts"
-msgstr "Thunderbolts"
-
-msgid "Villains"
-msgstr "Villains"
-
-msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr "Windows 10 již nejsou podporovány. Co můžeš udělat s tím notebookem?"
-
-msgid "Install openSUSE on your laptop"
-msgstr "Nainstaluj openSUSE na svůj notebook"
-
-msgid "Install openSUSE on your friend’s laptop"
-msgstr "Nainstaluj openSUSE na notebook svého kamaráda"
-
-msgid "Install openSUSE on your grandmother’s laptop"
-msgstr "Nainstaluj openSUSE na notebook své babičky"
-
-msgid "All of these are great ideas"
-msgstr "Všechny tyto nápady jsou skvělé"
-
-msgid "A chameleon named Geeko"
-msgstr "Chameleon jménem Geeko"
-
-msgid "A penguin named Tux"
-msgstr "Tučňák jménem Tux"
-
-msgid "A tumbleweed rolling in the desert"
-msgstr "Koule trávy kutálející se pouští"
-
-msgid "A lizard in sunglasses"
-msgstr "Ještěrka v slunečních brýlích"
-
-msgid "Why do people love openSUSE?"
-msgstr "Proč lidé milují openSUSE?"
-
-msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr "Stabilní vydání Leap a rychle se vyvíjející aktualizace Tumbleweed"
-
-msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr "Moderní nástroje jako Agama, Myrlyn, zypper, OBS a openQA"
-
-msgid "A friendly worldwide community that welcomes everyone"
-msgstr "Přátelská celosvětová komunita, která vítá každého"
-
-msgid "All of these together"
-msgstr "Všechny tyto věci dohromady"
-
-msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr "Kde můžeš pomoci překládat openSUSE (a dokonce i tento kvíz)?"
-
-msgid "Weblate at l10n.opensuse.org"
-msgstr "Weblate na l10n.opensuse.org"
-
-msgid "By whispering translations into the chameleon’s ear"
-msgstr "Šeptáním překladů chameleonovi do ucha"
-
-msgid "At Google Translate headquarters in a secret bunker"
-msgstr "V centrále Google Překladače v tajném bunkru"
-
-msgid "By posting translations on random Reddit threads"
-msgstr "Zasíláním překladů do náhodných vláken na Redditu"
-
-msgid "Where can you get help with openSUSE?"
-msgstr "Kde můžeš získat pomoc s openSUSE?"
-
-msgid "Ask your friend who uses Linux"
-msgstr "Zeptej se kamaráda, který používá Linux"
-
-msgid "On many local Linux portals and websites"
-msgstr "Na mnoha místních linuxových portálech a webech"
-
-msgid "Show All"
-msgstr "Zobrazit vše"
-
-msgid "Level Up"
-msgstr "Postup na vyšší úroveň"
-
-msgid "openSUSE Arm"
-msgstr "openSUSE Arm"
-
-msgid "Hardware Enablement journey on Arm."
-msgstr "Cesta podpory hardwaru na platformě Arm."
-
-msgid "What is Arm, in the context of computing?"
-msgstr "Co je Arm v kontextu výpočetní techniky?"
-
-msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr "Rodina energeticky úsporných architektur procesorů široce používaných v mobilních zařízeních, vestavěných systémech a serverech"
-
-msgid "A robotic limb that compiles your code"
-msgstr "Robotická končetina, která kompiluje tvůj kód"
-
-msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr "Zvláštní oddělení SUSE pro přetlačování s chybami jádra"
-
-msgid "A new kind of filesystem invented by Geeko"
-msgstr "Nový typ souborového systému vynalezený Geekem"
-
-msgid "What is the Raspberry Pi 5?"
-msgstr "Co je Raspberry Pi 5?"
-
-msgid "A credit-card-sized computer using Arm architecture"
-msgstr "Počítač velikosti kreditní karty využívající architekturu Arm"
-
-msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr "Dostupný a energeticky úsporný malý počítač, ideální pro děti na prohlížení webu, sledování YouTube, učení programování nebo hraní jednoduchých her"
-
-msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr "Malý, ale výkonný server pro provoz domácího NASu, Home Assistantu, Nextcloudu nebo lokálního openSUSE mirroru"
-
-msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr "Jaký je správný zápis architektury procesoru podporované openSUSE na Raspberry Pi 5?"
-
-msgid "arm"
-msgstr "arm"
-
-msgid "Arm"
-msgstr "Arm"
-
-msgid "ARM!"
-msgstr "ARM!"
-
-msgid "Armmm… not sure"
-msgstr "Armmm… nejsem si jistý"
-
-msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr "Kdo stojí za podporou u-bootu pro Raspberry Pi 5 v upstream jádru Linuxu?"
-
-msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr "Ivan Ivanov a Matthias Brugger z týmu SUSE HW Enablement."
-
-msgid "Eric S. Raymond "
-msgstr "Eric S. Raymond"
-
-msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr "Které edice openSUSE nabízejí speciální obrazy pro Raspberry Pi?"
-
-msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr "Leap, Leap Micro, Tumbleweed a MicroOS"
-
-msgid "Only Tumbleweed, because it never stops rolling"
-msgstr "Pouze Tumbleweed, protože se nikdy nepřestává kutálet"
-
-msgid "Just Leap 42.3 because it’s eternal"
-msgstr "Pouze Leap 42.3, protože je věčný"
-
-msgid "Only MicroOS, everything else melted"
-msgstr "Pouze MicroOS, všechno ostatní roztálo"
-
-msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr "Jaký je preferovaný formát obrazu pro openSUSE na Raspberry Pi?"
-
-msgid "Raw disk image (.raw.xz)"
-msgstr "Surový obraz disku (.raw.xz)"
-
-msgid ".exe installer"
-msgstr ".exe instalátor"
-
-msgid ".iso DVD image with manual soldering required"
-msgstr ".iso obraz DVD vyžadující ruční pájení"
-
-msgid ".tar.gz full of dreams"
-msgstr ".tar.gz plný snů"
-
-msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr "openSUSE může běžet i na mobilních telefonech! Jaké instalační obrazy jsou dostupné pro PinePhone?"
-
-msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr "Tumbleweed s Phosh (pro fanoušky Purismu) a Tumbleweed s Plasma Mobile (pro milovníky KDE)"
-
-msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr "Leap Micro s GNOME Shellem pro ledničky"
-
-msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr "Tumbleweed LXQt Edition pro otočné telefony"
-
-msgid "MicroOS Text Edition with Morse input mode"
-msgstr "MicroOS Text Edition s Morseovským vstupním režimem"
-
-msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr "Kde můžeš najít obrazy openSUSE pro zařízení s Arm, jako jsou Raspberry Pi, PinePhone nebo Pinebook?"
-
-msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr "get.opensuse.org – přívětivý výchozí bod pro nejpoužívanější obrazy openSUSE"
-
-msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr "en.opensuse.org/Portal:Arm – portál Arm s odkazy a dokumentací"
-
-msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr "download.opensuse.org/ports/aarch64/tumbleweed – pro odvážné, kteří rádi procházejí ručně"
-
-msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr "Je openSUSE Tumbleweed Arm sestavován společně s balíčky x86_64?"
-
-msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr "Ne, je sestavován samostatně jako součást openSUSE Ports"
-
-msgid "Yes, it all comes from one magical build server"
-msgstr "Ano, všechno pochází z jednoho magického build serveru"
-
-msgid "Only if the moon is in retrograde"
-msgstr "Pouze když je Měsíc v retrográdní poloze"
-
-msgid "Yes, but it’s compiled by penguins"
-msgstr "Ano, ale kompilují to tučňáci"
-
-msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr "Který příkaz se běžně používá k zápisu obrazu openSUSE na SD kartu?"
-
-msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-
-msgid "sudo print-image-now"
-msgstr "sudo print-image-now"
-
-msgid "cat image > coffee"
-msgstr "cat image > coffee"
-
-msgid "rpm -i image.raw.xz"
-msgstr "rpm -i image.raw.xz"
-
-msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr "Z jakého typu úložiště mohou obrazy openSUSE pro Raspberry Pi bootovat?"
-
-msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr "SD karta, USB nebo NVMe (na Pi 5)"
-
-msgid "Only floppy disks with patience"
-msgstr "Pouze z disket, pokud máš trpělivost"
-
-msgid "Cloud sync via pigeon post"
-msgstr "Cloudová synchronizace pomocí poštovních holubů"
-
-msgid "Tape backup, if you believe hard enough"
-msgstr "Záloha na pásku, pokud dostatečně věříš"
-
-msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr "Jaký je nejlepší způsob, jak zůstat v obraze o vývoji openSUSE Arm?"
-
-msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr "Sleduj mailing list openSUSE Arm a kanál Matrix (podrobnosti níže)"
-
-msgid "Ask ChatGPT for daily firmware leaks"
-msgstr "Požádej ChatGPT o denní úniky firmwaru"
-
-msgid "Consult the stars under a full moon"
-msgstr "Porad se s hvězdami za úplňku"
-
-msgid "Refresh get.opensuse.org until it blinks"
-msgstr "Obnovuj get.opensuse.org, dokud nezačne blikat"
-
-msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr "Pokud vyhraješ Raspberry Pi 5, co na něm můžeš spustit jako první?"
-
-msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr "Začni s openSUSE Tumbleweed pro Arm a objev plnohodnotné linuxové prostředí"
-
-msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr "Nastav si osobní domácí server s Nextcloudem, Home Assistantem nebo vlastním openSUSE mirrorem"
-
-msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr "Vyzkoušej zábavné experimenty jako retro hraní, multimediální centra nebo programování pro děti"
-
+#~ msgid "Show All"
+#~ msgstr "Zobrazit vše"
+
+#~ msgid "Level Up"
+#~ msgstr "Postup na vyšší úroveň"
 
 #~ msgid "Dirk-Peter van Leeuwen"
 #~ msgstr "Dirk-Peter van Leeuwen"
