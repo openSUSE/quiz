@@ -1,17 +1,6 @@
-# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025.
+# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-16 13:03+0000\n"
-"PO-Revision-Date: 2025-11-02 00:04+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-11 06:04+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2237,205 +2226,205 @@ msgid "A white helmet with IBM on it"
 msgstr "IBM ロゴの入った白いヘルメット"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "数値で見る SLES 16"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "数字好きの geeko 向けのクイズです。各数値は FCS の日時である 2025/11/04 11:38 時点です。"
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "SLES 16 のドキュメンテーションが提供されている言語の数は (UI のみの翻訳を除きます) ？"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "42"
 msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "ただ 1 つ、ドイツ語のみ！"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "SLES + SAP 16.0 に対して報告されている機能の数は？ "
 
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 - 機能が見つかりません"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 - これ以上数えられません"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "これらの機能のうち、 16.0 までに解決されたものはどれだけある？"
 
 msgid "798"
-msgstr ""
+msgstr "798"
 
 msgid "789"
-msgstr ""
+msgstr "789"
 
 msgid "123"
-msgstr ""
+msgstr "123"
 
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "SLES 16.0 において、 LTS のサポート期限の年は？"
 
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "永遠 - それは systemd のように永久 (とわ) の存在"
 
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "SLES 16.0 で解決された有効なバグの数はどれだけある？"
 
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0 - なぜなら完璧だから"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "Bugzilla で扱うには多すぎる"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "SLES + SAP 16.0 で現在追跡中の P1 バグはどれだけある？"
 
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1 - まもなく解決されます！"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0 - P1 バグは RC の時点で残ってはならないので！"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "SLES 16.1 の公開が予定されている日は？"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "2026 年 11 月 3 日"
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "2026 年 6 月 16 日"
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "2026 年 7 月 4 日"
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "2026 年 2 月 30 日"
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "SLES 16.0 に対する更新に対応する slfo git ブランチはどれ？"
 
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "src.opensuse.org/pool 内の devel ブランチ"
 
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "SLES 16.0 において、メンテナが割り当てられていない状態で提供されているパッケージの数は？"
 
 msgid "0"
 msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "coldpool 内にある数千のパッケージ"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "全てのパッケージ - なぜならメンテナは過大評価されているので"
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "SLES 16.0 における最新のシステム Python のバージョン (16.3 までは維持される予定) は？"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "SLES 15.0 の時点では Ruby を使用するのは大変でした。さて、 SLES 16.0 における Ruby のバージョンは？"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "SLES 16.0 (GA) に対して、 openQA 内で現在設定されているテストの数は？"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "無し - 本番環境でのテストにのみ依存しています。"
 
 msgid "1999"
 msgstr "1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
-msgstr ""
+msgstr "SLES 16.1 のリリースを主導するリリースマネージャは誰？"
 
 msgid "Radoslav Tsvetkov"
-msgstr ""
+msgstr "Radoslav Tsvetkov"
 
 msgid "Libor Miksik"
-msgstr ""
+msgstr "Libor Miksik"
 
 msgid "Daniela Giri"
-msgstr ""
+msgstr "Daniela Giri"
 
 msgid "Prokop Vlasin"
-msgstr ""
+msgstr "Prokop Vlasin"
 
 msgid "What component managed to survive its own death in SLES 16?"
-msgstr ""
+msgstr "SLES 16 において生き残ったコンポーネントはどれ？"
 
 msgid "Desktop"
-msgstr ""
+msgstr "デスクトップ"
 
 msgid "System Management"
-msgstr ""
+msgstr "システム管理"
 
 msgid "Installer"
-msgstr ""
+msgstr "インストーラ"
 
 msgid "Migration tool"
-msgstr ""
+msgstr "移行ツール"
 
 msgid "SUSE Story"
 msgstr "SUSE ストーリー"
