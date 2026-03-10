@@ -1,17 +1,6 @@
-# David Medina <medipas@gmail.com>, 2025.
+# David Medina <medipas@gmail.com>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-16 13:03+0000\n"
-"PO-Revision-Date: 2025-11-08 17:04+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-11 06:04+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2237,205 +2226,205 @@ msgid "A white helmet with IBM on it"
 msgstr "Un casc blanc amb la marca d'IBM a sobre"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "SLES 16 en xifres"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "Per a tots els friquis a qui els agraden els números. Tots els números es van prendre amb la data de l'FCS: 4 de novembre de 2025 a les 11:38."
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "Quantes llengües hi ha disponibles per a la documentació de l'SLES 16 (sense incloure les traduccions de la interfície d'usuari)?"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "42"
 msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "Només una: l'alemany!"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "Quantes funcions s'han reportat contra SLES + SAP 16.0? "
 
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 – característiques no trobades"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 – n'hem perdut el compte"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "Quantes d'aquestes funcions es van resoldre a la versió 16.0?"
 
 msgid "798"
-msgstr ""
+msgstr "798"
 
 msgid "789"
-msgstr ""
+msgstr "789"
 
 msgid "123"
-msgstr ""
+msgstr "123"
 
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "Quin serà el suport LTS per a l'SLES 16.0?"
 
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "Mai – és etern com el systemd"
 
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "Quants errors vàlids s'han resolt a l'SLES 16.0?"
 
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0, perquè és perfecte"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "Massa per cabre al Bugzilla"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "Quants errors P1 oberts es rastregen actualment per a SLES + SAP 16.0?"
 
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1 – Ja gairebé hi som!"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0, Cap P1 passarà a RC!"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "Quan podem esperar que es publiqui l'SLES 16.1?"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "3 de novembre de 2026"
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "16 de juny de 2026"
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "4 de juliol de 2026"
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "30 de febrer de 2026"
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "Quina branca git de slfo correspon a les actualitzacions de manteniment de l'SLES 16.0?"
 
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "branca de desenvolupament a src.opensuse.org/pool"
 
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "Quants paquets inclosos a l'SLES 16.0 no tenen cap mantenidor assignat?"
 
 msgid "0"
 msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "Milers de paquets a l'aigüera"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "Tots. Els mantenidors estan sobrevalorats."
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "Quina és la versió actual del sistema Python a l'SLES 16.0 (es preveu que es mantingui fins a la versió 16.3)?"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "Ruby va ser un repte difícil a l'SLES 15.0. Quina és la versió de Ruby a l'SLES 16.0?"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "Quantes proves hi ha actualment a openQA per a l'SLES 16.0 (GA)?"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "Cap. Només depenem de les proves de producció."
 
 msgid "1999"
 msgstr "El 1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
-msgstr ""
+msgstr "Qui és el responsable del llançament de l'SLES 16.1?"
 
 msgid "Radoslav Tsvetkov"
-msgstr ""
+msgstr "En Radoslav Tsvetkov"
 
 msgid "Libor Miksik"
-msgstr ""
+msgstr "En Libor Miksik"
 
 msgid "Daniela Giri"
-msgstr ""
+msgstr "Na Daniela Giri"
 
 msgid "Prokop Vlasin"
-msgstr ""
+msgstr "En Prokop Vlasin"
 
 msgid "What component managed to survive its own death in SLES 16?"
-msgstr ""
+msgstr "Quin component ha aconseguit sobreviure a la seva pròpia mort a l'SLES 16?"
 
 msgid "Desktop"
-msgstr ""
+msgstr "L'escriptori"
 
 msgid "System Management"
-msgstr ""
+msgstr "La gestió del sistema"
 
 msgid "Installer"
-msgstr ""
+msgstr "L'instal·lador"
 
 msgid "Migration tool"
-msgstr ""
+msgstr "L'eina de migració"
 
 msgid "SUSE Story"
 msgstr "Història de SUSE"
