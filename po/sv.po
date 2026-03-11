@@ -1,21 +1,9 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Luna  Jernberg <bittin@opensuse.org>, 2025.
+# Luna  Jernberg <bittin@opensuse.org>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-16 13:03+0000\n"
-"PO-Revision-Date: 2025-12-16 15:04+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-12 12:04+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2079,7 +2067,7 @@ msgid "HMC is?"
 msgstr "HMC är?"
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr "Hemma-MC, bara en ny vänligare Midnight Commander"
+msgstr "Hemma mc, bara en ny vänligare Midnight Commander"
 
 msgid "The administration of mainframe machine through web interface"
 msgstr "Administration av stordatorer via webbgränssnitt"
@@ -2241,205 +2229,205 @@ msgid "A white helmet with IBM on it"
 msgstr "En vit hjälm med IBM på den"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "SLES 16 i siffror"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "För alla geekos som gillar siffror. Alla siffror togs på FCS-datumet - 4 november 2025 11:38."
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "Hur många språk finns tillgängliga för SLES 16-dokumentationen (exklusive UI-översättningar)?"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "42"
 msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "Bara ett: tyska!"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "Hur många funktioner har felrapporterats mot SLES + SAP 16.0? "
 
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 - funktioner hittades inte"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 – vi tappade räkningen"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "Hur många av dessa funktioner löstes i 16.0?"
 
 msgid "798"
-msgstr ""
+msgstr "798"
 
 msgid "789"
-msgstr ""
+msgstr "789"
 
 msgid "123"
-msgstr ""
+msgstr "123"
 
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "När går LTS stöd för SLES 16.0 ut?"
 
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "Aldrig – det är evigt som systemd"
 
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "Hur många giltiga buggar åtgärdades i SLES 16.0?"
 
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0, för att det är perfekt"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "För många för att få plats i Bugzilla"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "Hur många öppna P1-buggar spåras för närvarande för SLES + SAP 16.0?"
 
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1- vi är nästan där!"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0, Ingen P1 ska passera RC!"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "När kan vi förvänta oss att SLES 16.1 släpps?"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "3:e November 2026"
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "16:e Juni 2026"
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "4:e Juli 2026"
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "30:e Februari 2026"
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "Vilken slfo git-gren motsvarar underhållsuppdateringar för SLES 16.0?"
 
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "utvecklingsgrenen på src.opensuse.org/pool"
 
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "Hur många paket som skeppas i SLES 16.0 har ingen tilldelad underhållare?"
 
 msgid "0"
 msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "Tusentals paket i coldpool"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "Alla. Underhållare är överskattade"
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "Vilken är den nuvarande systemversionen av Python i SLES 16.0 (förväntas finnas kvar tills 16.3)?"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "Ruby var en tuff utmaning i SLES 15.0. Vilken Ruby-version finns i SLES 16.0?"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "Hur många tester finns för närvarande i openQA för SLES 16.0 (GA)?"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "Inga. Vi förlitar oss enbart på tester i produktion."
 
 msgid "1999"
 msgstr "1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
-msgstr ""
+msgstr "Vem är släpp ansvarig för SLES 16.1?"
 
 msgid "Radoslav Tsvetkov"
-msgstr ""
+msgstr "Radoslav Tsvetkov"
 
 msgid "Libor Miksik"
-msgstr ""
+msgstr "Libor Miksik"
 
 msgid "Daniela Giri"
-msgstr ""
+msgstr "Daniela Giri"
 
 msgid "Prokop Vlasin"
-msgstr ""
+msgstr "Prokop Vlasin"
 
 msgid "What component managed to survive its own death in SLES 16?"
-msgstr ""
+msgstr "Vilken komponent lyckades överleva sin egen död i SLES 16?"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Skrivbordet"
 
 msgid "System Management"
-msgstr ""
+msgstr "Systemhantering"
 
 msgid "Installer"
-msgstr ""
+msgstr "Installationsprogrammet"
 
 msgid "Migration tool"
-msgstr ""
+msgstr "Migreringsverktyg"
 
 msgid "SUSE Story"
 msgstr "SUSE historia"
