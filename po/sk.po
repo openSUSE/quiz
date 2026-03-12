@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-16 13:03+0000\n"
-"PO-Revision-Date: 2026-03-09 15:04+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-13 17:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2239,49 +2228,49 @@ msgid "A white helmet with IBM on it"
 msgstr "Biela prilba s nápisom IBM"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "SLES 16 v číslach"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "Pre všetkých geekov, ktorí majú radi čísla. Všetky čísla boli zaznamenané v deň FCS – 4. novembra 2025 o 11:38."
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "Koľko jazykov je k dispozícii pre dokumentáciu SLES 16 (bez prekladov UI)?"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "42"
 msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "Len jeden: Nemčina!"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "Koľko funkcií bolo nahlásených pre SLES + SAP 16.0? "
 
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 – funkcie neboli nájdené"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 – prestali sme počítať"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "Koľko z týchto funkcií bolo vyriešených v 16.0?"
 
 msgid "798"
-msgstr ""
+msgstr "798"
 
 msgid "789"
-msgstr ""
+msgstr "789"
 
 msgid "123"
-msgstr ""
+msgstr "123"
 
 msgid "666"
 msgstr ""
