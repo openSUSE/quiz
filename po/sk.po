@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-13 17:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-14 18:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2273,64 +2273,64 @@ msgid "123"
 msgstr "123"
 
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "Kedy končí podpora LTS pre SLES 16.0?"
 
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "Nikdy – je to večný systém, rovnako ako systemd"
 
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "Koľko platných chýb bolo odstránených v SLES 16.0?"
 
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0, pretože je perfektný"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "Je ich príliš veľa na to, aby sa zmestili do Bugzilly"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "Koľko otvorených chýb P1 sa v súčasnosti sleduje pre SLES + SAP 16.0?"
 
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1 – už sme skoro tam!"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0, Žiaden P1 nesmie prejsť RC!"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "Kedy môžeme očakávať vydanie SLES 16.1?"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "3. novembra 2026"
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "16. júna 2026"
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "4. júla 2026"
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "30. februára 2026"
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "Ktorá vetva git slfo zodpovedá údržbovým aktualizáciám pre SLES 16.0?"
 
 msgid "slfo-1.2 "
 msgstr ""
