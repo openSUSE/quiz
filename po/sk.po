@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-14 18:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-16 19:04+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.16.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2333,100 +2333,100 @@ msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
 msgstr "Ktorá vetva git slfo zodpovedá údržbovým aktualizáciám pre SLES 16.0?"
 
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "vývojová vetva v src.opensuse.org/pool"
 
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "Koľko dodaných balíkov v SLES 16.0 nemá prideleného správcu?"
 
 msgid "0"
 msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "Tisíce balíkov v coldpool"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "Všetky. Správcovia sú preceňovaní"
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "Aká je aktuálna verzia systému Python v SLES 16.0 (ktorá by mala zostať nezmenená až do 16.3)?"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "Ruby bolo v SLES 15.0 veľkou výzvou. Aká verzia Ruby je v SLES 16.0?"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "Koľko testov je momentálne v openQA pre SLES 16.0 (GA)?"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "Žiadne. Spoliehame sa výlučne na testovanie v produkčnom prostredí."
 
 msgid "1999"
 msgstr "1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
-msgstr ""
+msgstr "Kto je vedúci manažér pre vydanie SLES 16.1?"
 
 msgid "Radoslav Tsvetkov"
-msgstr ""
+msgstr "Radoslav Tsvetkov"
 
 msgid "Libor Miksik"
-msgstr ""
+msgstr "Libor Miksik"
 
 msgid "Daniela Giri"
-msgstr ""
+msgstr "Daniela Giri"
 
 msgid "Prokop Vlasin"
-msgstr ""
+msgstr "Prokop Vlasin"
 
 msgid "What component managed to survive its own death in SLES 16?"
-msgstr ""
+msgstr "Ktorá súčasť dokázala prežiť svoju vlastnú likvidáciu v SLES 16?"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "System Management"
-msgstr ""
+msgstr "Správa systému"
 
 msgid "Installer"
-msgstr ""
+msgstr "Inštalátor"
 
 msgid "Migration tool"
-msgstr ""
+msgstr "Nástroj na migráciu"
 
 msgid "SUSE Story"
 msgstr "Príbeh SUSE"
