@@ -14,7 +14,7 @@
 	    // branding/theme to set (THEME) - defaults to "openSUSE"
 	    "theme": "SUSE",
     },
-    "openalt": {
+    "installfest": {
       "quizzes": [
         "arm",
         "immutability",
