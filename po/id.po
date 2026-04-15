@@ -3,23 +3,11 @@
 # This file is distributed under the same license as the PACKAGE package.
 # "M. Edwin Zakaria" <medwin@opensuse.org>, 2025.
 # Bayu Aji <bajinra@gmail.com>, 2025.
-# Arif Budiman <arifpedia@gmail.com>, 2025.
+# Arif Budiman <arifpedia@gmail.com>, 2025, 2026.
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 # Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-16 13:03+0000\n"
-"PO-Revision-Date: 2025-11-02 00:04+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-04-16 06:04+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2245,205 +2233,205 @@ msgid "A white helmet with IBM on it"
 msgstr "Sebuah helm putih dengan tulisan IBM di atasnya"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "SLES 16 dalam Angka"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "Untuk semua geekos yang menyukai angka. Semua angka diambil pada tanggal FCS - 4 Nov 2025 11:38."
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "Berapa banyak bahasa yang tersedia untuk dokumentasi SLES 16 (tidak termasuk terjemahan UI)?"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "42"
 msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "Hanya satu: Jerman!"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "Berapa banyak fitur yang telah dilaporkan untuk SLES + SAP 16.0? "
 
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 – fitur tidak ditemukan"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 – kami kehilangan hitungan"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "Berapa banyak dari fitur tersebut yang diselesaikan di 16.0?"
 
 msgid "798"
-msgstr ""
+msgstr "798"
 
 msgid "789"
-msgstr ""
+msgstr "789"
 
 msgid "123"
-msgstr ""
+msgstr "123"
 
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "Kapan Dukungan LTS untuk SLES 16.0 berakhir?"
 
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "Tidak pernah – ia abadi seperti systemd"
 
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "Berapa banyak bug valid yang diselesaikan di SLES 16.0?"
 
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0, karena sudah sempurna"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "Terlalu banyak untuk dimuat di Bugzilla"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "Berapa banyak bug P1 terbuka yang saat ini dilacak untuk SLES + SAP 16.0?"
 
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1 – kita hampir sampai!"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0, Tidak ada P1 yang boleh lolos RC!"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "Kapan kita bisa mengharapkan SLES 16.1 dirilis?"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "3 November 2026"
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "16 Juni 2026"
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "4 Juli 2026"
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "30 Februari 2026"
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "Cabang git slfo mana yang sesuai dengan pembaruan pemeliharaan SLES 16.0?"
 
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "cabang devel di src.opensuse.org/pool"
 
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "Berapa banyak paket yang dikirimkan di SLES 16.0 yang tidak memiliki pengelola yang ditugaskan?"
 
 msgid "0"
 msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "Ribuan paket di coldpool"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "Semuanya. Pengelola itu terlalu dilebih-lebihkan"
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "Apa versi Python sistem saat ini di SLES 16.0 (diharapkan bertahan hingga 16.3)?"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "Ruby merupakan tantangan berat di SLES 15.0. Apa versi Ruby di SLES 16.0?"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "Berapa banyak tes yang saat ini ada di openQA untuk SLES 16.0 (GA)?"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "Tidak ada. Kami hanya mengandalkan pengujian di produksi."
 
 msgid "1999"
 msgstr "1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
-msgstr ""
+msgstr "Siapa Release Manager Lead untuk SLES 16.1?"
 
 msgid "Radoslav Tsvetkov"
-msgstr ""
+msgstr "Radoslav Tsvetkov"
 
 msgid "Libor Miksik"
-msgstr ""
+msgstr "Libor Miksik"
 
 msgid "Daniela Giri"
-msgstr ""
+msgstr "Daniela Giri"
 
 msgid "Prokop Vlasin"
-msgstr ""
+msgstr "Prokop Vlasin"
 
 msgid "What component managed to survive its own death in SLES 16?"
-msgstr ""
+msgstr "Komponen apa yang berhasil selamat dari kematiannya sendiri di SLES 16?"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "System Management"
-msgstr ""
+msgstr "Manajemen Sistem"
 
 msgid "Installer"
-msgstr ""
+msgstr "Penginstal"
 
 msgid "Migration tool"
-msgstr ""
+msgstr "Alat migrasi"
 
 msgid "SUSE Story"
 msgstr "Cerita SUSE"
