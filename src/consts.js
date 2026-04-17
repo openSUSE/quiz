@@ -21,10 +21,28 @@ let resolvedStatsFilePath =
   process.env.STATS_FILE_PATH || path.join(projectRoot, "data", "stats.json");
 const STATS_FILE_PATH = resolvedStatsFilePath;
 
-// RESET_TOKEN defaults to "supersecret" if not set in .env or if .env doesn't exist.
-const RESET_TOKEN = envFileExists
-  ? process.env.RESET_TOKEN || ""
-  : "supersecret";
+function generateReadableToken() {
+  const words1 = ["Happy", "Blue", "Fast", "Lucky"];
+  const words2 = ["Horse", "Chicken", "Tiger", "Eagle"];
+  const num = Math.floor(Math.random() * 1000);
+
+  return (
+    words1[Math.floor(Math.random() * words1.length)] +
+    words2[Math.floor(Math.random() * words2.length)] +
+    num
+  );
+}
+let RESET_TOKEN = process.env.RESET_TOKEN;
+
+if (!RESET_TOKEN) {
+  RESET_TOKEN = generateReadableToken();
+
+  console.log("=================================");
+  console.log("⚠️  No RESET_TOKEN provided!");
+  console.log("Generated RESET_TOKEN:", RESET_TOKEN);
+  console.log("Share this token with the operator/admin.");
+  console.log("=================================");
+}
 
 // controls used logo of the quiz
 const THEME = process.env.THEME || "openSUSE";
