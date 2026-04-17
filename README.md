@@ -52,8 +52,8 @@ Make sure to note this token and share it with the operator/admin if reset funct
 
 - `STATS_MODE`: Can be `STATS_FILE` to save statistics to a file or `IN_MEMORY` to keep them in memory (they will be lost on restart). Defaults to `STATS_FILE`.
 - `STATS_FILE_PATH`: The path to the JSON file where statistics will be stored if `STATS_MODE` is `STATS_FILE`. Defaults to `./data/stats.json`.
-- `RESET_TOKEN`: A secret token required to reset the statistics via the `/reset` endpoint.  
-  If not set, the application will automatically generate a human-readable token (e.g., `HappyHorse123`) and print it in the logs.  
+- `RESET_TOKEN`: A secret token required to reset the statistics via the `/reset` endpoint.
+  If not set, the application will automatically generate a human-readable token (e.g., `HappyHorse123`) and print it in the logs.
   Share this token with the operator/admin.
 
 ### Using npm 📦
