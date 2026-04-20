@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-16 13:03+0000\n"
+"POT-Creation-Date: 2026-03-31 16:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -210,6 +210,192 @@ msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own
 msgstr ""
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
+msgstr ""
+
+msgid "Cockpit System Management"
+msgstr ""
+
+msgid "Discover Cockpit, one click at a time."
+msgstr ""
+
+msgid "What is Cockpit?"
+msgstr ""
+
+msgid "The secret place where SUSE Developers live"
+msgstr ""
+
+msgid "A flight simulator for Linux"
+msgstr ""
+
+msgid "The new installer for openSUSE Tumbleweed and Leap"
+msgstr ""
+
+msgid "A web based system management utility for SUSE Linux"
+msgstr ""
+
+msgid "How do you usually access the Cockpit interface?"
+msgstr ""
+
+msgid "Via a special VR headset provided by SUSE"
+msgstr ""
+
+msgid "Through email"
+msgstr ""
+
+msgid "From the shell, or through ssh"
+msgstr ""
+
+msgid "Through a webbrowser, port 9090"
+msgstr ""
+
+msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
+msgstr ""
+
+msgid "The Horoscope Section"
+msgstr ""
+
+msgid "The Canteen Menu"
+msgstr ""
+
+msgid "The Overview Tab, under System"
+msgstr ""
+
+msgid "The Complaints Department (take a number)"
+msgstr ""
+
+msgid "What happens if you use the Terminal Tab?"
+msgstr ""
+
+msgid "You'll get a Linux command line prompt in your browser"
+msgstr ""
+
+msgid "It opens a chat room with other SUSE Linux users"
+msgstr ""
+
+msgid "You can play Tetris"
+msgstr ""
+
+msgid "It shows DON'T PANIC, in large friendly letters"
+msgstr ""
+
+msgid "Your server is running out of space, where do you go to manage disks?"
+msgstr ""
+
+msgid "The Backpack Tab"
+msgstr ""
+
+msgid "The Attic Tab"
+msgstr ""
+
+msgid "The Storage Tab"
+msgstr ""
+
+msgid "The Closet Tab"
+msgstr ""
+
+msgid "Who can directly log into Cockpit?"
+msgstr ""
+
+msgid "All regular users on the system"
+msgstr ""
+
+msgid "Only root is allowed for system management"
+msgstr ""
+
+msgid "The dedicated Cockpit user"
+msgstr ""
+
+msgid "Everyone in the Cockpit group"
+msgstr ""
+
+msgid "Can Cockpit be extended, can I customize it?"
+msgstr ""
+
+msgid "The starter-kit from the upstream project provides a fully featured template"
+msgstr ""
+
+msgid "It's written in JavaScript and well understood by coding agents"
+msgstr ""
+
+msgid "It can be properly packaged in the SUSE Build Service"
+msgstr ""
+
+msgid "All of the answers"
+msgstr ""
+
+msgid "Which of the features are included?"
+msgstr ""
+
+msgid "VM managment, Network config, Firewall"
+msgstr ""
+
+msgid "Container management, User and groups management, SELinux troubleshoot"
+msgstr ""
+
+msgid "Update and Repository management, systemd services management"
+msgstr ""
+
+msgid "All of them"
+msgstr ""
+
+msgid "Does Cockpit replace the command line?"
+msgstr ""
+
+msgid "It includes every feature that exists in your shell"
+msgstr ""
+
+msgid "With speech-to-text along with AI Cockpit even replaces itself"
+msgstr ""
+
+msgid "No, it's a companion that works alongside the command line"
+msgstr ""
+
+msgid "Cockpit and command line are mutually exclusive"
+msgstr ""
+
+msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
+msgstr ""
+
+msgid "Zero-factor authentication"
+msgstr ""
+
+msgid "One-factor authentication"
+msgstr ""
+
+msgid "Two-factor authentication"
+msgstr ""
+
+msgid "Three-factor authentication"
+msgstr ""
+
+msgid "I don't need this too often, why would I permenently run a web service in the background?"
+msgstr ""
+
+msgid "Cockpit is started through a systemd socket and only on demand"
+msgstr ""
+
+msgid "Web services do not use any resources nowadays"
+msgstr ""
+
+msgid "The firewall blocks it from using CPU and RAM"
+msgstr ""
+
+msgid "The combination of C, Python and JavaScript makes it so lightweight"
+msgstr ""
+
+msgid "Bsides English, which languages does it support?"
+msgstr ""
+
+msgid "Español, Deutsch, Svenska"
+msgstr ""
+
+msgid "中文（中国）, English, Česky"
+msgstr ""
+
+msgid "All of them, and many more"
+msgstr ""
+
+msgid "日本語, Português Français"
 msgstr ""
 
 msgid "Immutability"
@@ -2613,9 +2799,6 @@ msgid "5"
 msgstr ""
 
 msgid "10"
-msgstr ""
-
-msgid "All of them"
 msgstr ""
 
 msgid "How many SUSE engineers are actively working on OpenSSL?"
