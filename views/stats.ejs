@@ -54,9 +54,8 @@
         </div>
         <h2 class="quiz-main-subtitle"><%= t("Leaderboard") %></h2>
       </div>
-      <%
-        const instanceValue = (INSTANCE || "").trim();
-        const quizHost = instanceValue ? `${instanceValue}.quiz.opensuse.org` : "quiz.opensuse.org";
+      <% const instanceValue = (INSTANCE || "").trim();
+        const quizHost = instanceValue ? `${instanceValue}.quiz.opensuse.org` : "susecon.quiz.opensuse.org";
         const quizUrl = `https://${quizHost}/?lang=${encodeURIComponent(lang)}`;
         const qrCodeUrl = `/qr?url=${encodeURIComponent(quizUrl)}&size=700`;
 
