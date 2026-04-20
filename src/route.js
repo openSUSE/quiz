@@ -1,6 +1,8 @@
 const express = require("express");
 const path = require("path");
 const fs = require("fs");
+const crypto = require("crypto");
+const QRCode = require("qrcode");
 const consts = require("./consts");
 const PO_DIR = path.join(consts.DATA_DIR_BASEPATH, "..", "po");
 const {
@@ -12,6 +14,51 @@ const availableLanguages = getAvailableLanguages(PO_DIR);
 
 const themeConfig = require("./config/theme.json");
 const theme = themeConfig[consts.THEME];
+
+const qrBufferCache = new Map();
+const QR_CACHE_TTL_MS = 10 * 60 * 1000;
+const QR_CACHE_MAX_ITEMS = 64;
+
+function cleanupQrCache() {
+  const now = Date.now();
+  for (const [key, entry] of qrBufferCache.entries()) {
+    if (now - entry.createdAt > QR_CACHE_TTL_MS) {
+      qrBufferCache.delete(key);
+    }
+  }
+
+  while (qrBufferCache.size > QR_CACHE_MAX_ITEMS) {
+    const firstKey = qrBufferCache.keys().next().value;
+    qrBufferCache.delete(firstKey);
+  }
+}
+
+async function getCachedQrBuffer(url, size) {
+  cleanupQrCache();
+  const cacheKey = crypto
+    .createHash("sha256")
+    .update(`${size}:${url}`)
+    .digest("hex");
+  const cached = qrBufferCache.get(cacheKey);
+
+  if (cached) {
+    return cached.buffer;
+  }
+
+  const buffer = await QRCode.toBuffer(url, {
+    type: "png",
+    width: size,
+    margin: 2,
+    errorCorrectionLevel: "M",
+  });
+
+  qrBufferCache.set(cacheKey, {
+    buffer,
+    createdAt: Date.now(),
+  });
+
+  return buffer;
+}
 
 module.exports = (dependencies) => {
   const router = express.Router();
@@ -90,12 +137,35 @@ module.exports = (dependencies) => {
     });
   });
 
+  router.get("/qr", async (req, res) => {
+    const rawUrl = String(req.query.url || "").trim();
+    const requestedSize = Number(req.query.size);
+    const size =
+      Number.isFinite(requestedSize) && requestedSize >= 128 && requestedSize <= 2048
+        ? Math.floor(requestedSize)
+        : 700;
+
+    if (!rawUrl || !/^https?:\/\//i.test(rawUrl)) {
+      return res.status(400).send("Invalid URL");
+    }
+
+    try {
+      const qrPng = await getCachedQrBuffer(rawUrl, size);
+      res.set("Content-Type", "image/png");
+      res.set("Cache-Control", "public, max-age=300");
+      return res.send(qrPng);
+    } catch (error) {
+      return res.status(500).send("Failed to generate QR code");
+    }
+  });
+
   router.get("/stats", async (req, res) => {
     const lang = req.query.lang || "en";
     await loadTranslations(lang);
     res.render("stats", {
       results,
       lang,
+      INSTANCE: consts.INSTANCE,
       availableLanguages,
       THEME_IMAGE: theme.IMAGE,
       THEME_TITLE: theme.TITLE,
