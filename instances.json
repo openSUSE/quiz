@@ -17,8 +17,8 @@
     "susecon": {
       "quizzes": [
         "arm",
-	"cockpit",
-	"immutability",
+		"cockpit",
+		"immutability",
         "kernel",
         "kids",
         "opensuse_intro",
@@ -42,8 +42,8 @@
     },
     "university": {
 	    "quizzes": [
-		    "suse",
-        "opensuse_intro",
+			"suse",
+        	"opensuse_intro",
 	    ],
 	    "theme": "SUSE",
     },
