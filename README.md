@@ -34,15 +34,27 @@ It is based on the example [nodejs-quiz-app-l5hig](https://codesandbox.io/p/sand
 
 Before running the application, you can configure it using a `.env` file in the root of the project. Create a `.env` file by copying the example:
 
+
 ```bash
 cp .env.example .env
 ```
 
 Then, edit the `.env` file to set your desired configuration:
 
+### 🔐 Reset Token Behavior
+
+If `RESET_TOKEN` is not provided, the application will:
+
+- Generate a random human-readable token (e.g., `HappyHorse123`)
+- Print it in the console logs at startup
+
+Make sure to note this token and share it with the operator/admin if reset functionality is needed.
+
 - `STATS_MODE`: Can be `STATS_FILE` to save statistics to a file or `IN_MEMORY` to keep them in memory (they will be lost on restart). Defaults to `STATS_FILE`.
 - `STATS_FILE_PATH`: The path to the JSON file where statistics will be stored if `STATS_MODE` is `STATS_FILE`. Defaults to `./data/stats.json`.
-- `RESET_TOKEN`: A secret token required to reset the statistics via the `/reset` endpoint. If not set, the reset functionality will be disabled.
+- `RESET_TOKEN`: A secret token required to reset the statistics via the `/reset` endpoint.
+  If not set, the application will automatically generate a human-readable token (e.g., `HappyHorse123`) and print it in the logs.
+  Share this token with the operator/admin.
 
 ### Using npm 📦
 
@@ -70,7 +82,7 @@ Then, edit the `.env` file to set your desired configuration:
    To override the default port (3000) or reset token: 🔑
 
    ```bash
-   RESET_TOKEN=supersecret PORT=4000 npm start
+   PORT=4000 npm start
    ```
 
 5. Visit [http://localhost:3000](http://localhost:3000) (or your specified port) in your browser. 🌐
@@ -135,7 +147,7 @@ This will generate the `public/styles.css` file.
    To override the default port (3000) or reset token (ensure your start script or application handles these environment variables): 🔑
 
    ```bash
-   RESET_TOKEN=supersecret PORT=4000 bun start
+  PORT=4000 bun start
    ```
 
 5. Visit [http://localhost:3000](http://localhost:3000) (or your specified port) in your browser. 🌐
@@ -150,7 +162,7 @@ distrobox enter quiz
 git clone https://github.com/openSUSE/quiz.git
 cd quiz
 npm install
-npm start # For port overriding: RESET_TOKEN=supersecret PORT=4000 npm start
+npm start # For port overriding: PORT=4000 npm start
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser. 🌐
@@ -169,7 +181,7 @@ docker build -t opensuse-quiz .
 Then, run the container: ▶️
 
 ```bash
-docker run -p 3000:3000 -e RESET_TOKEN=supersecret -e PORT=3000 opensuse-quiz
+docker run -p 3000:3000 -e PORT=3000 opensuse-quiz
 ```
 
 You can change the `RESET_TOKEN` and `PORT` environment variables as needed. ⚙️
@@ -187,7 +199,7 @@ At an agreed time, we call out winners in one of two ways: 🏆
 
 1. Based on [http://localhost:3000/stats](http://localhost:3000/stats)
 2. Go to [http://localhost:3000/bingo](http://localhost:3000/bingo) and pick three winners 🎰
-3. Visit [http://localhost:3000/reset?token=supersecret](http://localhost:3000/reset?token=supersecret) or restart the service to reset stats. 🔄
+3. Visit [http://localhost:3000/reset?token=YOUR_TOKEN](http://localhost:3000/reset?token=YOUR_TOKEN) or restart the service to reset stats. 🔄
 
 ## Contributing 📝
 
@@ -289,7 +301,7 @@ git push
 ## 🦎 Test data
 
 Copy our stats.json.sample In case you need quickly some test data.
-Please avoid pushing changes to public/stats.json. We have it in .gitignore for a reson. 💚
+Please avoid pushing changes to public/stats.json. We have it in .gitignore for a reason. 💚
 
 ```bash
 cd quiz

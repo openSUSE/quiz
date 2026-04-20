@@ -24,7 +24,7 @@ EXPOSE 3000
 
 # Define environment variables (optional, can be set at runtime)
 # ENV PORT=3000
-# ENV RESET_TOKEN=supersecret
+
 
 # Run the app when the container launches
 CMD [ "npm", "start" ]
