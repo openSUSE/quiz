@@ -11,7 +11,7 @@
     <link href="/styles.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <div class="main-page-container">
+    <div class="main-page-container stats-page-container">
       <div class="top-bar-container">
         <div class="user-controls-block">
           <div class="selector-group">
@@ -54,10 +54,11 @@
         </div>
         <h2 class="quiz-main-subtitle"><%= t("Leaderboard") %></h2>
       </div>
-      <% if (Object.keys(results).length === 0) { %>
-        <p><%= t("No users found") %></p>
-      <% } else { %>
-      <%
+      <% const instanceValue = (INSTANCE || "").trim();
+        const quizHost = instanceValue ? `${instanceValue}.quiz.opensuse.org` : "susecon.quiz.opensuse.org";
+        const quizUrl = `https://${quizHost}/?lang=${encodeURIComponent(lang)}`;
+        const qrCodeUrl = `/qr?url=${encodeURIComponent(quizUrl)}&size=700`;
+
         function computeUserStats(data) {
           const WRONG_PENALTY = 0.25;
           let totalCorrect = 0;
@@ -107,28 +108,77 @@
 
         // Sort by total points descending, then by username
         leaderboard.sort((a, b) => b.score - a.score || a.user.localeCompare(b.user));
+
+        const totalPlayers = leaderboard.length;
+        const totalCorrectAnswers = leaderboard.reduce((sum, row) => sum + row.totalCorrect, 0);
+        const averageScore = totalPlayers
+          ? leaderboard.reduce((sum, row) => sum + row.score, 0) / totalPlayers
+          : 0;
       %>
-      <table class="results">
-        <thead>
-        <tr>
-          <th><%= t("Nickname") %></th>
-          <th><%= t("Correct") %></th>
-          <th><%= t("Wrong") %></th>
-          <th><%= t("Score") %></th> <!-- New column -->
-        </tr>
-        </thead>
-  <tbody>
-  <% leaderboard.forEach(({ user, totalCorrect, wrong, score }) => { %>
-    <tr>
-      <td style="width: 200px;"><%= user %></td>
-      <td style="width: 100px; text-align: center;"><%= totalCorrect %></td>
-      <td style="width: 100px; text-align: center;"><%= wrong %></td>
-      <td style="width: 100px; text-align: center;"><%= score.toFixed(2) %></td>
-    </tr>
-  <% }); %>
-  </tbody>
-</table>
-      <% } %>
+
+      <div class="stats-dashboard">
+        <aside class="stats-qr-card">
+          <h3 class="stats-qr-title"><%= t("Scan to play") %></h3>
+          <p class="stats-qr-description"><%= t("Join the quiz instantly from your phone") %></p>
+          <a class="stats-qr-link" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer">
+            <img
+              class="stats-qr-image"
+              src="<%= qrCodeUrl %>"
+              alt="<%= t("QR code linking to quiz") %>"
+              loading="eager"
+            >
+          </a>
+          <p class="stats-qr-host"><%= quizHost %></p>
+          <a class="stats-qr-url" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer"><%= quizUrl %></a>
+          <a class="stats-qr-open-link" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer">
+            <%= t("Open quiz link") %>
+          </a>
+        </aside>
+
+        <section class="stats-leaderboard-panel">
+          <div class="stats-summary-grid">
+            <div class="stats-summary-card">
+              <span class="stats-summary-label"><%= t("Players") %></span>
+              <strong class="stats-summary-value"><%= totalPlayers %></strong>
+            </div>
+            <div class="stats-summary-card">
+              <span class="stats-summary-label"><%= t("Correct answers") %></span>
+              <strong class="stats-summary-value"><%= totalCorrectAnswers %></strong>
+            </div>
+            <div class="stats-summary-card">
+              <span class="stats-summary-label"><%= t("Average score") %></span>
+              <strong class="stats-summary-value"><%= averageScore.toFixed(2) %></strong>
+            </div>
+          </div>
+
+          <% if (leaderboard.length === 0) { %>
+            <p class="stats-empty-state"><%= t("No users found") %></p>
+          <% } else { %>
+            <div class="stats-table-wrap">
+              <table class="results">
+                <thead>
+                  <tr>
+                    <th><%= t("Nickname") %></th>
+                    <th><%= t("Correct") %></th>
+                    <th><%= t("Wrong") %></th>
+                    <th><%= t("Score") %></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <% leaderboard.forEach(({ user, totalCorrect, wrong, score }) => { %>
+                    <tr>
+                      <td style="width: 200px;"><%= user %></td>
+                      <td style="width: 100px; text-align: center;"><%= totalCorrect %></td>
+                      <td style="width: 100px; text-align: center;"><%= wrong %></td>
+                      <td style="width: 100px; text-align: center;"><%= score.toFixed(2) %></td>
+                    </tr>
+                  <% }); %>
+                </tbody>
+              </table>
+            </div>
+          <% } %>
+        </section>
+      </div>
 
       <script>
         document.addEventListener("DOMContentLoaded", function () {

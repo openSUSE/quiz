@@ -29,6 +29,9 @@ const RESET_TOKEN = envFileExists
 // controls used logo of the quiz
 const THEME = process.env.THEME || "openSUSE";
 
+// optional instance name used for booth-specific URLs
+const INSTANCE = process.env.INSTANCE || "";
+
 const ENABLED_QUIZZES = process.env.QUIZZES
   ? process.env.QUIZZES.split(",")
   : [];
@@ -52,4 +55,5 @@ module.exports = {
   USERNAME_POLICY,
   ENABLED_QUIZZES,
   THEME,
+  INSTANCE,
 };
