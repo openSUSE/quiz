@@ -141,7 +141,9 @@ module.exports = (dependencies) => {
     const rawUrl = String(req.query.url || "").trim();
     const requestedSize = Number(req.query.size);
     const size =
-      Number.isFinite(requestedSize) && requestedSize >= 128 && requestedSize <= 2048
+      Number.isFinite(requestedSize) &&
+      requestedSize >= 128 &&
+      requestedSize <= 2048
         ? Math.floor(requestedSize)
         : 700;
 
