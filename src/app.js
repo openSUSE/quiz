@@ -54,7 +54,10 @@ let winnerCallTime = null;
 function loadWinnerCallTimeFromFile() {
   if (fs.existsSync(consts.WINNER_CALL_TIME_FILE_PATH)) {
     try {
-      const fileContent = fs.readFileSync(consts.WINNER_CALL_TIME_FILE_PATH, "utf-8");
+      const fileContent = fs.readFileSync(
+        consts.WINNER_CALL_TIME_FILE_PATH,
+        "utf-8"
+      );
       const data = JSON.parse(fileContent);
       winnerCallTime = data.time || null;
     } catch (error) {
@@ -69,7 +72,11 @@ function loadWinnerCallTimeFromFile() {
 function saveWinnerCallTimeToFile() {
   fs.writeFileSync(
     consts.WINNER_CALL_TIME_FILE_PATH,
-    JSON.stringify({ time: winnerCallTime, updatedAt: new Date().toISOString() }, null, 2),
+    JSON.stringify(
+      { time: winnerCallTime, updatedAt: new Date().toISOString() },
+      null,
+      2
+    ),
     "utf-8"
   );
 }

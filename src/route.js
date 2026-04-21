@@ -255,9 +255,7 @@ module.exports = (dependencies) => {
 
   // API endpoint to get winner call time
   router.get("/api/winner-call-time", (req, res) => {
-    const {
-      getWinnerCallTime,
-    } = dependencies;
+    const { getWinnerCallTime } = dependencies;
     res.json({ time: getWinnerCallTime() });
   });
 
