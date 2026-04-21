@@ -44,15 +44,28 @@
           </div>
         </div> <!-- End of user-controls-block -->
       </div>
-      <div class="quiz-main-header">
-        <div class="opensuse-quiz-logo-header">
-          <img src="<%= THEME_IMAGE %>" alt="<%= THEME_TITLE %>" class="opensuse-quiz-logo-header__image">
-          <div class="opensuse-quiz-logo-header__text-block">
-            <span class="opensuse-quiz-logo-header__text--opensuse"><%= THEME_TITLE %></span>
-            <span class="opensuse-quiz-logo-header__text--quiz" style="color:<%= THEME_COLOR %>;">QU1Z!</span>
+      <div class="quiz-main-header <%= winnerCallTime ? 'quiz-main-header--with-clock' : '' %>">
+        <% if (winnerCallTime) { %>
+          <section class="stats-qr-card stats-clock-card stats-clock-card--header">
+            <h3 class="stats-qr-title"><%= t("Winner Call Time") %></h3>
+            <p class="stats-qr-description"><%= t("Be physically at the booth when winners are called out") %></p>
+            <div class="stats-clock-face-wrap">
+              <canvas id="analog-clock" class="stats-clock-canvas" width="320" height="320"></canvas>
+            </div>
+            <p class="stats-qr-host stats-clock-digital-time"><%= winnerCallTime %></p>
+            <p class="stats-clock-note"><%= t("Calling out winners on-site only") %></p>
+          </section>
+        <% } %>
+        <div class="stats-title-block">
+          <div class="opensuse-quiz-logo-header">
+            <img src="<%= THEME_IMAGE %>" alt="<%= THEME_TITLE %>" class="opensuse-quiz-logo-header__image">
+            <div class="opensuse-quiz-logo-header__text-block">
+              <span class="opensuse-quiz-logo-header__text--opensuse"><%= THEME_TITLE %></span>
+              <span id="quiz-logo-accent" class="opensuse-quiz-logo-header__text--quiz" data-theme-color="<%= THEME_COLOR %>">QU1Z!</span>
+            </div>
           </div>
+          <h2 class="quiz-main-subtitle"><%= t("Leaderboard") %></h2>
         </div>
-        <h2 class="quiz-main-subtitle"><%= t("Leaderboard") %></h2>
       </div>
       <% const instanceValue = (INSTANCE || "").trim();
         const quizHost = instanceValue ? `${instanceValue}.quiz.opensuse.org` : "susecon.quiz.opensuse.org";
@@ -110,29 +123,30 @@
         leaderboard.sort((a, b) => b.score - a.score || a.user.localeCompare(b.user));
 
         const totalPlayers = leaderboard.length;
-        const totalCorrectAnswers = leaderboard.reduce((sum, row) => sum + row.totalCorrect, 0);
+        const topScore = totalPlayers ? leaderboard[0].score : 0;
         const averageScore = totalPlayers
           ? leaderboard.reduce((sum, row) => sum + row.score, 0) / totalPlayers
           : 0;
       %>
 
       <div class="stats-dashboard">
-        <aside class="stats-qr-card">
-          <h3 class="stats-qr-title"><%= t("Scan to play") %></h3>
-          <p class="stats-qr-description"><%= t("Join the quiz instantly from your phone") %></p>
-          <a class="stats-qr-link" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer">
-            <img
-              class="stats-qr-image"
-              src="<%= qrCodeUrl %>"
-              alt="<%= t("QR code linking to quiz") %>"
-              loading="eager"
-            >
-          </a>
-          <p class="stats-qr-host"><%= quizHost %></p>
-          <a class="stats-qr-url" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer"><%= quizUrl %></a>
-          <a class="stats-qr-open-link" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer">
-            <%= t("Open quiz link") %>
-          </a>
+        <aside class="stats-sidebar">
+          <section class="stats-qr-card">
+            <h3 class="stats-qr-title"><%= t("Scan to play") %></h3>
+            <p class="stats-qr-description"><%= t("Join the quiz instantly from your phone") %></p>
+            <div class="stats-qr-link">
+              <img
+                class="stats-qr-image"
+                src="<%= qrCodeUrl %>"
+                alt="<%= t("QR code linking to quiz") %>"
+                loading="eager"
+              >
+            </div>
+            <a class="stats-qr-host" href="<%= quizUrl %>" target="_blank" rel="noopener noreferrer">
+              <%= quizHost %>
+            </a>
+          </section>
+
         </aside>
 
         <section class="stats-leaderboard-panel">
@@ -142,8 +156,8 @@
               <strong class="stats-summary-value"><%= totalPlayers %></strong>
             </div>
             <div class="stats-summary-card">
-              <span class="stats-summary-label"><%= t("Correct answers") %></span>
-              <strong class="stats-summary-value"><%= totalCorrectAnswers %></strong>
+              <span class="stats-summary-label"><%= t("Top score to beat") %></span>
+              <strong class="stats-summary-value"><%= topScore.toFixed(2) %></strong>
             </div>
             <div class="stats-summary-card">
               <span class="stats-summary-label"><%= t("Average score") %></span>
@@ -181,7 +195,89 @@
       </div>
 
       <script>
+        // Function to draw analog clock
+        function drawAnalogClock(timeString) {
+          const canvas = document.getElementById('analog-clock');
+          if (!canvas) return;
+
+          const ctx = canvas.getContext('2d');
+          const centerX = canvas.width / 2;
+          const centerY = canvas.height / 2;
+          const radius = Math.min(centerX, centerY) - 5;
+
+          // Parse time string (HH:MM)
+          const [hours, minutes] = timeString.split(':').map(Number);
+
+          // Clear canvas
+          ctx.fillStyle = 'white';
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+          // Draw circle
+          ctx.strokeStyle = '#333';
+          ctx.lineWidth = 2;
+          ctx.beginPath();
+          ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI);
+          ctx.stroke();
+
+          // Draw hour markers
+          ctx.fillStyle = '#333';
+          ctx.font = '10px Arial';
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+
+          for (let i = 1; i <= 12; i++) {
+            const angle = (i - 3) * (Math.PI / 6);
+            const x = centerX + (radius - 15) * Math.cos(angle);
+            const y = centerY + (radius - 15) * Math.sin(angle);
+            ctx.fillText(i, x, y);
+          }
+
+          // Draw hour hand
+          const hour12 = hours % 12;
+          const hourAngle = (hour12 + minutes / 60 - 3) * (Math.PI / 6);
+          const hourHandLength = radius * 0.5;
+          ctx.strokeStyle = '#333';
+          ctx.lineWidth = 4;
+          ctx.beginPath();
+          ctx.moveTo(centerX, centerY);
+          ctx.lineTo(
+            centerX + hourHandLength * Math.cos(hourAngle),
+            centerY + hourHandLength * Math.sin(hourAngle)
+          );
+          ctx.stroke();
+
+          // Draw minute hand
+          const minuteAngle = (minutes - 15) * (Math.PI / 30);
+          const minuteHandLength = radius * 0.7;
+          ctx.strokeStyle = '#666';
+          ctx.lineWidth = 3;
+          ctx.beginPath();
+          ctx.moveTo(centerX, centerY);
+          ctx.lineTo(
+            centerX + minuteHandLength * Math.cos(minuteAngle),
+            centerY + minuteHandLength * Math.sin(minuteAngle)
+          );
+          ctx.stroke();
+
+          // Draw center dot
+          ctx.fillStyle = '#333';
+          ctx.beginPath();
+          ctx.arc(centerX, centerY, 5, 0, 2 * Math.PI);
+          ctx.fill();
+        }
+
         document.addEventListener("DOMContentLoaded", function () {
+          const logoAccent = document.getElementById("quiz-logo-accent");
+          if (logoAccent) {
+            logoAccent.style.color = logoAccent.dataset.themeColor;
+          }
+
+          // Draw clock if time is set
+          const winnerCallTime = '<%= winnerCallTime %>';
+          if (winnerCallTime) {
+            drawAnalogClock(winnerCallTime);
+          }
+
           const icons = ["🥇", "🥈", "🥉"];
           const rows = document.querySelectorAll(".results tbody tr");
 
@@ -222,6 +318,15 @@
     <p>
       <a href="https://github.com/openSUSE/quiz">Source Code</a> |
       <a href="https://github.com/openSUSE/quiz/blob/main/LICENSE">LICENSE</a>
+    </p>
+    <p>
+      <a
+        href="/admin?lang=<%= lang %>"
+        title="Admin"
+        style="opacity:0.35; font-size:0.75em; letter-spacing:0.04em; text-decoration:none;"
+      >
+        admin
+      </a>
     </p>
   </footer>
   </body>

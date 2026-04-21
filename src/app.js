@@ -47,6 +47,36 @@ function clearResults() {
   }
 }
 
+// Initialize winner call time
+let winnerCallTime = null;
+
+// Function to load winner call time from file
+function loadWinnerCallTimeFromFile() {
+  if (fs.existsSync(consts.WINNER_CALL_TIME_FILE_PATH)) {
+    try {
+      const fileContent = fs.readFileSync(consts.WINNER_CALL_TIME_FILE_PATH, "utf-8");
+      const data = JSON.parse(fileContent);
+      winnerCallTime = data.time || null;
+    } catch (error) {
+      console.error("Error loading winner call time:", error);
+      winnerCallTime = null;
+    }
+  } else {
+    winnerCallTime = null;
+  }
+}
+
+function saveWinnerCallTimeToFile() {
+  fs.writeFileSync(
+    consts.WINNER_CALL_TIME_FILE_PATH,
+    JSON.stringify({ time: winnerCallTime, updatedAt: new Date().toISOString() }, null, 2),
+    "utf-8"
+  );
+}
+
+// Load winner call time
+loadWinnerCallTimeFromFile();
+
 // Load results based on STATS_MODE
 if (consts.STATS_MODE === "STATS_FILE") {
   loadResultsFromFile();
@@ -106,6 +136,13 @@ const router = routes({
   clearResults,
   saveResultsToFile:
     consts.STATS_MODE === "STATS_FILE" ? saveResultsToFile : () => {},
+  winnerCallTime,
+  saveWinnerCallTimeToFile,
+  getWinnerCallTime: () => winnerCallTime,
+  setWinnerCallTime: (time) => {
+    winnerCallTime = time;
+    saveWinnerCallTimeToFile();
+  },
 });
 
 app.use("/", router);

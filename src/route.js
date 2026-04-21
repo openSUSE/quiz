@@ -164,6 +164,7 @@ module.exports = (dependencies) => {
   router.get("/stats", async (req, res) => {
     const lang = req.query.lang || "en";
     await loadTranslations(lang);
+    const { getWinnerCallTime } = dependencies;
     res.render("stats", {
       results,
       lang,
@@ -172,6 +173,7 @@ module.exports = (dependencies) => {
       THEME_IMAGE: theme.IMAGE,
       THEME_TITLE: theme.TITLE,
       THEME_COLOR: theme.PRIMARY_COLOR,
+      winnerCallTime: getWinnerCallTime(),
       t: (text) => gt.gettext(text),
     });
   });
@@ -249,6 +251,48 @@ module.exports = (dependencies) => {
 
     saveResultsToFile();
     res.redirect(`/stats?lang=${lang}`);
+  });
+
+  // API endpoint to get winner call time
+  router.get("/api/winner-call-time", (req, res) => {
+    const {
+      getWinnerCallTime,
+    } = dependencies;
+    res.json({ time: getWinnerCallTime() });
+  });
+
+  // API endpoint to set winner call time (requires token)
+  router.post("/api/winner-call-time", (req, res) => {
+    if (req.query.token !== RESET_TOKEN) {
+      return res.status(403).json({ error: "Forbidden: Invalid token" });
+    }
+
+    const { setWinnerCallTime } = dependencies;
+    const { time } = req.body;
+
+    if (typeof time !== "string" || !/^\d{2}:\d{2}$/.test(time)) {
+      return res.status(400).json({ error: "Invalid time format. Use HH:MM" });
+    }
+
+    setWinnerCallTime(time);
+    res.json({ success: true, time });
+  });
+
+  // Admin page for setting winner call time
+  router.get("/admin", async (req, res) => {
+    const lang = req.query.lang || "en";
+    await loadTranslations(lang);
+
+    const { getWinnerCallTime } = dependencies;
+    res.render("admin", {
+      lang,
+      availableLanguages,
+      THEME_IMAGE: theme.IMAGE,
+      THEME_TITLE: theme.TITLE,
+      THEME_COLOR: theme.PRIMARY_COLOR,
+      t: (text) => gt.gettext(text),
+      currentTime: getWinnerCallTime(),
+    });
   });
 
   return router;
