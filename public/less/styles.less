@@ -655,3 +655,127 @@ td {
 }
 
 @import "containers.less";
+
+/* LOCKED: stats top layout override (keep in LESS source) */
+.stats-page-container .quiz-main-header {
+  margin-bottom: 12px;
+}
+
+.stats-page-container .quiz-main-header--with-clock {
+  display: grid;
+  grid-template-columns: minmax(300px, 380px) minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.stats-page-container .quiz-main-header--with-clock > .stats-clock-card--header {
+  width: min(100%, 380px) !important;
+  max-width: 380px !important;
+  justify-self: start;
+  align-self: start;
+  position: static !important;
+  top: auto !important;
+}
+
+.stats-page-container .stats-title-block {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.stats-page-container .stats-title-block .quiz-main-subtitle {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.stats-page-container .opensuse-quiz-logo-header {
+  gap: 28px;
+  margin-bottom: 14px;
+}
+
+.stats-page-container .opensuse-quiz-logo-header__image {
+  height: clamp(220px, 26vw, 380px);
+  margin-right: 0;
+  flex-shrink: 0;
+}
+
+.stats-page-container .opensuse-quiz-logo-header__text--opensuse {
+  font-size: clamp(3.6em, 5vw, 5.4em);
+}
+
+.stats-page-container .opensuse-quiz-logo-header__text--quiz {
+  font-size: clamp(3.9em, 5.4vw, 5.8em);
+}
+
+.stats-page-container .stats-clock-face-wrap {
+  width: 100%;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #ffffff;
+  border: 1px solid fade(@opensuse-blue, 12%);
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+  box-sizing: border-box;
+}
+
+.stats-page-container .stats-clock-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.stats-page-container .stats-clock-digital-time {
+  margin-top: 12px;
+  margin-bottom: 6px;
+  font-size: 1.8em;
+  line-height: 1.1;
+  letter-spacing: 0.03em;
+  font-weight: 800;
+}
+
+.stats-page-container .stats-clock-note {
+  margin: 0;
+  text-align: center;
+  color: #2a5f57;
+  font-size: 0.92em;
+}
+
+@media (max-width: 760px) {
+  .stats-page-container .quiz-main-header--with-clock {
+    grid-template-columns: 1fr;
+  }
+
+  .stats-page-container .quiz-main-header--with-clock > .stats-clock-card--header {
+    width: min(100%, 340px) !important;
+    max-width: 340px !important;
+    margin: 0 auto;
+  }
+
+  .stats-page-container .opensuse-quiz-logo-header__image {
+    height: clamp(150px, 38vw, 240px);
+  }
+
+  .stats-page-container .opensuse-quiz-logo-header__text--opensuse {
+    font-size: clamp(2.7em, 8vw, 4em);
+  }
+
+  .stats-page-container .opensuse-quiz-logo-header__text--quiz {
+    font-size: clamp(3em, 8.7vw, 4.3em);
+  }
+
+  .stats-page-container .stats-clock-digital-time {
+    font-size: 1.55em;
+  }
+}
+
+@media (max-width: 640px) {
+  .stats-page-container .stats-clock-digital-time {
+    font-size: 1.35em;
+  }
+}

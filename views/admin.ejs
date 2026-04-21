@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Admin - Quiz App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700&display=swap" rel="stylesheet">
+    <link href="/styles.css" rel="stylesheet" type="text/css" />
+    <style>
+      .admin-page-container {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background-color: #f5f5f5;
+        border-radius: 8px;
+      }
+
+      .admin-header {
+        margin-bottom: 2rem;
+      }
+
+      .admin-form {
+        background-color: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .form-group {
+        margin-bottom: 1.5rem;
+      }
+
+      .form-group label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+        color: #333;
+      }
+
+      .form-group input,
+      .form-group textarea {
+        width: 100%;
+        padding: 0.75rem;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        font-size: 1rem;
+        box-sizing: border-box;
+      }
+
+      .form-group textarea {
+        min-height: 100px;
+        resize: vertical;
+        font-family: monospace;
+      }
+
+      .form-actions {
+        display: flex;
+        gap: 1rem;
+        justify-content: flex-end;
+      }
+
+      .admin-btn {
+        padding: 0.75rem 1.5rem;
+        border: none;
+        border-radius: 4px;
+        font-size: 1rem;
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      .admin-btn-primary {
+        background-color: #30b44b;
+        color: white;
+      }
+
+      .admin-btn-primary:hover {
+        background-color: #258c3f;
+      }
+
+      .admin-btn-secondary {
+        background-color: #f0f0f0;
+        color: #333;
+        border: 1px solid #ddd;
+      }
+
+      .admin-btn-secondary:hover {
+        background-color: #e0e0e0;
+      }
+
+      .admin-btn-danger {
+        background-color: #c62828;
+        color: white;
+      }
+
+      .admin-btn-danger:hover {
+        background-color: #a61f1f;
+      }
+
+      .message {
+        margin-bottom: 1rem;
+        padding: 1rem;
+        border-radius: 4px;
+      }
+
+      .message.success {
+        background-color: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+      }
+
+      .message.error {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+      }
+
+      .info-box {
+        background-color: #e7f3ff;
+        border: 1px solid #b3d9ff;
+        padding: 1rem;
+        border-radius: 4px;
+        margin-bottom: 2rem;
+        color: #004085;
+        font-size: 0.9rem;
+      }
+
+      .time-input {
+        font-family: monospace;
+        font-size: 1.2rem;
+        text-align: center;
+      }
+
+      .admin-danger-zone {
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #e0e0e0;
+      }
+
+      .admin-danger-zone h2 {
+        margin: 0 0 0.5rem;
+        color: #8b1e1e;
+      }
+
+      .admin-danger-zone p {
+        margin: 0 0 1rem;
+        color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="admin-page-container">
+      <div class="admin-header">
+        <h1><%= t("Admin Panel") %></h1>
+        <p><%= t("Set the winner call time for the booth") %></p>
+      </div>
+
+      <div class="admin-form">
+        <div class="info-box">
+          <strong><%= t("Note") %>:</strong> <%= t("This time will be displayed on the stats page as an analog clock. It indicates when winners will be called at the physical booth.") %>
+        </div>
+
+        <div id="message-container"></div>
+
+        <form id="winner-time-form">
+          <div class="form-group">
+            <label for="admin-token"><%= t("Admin Token") %></label>
+            <textarea id="admin-token" name="token" placeholder='<%= t("Paste your admin token here") %>' required></textarea>
+          </div>
+
+          <div class="form-group">
+            <label for="winner-time"><%= t("Winner Call Time") %></label>
+            <input
+              type="time"
+              id="winner-time"
+              name="time"
+              class="time-input"
+              <%= currentTime ? `value="${currentTime}"` : '' %>
+              required
+            >
+            <small><%= t("Use HH:MM format (24-hour clock)") %></small>
+          </div>
+
+          <div class="form-actions">
+            <a href="/stats?lang=<%= lang %>" style="text-decoration: none;">
+              <button type="button" class="admin-btn admin-btn-secondary">
+                <%= t("Back to Stats") %>
+              </button>
+            </a>
+            <button type="submit" class="admin-btn admin-btn-primary">
+              <%= t("Set Time") %>
+            </button>
+          </div>
+        </form>
+
+        <section class="admin-danger-zone">
+          <h2><%= t("Reset Leaderboard") %></h2>
+          <p><%= t("Clears all quiz results immediately. Participants need to be present physically at the booth when winners are called out.") %></p>
+          <button type="button" id="reset-results-btn" class="admin-btn admin-btn-danger">
+            <%= t("Reset Results") %>
+          </button>
+        </section>
+      </div>
+    </div>
+
+    <script>
+      const messageContainer = document.getElementById('message-container');
+      const tokenInput = document.getElementById('admin-token');
+
+      document.getElementById('winner-time-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const token = tokenInput.value.trim();
+        const timeInput = document.getElementById('winner-time').value;
+
+        if (!token) {
+          showMessage('<%= t("Admin token is required") %>', 'error', messageContainer);
+          return;
+        }
+
+        if (!timeInput) {
+          showMessage('<%= t("Winner call time is required") %>', 'error', messageContainer);
+          return;
+        }
+
+        try {
+          const response = await fetch('/api/winner-call-time?token=' + encodeURIComponent(token), {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ time: timeInput }),
+          });
+
+          const data = await response.json();
+
+          if (!response.ok) {
+            showMessage(data.error || '<%= t("Failed to set winner call time") %>', 'error', messageContainer);
+            return;
+          }
+
+          showMessage('<%= t("Winner call time updated successfully!") %>', 'success', messageContainer);
+          tokenInput.value = '';
+
+          // Refresh the page after 2 seconds
+          setTimeout(() => {
+            window.location.reload();
+          }, 2000);
+        } catch (error) {
+          showMessage('<%= t("An error occurred") %>: ' + error.message, 'error', messageContainer);
+        }
+      });
+
+      document.getElementById('reset-results-btn').addEventListener('click', () => {
+        const token = tokenInput.value.trim();
+
+        if (!token) {
+          showMessage('<%= t("Admin token is required") %>', 'error', messageContainer);
+          return;
+        }
+
+        const confirmed = window.confirm('<%= t("Reset all leaderboard results? This cannot be undone.") %>');
+        if (!confirmed) {
+          return;
+        }
+
+        window.location.href = '/reset?token=' + encodeURIComponent(token) + '&lang=' + encodeURIComponent('<%= lang %>');
+      });
+
+      function showMessage(message, type, container) {
+        container.innerHTML = `<div class="message ${type}">${message}</div>`;
+        container.scrollIntoView({ behavior: 'smooth' });
+      }
+    </script>
+  </body>
+</html>

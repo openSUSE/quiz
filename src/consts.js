@@ -21,6 +21,11 @@ let resolvedStatsFilePath =
   process.env.STATS_FILE_PATH || path.join(projectRoot, "data", "stats.json");
 const STATS_FILE_PATH = resolvedStatsFilePath;
 
+// File path for storing winner call time
+const WINNER_CALL_TIME_FILE_PATH =
+  process.env.WINNER_CALL_TIME_FILE_PATH ||
+  path.join(projectRoot, "data", "winner_call_time.json");
+
 // RESET_TOKEN defaults to "supersecret" if not set in .env or if .env doesn't exist.
 const RESET_TOKEN = envFileExists
   ? process.env.RESET_TOKEN || ""
@@ -52,6 +57,7 @@ module.exports = {
   RESET_TOKEN,
   STATS_MODE,
   STATS_FILE_PATH,
+  WINNER_CALL_TIME_FILE_PATH,
   USERNAME_POLICY,
   ENABLED_QUIZZES,
   THEME,
