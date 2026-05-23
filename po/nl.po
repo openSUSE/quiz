@@ -1,7 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025, 2026.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-03-11 06:04+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2025-11-16 13:03+0000\nPO-Revision-Date: 2026-05-24 12:12+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -112,67 +112,67 @@ msgid "Tumbleweed LXQt Edition for rotary phones"
 msgstr "Tumbleweed LXQt-editie voor draaischijftelefoons"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "MicroOS Teksteditie met morse-invoermodus"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Waar kunt u openSUSE-images voor Arm apparaten vinden, zoals Raspberry Pi, PinePhone of Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – het vriendelijke startpunt voor de meest gebruikte openSUSE images"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm –het Arm-portaal met koppelingen en documentatie"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – voor de brave personen die van handmatig bladeren houden"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "Wordt openSUSE Tumbleweed Arm samen met x86_64 pakketten gebouwd?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "Nee, het wordt apart gebouwd als onderdeel van openSUSE Ports"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Ja, het komt allemaal van één magische bouwserver"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Alleen wanneer de maan aan het afnemen is"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Ja, maar het wordt door pinguïns gecompileerd"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Welk commando wordt gewoonlijk gebruikt om de openSUSE image naar een SD-kaart te schrijven?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Vanaf welk type opslag kan openSUSE Raspberry Pi images opstarten?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD-kaart, USB of NVMe (op Pi 5)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Alleen floppy disks met geduld"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Cloud sync via duivenpost"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "Tape backup, als u hard genoeg geloofd"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Wat is de beste manier om bijgewerkt te blijven op openSUSE Arm ontwikkeling?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
 msgstr ""
