@@ -42,8 +42,11 @@
         </div>
       </div>
       <div class="controls-container bottom-controls">
-        <form class="submit-form-bottom" action="/submit" method="POST">
-          <input id="username" name="username" type="text" placeholder="<%= uiStrings.usernamePrompt %>"/>
+        <form class="submit-form-bottom" style="position: relative;" action="/submit" method="POST">
+          <input id="username" style="margin-bottom: 35px;" name="username" type="text" placeholder="<%= uiStrings.usernamePrompt %>"/>
+           <p id="username-error" class="error-message" style="display:none;">
+             Username must be at least 4 characters long
+            </p>
           <input id="correct-bottom-hidden" name="correct" type="hidden"/>
           <input id="total-bottom-hidden" name="total" type="hidden"/>
           <button class="start-btn"><%= uiStrings.startButton %></button>
@@ -65,6 +68,30 @@
       // then we can still reference uiStrings.variable in server-rendered HTML
       // stringify is still required for javascript references
       const uiStrings = <%- JSON.stringify(uiStrings) %>;
+
+      // Username validation
+      const usernameInput = document.getElementById('username');
+const errorMsg = document.getElementById('username-error');
+
+usernameInput.addEventListener('input', () => {
+  const username = usernameInput.value.trim();
+
+  if (username.length >= 0 && username.length <= 3) {
+    usernameInput.style.border = '1px solid red';
+    errorMsg.style = `
+    position: absolute;
+    top: 43px;
+    border: none;
+    color: red;
+  font-size: 0.9rem;
+  margin-top: 4px;
+    `;
+  } else {
+    usernameInput.style.border = '1px solid green';
+    errorMsg.style.color = 'green';
+  }
+});
+
 
     </script>
     <script src="./quizRenderer.js"></script>
