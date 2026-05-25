@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 16:52+0200\n"
-"PO-Revision-Date: 2026-03-11 06:04+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-26 04:12+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -209,190 +198,190 @@ msgid "Try fun experiments like retro gaming, media centers, or coding projects 
 msgstr "古いゲームやメディアセンター、子供向けのコーディングプロジェクトなどの楽しい実験をやってみる"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Cockpit システム管理"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Cockpit について 1 つずつ学んでいきましょう。"
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Cockpit とは何？"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "SUSE の開発者が生活している秘密の場所"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Linux 向けのフライトシミュレータ"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "openSUSE Tumbleweed および Leap 向けの新しいインストーラ"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "SUSE Linux 向けの Web ベースのシステム管理ユーティリティ"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Cockpit のインターフェイスにアクセスする際の通常手段は？"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "SUSE 社が提供する特別な VR ヘッドセットを介して"
 
 msgid "Through email"
-msgstr ""
+msgstr "電子メールを介して"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "シェルまたは ssh を介して"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "Web ブラウザ (ポート 9090) を介して"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "お使いの SUSE サーバで CPU やメモリの使用率グラフを見るには、どこを見れば良い？"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "ホロスコープセクション"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "食堂のメニュー"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "システム内の概要タブ"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "苦情処理部門 (番号札を取る必要があります)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "端末タブを選択すると、何が起こる？"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "ブラウザ内に Linux のコマンドラインプロンプトが現れる"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "他の SUSE Linux ユーザとの間で利用できるチャットルームが表示される"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "テトリスで遊べる"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "「パニックにならないで」と、大きく親しみやすい字で表示される"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "サーバのディスク容量を管理するには、どこに行けばよい？"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "バックパックのタブ"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "屋根裏のタブ"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "ストレージのタブ"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "クローゼットのタブ"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Cockpit に直接ログインできるユーザは誰？"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "システム内の一般ユーザ全員"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "システム管理を行う場合は root のみ"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "Cockpit 専用に作成したユーザ"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "Cockpit グループに所属する全員"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Cockpit は拡張可能な構造です。カスタマイズするにはどうすればよい？"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr ""
+msgstr "アップストリームプロジェクトが提供するスターターキットで、完全機能のテンプレートを提供しています"
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr ""
+msgstr "JavaScript で記述されていて、コーディング担当者に分かりやすい仕組みです"
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr ""
+msgstr "SUSE Build Service 内で適切にパッケージを作成できます"
 
 msgid "All of the answers"
-msgstr ""
+msgstr "これら全て"
 
 msgid "Which of the features are included?"
-msgstr ""
+msgstr "標準で提供されている機能はどれ？"
 
 msgid "VM managment, Network config, Firewall"
-msgstr ""
+msgstr "仮想マシンの管理／ネットワークやファイアウオールの設定"
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr ""
+msgstr "コンテナ・ユーザ・グループの管理／SELinux のトラブルシューティング"
 
 msgid "Update and Repository management, systemd services management"
-msgstr ""
+msgstr "パッケージ更新とリポジトリの管理／systemd サービスの管理"
 
 msgid "All of them"
 msgstr "これら全て"
 
 msgid "Does Cockpit replace the command line?"
-msgstr ""
+msgstr "Cockpit はコマンドラインを置き換えるものですか？"
 
 msgid "It includes every feature that exists in your shell"
-msgstr ""
+msgstr "シェルで利用できる機能が全て用意されています"
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr ""
+msgstr "音声認識機能と AI Cockpit の組み合わせで置き換えができます"
 
 msgid "No, it's a companion that works alongside the command line"
-msgstr ""
+msgstr "いいえ、コマンドラインと連携して動作する補助ツールです"
 
 msgid "Cockpit and command line are mutually exclusive"
-msgstr ""
+msgstr "Cockpit とコマンドラインは相互に排他関係にあります"
 
 msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
-msgstr ""
+msgstr "Web ベースだとするとセキュリティが心配です。 Cockpit が提供する追加の機能はどれ？"
 
 msgid "Zero-factor authentication"
-msgstr ""
+msgstr "ゼロ要素認証"
 
 msgid "One-factor authentication"
-msgstr ""
+msgstr "一要素認証"
 
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "二要素認証"
 
 msgid "Three-factor authentication"
-msgstr ""
+msgstr "三要素認証"
 
 msgid "I don't need this too often, why would I permenently run a web service in the background?"
-msgstr ""
+msgstr "それほど頻繁には使用しないのですが、それでも裏でサービスとして動作させるのは何故？"
 
 msgid "Cockpit is started through a systemd socket and only on demand"
-msgstr ""
+msgstr "Cockpit は systemd のソケットを介して、必要に応じて起動されるからです"
 
 msgid "Web services do not use any resources nowadays"
-msgstr ""
+msgstr "現在のWeb サービスではリソースを必要としなくなっているためです"
 
 msgid "The firewall blocks it from using CPU and RAM"
-msgstr ""
+msgstr "ファイアウオールで CPU と メモリを浪費しないようにしているためです"
 
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
-msgstr ""
+msgstr "C 言語, Python, JavaScript の組み合わせにより、とても軽量になっているからです"
 
 msgid "Bsides English, which languages does it support?"
-msgstr ""
+msgstr "英語以外に対応している言語はどれ？"
 
 msgid "Español, Deutsch, Svenska"
-msgstr ""
+msgstr "スペイン語／ドイツ語／スウェーデン語"
 
 msgid "中文（中国）, English, Česky"
-msgstr ""
+msgstr "中国語／英語／チェコ語"
 
 msgid "All of them, and many more"
-msgstr ""
+msgstr "これら全てだけでなく、さらに多くの言語"
 
 msgid "日本語, Português Français"
-msgstr ""
+msgstr "日本語／ポルトガル語／フランス語"
 
 msgid "Immutability"
 msgstr "不変性"
