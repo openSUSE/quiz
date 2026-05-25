@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 16:52+0200\n"
-"PO-Revision-Date: 2026-03-16 19:04+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-26 04:13+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -211,37 +200,37 @@ msgid "Try fun experiments like retro gaming, media centers, or coding projects 
 msgstr "Vyskúšate zábavné experimenty, ako sú retro hry, mediálne centrá alebo kódovanie projektov pre deti"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Správa systému Cockpit"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Objavte Cockpit, jedným kliknutím za druhým."
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Čo je Cockpit?"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "Tajné miesto, kde žijú vývojári SUSE"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Letecký simulátor pre Linux"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "Nový inštalátor pre openSUSE Tumbleweed a Leap"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "Webový nástroj na správu systému pre SUSE Linux"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Ako zvyčajne pristupujete do rozhrania Cockpit?"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "Cez špeciálnu náhlavnú súpravu pre VR od SUSE"
 
 msgid "Through email"
-msgstr ""
+msgstr "Cez e-mail"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "Pomocou nástroja shell alebo cez ssh"
 
 msgid "Through a webbrowser, port 9090"
 msgstr ""
