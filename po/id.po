@@ -7,19 +7,7 @@
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 # Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 16:52+0200\n"
-"PO-Revision-Date: 2026-04-16 06:04+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-26 04:12+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -217,190 +205,190 @@ msgid "Try fun experiments like retro gaming, media centers, or coding projects 
 msgstr "Coba eksperimen seru seperti bermain game retro, pusat media, atau proyek pemrograman untuk anak-anak"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Manajemen Sistem Cockpit"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Temukan Cockpit, satu klik demi satu klik."
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Apa itu Cockpit?"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "Tempat rahasia tempat para pengembang SUSE tinggal"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Simulator penerbangan untuk Linux"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "Pemasang baru untuk openSUSE Tumbleweed dan Leap"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "Utilitas manajemen sistem berbasis web untuk SUSE Linux"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Bagaimana Anda biasanya mengakses antarmuka Cockpit?"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "Melalui headset VR khusus yang disediakan oleh SUSE"
 
 msgid "Through email"
-msgstr ""
+msgstr "Melalui email"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "Dari shell, atau melalui ssh"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "Melalui peramban web, port 9090"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "Jika server SUSE Anda sedang bermasalah, lokasi mana yang memungkinkan Anda melihat grafik penggunaan CPU dan Memori?"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "Bagian Horoskop"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "Menu Kantin"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "Tab Ikhtisar, di bawah Sistem"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "Bagian Pengaduan (ambil nomor antrean)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "Apa yang terjadi jika Anda menggunakan Tab Terminal?"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "Anda akan mendapatkan prompt baris perintah Linux di peramban Anda"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "Itu membuka ruang obrolan dengan pengguna SUSE Linux lainnya"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "Anda bisa bermain Tetris"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "Itu menampilkan TIDAK PERLU PANIK, dalam huruf besar yang ramah"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "Server Anda kehabisan ruang, ke mana Anda pergi untuk mengelola disk?"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "Tab Ransel"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "Tab Loteng"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "Tab Penyimpanan"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "Tab Lemari"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Siapa yang dapat masuk langsung ke Cockpit?"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "Semua pengguna reguler di sistem"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "Hanya root yang diizinkan untuk manajemen sistem"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "Pengguna Cockpit khusus"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "Semua orang dalam grup Cockpit"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Apakah Cockpit dapat diperluas, apakah saya bisa menyesuaikannya?"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr ""
+msgstr "Starter kit dari proyek hulu menyediakan templat yang sepenuhnya lengkap"
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr ""
+msgstr "Itu ditulis dalam JavaScript dan dipahami dengan baik oleh agen kode"
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr ""
+msgstr "Itu dapat dikemas dengan baik di SUSE Build Service"
 
 msgid "All of the answers"
-msgstr ""
+msgstr "Semua jawaban benar"
 
 msgid "Which of the features are included?"
-msgstr ""
+msgstr "Fitur apa saja yang disertakan?"
 
 msgid "VM managment, Network config, Firewall"
-msgstr ""
+msgstr "Manajemen VM, konfigurasi jaringan, firewall"
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr ""
+msgstr "Manajemen kontainer, manajemen pengguna dan grup, pemecahan masalah SELinux"
 
 msgid "Update and Repository management, systemd services management"
-msgstr ""
+msgstr "Manajemen pembaruan dan repositori, manajemen layanan systemd"
 
 msgid "All of them"
 msgstr "Semua dari mereka"
 
 msgid "Does Cockpit replace the command line?"
-msgstr ""
+msgstr "Apakah Cockpit menggantikan baris perintah?"
 
 msgid "It includes every feature that exists in your shell"
-msgstr ""
+msgstr "Itu mencakup setiap fitur yang ada di shell Anda"
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr ""
+msgstr "Dengan teks-ke-ucap bersama AI, Cockpit bahkan menggantikan dirinya sendiri"
 
 msgid "No, it's a companion that works alongside the command line"
-msgstr ""
+msgstr "Tidak, ini adalah pendamping yang bekerja bersama baris perintah"
 
 msgid "Cockpit and command line are mutually exclusive"
-msgstr ""
+msgstr "Cockpit dan baris perintah saling eksklusif"
 
 msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
-msgstr ""
+msgstr "Anda bilang berbasis web, saya khawatir tentang keamanan. Langkah tambahan apa yang diterapkan Cockpit?"
 
 msgid "Zero-factor authentication"
-msgstr ""
+msgstr "Otentikasi nol faktor"
 
 msgid "One-factor authentication"
-msgstr ""
+msgstr "Otentikasi satu faktor"
 
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "Otentikasi dua faktor"
 
 msgid "Three-factor authentication"
-msgstr ""
+msgstr "Otentikasi tiga faktor"
 
 msgid "I don't need this too often, why would I permenently run a web service in the background?"
-msgstr ""
+msgstr "Saya tidak terlalu sering membutuhkannya, mengapa saya harus menjalankan layanan web secara permanen di latar belakang?"
 
 msgid "Cockpit is started through a systemd socket and only on demand"
-msgstr ""
+msgstr "Cockpit dijalankan melalui socket systemd dan hanya aktif saat dibutuhkan"
 
 msgid "Web services do not use any resources nowadays"
-msgstr ""
+msgstr "Layanan web tidak menggunakan sumber daya apa pun saat ini"
 
 msgid "The firewall blocks it from using CPU and RAM"
-msgstr ""
+msgstr "Firewall memblokirnya dari penggunaan CPU dan RAM"
 
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
-msgstr ""
+msgstr "Kombinasi C, Python, dan JavaScript membuatnya sangat ringan"
 
 msgid "Bsides English, which languages does it support?"
-msgstr ""
+msgstr "Selain bahasa Inggris, bahasa apa yang didukung?"
 
 msgid "Español, Deutsch, Svenska"
-msgstr ""
+msgstr "Español, Deutsch, Svenska"
 
 msgid "中文（中国）, English, Česky"
-msgstr ""
+msgstr "中文（中国）, English, Česky"
 
 msgid "All of them, and many more"
-msgstr ""
+msgstr "Semua bahasa tersebut, dan banyak lagi"
 
 msgid "日本語, Português Français"
-msgstr ""
+msgstr "日本語, Português Français"
 
 msgid "Immutability"
 msgstr "Imutabilitas"
