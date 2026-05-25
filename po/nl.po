@@ -1,18 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025, 2026.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 16:52+0200\n"
-"PO-Revision-Date: 2026-05-24 12:12+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-26 04:12+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -186,97 +175,97 @@ msgid "What’s the best way to stay updated on openSUSE Arm development?"
 msgstr "Wat is de beste manier om bijgewerkt te blijven op openSUSE Arm ontwikkeling?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Volg de openSUSE Arm e-maillijst en het Matrix-kanaal (details hieronder)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Vraag ChatGPT voor dagelijkse firmware lekken"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Consulteer de sterren bij een volle maan"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "Hernieuw get.opensuse.org totdat het knippert"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Als u deze Raspberry Pi 5 wint wat zou u er eerst op doen?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Start met openSUSE Tumbleweed voor Arm en ontdek een volledige Linux bureabladervaring"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Zet een persoonlijke thuisserver op met Nextcloud, Home Assistant of uw eigen openSUSE mirror"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Probeer leuke experimenten zoals retro-games, mediacenters of programmeerprojecten voor kinderen"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Cockpit Systeembeheer"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Ontdek Cockpit, één klik tegelijk."
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Wat is Cockpit?"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "De geheime plek waar de ontwikkelaars van SUSE verblijven"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Een vluchtsimulator voor Linux"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "Het nieuwe installatieprogramma voor openSUSE Tumbleweed en Leap"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "Een op het web gebaseerd hulpsysteem voor systeembeheer voor SUSE Linux"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Hoe hebt u gewoonlijk toegang tot het Cockpit-interface?"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "Via een speciale VR-headset geleverd door SUSE"
 
 msgid "Through email"
-msgstr ""
+msgstr "Via e-mail"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "Vanuit de shell of via ssh"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "Via een webbrowser, port 9090"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "Als uw SUSE-server niet goed functioneert, waar kunt u dan grafieken van het CPU- en geheugengebruik bekijken?"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "De sectie Horoscoop"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "Het menu in de kantine"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "Het tabblad Overzicht, onder Systeem"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "De afdeling Klachten (neem een nummer)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "Wat gebeurt er als u het tabblad Terminal gebruikt?"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "U krijgt een prompt voor een Linux-opdrachtregel in uw browser"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "Het opent een chatroom met andere SUSE Linux gebruikers"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "U kunt Tetris spelen"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "Het toont GEEN PANIEK, in grote vriendelijke letters"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "Uw server heeft geen ruimte meer, waar gaat u naartoe om schijven te beheren?"
 
 msgid "The Backpack Tab"
 msgstr ""
