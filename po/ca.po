@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 16:52+0200\n"
-"PO-Revision-Date: 2026-03-11 06:04+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-27 08:12+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -209,190 +198,190 @@ msgid "Try fun experiments like retro gaming, media centers, or coding projects 
 msgstr "Provar experiments divertits com ara jocs retro, centres multimèdia o projectes de codificació per a la canalla"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Gestió del sistema de Cockpit"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Descobriu el Cockpit, clic a clic."
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Què és el Cockpit?"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "El lloc secret on viuen els desenvolupadors de SUSE"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Un simulador de vol per a Linux"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "El nou instal·lador per a openSUSE Tumbleweed i Leap"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "Una utilitat de gestió de sistemes basada en web per a SUSE Linux"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Com s'accedeix normalment a la interfície de Cockpit?"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "Mitjançant unes ulleres de realitat virtual especials proporcionades per SUSE"
 
 msgid "Through email"
-msgstr ""
+msgstr "A través del correu electrònic"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "Des de l'intèrpret o mitjançant ssh"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "A través d'un navegador web, al port 9090"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "Si el servidor SUSE no funciona bé, quina ubicació us permet veure els gràfics d'ús de la CPU i la memòria?"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "La secció de l'horòscop"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "El menú de la cantina"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "La pestanya Visió general, a Sistema"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "El Departament de Queixes (agafeu un número)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "Què passa si feu servir la pestanya del Terminal?"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "Rebreu una pantalla de línia d'ordres de Linux al navegador"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "Obre una sala de xat amb altres usuaris de SUSE Linux"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "Podreu jugar al Tetris"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "Mostra NO ENTRIS EN PÀNIC, en lletres grans i amables"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "El vostre servidor es queda sense espai. On aneu per gestionar els discos?"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "La pestanya de la motxilla"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "La pestanya de les golfes"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "La pestanya d'emmagatzematge"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "La pestanya de l'armari"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Qui pot iniciar sessió directament a Cockpit?"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "Tots els usuaris habituals del sistema"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "Només l'usuari d'arrel està permès per a la gestió del sistema"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "L'usuari dedicat al Cockpit"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "Tothom al grup de Cockpit"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Es pot ampliar el Cockpit, es pot personalitzar?"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr ""
+msgstr "El joc d'inici del projecte original proporciona una plantilla amb totes les funcions"
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr ""
+msgstr "Està escrit en JavaScript i els agents de codificació l'entenen bé"
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr ""
+msgstr "Es pot empaquetar correctament al servei de compilació de SUSE"
 
 msgid "All of the answers"
-msgstr ""
+msgstr "Totes les respostes"
 
 msgid "Which of the features are included?"
-msgstr ""
+msgstr "Quines de les característiques s'hi inclouen?"
 
 msgid "VM managment, Network config, Firewall"
-msgstr ""
+msgstr "Gestió de màquines virtuals, configuració de xarxa, tallafoc"
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr ""
+msgstr "Gestió de contenidors, gestió d'usuaris i grups, resolució de problemes de SELinux"
 
 msgid "Update and Repository management, systemd services management"
-msgstr ""
+msgstr "Gestió d'actualitzacions i repositoris, gestió de serveis de systemd"
 
 msgid "All of them"
 msgstr "Tots"
 
 msgid "Does Cockpit replace the command line?"
-msgstr ""
+msgstr "Cockpit substitueix la línia d'ordres?"
 
 msgid "It includes every feature that exists in your shell"
-msgstr ""
+msgstr "Inclou totes les funcions que existeixen a l'intèrpret"
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr ""
+msgstr "Amb la conversió de veu a text juntament amb IA de Cockpit, fins i tot se substitueix per si mateix"
 
 msgid "No, it's a companion that works alongside the command line"
-msgstr ""
+msgstr "No, és un complement que funciona juntament amb la línia d'ordres"
 
 msgid "Cockpit and command line are mutually exclusive"
-msgstr ""
+msgstr "Cockpit i la línia d'ordres són mútuament excloents"
 
 msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
-msgstr ""
+msgstr "Basat en web, dius. Doncs me'n preocupa la seguretat. Quines mesures addicionals implementa Cockpit?"
 
 msgid "Zero-factor authentication"
-msgstr ""
+msgstr "Autenticació de factor zero"
 
 msgid "One-factor authentication"
-msgstr ""
+msgstr "Autenticació d'un sol factor"
 
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "Autenticació de dos factors"
 
 msgid "Three-factor authentication"
-msgstr ""
+msgstr "Autenticació de tres factors"
 
 msgid "I don't need this too often, why would I permenently run a web service in the background?"
-msgstr ""
+msgstr "No em cal gaire sovint. Per què hauria d'executar permanentment un servei web en segon pla?"
 
 msgid "Cockpit is started through a systemd socket and only on demand"
-msgstr ""
+msgstr "Cockpit s'inicia a través d'un sòcol systemd i només sota demanda"
 
 msgid "Web services do not use any resources nowadays"
-msgstr ""
+msgstr "Els serveis web no usen cap recurs avui dia"
 
 msgid "The firewall blocks it from using CPU and RAM"
-msgstr ""
+msgstr "El tallafoc impedeix que usi la CPU i la RAM"
 
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
-msgstr ""
+msgstr "La combinació de C, Python i JavaScript el fa tan lleuger"
 
 msgid "Bsides English, which languages does it support?"
-msgstr ""
+msgstr "A més de l'anglès, quines llengües admet?"
 
 msgid "Español, Deutsch, Svenska"
-msgstr ""
+msgstr "Espanyol, alemany, suec"
 
 msgid "中文（中国）, English, Česky"
-msgstr ""
+msgstr "中文（中国）, English, Česky"
 
 msgid "All of them, and many more"
-msgstr ""
+msgstr "Totes aquestes i moltes més"
 
 msgid "日本語, Português Français"
-msgstr ""
+msgstr "日本語, Português Français"
 
 msgid "Immutability"
 msgstr "Immutabilitat"
