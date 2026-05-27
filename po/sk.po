@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-26 04:13+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.5\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-28 17:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -233,34 +233,34 @@ msgid "From the shell, or through ssh"
 msgstr "Pomocou nástroja shell alebo cez ssh"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "Prostredníctvom webového prehliadača, port 9090"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "Ak váš server SUSE nefunguje správne tak, ako by mal, kde si môžete pozrieť grafy využitia procesora a pamäte?"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "Sekcia horoskopov"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "Menu jedálne"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "Karta Prehľad v časti Systém"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "Oddelenie sťažností (vezmite si číslo)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "Čo sa stane, ak použijete kartu Terminál?"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "Získate linuxový príkazový riadok vo svojom prehliadači"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "Otvorí sa diskusná miestnosť s ostatnými používateľmi SUSE Linux"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "Môžete hrať Tetris"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
 msgstr ""
