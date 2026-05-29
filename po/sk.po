@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-28 17:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.5\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-30 15:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -263,34 +263,34 @@ msgid "You can play Tetris"
 msgstr "Môžete hrať Tetris"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "Zobrazuje nápis DON'T PANIC veľkými priateľskými písmenami"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "Na vašom serveri dochádza miesto, kde nájdete správu diskov?"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "Karta Batoh"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "Karta Podkrovie"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "Karta Úložisko"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "Karta Šatník"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Kto sa môže priamo prihlásiť do aplikácie Cockpit?"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "Všetci bežní používatelia v systéme"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "Pre správu systému je povolený iba root"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "Špecializovaný používateľ pre Cockpit"
 
 msgid "Everyone in the Cockpit group"
 msgstr ""
