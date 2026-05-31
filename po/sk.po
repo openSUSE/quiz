@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-30 15:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.5\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-06-01 13:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.6\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -293,34 +293,34 @@ msgid "The dedicated Cockpit user"
 msgstr "Špecializovaný používateľ pre Cockpit"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "Všetci zo skupiny Cockpit"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Dá sa Cockpit rozšíriť, môžem si ho prispôsobiť?"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr ""
+msgstr "Úvodná sada z projektu pôvodných autorov ponúka plnohodnotnú šablónu"
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr ""
+msgstr "Je napísaný v jazyku JavaScript a agenti pre kódovanie mu dobre rozumejú"
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr ""
+msgstr "Dá sa správne zabaliť v SUSE Build Service"
 
 msgid "All of the answers"
-msgstr ""
+msgstr "Všetky odpovede"
 
 msgid "Which of the features are included?"
-msgstr ""
+msgstr "Ktoré funkcie sú zahrnuté?"
 
 msgid "VM managment, Network config, Firewall"
-msgstr ""
+msgstr "VM správa, Konfigurácia siete, Firewall"
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr ""
+msgstr "Správa kontajnerov, Správa používateľov a skupín, Riešenie problémov SELinux"
 
 msgid "Update and Repository management, systemd services management"
-msgstr ""
+msgstr "Správa aktualizácií a repozitárov, správa služieb systemd"
 
 msgid "All of them"
 msgstr "Všetky z nich"
