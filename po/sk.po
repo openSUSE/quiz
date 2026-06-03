@@ -2,7 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-06-01 13:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.6\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-06-04 18:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -326,34 +326,34 @@ msgid "All of them"
 msgstr "Všetky z nich"
 
 msgid "Does Cockpit replace the command line?"
-msgstr ""
+msgstr "Nahrádza Cockpit príkazový riadok?"
 
 msgid "It includes every feature that exists in your shell"
-msgstr ""
+msgstr "Obsahuje všetky funkcie, ktoré má váš shell"
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr ""
+msgstr "S funkciou premeny reči na text a spolu s AI Cockpit sa dokonca nahrádza sám"
 
 msgid "No, it's a companion that works alongside the command line"
-msgstr ""
+msgstr "Nie, ide o doplnok, ktorý funguje v kombinácii s príkazovým riadkom"
 
 msgid "Cockpit and command line are mutually exclusive"
-msgstr ""
+msgstr "Cockpit a príkazový riadok sa vzájomne vylučujú"
 
 msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
-msgstr ""
+msgstr "Webové riešenie, hovoríte? Mám obavy o bezpečnosť. Aké ďalšie opatrenia zavádza Cockpit?"
 
 msgid "Zero-factor authentication"
-msgstr ""
+msgstr "Overovanie bez hesla"
 
 msgid "One-factor authentication"
-msgstr ""
+msgstr "Jednofaktorové overenie"
 
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "Dvojfaktorové overenie"
 
 msgid "Three-factor authentication"
-msgstr ""
+msgstr "Trojfaktorové overenie"
 
 msgid "I don't need this too often, why would I permenently run a web service in the background?"
 msgstr ""
