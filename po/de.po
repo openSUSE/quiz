@@ -1,20 +1,9 @@
 # Nico Krapp <nico.krapp@suse.com>, 2025, 2026.
 # Dan Čermák <dcermak@suse.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
-# Ettore Atalan <atalanttore@googlemail.com>, 2025.
+# Ettore Atalan <atalanttore@googlemail.com>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 16:52+0200\n"
-"PO-Revision-Date: 2026-03-21 14:04+0000\n"
-"Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-06-15 11:12+0000\nLast-Translator: Ettore Atalan <atalanttore@googlemail.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -212,70 +201,70 @@ msgid "Try fun experiments like retro gaming, media centers, or coding projects 
 msgstr "Coole Experimente wie Retro Gaming, Medienserver oder Programmierprojekte für Kinder ausprobieren"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Cockpit-Systemverwaltung"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Entdecken Sie Cockpit, Schritt für Schritt."
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Was ist Cockpit?"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "Der geheime Ort, an dem die SUSE-Entwickler leben"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Ein Flugsimulator für Linux"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "Das neue Installationsprogramm für openSUSE Tumbleweed und Leap"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "Ein webbasiertes Systemverwaltungsprogramm für SUSE Linux"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Wie ruft man die Cockpit-Oberfläche normalerweise auf?"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "Über ein spezielles VR-Headset, das von SUSE bereitgestellt wird"
 
 msgid "Through email"
-msgstr ""
+msgstr "Per E-Mail"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "Über die Shell oder per SSH"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "Über einen Webbrowser, Port 9090"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "Wenn Ihr SUSE-Server mürrisch ist, wo können Sie dann Grafiken zur CPU- und Speicherauslastung einsehen?"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "Die Horoskoprubrik"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "Die Speisekarte der Kantine"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "Die Übersicht-Registerkarte unter System"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "Die Beschwerdestelle (Nummer ziehen)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "Was passiert, wenn man die Registerkarte Terminal verwendet?"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "In Ihrem Browser erscheint eine Linux-Befehlszeile"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "Es öffnet einen Chatraum mit anderen SUSE Linux-Nutzern"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "Sie können Tetris spielen"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "Es zeigt KEINE PANIK in großen, freundlichen Buchstaben an"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
 msgstr ""
