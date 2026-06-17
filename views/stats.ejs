@@ -68,7 +68,7 @@
         </div>
       </div>
       <% const instanceValue = (INSTANCE || "").trim();
-        const quizHost = instanceValue ? `${instanceValue}.quiz.opensuse.org` : "susecon.quiz.opensuse.org";
+        const quizHost = instanceValue ? `${instanceValue}.quiz.opensuse.org` : "devconf.quiz.opensuse.org";
         const quizUrl = `https://${quizHost}/?lang=${encodeURIComponent(lang)}`;
         const qrCodeUrl = `/qr?url=${encodeURIComponent(quizUrl)}&size=700`;
 
