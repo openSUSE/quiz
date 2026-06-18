@@ -26,7 +26,7 @@ const questions = [
   {
     text: _("openSUSE just celebrated its 20th birthday! In which year did that happen?"),
     answers: [
-      { text: _("2025 – this year! 🎉"), correct: true },
+      { text: _("2025 - Year of the Linux Desktop"), correct: true },
       { text: _("1998 – that’s when Google started, not openSUSE"), correct: false },
       { text: _("1994 – that’s the first SUSE Linux, not openSUSE"), correct: false },
       { text: _("2005 – the year openSUSE was born, but not 20 years ago"), correct: false },
