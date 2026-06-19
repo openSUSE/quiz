@@ -2,313 +2,303 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Lubos Kocman <lubos.kocman@suse.com>, 2026.
+# Andras Kovacs <andras0602@gmail.com>, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 11:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: hu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-20 09:12+0000\nLast-Translator: Andras Kovacs <andras0602@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "A hardvertámogatás kiépítésének folyamata Arm platformon."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Mit jelent az Arm a számítástechnikában?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Egy CPU-architektúra család, melyet mobileszközökbe használnak, beágyazott rendszerekbe és szerverekbe"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Egy robot végtag, ami lefordítja a kódodat"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "A SUSE külön részlege a kernel hibáival kapcsolatos küzdelmekhez"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "A Geeko által kifejlesztett új típusú fájlrendszer"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Micsoda a Raspberry Pi 5?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Egy kártya méretű számítógép, amely ARM-architektúrát használ"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Egy megfizethető és energiatakarékos kis asztali számítógép — tökéletes választás a gyerekek számára böngészéshez, a YouTube nézéshez, a programozás tanulásához vagy egyszerűbb játékokhoz"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "Egy kicsi, de nagy teljesítményű szerver otthoni NAS, Home Assistant, Nextcloud vagy akár egy helyi openSUSE-tükörszerver üzemeltetéséhez"
 
 msgid "All of the above"
-msgstr ""
+msgstr "A fentiek mindegyike"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "Hogyan írják helyesen azt a CPU-architektúrát, amelyet az openSUSE támogat a Raspberry Pi 5-ön?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm… vagy tudom is én"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr ""
+msgstr "Ki áll a Raspberry Pi 5 u-boot támogatásának fejlesztése mögött az upstream Linux-kernelben?"
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "Ivan Ivanov és Matthias Brugger a SUSE HW Enablement csapatából."
 
 msgid "Linus Torvalds"
-msgstr ""
+msgstr "Linus Torvalds"
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Mely openSUSE-kiadások kínálnak speciális Raspberry Pi-képfájlokat?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed és MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Csak a Tumbleweed, mert soha nem áll meg a fejlődésben"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Csak a Leap 42.3 mert örökkévaló"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Csak a MicroOS, mert a többi megfőtt rajta"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Mi az openSUSE számára ajánlott képfájl-formátum a Raspberry Pi-n?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Raw lemeképek (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe kiterjesztésű telepítő"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr ".iso DVD-képfájl amit meg kell forrasztani"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr ".tar.gz álmokkal teleszőve"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "Az openSUSE mobiltelefonokon is futtatható! Milyen telepítőképek érhetők el a PinePhone-hoz?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Tumbleweed a Phosh-szal (a Purism rajongóknak) és Tumbleweed a Plasma Mobile-lal (a KDE szerelmeseinek)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Leap Micro GNOME Shell-lel hűtőszekrényekhez"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Tumbleweed LXQt kiadás speciálisan számtárcsás telefonokhoz"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "MicroOS Text Edition morzekódos bevitellel"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr ""
+msgstr "Hol találhatsz openSUSE-képfájlokat olyan Arm-alapú eszközökhöz, mint a Raspberry Pi, a PinePhone vagy a Pinebook?"
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr ""
+msgstr "get.opensuse.org – az openSUSE képfájlok otthonából, mely mindennek a kiindulópontja"
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr ""
+msgstr "en.opensuse.org/Portal:Arm – az Arm portál linkekkel és doksikkal"
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr ""
+msgstr "download.opensuse.org/ports/aarch64/tumbleweed – azoknak a bátraknak, akik szeretik a kézi böngészést"
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr ""
+msgstr "Az openSUSE Tumbleweed ARM-verzióját az x86_64-es csomagokkal együtt állítják össze?"
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr ""
+msgstr "Nem, külön építik be az openSUSE Ports részeként"
 
 msgid "Yes, it all comes from one magical build server"
-msgstr ""
+msgstr "Igen, mindez egyetlen varázslatos build-kiszolgálóról származik"
 
 msgid "Only if the moon is in retrograde"
-msgstr ""
+msgstr "Csak akkor, ha a Hold retrográd fázisban van"
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr ""
+msgstr "Igen, de pingvinek állítják össze a képfájlt"
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr ""
+msgstr "Melyik parancsot használják általában az openSUSE-kép SD-kártyára történő írásához?"
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr ""
+msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
 
 msgid "sudo print-image-now"
-msgstr ""
+msgstr "sudo print-image-now"
 
 msgid "cat image > coffee"
-msgstr ""
+msgstr "cat image > coffee"
 
 msgid "rpm -i image.raw.xz"
-msgstr ""
+msgstr "rpm -i image.raw.xz"
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr ""
+msgstr "Milyen típusú tárolóeszközről indítható el az openSUSE Raspberry Pi-képfájl?"
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr ""
+msgstr "SD-kártya, USB vagy NVMe-meghajtóról (Pi 5-ön)"
 
 msgid "Only floppy disks with patience"
-msgstr ""
+msgstr "Csak floppy lemezekről és sok-sok türelemmel"
 
 msgid "Cloud sync via pigeon post"
-msgstr ""
+msgstr "Felhőalapú szinkronizálás galambpostán keresztül"
 
 msgid "Tape backup, if you believe hard enough"
-msgstr ""
+msgstr "A szalagos biztonsági mentés – már ha elég erősen hiszel benne"
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr ""
+msgstr "Hogyan lehet a legjobban naprakész maradni az openSUSE Arm fejlesztéseivel kapcsolatban?"
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr ""
+msgstr "Kövessétek az openSUSE Arm levelezőlistát és a Matrix-csatornát (a részletek görgess le)"
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr ""
+msgstr "Kérdezd meg a ChatGPT-t a napi firmware-szivárogtatásokról"
 
 msgid "Consult the stars under a full moon"
-msgstr ""
+msgstr "Telihold alatt nézz fel a csillagokra"
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr ""
+msgstr "Frissítsd addig a get.opensuse.org oldalt, amíg villogni nem kezd"
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr ""
+msgstr "Ha megnyernéd ezt a Raspberry Pi 5-öt, mit futtatnál rajta először?"
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr ""
+msgstr "Kezdésnek az openSUSE Tumbleweed for Arm rendszerrel, hogy felfedezzem teljeskörűen a Linux-asztali élményt"
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr ""
+msgstr "Beállítanék egy saját otthoni szervert a Nextcloud, a Home Assistant vagy a saját openSUSE-tükörszerver segítségével"
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr ""
+msgstr "Szórakoztató kísérleteket tolnék: például retro játékokat, médiaközpontokat vagy programozási projekteket gyerekeknek"
 
 msgid "Cockpit System Management"
-msgstr ""
+msgstr "Cockpit System Management"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr ""
+msgstr "Fedezzük fel a Cockpitet, még pedig kattintásonként!"
 
 msgid "What is Cockpit?"
-msgstr ""
+msgstr "Micsoda az a Cockpit?"
 
 msgid "The secret place where SUSE Developers live"
-msgstr ""
+msgstr "Az a helyiség ahol a SUSE fejlesztői tanyáznak"
 
 msgid "A flight simulator for Linux"
-msgstr ""
+msgstr "Egy repülés-szimulátor kifejezetten Linuxra"
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr ""
+msgstr "Az új telepítőrendszer openSUSE Tumbleweed-re és Leap-re"
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr ""
+msgstr "Egy web alapú rendszermenedzser a SUSE Linux rendszerekhez"
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr ""
+msgstr "Általában hogyan lépsz be a Cockpit felületre?"
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr ""
+msgstr "A SUSE által biztosított speciális VR-szemüveg segítségével"
 
 msgid "Through email"
-msgstr ""
+msgstr "Emailen keresztül"
 
 msgid "From the shell, or through ssh"
-msgstr ""
+msgstr "Parancssorból, illetve SSH-n keresztül"
 
 msgid "Through a webbrowser, port 9090"
-msgstr ""
+msgstr "Webböngészőn keresztül, a 9090-es porton"
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr ""
+msgstr "Ha a SUSE-kiszolgálód nem működik megfelelően, hol tekintheted meg a CPU- és memóriahasználat grafikonjait?"
 
 msgid "The Horoscope Section"
-msgstr ""
+msgstr "A horoszkóp rovatban"
 
 msgid "The Canteen Menu"
-msgstr ""
+msgstr "A menza étlapján"
 
 msgid "The Overview Tab, under System"
-msgstr ""
+msgstr "A „Rendszer” menüpont alatt található „Áttekintés” fülön"
 
 msgid "The Complaints Department (take a number)"
-msgstr ""
+msgstr "Panaszosztályon keresztül (sorszámot azért húzni kell)"
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr ""
+msgstr "Mi történik, ha a „Terminál” fület használod?"
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr ""
+msgstr "A böngészőben megjelenik a Linux parancssori jelzője"
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr ""
+msgstr "Megnyit egy csevegőszobát más SUSE Linux-felhasználókkal"
 
 msgid "You can play Tetris"
-msgstr ""
+msgstr "Tolhatod a Tetris"
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr ""
+msgstr "Nagy, barátságos betűkkel közli veled: „NE PÁNIKOLJ!”"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "Hol lehet a lemezeket kezelni, ha a szervereden kezd elfogyni a tárhely?"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "A „Hátizsák” fülön"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "A „Padlás” fülön"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "A „Tárolás” fülön"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "A „Szekrény” fülön"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Ki tud közvetlenül bejelentkezni a Cockpit-be?"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "A rendszer összes rendszeres felhasználója"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "A rendszerkezeléshez kizárólag a root jogosult"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "Egy elkötelezett Cockpit-felhasználó"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "A Cockpit csoport minden tagja"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Bővíthető-e a Cockpit, testreszabhatom-e?"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
 msgstr ""
@@ -3122,118 +3112,118 @@ msgid "Which Zypper command enables parallel package downloads?"
 msgstr ""
 
 msgid "zypper --fast"
-msgstr ""
+msgstr "zypper --fast"
 
 msgid "zypper -p"
-msgstr ""
+msgstr "zypper -p"
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr ""
+msgstr "A legújabb zypper parallel letöltést végez alapértelmezetten"
 
 msgid "zypper turbo"
-msgstr ""
+msgstr "zypper turbo"
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr ""
+msgstr "Melyik a Zypper fő konfigurációs fájlja?"
 
 msgid "/etc/zypp/zypp.conf"
-msgstr ""
+msgstr "/etc/zypp/zypp.conf"
 
 msgid "/etc/zypperrc"
-msgstr ""
+msgstr "/etc/zypperrc"
 
 msgid "/etc/package.conf"
-msgstr ""
+msgstr "/etc/package.conf"
 
 msgid "/usr/lib/zypper/config"
-msgstr ""
+msgstr "/usr/lib/zypper/config"
 
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr ""
+msgstr "Mely alábbi Zypper parancsok fogják törölni az összes cache-elt csomagot?"
 
 msgid "zypper refresh --clean"
-msgstr ""
+msgstr "zypper refresh --clean"
 
 msgid "zypper clean --all"
-msgstr ""
+msgstr "zypper clean --all"
 
 msgid "zypper purge-cache"
-msgstr ""
+msgstr "zypper purge-cache"
 
 msgid "zypper remove-cache"
-msgstr ""
+msgstr "zypper remove-cache"
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr ""
+msgstr "A Zypper képes mintákat (pattern) telepíteni. Mi a pattern a Zypper terminológiája szerint?"
 
 msgid "A regex for matching package names"
-msgstr ""
+msgstr "Egy regex, ami csomagok nevére match-el"
 
 msgid "A group of packages defining a role or use-case"
-msgstr ""
+msgstr "A csomagok egy csoportja, ami szerepkört (role), vagy használati esetet (use-case) definiál"
 
 msgid "A theming configuration file"
-msgstr ""
+msgstr "Egy téma (theming) konfigurációs fájl"
 
 msgid "A metadata tag for a repository"
-msgstr ""
+msgstr "Egy repository metaadatcímkéje (metadata tag)"
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr ""
+msgstr "Mi történik, ha ezt futtatod: 'zypper dup --from packman'?"
 
 msgid "Only update the 'packman' repository metadata"
-msgstr ""
+msgstr "Csak a 'packman' repository metadata frissül"
 
 msgid "Remove all non-packman packages"
-msgstr ""
+msgstr "Törlődik minden nem packman csomag"
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr ""
+msgstr "A telepített csomagok kényszerítetten frissülnek a Packman tárolóból származó verziókra"
 
 msgid "Create a backup before upgrade"
-msgstr ""
+msgstr "Készíts mentést a frissítés előtt"
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr ""
+msgstr "A Leap 16.0 továbbfejlesztett tárolókezelést kínál alapértelmezett CDN-nel, RIS által kezelt tárolókkal, és kevesebb összes tárolóval. Hány disztribúciós tárolót tartalmaz alapértelmezés szerint a Leap 16.0?"
 
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr ""
+msgstr "A Leap 16.0 most RIS által kezelt tárolókat használ. Hogyan lehet a tárolóbeállításokat úgy módosítani, hogy ne törd el a rendszert?"
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr ""
+msgstr "/etc/zypp/repos.d/ mint a régi, szép időkben"
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr ""
+msgstr "Ne nyúlj a disztró .repo fájljaihoz, felül fognak íródni! Használd a /etc/zypp/vars.d inkább."
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr ""
+msgstr "Futtassuk a `zypper --edit-repo --force` — a hivatalos módon."
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr ""
+msgstr "Szerkesszük kézzel a repoindex.xml-t kézzel és tegyük keresztbe az ujjainkat."
 
 msgid "What can users do at software.opensuse.org?"
-msgstr ""
+msgstr "Mit csinálhatnak a felhasználók a software.opensuse.org oldalon?"
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr ""
+msgstr "Csomagok telepítése zypper-rel, egyetlen kattintással a böngészőben."
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr ""
+msgstr "További szoftverek böngészése és telepítése, beleértve a home projektek csomagjait is."
 
 msgid "View screenshots and details of cool open source software."
 msgstr ""
 
 msgid "All of the above."
-msgstr ""
+msgstr "A fentiek mindegyike."
 
 msgid "At what manpage section would you look for zypper docs?"
 msgstr ""
@@ -3266,62 +3256,62 @@ msgid "It cleans your system of the `rm` command but keeps a backup just in case
 msgstr ""
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr ""
+msgstr "Nem történik semmi, az `rm` parancs a coreutils része."
 
 msgid "Start Quiz"
-msgstr ""
+msgstr "Kvíz elkezdése"
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "Back"
-msgstr ""
+msgstr "Vissza"
 
 msgid "Submit"
-msgstr ""
+msgstr "Beküldés"
 
 msgid "Next"
-msgstr ""
+msgstr "Következő"
 
 msgid "Quit"
-msgstr ""
+msgstr "Kilépés"
 
 msgid "Submit and Quit"
-msgstr ""
+msgstr "Beküldés és Kilépés"
 
 msgid "Time left"
-msgstr ""
+msgstr "Hátralévő idő"
 
 msgid "Score"
-msgstr ""
+msgstr "Pontszám"
 
 msgid "Final"
 msgstr ""
 
 msgid "Restart"
-msgstr ""
+msgstr "Újrakezdés"
 
 msgid "Question"
-msgstr ""
+msgstr "Kérdés"
 
 msgid "Please enter a username to proceed."
-msgstr ""
+msgstr "Kérlek, adj meg egy felhasználónevet a folytatáshoz!"
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr ""
+msgstr "Üdvözöllek, %s"
 
 msgid "Are you sure you want to quit and submit?"
-msgstr ""
+msgstr "Biztosan kilépsz és beküldöd?"
 
 msgid "Username is too short."
-msgstr ""
+msgstr "A felhasználónév túl rövid."
 
 msgid "Sorry, this login is already taken."
-msgstr ""
+msgstr "Sajnálom, a felhasználónév már foglalt."
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr ""
+msgstr "Biztosan kilépsz? Az eddig elért eredményed el fog veszni!"
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr ""
+msgstr "Használj egy felismerhető becenevet, például ZypperJedi, vagy lehetőleg a valódi nevedet (KeresztnévVezetéknév)."
