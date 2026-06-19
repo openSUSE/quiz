@@ -1,6 +1,17 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025, 2026.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-05-26 04:12+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2026.5\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-18 11:07+0000\n"
+"PO-Revision-Date: 2026-05-26 04:12+0000\n"
+"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.5\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -1688,8 +1699,8 @@ msgstr "これら全て"
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
 msgstr "openSUSE はちょうど 20 周年になります！ それはいつのこと？"
 
-msgid "2025 – this year! 🎉"
-msgstr "2025 年 (今年🎉)"
+msgid "2025 - Year of the Linux Desktop"
+msgstr ""
 
 msgid "1998 – that’s when Google started, not openSUSE"
 msgstr "1998 年 (openSUSE ではなく Google 社が設立された年)"
@@ -3311,6 +3322,9 @@ msgstr "終了してよろしいですか？ これまでの進捗は保存さ�
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "ZypperJedi のような分かりやすいニックネームか、もしくは \"姓.名\" のように名前を入力してください。"
+
+#~ msgid "2025 – this year! 🎉"
+#~ msgstr "2025 年 (今年🎉)"
 
 #~ msgid "Show All"
 #~ msgstr "全てを表示"

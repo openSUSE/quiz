@@ -3,7 +3,18 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Lubos Kocman <lubos.kocman@suse.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-18 11:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "openSUSE Arm"
 msgstr ""
@@ -1691,7 +1702,7 @@ msgstr ""
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
 msgstr ""
 
-msgid "2025 – this year! 🎉"
+msgid "2025 - Year of the Linux Desktop"
 msgstr ""
 
 msgid "1998 – that’s when Google started, not openSUSE"

@@ -2,7 +2,18 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-06-06 17:12+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.6.1\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-18 11:07+0000\n"
+"PO-Revision-Date: 2026-06-06 17:12+0000\n"
+"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
+"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
+"Language: sk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -1690,8 +1701,8 @@ msgstr "Všetky tieto veci dohromady"
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
 msgstr "openSUSE práve oslávilo svoje 20. narodeniny! V ktorom roku sa to stalo?"
 
-msgid "2025 – this year! 🎉"
-msgstr "2025 – tento rok! 🎉"
+msgid "2025 - Year of the Linux Desktop"
+msgstr ""
 
 msgid "1998 – that’s when Google started, not openSUSE"
 msgstr "1998 – vtedy začal Google, nie openSUSE"
@@ -3313,6 +3324,9 @@ msgstr "Ste si istý, že chcete ukončiť? Váš postup sa neuloží."
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Použite rozpoznateľnú prezývku, ako napríklad ZypperJedi, alebo najlepšie svoje skutočné meno (MenoPriezvisko)."
+
+#~ msgid "2025 – this year! 🎉"
+#~ msgstr "2025 – tento rok! 🎉"
 
 #~ msgid "Show All"
 #~ msgstr "Zobraziť všetko"

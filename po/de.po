@@ -3,7 +3,18 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025, 2026.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-03-31 16:52+0200\nPO-Revision-Date: 2026-06-15 11:12+0000\nLast-Translator: Ettore Atalan <atalanttore@googlemail.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-18 11:07+0000\n"
+"PO-Revision-Date: 2026-06-15 11:12+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -1691,8 +1702,8 @@ msgstr "Alle diese Dinge zusammen"
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
 msgstr "openSUSE hat gerade seinen 20. Geburtstag gefeiert! In welchem Jahr war das?"
 
-msgid "2025 – this year! 🎉"
-msgstr "2025 – dieses Jahr! 🎉"
+msgid "2025 - Year of the Linux Desktop"
+msgstr ""
 
 msgid "1998 – that’s when Google started, not openSUSE"
 msgstr "1998 – da begann Google, nicht openSUSE"
@@ -3315,6 +3326,9 @@ msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert.
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Benutzen Sie einen erkennbaren Usernamen wie ZypperJedi oder vorzugsweise ihren echten Namen (VornameNachname)."
+
+#~ msgid "2025 – this year! 🎉"
+#~ msgstr "2025 – dieses Jahr! 🎉"
 
 #~ msgid "Show All"
 #~ msgstr "Alles anzeigen"
