@@ -15,26 +15,41 @@ if (
   !fs.existsSync(consts.STATS_FILE_PATH) &&
   consts.STATS_MODE === "STATS_FILE"
 ) {
-  fs.writeFileSync(consts.STATS_FILE_PATH, JSON.stringify({}), "utf-8");
+  fs.writeFileSync(
+    consts.STATS_FILE_PATH,
+    JSON.stringify({ results: {}, winnerCallTime: null }, null, 2),
+    "utf-8"
+  );
 }
 
 // Initialize results
 let results = {};
+let winnerCallTime = null;
 
 // Function to load results from file
 function loadResultsFromFile() {
   if (fs.existsSync(consts.STATS_FILE_PATH)) {
     const fileContent = fs.readFileSync(consts.STATS_FILE_PATH, "utf-8");
-    results = JSON.parse(fileContent);
+    const parsed = JSON.parse(fileContent);
+
+    results =
+      parsed &&
+      typeof parsed.results === "object" &&
+      !Array.isArray(parsed.results)
+        ? parsed.results
+        : {};
+    winnerCallTime =
+      typeof parsed?.winnerCallTime === "string" ? parsed.winnerCallTime : null;
   } else {
     results = {};
+    winnerCallTime = null;
   }
 }
 
 function saveResultsToFile() {
   fs.writeFileSync(
     consts.STATS_FILE_PATH,
-    JSON.stringify(results, null, 2),
+    JSON.stringify({ results, winnerCallTime }, null, 2),
     "utf-8"
   );
 }
@@ -46,43 +61,6 @@ function clearResults() {
     saveResultsToFile();
   }
 }
-
-// Initialize winner call time
-let winnerCallTime = null;
-
-// Function to load winner call time from file
-function loadWinnerCallTimeFromFile() {
-  if (fs.existsSync(consts.WINNER_CALL_TIME_FILE_PATH)) {
-    try {
-      const fileContent = fs.readFileSync(
-        consts.WINNER_CALL_TIME_FILE_PATH,
-        "utf-8"
-      );
-      const data = JSON.parse(fileContent);
-      winnerCallTime = data.time || null;
-    } catch (error) {
-      console.error("Error loading winner call time:", error);
-      winnerCallTime = null;
-    }
-  } else {
-    winnerCallTime = null;
-  }
-}
-
-function saveWinnerCallTimeToFile() {
-  fs.writeFileSync(
-    consts.WINNER_CALL_TIME_FILE_PATH,
-    JSON.stringify(
-      { time: winnerCallTime, updatedAt: new Date().toISOString() },
-      null,
-      2
-    ),
-    "utf-8"
-  );
-}
-
-// Load winner call time
-loadWinnerCallTimeFromFile();
 
 // Load results based on STATS_MODE
 if (consts.STATS_MODE === "STATS_FILE") {
@@ -143,12 +121,12 @@ const router = routes({
   clearResults,
   saveResultsToFile:
     consts.STATS_MODE === "STATS_FILE" ? saveResultsToFile : () => {},
-  winnerCallTime,
-  saveWinnerCallTimeToFile,
   getWinnerCallTime: () => winnerCallTime,
   setWinnerCallTime: (time) => {
     winnerCallTime = time;
-    saveWinnerCallTimeToFile();
+    if (consts.STATS_MODE === "STATS_FILE") {
+      saveResultsToFile();
+    }
   },
 });
 
