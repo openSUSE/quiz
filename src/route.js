@@ -92,6 +92,23 @@ module.exports = (dependencies) => {
     return allowedQuizSlugs.includes(slug);
   }
 
+  const USERNAME_RE = /^[\p{L}\p{N} ._-]{1,32}$/u;
+  function isValidUsername(name) {
+    return typeof name === "string" && USERNAME_RE.test(name);
+  }
+
+  function checkAuthToken(req) {
+    const header = req.get("authorization") || "";
+    const match = header.match(/^Bearer\s+(.+)$/i);
+    if (!match) return false;
+    const provided = Buffer.from(match[1]);
+    const expected = Buffer.from(RESET_TOKEN);
+    return (
+      provided.length === expected.length &&
+      crypto.timingSafeEqual(provided, expected)
+    );
+  }
+
   router.get("/", async (req, res) => {
     const lang = req.query.lang || "en";
     await loadTranslations(lang);
@@ -192,13 +209,12 @@ module.exports = (dependencies) => {
     res.render("bingo", { results, resultsJson: safeJsonForScript(results) });
   });
 
-  router.get("/reset", (req, res) => {
-    if (req.query.token !== RESET_TOKEN) {
-      return res.status(403).send("Forbidden: Invalid reset token");
+  router.post("/reset", (req, res) => {
+    if (!checkAuthToken(req)) {
+      return res.status(403).json({ error: "Forbidden: Invalid reset token" });
     }
-    clearResults(); // Call the callback to reset results
-    const lang = req.query.lang || "en";
-    res.redirect(`/stats?lang=${lang}`);
+    clearResults();
+    res.json({ success: true });
   });
 
   const Filter = require("bad-words");
@@ -214,6 +230,10 @@ module.exports = (dependencies) => {
 
     if (!username || !quizTitle) {
       return res.status(400).send("Missing username or quiz title.");
+    }
+
+    if (!isValidUsername(username)) {
+      return res.status(400).send("Invalid username.");
     }
 
     // Profanity check
@@ -273,7 +293,7 @@ module.exports = (dependencies) => {
 
   // API endpoint to set winner call time (requires token)
   router.post("/api/winner-call-time", (req, res) => {
-    if (req.query.token !== RESET_TOKEN) {
+    if (!checkAuthToken(req)) {
       return res.status(403).json({ error: "Forbidden: Invalid token" });
     }
 
