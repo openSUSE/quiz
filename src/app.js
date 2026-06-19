@@ -32,12 +32,14 @@ function loadResultsFromFile() {
     const fileContent = fs.readFileSync(consts.STATS_FILE_PATH, "utf-8");
     const parsed = JSON.parse(fileContent);
 
-    results = parsed && typeof parsed.results === "object" && !Array.isArray(parsed.results)
-      ? parsed.results
-      : {};
-    winnerCallTime = typeof parsed?.winnerCallTime === "string"
-      ? parsed.winnerCallTime
-      : null;
+    results =
+      parsed &&
+      typeof parsed.results === "object" &&
+      !Array.isArray(parsed.results)
+        ? parsed.results
+        : {};
+    winnerCallTime =
+      typeof parsed?.winnerCallTime === "string" ? parsed.winnerCallTime : null;
   } else {
     results = {};
     winnerCallTime = null;
