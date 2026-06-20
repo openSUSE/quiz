@@ -1,18 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025, 2026.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 11:07+0000\n"
-"PO-Revision-Date: 2026-05-26 04:12+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-20 09:13+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -279,70 +268,70 @@ msgid "Your server is running out of space, where do you go to manage disks?"
 msgstr "Uw server heeft geen ruimte meer, waar gaat u naartoe om schijven te beheren?"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "Het tabblad Rugzak"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "Het tabblad Zolder"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "Het tabblad Opslag"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "Het tabblad Toilet"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Wie kan direct zich aanmelden bij Cockpit?"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "Alle reguliere gebruikers op het systeem"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "Alleen aan root is het toegestaan systeembeheer te doen"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "De aangewezen gebruiker van Cockpit"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "Iedereen in de groep Cockpit"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Kan Cockpit uitgebreid worden, kan ik het aanpassen?"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr ""
+msgstr "De start-kit uit het project upstream levert een sjabloon met alle mogelijkheden"
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr ""
+msgstr "Het is geschreven in JavaScript en goed begrepen door coderingsagenten"
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr ""
+msgstr "Het kan op de juiste manier een pakket worden gemaakt in de SUSE Build-service"
 
 msgid "All of the answers"
-msgstr ""
+msgstr "Alle antwoorden"
 
 msgid "Which of the features are included?"
-msgstr ""
+msgstr "Welke van de mogelijkheden zijn meegeneomen?"
 
 msgid "VM managment, Network config, Firewall"
-msgstr ""
+msgstr "VM-beheer, Netwerkconfiguratie, Firewall"
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr ""
+msgstr "Beheer van containers, beheer van gebruikers en groepen, SELinux fouten oplossen"
 
 msgid "Update and Repository management, systemd services management"
-msgstr ""
+msgstr "Beheer van bijwerken opslagruimten, beheer van systemd-services"
 
 msgid "All of them"
 msgstr "Alle"
 
 msgid "Does Cockpit replace the command line?"
-msgstr ""
+msgstr "Vervangt Cockpit de opdrachtregel?"
 
 msgid "It includes every feature that exists in your shell"
-msgstr ""
+msgstr "Het omvat alle mogelijkheden die in uw shell bestaan"
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr ""
+msgstr "Met spraak-naar-tekst samen met AI Cockpit vervangt het zelfs zichzelf"
 
 msgid "No, it's a companion that works alongside the command line"
 msgstr ""
