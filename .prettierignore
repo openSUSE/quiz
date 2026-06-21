@@ -4,7 +4,7 @@ data/
 po/
 Dockerfile
 Dockerfile-Production
-
+.dockerignore
 
 **/*.yaml
 **/*.yml
