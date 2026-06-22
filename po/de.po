@@ -3,18 +3,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 11:07+0000\n"
-"PO-Revision-Date: 2026-06-15 11:12+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-23 06:12+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -278,124 +267,124 @@ msgid "It shows DON'T PANIC, in large friendly letters"
 msgstr "Es zeigt KEINE PANIK in großen, freundlichen Buchstaben an"
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr ""
+msgstr "Der Platz auf deinem Server läuft aus, wo musst du hin um deine Festplatten zu verwalten?"
 
 msgid "The Backpack Tab"
-msgstr ""
+msgstr "Der Rucksack Tab"
 
 msgid "The Attic Tab"
-msgstr ""
+msgstr "Der Dachboden Tab"
 
 msgid "The Storage Tab"
-msgstr ""
+msgstr "Der Speicher Tab"
 
 msgid "The Closet Tab"
-msgstr ""
+msgstr "Der Schrank Tab"
 
 msgid "Who can directly log into Cockpit?"
-msgstr ""
+msgstr "Wer kann sich direkt in Cockpit einloggen?"
 
 msgid "All regular users on the system"
-msgstr ""
+msgstr "Alle regulären Benutzer auf dem System"
 
 msgid "Only root is allowed for system management"
-msgstr ""
+msgstr "Nur root für Systemmanagement"
 
 msgid "The dedicated Cockpit user"
-msgstr ""
+msgstr "Der dedizierte Cockpit Benutzer"
 
 msgid "Everyone in the Cockpit group"
-msgstr ""
+msgstr "Jeder Benutzer in der Cockpit Gruppe"
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr ""
+msgstr "Kann Cockpit erweitert und personalisiert werden?"
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr ""
+msgstr "Das Starter-kit aus dem upstream-Projekt stellt eine komplette Vorlage bereit"
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr ""
+msgstr "Es ist in JavaScript geschrieben und gut verständlich für Coding-Agenten"
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr ""
+msgstr "Es kann richtig im Open Build Service paketiert werden"
 
 msgid "All of the answers"
-msgstr ""
+msgstr "Alle Antworten"
 
 msgid "Which of the features are included?"
-msgstr ""
+msgstr "Welcher dieser Features sind beinhaltet?"
 
 msgid "VM managment, Network config, Firewall"
-msgstr ""
+msgstr "VM Verwaltung, Netzwerkkonfiguration, Firewall"
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr ""
+msgstr "Container-Verwaltung, Benutzer- und Gruppenverwaltung, SELinux Fehlersuche"
 
 msgid "Update and Repository management, systemd services management"
-msgstr ""
+msgstr "Update- und Repository-Verwaltung, Verwaltung von systemd services"
 
 msgid "All of them"
 msgstr "Alle"
 
 msgid "Does Cockpit replace the command line?"
-msgstr ""
+msgstr "Ersetzt Cockpit die Kommandozeile?"
 
 msgid "It includes every feature that exists in your shell"
-msgstr ""
+msgstr "Es beinhaltet jedes Feature der Shell"
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr ""
+msgstr "Mit speech-to-text und AI ersetzt Cockpit sich sogar selbst"
 
 msgid "No, it's a companion that works alongside the command line"
-msgstr ""
+msgstr "Nein, es ist ein Begleiter der neben deiner Kommandozeile arbeitet"
 
 msgid "Cockpit and command line are mutually exclusive"
-msgstr ""
+msgstr "Cockpit und die Kommandozeile schließen sich gegenseitig aus"
 
 msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
-msgstr ""
+msgstr "Du sagst webbasiert, da mache ich mir Sorgen um die Sicherheit. Welche zusätzlichen Maßnahmen gibt es bei Cockpit?"
 
 msgid "Zero-factor authentication"
-msgstr ""
+msgstr "Null-Faktor Authentifizierung"
 
 msgid "One-factor authentication"
-msgstr ""
+msgstr "Ein-Faktor Authentifizierung"
 
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "Zwei-Faktor Authentifizierung"
 
 msgid "Three-factor authentication"
-msgstr ""
+msgstr "Drei-Faktor Authentifizierung"
 
 msgid "I don't need this too often, why would I permenently run a web service in the background?"
-msgstr ""
+msgstr "Ich brauche Cockpit nicht oft, warum sollte ich einen permanenten Web-service im Hintergrund anschalten?"
 
 msgid "Cockpit is started through a systemd socket and only on demand"
-msgstr ""
+msgstr "Cockpit startet über einen systemd socket und nur on demand"
 
 msgid "Web services do not use any resources nowadays"
-msgstr ""
+msgstr "Web-services nutzen heutzutage eh kaum noch Ressourcen"
 
 msgid "The firewall blocks it from using CPU and RAM"
-msgstr ""
+msgstr "Die Firewall hält es davon ab CPU und RAM zu verwenden"
 
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
-msgstr ""
+msgstr "Die Kombination aus C, Python und Javascript macht es sehr lightweight"
 
 msgid "Bsides English, which languages does it support?"
-msgstr ""
+msgstr "Neben Englisch, welche Sprachen sind unterstützt?"
 
 msgid "Español, Deutsch, Svenska"
-msgstr ""
+msgstr "Español, Deutsch, Svenska"
 
 msgid "中文（中国）, English, Česky"
-msgstr ""
+msgstr "中文（中国）, English, Česky"
 
 msgid "All of them, and many more"
-msgstr ""
+msgstr "Alle und noch viele mehr"
 
 msgid "日本語, Português Français"
-msgstr ""
+msgstr "日本語, Português, Français"
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -1703,7 +1692,7 @@ msgid "openSUSE just celebrated its 20th birthday! In which year did that happen
 msgstr "openSUSE hat gerade seinen 20. Geburtstag gefeiert! In welchem Jahr war das?"
 
 msgid "2025 - Year of the Linux Desktop"
-msgstr ""
+msgstr "2025 - Das Jahr des Linux Desktops"
 
 msgid "1998 – that’s when Google started, not openSUSE"
 msgstr "1998 – da begann Google, nicht openSUSE"
