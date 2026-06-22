@@ -5,7 +5,7 @@
 # Andras Kovacs <andras0602@gmail.com>, 2026.
 # István Szabó <istvanszabo890629@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-22 02:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-23 06:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -67,6 +67,7 @@ msgstr "Ivan Ivanov és Matthias Brugger a SUSE HW Enablement csapatából."
 msgid "Linus Torvalds"
 msgstr "Linus Torvalds"
 
+#, fuzzy
 msgid "Richard Stallman"
 msgstr "Richard Stallman"
 
@@ -1618,13 +1619,11 @@ msgstr "Melyik az openSUSE által használt fő licenc?"
 msgid "GPL (GNU General Public License)"
 msgstr "GPL (GNU General Public License)"
 
-#, fuzzy
 msgid "MIT License"
-msgstr "MIT License"
+msgstr "MIT licenc"
 
-#, fuzzy
 msgid "Apache License"
-msgstr "Apache License"
+msgstr "Apache licenc"
 
 msgid "Proprietary"
 msgstr "Saját fejlesztésű (Proprietary)"
@@ -2470,8 +2469,9 @@ msgstr "Egy virtuális gép Z-platformon (azaz s390x)"
 msgid "Remote desktop viewer"
 msgstr "Távoli asztal-nézegető"
 
+#, fuzzy
 msgid "Zombie Virtual Memory"
-msgstr "Zombi Virtuális Memória"
+msgstr "Zombie Virtual Memory"
 
 msgid "What does storage mean in the mainframe world?"
 msgstr "Mit jelent a tárolás a mainframek világában?"
@@ -2527,8 +2527,9 @@ msgstr "Szűrőegység hűtőfolyadékhoz"
 msgid "Made up word to confuse laptop users"
 msgstr "Kitalált szó, amelynek célja a laptop-használók megzavarása"
 
+#, fuzzy
 msgid "Integrated FLat circuit"
-msgstr "Integrált síkáramkör"
+msgstr "Integrated FLat circuit"
 
 msgid "A core to run Linux on mainframe"
 msgstr "Egy processzormag a Linux futtatásához mainframe-en"
@@ -2594,8 +2595,9 @@ msgstr "Szalagmeghajtókat"
 msgid "Network"
 msgstr "Hálózatot"
 
+#, fuzzy
 msgid "Bluetooth"
-msgstr "Bluetooth-t"
+msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
 msgstr "Mit szállít le az IBM a mainframe-mel együtt?"
@@ -3233,14 +3235,17 @@ msgstr ""
 msgid "libzypp"
 msgstr ""
 
+#, fuzzy
 msgid "libdnf"
-msgstr ""
+msgstr "libdnf"
 
+#, fuzzy
 msgid "libapt"
-msgstr ""
+msgstr "libapt"
 
+#, fuzzy
 msgid "libsuse"
-msgstr ""
+msgstr "libsuse"
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
 msgstr ""
