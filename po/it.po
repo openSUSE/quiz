@@ -4,7 +4,7 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:52+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Italian <https://l10n.opensuse.org/projects/quiz/quiz/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:52+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Italian <https://l10n.opensuse.org/projects/quiz/quiz/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr ""
@@ -19,7 +19,7 @@ msgid "A family of energy-efficient CPU architectures widely used in mobile devi
 msgstr ""
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Un arto robotico che compila il tuo codice"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
 msgstr ""
@@ -958,7 +958,7 @@ msgid "Southeast Asia"
 msgstr ""
 
 msgid "Antarctica"
-msgstr "Antartica"
+msgstr "Antartide"
 
 msgid "How do chameleons catch their food?"
 msgstr ""
@@ -1327,7 +1327,7 @@ msgid "OBS"
 msgstr ""
 
 msgid "Build Service"
-msgstr "Servizio di compilazione"
+msgstr ""
 
 msgid "Kickstart"
 msgstr ""
