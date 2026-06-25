@@ -2,8 +2,9 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Lubos Kocman <lubos.kocman@suse.com>, 2026.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:52+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Italian <https://l10n.opensuse.org/projects/quiz/quiz/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr ""
@@ -447,10 +448,10 @@ msgid "Xfce"
 msgstr ""
 
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
 msgstr ""
@@ -609,7 +610,7 @@ msgid "Leap Micro"
 msgstr ""
 
 msgid "MicroOS"
-msgstr ""
+msgstr "MicroOS"
 
 msgid "Aeon"
 msgstr ""
@@ -957,7 +958,7 @@ msgid "Southeast Asia"
 msgstr ""
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antartica"
 
 msgid "How do chameleons catch their food?"
 msgstr ""
@@ -1116,13 +1117,13 @@ msgid "What is the default filesystem in openSUSE?"
 msgstr ""
 
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 msgid "XFS"
-msgstr ""
+msgstr "XFS"
 
 msgid "InterPlanetary File System"
 msgstr ""
@@ -1326,7 +1327,7 @@ msgid "OBS"
 msgstr ""
 
 msgid "Build Service"
-msgstr ""
+msgstr "Servizio di compilazione"
 
 msgid "Kickstart"
 msgstr ""
@@ -1368,7 +1369,7 @@ msgid "Immutable OS optimized for containers and microservices"
 msgstr ""
 
 msgid "Gaming"
-msgstr ""
+msgstr "Gioco"
 
 msgid "Desktop productivity"
 msgstr ""
@@ -1938,16 +1939,16 @@ msgid "Which of the following countries has never hosted an openSUSE Asia Summit
 msgstr ""
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 msgid "India"
-msgstr ""
+msgstr "India"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesia"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
 msgstr ""
@@ -2049,7 +2050,7 @@ msgid "2012"
 msgstr ""
 
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
 msgstr ""
@@ -2358,13 +2359,13 @@ msgid "What is the most used operating system on mainframes?"
 msgstr ""
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Finestre"
 
 msgid "z/VM"
-msgstr ""
+msgstr "z/VM"
 
 msgid "z/OS"
 msgstr ""
@@ -2388,16 +2389,16 @@ msgid "Which of the following I/O devices is not used with mainframes?"
 msgstr ""
 
 msgid "Disks"
-msgstr ""
+msgstr "Dischi"
 
 msgid "Tape drives"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Rete"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
 msgstr ""
@@ -2424,7 +2425,7 @@ msgid "How many languages are available for the SLES 16 documentation (not inclu
 msgstr ""
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
 msgstr ""
@@ -2535,7 +2536,7 @@ msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
 msgstr ""
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "Thousands of packages in coldpool"
 msgstr ""
@@ -2604,7 +2605,7 @@ msgid "What component managed to survive its own death in SLES 16?"
 msgstr ""
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "System Management"
 msgstr ""
@@ -2670,7 +2671,7 @@ msgid "Prague"
 msgstr ""
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
 msgstr ""
@@ -2781,10 +2782,10 @@ msgid "How many SUSE products use OpenSSL?"
 msgstr ""
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "10"
 msgstr ""
@@ -2793,7 +2794,7 @@ msgid "How many SUSE engineers are actively working on OpenSSL?"
 msgstr ""
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
 msgstr ""
@@ -3012,7 +3013,7 @@ msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
 msgstr ""
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "Yes, click the sun/moon icon"
 msgstr ""
@@ -3189,10 +3190,10 @@ msgid "14"
 msgstr ""
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
 msgstr ""
@@ -3261,19 +3262,19 @@ msgid "Start Quiz"
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "Avvio"
 
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 msgid "Submit"
-msgstr ""
+msgstr "Invia"
 
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 msgid "Submit and Quit"
 msgstr ""
@@ -3282,16 +3283,16 @@ msgid "Time left"
 msgstr ""
 
 msgid "Score"
-msgstr ""
+msgstr "Risultato"
 
 msgid "Final"
 msgstr ""
 
 msgid "Restart"
-msgstr ""
+msgstr "Riavvia"
 
 msgid "Question"
-msgstr ""
+msgstr "Domanda"
 
 msgid "Please enter a username to proceed."
 msgstr ""
