@@ -3,11 +3,12 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Lubos Kocman <lubos.kocman@suse.com>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Weblate <noreply-mt-weblate@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:52+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Italian <https://l10n.opensuse.org/projects/quiz/quiz/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:52+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Italian <https://l10n.opensuse.org/projects/quiz/quiz/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
 msgstr ""
@@ -1381,7 +1382,7 @@ msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr ""
 
 msgid "snapper"
-msgstr ""
+msgstr "snapper"
 
 msgid "timeshift"
 msgstr ""
@@ -1504,10 +1505,10 @@ msgid "Open Build Service (OBS)"
 msgstr ""
 
 msgid "YaST"
-msgstr ""
+msgstr "YaST"
 
 msgid "Snapper"
-msgstr ""
+msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
 msgstr ""
@@ -1531,7 +1532,7 @@ msgid "Gnome Control Center"
 msgstr ""
 
 msgid "KDE System Settings"
-msgstr ""
+msgstr "Impostazioni di sistema KDE"
 
 msgid "Synaptic"
 msgstr ""
@@ -1585,7 +1586,7 @@ msgid "Which of these is a community-driven openSUSE version?"
 msgstr ""
 
 msgid "SUSE Linux Enterprise"
-msgstr ""
+msgstr "SUSE Linux Enterprise"
 
 msgid "openSUSE Greenhorn"
 msgstr ""
@@ -1603,7 +1604,7 @@ msgid "Zypper"
 msgstr ""
 
 msgid "Pacman"
-msgstr ""
+msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
 msgstr ""
@@ -1918,7 +1919,7 @@ msgid "Mumbai"
 msgstr ""
 
 msgid "Taipei"
-msgstr ""
+msgstr "Taipei"
 
 msgid "Faridabad"
 msgstr ""
@@ -1927,13 +1928,13 @@ msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
 msgstr ""
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 msgid "Jakarta"
-msgstr ""
+msgstr "Giacarta"
 
 msgid "Tokyo"
-msgstr ""
+msgstr "Tokyo"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
 msgstr ""
@@ -1966,7 +1967,7 @@ msgid "Where was the openSUSE Asia Summit held in 2019?"
 msgstr ""
 
 msgid "Seoul"
-msgstr ""
+msgstr "Seul"
 
 msgid "Denpasar (Bali)"
 msgstr ""
@@ -2080,7 +2081,7 @@ msgid "Attachmate"
 msgstr ""
 
 msgid "SUSE"
-msgstr ""
+msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
 msgstr ""
