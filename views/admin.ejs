@@ -226,10 +226,11 @@
         }
 
         try {
-          const response = await fetch('/api/winner-call-time?token=' + encodeURIComponent(token), {
+          const response = await fetch('/api/winner-call-time', {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
+              'Authorization': 'Bearer ' + token,
             },
             body: JSON.stringify({ time: timeInput }),
           });
@@ -253,7 +254,7 @@
         }
       });
 
-      document.getElementById('reset-results-btn').addEventListener('click', () => {
+      document.getElementById('reset-results-btn').addEventListener('click', async () => {
         const token = tokenInput.value.trim();
 
         if (!token) {
@@ -266,7 +267,15 @@
           return;
         }
 
-        window.location.href = '/reset?token=' + encodeURIComponent(token) + '&lang=' + encodeURIComponent('<%= lang %>');
+        const response = await fetch('/reset', {
+          method: 'POST',
+          headers: { 'Authorization': 'Bearer ' + token },
+        });
+        if (response.ok) {
+          window.location.href = '/stats?lang=' + encodeURIComponent('<%= lang %>');
+        } else {
+          alert('Reset failed: invalid token.');
+        }
       });
 
       function showMessage(message, type, container) {
