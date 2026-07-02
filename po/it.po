@@ -2,2611 +2,2413 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Lubos Kocman <lubos.kocman@suse.com>, 2026.
-# Andras Kovacs <andras0602@gmail.com>, 2026.
-# István Szabó <istvanszabo890629@gmail.com>, 2026.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Weblate <noreply-mt-weblate@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-23 06:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:52+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Italian <https://l10n.opensuse.org/projects/quiz/quiz/it/>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr "A hardvertámogatás kiépítésének folyamata Arm platformon."
+msgstr ""
 
 msgid "What is Arm, in the context of computing?"
-msgstr "Mit jelent az Arm a számítástechnikában?"
+msgstr ""
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr "Egy CPU-architektúra család, melyet mobileszközökbe használnak, beágyazott rendszerekbe és szerverekbe"
+msgstr ""
 
 msgid "A robotic limb that compiles your code"
-msgstr "Egy robot végtag, ami lefordítja a kódodat"
+msgstr "Un arto robotico che compila il tuo codice"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr "A SUSE külön részlege a kernel hibáival kapcsolatos küzdelmekhez"
+msgstr ""
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr "A Geeko által kifejlesztett új típusú fájlrendszer"
+msgstr ""
 
 msgid "What is the Raspberry Pi 5?"
-msgstr "Micsoda a Raspberry Pi 5?"
+msgstr ""
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr "Egy kártya méretű számítógép, amely ARM-architektúrát használ"
+msgstr ""
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr "Egy megfizethető és energiatakarékos kis asztali számítógép — tökéletes választás a gyerekek számára böngészéshez, a YouTube nézéshez, a programozás tanulásához vagy egyszerűbb játékokhoz"
+msgstr ""
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr "Egy kicsi, de nagy teljesítményű szerver otthoni NAS, Home Assistant, Nextcloud vagy akár egy helyi openSUSE-tükörszerver üzemeltetéséhez"
+msgstr ""
 
 msgid "All of the above"
-msgstr "A fentiek mindegyike"
+msgstr ""
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr "Hogyan írják helyesen azt a CPU-architektúrát, amelyet az openSUSE támogat a Raspberry Pi 5-ön?"
+msgstr ""
 
 msgid "arm"
-msgstr "arm"
+msgstr ""
 
 msgid "Arm"
-msgstr "Arm"
+msgstr ""
 
 msgid "ARM!"
-msgstr "ARM!"
+msgstr ""
 
 msgid "Armmm… not sure"
-msgstr "Armmm… vagy tudom is én"
+msgstr ""
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
-msgstr "Ki áll a Raspberry Pi 5 u-boot támogatásának fejlesztése mögött az upstream Linux-kernelben?"
+msgstr ""
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr "Ivan Ivanov és Matthias Brugger a SUSE HW Enablement csapatából."
+msgstr ""
 
 msgid "Linus Torvalds"
-msgstr "Linus Torvalds"
+msgstr ""
 
-#, fuzzy
 msgid "Richard Stallman"
-msgstr "Richard Stallman"
+msgstr ""
 
 msgid "Eric S. Raymond "
-msgstr "Eric S. Raymond "
+msgstr ""
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr "Mely openSUSE-kiadások kínálnak speciális Raspberry Pi-képfájlokat?"
+msgstr ""
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr "Leap, Leap Micro, Tumbleweed és MicroOS"
+msgstr ""
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr "Csak a Tumbleweed, mert soha nem áll meg a fejlődésben"
+msgstr ""
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr "Csak a Leap 42.3 mert örökkévaló"
+msgstr ""
 
 msgid "Only MicroOS, everything else melted"
-msgstr "Csak a MicroOS, mert a többi megfőtt rajta"
+msgstr ""
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr "Mi az openSUSE számára ajánlott képfájl-formátum a Raspberry Pi-n?"
+msgstr ""
 
 msgid "Raw disk image (.raw.xz)"
-msgstr "Raw lemeképek (.raw.xz)"
+msgstr ""
 
 msgid ".exe installer"
-msgstr ".exe kiterjesztésű telepítő"
+msgstr ""
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ".iso DVD-képfájl amit meg kell forrasztani"
+msgstr ""
 
 msgid ".tar.gz full of dreams"
-msgstr ".tar.gz álmokkal teleszőve"
+msgstr ""
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr "Az openSUSE mobiltelefonokon is futtatható! Milyen telepítőképek érhetők el a PinePhone-hoz?"
+msgstr ""
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr "Tumbleweed a Phosh-szal (a Purism rajongóknak) és Tumbleweed a Plasma Mobile-lal (a KDE szerelmeseinek)"
+msgstr ""
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr "Leap Micro GNOME Shell-lel hűtőszekrényekhez"
+msgstr ""
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr "Tumbleweed LXQt kiadás speciálisan számtárcsás telefonokhoz"
+msgstr ""
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr "MicroOS Text Edition morzekódos bevitellel"
+msgstr ""
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
-msgstr "Hol találhatsz openSUSE-képfájlokat olyan Arm-alapú eszközökhöz, mint a Raspberry Pi, a PinePhone vagy a Pinebook?"
+msgstr ""
 
 msgid "get.opensuse.org – the friendly starting point for most used openSUSE images"
-msgstr "get.opensuse.org – az openSUSE képfájlok otthonából, mely mindennek a kiindulópontja"
+msgstr ""
 
 msgid "en.opensuse.org/Portal:Arm – the Arm portal with links and documentation"
-msgstr "en.opensuse.org/Portal:Arm – az Arm portál linkekkel és doksikkal"
+msgstr ""
 
 msgid "download.opensuse.org/ports/aarch64/tumbleweed – for the brave who like manual browsing"
-msgstr "download.opensuse.org/ports/aarch64/tumbleweed – azoknak a bátraknak, akik szeretik a kézi böngészést"
+msgstr ""
 
 msgid "Is openSUSE Tumbleweed Arm built together with x86_64 packages?"
-msgstr "Az openSUSE Tumbleweed ARM-verzióját az x86_64-es csomagokkal együtt állítják össze?"
+msgstr ""
 
 msgid "No, it’s built separately as part of openSUSE Ports"
-msgstr "Nem, külön építik be az openSUSE Ports részeként"
+msgstr ""
 
 msgid "Yes, it all comes from one magical build server"
-msgstr "Igen, mindez egyetlen varázslatos build-kiszolgálóról származik"
+msgstr ""
 
 msgid "Only if the moon is in retrograde"
-msgstr "Csak akkor, ha a Hold retrográd fázisban van"
+msgstr ""
 
 msgid "Yes, but it’s compiled by penguins"
-msgstr "Igen, de pingvinek állítják össze a képfájlt"
+msgstr ""
 
 msgid "Which command is commonly used to write the openSUSE image to an SD card?"
-msgstr "Melyik parancsot használják általában az openSUSE-kép SD-kártyára történő írásához?"
+msgstr ""
 
 msgid "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
-msgstr "dd if=image.raw.xz of=/dev/sdX bs=4M status=progress"
+msgstr ""
 
 msgid "sudo print-image-now"
-msgstr "sudo print-image-now"
+msgstr ""
 
 msgid "cat image > coffee"
-msgstr "cat image > coffee"
+msgstr ""
 
 msgid "rpm -i image.raw.xz"
-msgstr "rpm -i image.raw.xz"
+msgstr ""
 
 msgid "What type of storage can openSUSE Raspberry Pi images boot from?"
-msgstr "Milyen típusú tárolóeszközről indítható el az openSUSE Raspberry Pi-képfájl?"
+msgstr ""
 
 msgid "SD card, USB, or NVMe (on Pi 5)"
-msgstr "SD-kártya, USB vagy NVMe-meghajtóról (Pi 5-ön)"
+msgstr ""
 
 msgid "Only floppy disks with patience"
-msgstr "Csak floppy lemezekről és sok-sok türelemmel"
+msgstr ""
 
 msgid "Cloud sync via pigeon post"
-msgstr "Felhőalapú szinkronizálás galambpostán keresztül"
+msgstr ""
 
 msgid "Tape backup, if you believe hard enough"
-msgstr "A szalagos biztonsági mentés – már ha elég erősen hiszel benne"
+msgstr ""
 
 msgid "What’s the best way to stay updated on openSUSE Arm development?"
-msgstr "Hogyan lehet a legjobban naprakész maradni az openSUSE Arm fejlesztéseivel kapcsolatban?"
+msgstr ""
 
 msgid "Follow the openSUSE Arm mailing list and Matrix channel (details below)"
-msgstr "Kövessétek az openSUSE Arm levelezőlistát és a Matrix-csatornát (a részletek görgess le)"
+msgstr ""
 
 msgid "Ask ChatGPT for daily firmware leaks"
-msgstr "Kérdezd meg a ChatGPT-t a napi firmware-szivárogtatásokról"
+msgstr ""
 
 msgid "Consult the stars under a full moon"
-msgstr "Telihold alatt nézz fel a csillagokra"
+msgstr ""
 
 msgid "Refresh get.opensuse.org until it blinks"
-msgstr "Frissítsd addig a get.opensuse.org oldalt, amíg villogni nem kezd"
+msgstr ""
 
 msgid "If you win this Raspberry Pi 5, what could you run on it first?"
-msgstr "Ha megnyernéd ezt a Raspberry Pi 5-öt, mit futtatnál rajta először?"
+msgstr ""
 
 msgid "Start with openSUSE Tumbleweed for Arm and explore a full Linux desktop experience"
-msgstr "Kezdésnek az openSUSE Tumbleweed for Arm rendszerrel, hogy felfedezzem teljeskörűen a Linux-asztali élményt"
+msgstr ""
 
 msgid "Set up a personal home server with Nextcloud, Home Assistant, or your own openSUSE mirror"
-msgstr "Beállítanék egy saját otthoni szervert a Nextcloud, a Home Assistant vagy a saját openSUSE-tükörszerver segítségével"
+msgstr ""
 
 msgid "Try fun experiments like retro gaming, media centers, or coding projects for kids"
-msgstr "Szórakoztató kísérleteket tolnék: például retro játékokat, médiaközpontokat vagy programozási projekteket gyerekeknek"
+msgstr ""
 
 msgid "Cockpit System Management"
-msgstr "Cockpit System Management"
+msgstr ""
 
 msgid "Discover Cockpit, one click at a time."
-msgstr "Fedezzük fel a Cockpitet, még pedig kattintásonként!"
+msgstr ""
 
 msgid "What is Cockpit?"
-msgstr "Micsoda az a Cockpit?"
+msgstr ""
 
 msgid "The secret place where SUSE Developers live"
-msgstr "Az a helyiség ahol a SUSE fejlesztői tanyáznak"
+msgstr ""
 
 msgid "A flight simulator for Linux"
-msgstr "Egy repülés-szimulátor kifejezetten Linuxra"
+msgstr ""
 
 msgid "The new installer for openSUSE Tumbleweed and Leap"
-msgstr "Az új telepítőrendszer openSUSE Tumbleweed-re és Leap-re"
+msgstr ""
 
 msgid "A web based system management utility for SUSE Linux"
-msgstr "Egy web alapú rendszermenedzser a SUSE Linux rendszerekhez"
+msgstr ""
 
 msgid "How do you usually access the Cockpit interface?"
-msgstr "Általában hogyan lépsz be a Cockpit felületre?"
+msgstr ""
 
 msgid "Via a special VR headset provided by SUSE"
-msgstr "A SUSE által biztosított speciális VR-szemüveg segítségével"
+msgstr ""
 
 msgid "Through email"
-msgstr "Emailen keresztül"
+msgstr ""
 
 msgid "From the shell, or through ssh"
-msgstr "Parancssorból, illetve SSH-n keresztül"
+msgstr ""
 
 msgid "Through a webbrowser, port 9090"
-msgstr "Webböngészőn keresztül, a 9090-es porton"
+msgstr ""
 
 msgid "If your SUSE server is acting grumpy, which location allows you to see CPU and Memory usage graphs?"
-msgstr "Ha a SUSE-kiszolgálód nem működik megfelelően, hol tekintheted meg a CPU- és memóriahasználat grafikonjait?"
+msgstr ""
 
 msgid "The Horoscope Section"
-msgstr "A horoszkóp rovatban"
+msgstr ""
 
 msgid "The Canteen Menu"
-msgstr "A menza étlapján"
+msgstr ""
 
 msgid "The Overview Tab, under System"
-msgstr "A „Rendszer” menüpont alatt található „Áttekintés” fülön"
+msgstr ""
 
 msgid "The Complaints Department (take a number)"
-msgstr "Panaszosztályon keresztül (sorszámot azért húzni kell)"
+msgstr ""
 
 msgid "What happens if you use the Terminal Tab?"
-msgstr "Mi történik, ha a „Terminál” fület használod?"
+msgstr ""
 
 msgid "You'll get a Linux command line prompt in your browser"
-msgstr "A böngészőben megjelenik a Linux parancssori jelzője"
+msgstr ""
 
 msgid "It opens a chat room with other SUSE Linux users"
-msgstr "Megnyit egy csevegőszobát más SUSE Linux-felhasználókkal"
+msgstr ""
 
 msgid "You can play Tetris"
-msgstr "Tolhatod a Tetris"
+msgstr ""
 
 msgid "It shows DON'T PANIC, in large friendly letters"
-msgstr "Nagy, barátságos betűkkel közli veled: „NE PÁNIKOLJ!”"
+msgstr ""
 
 msgid "Your server is running out of space, where do you go to manage disks?"
-msgstr "Hol lehet a lemezeket kezelni, ha a szervereden kezd elfogyni a tárhely?"
+msgstr ""
 
 msgid "The Backpack Tab"
-msgstr "A „Hátizsák” fülön"
+msgstr ""
 
 msgid "The Attic Tab"
-msgstr "A „Padlás” fülön"
+msgstr ""
 
 msgid "The Storage Tab"
-msgstr "A „Tárolás” fülön"
+msgstr ""
 
 msgid "The Closet Tab"
-msgstr "A „Szekrény” fülön"
+msgstr ""
 
 msgid "Who can directly log into Cockpit?"
-msgstr "Ki tud közvetlenül bejelentkezni a Cockpit-be?"
+msgstr ""
 
 msgid "All regular users on the system"
-msgstr "A rendszer összes rendszeres felhasználója"
+msgstr ""
 
 msgid "Only root is allowed for system management"
-msgstr "A rendszerkezeléshez kizárólag a root jogosult"
+msgstr ""
 
 msgid "The dedicated Cockpit user"
-msgstr "Egy elkötelezett Cockpit-felhasználó"
+msgstr ""
 
 msgid "Everyone in the Cockpit group"
-msgstr "A Cockpit csoport minden tagja"
+msgstr ""
 
 msgid "Can Cockpit be extended, can I customize it?"
-msgstr "Bővíthető-e a Cockpit, testre-szabhatom-e?"
+msgstr ""
 
 msgid "The starter-kit from the upstream project provides a fully featured template"
-msgstr "Az upstream projekt indítócsomagja egy minden funkcióval ellátott sablont tartalmaz"
+msgstr ""
 
 msgid "It's written in JavaScript and well understood by coding agents"
-msgstr "JavaScript nyelven íródott, ezért a programozó ügynökök jól értik"
+msgstr ""
 
 msgid "It can be properly packaged in the SUSE Build Service"
-msgstr "A SUSE Build Service-ben megfelelően csomagolható"
+msgstr ""
 
 msgid "All of the answers"
-msgstr "Az összes válasz helyes"
+msgstr ""
 
 msgid "Which of the features are included?"
-msgstr "Mely funkciók érhetők el a csomagban?"
+msgstr ""
 
 msgid "VM managment, Network config, Firewall"
-msgstr "VM-kezelés, hálózati konfiguráció, tűzfal"
+msgstr ""
 
 msgid "Container management, User and groups management, SELinux troubleshoot"
-msgstr "Konténerkezelés, felhasználók és csoportok kezelése, SELinux hibaelhárítás"
+msgstr ""
 
 msgid "Update and Repository management, systemd services management"
-msgstr "Frissítés és tárolókezelés, systemd-szolgáltatások kezelése"
+msgstr ""
 
 msgid "All of them"
-msgstr "Az összes válasz helyes"
+msgstr ""
 
 msgid "Does Cockpit replace the command line?"
-msgstr "A Cockpit-tel felváltható a parancssor?"
+msgstr ""
 
 msgid "It includes every feature that exists in your shell"
-msgstr "Minden olyan funkciót tartalmaz, amely a parancssorban is megtalálható"
+msgstr ""
 
 msgid "With speech-to-text along with AI Cockpit even replaces itself"
-msgstr "A beszéd-szöveggé alakítás és az AI Cockpit segítségével a rendszer akár saját magát is felváltja"
+msgstr ""
 
 msgid "No, it's a companion that works alongside the command line"
-msgstr "Nem, ez egy kiegészítő program, amely a parancssorral együtt működik"
+msgstr ""
 
 msgid "Cockpit and command line are mutually exclusive"
-msgstr "A Cockpit és a parancssor egymást kizárják"
+msgstr ""
 
 msgid "Web based you say, I'm concerned about security. What additional measures does Cockpit implement?"
-msgstr "Azt mondod, hogy webalapú, de engem aggaszt a biztonság. Milyen további biztonsági funkciókat adhat a Cockpit?"
+msgstr ""
 
 msgid "Zero-factor authentication"
-msgstr "Nullfaktoros hitelesítés"
+msgstr ""
 
 msgid "One-factor authentication"
-msgstr "Egyfaktoros hitelesítés"
+msgstr ""
 
 msgid "Two-factor authentication"
-msgstr "Kétfaktoros hitelesítés"
+msgstr ""
 
 msgid "Three-factor authentication"
-msgstr "Háromfaktoros hitelesítés"
+msgstr ""
 
 msgid "I don't need this too often, why would I permenently run a web service in the background?"
-msgstr "Nincs rá túl gyakran szükségem, miért futtatnék állandóan egy webszolgáltatást a háttérben?"
+msgstr ""
 
 msgid "Cockpit is started through a systemd socket and only on demand"
-msgstr "A Cockpit egy systemd-socket segítségével indul el, és kizárólagosan igény szerint"
+msgstr ""
 
 msgid "Web services do not use any resources nowadays"
-msgstr "A webszolgáltatások manapság egyáltalán nem használnak erőforrásokat"
+msgstr ""
 
 msgid "The firewall blocks it from using CPU and RAM"
-msgstr "A tűzfal megakadályozza, hogy a program a CPU-t és a RAM-ot használja"
+msgstr ""
 
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
-msgstr "A C, a Python és a JavaScript kombinációja teszi ilyen alacsony erőforrásigényű"
+msgstr ""
 
 msgid "Bsides English, which languages does it support?"
-msgstr "Az angol mellett milyen nyelveket támogat még?"
+msgstr ""
 
 msgid "Español, Deutsch, Svenska"
-msgstr "Español, Deutsch, Svenska"
+msgstr ""
 
 msgid "中文（中国）, English, Česky"
-msgstr "中文（中国）, Angol, Česky"
+msgstr ""
 
 msgid "All of them, and many more"
-msgstr "Mindegyik, de még ezektől is több"
+msgstr ""
 
 msgid "日本語, Português Français"
-msgstr "日本語, Português Français"
+msgstr ""
 
 msgid "Immutability"
-msgstr "Immutability (Csak olvasható disztrók)"
+msgstr ""
 
 msgid "Let's learn something about our Immutable distros."
-msgstr "Ismerjük meg egy kicsit az Immutable disztribúcióinkat!"
+msgstr ""
 
 msgid "In simple terms, how does 'transactional-update' powering our Immutable distros work?"
-msgstr "Egyszerűen fogalmazva: hogyan működik a „transactional-update” funkció, amely az Immutable disztribúcióinkat támogatja?"
+msgstr ""
 
 msgid "Most system partitions are mounted read-only, preventing changes on disk."
-msgstr "A legtöbb rendszerpartíciót írásvédettként csatlakoztatják, így megakadályozva a lemezen történő módosításokat."
+msgstr ""
 
 msgid "Updates don’t affect the running system until rebooting into a new snapshot."
-msgstr "A frissítések csak akkor lépnek hatályba a futó rendszeren, ha új pillanatképbe indítjuk újra a rendszert."
+msgstr ""
 
 msgid "The system uses transactional-update for safe, atomic upgrades and easy rollback."
-msgstr "A rendszer tranzakciós frissítést alkalmaz a biztonságos, atomikus frissítések és az egyszerű visszavonás érdekében."
+msgstr ""
 
 msgid "All options are correct"
-msgstr "Mindegyik válasz megfelelő"
+msgstr ""
 
 msgid "Which of these are openSUSE Immutable distros?"
-msgstr "Melyek ezek közül az openSUSE Immutable disztribúciók?"
+msgstr ""
 
-#, fuzzy
 msgid "Silverblue, CoreOS"
-msgstr "Silverblue, CoreOS"
+msgstr ""
 
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
-msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
+msgstr ""
 
-#, fuzzy
 msgid "Argon, Krypton"
-msgstr "Argon, Krypton"
+msgstr ""
 
-#, fuzzy
 msgid "Hurd, Darwin"
-msgstr "Hurd, Darwin"
+msgstr ""
 
 msgid "What is openSUSE MicroOS?"
-msgstr "Miféle jószág az openSUSE MicroOS?"
+msgstr ""
 
 msgid "A rolling-release web browser"
-msgstr "Folyamatosan frissülő webböngésző"
+msgstr ""
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr "Az openSUSE közösség által fejlesztett mikroszolgáltatás-alapú operációs rendszer"
+msgstr ""
 
 msgid "A package manager"
-msgstr "Egy mezei csomagkezelő"
+msgstr ""
 
 msgid "A container runtime"
-msgstr "Konténeres futtatási környezet"
+msgstr ""
 
 msgid "Which desktop environment does openSUSE Aeon use by default?"
-msgstr "Melyik asztali környezetet használja alapértelmezés szerint az openSUSE Aeon?"
+msgstr ""
 
-#, fuzzy
 msgid "KDE Plasma"
-msgstr "KDE Plasma"
+msgstr ""
 
-#, fuzzy
 msgid "Xfce"
-msgstr "Xfce"
+msgstr ""
 
-#, fuzzy
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "Enlightenment"
 msgstr "Enlightenment"
 
 msgid "Which desktop environment does openSUSE Kalpa use by default?"
-msgstr "Melyik asztali környezetet használja alapértelmezés szerint az openSUSE Kalpa?"
+msgstr ""
 
 msgid "What is the name of installer in openSUSE Aeon?"
-msgstr "Mi a neve az openSUSE Aeon telepítőjének?"
+msgstr ""
 
-#, fuzzy
 msgid "tik"
-msgstr "tik"
+msgstr ""
 
-#, fuzzy
 msgid "tak"
-msgstr "tak"
+msgstr ""
 
-#, fuzzy
 msgid "Anaconda"
-msgstr "Anaconda"
+msgstr ""
 
-#, fuzzy
 msgid "Agama"
-msgstr "Agama"
+msgstr ""
 
 msgid "What bootloader is used by default in openSUSE Aeon?"
-msgstr "Melyik bootloadert használja alapértelmezésként az openSUSE Aeon?"
+msgstr ""
 
-#, fuzzy
 msgid "lilo"
-msgstr "lilo"
+msgstr ""
 
-#, fuzzy
 msgid "systemd-boot"
-msgstr "systemd-boot"
+msgstr ""
 
-#, fuzzy
 msgid "grub2"
-msgstr "grub2"
+msgstr ""
 
-#, fuzzy
 msgid "BOOTMGR"
-msgstr "BOOTMGR"
+msgstr ""
 
 msgid "What do Aeon and Kalpa have in common?"
-msgstr "Mi a közös az Aeonban és a Kalpában?"
+msgstr ""
 
 msgid "Both are based on MicroOS with a ready-to-use desktop."
-msgstr "Mindkettő a MicroOS-en alapul és készen használható asztali felülettel rendelkezik."
+msgstr ""
 
 msgid "Both use transactional-updates for rpm installation."
-msgstr "Mindkettő tranzakciós frissítéseket használ az RPM-telepítéshez."
+msgstr ""
 
 msgid "Both promote distrobox and flatpaks for extra apps."
-msgstr "Mindkettő a Distroboxot és a Flatpakokat ajánlja további alkalmazásokhoz."
+msgstr ""
 
 msgid "All options are correct."
-msgstr "Mindegyik válasz helyes."
+msgstr ""
 
 msgid "Both Aeon and Kalpa have interesting names indirectly referring to a rolling release. How so?"
-msgstr "Az Aeon és a Kalpa is érdekes nevekkel rendelkezik, amelyek közvetetten utalnak a folyamatos kiadásra. Hogyan is?"
+msgstr ""
 
 msgid "Both are ancient terms meaning long periods or cosmic cycles."
-msgstr "Mindkettő ősi kifejezés, melyek hosszú időtartamokat vagy kozmikus ciklusokat jelentek."
+msgstr ""
 
 msgid "Both are names of famous Western movies where rolling tumbleweed appeared."
-msgstr "Mindkettő olyan híres westernfilm címe, amelyekben gördülő tumbleweed szerepelt."
+msgstr ""
 
 msgid "Both are very old nicknames of the original architect behind MicroOS."
-msgstr "Mindkettő a MicroOS eredeti fejlesztőjének nagyon régi beceneve."
+msgstr ""
 
 msgid "Both refer to software update tools in openSUSE."
-msgstr "Mindkettő az openSUSE szoftverfrissítő eszközeire utal."
+msgstr ""
 
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
-msgstr "2023-ban volt egy kísérlet egy Sway-alapú, \"megváltoztathatatlan\" asztali felülettel. Tudod, mi volt a neve?"
+msgstr ""
 
-#, fuzzy
 msgid "Greyhound"
-msgstr "Greyhound"
+msgstr ""
 
-#, fuzzy
 msgid "Greybeard"
-msgstr "Greybeard"
+msgstr ""
 
-#, fuzzy
 msgid "Bluehair"
-msgstr "Bluehair"
+msgstr ""
 
-#, fuzzy
 msgid "Ultraviolet"
-msgstr "Ultraviolet"
+msgstr ""
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
-msgstr "Melyik eszközt használjuk egy Immutable disztribúció alaprendszerének biztonságos frissítésére?"
+msgstr ""
 
-#, fuzzy
 msgid "zypper dup"
-msgstr "zypper dup"
+msgstr ""
 
-#, fuzzy
 msgid "dnf upgrade"
-msgstr "dnf upgrade"
+msgstr ""
 
-#, fuzzy
 msgid "transactional-update"
-msgstr "transactional-update"
+msgstr ""
 
-#, fuzzy
 msgid "ostree pull"
-msgstr "ostree pull"
+msgstr ""
 
 msgid "How can you install an additional package?"
-msgstr "Hogyan lehet telepíteni egy további csomagot?"
+msgstr ""
 
-#, fuzzy
 msgid "zypper in"
-msgstr "zypper in"
+msgstr ""
 
-#, fuzzy
 msgid "dnf install"
-msgstr "dnf install"
+msgstr ""
 
-#, fuzzy
 msgid "transactional-update pkg install"
-msgstr "transactional-update pkg install"
+msgstr ""
 
-#, fuzzy
 msgid "rpm-ostree install"
-msgstr "rpm-ostree install"
+msgstr ""
 
 msgid "Why is 'transactional-update shell' generally not recommended?"
-msgstr "Miért nem ajánlott általában a „transactional-update shell” parancs?"
+msgstr ""
 
 msgid "Because you can modify all parts of the system."
-msgstr "Mivel a rendszer minden részét módosíthatja."
+msgstr ""
 
 msgid "It creates wormholes into another dimension."
-msgstr "Féreglyukakat hoz létre egy másik dimenzióba."
+msgstr ""
 
 msgid "It can secretly migrate your system to Fedora."
-msgstr "Titokban lecseréli a meglévő rendszeredet egy Fedora alapúra."
+msgstr ""
 
 msgid "Geeko loses a hair every time you use it."
-msgstr "A Geeko minden használatkor elveszít egy szőrszálat."
+msgstr ""
 
 msgid "How do our Immutable distros allow writing to /etc at runtime?"
-msgstr "Hogyan teszi lehetővé egy Immutable disztribúció az \"/etc\" könyvtárba történő írási műveleteket futásidőben?"
+msgstr ""
 
 msgid "By using overlayfs on top of /etc"
-msgstr "Az overlayfs használatával az \"/etc\" könyvtáron"
+msgstr ""
 
 msgid "By mounting a writable Btrfs subvolume directly"
-msgstr "Írható Btrfs-alkötet közvetlen csatlakoztatásával"
+msgstr ""
 
 msgid "By disabling read-only mode during boot"
-msgstr "A rendszerindítás során az írásvédett mód kikapcsolásával"
+msgstr ""
 
 msgid "Through rpm-ostree layering"
-msgstr "Az rpm-ostree rétegezési módszerével"
+msgstr ""
 
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
-msgstr "Az Immutable disztribúciók frissítési mechanizmusán kívül mely egyéb komponensek TÁMOGATJÁK a tranzakciós frissítéseket?"
+msgstr ""
 
-#, fuzzy
 msgid "DNF"
-msgstr "DNF"
+msgstr ""
 
 msgid "Salt and Ansible"
-msgstr "A Salt és az Ansible"
+msgstr ""
 
-#, fuzzy
 msgid "cockpit-tukit"
-msgstr "cockpit-tukit"
+msgstr ""
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
-msgstr "Az alábbi változatlan disztribúciók közül csak egynek vannak rendszeres kiadásai, a többi folyamatos frissítésű. Melyik az?"
+msgstr ""
 
-#, fuzzy
 msgid "Leap Micro"
-msgstr "Leap Micro"
+msgstr ""
 
-#, fuzzy
 msgid "MicroOS"
 msgstr "MicroOS"
 
-#, fuzzy
 msgid "Aeon"
-msgstr "Aeon"
+msgstr ""
 
-#, fuzzy
 msgid "Kalpa"
-msgstr "Kalpa"
+msgstr ""
 
-#, fuzzy
 msgid "Kernel Ninja"
-msgstr "Kernel Ninja"
+msgstr ""
 
 msgid "Interesting facts about the kernel at SUSE and openSUSE"
-msgstr "Érdekes tények a SUSE és az openSUSE rendszermagjáról"
+msgstr ""
 
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
-msgstr "Körülbelül mekkora (MB-ban kifejezve) a SUSE Automotive Linux operációs rendszer alapképének (squashfs) mérete?"
+msgstr ""
 
-#, fuzzy
 msgid "~ 20MB"
-msgstr "~ 20MB"
+msgstr ""
 
-#, fuzzy
 msgid "~ 60MB"
-msgstr "~ 60MB"
+msgstr ""
 
-#, fuzzy
 msgid "~ 240MB"
-msgstr "~ 240MB"
+msgstr ""
 
-#, fuzzy
 msgid "~ 520MB"
-msgstr "~ 520MB"
+msgstr ""
 
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
-msgstr "Hány konfigurációs paramétert (körülbelül) állítanak be a járműipari felhasználásra szánt valós idejű Linux-kernelben a szabványos SLES RT-hez képest?"
+msgstr ""
 
-#, fuzzy
 msgid "~ 50"
-msgstr "~ 50"
+msgstr ""
 
-#, fuzzy
 msgid "~ 500"
-msgstr "~ 500"
+msgstr ""
 
-#, fuzzy
 msgid "~ 50000"
-msgstr "~ 50000"
+msgstr ""
 
-#, fuzzy
 msgid "~ 500000"
-msgstr "~ 500000"
+msgstr ""
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
-msgstr "2025. június 11-én hány javítást alkalmaztak az upstream 15.6-os kernelre (SLES 15 SP6)?"
+msgstr ""
 
-#, fuzzy
 msgid "4231"
-msgstr "4231"
+msgstr ""
 
-#, fuzzy
 msgid "16102"
-msgstr "16102"
+msgstr ""
 
-#, fuzzy
 msgid "32786"
-msgstr "32786"
+msgstr ""
 
-#, fuzzy
 msgid "346870"
-msgstr "346870"
+msgstr ""
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
-msgstr "Melyik kernel-változatot használja alapértelmezésként az openSUSE Leap?"
+msgstr ""
 
-#, fuzzy
 msgid "kernel-suse"
-msgstr "kernel-suse"
+msgstr ""
 
-#, fuzzy
 msgid "kernel-default"
-msgstr "kernel-default"
+msgstr ""
 
-#, fuzzy
 msgid "kernel-leap"
-msgstr "kernel-leap"
+msgstr ""
 
-#, fuzzy
 msgid "kernel-vanilla"
-msgstr "kernel-vanilla"
+msgstr ""
 
 msgid "What is the primary difference between kernel-default and kernel-rt in openSUSE?"
-msgstr "Mi a legfőbb különbség az openSUSE rendszerben a „kernel-default” és a „kernel-rt” között?"
+msgstr ""
 
 msgid "kernel-rt supports older hardware"
-msgstr "kernel-rt régebbi hardvereket is támogat"
+msgstr ""
 
 msgid "kernel-rt disables preemption"
-msgstr "A kernel-rt letiltja az előresorolt megszakítást"
+msgstr ""
 
 msgid "kernel-rt has full real-time preemption enabled"
-msgstr "A kernel-rt-ben, teljes valósidejű előresorolt megszakítás engedélyezve van"
+msgstr ""
 
 msgid "kernel-rt has less security features"
-msgstr "A kernel-rt kevesebb biztonsági funkcióval rendelkezik"
+msgstr ""
 
 msgid "What does 'PREEMPT_RT' enable in the Linux kernel?"
-msgstr "Mit tesz lehetővé a „PREEMPT_RT” beállítás a Linux kernelen belül?"
+msgstr ""
 
 msgid "Real-time audio streaming"
-msgstr "Valós idejű hangátvitel"
+msgstr ""
 
 msgid "Full preemption, reducing latency in critical sections"
-msgstr "Teljes előresorolás, a késleltetés csökkentése a kritikus szegmensekben"
+msgstr ""
 
 msgid "Faster boot times"
-msgstr "Rövidebb bootolási-idő"
+msgstr ""
 
 msgid "Better energy efficiency"
-msgstr "Jobb energiahatékonyság"
+msgstr ""
 
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
-msgstr "Mi a neve annak a (bitang) gyors eszköznek, amellyel kiterjeszthetők a kernel-javítások?"
+msgstr ""
 
-#, fuzzy
 msgid "gitlab-kernel"
-msgstr "gitlab-kernel"
+msgstr ""
 
-#, fuzzy
 msgid "obs-kernel"
-msgstr "obs-kernel"
+msgstr ""
 
-#, fuzzy
 msgid "rapidquilt"
-msgstr "rapidquilt"
+msgstr ""
 
-#, fuzzy
 msgid "susepatch"
-msgstr "susepatch"
+msgstr ""
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
-msgstr "Az openSUSE-ban általában hol tárolják a kernel-összeállítási konfigurációkat a sourcetree-ben?"
+msgstr ""
 
-#, fuzzy
 msgid "configs/"
-msgstr "configs/"
+msgstr ""
 
-#, fuzzy
 msgid "source/"
-msgstr "source/"
+msgstr ""
 
-#, fuzzy
 msgid "etc/"
-msgstr "etc/"
+msgstr ""
 
-#, fuzzy
 msgid "boot/"
-msgstr "boot/"
+msgstr ""
 
 msgid "What does the 'kernel-devel' package provide in openSUSE?"
-msgstr "Mit tartalmaz a „kernel-devel” csomag az openSUSE-ban?"
+msgstr ""
 
 msgid "Common kernel headers used as a base for building external kernel modules"
-msgstr "A külső kernelmodulok összeállításához alapként használt általános kernel-fejlécek"
+msgstr ""
 
 msgid "Complete kernel source code required for debugging and building modules"
-msgstr "A modulok hibakereséséhez és fordításához szükséges teljes kernel-forráskódját"
+msgstr ""
 
 msgid "Documentation and manuals for the Linux kernel"
-msgstr "A Linux-kernelhez tartozó dokumentációt és a kézikönyveket"
+msgstr ""
 
 msgid "A hidden picture of the latest SUSE kernel team's team building event"
-msgstr "Egy rejtett fotó a SUSE legújabb kernel-csapatának csapatépítő rendezvényéről"
+msgstr ""
 
 msgid "Which of the following is a program to load kernel modules?"
-msgstr "Az alábbiak közül melyik egy kernelmodulok betöltésére szolgáló program?"
+msgstr ""
 
-#, fuzzy
 msgid "mkinitrd"
-msgstr "mkinitrd"
+msgstr ""
 
-#, fuzzy
 msgid "zypper"
-msgstr "zypper"
+msgstr ""
 
-#, fuzzy
 msgid "modprobe"
-msgstr "modprobe"
+msgstr ""
 
-#, fuzzy
 msgid "systemctl"
-msgstr "systemctl"
+msgstr ""
 
 msgid "How often is openSUSE Tumbleweed's kernel updated (typically)?"
-msgstr "Milyen gyakran frissül (úgy általában) az openSUSE Tumbleweed kernele?"
+msgstr ""
 
 msgid "Every 6 months"
-msgstr "6 havonta"
+msgstr ""
 
 msgid "Once a year"
-msgstr "Évente egyszer"
+msgstr ""
 
 msgid "Weekly or even more frequently"
-msgstr "Hetente vagy gyakrabban"
+msgstr ""
 
 msgid "Only when Linus pushes a new tag"
-msgstr "Amint Linus egy tag-et betol a forráskódba"
+msgstr ""
 
 msgid "What does the 'vanilla' kernel flavor in openSUSE represent?"
-msgstr "Mit jelent az openSUSE-ban a „vanilla” kernelváltozat?"
+msgstr ""
 
 msgid "Kernel with experimental SUSE patches"
-msgstr "Kísérleti SUSE-javításokat tartalmazó kernelt"
+msgstr ""
 
 msgid "Unmodified upstream Linux kernel"
-msgstr "Módosítatlan upstream Linux-kernel"
+msgstr ""
 
 msgid "Kernel optimized for servers"
-msgstr "Szerverekhez optimalizált kernelt"
+msgstr ""
 
 msgid "Kernel with enhanced SELinux support"
-msgstr "Továbbfejlesztett SELinux-támogatással rendelkező kernelt"
+msgstr ""
 
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
-msgstr "Melyik kernel-indítási paraméter segít általában a videokártya-illesztőprogrammal kapcsolatos problémák hibakeresésében?"
+msgstr ""
 
-#, fuzzy
 msgid "quiet"
-msgstr "quiet"
+msgstr ""
 
-#, fuzzy
 msgid "nomodeset"
-msgstr "nomodeset"
+msgstr ""
 
-#, fuzzy
 msgid "bumblebee"
-msgstr "bumblebee"
+msgstr ""
 
-#, fuzzy
 msgid "noacpi"
-msgstr "noacpi"
+msgstr ""
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
-msgstr "Melyik valós idejű ütemezési szabály a leginkább determinisztikusabb Linux rendszerek esetében?"
+msgstr ""
 
-#, fuzzy
 msgid "SCHED_OTHER"
-msgstr "SCHED_OTHER"
+msgstr ""
 
-#, fuzzy
 msgid "SCHED_FIFO"
-msgstr "SCHED_FIFO"
+msgstr ""
 
-#, fuzzy
 msgid "SCHED_BATCH"
-msgstr "SCHED_BATCH"
+msgstr ""
 
-#, fuzzy
 msgid "SCHED_IDLE"
-msgstr "SCHED_IDLE"
+msgstr ""
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
-msgstr "Mi a neve annak a csomagnak, amely kiegészítő firmware-t biztosít az openSUSE Leap rendszerben?"
+msgstr ""
 
-#, fuzzy
 msgid "kernel-firmware-extra"
-msgstr "kernel-firmware-extra"
+msgstr ""
 
-#, fuzzy
 msgid "firmware-addon-leap"
-msgstr "firmware-addon-leap"
+msgstr ""
 
-#, fuzzy
 msgid "kernel-default-extra"
-msgstr "kernel-default-extra"
+msgstr ""
 
-#, fuzzy
 msgid "suse-firmware-pack"
-msgstr "suse-firmware-pack"
+msgstr ""
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
-msgstr "Hogyan lehet az AppArmort az openSUSE rendszerben a GRUB kernel parancssorán keresztül engedélyezni?"
+msgstr ""
 
-#, fuzzy
 msgid "apparmor=1"
-msgstr "apparmor=1"
+msgstr ""
 
-#, fuzzy
 msgid "security=apparmor"
-msgstr "security=apparmor"
+msgstr ""
 
-#, fuzzy
 msgid "enable=apparmor"
-msgstr "enable=apparmor"
+msgstr ""
 
-#, fuzzy
 msgid "selinux=off apparmor=on"
-msgstr "selinux=off apparmor=on"
+msgstr ""
 
 msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
-msgstr "Az openSUSE kernelt illetően mit jelent a „KOTD” rövidítés?"
+msgstr ""
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr "Kernel Of The Day — az OBS Kernel:xxx projektek keretében naponta összeállított kernelek"
+msgstr ""
 
-#, fuzzy
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr ""
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
-msgstr "Keep Our Tux Dancing — a titkos kernel-táncparti"
+msgstr ""
 
-#, fuzzy
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr ""
 
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
-msgstr "A SUSE a Linux-kernelhez való hozzájárulások tekintetében a top 6 között szerepel (LF 2017). De a hozzájárulások hány százalékát adja a SUSE?"
+msgstr ""
 
 msgid "Less than 1%"
-msgstr "Kevesebb, mint 1%"
+msgstr ""
 
 msgid "Around 3%"
-msgstr "Olyan 3% körüli lehet"
+msgstr ""
 
 msgid "About 5%"
-msgstr "Hozzávetőlegesen 5%"
+msgstr ""
 
 msgid "More than 20%"
-msgstr "Több, mint 20%"
+msgstr ""
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
-msgstr "Chameleon Fun for kids"
+msgstr ""
 
 msgid "A colorful quiz about chameleons and openSUSE for curious kids!"
-msgstr "Egy jópofa kvíz a kaméleonokról és az openSUSE-ról a kíváncsi gyerekeknek!"
+msgstr ""
 
 msgid "What color can a chameleon turn into?"
-msgstr "Milyen színűvé tud válni egy kaméleon?"
+msgstr ""
 
 msgid "Only green"
-msgstr "Csak zölddé"
+msgstr ""
 
 msgid "Any color, even purple!"
-msgstr "Bármelyik színt felveheti, még a lilát is!"
+msgstr ""
 
 msgid "Many colors like green, brown, yellow"
-msgstr "Sokfélét, például: zöldet, barnát vagy sárgát is"
+msgstr ""
 
 msgid "Only black and white"
-msgstr "Csak feketét és fehéret"
+msgstr ""
 
 msgid "What is the mascot of openSUSE?"
-msgstr "Mi az openSUSE kabalája?"
+msgstr ""
 
 msgid "A penguin"
-msgstr "Egy pingvin"
+msgstr ""
 
 msgid "A chameleon called Geeko"
-msgstr "A Geeko nevű kaméleon"
+msgstr ""
 
 msgid "A dragon"
-msgstr "Egy sárkány"
+msgstr ""
 
 msgid "A robot"
-msgstr "Egy robot"
+msgstr ""
 
 msgid "Why do chameleons change color?"
-msgstr "Miért váltogatják a kaméleonon a színűket?"
+msgstr ""
 
 msgid "To show how they feel or to hide"
-msgstr "Azért, hogy megmutassák mit éreznek vagy a rejtőzködéshez"
+msgstr ""
 
 msgid "Because they are bored"
-msgstr "Mert unják magukat"
+msgstr ""
 
 msgid "Because they are cold-blooded robots"
-msgstr "Azért, mert hidegvérű robotok"
+msgstr ""
 
 msgid "To glow in the dark"
-msgstr "Hogy világítsanak a sötétben"
+msgstr ""
 
 msgid "Chameleons are primarily found in which part of the world?"
-msgstr "A kaméleonok elsősorban a világ melyik részén fordulnak elő?"
+msgstr ""
 
 msgid "South America"
-msgstr "Dél-Amerika"
+msgstr ""
 
 msgid "Africa and Madagascar"
-msgstr "Afrika és Madagaszkár"
+msgstr ""
 
 msgid "Southeast Asia"
-msgstr "Délkelet-Ázsiában"
+msgstr ""
 
 msgid "Antarctica"
-msgstr "Az Antarktiszon"
+msgstr "Antartide"
 
 msgid "How do chameleons catch their food?"
-msgstr "Hogyan fogják meg a kaméleonok a zsákmányukat?"
+msgstr ""
 
 msgid "With their hands"
-msgstr "A kezükkel"
+msgstr ""
 
 msgid "With their long sticky tongue"
-msgstr "A ragadós, hosszú nyelvükkel"
+msgstr ""
 
 msgid "By shouting at it"
-msgstr "Ordibálással"
+msgstr ""
 
 msgid "With a net"
-msgstr "Vetőhálóval"
+msgstr ""
 
 msgid "What do chameleons eat?"
-msgstr "Mit esznek a kaméleonok?"
+msgstr ""
 
 msgid "Ice cream"
-msgstr "Jégkrémet"
+msgstr ""
 
 msgid "Insects"
-msgstr "Rovarokat"
+msgstr ""
 
 msgid "Pineapples"
-msgstr "Ananászt"
+msgstr ""
 
 msgid "Hot dogs"
-msgstr "Hot-dogot"
+msgstr ""
 
 msgid "What makes openSUSE special?"
-msgstr "Mitől olyan különleges az openSUSE rendszer?"
+msgstr ""
 
 msgid "It can talk to animals"
-msgstr "Tud az állatok nyelvén"
+msgstr ""
 
 msgid "It’s a modern, free operating system anyone can use — including you!"
-msgstr "Ez egy modern, ingyenes operációs rendszer, amelyet bárki használhat – beleértve téged is!"
+msgstr ""
 
 msgid "It’s made of chameleon scales"
-msgstr "Kaméleonpikkelyekből készült"
+msgstr ""
 
 msgid "It’s only for secret agents"
-msgstr "Igazából titkos ügynököknek készült"
+msgstr ""
 
 msgid "Do all chameleons look the same?"
-msgstr "Minden kaméleon egyformán néz ki?"
+msgstr ""
 
 msgid "Yes, they are all green and grumpy"
-msgstr "Igen, mindegyik zöld színű és mogorva"
+msgstr ""
 
 msgid "No, they come in many shapes, sizes, and colors"
-msgstr "Nem, rengetegféle formában, méretben és színben kaphatók"
+msgstr ""
 
 msgid "Yes, they all wear hats"
-msgstr "Igen, mindegyik kalapot visel"
+msgstr ""
 
 msgid "They all wear openSUSE stickers"
-msgstr "Mindannyian openSUSE-matricákat viselnek"
+msgstr ""
 
 msgid "What does the word 'open' in openSUSE mean?"
-msgstr "Mit jelent az „open” szó az openSUSE-ban?"
+msgstr ""
 
 msgid "It’s a password"
-msgstr "Egy jelszó"
+msgstr ""
 
 msgid "It means everyone can use it and help make it better"
-msgstr "Ez azt jelenti, hogy mindenki használhatja, és hozzájárulhat a fejlesztéséhez"
+msgstr ""
 
 msgid "It’s only for opening doors"
-msgstr "Csak ajtónyitásra szolgál"
+msgstr ""
 
 msgid "It’s about opening candy wrappers"
-msgstr "Arra utal, hogyan kell a cukorkák csomagolását feltépni"
+msgstr ""
 
 msgid "Can chameleons move their eyes separately?"
-msgstr "A kaméleonok képesek-e a szemüket külön-külön mozgatni?"
+msgstr ""
 
 msgid "No, they blink both eyes together"
-msgstr "Nem, mindkét szemükkel egyszerre pislognak"
+msgstr ""
 
 msgid "Yes, they can look in two directions at once!"
-msgstr "Igen, egyszerre két irányba is tudnak nézni!"
+msgstr ""
 
 msgid "They close one eye when sleeping"
-msgstr "Alvás közben az egyik szemük csukva van"
+msgstr ""
 
 msgid "No, their eyes are always closed"
-msgstr "Nem, a szemüket állandóan csukva tartják"
+msgstr ""
 
 msgid "openSUSE Expert"
-msgstr "openSUSE haladóknak"
+msgstr ""
 
 msgid "Challenge other users in our leaderboard. 30 seconds per question. Stop anytime."
-msgstr "Mérkőzz meg más felhasználókkal a ranglistánkon! Kérdésenként 30 másodperc áll rendelkezésedre. Bármikor megszakíthatod."
+msgstr ""
 
 msgid "What is the mascot of openSUSE project?"
-msgstr "Mi az openSUSE-projekt kabalája?"
+msgstr ""
 
-#, fuzzy
 msgid "Pascal"
-msgstr "Pascal"
+msgstr ""
 
-#, fuzzy
 msgid "TwoPac"
-msgstr "TwoPac"
+msgstr ""
 
-#, fuzzy
 msgid "Geeko"
-msgstr "Geeko"
+msgstr ""
 
-#, fuzzy
 msgid "BeefyMiracle"
-msgstr "BeefyMiracle"
+msgstr ""
 
 msgid "What is the main goal of the openSUSE project?"
-msgstr "Mi az openSUSE-projekt fő célja?"
+msgstr ""
 
 msgid "Supporting and spreading open-source software"
-msgstr "A nyílt forráskódú szoftverek támogatása és népszerűsítése"
+msgstr ""
 
 msgid "Developing mobile applications"
-msgstr "Mobilalkalmazások fejlesztése"
+msgstr ""
 
 msgid "Producing video games"
-msgstr "Videójátékok fejlesztése"
+msgstr ""
 
 msgid "Research in artificial intelligence"
-msgstr "Kutatás a mesterséges intelligencia területén"
+msgstr ""
 
 msgid "What are Aeon and Kalpa?"
-msgstr "Mi az Aeon és a Kalpa?"
+msgstr ""
 
 msgid "Modern 'Immutable' desktops with GNOME and KDE"
-msgstr "Modern, „változatlan” asztali környezetek GNOME-mal és KDE-vel"
+msgstr ""
 
 msgid "Rolling distributions with transactional updates using flatpaks on the desktop"
-msgstr "Folyamatos disztribúciók tranzakciós frissítésekkel flatpakok használatával asztali környezetben"
+msgstr ""
 
 msgid "Distributions built on top of MicroOS"
-msgstr "A MicroOS-ra épülő disztribúciók"
+msgstr ""
 
 msgid "Where was the openSUSE project founded?"
-msgstr "Hol jött létre az openSUSE-projekt?"
+msgstr ""
 
 msgid "In Choustníkovo Hradiště"
-msgstr "Choustníkovo Hradiště-ben"
+msgstr ""
 
 msgid "At LinuxWorld Conference & Expo 2005 in San Francisco"
-msgstr "A 2005-ös LinuxWorld Conference & Expo rendezvényen San Franciscóban"
+msgstr ""
 
 msgid "In Redmont"
-msgstr "Redmontban"
+msgstr ""
 
 msgid "At the University of Helsinki"
-msgstr "A Helsinki Egyetemen"
+msgstr ""
 
 msgid "What is the default filesystem in openSUSE?"
-msgstr "Mi az openSUSE alapértelmezett fájlrendszere?"
+msgstr ""
 
-#, fuzzy
 msgid "ReiserFS"
 msgstr "ReiserFS"
 
-#, fuzzy
 msgid "Btrfs"
 msgstr "Btrfs"
 
-#, fuzzy
 msgid "XFS"
 msgstr "XFS"
 
-#, fuzzy
 msgid "InterPlanetary File System"
-msgstr "InterPlanetary File System"
+msgstr ""
 
 msgid "What’s the name of the new installer in Leap 16?"
-msgstr "Mi a neve az új telepítőprogramnak a Leap 16-ban?"
+msgstr ""
 
-#, fuzzy
 msgid "Sypper"
-msgstr "Sypper"
+msgstr ""
 
-#, fuzzy
 msgid "Cayman"
-msgstr "Cayman"
+msgstr ""
 
 msgid "Which openSUSE distribution is optimized for running containers and micro services?"
-msgstr "Melyik openSUSE-disztribúció van optimalizálva konténerekhez és mikroszolgáltatások futtatására?"
+msgstr ""
 
 msgid "MicroOS and Leap Micro"
-msgstr "MicroOS és Leap Micro"
+msgstr ""
 
-#, fuzzy
 msgid "Tumbleweed"
-msgstr "Tumbleweed"
+msgstr ""
 
-#, fuzzy
 msgid "Leap"
-msgstr "Leap"
+msgstr ""
 
-#, fuzzy
 msgid "Slowroll"
-msgstr "Slowroll"
+msgstr ""
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
-msgstr "Melyik openSUSE rolling disztribúció jelent stabilabb alternatívát a Tumbleweedhez azoknak a felhasználóknak, akik kevesebb meglepetést szeretnének?"
+msgstr ""
 
-#, fuzzy
 msgid "Tumblebleed"
-msgstr "Tumblebleed"
+msgstr ""
 
-#, fuzzy
 msgid "Leapfrog"
-msgstr "Leapfrog"
+msgstr ""
 
-#, fuzzy
 msgid "Zyppernap"
-msgstr "Zyppernap"
+msgstr ""
 
 msgid "What is Leap 16.0?"
-msgstr "Mi a Leap 16.0?"
+msgstr ""
 
 msgid "A traditional Linux distribution, the successor to Leap 15.6, released in Fall 2025"
-msgstr "Egy hagyományos Linux-disztribúció, a Leap 15.6 utódja, amelyet 2025 őszén adtak ki"
+msgstr ""
 
 msgid "An immutable distribution with GNOME and KDE"
-msgstr "Egy változatlan disztribúció GNOME-mal és KDE-vel"
+msgstr ""
 
 msgid "A rolling release for mobile devices"
-msgstr "Folyamatos kiadású verzió, mobil eszközökre"
+msgstr ""
 
 msgid "A container-focused system like MicroOS"
-msgstr "Egy olyan konténeralapú rendszer, mint a MicroOS"
+msgstr ""
 
 msgid "Which desktop environment is the default for openSUSE Leap 15?"
-msgstr "Melyik asztali környezet az alapértelmezett az openSUSE Leap 15 rendszerben?"
+msgstr ""
 
 msgid "There is no default. We leave choice to the user."
-msgstr "Nincs alapértelmezett beállítás. A választást a felhasználóra bízzuk."
+msgstr ""
 
 msgid "What is the name of the openSUSE build system?"
-msgstr "Mi a neve az openSUSE összeállítási rendszerének?"
+msgstr ""
 
-#, fuzzy
 msgid "OBS (Open Build Service)"
-msgstr "OBS (Open Build Service)"
+msgstr ""
 
-#, fuzzy
 msgid "Weblate"
-msgstr "Weblate"
+msgstr ""
 
-#, fuzzy
 msgid "Koji"
-msgstr "Koji"
+msgstr ""
 
-#, fuzzy
 msgid "Autobuilder"
-msgstr "Autobuilder"
+msgstr ""
 
 msgid "How can you make changes to a root partition on a transactional-update based system?"
-msgstr "Hogyan lehet módosításokat végrehajtani egy tranzakciós frissítésen alapuló rendszer gyökérpartícióján?"
+msgstr ""
 
 msgid "Use transactional-update command and reboot into a new snapshot"
-msgstr "A „transactional-update” paranccsal, majd a rendszer újraindításával egy új pillanatképbe"
+msgstr ""
 
 msgid "By using sudo-sudo to gain giga privileges"
-msgstr "A „sudo-sudo” használatával, giga jogosultságok megszerzésével"
+msgstr ""
 
 msgid "By using Salt or Ansible"
-msgstr "A Salt vagy Ansible parancsokkal"
+msgstr ""
 
 msgid "You have to edit files under a user netrunner and cross fingers"
-msgstr "A netrunner felhasználónév alatt kell szerkesztened a fájlokat, aztán reménykedni, hátha flottul megy"
+msgstr ""
 
 msgid "What is 'YaST'?"
-msgstr "Mi a \"YaST\"?"
+msgstr ""
 
 msgid "A chameleon species native to Africa"
-msgstr "Egy Afrikában őshonos kaméleonfaj"
+msgstr ""
 
 msgid "A free software for configuration of operating system"
-msgstr "Egy ingyenes szoftver az operációs rendszer beállításához"
+msgstr ""
 
 msgid "The default web browser"
-msgstr "Az alapértelmezett webböngésző"
+msgstr ""
 
 msgid "A programming language"
-msgstr "Egy programozási nyelv"
+msgstr ""
 
-#, fuzzy
 msgid "tao"
-msgstr "tao"
+msgstr ""
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
-msgstr "Hol lehet leginkább tájékozódni a Rancher és a SUSE projektjeiről?"
+msgstr ""
 
-#, fuzzy
 msgid "Rancher Academy"
-msgstr "Rancher Academy"
+msgstr ""
 
-#, fuzzy
 msgid "Cow College"
-msgstr "Cow College"
+msgstr ""
 
-#, fuzzy
 msgid "Moo University"
-msgstr "Moo University"
+msgstr ""
 
-#, fuzzy
 msgid "Cowboy Hat"
-msgstr "Cowboy Hat"
+msgstr ""
 
 msgid "Where can you install additional packages or packages with changes that didn't make it into the main distribution?"
-msgstr "Hol lehet olyan kiegészítő csomagokat vagy olyan módosított csomagokat telepíteni, amelyek nem kerültek be a fő disztribúcióba?"
+msgstr ""
 
 msgid "With a single click from software.opensuse.org"
-msgstr "Egyetlen kattintással a software.opensuse.org oldalról"
+msgstr ""
 
 msgid "By browsing the myriad of projects on OBS build.opensuse.org"
-msgstr "Az OBS build.opensuse.org oldalon található számtalan projekt böngészésével"
+msgstr ""
 
 msgid "Through command opi, from the Packman repository or from Flathub"
-msgstr "Az opi paranccsal, a Packman-repóból vagy a Flathubról"
+msgstr ""
 
 msgid "When submitting packages to openSUSE, where do you send them (metaphorically)?"
-msgstr "Amikor csomagokat küldesz be az openSUSE-nak, hová küldöd őket (átvitt értelemben)?"
+msgstr ""
 
 msgid "build.opensuse.org, not a carrier pigeon"
-msgstr "build.opensuse.org keresztül, hát nem is egy postagalambbal"
+msgstr ""
 
 msgid "To the cloud (literally)"
-msgstr "A felhőbe (szó szerint)"
+msgstr ""
 
 msgid "By email to the Geeko mascot"
-msgstr "E-mailben Geekónak, a kabalafigurának"
+msgstr ""
 
 msgid "Via smoke signals from Nuremberg"
-msgstr "A Nürnbergből érkező füstjelek útján"
+msgstr ""
 
 msgid "Where can you check the current status of openSUSE infrastructure?"
-msgstr "Hol lehet ellenőrizni az openSUSE infrastruktúrájának aktuális állapotát?"
+msgstr ""
 
-#, fuzzy
 msgid "status.opensuse.org"
-msgstr "status.opensuse.org"
+msgstr ""
 
-#, fuzzy
 msgid "isopensusedown.com"
-msgstr "isopensusedown.com"
+msgstr ""
 
-#, fuzzy
 msgid "yast-status-viewer"
-msgstr "yast-status-viewer"
+msgstr ""
 
-#, fuzzy
 msgid "zypper up --ping"
-msgstr "zypper up --ping"
+msgstr ""
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
-msgstr "Mi a neve annak az új csomagkezelő grafikus felületnek, amely a YaST helyébe lép?"
+msgstr ""
 
-#, fuzzy
 msgid "Gandalf"
-msgstr "Gandalf"
+msgstr ""
 
-#, fuzzy
 msgid "Zypperella"
-msgstr "Zypperella"
+msgstr ""
 
-#, fuzzy
 msgid "Myrlyn"
-msgstr "Myrlyn"
+msgstr ""
 
-#, fuzzy
 msgid "DnfDumbledore"
-msgstr "DnfDumbledore"
+msgstr ""
 
 msgid "How often does openSUSE Leap release a new stable version?"
-msgstr "Milyen gyakran jelenik meg az openSUSE Leap új stabil verziója?"
+msgstr ""
 
 msgid "Every 5 years when the stars align"
-msgstr "5 évente, ekkor a legkedvezőbb a csillagok állása"
+msgstr ""
 
 msgid "Every 12 months with 6 months overlap"
-msgstr "12 havonta, 6 hónapos átfedéssel"
+msgstr ""
 
 msgid "Every month"
-msgstr "Havonta"
+msgstr ""
 
 msgid "When the Geeko gets bored"
-msgstr "Ha kínozza Geekót az unalom"
+msgstr ""
 
 msgid "Which openSUSE service is used for localization and translation management?"
-msgstr "Melyik openSUSE-szolgáltatást használják a lokalizációhoz és a fordításkezeléshez?"
+msgstr ""
 
-#, fuzzy
 msgid "OBS"
-msgstr "OBS"
+msgstr ""
 
-#, fuzzy
 msgid "Build Service"
-msgstr "Build Service"
+msgstr ""
 
-#, fuzzy
 msgid "Kickstart"
-msgstr "Kickstart"
+msgstr ""
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
-msgstr "Melyik parancsot használnád az openSUSE szoftvercsomagjainak frissítéséhez a terminálról?"
+msgstr ""
 
-#, fuzzy
 msgid "zypper update"
-msgstr "zypper update"
+msgstr ""
 
-#, fuzzy
 msgid "apt-get update"
-msgstr "apt-get update"
+msgstr ""
 
-#, fuzzy
 msgid "pacman -Syu"
-msgstr "pacman -Syu"
+msgstr ""
 
 msgid "What does Tumbleweed represent in openSUSE?"
-msgstr "Mit jelképez a Tumbleweed az openSUSE-ban?"
+msgstr ""
 
 msgid "A rolling release distribution"
-msgstr "Egy folyamatosan frissülő disztribúciót"
+msgstr ""
 
 msgid "A desktop environment"
-msgstr "Egy asztali környezetet"
+msgstr ""
 
 msgid "The mascot"
-msgstr "Egy kabalát"
+msgstr ""
 
 msgid "An installer"
-msgstr "Egy csomagtelepítőt"
+msgstr ""
 
 msgid "Which openSUSE distribution is known for being a stable point release?"
-msgstr "Melyik openSUSE-disztribúció ismeretes, arról hogy stabil al-verziós kiadás?"
+msgstr ""
 
 msgid "What is the primary focus of openSUSE MicroOS?"
-msgstr "Milyen főbb célra szánták az openSUSE MicroOS-t?"
+msgstr ""
 
 msgid "Immutable OS optimized for containers and microservices"
-msgstr "Konténerekhez és mikroszolgáltatásokhoz optimalizált, változatlan operációs rendszer"
+msgstr ""
 
 msgid "Gaming"
-msgstr "Játékra szánták"
+msgstr "Gioco"
 
 msgid "Desktop productivity"
-msgstr "Asztali számítógépes fejlesztésre"
+msgstr ""
 
 msgid "Scientific computing"
-msgstr "Tudományos számításokhoz"
+msgstr ""
 
 msgid "What tool is used to create and manage snapshots on openSUSE?"
-msgstr "Milyen eszközt használnak az openSUSE rendszeren a pillanatképek létrehozásához és kezeléséhez?"
+msgstr ""
 
-#, fuzzy
 msgid "snapper"
 msgstr "snapper"
 
-#, fuzzy
 msgid "timeshift"
-msgstr "timeshift"
+msgstr ""
 
-#, fuzzy
 msgid "btrfs-snap"
-msgstr "btrfs-snap"
+msgstr ""
 
-#, fuzzy
 msgid "rsnapshot"
-msgstr "rsnapshot"
+msgstr ""
 
 msgid "What is openSUSE's default text editor?"
-msgstr "Mi az openSUSE alapértelmezett szövegszerkesztője?"
+msgstr ""
 
-#, fuzzy
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
-#, fuzzy
 msgid "nano"
-msgstr "nano"
+msgstr ""
 
-#, fuzzy
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
-#, fuzzy
 msgid "gedit"
-msgstr "gedit"
+msgstr ""
 
 msgid "Which command would install a package in openSUSE?"
-msgstr "Melyik parancs segítségével lehet egy csomagot telepíteni az openSUSE-ban?"
+msgstr ""
 
-#, fuzzy
 msgid "zypper install package-name"
-msgstr "zypper install package-name"
+msgstr ""
 
-#, fuzzy
 msgid "apt-get install package-name"
-msgstr "apt-get install package-name"
+msgstr ""
 
-#, fuzzy
 msgid "dnf install package-name"
-msgstr "dnf install package-name"
+msgstr ""
 
-#, fuzzy
 msgid "pacman -S package-name"
-msgstr "pacman -S package-name"
+msgstr ""
 
 msgid "What is the name of the official openSUSE community forum?"
-msgstr "Mi a neve az openSUSE hivatalos közösségi fórumának?"
+msgstr ""
 
-#, fuzzy
 msgid "forums.opensuse.org"
-msgstr "forums.opensuse.org"
+msgstr ""
 
-#, fuzzy
 msgid "discuss.opensuse.com"
-msgstr "discuss.opensuse.com"
+msgstr ""
 
-#, fuzzy
 msgid "geeko-talk.net"
-msgstr "geeko-talk.net"
+msgstr ""
 
-#, fuzzy
 msgid "opensuse-chat.org"
-msgstr "opensuse-chat.org"
+msgstr ""
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
-msgstr "Melyik eszközt ajánlják a szoftver-tárak és csomagok kezeléséhez az openSUSE rendszerben?"
+msgstr ""
 
-#, fuzzy
 msgid "yum"
-msgstr "yum"
+msgstr ""
 
-#, fuzzy
 msgid "apt"
-msgstr "apt"
+msgstr ""
 
-#, fuzzy
 msgid "pacman"
-msgstr "pacman"
+msgstr ""
 
 msgid "What is the name of openSUSE's flagship rolling release?"
-msgstr "Mi a neve az openSUSE legfontosabb, folyamatosan frissülő kiadásának?"
+msgstr ""
 
 msgid "What command will list all repositories in openSUSE?"
-msgstr "Melyik paranccsal lehet kilistáztatni az openSUSE összes repóját?"
+msgstr ""
 
-#, fuzzy
 msgid "zypper repos"
-msgstr "zypper repos"
+msgstr ""
 
-#, fuzzy
 msgid "apt list"
-msgstr "apt list"
+msgstr ""
 
-#, fuzzy
 msgid "dnf repolist"
-msgstr "dnf repolist"
+msgstr ""
 
-#, fuzzy
 msgid "pacman -Q"
-msgstr "pacman -Q"
+msgstr ""
 
 msgid "What is the primary license used by openSUSE?"
-msgstr "Melyik az openSUSE által használt fő licenc?"
+msgstr ""
 
-#, fuzzy
 msgid "GPL (GNU General Public License)"
-msgstr "GPL (GNU General Public License)"
+msgstr ""
 
 msgid "MIT License"
-msgstr "MIT licenc"
+msgstr ""
 
 msgid "Apache License"
-msgstr "Apache licenc"
+msgstr ""
 
 msgid "Proprietary"
-msgstr "Saját fejlesztésű (Proprietary)"
+msgstr ""
 
 msgid "What does OBS stand for in openSUSE context?"
-msgstr "Mit jelent az OBS az openSUSE összefüggésében?"
+msgstr ""
 
-#, fuzzy
 msgid "Open Build Service"
-msgstr "Open Build Service"
+msgstr ""
 
-#, fuzzy
 msgid "Online Backup System"
-msgstr "Online Backup System"
+msgstr ""
 
-#, fuzzy
 msgid "Open Box Scheduler"
-msgstr "Open Box Scheduler"
+msgstr ""
 
-#, fuzzy
 msgid "Official Build System"
-msgstr "Official Build System"
+msgstr ""
 
 msgid "Which openSUSE service provides live build environments and package repositories?"
-msgstr "Melyik openSUSE-szolgáltatás biztosít élő fejlesztői környezetet és csomag-tárolókat?"
+msgstr ""
 
-#, fuzzy
 msgid "Open Build Service (OBS)"
-msgstr "Open Build Service (OBS)"
+msgstr ""
 
-#, fuzzy
 msgid "YaST"
 msgstr "YaST"
 
-#, fuzzy
 msgid "Snapper"
 msgstr "Snapper"
 
 msgid "What is the openSUSE project's primary goal?"
-msgstr "Mi az openSUSE-projekt elsődleges célja?"
+msgstr ""
 
 msgid "Promoting and supporting free and open source software"
-msgstr "A szabad és nyílt forráskódú szoftverek népszerűsítése és támogatása"
+msgstr ""
 
 msgid "Creating proprietary software"
-msgstr "Saját fejlesztésű szoftverek készítése"
+msgstr ""
 
 msgid "Developing video games"
-msgstr "Videójátékok fejlesztése"
+msgstr ""
 
 msgid "Providing cloud services"
-msgstr "Felhőalapú szolgáltatások nyújtása"
+msgstr ""
 
 msgid "Which openSUSE tool is used for system configuration and management?"
-msgstr "Melyik openSUSE-eszközt használják a rendszer konfigurálására és kezelésére?"
+msgstr ""
 
-#, fuzzy
 msgid "Gnome Control Center"
-msgstr "Gnome Control Center"
+msgstr ""
 
 msgid "KDE System Settings"
-msgstr "KDE rendszerbeállítások"
+msgstr "Impostazioni di sistema KDE"
 
-#, fuzzy
 msgid "Synaptic"
-msgstr "Synaptic"
+msgstr ""
 
 msgid "What is the command to check system snapshots on openSUSE?"
-msgstr "Mi az a parancs, amellyel ellenőrizni lehet a rendszer pillanatfelvételeit az openSUSE-on?"
+msgstr ""
 
-#, fuzzy
 msgid "snapper list"
-msgstr "snapper list"
+msgstr ""
 
-#, fuzzy
 msgid "timeshift --list"
-msgstr "timeshift --list"
+msgstr ""
 
-#, fuzzy
 msgid "btrfs subvolume list"
-msgstr "btrfs subvolume list"
+msgstr ""
 
-#, fuzzy
 msgid "rsnapshot config"
-msgstr "rsnapshot config"
+msgstr ""
 
 msgid "What package format does openSUSE use?"
-msgstr "Milyen csomagformátumot használ az openSUSE?"
+msgstr ""
 
-#, fuzzy
 msgid "RPM"
-msgstr "RPM"
+msgstr ""
 
-#, fuzzy
 msgid "DEB"
-msgstr "DEB"
+msgstr ""
 
-#, fuzzy
 msgid "PKG"
-msgstr "PKG"
+msgstr ""
 
-#, fuzzy
 msgid "APK"
-msgstr "APK"
+msgstr ""
 
 msgid "What is the default shell in openSUSE?"
-msgstr "Mi az openSUSE alapértelmezett parancssora?"
+msgstr ""
 
-#, fuzzy
 msgid "bash"
-msgstr "bash"
+msgstr ""
 
-#, fuzzy
 msgid "zsh"
-msgstr "zsh"
+msgstr ""
 
-#, fuzzy
 msgid "fish"
-msgstr "fish"
+msgstr ""
 
-#, fuzzy
 msgid "csh"
-msgstr "csh"
+msgstr ""
 
 msgid "Which of these is a community-driven openSUSE version?"
-msgstr "Melyik ezek közül egy közösség által fejlesztett openSUSE-verzió?"
+msgstr ""
 
-#, fuzzy
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
-#, fuzzy
 msgid "openSUSE Greenhorn"
-msgstr "openSUSE Greenhorn"
+msgstr ""
 
 msgid "Don't worry this quiz is mostly educational. No need to know all the answers."
-msgstr "Ne aggódj, ez a kvíz elsősorban oktatási célú. Nem kell minden választ tudnod."
+msgstr ""
 
 msgid "Which of the following package managers is commonly used in openSUSE?"
-msgstr "Az alábbi csomagkezelők közül melyiket használják általában az openSUSE-ban?"
+msgstr ""
 
-#, fuzzy
 msgid "Yum"
-msgstr "Yum"
+msgstr ""
 
-#, fuzzy
 msgid "Zypper"
-msgstr "Zypper"
+msgstr ""
 
-#, fuzzy
 msgid "Pacman"
 msgstr "Pacman"
 
 msgid "Can you play Windows games on openSUSE?"
-msgstr "Lehet-e Windows-ra írt játékokat futtatni az openSUSE-on?"
+msgstr ""
 
 msgid "No way, only Windows can do that"
-msgstr "Semmiképp, csak a Windowsos rendszerek képesek rá"
+msgstr ""
 
 msgid "Of course! Just fire up Steam and game on"
-msgstr "Naná, hogy! Csak indítsd el a Steamet és játssz"
+msgstr ""
 
 msgid "Only if you summon the gaming gods"
-msgstr "Kizárólag akkor, ha megidézed a játékok isteneit"
+msgstr ""
 
 msgid "You need a secret handshake first"
-msgstr "Egy titkos alkut kell kötnöd előtte"
+msgstr ""
 
 msgid "Where can you download openSUSE installation images?"
-msgstr "Honnan lehet letölteni az openSUSE telepítőképeit?"
+msgstr ""
 
 msgid "Only from mysterious USB sticks left in coffee shops"
-msgstr "Kizárólag a kávézókban hátrahagyott rejtélyes USB-meghajtókról"
+msgstr ""
 
 msgid "From get.opensuse.org"
-msgstr "A get.opensuse.org-ról kell beszerezned őket"
+msgstr ""
 
 msgid "By yelling 'YaST' into your terminal"
-msgstr "A terminálba kell ordítanod a \"YaST\" parancsot"
+msgstr ""
 
 msgid "You can’t, they’re distributed via carrier pigeon"
-msgstr "Nem lehet, mert postagalambokkal kell célba juttattatni"
+msgstr ""
 
 msgid "Where should you report issues you find in openSUSE?"
-msgstr "Hová kell jelenteni az openSUSE-ban talált hibákat?"
+msgstr ""
 
 msgid "Just shout at your screen and hope for the best"
-msgstr "Csak kiabálj a képernyőre, és reménykedj a legjobbakban!"
+msgstr ""
 
 msgid "Send a strongly worded letter to Geeko"
-msgstr "Küldj egy határozott hangvételű levelet Geekónak"
+msgstr ""
 
 msgid "Submit it on bugzilla.opensuse.org"
-msgstr "Küldd be a bugzilla.opensuse.org oldalon keresztül"
+msgstr ""
 
 msgid "Write it in your diary and move on"
-msgstr "Írd be a naplóba, aztán lépj tovább"
+msgstr ""
 
 msgid "Where can you find events to join and participate in with the openSUSE community?"
-msgstr "Hol találhatsz olyan rendezvényeket, amelyeken csatlakozhatsz az openSUSE-közösséghez és részt vehetsz azokon?"
+msgstr ""
 
 msgid "Try decoding ancient Geeko scrolls"
-msgstr "Próbáld meg megfejteni az ősi Geeko-tekercseket"
+msgstr ""
 
 msgid "On calendar.opensuse.org"
-msgstr "A calendar.opensuse.org-on"
+msgstr ""
 
 msgid "Look under your keyboard for hidden clues"
-msgstr "Nézz körül a billentyűzet alatt, hátha találsz rejtett nyomokat"
+msgstr ""
 
 msgid "Events are revealed only during a full moon"
-msgstr "Az események csak telihold idején derülnek ki"
+msgstr ""
 
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
-msgstr "Hová fordulhatsz segítségért, ha eltévedtél az openSUSE világában?"
+msgstr ""
 
-#, fuzzy
 msgid "openSUSE Introduction"
-msgstr "openSUSE Introduction"
+msgstr ""
 
 msgid "Discover openSUSE, one click at a time."
-msgstr "Csak fedezd fel az openSUSE-t, úgy kattintásonként..."
+msgstr ""
 
 msgid "What is openSUSE?"
-msgstr "Micsoda az openSUSE?"
+msgstr ""
 
 msgid "A project supported by SUSE, made for everyone"
-msgstr "A SUSE által támogatott projekt, amelyet mindenki számára készítettek"
+msgstr ""
 
 msgid "More than just one Linux distribution"
-msgstr "Nem csupán egy Linux-disztribúció"
+msgstr ""
 
 msgid "A friendly place to build software and learn new tools"
-msgstr "Egy barátságos hely, ahol szoftvereket fejleszthetünk és új eszközöket tanulhatunk meg"
+msgstr ""
 
 msgid "All of these things together"
-msgstr "Mindezek együttvéve"
+msgstr ""
 
 msgid "openSUSE just celebrated its 20th birthday! In which year did that happen?"
-msgstr "Az openSUSE nemrég ünnepelte 20. születésnapját! Melyik évben történt ez?"
+msgstr ""
 
 msgid "2025 - Year of the Linux Desktop"
-msgstr "2025 – A Linux asztali számítógépek évében"
+msgstr ""
 
 msgid "1998 – that’s when Google started, not openSUSE"
-msgstr "1998 – A Google indulásakor, nem köthető az openSUSE-hoz"
+msgstr ""
 
 msgid "1994 – that’s the first SUSE Linux, not openSUSE"
-msgstr "1994 – az első SUSE Linux megjelenésének éve, nem köthető az openSUSE-hoz"
+msgstr ""
 
 msgid "2005 – the year openSUSE was born, but not 20 years ago"
-msgstr "2005 – az openSUSE születésének éve, de nem 20 évvel ezelőtt"
+msgstr ""
 
 msgid "openSUSE has two main ways of getting updates. One is a big release once a year, the other gives updates all the time. What are they called?"
-msgstr "Az openSUSE két módon kaphat frissítéseket: évente egyszer megjelenő nagy kiadással vagy a folyamatos frissítésekkel. Hogy hívják ezeket?"
+msgstr ""
 
 msgid "Stable and Rolling"
-msgstr "Stabil és fokozatos"
+msgstr ""
 
 msgid "Stable and Wobbly"
-msgstr "Stabil és ingatag"
+msgstr ""
 
 msgid "Rolling and Sitting"
-msgstr "Fokozatos és helyben toporgó"
+msgstr ""
 
 msgid "Rolling and Leaping"
-msgstr "Fokozatos és szökkenő"
+msgstr ""
 
 msgid "Which openSUSE versions are Rolling (always up-to-date)?"
-msgstr "Mely openSUSE-verziók tartoznak a „rolling” kategóriába (mindig naprakészek)?"
+msgstr ""
 
 msgid "Aeon, Kalpa, and MicroOS"
-msgstr "Aeon, Kalpa és MicroOS"
+msgstr ""
 
 msgid "Slowroll and Slowroll Micro"
-msgstr "Slowroll és Slowroll Micro"
+msgstr ""
 
 msgid "All of these are Rolling"
-msgstr "Mindegyik fokozatos frissítésű"
+msgstr ""
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr "A Leap és a Leap Micro a jelenlegi, két stabil disztribúciónk. Mit jelent ez?"
+msgstr ""
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr "Minden kisebb verziófrissítés körülbelül 24 hónapig kap frissítéseket"
+msgstr ""
 
 msgid "They have one big release every 12 months"
-msgstr "12 havonta egyszer adnak ki egy nagy kiadást"
+msgstr ""
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr "Mindenki számára nyitott megjelenési bulikkal járnak 🎉"
+msgstr ""
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr "A fenti lehetőségek mindegyike (és a Leap 16-on akár 2033-ig is maradhat!)"
+msgstr ""
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr "Az openSUSE-nak vannak „immutable” kiadásai is. Mit jelent ez?"
+msgstr ""
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr "Olvasásra korlátozott rendszeralapot használnak, és speciális eszközökkel biztonságosan frissítik a rendszert"
+msgstr ""
 
 msgid "They cannot be installed on laptops"
-msgstr "Laptopokra nem telepíthetők"
+msgstr ""
 
 msgid "They are distributions that never change wallpapers"
-msgstr "Ezek olyan disztribúciók, amelyeknél a háttérkép soha nem változik"
+msgstr ""
 
 msgid "They come only as DVDs by mail"
-msgstr "Ezeket kizárólag DVD-n, postai úton szállítják"
+msgstr ""
 
 msgid "What is Slowroll?"
-msgstr "Mi az a Slowroll?"
+msgstr ""
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr "A Tumbleweed egyik változata, amelyben a frissítéseket tesztelt kötegekbe csoportosították"
+msgstr ""
 
 msgid "A racing game mode in Linux"
-msgstr "Versenyjáték-mód Linux alatt"
+msgstr ""
 
 msgid "A distribution that only updates once per decade"
-msgstr "Egy eloszlás, amely csak évtizedenként egyszer frissül"
+msgstr ""
 
 msgid "The mascot’s new nickname"
-msgstr "A kabala új beceneve"
+msgstr ""
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr "Melyek az openSUSE közösség legfontosabb eszközei és projektjei?"
+msgstr ""
 
 msgid "Open Build Service (OBS) for building software"
-msgstr "Open Build Service (OBS) szoftverek fordításához"
+msgstr ""
 
 msgid "openQA for automated testing"
-msgstr "openQA az automatizált teszteléshez"
+msgstr ""
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr "A Wiki, a Weblate, a fórumok és egyebek"
+msgstr ""
 
 msgid "All of these are part of openSUSE"
-msgstr "Mindezek az openSUSE részét képezik"
+msgstr ""
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr "Az openSUSE infrastruktúráját kezelő csapat neve openSUSE...?"
+msgstr ""
 
 msgid "Heroes"
-msgstr "Hősei"
+msgstr ""
 
 msgid "Avengers"
-msgstr "Bosszúállói"
+msgstr ""
 
 msgid "Thunderbolts"
-msgstr "Mennydörgői"
+msgstr ""
 
 msgid "Villains"
-msgstr "Gaztevői"
+msgstr ""
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr "A Windows 10 támogatása már lejárt. Mit lehetne kezdeni a támogatásból kiesett laptopommal?"
+msgstr ""
 
 msgid "Install openSUSE on your laptop"
-msgstr "Telepítsd fel az openSUSE-t a laptopodra"
+msgstr ""
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr "Telepítsd fel az openSUSE-t a barátod laptopjára"
+msgstr ""
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr "Telepítsd fel az openSUSE-t a nagymamád laptopjára"
+msgstr ""
 
 msgid "All of these are great ideas"
-msgstr "Ezek mind remek ötletek"
+msgstr ""
 
 msgid "A chameleon named Geeko"
-msgstr "Egy Geeko nevű kaméleon"
+msgstr ""
 
 msgid "A penguin named Tux"
-msgstr "Egy Tux névre hallgató pingvin"
+msgstr ""
 
 msgid "A tumbleweed rolling in the desert"
-msgstr "Egy sivatagban guruló ördögszekér"
+msgstr ""
 
 msgid "A lizard in sunglasses"
-msgstr "Egy napszemüveges gyík"
+msgstr ""
 
 msgid "Why do people love openSUSE?"
-msgstr "Miért szeretik az emberek az openSUSE-t?"
+msgstr ""
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr "Stabil Leap kiadások és gyorsan változó Tumbleweed frissítések"
+msgstr ""
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr "Olyan modern eszközök, mint az Agama, a Myrlyn, a zypper, az OBS és az openQA"
+msgstr ""
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr "Egy barátságos, világszerte működő közösség, amely mindenkit szívesen fogad"
+msgstr ""
 
 msgid "All of these together"
-msgstr "Mindezek együttesen"
+msgstr ""
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr "Hol tudsz segíteni az openSUSE (és akár e kvíz) fordításában?"
+msgstr ""
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr "Weblate keresztül l10n.opensuse.org"
+msgstr ""
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr "Úgy, hogy a fordításokat a kaméleon fülébe suttogja"
+msgstr ""
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr "A Google Fordító központjában, egy titkos bunkerben"
+msgstr ""
 
 msgid "By posting translations on random Reddit threads"
-msgstr "Fordítások közzétételével véletlenszerű Reddit-threadekben"
+msgstr ""
 
 msgid "Where can you get help with openSUSE?"
-msgstr "Hol kaphatsz segítséget az openSUSE-hoz?"
+msgstr ""
 
 msgid "Ask your friend who uses Linux"
-msgstr "Kérdezd meg azt a barátodat, aki Linuxot használ"
+msgstr ""
 
 msgid "On many local Linux portals and websites"
-msgstr "Számos helyi Linux-portálon és weboldalon"
+msgstr ""
 
 msgid "Asia Summit Dragon"
-msgstr "Ázsiai Sárkány-csúcstalálkozón"
+msgstr ""
 
 msgid "Challenge the dragon of knowledge"
-msgstr "Megküzdeni a tudás sárkányával"
+msgstr ""
 
 msgid "In which city was the first openSUSE Asia Summit hosted?"
-msgstr "Melyik városban rendezték meg az első openSUSE Asia Summitot?"
+msgstr ""
 
 msgid "Taipei, Taiwan"
-msgstr "Taipei, Tajvan"
+msgstr ""
 
 msgid "Beijing, China"
-msgstr "Beijing, Kína"
+msgstr ""
 
 msgid "Jakarta, Indonesia"
-msgstr "Jakarta, Indonézia"
+msgstr ""
 
 msgid "Tokyo, Japan"
-msgstr "Tokió, Japán"
+msgstr ""
 
 msgid "When was openSUSE Asia Summit hosted in Tokyo, Japan?"
-msgstr "Mikor került megrendezésre az openSUSE Asia Summitot tokiói (Japánban) rendezvénye?"
+msgstr ""
 
 msgid "2022"
-msgstr "2022-ben"
+msgstr ""
 
 msgid "2017 and 2024"
-msgstr "2017 és 2024-ben"
+msgstr ""
 
 msgid "2018"
-msgstr "2018-ban"
+msgstr ""
 
 msgid "Only 2024"
-msgstr "Csak 2024-ben"
+msgstr ""
 
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
-msgstr "Az alábbi városok közül melyikben NEM rendezték meg még soha az openSUSE Asia Summitot?"
+msgstr ""
 
-#, fuzzy
 msgid "Denpasar"
-msgstr "Denpasar"
+msgstr ""
 
-#, fuzzy
 msgid "Mumbai"
-msgstr "Mumbai"
+msgstr ""
 
-#, fuzzy
 msgid "Taipei"
 msgstr "Taipei"
 
 msgid "Faridabad"
-msgstr "Faridábád"
+msgstr ""
 
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
-msgstr "Melyik városban került megrendezésre az openSUSE Asia Summit 2018-as rendezvénye?"
+msgstr ""
 
-#, fuzzy
 msgid "Hong Kong"
 msgstr "Hong Kong"
 
-#, fuzzy
 msgid "Jakarta"
-msgstr "Jakarta"
+msgstr "Giacarta"
 
 msgid "Tokyo"
-msgstr "Tokió"
+msgstr "Tokyo"
 
 msgid "Which of the following countries has never hosted an openSUSE Asia Summit?"
-msgstr "Az alábbi országok közül melyikben nem rendezték még soha az openSUSE Asia Summitot?"
+msgstr ""
 
 msgid "Vietnam"
-msgstr "Vietnám"
+msgstr "Vietnam"
 
-#, fuzzy
 msgid "India"
 msgstr "India"
 
 msgid "Indonesia"
-msgstr "Indonézia"
+msgstr "Indonesia"
 
 msgid "Taiwan"
-msgstr "Tajvan"
+msgstr "Taiwan"
 
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
-msgstr "2016-ban a csúcstalálkozót az Indonéz Iszlám Egyetem rendezte. Melyik városban található ez az egyetem?"
+msgstr ""
 
-#, fuzzy
 msgid "Yogyakarta"
-msgstr "Yogyakarta"
+msgstr ""
 
-#, fuzzy
 msgid "Bandung"
-msgstr "Bandung"
+msgstr ""
 
-#, fuzzy
 msgid "Surabaya"
-msgstr "Surabaya"
+msgstr ""
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
-msgstr "Hol rendezték meg az openSUSE Asia Summitot 2019-ben?"
+msgstr ""
 
 msgid "Seoul"
-msgstr "Szöul"
+msgstr "Seul"
 
-#, fuzzy
 msgid "Denpasar (Bali)"
-msgstr "Denpasar (Bali)"
+msgstr ""
 
 msgid "The openSUSE Asia Summit 2020 and 2021 were held online. What was the main reason?"
-msgstr "Az openSUSE Asia Summit 2020 és 2021 rendezvényeket online tartották meg. Mi volt ennek a fő oka?"
+msgstr ""
 
 msgid "Budget cuts"
-msgstr "Megszorítások miatt"
+msgstr ""
 
 msgid "Lack of organizers"
-msgstr "A szervezők hiánya miatt"
+msgstr ""
 
 msgid "COVID-19 pandemic"
-msgstr "COVID-19 pandémia miatt"
+msgstr ""
 
 msgid "Scheduling conflicts"
-msgstr "Ütemezési ütközések miatt"
+msgstr ""
 
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
-msgstr "Általában ki tervezi az openSUSE Asia Summit hivatalos logóját?"
+msgstr ""
 
-#, fuzzy
 msgid "Geenardo Da Vinci"
-msgstr "Geenardo Da Vinci"
+msgstr ""
 
 msgid "A professional graphic designer hired by the openSUSE Foundation"
-msgstr "Az openSUSE Alapítvány által alkalmazott hivatásos grafikus"
+msgstr ""
 
 msgid "The community through an annual design contest"
-msgstr "A közösség, egy éves tervezőversenyen keresztül"
+msgstr ""
 
 msgid "The developers from the openSUSE infrastructure team"
-msgstr "Az openSUSE infrastruktúra-csapat fejlesztői"
+msgstr ""
 
 msgid "Which openSUSE Asia Summit had a red logo?"
-msgstr "Melyik openSUSE Asia Summit-nak volt piros logója?"
+msgstr ""
 
 msgid "2016 in Beijing"
-msgstr "A 2016-os Beijingi-nek"
+msgstr ""
 
 msgid "2017 in Tokyo"
-msgstr "A 2017-es tokióinak"
+msgstr ""
 
 msgid "2018 in Taipei"
-msgstr "A 2018-as Taipei-nek"
+msgstr ""
 
 msgid "2019 in Bali"
-msgstr "A baliainak, 2019-ben"
+msgstr ""
 
 msgid "Which openSUSE Asia Summit used the openSUSE Quiz app for the first time?"
-msgstr "Melyik openSUSE Asia Summit alkalmával használták először az openSUSE Quiz alkalmazást?"
+msgstr ""
 
 msgid "2025 in Faridabad"
-msgstr "2025-ben Faridabadban"
+msgstr ""
 
 msgid "2014 in Beijing"
-msgstr "2014-ben Beijing-ben"
+msgstr ""
 
 msgid "The longest elevator trip to openSUSE Asia summit was in?"
-msgstr "Hol volt a leghosszabb függővasúti út az openSUSE Asia csúcstalálkozóra?"
+msgstr ""
 
 msgid "Beijing"
-msgstr "Beijing-ben"
+msgstr ""
 
-#, fuzzy
 msgid "oSC Historian"
-msgstr "oSC Historian"
+msgstr ""
 
 msgid "Are you an openSUSE Conference Historian? Prove it!"
-msgstr "Csak nem te vagy az openSUSE-konferenciák történész-professzora? Bizonyítsd be!"
+msgstr ""
 
 msgid "In what year was the first-ever openSUSE Conference held?"
-msgstr "Melyik évben rendezték meg az első openSUSE-konferenciát?"
+msgstr ""
 
 msgid "2006"
-msgstr "2006-ban"
+msgstr ""
 
 msgid "2009"
-msgstr "2009-ben"
+msgstr ""
 
 msgid "2012"
-msgstr "2012-ben"
+msgstr ""
 
 msgid "2008"
-msgstr "2008-ban"
+msgstr "2008"
 
 msgid "Who delivered the opening keynote 'Working in a virtual community' back in 2009?"
-msgstr "Ki tartotta 2009-ben a „Munka egy virtuális közösségben” című nyitó előadást?"
+msgstr ""
 
 msgid "Leslie Hawthorn from Google"
-msgstr "Leslie Hawthorn a Google munkatársa"
+msgstr ""
 
 msgid "Gianugo Rabellino from the Apache Software Foundation"
-msgstr "Gianugo Rabellino az Apache Software Foundation-től"
+msgstr ""
 
 msgid "Joe 'Zonker' Brockmeier, openSUSE community manager"
-msgstr "Joe 'Zonker' Brockmeier, az openSUSE közösségi menedzsere"
+msgstr ""
 
 msgid "Lenz Grimmer from MySQL"
-msgstr "Lenz Grimmer a MySQL munkatársa"
+msgstr ""
 
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
-msgstr "Melyik vállalat volt az openSUSE Conference 2009-es rendezvényének szervezője és finanszírozója?"
+msgstr ""
 
-#, fuzzy
 msgid "Novell"
-msgstr "Novell"
+msgstr ""
 
-#, fuzzy
 msgid "Micro Focus"
-msgstr "Micro Focus"
+msgstr ""
 
-#, fuzzy
 msgid "Attachmate"
-msgstr "Attachmate"
+msgstr ""
 
-#, fuzzy
 msgid "SUSE"
 msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
-msgstr "De térjünk vissza a jelenbe. Ki tartotta a nyitó előadást az oSC 2024 rendezvényen?"
+msgstr ""
 
-#, fuzzy
 msgid "Rick Spencer"
-msgstr "Rick Spencer"
+msgstr ""
 
-#, fuzzy
 msgid "Melissa Di Donato"
-msgstr "Melissa Di Donato"
+msgstr ""
 
-#, fuzzy
 msgid "Mark Shuttleworth"
-msgstr "Mark Shuttleworth"
+msgstr ""
 
 msgid "Can you guess how many sessions are scheduled for oSC 2025?"
-msgstr "Kitalálod, hány előadás szerepelt az oSC 2025-ös programjában?"
+msgstr ""
 
 msgid "78 sessions"
-msgstr "78 előadás"
+msgstr ""
 
 msgid "108 sessions"
-msgstr "108 előadás"
+msgstr ""
 
 msgid "58 sessions"
-msgstr "58 előadás"
+msgstr ""
 
 msgid "42.3 sessions"
-msgstr "42.3 előadás"
+msgstr ""
 
 msgid "Which of these cities has NOT hosted an openSUSE Conference yet?"
-msgstr "Melyik városban NEM rendeztek még egyszer sem openSUSE-konferenciát?"
+msgstr ""
 
 msgid "Prague, Czech Republic"
-msgstr "Prága, Csehország"
+msgstr ""
 
 msgid "The Hague, Netherlands"
-msgstr "Hága, Hollandia"
+msgstr ""
 
 msgid "Paris, France"
-msgstr "Párizs, Franciaország"
+msgstr ""
 
 msgid "Thessaloniki, Greece"
-msgstr "Thesszaloniki, Görögország"
+msgstr ""
 
 msgid "Where does the openSUSE Conference pre-party usually happen in Nuremberg?"
-msgstr "Hol szokták rendezni a nürnbergi openSUSE-konferencia elő buliját?"
+msgstr ""
 
 msgid "At Kater Murr"
-msgstr "A Kater Murr-ban"
+msgstr ""
 
 msgid "At ZypperHaus"
-msgstr "A ZypperHaus-ban"
+msgstr ""
 
 msgid "In the SESU club run by SUSE interns at the local university"
-msgstr "A helyi egyetemen a SUSE gyakornokai által vezetett SESU klubban"
+msgstr ""
 
 msgid "At the virtual /bar on meet.opensuse.org"
-msgstr "Egy virtualizált /bar-ban a meet.opensuse.org-on"
+msgstr ""
 
 msgid "What unusual item has appeared as official openSUSE swag?"
-msgstr "Mi volt az a szokatlannak mondható tárgy, ami az openSUSE hivatalos ajándéktárgyai közzé került?"
+msgstr ""
 
 msgid "openSUSE branded surströmming"
-msgstr "openSUSE márkájú surströmming"
+msgstr ""
 
 msgid "Geeko flavored toothpaste"
-msgstr "Geeko ízesítésű fogkrém"
+msgstr ""
 
 msgid "openSUSE beer"
-msgstr "openSUSE sör"
+msgstr ""
 
 msgid "FIPS certified socks"
-msgstr "FIPS-tanúsítvánnyal rendelkező zoknik"
+msgstr ""
 
 msgid "Our ex-Treasurer Andrew received enormous applause for a surprising 'creation' during his talk. What was it?"
-msgstr "Andrew, a korábbi pénztárosunk hatalmas tapsot kapott egy meglepő „alkotásért”, melyet előadása során mutatott be. De mi volt az?"
+msgstr ""
 
 msgid "Dirty Dancing with Geeko"
-msgstr "Egy \"piszkos tánc\" Geekóval"
+msgstr ""
 
 msgid "Singing a Free Software song"
-msgstr "Egy szabad szoftverről szóló dal eléneklése"
+msgstr ""
 
 msgid "Playing the banjo"
-msgstr "Egy bendzsószámért"
+msgstr ""
 
 msgid "Deep dived into open bugs wearing a swimsuit"
-msgstr "Magára öltött egy fürdőrucit, majd mélyen elmerült a hibákban"
+msgstr ""
 
 msgid "What happened to the openSUSE Conference during 2020–2021?"
-msgstr "Mi történt az openSUSE konferenciával a 2020–2021-es időszakban?"
+msgstr ""
 
 msgid "It was held in orbit via SpaceX"
-msgstr "Föld-körüli pályán tartották meg a SpaceX hozzájárulásával"
+msgstr ""
 
 msgid "It was virtual due to COVID-19"
-msgstr "A COVID-19 miatt virtuális formában került megrendezésre"
+msgstr ""
 
 msgid "It merged with Novel Digital"
-msgstr "Összeolvadt a Novel Digital céggel"
+msgstr ""
 
 msgid "Canceled due to lack of pizza"
-msgstr "A rendezvényt a pizza-hiány miatt lemondták"
+msgstr ""
 
 msgid "The oSC 2016 Friday night party once went loooooooong because of a special live act. What made it unforgettable?"
-msgstr "Az oSC 2016 péntek esti bulija egy különleges élő fellépés miatt iszonyatosan hosszúra nyúlt. Mi tette ezt az estét oly felejthetetlenné?"
+msgstr ""
 
 msgid "The famous SUSE band rocked the Z-Bau"
-msgstr "A híres SUSE zenekar felforrósította a hangulatot a Z-Bau-ban"
+msgstr ""
 
 msgid "A surprise keynote by Linus Torvalds"
-msgstr "Linus Torvalds váratlan nyitóelőadása"
+msgstr ""
 
 msgid "A spontaneous YaST karaoke contest"
-msgstr "Egy spontán YaST karaoke-verseny"
+msgstr ""
 
 msgid "An epic dance-off between Geeko mascots"
-msgstr "Egy epikus táncverseny a Geeko kabalafigurái között"
+msgstr ""
 
 msgid "Since 2022 we do have an extra service available at oSC? What is it?"
-msgstr "2022 óta elérhető egy új szolgáltatás az oSC-nél? Mégis mi ez?"
+msgstr ""
 
 msgid "A machine for a tuna flavored popcorn"
-msgstr "Egy gép, ami tonhalízű pattogatott kukoricát készít"
+msgstr ""
 
 msgid "A low wave radio station"
-msgstr "Egy alacsony hullámhosszú rádióállomás"
+msgstr ""
 
 msgid "An ambulance"
-msgstr "Egy mentőautó"
+msgstr ""
 
 msgid "Self-service beer tap"
-msgstr "Önkiszolgáló sörcsap"
+msgstr ""
 
 msgid "s390x Expert"
-msgstr "s390x szakértő"
+msgstr ""
 
 msgid "A quiz for friends of mainframes and exotic architectures."
-msgstr "Jöjjön egy kis kvíz a mainframe-ek és az egzotikus architektúrák kedvelőinek."
+msgstr ""
 
 msgid "What’s the difference between Big Endian and Little Endian?"
-msgstr "Mi a különbség a Big Endian és a Little Endian között?"
+msgstr ""
 
 msgid "It’s about byte ordering; s390x being Big Endian"
-msgstr "A bájt-sorrendről van szó: az s390x Big Endian sorrendű"
+msgstr ""
 
 msgid "s390x are using only 31b, that’s why they’re called Little Endian"
-msgstr "Az s390x processzorok csak 31b-t használnak, ezért nevezik őket Little Endian sorrendűnek"
+msgstr ""
 
 msgid "It’s about byte ordering; s390x being Little Endian"
-msgstr "A bájt-sorrendről van szó: az s390x Little Endian sorrendű"
+msgstr ""
 
 msgid "It’s not used anymore, s390x are Bi-endianess"
-msgstr "Már nem használják: az s390x-ek már Bi-endianessek"
+msgstr ""
 
 msgid "DASD is?"
-msgstr "Mi a DASD?"
+msgstr ""
 
 msgid "A German word"
-msgstr "Egy német szó"
+msgstr ""
 
 msgid "Swear word repeated often by s390x administrators"
-msgstr "Egy szitokszó, melyet az s390x adminisztrátorok használnak"
+msgstr ""
 
 msgid "A scsi disk"
-msgstr "Egy scsi-meghajtó"
+msgstr ""
 
 msgid "Direct-access storage device"
-msgstr "Közvetlen elérésű adattároló eszköz"
+msgstr ""
 
 msgid "HMC is?"
-msgstr "Mit jelent a HMC?"
+msgstr ""
 
 msgid "Home mc, just a new friendlier Midnight Commander"
-msgstr "Home mc, csak egy újabb verziójú, barátságosabb Midnight Commander"
+msgstr ""
 
 msgid "The administration of mainframe machine through web interface"
-msgstr "A mainframe-gép kezelését jelenti webes felületen keresztül"
+msgstr ""
 
 msgid "A command for listing hardware network addresses."
-msgstr "Egy parancs a hardveres hálózati címek kilistázásához."
+msgstr ""
 
 msgid "A hidden module control unit"
-msgstr "Egy rejtett modul vezérlőegysége"
+msgstr ""
 
 msgid "z/VM is?"
-msgstr "Mi a z/VM?"
+msgstr ""
 
 msgid "z/VM is operating system usually used as hypervisor"
-msgstr "A z/VM egy operációs rendszer, amelyet általában hipervizorként használnak"
+msgstr ""
 
 msgid "Virtual Machine on Z (meaning s390x)"
-msgstr "Egy virtuális gép Z-platformon (azaz s390x)"
+msgstr ""
 
 msgid "Remote desktop viewer"
-msgstr "Távoli asztal-nézegető"
+msgstr ""
 
-#, fuzzy
 msgid "Zombie Virtual Memory"
-msgstr "Zombie Virtual Memory"
+msgstr ""
 
 msgid "What does storage mean in the mainframe world?"
-msgstr "Mit jelent a tárolás a mainframek világában?"
+msgstr ""
 
 msgid "Data storage (disks) counted in cylinders"
-msgstr "Az adathordozók (lemezek) cilinderekben kifejezett kapacitása"
+msgstr ""
 
 msgid "A room where the mainframe is located"
-msgstr "A helyiség, ahol a mainframe található"
+msgstr ""
 
 msgid "Memory (RAM)"
-msgstr "Memória (RAM)"
+msgstr ""
 
 msgid "Compartment within a mainframe where the disks are located"
-msgstr "A mainframe azon rekesze, amelyben a lemezek találhatók"
+msgstr ""
 
 msgid "What is x3270?"
-msgstr "Micsoda az x3270?"
+msgstr ""
 
 msgid "Special file encoding, which is a must for files on s390x"
-msgstr "Egy speciális fájlkódolás, mely az s390x-en tárolt fájlok esetében elengedhetetlen"
+msgstr ""
 
 msgid "Terminal emulator for connection to a machine"
-msgstr "Egy terminálemulátor a géphez való csatlakozáshoz"
+msgstr ""
 
 msgid "Hexa code used as default admin password"
-msgstr "Alapértelmezett rendszergazdai jelszóként használt hex-kód"
+msgstr ""
 
 msgid "None of these ridiculous choices"
-msgstr "Ezek közül egyik sem észszerű választás"
+msgstr ""
 
 msgid "What does IPL 150 mean?"
-msgstr "Mit jelent az IPL 150?"
+msgstr ""
 
 msgid "Give me additional 150MB of memory"
-msgstr "Adj nekem további 150 MB memóriát"
+msgstr ""
 
 msgid "IP to my Linux machine"
-msgstr "A Linux-gépemhez tartozó IP-cím"
+msgstr ""
 
 msgid "Boot from disk 150."
-msgstr "Bootolás a 150-es lemezről"
+msgstr ""
 
 msgid "Install Python Libraries version 1.5.0"
-msgstr "A Python könyvtárak 1.5.0-s verziójának telepítése"
+msgstr ""
 
 msgid "What is IFL?"
-msgstr "Mi az IFL?"
+msgstr ""
 
 msgid "A filtration unit for cooling fluid"
-msgstr "Szűrőegység hűtőfolyadékhoz"
+msgstr ""
 
 msgid "Made up word to confuse laptop users"
-msgstr "Kitalált szó, amelynek célja a laptop-használók megzavarása"
+msgstr ""
 
-#, fuzzy
 msgid "Integrated FLat circuit"
-msgstr "Integrated FLat circuit"
+msgstr ""
 
 msgid "A core to run Linux on mainframe"
-msgstr "Egy processzormag a Linux futtatásához mainframe-en"
+msgstr ""
 
 msgid "What is cio_ignore?"
-msgstr "Mi az a cio_ignore?"
+msgstr ""
 
 msgid "A command masking visibility of devices"
-msgstr "Egy parancs, amely elrejti az eszközök láthatóságát"
+msgstr ""
 
 msgid "Ignore input/output data until the line is ready to receive"
-msgstr "bemeneti/kimeneti adatokat mindaddig figyelmen kívül hagyja, amíg a bérelt vonal nem áll készen"
+msgstr ""
 
 msgid "It actually means ignore CIO"
-msgstr "Valójában azt jelenti, hogy hagyjuk figyelmen kívül a CIO-t"
+msgstr ""
 
 msgid "A z/VM syslog filter"
-msgstr "Egy z/VM syslog-szűrő"
+msgstr ""
 
 msgid "What is the most used operating system on mainframes?"
-msgstr "Mi a leggyakrabban használt operációs rendszer a mainframe-eken?"
+msgstr ""
 
-#, fuzzy
 msgid "Linux"
 msgstr "Linux"
 
-#, fuzzy
 msgid "Windows"
-msgstr "Windows"
+msgstr "Finestre"
 
-#, fuzzy
 msgid "z/VM"
 msgstr "z/VM"
 
-#, fuzzy
 msgid "z/OS"
-msgstr "z/OS"
+msgstr ""
 
 msgid "Do mainframes have any special AI capabilities?"
-msgstr "Van a mainframe-eknek speciális mesterséges intelligencia-képességei?"
+msgstr ""
 
 msgid "Yes, latest models have Spyre accelerator."
-msgstr "Igen, a legújabb modellekben megtalálható a Spyre gázpedál."
+msgstr ""
 
 msgid "No, it's too old technology."
-msgstr "Nem, ez már túl elavult technológia."
+msgstr ""
 
 msgid "Yes, but it can't be used on Linux."
-msgstr "Igen, de Linuxon nem használható."
+msgstr ""
 
 msgid "No, mainframes are not useful for running AI tasks."
-msgstr "Nem, a mainframe-ek nem alkalmasak mesterséges intelligencia-feladatok futtatására."
+msgstr ""
 
 msgid "Which of the following I/O devices is not used with mainframes?"
-msgstr "Az alábbi I/O-eszközök közül melyiket nem használják a mainframe-eknél?"
+msgstr ""
 
 msgid "Disks"
-msgstr "Lemezeket"
+msgstr "Dischi"
 
 msgid "Tape drives"
-msgstr "Szalagmeghajtókat"
+msgstr ""
 
 msgid "Network"
-msgstr "Hálózatot"
+msgstr "Rete"
 
-#, fuzzy
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
 msgid "What will be delivered together with a mainframe by IBM?"
-msgstr "Mit szállít le az IBM a mainframe-mel együtt?"
+msgstr ""
 
 msgid "A necklet with IBM on it"
-msgstr "Egy nyaklánc, amelyen az „IBM” felirat látható"
+msgstr ""
 
 msgid "Protective footwear"
-msgstr "Munkavédelmi cipő"
+msgstr ""
 
 msgid "A sword for protection of the mainframe"
 msgstr ""
@@ -2624,7 +2426,7 @@ msgid "How many languages are available for the SLES 16 documentation (not inclu
 msgstr ""
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
 msgstr ""
@@ -2735,7 +2537,7 @@ msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
 msgstr ""
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "Thousands of packages in coldpool"
 msgstr ""
@@ -2804,7 +2606,7 @@ msgid "What component managed to survive its own death in SLES 16?"
 msgstr ""
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "System Management"
 msgstr ""
@@ -2870,7 +2672,7 @@ msgid "Prague"
 msgstr ""
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
 msgstr ""
@@ -2981,10 +2783,10 @@ msgid "How many SUSE products use OpenSSL?"
 msgstr ""
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "10"
 msgstr ""
@@ -2993,7 +2795,7 @@ msgid "How many SUSE engineers are actively working on OpenSSL?"
 msgstr ""
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "42.3"
 msgstr ""
@@ -3212,7 +3014,7 @@ msgid "Can the YaST (Qt) color palette be changed for visually impaired users?"
 msgstr ""
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "Yes, click the sun/moon icon"
 msgstr ""
@@ -3235,17 +3037,14 @@ msgstr ""
 msgid "libzypp"
 msgstr ""
 
-#, fuzzy
 msgid "libdnf"
-msgstr "libdnf"
+msgstr ""
 
-#, fuzzy
 msgid "libapt"
-msgstr "libapt"
+msgstr ""
 
-#, fuzzy
 msgid "libsuse"
-msgstr "libsuse"
+msgstr ""
 
 msgid "openSUSE uses libzypp as the backend library for its package manager, Zypper. It's known for powerful dependency resolution and support for delta RPMs."
 msgstr ""
@@ -3314,82 +3113,82 @@ msgid "Which Zypper command enables parallel package downloads?"
 msgstr ""
 
 msgid "zypper --fast"
-msgstr "zypper --fast"
+msgstr ""
 
 msgid "zypper -p"
-msgstr "zypper -p"
+msgstr ""
 
 msgid "The latest zypper uses parallel downloads by default"
-msgstr "A legújabb zypper parallel letöltést végez alapértelmezetten"
+msgstr ""
 
 msgid "zypper turbo"
-msgstr "zypper turbo"
+msgstr ""
 
 msgid "Which file is the main configuration file for Zypper?"
-msgstr "Melyik a Zypper fő konfigurációs fájlja?"
+msgstr ""
 
 msgid "/etc/zypp/zypp.conf"
-msgstr "/etc/zypp/zypp.conf"
+msgstr ""
 
 msgid "/etc/zypperrc"
-msgstr "/etc/zypperrc"
+msgstr ""
 
 msgid "/etc/package.conf"
-msgstr "/etc/package.conf"
+msgstr ""
 
 msgid "/usr/lib/zypper/config"
-msgstr "/usr/lib/zypper/config"
+msgstr ""
 
 msgid "Which of the following Zypper commands will clean all cached packages?"
-msgstr "Mely alábbi Zypper parancsok fogják törölni az összes cache-elt csomagot?"
+msgstr ""
 
 msgid "zypper refresh --clean"
-msgstr "zypper refresh --clean"
+msgstr ""
 
 msgid "zypper clean --all"
-msgstr "zypper clean --all"
+msgstr ""
 
 msgid "zypper purge-cache"
-msgstr "zypper purge-cache"
+msgstr ""
 
 msgid "zypper remove-cache"
-msgstr "zypper remove-cache"
+msgstr ""
 
 msgid "Zypper can install patterns. What is a pattern in Zypper terms?"
-msgstr "A Zypper képes mintákat (pattern) telepíteni. Mi a pattern a Zypper terminológiája szerint?"
+msgstr ""
 
 msgid "A regex for matching package names"
-msgstr "Egy regex, ami csomagok nevére match-el"
+msgstr ""
 
 msgid "A group of packages defining a role or use-case"
-msgstr "A csomagok egy csoportja, ami szerepkört (role), vagy használati esetet (use-case) definiál"
+msgstr ""
 
 msgid "A theming configuration file"
-msgstr "Egy téma (theming) konfigurációs fájl"
+msgstr ""
 
 msgid "A metadata tag for a repository"
-msgstr "Egy repository metaadatcímkéje (metadata tag)"
+msgstr ""
 
 msgid "What happens if you run 'zypper dup --from packman'?"
-msgstr "Mi történik, ha ezt futtatod: 'zypper dup --from packman'?"
+msgstr ""
 
 msgid "Only update the 'packman' repository metadata"
-msgstr "Csak a 'packman' repository metadata frissül"
+msgstr ""
 
 msgid "Remove all non-packman packages"
-msgstr "Törlődik minden nem packman csomag"
+msgstr ""
 
 msgid "Force upgrade of installed packages to versions from packman repository"
-msgstr "A telepített csomagok kényszerítetten frissülnek a Packman tárolóból származó verziókra"
+msgstr ""
 
 msgid "Create a backup before upgrade"
-msgstr "Készíts mentést a frissítés előtt"
+msgstr ""
 
 msgid "Leap 16.0 improved repository management with CDN by default, RIS-managed repos, and fewer total repositories. How many distribution repos does Leap 16.0 include by default?"
-msgstr "A Leap 16.0 továbbfejlesztett tárolókezelést kínál alapértelmezett CDN-nel, RIS által kezelt tárolókkal, és kevesebb összes tárolóval. Hány disztribúciós tárolót tartalmaz alapértelmezés szerint a Leap 16.0?"
+msgstr ""
 
 msgid "14"
-msgstr "14"
+msgstr ""
 
 msgid "8"
 msgstr "8"
@@ -3398,34 +3197,34 @@ msgid "6"
 msgstr "6"
 
 msgid "Leap 16.0 uses RIS-managed repos now. How do you tweak repo settings without breaking things?"
-msgstr "A Leap 16.0 most RIS által kezelt tárolókat használ. Hogyan lehet a tárolóbeállításokat úgy módosítani, hogy ne törd el a rendszert?"
+msgstr ""
 
 msgid "/etc/zypp/repos.d/ like the good old days"
-msgstr "/etc/zypp/repos.d/ mint a régi, szép időkben"
+msgstr ""
 
 msgid "Don’t touch distribution .repo files, they will get overwritten! Use /etc/zypp/vars.d instead."
-msgstr "Ne nyúlj a disztró .repo fájljaihoz, felül fognak íródni! Használd a /etc/zypp/vars.d inkább."
+msgstr ""
 
 msgid "Run `zypper --edit-repo --force` — the official way."
-msgstr "Futtassuk a `zypper --edit-repo --force` — a hivatalos módon."
+msgstr ""
 
 msgid "Edit repoindex.xml manually and cross your fingers."
-msgstr "Szerkesszük kézzel a repoindex.xml-t kézzel és tegyük keresztbe az ujjainkat."
+msgstr ""
 
 msgid "What can users do at software.opensuse.org?"
-msgstr "Mit csinálhatnak a felhasználók a software.opensuse.org oldalon?"
+msgstr ""
 
 msgid "Install packages with zypper via a single click in the browser."
-msgstr "Csomagok telepítése zypper-rel, egyetlen kattintással a böngészőben."
+msgstr ""
 
 msgid "Browse and install additional software, including packages from home projects."
-msgstr "További szoftverek böngészése és telepítése, beleértve a home projektek csomagjait is."
+msgstr ""
 
 msgid "View screenshots and details of cool open source software."
 msgstr ""
 
 msgid "All of the above."
-msgstr "A fentiek mindegyike."
+msgstr ""
 
 msgid "At what manpage section would you look for zypper docs?"
 msgstr ""
@@ -3458,62 +3257,62 @@ msgid "It cleans your system of the `rm` command but keeps a backup just in case
 msgstr ""
 
 msgid "Nothing happens `rm` command belongs to coreutils."
-msgstr "Nem történik semmi, az `rm` parancs a coreutils része."
+msgstr ""
 
 msgid "Start Quiz"
-msgstr "Kvíz elkezdése"
+msgstr ""
 
 msgid "Start"
-msgstr "Start"
+msgstr "Avvio"
 
 msgid "Back"
-msgstr "Vissza"
+msgstr "Indietro"
 
 msgid "Submit"
-msgstr "Beküldés"
+msgstr "Invia"
 
 msgid "Next"
-msgstr "Következő"
+msgstr "Avanti"
 
 msgid "Quit"
-msgstr "Kilépés"
+msgstr "Esci"
 
 msgid "Submit and Quit"
-msgstr "Beküldés és Kilépés"
+msgstr ""
 
 msgid "Time left"
-msgstr "Hátralévő idő"
+msgstr ""
 
 msgid "Score"
-msgstr "Pontszám"
+msgstr "Risultato"
 
 msgid "Final"
 msgstr ""
 
 msgid "Restart"
-msgstr "Újrakezdés"
+msgstr "Riavvia"
 
 msgid "Question"
-msgstr "Kérdés"
+msgstr "Domanda"
 
 msgid "Please enter a username to proceed."
-msgstr "Kérlek, adj meg egy felhasználónevet a folytatáshoz!"
+msgstr ""
 
 #, javascript-format
 msgid "Welcome, %s"
-msgstr "Üdvözöllek, %s"
+msgstr ""
 
 msgid "Are you sure you want to quit and submit?"
-msgstr "Biztosan kilépsz és beküldöd?"
+msgstr ""
 
 msgid "Username is too short."
-msgstr "A felhasználónév túl rövid."
+msgstr ""
 
 msgid "Sorry, this login is already taken."
-msgstr "Sajnálom, a felhasználónév már foglalt."
+msgstr ""
 
 msgid "Are you sure you want to quit? Your progress will not be saved."
-msgstr "Biztosan kilépsz? Az eddig elért eredményed el fog veszni!"
+msgstr ""
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
-msgstr "Használj egy felismerhető becenevet, például ZypperJedi, vagy lehetőleg a valódi nevedet (KeresztnévVezetéknév)."
+msgstr ""

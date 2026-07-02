@@ -1,18 +1,7 @@
-# Lubos Kocman <lubos.kocman@suse.com>, 2025.
+# Lubos Kocman <lubos.kocman@suse.com>, 2025, 2026.
 # Markéta Tišnovská <mtisnovs@seznam.cz>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 11:07+0000\n"
-"PO-Revision-Date: 2025-10-31 21:14+0000\n"
-"Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
-"Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-25 11:38+0000\nLast-Translator: Lubos Kocman <lubos.kocman@suse.com>\nLanguage-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -438,7 +427,7 @@ msgid "A rolling-release web browser"
 msgstr "Rolling webový prohlížeč"
 
 msgid "Micro Service OS built by the openSUSE community"
-msgstr "Operační systém pro běh Micro službeb sestavený openSUSE komunitou."
+msgstr "Operační systém pro běh Micro službeb sestavený openSUSE komunitou"
 
 msgid "A package manager"
 msgstr "Manažer balíčků"
@@ -3084,7 +3073,7 @@ msgid "Lists soft package locks"
 msgstr "Vylistuje všechny soft package locks"
 
 msgid "Refreshes defined repository index services."
-msgstr "Obnoví dostupné repository index services (RIS)"
+msgstr "Obnoví dostupné repository index services (RIS)."
 
 msgid "What does RIS (Repository Index Service) actually do in openSUSE?"
 msgstr "Co přesně dělá RIS (Repository Index Service) v openSUSE?"
