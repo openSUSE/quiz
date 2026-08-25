@@ -79,7 +79,7 @@
 		],
 		"theme": "openSUSE",
 	},
-	"linuxdays.cz": {
+	"linuxdays": {
 	    "quizzes": [
 	        "arm",
 	        "immutability",
