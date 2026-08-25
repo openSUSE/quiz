@@ -1,129 +1,118 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
-# Akın Birdal <reend21@protonmail.com>, 2025.
+# Akın Birdal <reend21@protonmail.com>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 11:07+0000\n"
-"PO-Revision-Date: 2025-09-29 10:59+0000\n"
-"Last-Translator: Akın Birdal <reend21@protonmail.com>\n"
-"Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-08-26 21:13+0000\nLast-Translator: Akın Birdal <reend21@protonmail.com>\nLanguage-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.8.1\n"
 
 msgid "openSUSE Arm"
-msgstr ""
+msgstr "openSUSE Arm"
 
 msgid "Hardware Enablement journey on Arm."
-msgstr ""
+msgstr "Arm üzerinde donanım etkinleştirme süreci."
 
 msgid "What is Arm, in the context of computing?"
-msgstr ""
+msgstr "Bilgisayar bağlamında Arm nedir?"
 
 msgid "A family of energy-efficient CPU architectures widely used in mobile devices, embedded systems, and servers"
-msgstr ""
+msgstr "Mobil cihazlar, gömülü sistemler ve sunucularda kullanılan enerji verimliliği yüksek işlemci mimarisi ailesi"
 
 msgid "A robotic limb that compiles your code"
-msgstr ""
+msgstr "Kodunu derleyen robotik bir kol"
 
 msgid "A special SUSE department for arm wrestling kernel bugs"
-msgstr ""
+msgstr "Çekirdek hatalarıyla bilek güreşi yapan özel bir SUSE departmanı"
 
 msgid "A new kind of filesystem invented by Geeko"
-msgstr ""
+msgstr "Geeko tarafından icat edilmiş yeni bir dosya sistemi"
 
 msgid "What is the Raspberry Pi 5?"
-msgstr ""
+msgstr "Raspberry Pi 5 nedir?"
 
 msgid "A credit-card-sized computer using Arm architecture"
-msgstr ""
+msgstr "Arm mimarisini kullanan kredi kartı boyutundaki bir bilgisayar"
 
 msgid "An affordable and energy-efficient little desktop — perfect for kids to browse the web, watch YouTube, learn coding, or play light games"
-msgstr ""
+msgstr "Ucuz ve enerji verimliliği yüksek küçük bir bilgisayar. Web'de gezinen, YouTube izleyen, kodlama öğrenen veya hafif oyunlar oynayan çocuklar için harika bir seçenek"
 
 msgid "A tiny but capable server for running a home NAS, Home Assistant, Nextcloud, or even a local openSUSE mirror"
-msgstr ""
+msgstr "NAS, Ev Asistanı, Nextcloud ve hatta yerel bir openSUSE yansısı çalıştırabilecek küçük ama kapsamlı bir sunucu"
 
 msgid "All of the above"
-msgstr ""
+msgstr "Yukarıdakilerin hepsi"
 
 msgid "What is the correct spelling of the CPU architecture supported by openSUSE on Raspberry Pi 5?"
-msgstr ""
+msgstr "openSUSE tarafından Raspberry Pi 5 için desteklenen işlemci mimarilerinin doğru telaffuzu nedir?"
 
 msgid "arm"
-msgstr ""
+msgstr "arm"
 
 msgid "Arm"
-msgstr ""
+msgstr "Arm"
 
 msgid "ARM!"
-msgstr ""
+msgstr "ARM!"
 
 msgid "Armmm… not sure"
-msgstr ""
+msgstr "Armmm... emin değilim"
 
 msgid "Who is behind Raspberry PI5 u-boot support in upstream Linux kernel?"
 msgstr ""
 
 msgid "Ivan Ivanov and Matthias Brugger from SUSE HW Enablement team."
-msgstr ""
+msgstr "SUSE HW uygulama ekibinden Ivan Ivanov ve Matthias Brugger."
 
 msgid "Linus Torvalds"
 msgstr ""
 
 msgid "Richard Stallman"
-msgstr ""
+msgstr "Richard Stallman"
 
 msgid "Eric S. Raymond "
-msgstr ""
+msgstr "Eric S. Raymond "
 
 msgid "Which openSUSE editions offer specialized Raspberry Pi images?"
-msgstr ""
+msgstr "Hangi openSUSE versiyonları özelleştirilmiş Raspberry Pi imajları sunar?"
 
 msgid "Leap, Leap Micro, Tumbleweed, and MicroOS"
-msgstr ""
+msgstr "Leap, Leap Micro, Tumbleweed, ve MicroOS"
 
 msgid "Only Tumbleweed, because it never stops rolling"
-msgstr ""
+msgstr "Sadece Tumbleweed çünkü yuvarlanması hiç bitmiyor"
 
 msgid "Just Leap 42.3 because it’s eternal"
-msgstr ""
+msgstr "Sadece Leap 42.3 çünkü ölümsüz"
 
 msgid "Only MicroOS, everything else melted"
-msgstr ""
+msgstr "Sadece MicroOS, diğerleri erir"
 
 msgid "What is the preferred image format for openSUSE on Raspberry Pi?"
-msgstr ""
+msgstr "Raspberry Pi'da openSUSE çalıştırmak için önerilen imaj formatı nedir?"
 
 msgid "Raw disk image (.raw.xz)"
-msgstr ""
+msgstr "Ham disk imajı (.raw.xz)"
 
 msgid ".exe installer"
-msgstr ""
+msgstr ".exe kurulum sihirbazı"
 
 msgid ".iso DVD image with manual soldering required"
-msgstr ""
+msgstr "Manuel lehimleme gerektiren .iso DVD imajı"
 
 msgid ".tar.gz full of dreams"
-msgstr ""
+msgstr "Hayallerle dolu .tar.gz"
 
 msgid "openSUSE can run on mobile phones too! What installation images are available for the PinePhone?"
-msgstr ""
+msgstr "openSUSE mobil telefonlarda da çalışıyor! Hangi kurulum imajı PinePhone için kullanılabilir?"
 
 msgid "Tumbleweed with Phosh (for Purism fans) and Tumbleweed with Plasma Mobile (for KDE lovers)"
-msgstr ""
+msgstr "Phosh ile Tumbleweed (saflık isteyenler için) ve Plasma Mobile ile Tumbleweed (KDE sevdalıları için)"
 
 msgid "Leap Micro with GNOME Shell for refrigerators"
-msgstr ""
+msgstr "Buzdolapları için GNOME Shell ile Leap Micro"
 
 msgid "Tumbleweed LXQt Edition for rotary phones"
-msgstr ""
+msgstr "Dönen telefonlar için LXQt ile Tumbleweed"
 
 msgid "MicroOS Text Edition with Morse input mode"
-msgstr ""
+msgstr "Morse girdi modu ile MicroOS metin edisyonu"
 
 msgid "Where can you find openSUSE images for Arm devices such as Raspberry Pi, PinePhone, or Pinebook?"
 msgstr ""
