@@ -114,12 +114,12 @@ const questions = [
     ],
   },
   {
-    text: _("Bsides English, which languages does it support?"),
+    text: _("Besides English, which languages does it support?"),
     answers: [
       { text: _("Español, Deutsch, Svenska"), correct: false },
-      { text: _("中文（中国）, English, Česky"), correct: false },
+      { text: _("中文（中国）, Türkçe, Česky"), correct: false },
       { text: _("All of them, and many more"), correct: true },
-      { text: _("日本語, Português Français"), correct: false },
+      { text: _("日本語, Português, Français"), correct: false },
     ],
   },
 ];
