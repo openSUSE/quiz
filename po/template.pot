@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 11:07+0000\n"
+"POT-Creation-Date: 2026-09-28 23:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -383,19 +383,19 @@ msgstr ""
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
 msgstr ""
 
-msgid "Bsides English, which languages does it support?"
+msgid "Besides English, which languages does it support?"
 msgstr ""
 
 msgid "Español, Deutsch, Svenska"
 msgstr ""
 
-msgid "中文（中国）, English, Česky"
+msgid "中文（中国）, Türkçe, Česky"
 msgstr ""
 
 msgid "All of them, and many more"
 msgstr ""
 
-msgid "日本語, Português Français"
+msgid "日本語, Português, Français"
 msgstr ""
 
 msgid "Immutability"
