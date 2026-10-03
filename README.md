@@ -1,6 +1,7 @@
 # 🦎 openSUSE-quiz 🦎
 
 <!-- Badges -->
+<div align="center">
 
 [![Powered by openSUSE](https://img.shields.io/badge/powered%20by-openSUSE-6da741?logo=opensuse&logoColor=white)](https://www.opensuse.org/)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/openSUSE/quiz/main.svg)](https://results.pre-commit.ci/latest/github/openSUSE/quiz/main)
@@ -8,9 +9,27 @@
 ![Node.js Version](https://img.shields.io/badge/node-%3E=18.0.0-brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/openSUSE/quiz)
 ![Contributors](https://img.shields.io/github/contributors/openSUSE/quiz)
+[![Translation status](https://l10n.opensuse.org/widget/quiz/quiz/svg-badge.svg)](https://l10n.opensuse.org/engage/quiz/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fquiz-o-o.netlify.app)](https://quiz-o-o.netlify.app)
+[![quiz.opensuse.org](https://img.shields.io/website?url=https%3A%2F%2Fquiz.opensuse.org&label=quiz.opensuse.org)](https://quiz.opensuse.org)
+
+![Code style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4?logo=prettier&logoColor=white)
+![Bun compatible](https://img.shields.io/badge/bun-compatible-f9f1e1?logo=bun&logoColor=black)
+![LESS](https://img.shields.io/badge/styles-LESS-1d365d?logo=less&logoColor=white)
+
+![Open issues](https://img.shields.io/github/issues/openSUSE/quiz)
+![Open PRs](https://img.shields.io/github/issues-pr/openSUSE/quiz)
+![Commit activity](https://img.shields.io/github/commit-activity/m/openSUSE/quiz)
+![Stars](https://img.shields.io/github/stars/openSUSE/quiz?style=social)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-6da741)
+
+![GDPR friendly](https://img.shields.io/badge/GDPR-friendly-6da741?logo=opensuse&logoColor=white)
+![Paperless](https://img.shields.io/badge/paper-saved%20🌍-6da741)
+
+</div>
 
 A goal of this project is to provide openSUSE booth staff with a local instance of a quiz that we used to do in [a paper form](https://github.com/openSUSE/artwork/tree/master/quizzes). Having an [online variant](https://quiz-o-o.netlify.app) saves both money 💰 and environment 🌍.
+
 
 ## 🎯 Key goals
 
@@ -191,13 +210,13 @@ At an agreed time, we call out winners in one of two ways: 🏆
 
 ## Contributing 📝
 
-# 🧠 Contributing to the openSUSE Quiz App
+### 🧠 Contributing to the openSUSE Quiz App
 
-We welcome all contributions! Whether you're improving translations, adding new quiz questions, or localizing into a new language — thank you for making this better for everyone. 💚
+We welcome all contributions! Whether you're improving translations, adding new quiz questions, or localizing into a new language thank you for making this better for everyone. 💚
 
 ---
 
-## 🈷️ Helping with Translations
+### 🈷️ Helping with Translations
 
 To add or correct translations in an existing language, head over to Weblate:
 
@@ -207,7 +226,7 @@ Weblate will automatically commit translations approximately two hours after the
 
 ---
 
-## ❓ Adding New Questions
+### ❓ Adding New Questions
 
 You can add new questions by modifying or creating quiz files inside the `data/` directory.
 
@@ -224,7 +243,7 @@ You can add new questions by modifying or creating quiz files inside the `data/`
 
 ---
 
-## 🌍 Adding a New Language
+### 🌍 Adding a New Language
 
 To add support for a new language:
 
@@ -241,7 +260,7 @@ To add support for a new language:
 
 ---
 
-## Pre-commit Hook for POT File Generation 🌎
+### Pre-commit Hook for POT File Generation 🌎
 
 This project uses a pre-commit hook to automatically update the `po/template.pot` file whenever JavaScript files in `data/` or `src/i18nHelpers.js` are changed. This ensures that the translation template is always up-to-date with the latest translatable strings.
 
@@ -272,7 +291,7 @@ Now, every time you run `git commit`, the hook will execute `po/extract-pot.sh`.
 
 ---
 
-## 🦎 Making linter check happy
+### 🦎 Making linter check happy
 
 You may have noticed that we're using prettiers as part of CI Checks for each Pull request.
 Users who run application locally can use the existing prettier inside quiz/nodejs_module:
@@ -286,7 +305,7 @@ git commit -am "Prettier code"
 git push
 ```
 
-## 🦎 Test data
+### 🦎 Test data
 
 Copy our stats.json.sample In case you need quickly some test data.
 Please avoid pushing changes to public/stats.json. We have it in .gitignore for a reson. 💚
@@ -303,7 +322,7 @@ Visit [http://localhost:4000/stats](http://localhost:4000/stats) or [http://loca
 
 Thanks for your contribution! 🐲💚
 
-## 🌐 Instance
+### 🌐 Instance
 
 Latest Build (dev): [https://quiz-o-o.netlify.app/](https://quiz-o-o.netlify.app/) 🌍
 
@@ -316,11 +335,11 @@ You can make individual instances for conferences by creating a new pull request
 
 ---
 
-## 🍻 openSUSE Bar
+### 🍻 openSUSE Bar
 
 [![openSUSE Bar](https://img.shields.io/badge/meetup-openSUSE%20Bar-6da741?logo=opensuse&logoColor=white)](https://meet.opensuse.org/bar)
 [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-openSUSE-6da741?logo=opensuse&logoColor=white)](https://en.opensuse.org/Code_of_Conduct)
 
-This project is developed mostly at the [openSUSE Bar](https://en.opensuse.org/openSUSE:Bar) — a place where everyone from the community can hang out, meet new people and just have a good time. We fix stuff together, contribute, talk about basically everything, help others and have a lot of fun.
+This project is developed mostly at the [openSUSE Bar](https://en.opensuse.org/openSUSE:Bar) a place where everyone from the community can hang out, meet new people and just have a good time. We fix stuff together, contribute, talk about basically everything, help others and have a lot of fun.
 
 The openSUSE Bar operates under the [openSUSE Code of Conduct](https://en.opensuse.org/Code_of_Conduct).
