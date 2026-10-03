@@ -65,6 +65,7 @@ function getAvailableLanguages(poDirPath) {
     sv: "Svenska",
     tr: "Türkçe",
     uk: "Українська",
+    zh_Hans: "简体中文",
   };
 
   return fs
