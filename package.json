@@ -11,6 +11,13 @@
     "lint": "eslint --fix \"**/*.js\"",
     "lint:check": "eslint \"**/*.js\""
   },
+  "nodemonConfig": {
+    "ignore": [
+      "data/*.json",
+      "public/stats.json",
+      "netlify/functions/tmp/*"
+    ]
+  },
   "dependencies": {
     "@netlify/functions": "^5.1.5",
     "@types/express": "^5.0.2",
