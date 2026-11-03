@@ -46,7 +46,15 @@ const USERNAME_POLICY =
     "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
   );
 
+// Scoring, keep in sync with public/quizRenderer.js and public/agility.js
+const QUESTION_MAX_POINTS = 1000;
+const AGILITY_MAX_POINTS = 1000;
+const AGILITY_EVERY = 5;
+
 module.exports = {
+  QUESTION_MAX_POINTS,
+  AGILITY_MAX_POINTS,
+  AGILITY_EVERY,
   DATA_DIR_BASEPATH,
   DATA_DIR_PATH,
   RESET_TOKEN,

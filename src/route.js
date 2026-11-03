@@ -199,6 +199,7 @@ module.exports = (dependencies) => {
     const quizSlug = req.body.quizSlug;
     let correct = Number(req.body.correct) || 0;
     let total = Number(req.body.total) || 0;
+    let points = Math.round(Number(req.body.points) || 0);
 
     if (!username || !quizTitle) {
       return res.status(400).send("Missing username or quiz title.");
@@ -215,12 +216,22 @@ module.exports = (dependencies) => {
     }
 
     const quizPath = path.join(consts.DATA_DIR_PATH, `${quizSlug}.js`);
-    const { questions } = require(quizPath);
+    const { questions, quizData } = require(quizPath);
     const actualTotal = questions.length;
 
     // Clamp totals
     total = Math.min(total, actualTotal);
     correct = Math.min(correct, total);
+
+    // Clamp points to what was achievable for the answered questions
+    const agilityRounds =
+      quizData && quizData.agility === false
+        ? 0
+        : Math.floor(total / consts.AGILITY_EVERY);
+    const maxPoints =
+      correct * consts.QUESTION_MAX_POINTS +
+      agilityRounds * consts.AGILITY_MAX_POINTS;
+    points = Math.min(Math.max(points, 0), maxPoints);
 
     // Initialize user results if needed
     if (!results[username]) {
@@ -241,12 +252,14 @@ module.exports = (dependencies) => {
       results[username].quizzes[quizSlug] = {
         correct,
         total,
+        points,
         retakes: 0,
       };
     } else {
       results[username].quizzes[quizSlug].retakes += 1;
       results[username].quizzes[quizSlug].correct = correct;
       results[username].quizzes[quizSlug].total = total;
+      results[username].quizzes[quizSlug].points = points;
     }
 
     saveResultsToFile();
