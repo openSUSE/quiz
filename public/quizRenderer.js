@@ -75,8 +75,10 @@ async function runAgilityRound() {
   points += result.points;
   updateScoreDisplay(document.getElementById("username").value);
 
+  // quit / submit-anytime are restored by loadQuestion(), Next is not
   questionContainer.classList.remove("hide");
   answersContainer.classList.remove("hide");
+  nextBtn.classList.remove("hide");
   agilityRunning = false;
 }
 
