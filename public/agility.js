@@ -21,9 +21,15 @@ const Agility = (() => {
     gabbroGray: "#b8aeab",
     mapleMaroon: "#301a14",
   };
-  const DISTRACTORS = Object.entries(PALETTE)
-    .filter(([name]) => name !== "geekoGreen")
-    .map(([, color]) => color);
+  // Distractors must stay distinguishable from green for colour-blind
+  // players. Red, orange and yellow collapse into green for protan/deutan
+  // vision and teal does for tritan, so they are deliberately left out.
+  const DISTRACTORS = [
+    PALETTE.mapleMaroon,
+    PALETTE.plumPurple,
+    PALETTE.butterflyBlue,
+    PALETTE.gabbroGray,
+  ];
 
   const ROUND_TYPES = ["tapGreen", "swipeAway", "puzzle"];
 
@@ -449,8 +455,8 @@ const Agility = (() => {
       help: (s) => s.tapGreenHelp,
       demo: () =>
         geekoSvg(PALETTE.geekoGreen, "demo-good") +
-        geekoSvg(PALETTE.turquoiseTeal, "demo-bad") +
-        geekoSvg(PALETTE.radishRed, "demo-bad"),
+        geekoSvg(PALETTE.plumPurple, "demo-bad") +
+        geekoSvg(PALETTE.mapleMaroon, "demo-bad"),
       play: playTapGreen,
     },
     swipeAway: {
