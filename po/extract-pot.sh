@@ -52,6 +52,27 @@ for jsfile in "$DATA_DIR"/*.js "$SRC_DIR"/i18nHelpers.js "$SRC_DIR"/consts.js; d
     rm "$potfile"
 done
 
+# Keep strings that already exist in their current order and append new ones
+# at the end. Without this, a new quiz file sorting in the middle of data/
+# would insert its strings mid-file (and pull shared strings up with it).
+if [ -f "$FINAL_POT_FILE" ]; then
+    KEPT_POT_TMP=$(mktemp)
+    # Strings present in both files, in the existing order (drops removed ones)
+    msgcomm --more-than=1 --no-wrap \
+        "$FINAL_POT_FILE" "$TEMP_GENERATED_POT" > "$KEPT_POT_TMP"
+    if [ -s "$KEPT_POT_TMP" ]; then
+        GENERATED_DATE=$(grep '^"POT-Creation-Date: ' "$TEMP_GENERATED_POT" || true)
+        msgcat --use-first --no-wrap "$KEPT_POT_TMP" "$TEMP_GENERATED_POT" > "$TEMP_GENERATED_POT.new"
+        # Header comes from the existing file; refresh its creation date
+        if [ -n "$GENERATED_DATE" ]; then
+            GENERATED_DATE=${GENERATED_DATE//\\/\\\\} # keep the literal \n for sed
+            sed -i "s|^\"POT-Creation-Date: .*|$GENERATED_DATE|" "$TEMP_GENERATED_POT.new"
+        fi
+        mv "$TEMP_GENERATED_POT.new" "$TEMP_GENERATED_POT"
+    fi
+    rm "$KEPT_POT_TMP"
+fi
+
 # After the loop, TEMP_GENERATED_POT contains the complete new POT content.
 # Compare TEMP_GENERATED_POT with FINAL_POT_FILE to see if an update is needed.
 
