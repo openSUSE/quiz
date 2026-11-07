@@ -50,7 +50,13 @@ let agilityRunning = false;
 
 // Longer questions get a longer reading grace before points start dropping.
 function readingGraceMs(question) {
-  const len = String(question.text || "").replace(/<[^>]*>/g, "").length;
+  // Measure visible text only; DOMParser builds an inert document (no
+  // scripts run, no resources load), unlike regex-based tag stripping.
+  const doc = new DOMParser().parseFromString(
+    String(question.text || ""),
+    "text/html"
+  );
+  const len = (doc.body.textContent || "").length;
   return Math.min(6000, 2000 + len * 35);
 }
 
