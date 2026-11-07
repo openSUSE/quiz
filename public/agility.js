@@ -500,7 +500,6 @@ const Agility = (() => {
     MAX_POINTS,
     ROUND_TYPES,
     runRound,
-    roundTypeFor: (index) => ROUND_TYPES[index % ROUND_TYPES.length],
     speedFactor,
   };
 })();

@@ -30,11 +30,19 @@ const AGILITY_HALFTIME_MIN_QUESTIONS = 10;
 const agilityEnabled =
   typeof Agility !== "undefined" && quizData.agility !== false;
 let points = 0;
-// Start the rotation at a random round type so every type gets played
-// even though a quiz only has up to two rounds.
-const randomAgilityStart = () =>
-  agilityEnabled ? Math.floor(Math.random() * Agility.ROUND_TYPES.length) : 0;
-let agilityRoundsPlayed = randomAgilityStart();
+// Each quiz run plays a shuffled selection of the agility games, so the
+// two rounds are always different and every game gets its turn over time.
+function shuffledAgilityRounds() {
+  if (!agilityEnabled) return [];
+  const rounds = [...Agility.ROUND_TYPES];
+  for (let i = rounds.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [rounds[i], rounds[j]] = [rounds[j], rounds[i]];
+  }
+  return rounds;
+}
+let agilityPlan = shuffledAgilityRounds();
+let agilityRoundsPlayed = 0;
 let lastAgilityAt = 0;
 let questionShownAt = 0;
 let answerClickedAt = 0;
@@ -81,7 +89,7 @@ async function runAgilityRound() {
     .filter(Boolean)
     .forEach((node) => node.classList.add("hide"));
 
-  const type = Agility.roundTypeFor(agilityRoundsPlayed++);
+  const type = agilityPlan[agilityRoundsPlayed++ % agilityPlan.length];
   const result = await Agility.runRound(type, stage, uiStrings);
   points += result.points;
   updateScoreDisplay(document.getElementById("username").value);
@@ -233,7 +241,8 @@ function handleStartAction() {
     correct = 0;
     currentQuestion = 0;
     points = 0;
-    agilityRoundsPlayed = randomAgilityStart();
+    agilityPlan = shuffledAgilityRounds();
+    agilityRoundsPlayed = 0;
     lastAgilityAt = 0;
     startBtn.textContent = "Start";
     usernameInput.focus();
