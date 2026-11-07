@@ -3325,6 +3325,45 @@ msgstr "Nama pengguna terlalu pendek."
 msgid "Sorry, this login is already taken."
 msgstr "Maaf, akun ini sudah digunakan oleh orang lain."
 
+msgid "Points"
+msgstr "Poin"
+
+msgid "Agility time!"
+msgstr "Waktunya ketangkasan!"
+
+msgid "I'm ready"
+msgstr "Saya siap"
+
+msgid "Go!"
+msgstr "Mulai!"
+
+msgid "Continue"
+msgstr "Lanjutkan"
+
+msgid "Round points"
+msgstr "Poin ronde"
+
+msgid "Too slow!"
+msgstr "Terlalu lambat!"
+
+msgid "Tap only the green Geekos"
+msgstr "Ketuk hanya Geeko hijau"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "Geeko hijau memberi poin, warna lain mengurangi poin Anda. Cepatlah, mereka tidak muncul lama!"
+
+msgid "Swipe away from Geeko"
+msgstr "Usap menjauh dari Geeko"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko berputar. Usap ke arah yang berlawanan dengan arah pandangnya. Tombol panah juga bisa digunakan."
+
+msgid "Fix the Geeko"
+msgstr "Perbaiki Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko berantakan! Ketuk dua kepingan untuk menukarnya sampai logonya utuh kembali. Semakin cepat, semakin banyak poin."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Apakah Anda yakin ingin keluar? Kemajuan Anda tidak akan disimpan."
 

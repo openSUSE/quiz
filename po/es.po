@@ -3332,6 +3332,45 @@ msgstr "El nombre de usuario es demasiado corto."
 msgid "Sorry, this login is already taken."
 msgstr "Lo sentimos, este inicio de sesión ya está ocupado."
 
+msgid "Points"
+msgstr "Puntos"
+
+msgid "Agility time!"
+msgstr "¡Hora de agilidad!"
+
+msgid "I'm ready"
+msgstr "¡A jugar!"
+
+msgid "Go!"
+msgstr "¡Ya!"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Round points"
+msgstr "Puntos de la ronda"
+
+msgid "Too slow!"
+msgstr "¡Demasiado tarde!"
+
+msgid "Tap only the green Geekos"
+msgstr "Toca solo los Geekos verdes"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "El Geeko verde da puntos, cualquier otro color te los quita. ¡Date prisa, no duran mucho!"
+
+msgid "Swipe away from Geeko"
+msgstr "Desliza lejos de Geeko"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko da vueltas. Desliza en la dirección opuesta a la que mira. También funcionan las teclas de flecha."
+
+msgid "Fix the Geeko"
+msgstr "Arregla a Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "¡Geeko se ha roto en pedazos! Toca dos piezas para intercambiarlas hasta que el logo vuelva a estar completo. Cuanto más rápido, más puntos."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "¿Estás seguro de que quieres dejar salir? Tu progreso no se guardará."
 

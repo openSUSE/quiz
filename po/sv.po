@@ -3321,6 +3321,45 @@ msgstr "Användarnamnet är för kort."
 msgid "Sorry, this login is already taken."
 msgstr "Tyvärr, den här inloggningen är redan upptagen."
 
+msgid "Points"
+msgstr "Poäng"
+
+msgid "Agility time!"
+msgstr "Dags för smidighet!"
+
+msgid "I'm ready"
+msgstr "Jag är redo"
+
+msgid "Go!"
+msgstr "Kör!"
+
+msgid "Continue"
+msgstr "Fortsätt"
+
+msgid "Round points"
+msgstr "Poäng för rundan"
+
+msgid "Too slow!"
+msgstr "För långsamt!"
+
+msgid "Tap only the green Geekos"
+msgstr "Tryck bara på gröna Geeko"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "Grön Geeko ger poäng, alla andra färger kostar dig poäng. Var snabb, de stannar inte länge!"
+
+msgid "Swipe away from Geeko"
+msgstr "Svep bort från Geeko"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko snurrar runt. Svep åt motsatt håll mot där den tittar. Piltangenterna fungerar också."
+
+msgid "Fix the Geeko"
+msgstr "Laga Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko har gått sönder! Tryck på två bitar för att byta plats på dem tills logotypen är hel igen. Ju snabbare, desto fler poäng."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Är du säker på att du vill avsluta? Dina framsteg kommer inte att sparas."
 

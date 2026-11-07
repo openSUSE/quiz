@@ -3324,6 +3324,45 @@ msgstr "A felhasználónév túl rövid."
 msgid "Sorry, this login is already taken."
 msgstr "Sajnálom, a felhasználónév már foglalt."
 
+msgid "Points"
+msgstr "Pontok"
+
+msgid "Agility time!"
+msgstr "Ügyességi kör!"
+
+msgid "I'm ready"
+msgstr "Készen állok"
+
+msgid "Go!"
+msgstr "Rajta!"
+
+msgid "Continue"
+msgstr "Tovább"
+
+msgid "Round points"
+msgstr "Pontok ebben a körben"
+
+msgid "Too slow!"
+msgstr "Túl lassú!"
+
+msgid "Tap only the green Geekos"
+msgstr "Csak a zöld Geekókra koppints"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "A zöld Geeko pontot ér, minden más szín pontlevonással jár. Légy gyors, nem maradnak sokáig!"
+
+msgid "Swipe away from Geeko"
+msgstr "Húzd az ujjad Geekótól elfelé"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko forog. Húzd az ujjad azzal ellentétes irányba, amerre néz. A nyílbillentyűk is működnek."
+
+msgid "Fix the Geeko"
+msgstr "Rakd össze Geekót"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko darabjaira esett! Koppints két darabra a cseréjükhöz, amíg a logó újra egész nem lesz. Minél gyorsabb vagy, annál több pont."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Biztosan kilépsz? Az eddig elért eredményed el fog veszni!"
 

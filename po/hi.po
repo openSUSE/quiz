@@ -3329,6 +3329,45 @@ msgstr ""
 msgid "Sorry, this login is already taken."
 msgstr ""
 
+msgid "Points"
+msgstr "अंक"
+
+msgid "Agility time!"
+msgstr "फुर्ती का समय!"
+
+msgid "I'm ready"
+msgstr "मैं तैयार हूँ"
+
+msgid "Go!"
+msgstr "चलो!"
+
+msgid "Continue"
+msgstr "जारी रखें"
+
+msgid "Round points"
+msgstr "राउंड के अंक"
+
+msgid "Too slow!"
+msgstr "बहुत देर हो गई!"
+
+msgid "Tap only the green Geekos"
+msgstr "केवल हरे Geeko पर टैप करें"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "हरा Geeko अंक दिलाता है, कोई भी दूसरा रंग अंक घटाता है। जल्दी करें, वे ज़्यादा देर नहीं रुकते!"
+
+msgid "Swipe away from Geeko"
+msgstr "Geeko से दूर स्वाइप करें"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko घूमता है। वह जिस दिशा में देख रहा है, उसकी उलटी दिशा में स्वाइप करें। तीर कुंजियाँ भी काम करती हैं।"
+
+msgid "Fix the Geeko"
+msgstr "Geeko को ठीक करें"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko बिखर गया! दो टुकड़ों पर टैप करके उन्हें आपस में बदलें, जब तक लोगो फिर से पूरा न हो जाए। जितनी तेज़ी, उतने ज़्यादा अंक।"
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr ""
 

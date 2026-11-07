@@ -3317,6 +3317,45 @@ msgstr "El nom d'usuari és massa curt."
 msgid "Sorry, this login is already taken."
 msgstr "Aquest inici de sessió ja s'ha fet."
 
+msgid "Points"
+msgstr "Punts"
+
+msgid "Agility time!"
+msgstr "Hora d'agilitat!"
+
+msgid "I'm ready"
+msgstr "Estic a punt"
+
+msgid "Go!"
+msgstr "Som-hi!"
+
+msgid "Continue"
+msgstr "Continua"
+
+msgid "Round points"
+msgstr "Punts de la ronda"
+
+msgid "Too slow!"
+msgstr "Massa tard!"
+
+msgid "Tap only the green Geekos"
+msgstr "Toqueu només els Geekos verds"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "El Geeko verd suma punts; qualsevol altre color en resta. Afanyeu-vos, no s'hi queden gaire!"
+
+msgid "Swipe away from Geeko"
+msgstr "Feu lliscar lluny del Geeko"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "El Geeko gira. Feu lliscar en la direcció contrària a on mira. També funcionen les tecles de fletxa."
+
+msgid "Fix the Geeko"
+msgstr "Arregleu el Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "El Geeko s'ha desfet! Toqueu dues peces per intercanviar-les fins que el logotip torni a estar sencer. Com més ràpid, més punts."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Segur que en voleu sortir? No se us desarà el progrés."
 

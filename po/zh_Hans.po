@@ -3321,6 +3321,45 @@ msgstr "用户名太短"
 msgid "Sorry, this login is already taken."
 msgstr "抱歉，此登录名已被占用。"
 
+msgid "Points"
+msgstr "积分"
+
+msgid "Agility time!"
+msgstr "敏捷时间！"
+
+msgid "I'm ready"
+msgstr "我准备好了"
+
+msgid "Go!"
+msgstr "出发！"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Round points"
+msgstr "本轮积分"
+
+msgid "Too slow!"
+msgstr "太慢了！"
+
+msgid "Tap only the green Geekos"
+msgstr "只点绿色的 Geeko"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "绿色 Geeko 加分，其他颜色都会扣分。动作要快，它们不会停留太久！"
+
+msgid "Swipe away from Geeko"
+msgstr "朝远离 Geeko 的方向滑动"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko 会转圈。朝它所看方向的反方向滑动。也可以使用方向键。"
+
+msgid "Fix the Geeko"
+msgstr "修好 Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko 散架了！点击两块拼图交换位置，直到标志重新完整。越快得分越高。"
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "确定要退出吗？你的进度将不会被保存。"
 
