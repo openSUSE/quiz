@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE Quiz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 03:15+0100\n"
+"POT-Creation-Date: 2026-11-07 03:22+0100\n"
 "PO-Revision-Date: 2026-06-25 11:38+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Czech <https://l10n.opensuse.org/projects/quiz/quiz/cs/>\n"
@@ -3384,29 +3384,65 @@ msgstr "1. dubna 2026"
 msgid "Not yet, still in Factory"
 msgstr "Ještě ne, je stále ve Factory"
 
-msgid "What happens to Leap Micro with Leap 16.1?"
-msgstr "Co se s Leap 16.1 stane s Leap Micro?"
+msgid "Where can I download Leap 16.1 images?"
+msgstr "Kde stáhnu obrazy Leap 16.1?"
 
-msgid "Replaced by Leap 16.1 Immutable mode"
-msgstr "Nahradí ho Leap 16.1 v Immutable režimu"
+msgid "get.opensuse.org"
+msgstr "get.opensuse.org"
 
-msgid "It gets its own 16.1 release"
-msgstr "Dočká se vlastního vydání 16.1"
+msgid "download.windows.com"
+msgstr "download.windows.com"
 
-msgid "It is renamed to Leap Nano"
-msgstr "Přejmenuje se na Leap Nano"
+msgid "A random torrent from a forum signature"
+msgstr "Náhodný torrent z podpisu na fóru"
 
-msgid "Nothing, it stays a separate product"
-msgstr "Nic, zůstane samostatným produktem"
+msgid "You have to order DVDs by mail"
+msgstr "DVD si musíte objednat poštou"
 
-msgid "Which installer do you use to install Leap 16.1?"
-msgstr "Jakým instalátorem nainstalujete Leap 16.1?"
+msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
+msgstr "Proč Leap 16.1 nemá nejnovější GNOME?"
 
-msgid "Calamares"
-msgstr "Calamares"
+msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
+msgstr "Leap vychází ze SLES: nové GNOME každé 2. vydání, další v 16.2"
 
-msgid "debian-installer"
-msgstr "debian-installer"
+msgid "GNOME was dropped, Leap now ships only KDE"
+msgstr "GNOME skončilo, Leap má už jen KDE"
+
+msgid "The new GNOME didn't fit on the DVD"
+msgstr "Nové GNOME se nevešlo na DVD"
+
+msgid "The newest GNOME is available only as a Flatpak"
+msgstr "Nejnovější GNOME je jen jako Flatpak"
+
+msgid "Liked Leap Micro? What do you use with 16.1?"
+msgstr "Líbil se vám Leap Micro? Co použít s 16.1?"
+
+msgid "Leap 16.1 Immutable images in Alternative Downloads"
+msgstr "Immutable obrazy Leap 16.1 v Alternative Downloads"
+
+msgid "Leap Micro 16.1 from its own website"
+msgstr "Leap Micro 16.1 z jeho vlastního webu"
+
+msgid "Leap Nano, its renamed successor"
+msgstr "Leap Nano, jeho přejmenovaného nástupce"
+
+msgid "Nothing, Micro fans must switch distro"
+msgstr "Nic, fanoušci Micro musí změnit distribuci"
+
+msgid "How do you install Leap 16.1 as immutable?"
+msgstr "Jak nainstalujete Leap 16.1 jako immutable?"
+
+msgid "Pick Immutable mode in the Agama installer"
+msgstr "Zvolím Immutable režim v instalátoru Agama"
+
+msgid "Install standard Leap, then run chattr +i /"
+msgstr "Nainstaluji běžný Leap a spustím chattr +i /"
+
+msgid "Only by recompiling the kernel"
+msgstr "Jedině překompilováním jádra"
+
+msgid "You can't, Leap is standard only"
+msgstr "Nejde to, Leap je jen v běžné variantě"
 
 msgid "What's special about the 16.1 parties?"
 msgstr "Čím jsou párty k 16.1 výjimečné?"
@@ -3468,44 +3504,35 @@ msgstr "Jen emimino.cz v diskuzi maminek"
 msgid "Only lide.cz, in the dating chat"
 msgstr "Jen lide.cz v seznamce"
 
-msgid "Which country hosts parties on Nov 7th and 14th?"
-msgstr "Ve které zemi se párty konají 7. a 14. 11.?"
+msgid "Besides Czechia and Germany, where are parties Nov 7th–14th?"
+msgstr "Kde kromě Česka a Německa jsou párty 7.–14. 11.?"
 
-msgid "Vatican City"
-msgstr "Vatikán"
+msgid "Where can you find all parties and public events?"
+msgstr "Kde najdete všechny párty a veřejné akce?"
 
-msgid "Atlantis"
-msgstr "Atlantida"
+msgid "calendar.opensuse.org"
+msgstr "calendar.opensuse.org"
 
-msgid "Where can I download Leap 16.1 images?"
-msgstr "Kde stáhnu obrazy Leap 16.1?"
+msgid "On a flyer in the SUSE office kitchen"
+msgstr "Na letáku v kuchyňce SUSE"
 
-msgid "get.opensuse.org"
-msgstr "get.opensuse.org"
+msgid "Nowhere, ask on IRC and hope"
+msgstr "Nikde, zeptejte se na IRC a doufejte"
 
-msgid "download.windows.com"
-msgstr "download.windows.com"
+msgid "In the zypper changelog"
+msgstr "V changelogu zypperu"
 
-msgid "A random torrent from a forum signature"
-msgstr "Náhodný torrent z podpisu na fóru"
+msgid "Indonesia and India, thanks to active communities"
+msgstr "V Indonésii a Indii díky aktivním komunitám"
 
-msgid "You have to order DVDs by mail"
-msgstr "DVD si musíte objednat poštou"
+msgid "Antarctica and Atlantis, thanks to penguin users"
+msgstr "V Antarktidě a Atlantidě díky tučňákům"
 
-msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
-msgstr "Proč Leap 16.1 nemá nejnovější GNOME?"
+msgid "Vatican City and Monaco, by royal decree"
+msgstr "Ve Vatikánu a Monaku na královský příkaz"
 
-msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
-msgstr "Leap vychází ze SLES: nové GNOME každé 2. vydání, další v 16.2"
-
-msgid "GNOME was dropped, Leap now ships only KDE"
-msgstr "GNOME skončilo, Leap má už jen KDE"
-
-msgid "The new GNOME didn't fit on the DVD"
-msgstr "Nové GNOME se nevešlo na DVD"
-
-msgid "The newest GNOME is available only as a Flatpak"
-msgstr "Nejnovější GNOME je jen jako Flatpak"
+msgid "Nowhere else, no other communities exist"
+msgstr "Nikde jinde, jiné komunity neexistují"
 
 #~ msgid "2025 – this year! 🎉"
 #~ msgstr "2025 – letos! 🎉"

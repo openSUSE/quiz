@@ -25,6 +25,15 @@ const questions = [
     ],
   },
   {
+    text: _("Where can I download Leap 16.1 images?"),
+    answers: [
+      { text: _("get.opensuse.org"), correct: true },
+      { text: _("download.windows.com"), correct: false },
+      { text: _("A random torrent from a forum signature"), correct: false },
+      { text: _("You have to order DVDs by mail"), correct: false },
+    ],
+  },
+  {
     text: _("Why doesn't Leap 16.1 ship the newest GNOME?"),
     answers: [
       { text: _("Leap follows SLES: new GNOME every 2nd release, next in 16.2"), correct: true },
@@ -34,21 +43,21 @@ const questions = [
     ],
   },
   {
-    text: _("What happens to Leap Micro with Leap 16.1?"),
+    text: _("Liked Leap Micro? What do you use with 16.1?"),
     answers: [
-      { text: _("Replaced by Leap 16.1 Immutable mode"), correct: true },
-      { text: _("It gets its own 16.1 release"), correct: false },
-      { text: _("It is renamed to Leap Nano"), correct: false },
-      { text: _("Nothing, it stays a separate product"), correct: false },
+      { text: _("Leap 16.1 Immutable images in Alternative Downloads"), correct: true },
+      { text: _("Leap Micro 16.1 from its own website"), correct: false },
+      { text: _("Leap Nano, its renamed successor"), correct: false },
+      { text: _("Nothing, Micro fans must switch distro"), correct: false },
     ],
   },
   {
-    text: _("Which installer do you use to install Leap 16.1?"),
+    text: _("How do you install Leap 16.1 as immutable?"),
     answers: [
-      { text: _("Agama"), correct: true },
-      { text: _("Anaconda"), correct: false },
-      { text: _("Calamares"), correct: false },
-      { text: _("debian-installer"), correct: false },
+      { text: _("Pick Immutable mode in the Agama installer"), correct: true },
+      { text: _("Install standard Leap, then run chattr +i /"), correct: false },
+      { text: _("Only by recompiling the kernel"), correct: false },
+      { text: _("You can't, Leap is standard only"), correct: false },
     ],
   },
   {
@@ -88,21 +97,21 @@ const questions = [
     ],
   },
   {
-    text: _("Which country hosts parties on Nov 7th and 14th?"),
+    text: _("Besides Czechia and Germany, where are parties Nov 7th–14th?"),
     answers: [
-      { text: _("Indonesia"), correct: true },
-      { text: _("Antarctica"), correct: false },
-      { text: _("Vatican City"), correct: false },
-      { text: _("Atlantis"), correct: false },
+      { text: _("Indonesia and India, thanks to active communities"), correct: true },
+      { text: _("Antarctica and Atlantis, thanks to penguin users"), correct: false },
+      { text: _("Vatican City and Monaco, by royal decree"), correct: false },
+      { text: _("Nowhere else, no other communities exist"), correct: false },
     ],
   },
   {
-    text: _("Where can I download Leap 16.1 images?"),
+    text: _("Where can you find all parties and public events?"),
     answers: [
-      { text: _("get.opensuse.org"), correct: true },
-      { text: _("download.windows.com"), correct: false },
-      { text: _("A random torrent from a forum signature"), correct: false },
-      { text: _("You have to order DVDs by mail"), correct: false },
+      { text: _("calendar.opensuse.org"), correct: true },
+      { text: _("On a flyer in the SUSE office kitchen"), correct: false },
+      { text: _("Nowhere, ask on IRC and hope"), correct: false },
+      { text: _("In the zypper changelog"), correct: false },
     ],
   },
 ];
