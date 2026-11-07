@@ -47,19 +47,16 @@
 	    ],
 	    "theme": "SUSE",
     },
-	"devconf": {
+	"openalt": {
 	    "quizzes": [
-			"arm",
         	"immutability",
-        	"kernel",
         	"kids",
+        	"leap16_1",
         	"opensuse_intro",
-			"opensuse_greenhorn",
-        	"opensuse_expert",
+		"opensuse_greenhorn",
         	"s390x",
         	"yast",
         	"zypper",
-        	"stats",
 		],
 		"theme": "openSUSE",
 	},
