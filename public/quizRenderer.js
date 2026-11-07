@@ -21,15 +21,20 @@ let questionTimeout = null;
 let timerInterval = null;
 
 // Points: answers are worth more the faster they come, agility rounds
-// (every AGILITY_EVERY questions) add up to Agility.MAX_POINTS each.
+// (at half-time and at the end) add up to Agility.MAX_POINTS each.
 const QUESTION_MAX_POINTS = 1000;
 const QUESTION_MIN_FACTOR = 0.5; // slow but correct still earns half
 const QUESTION_DECAY_MS = 15000; // time after the reading grace to hit the floor
-const AGILITY_EVERY = 5;
+// Quizzes shorter than this only get the final agility round.
+const AGILITY_HALFTIME_MIN_QUESTIONS = 10;
 const agilityEnabled =
   typeof Agility !== "undefined" && quizData.agility !== false;
 let points = 0;
-let agilityRoundsPlayed = 0;
+// Start the rotation at a random round type so every type gets played
+// even though a quiz only has up to two rounds.
+const randomAgilityStart = () =>
+  agilityEnabled ? Math.floor(Math.random() * Agility.ROUND_TYPES.length) : 0;
+let agilityRoundsPlayed = randomAgilityStart();
 let lastAgilityAt = 0;
 let questionShownAt = 0;
 let answerClickedAt = 0;
@@ -53,11 +58,17 @@ function questionPoints(elapsedMs, question) {
   );
 }
 
+// Keep in sync with agilityCheckpoints() in src/consts.js
+function agilityCheckpoints(total) {
+  if (total < 1) return [];
+  if (total < AGILITY_HALFTIME_MIN_QUESTIONS) return [total];
+  return [Math.ceil(total / 2), total];
+}
+
 function agilityDue() {
   return (
     agilityEnabled &&
-    currentQuestion > 0 &&
-    currentQuestion % AGILITY_EVERY === 0 &&
+    agilityCheckpoints(questions.length).includes(currentQuestion) &&
     lastAgilityAt !== currentQuestion
   );
 }
@@ -222,7 +233,7 @@ function handleStartAction() {
     correct = 0;
     currentQuestion = 0;
     points = 0;
-    agilityRoundsPlayed = 0;
+    agilityRoundsPlayed = randomAgilityStart();
     lastAgilityAt = 0;
     startBtn.textContent = "Start";
     usernameInput.focus();

@@ -227,7 +227,9 @@ module.exports = (dependencies) => {
     const agilityRounds =
       quizData && quizData.agility === false
         ? 0
-        : Math.floor(total / consts.AGILITY_EVERY);
+        : consts
+            .agilityCheckpoints(actualTotal)
+            .filter((checkpoint) => checkpoint <= total).length;
     const maxPoints =
       correct * consts.QUESTION_MAX_POINTS +
       agilityRounds * consts.AGILITY_MAX_POINTS;

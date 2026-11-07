@@ -198,7 +198,7 @@ Visit [http://localhost:3000](http://localhost:3000) (or your specified port) in
 ## ⚡ Points & agility rounds
 
 - A correct answer is worth up to **1000 points**. After a short reading grace period (longer for longer questions) the value slowly drops, down to 50% at the slowest. Wrong answers score 0.
-- After every **5 questions** there is an agility round worth up to **1000 points**. The rounds rotate:
+- There are two agility rounds per quiz, one at **half-time** and one **at the end** (quizzes under 10 questions only get the final one). Each is worth up to **1000 points**. The rounds rotate:
   1. **Tap only the green Geekos**: Geekos in the openSUSE palette pop up, green ones earn points, other colours cost points.
   2. **Swipe away from Geeko**: Geeko spins and stops; swipe (or press the arrow key) in the opposite direction to where it is looking.
   3. **Fix the Geeko**: the logo is sliced into tiles, tap two tiles to swap them until it is whole.
