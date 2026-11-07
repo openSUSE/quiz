@@ -3,6 +3,13 @@
 # This goes through all of our quizzes and extract strings to potfiles.
 # So users don't have to enter manually questions twice
 
+set -euo pipefail
+
+# Pin the locale so the glob below always sorts files the same way.
+# The order of strings in template.pot must stay stable, otherwise Weblate
+# sees moved entries and translators get needless churn.
+export LC_ALL=C
+
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 DATA_DIR="$SCRIPT_DIR/../data"
 SRC_DIR="$SCRIPT_DIR/../src"
@@ -30,6 +37,13 @@ for jsfile in "$DATA_DIR"/*.js "$SRC_DIR"/i18nHelpers.js "$SRC_DIR"/consts.js; d
         --no-location \
         -k_ \
         -o "$potfile" "$jsfile"
+
+    # xgettext writes no file when there is nothing to extract; skip it
+    # instead of merging a missing file (which would wipe the accumulated pot).
+    if [ ! -f "$potfile" ]; then
+        echo "No translatable strings in $jsfile, skipping."
+        continue
+    fi
 
     # Merge into master pot (preserve first translation, remove duplicates)
     # Merge individual pot into the temporary accumulating pot file
