@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 23:04+0000\n"
+"POT-Creation-Date: 2026-11-07 02:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3319,6 +3319,45 @@ msgid "Username is too short."
 msgstr ""
 
 msgid "Sorry, this login is already taken."
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Agility time!"
+msgstr ""
+
+msgid "I'm ready"
+msgstr ""
+
+msgid "Go!"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Round points"
+msgstr ""
+
+msgid "Too slow!"
+msgstr ""
+
+msgid "Tap only the green Geekos"
+msgstr ""
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr ""
+
+msgid "Swipe away from Geeko"
+msgstr ""
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr ""
+
+msgid "Fix the Geeko"
+msgstr ""
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
 msgstr ""
 
 msgid "Are you sure you want to quit? Your progress will not be saved."

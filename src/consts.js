@@ -46,7 +46,25 @@ const USERNAME_POLICY =
     "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
   );
 
+// Scoring, keep in sync with public/quizRenderer.js and public/agility.js
+const QUESTION_MAX_POINTS = 1000;
+const AGILITY_MAX_POINTS = 1000;
+// Quizzes shorter than this only get the final agility round.
+const AGILITY_HALFTIME_MIN_QUESTIONS = 10;
+
+// Question counts after which an agility round is played: half-time and
+// the end. Keep in sync with agilityCheckpoints() in public/quizRenderer.js
+function agilityCheckpoints(total) {
+  if (total < 1) return [];
+  if (total < AGILITY_HALFTIME_MIN_QUESTIONS) return [total];
+  return [Math.ceil(total / 2), total];
+}
+
 module.exports = {
+  QUESTION_MAX_POINTS,
+  AGILITY_MAX_POINTS,
+  AGILITY_HALFTIME_MIN_QUESTIONS,
+  agilityCheckpoints,
   DATA_DIR_BASEPATH,
   DATA_DIR_PATH,
   RESET_TOKEN,

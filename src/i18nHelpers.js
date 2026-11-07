@@ -39,6 +39,25 @@ function getUiStrings(_, name = "Anonymous") {
     confirmSubmit: _("Are you sure you want to quit and submit?"),
     tooSimpleUsername: _("Username is too short."),
     usernameTaken: _("Sorry, this login is already taken."),
+    points: _("Points"),
+    agilityTime: _("Agility time!"),
+    ready: _("I'm ready"),
+    go: _("Go!"),
+    continue: _("Continue"),
+    roundPoints: _("Round points"),
+    tooSlow: _("Too slow!"),
+    tapGreenTitle: _("Tap only the green Geekos"),
+    tapGreenHelp: _(
+      "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+    ),
+    swipeTitle: _("Swipe away from Geeko"),
+    swipeHelp: _(
+      "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+    ),
+    puzzleTitle: _("Fix the Geeko"),
+    puzzleHelp: _(
+      "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+    ),
     confirmQuit: _(
       "Are you sure you want to quit? Your progress will not be saved."
     ),

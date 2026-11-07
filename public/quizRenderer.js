@@ -1,5 +1,6 @@
 /* global uiStrings */
 /* global existingLogins */
+/* global Agility */
 
 var startBtn = document.querySelector(".start-btn"),
   submitBtn = document.querySelector(".submit-btn"),
@@ -18,6 +19,101 @@ let currentQuestion = 0;
 let correct = 0;
 let questionTimeout = null;
 let timerInterval = null;
+
+// Points: answers are worth more the faster they come, agility rounds
+// (at half-time and at the end) add up to Agility.MAX_POINTS each.
+const QUESTION_MAX_POINTS = 1000;
+const QUESTION_MIN_FACTOR = 0.5; // slow but correct still earns half
+const QUESTION_DECAY_MS = 15000; // time after the reading grace to hit the floor
+// Quizzes shorter than this only get the final agility round.
+const AGILITY_HALFTIME_MIN_QUESTIONS = 10;
+const agilityEnabled =
+  typeof Agility !== "undefined" && quizData.agility !== false;
+let points = 0;
+// Each quiz run plays a shuffled selection of the agility games, so the
+// two rounds are always different and every game gets its turn over time.
+function shuffledAgilityRounds() {
+  if (!agilityEnabled) return [];
+  const rounds = [...Agility.ROUND_TYPES];
+  for (let i = rounds.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [rounds[i], rounds[j]] = [rounds[j], rounds[i]];
+  }
+  return rounds;
+}
+let agilityPlan = shuffledAgilityRounds();
+let agilityRoundsPlayed = 0;
+let lastAgilityAt = 0;
+let questionShownAt = 0;
+let answerClickedAt = 0;
+let agilityRunning = false;
+
+// Longer questions get a longer reading grace before points start dropping.
+function readingGraceMs(question) {
+  // Measure visible text only; DOMParser builds an inert document (no
+  // scripts run, no resources load), unlike regex-based tag stripping.
+  const doc = new DOMParser().parseFromString(
+    String(question.text || ""),
+    "text/html"
+  );
+  const len = (doc.body.textContent || "").length;
+  return Math.min(6000, 2000 + len * 35);
+}
+
+function questionPoints(elapsedMs, question) {
+  return Math.round(
+    QUESTION_MAX_POINTS *
+      Agility.speedFactor(
+        elapsedMs,
+        readingGraceMs(question),
+        readingGraceMs(question) + QUESTION_DECAY_MS,
+        QUESTION_MIN_FACTOR
+      )
+  );
+}
+
+// Keep in sync with agilityCheckpoints() in src/consts.js
+function agilityCheckpoints(total) {
+  if (total < 1) return [];
+  if (total < AGILITY_HALFTIME_MIN_QUESTIONS) return [total];
+  return [Math.ceil(total / 2), total];
+}
+
+function agilityDue() {
+  return (
+    agilityEnabled &&
+    agilityCheckpoints(questions.length).includes(currentQuestion) &&
+    lastAgilityAt !== currentQuestion
+  );
+}
+
+async function runAgilityRound() {
+  agilityRunning = true;
+  lastAgilityAt = currentQuestion;
+  const stage = document.querySelector(".agility-container");
+  [questionContainer, answersContainer, nextBtn, submitAnytimeBtn, quitBtn]
+    .filter(Boolean)
+    .forEach((node) => node.classList.add("hide"));
+
+  const type = agilityPlan[agilityRoundsPlayed++ % agilityPlan.length];
+  const result = await Agility.runRound(type, stage, uiStrings);
+  points += result.points;
+  updateScoreDisplay(document.getElementById("username").value);
+
+  // quit / submit-anytime are restored by loadQuestion(), Next is not
+  questionContainer.classList.remove("hide");
+  answersContainer.classList.remove("hide");
+  nextBtn.classList.remove("hide");
+  agilityRunning = false;
+}
+
+function showPointsGain(gained) {
+  const pop = document.createElement("div");
+  pop.className = `points-pop ${gained > 0 ? "good" : "bad"}`;
+  pop.textContent = `+${gained}`;
+  correctCount.appendChild(pop);
+  setTimeout(() => pop.remove(), 1200);
+}
 
 function isLoginTaken(login) {
   const lowerLogin = login.toLowerCase();
@@ -150,6 +246,10 @@ function handleStartAction() {
 
     correct = 0;
     currentQuestion = 0;
+    points = 0;
+    agilityPlan = shuffledAgilityRounds();
+    agilityRoundsPlayed = 0;
+    lastAgilityAt = 0;
     startBtn.textContent = "Start";
     usernameInput.focus();
     backBtnQuiz.classList.remove("hide");
@@ -206,7 +306,11 @@ startBtn.addEventListener("click", (event) => {
   handleStartAction();
 });
 
-nextBtn.addEventListener("click", () => {
+nextBtn.addEventListener("click", async () => {
+  if (agilityRunning) return;
+  if (agilityDue()) {
+    await runAgilityRound();
+  }
   loadQuestion(currentQuestion);
 });
 
@@ -239,6 +343,7 @@ function endQuiz(isQuitAndSubmit = false) {
 
   correctBoxTop.value = correct;
   totalBoxTop.value = currentQuestion > 0 ? currentQuestion : questions.length;
+  document.getElementById("points-top-hidden").value = points;
   document.getElementById("username-top-hidden").value = usernameBox.value;
 
   submitBtn.classList.add("hide");
@@ -349,6 +454,7 @@ function loadQuestion(questionNum) {
 
   correctBoxTop.value = correct;
   totalBoxTop.value = questions.length;
+  document.getElementById("points-top-hidden").value = points;
   document.getElementById("username-top-hidden").value = usernameBox.value;
 
   // Normal question render
@@ -375,21 +481,29 @@ function loadQuestion(questionNum) {
       Array.from(btnGrid.children).forEach(
         (element) => (element.disabled = true)
       );
-      e.target.dataset.clicked = "true";
+      answerClickedAt = performance.now();
+      answerElement.dataset.clicked = "true";
       checkAnswer();
     });
     btnGrid.appendChild(answerElement);
   });
+  questionShownAt = performance.now();
 }
 
 function checkAnswer(isTimeout = false) {
   clearTimeout(questionTimeout);
+  clearInterval(timerInterval);
+  let gained = 0;
 
   Array.from(answersContainer.children[0].children).forEach((button) => {
     if (button.dataset.correct === "true") {
       button.classList.add("correct");
       if (button.dataset.clicked === "true" && !isTimeout) {
         correct++;
+        gained = questionPoints(
+          answerClickedAt - questionShownAt,
+          questions[currentQuestion]
+        );
       }
     } else {
       button.classList.add("wrong");
@@ -398,8 +512,10 @@ function checkAnswer(isTimeout = false) {
   });
 
   currentQuestion++;
+  points += gained;
   const usernameBox = document.getElementById("username");
   updateScoreDisplay(usernameBox.value);
+  showPointsGain(gained);
 }
 
 function updateTimerDisplay(timerElement, timeLeft) {
@@ -416,16 +532,19 @@ function updateScoreDisplay(username, isFinal = false) {
   const correctSpan = `<span class="score-correct">${correct}</span>`;
   const totalSpan = `<span class="score-total">${questions.length}</span>`;
   const separator = '<span class="score-separator">/</span>';
+  const pointsSpan = `<span class="score-points">⚡ ${points}</span>`;
 
   if (isFinal) {
     correctCount.innerHTML = `
       <span class="username-display">🎯 ${username}</span>
       <span class="score">${uiStrings.final}: ${correctSpan}${separator}${totalSpan}</span>
+      ${pointsSpan}
     `;
   } else {
     correctCount.innerHTML = `
       <span class="username-display">👤 ${username}</span>
       <span class="score">${uiStrings.score}: ${correctSpan}${separator}${totalSpan}</span>
+      ${pointsSpan}
     `;
   }
 }

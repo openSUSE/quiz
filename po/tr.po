@@ -3386,6 +3386,45 @@ msgstr "Kullanıcı adı çok kısa."
 msgid "Sorry, this login is already taken."
 msgstr "Üzgünüz, bu kullanıcı adı zaten alınmış."
 
+msgid "Points"
+msgstr "Puan"
+
+msgid "Agility time!"
+msgstr "Çeviklik zamanı!"
+
+msgid "I'm ready"
+msgstr "Hazırım"
+
+msgid "Go!"
+msgstr "Hadi!"
+
+msgid "Continue"
+msgstr "Devam"
+
+msgid "Round points"
+msgstr "Tur puanı"
+
+msgid "Too slow!"
+msgstr "Çok yavaş!"
+
+msgid "Tap only the green Geekos"
+msgstr "Yalnızca yeşil Geeko'lara dokunun"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "Yeşil Geeko puan kazandırır, diğer tüm renkler puan kaybettirir. Hızlı olun, uzun süre kalmıyorlar!"
+
+msgid "Swipe away from Geeko"
+msgstr "Geeko'nun tersine kaydırın"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko kendi etrafında döner. Baktığı yönün tersine kaydırın. Ok tuşları da çalışır."
+
+msgid "Fix the Geeko"
+msgstr "Geeko'yu onarın"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko parçalara ayrıldı! Logo yeniden bütün olana kadar iki parçaya dokunarak yerlerini değiştirin. Ne kadar hızlı, o kadar çok puan."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek."
 

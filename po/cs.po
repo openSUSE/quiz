@@ -3318,6 +3318,45 @@ msgstr "Uživatelské jméno je příliš krátké."
 msgid "Sorry, this login is already taken."
 msgstr "Uživatelské jméno má již někdo jiný."
 
+msgid "Points"
+msgstr "Body"
+
+msgid "Agility time!"
+msgstr "Čas na obratnost!"
+
+msgid "I'm ready"
+msgstr "Můžeme začít"
+
+msgid "Go!"
+msgstr "Jdeme!"
+
+msgid "Continue"
+msgstr "Pokračovat"
+
+msgid "Round points"
+msgstr "Body za kolo"
+
+msgid "Too slow!"
+msgstr "Pozdě!"
+
+msgid "Tap only the green Geekos"
+msgstr "Ťukejte jen na zelené Geeky"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "Zelený Geeko přináší body, každá jiná barva vás je stojí. Buďte rychlí, dlouho nevydrží!"
+
+msgid "Swipe away from Geeko"
+msgstr "Švihněte směrem od Geeka"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko se točí dokola. Švihněte opačným směrem, než kam se dívá. Fungují i šipky na klávesnici."
+
+msgid "Fix the Geeko"
+msgstr "Opravte Geeka"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko se rozpadl! Ťukněte na dva dílky a prohoďte je, dokud nebude logo zase celé. Čím rychleji, tím víc bodů."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Opravdu chcete ukončit? Váš postup nebude uložen."
 

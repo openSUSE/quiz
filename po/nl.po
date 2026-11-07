@@ -3318,6 +3318,45 @@ msgstr "Gebruikersnaam is te kort."
 msgid "Sorry, this login is already taken."
 msgstr "Sorry, deze aanmeldnaam is al bezet."
 
+msgid "Points"
+msgstr "Punten"
+
+msgid "Agility time!"
+msgstr "Tijd voor behendigheid!"
+
+msgid "I'm ready"
+msgstr "Ik ben er klaar voor"
+
+msgid "Go!"
+msgstr "Start!"
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "Round points"
+msgstr "Punten deze ronde"
+
+msgid "Too slow!"
+msgstr "Te langzaam!"
+
+msgid "Tap only the green Geekos"
+msgstr "Tik alleen op de groene Geeko's"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "Een groene Geeko levert punten op, elke andere kleur kost u punten. Wees snel, ze blijven niet lang!"
+
+msgid "Swipe away from Geeko"
+msgstr "Veeg weg van Geeko"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko draait rond. Veeg in de tegenovergestelde richting van waar hij naar kijkt. De pijltjestoetsen werken ook."
+
+msgid "Fix the Geeko"
+msgstr "Repareer Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko is uit elkaar gevallen! Tik op twee stukjes om ze te verwisselen totdat het logo weer heel is. Hoe sneller, hoe meer punten."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Wilt u afsluiten? Uw voortgang zal niet worden opgeslagen."
 

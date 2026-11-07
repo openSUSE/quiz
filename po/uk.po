@@ -3350,6 +3350,45 @@ msgstr ""
 msgid "Sorry, this login is already taken."
 msgstr ""
 
+msgid "Points"
+msgstr "Бали"
+
+msgid "Agility time!"
+msgstr "Час спритності!"
+
+msgid "I'm ready"
+msgstr "Почнімо"
+
+msgid "Go!"
+msgstr "Старт!"
+
+msgid "Continue"
+msgstr "Продовжити"
+
+msgid "Round points"
+msgstr "Бали за раунд"
+
+msgid "Too slow!"
+msgstr "Запізно!"
+
+msgid "Tap only the green Geekos"
+msgstr "Торкайтеся лише зелених Geeko"
+
+msgid "Green Geeko earns points, any other colour costs you. Be quick, they don't stay long!"
+msgstr "Зелений Geeko приносить бали, будь-який інший колір їх забирає. Поспішайте, вони не затримуються надовго!"
+
+msgid "Swipe away from Geeko"
+msgstr "Проведіть убік від Geeko"
+
+msgid "Geeko spins around. Swipe in the opposite direction to where it is looking. Arrow keys work too."
+msgstr "Geeko крутиться. Проведіть пальцем у напрямку, протилежному тому, куди він дивиться. Клавіші зі стрілками теж працюють."
+
+msgid "Fix the Geeko"
+msgstr "Полагодьте Geeko"
+
+msgid "Geeko fell apart! Tap two pieces to swap them until the logo is whole again. Faster means more points."
+msgstr "Geeko розсипався! Торкніться двох частин, щоб поміняти їх місцями, доки логотип знову не стане цілим. Що швидше, то більше балів."
+
 msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr "Ви певні що бажаєте завершити? Ваш прогрес не буде збережено."
 

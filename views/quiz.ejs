@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Quiz App</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,12 +10,14 @@
     <link href="/styles.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+    <%- include("partials/geeko-symbol") %>
     <div class="container">
       <div class="controls-container top-controls">
         <form class="submit-form-top" action="/submit" method="POST">
           <input id="username-top-hidden" name="username" type="hidden"/>
           <input id="correct-top-hidden" name="correct" type="hidden"/>
           <input id="total-top-hidden" name="total" type="hidden"/>
+          <input id="points-top-hidden" name="points" type="hidden"/>
           <button class="quit-btn hide" type="button"><%= uiStrings.quit %></button>
           <button class="submit-anytime-btn hide" type="button"><%= uiStrings.quitAndSubmit %></button>
           <input type="hidden" name="lang" value="<%= lang %>" /> <!-- preserve lang -->
@@ -41,6 +43,7 @@
           <!-- Options will be dynamically inserted here by quizRenderer.js -->
         </div>
       </div>
+      <div class="agility-container hide" aria-live="polite"></div>
       <div class="controls-container bottom-controls">
         <form class="submit-form-bottom" action="/submit" method="POST">
           <input id="username" name="username" type="text" placeholder="<%= uiStrings.usernamePrompt %>"/>
@@ -67,6 +70,7 @@
       const uiStrings = <%- JSON.stringify(uiStrings) %>;
 
     </script>
+    <script src="./agility.js"></script>
     <script src="./quizRenderer.js"></script>
 </body>
 </html>

@@ -195,6 +195,15 @@ You can change the `RESET_TOKEN` and `PORT` environment variables as needed. ⚙
 
 Visit [http://localhost:3000](http://localhost:3000) (or your specified port) in your browser. 🌐
 
+## ⚡ Points & agility rounds
+
+- A correct answer is worth up to **1000 points**. After a short reading grace period (longer for longer questions) the value slowly drops, down to 50% at the slowest. Wrong answers score 0.
+- There are two agility rounds per quiz, one at **half-time** and one **at the end** (quizzes under 10 questions only get the final one). Each is worth up to **1000 points**. Every quiz run shuffles the mini games, so the two rounds are always different:
+  1. **Tap only the green Geekos**: Geekos in the openSUSE palette pop up, green ones earn points, other colours cost points.
+  2. **Swipe away from Geeko**: Geeko spins and stops; swipe (or press the arrow key) in the opposite direction to where it is looking.
+  3. **Fix the Geeko**: the logo is sliced into tiles, tap two tiles to swap them until it is whole.
+- The leaderboard ranks by points. Set `agility: false` in a quiz's `quizData` to skip the agility rounds for that quiz.
+
 ## 🛠️ Typical usage & Howto
 
 Users go to a page referenced by a QR code at the openSUSE booth. 📱
