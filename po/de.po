@@ -3,7 +3,18 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Ettore Atalan <atalanttore@googlemail.com>, 2025, 2026.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-09-10 14:13+0000\nLast-Translator: Nico Krapp <nico.krapp@suse.com>\nLanguage-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.9.1\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-28 23:04+0000\n"
+"PO-Revision-Date: 2026-09-10 14:13+0000\n"
+"Last-Translator: Nico Krapp <nico.krapp@suse.com>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/quiz/quiz/de/>\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -371,20 +382,20 @@ msgstr "Die Firewall hält es davon ab CPU und RAM zu verwenden"
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
 msgstr "Die Kombination aus C, Python und Javascript macht es sehr lightweight"
 
-msgid "Bsides English, which languages does it support?"
-msgstr "Welche Sprachen außer Englisch werden noch unterstützt?"
+msgid "Besides English, which languages does it support?"
+msgstr ""
 
 msgid "Español, Deutsch, Svenska"
 msgstr "Spanisch, Deutsch, Schwedisch"
 
-msgid "中文（中国）, English, Česky"
-msgstr "中文（中国）, English, Česky"
+msgid "中文（中国）, Türkçe, Česky"
+msgstr ""
 
 msgid "All of them, and many more"
 msgstr "Alle davon, und viele mehr"
 
-msgid "日本語, Português Français"
-msgstr "日本語, Português, Français"
+msgid "日本語, Português, Français"
+msgstr ""
 
 msgid "Immutability"
 msgstr "Immutability"
@@ -3314,6 +3325,15 @@ msgstr "Möchten Sie wirklich abbrechen? Ihr Fortschritt wird nicht gespeichert.
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
 msgstr "Benutzen Sie einen erkennbaren Usernamen wie ZypperJedi oder vorzugsweise ihren echten Namen (VornameNachname)."
+
+#~ msgid "Bsides English, which languages does it support?"
+#~ msgstr "Welche Sprachen außer Englisch werden noch unterstützt?"
+
+#~ msgid "中文（中国）, English, Česky"
+#~ msgstr "中文（中国）, English, Česky"
+
+#~ msgid "日本語, Português Français"
+#~ msgstr "日本語, Português, Français"
 
 #~ msgid "2025 – this year! 🎉"
 #~ msgstr "2025 – dieses Jahr! 🎉"

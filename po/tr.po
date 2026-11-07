@@ -1,7 +1,18 @@
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 # Akın Birdal <reend21@protonmail.com>, 2025, 2026.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-08-26 21:13+0000\nLast-Translator: Akın Birdal <reend21@protonmail.com>\nLanguage-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.8.1\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-28 23:04+0000\n"
+"PO-Revision-Date: 2026-08-26 21:13+0000\n"
+"Last-Translator: Akın Birdal <reend21@protonmail.com>\n"
+"Language-Team: Turkish <https://l10n.opensuse.org/projects/quiz/quiz/tr/>\n"
+"Language: tr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -369,19 +380,19 @@ msgstr ""
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
 msgstr ""
 
-msgid "Bsides English, which languages does it support?"
+msgid "Besides English, which languages does it support?"
 msgstr ""
 
 msgid "Español, Deutsch, Svenska"
 msgstr ""
 
-msgid "中文（中国）, English, Česky"
+msgid "中文（中国）, Türkçe, Česky"
 msgstr ""
 
 msgid "All of them, and many more"
 msgstr ""
 
-msgid "日本語, Português Français"
+msgid "日本語, Português, Français"
 msgstr ""
 
 msgid "Immutability"

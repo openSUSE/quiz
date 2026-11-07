@@ -1,7 +1,18 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025, 2026.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-23 06:12+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr ""
+"Project-Id-Version: openSUSE Quiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-28 23:04+0000\n"
+"PO-Revision-Date: 2026-06-23 06:12+0000\n"
+"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
+"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -369,19 +380,19 @@ msgstr ""
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
 msgstr ""
 
-msgid "Bsides English, which languages does it support?"
+msgid "Besides English, which languages does it support?"
 msgstr ""
 
 msgid "Español, Deutsch, Svenska"
 msgstr ""
 
-msgid "中文（中国）, English, Česky"
+msgid "中文（中国）, Türkçe, Česky"
 msgstr ""
 
 msgid "All of them, and many more"
 msgstr ""
 
-msgid "日本語, Português Français"
+msgid "日本語, Português, Français"
 msgstr ""
 
 msgid "Immutability"
