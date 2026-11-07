@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 02:47+0100\n"
+"POT-Creation-Date: 2026-11-07 03:15+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3364,4 +3364,148 @@ msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr ""
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr ""
+
+msgid "openSUSE Leap 16.1 Release Party"
+msgstr ""
+
+msgid "Leap 16.1 is out! Test what you know about the release and come celebrate with us."
+msgstr ""
+
+msgid "When was openSUSE Leap 16.1 released?"
+msgstr ""
+
+msgid "Tuesday, November 3rd 2026"
+msgstr ""
+
+msgid "Friday, November 13th 2026"
+msgstr ""
+
+msgid "April 1st 2026"
+msgstr ""
+
+msgid "Not yet, still in Factory"
+msgstr ""
+
+msgid "What happens to Leap Micro with Leap 16.1?"
+msgstr ""
+
+msgid "Replaced by Leap 16.1 Immutable mode"
+msgstr ""
+
+msgid "It gets its own 16.1 release"
+msgstr ""
+
+msgid "It is renamed to Leap Nano"
+msgstr ""
+
+msgid "Nothing, it stays a separate product"
+msgstr ""
+
+msgid "Which installer do you use to install Leap 16.1?"
+msgstr ""
+
+msgid "Calamares"
+msgstr ""
+
+msgid "debian-installer"
+msgstr ""
+
+msgid "What's special about the 16.1 parties?"
+msgstr ""
+
+msgid "Most release parties ever"
+msgstr ""
+
+msgid "There are none"
+msgstr ""
+
+msgid "They happen only on IRC"
+msgstr ""
+
+msgid "Entry requires a fresh zypper dup"
+msgstr ""
+
+msgid "How could you join a party on Sat, Nov 7th from home?"
+msgstr ""
+
+msgid "At the virtual release party, online"
+msgstr ""
+
+msgid "By sending a fax to the openSUSE Board"
+msgstr ""
+
+msgid "By filing a 'party' bug"
+msgstr ""
+
+msgid "You couldn't, parties are only in person"
+msgstr ""
+
+msgid "When do the Wed, Nov 11th SUSE office parties start?"
+msgstr ""
+
+msgid "Prague at 18:30, Nuremberg at 16:00"
+msgstr ""
+
+msgid "Prague at 16:00, Nuremberg at 18:30"
+msgstr ""
+
+msgid "Both at 16:01, after the build"
+msgstr ""
+
+msgid "Both at midnight UTC"
+msgstr ""
+
+msgid "Which Czech sites advertised the parties?"
+msgstr ""
+
+msgid "root.cz, abclinuxu.cz, linuxexpres.cz"
+msgstr ""
+
+msgid "idnes.cz, lide.cz, emimino.cz"
+msgstr ""
+
+msgid "Only emimino.cz, in the baby forum"
+msgstr ""
+
+msgid "Only lide.cz, in the dating chat"
+msgstr ""
+
+msgid "Which country hosts parties on Nov 7th and 14th?"
+msgstr ""
+
+msgid "Vatican City"
+msgstr ""
+
+msgid "Atlantis"
+msgstr ""
+
+msgid "Where can I download Leap 16.1 images?"
+msgstr ""
+
+msgid "get.opensuse.org"
+msgstr ""
+
+msgid "download.windows.com"
+msgstr ""
+
+msgid "A random torrent from a forum signature"
+msgstr ""
+
+msgid "You have to order DVDs by mail"
+msgstr ""
+
+msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
+msgstr ""
+
+msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
+msgstr ""
+
+msgid "GNOME was dropped, Leap now ships only KDE"
+msgstr ""
+
+msgid "The new GNOME didn't fit on the DVD"
+msgstr ""
+
+msgid "The newest GNOME is available only as a Flatpak"
 msgstr ""

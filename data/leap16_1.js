@@ -25,12 +25,12 @@ const questions = [
     ],
   },
   {
-    text: _("Is Leap 16.1 a big feature release?"),
+    text: _("Why doesn't Leap 16.1 ship the newest GNOME?"),
     answers: [
-      { text: _("Not really, newest GNOME comes in 16.2"), correct: true },
-      { text: _("Yes, all-new GNOME and KDE"), correct: false },
-      { text: _("Yes, it drops systemd"), correct: false },
-      { text: _("Yes, zypper is replaced"), correct: false },
+      { text: _("Leap follows SLES: new GNOME every 2nd release, next in 16.2"), correct: true },
+      { text: _("GNOME was dropped, Leap now ships only KDE"), correct: false },
+      { text: _("The new GNOME didn't fit on the DVD"), correct: false },
+      { text: _("The newest GNOME is available only as a Flatpak"), correct: false },
     ],
   },
   {
