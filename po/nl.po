@@ -1,18 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025, 2026.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 23:04+0000\n"
-"PO-Revision-Date: 2026-06-23 06:12+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-09-28 23:04+0000\nPO-Revision-Date: 2026-11-08 19:23+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.11.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -375,25 +364,25 @@ msgid "Web services do not use any resources nowadays"
 msgstr "Webdiensten gebruiken tegenwoordig geen hulpbronnen meer"
 
 msgid "The firewall blocks it from using CPU and RAM"
-msgstr ""
+msgstr "De firewall verhindert dat het gebruikmaakt van CPU en RAM"
 
 msgid "The combination of C, Python and JavaScript makes it so lightweight"
-msgstr ""
+msgstr "De combinatie van C, Python en JavaScript maakt het zo lichtgewicht"
 
 msgid "Besides English, which languages does it support?"
-msgstr ""
+msgstr "Welke talen worden er, naast het Engels, ondersteund?"
 
 msgid "Español, Deutsch, Svenska"
-msgstr ""
+msgstr "Spaans, Duits, Zweeds"
 
 msgid "中文（中国）, Türkçe, Česky"
-msgstr ""
+msgstr "中文（中国）, Turks, Tsjechisch"
 
 msgid "All of them, and many more"
-msgstr ""
+msgstr "Ze allemaal, en nog veel meer"
 
 msgid "日本語, Português, Français"
-msgstr ""
+msgstr "日本語, Portugees, Frans"
 
 msgid "Immutability"
 msgstr "Onveranderlijk"
@@ -1701,7 +1690,7 @@ msgid "openSUSE just celebrated its 20th birthday! In which year did that happen
 msgstr "openSUSE vierde net zijn 20ste verjaardag! In welk jaar gebeurde dat?"
 
 msgid "2025 - Year of the Linux Desktop"
-msgstr ""
+msgstr "2025 – Jaar van het Linux-bureaublad"
 
 msgid "1998 – that’s when Google started, not openSUSE"
 msgstr "1998 – dat is toen Google begon, niet openSUSE"
@@ -1737,115 +1726,115 @@ msgid "Slowroll and Slowroll Micro"
 msgstr "Slowroll en Slowroll Micro"
 
 msgid "All of these are Rolling"
-msgstr ""
+msgstr "Alle antwoorden 'rollen'"
 
 msgid "Leap and Leap Micro are our Stable distributions. What does that mean?"
-msgstr ""
+msgstr "Leap en Leap Micro zijn onze stabiele distributies. Wat betekent dat?"
 
 msgid "Each minor release receive updates for about 24 months"
-msgstr ""
+msgstr "Elke kleine uitgave wordt gedurende ongeveer 24 maanden bijgewerkt"
 
 msgid "They have one big release every 12 months"
-msgstr ""
+msgstr "Ze brengen elke 12 maanden één grote uitgave uit"
 
 msgid "They come with release parties everyone can join 🎉"
-msgstr ""
+msgstr "Ze gaan gepaard met uitgavefeestjes waar iedereen bij kan zijn 🎉"
 
 msgid "All of the above (and you can stay on Leap 16 until 2033!)"
-msgstr ""
+msgstr "Dit alles (en u kunt tot 2033 op Leap 16 blijven!)"
 
 msgid "openSUSE also has “immutable” editions. What does that mean?"
-msgstr ""
+msgstr "openSUSE kent ook \"immutabele\" (onveranderlijke) edities. Wat betekent dat?"
 
 msgid "They use a read-only system base and update safely with special tools"
-msgstr ""
+msgstr "Ze maken gebruik van een alleen-lezen systeembasis en worden veilig bijgewerkt met behulp van speciale hulpmiddelen"
 
 msgid "They cannot be installed on laptops"
-msgstr ""
+msgstr "Ze kunnen niet op laptops worden geïnstalleerd"
 
 msgid "They are distributions that never change wallpapers"
-msgstr ""
+msgstr "Dit zijn distributies die nooit van achtergrondafbeelding veranderen"
 
 msgid "They come only as DVDs by mail"
-msgstr ""
+msgstr "Ze zijn uitsluitend per post als dvd verkrijgbaar"
 
 msgid "What is Slowroll?"
-msgstr ""
+msgstr "Wat is Slowroll?"
 
 msgid "A variant of Tumbleweed with updates grouped into tested batches"
-msgstr ""
+msgstr "Een variant van Tumbleweed waarbij ze worden bijgewerkt in geteste groepen"
 
 msgid "A racing game mode in Linux"
-msgstr ""
+msgstr "Een racegame-modus in Linux"
 
 msgid "A distribution that only updates once per decade"
-msgstr ""
+msgstr "Een distributie die slechts eens per decennium wordt bijgewerkt"
 
 msgid "The mascot’s new nickname"
-msgstr ""
+msgstr "De nieuwe bijnaam van de mascotte"
 
 msgid "What are some of the key openSUSE community tools and projects?"
-msgstr ""
+msgstr "Wat zijn enkele van de belangrijkste hulpmiddelen en projecten van de openSUSE-gemeenschap?"
 
 msgid "Open Build Service (OBS) for building software"
-msgstr ""
+msgstr "Open Build Service (OBS) voor het bouwen van software"
 
 msgid "openQA for automated testing"
-msgstr ""
+msgstr "openQA voor geautomatiseerd testen"
 
 msgid "The Wiki, Weblate, forums, and more"
-msgstr ""
+msgstr "De wiki, Weblate, forums en meer"
 
 msgid "All of these are part of openSUSE"
-msgstr ""
+msgstr "Dit alles maakt deel uit van openSUSE"
 
 msgid "The team that takes care of openSUSE infrastructure is called openSUSE...?"
-msgstr ""
+msgstr "Het team dat de infrastructuur van openSUSE beheert, heet openSUSE...?"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Heroes"
 
 msgid "Avengers"
-msgstr ""
+msgstr "Wrekers"
 
 msgid "Thunderbolts"
-msgstr ""
+msgstr "Thunderbolts"
 
 msgid "Villains"
-msgstr ""
+msgstr "Booswichten"
 
 msgid "Windows 10 is out of support. What could you do with that laptop?"
-msgstr ""
+msgstr "Windows 10 wordt niet langer ondersteund. Wat kun je met die laptop doen?"
 
 msgid "Install openSUSE on your laptop"
-msgstr ""
+msgstr "Installeer openSUSE op uw laptop"
 
 msgid "Install openSUSE on your friend’s laptop"
-msgstr ""
+msgstr "Installeer openSUSE op de laptop van uw vriend"
 
 msgid "Install openSUSE on your grandmother’s laptop"
-msgstr ""
+msgstr "Installeer openSUSE op de laptop van uw grootmoeder"
 
 msgid "All of these are great ideas"
-msgstr ""
+msgstr "Dit zijn allemaal geweldige ideeën"
 
 msgid "A chameleon named Geeko"
-msgstr ""
+msgstr "Een kameleon genaamd Geeko"
 
 msgid "A penguin named Tux"
-msgstr ""
+msgstr "Een pinguïn genaamd Tux"
 
 msgid "A tumbleweed rolling in the desert"
-msgstr ""
+msgstr "Een struikgewas dat door de woestijn rolt"
 
 msgid "A lizard in sunglasses"
-msgstr ""
+msgstr "Een hagedis met een zonnebril op"
 
 msgid "Why do people love openSUSE?"
-msgstr ""
+msgstr "Waarom houden mensen van openSUSE?"
 
 msgid "Stable Leap releases and fast-moving Tumbleweed updates"
-msgstr ""
+msgstr "Stabiele Leap-uitgaven en snel opeenvolgend bijgewerkte Tumbleweed"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
 msgstr ""
