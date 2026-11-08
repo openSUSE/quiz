@@ -1,17 +1,6 @@
 # Yasuhiko Kamata <belphegor@belbel.or.jp>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 23:04+0000\n"
-"PO-Revision-Date: 2026-06-20 09:13+0000\n"
-"Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\n"
-"Language: ja\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-09-28 23:04+0000\nPO-Revision-Date: 2026-11-08 19:23+0000\nLast-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\nLanguage-Team: Japanese <https://l10n.opensuse.org/projects/quiz/quiz/ja/>\nLanguage: ja\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2026.11.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -380,19 +369,19 @@ msgid "The combination of C, Python and JavaScript makes it so lightweight"
 msgstr "C 言語, Python, JavaScript の組み合わせにより、とても軽量になっているからです"
 
 msgid "Besides English, which languages does it support?"
-msgstr ""
+msgstr "英語以外に対応してる言語はどれ？"
 
 msgid "Español, Deutsch, Svenska"
 msgstr "スペイン語／ドイツ語／スウェーデン語"
 
 msgid "中文（中国）, Türkçe, Česky"
-msgstr ""
+msgstr "中国語／トルコ語／チェコ語"
 
 msgid "All of them, and many more"
 msgstr "これら全てだけでなく、さらに多くの言語"
 
 msgid "日本語, Português, Français"
-msgstr ""
+msgstr "日本語／ポルトガル語／フランス語"
 
 msgid "Immutability"
 msgstr "不変性"
