@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 23:04+0000\n"
+"POT-Creation-Date: 2026-11-07 03:22+0100\n"
 "PO-Revision-Date: 2025-06-12 09:14+0000\n"
 "Last-Translator: Lubos Kocman <lubos.kocman@suse.com>\n"
 "Language-Team: Polish <https://l10n.opensuse.org/projects/quiz/quiz/pl/>\n"
@@ -3365,4 +3365,175 @@ msgid "Are you sure you want to quit? Your progress will not be saved."
 msgstr ""
 
 msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real name (NameSurname)."
+msgstr ""
+
+msgid "openSUSE Leap 16.1 Release Party"
+msgstr ""
+
+msgid "Leap 16.1 is out! Test what you know about the release and come celebrate with us."
+msgstr ""
+
+msgid "When was openSUSE Leap 16.1 released?"
+msgstr ""
+
+msgid "Tuesday, November 3rd 2026"
+msgstr ""
+
+msgid "Friday, November 13th 2026"
+msgstr ""
+
+msgid "April 1st 2026"
+msgstr ""
+
+msgid "Not yet, still in Factory"
+msgstr ""
+
+msgid "Where can I download Leap 16.1 images?"
+msgstr ""
+
+msgid "get.opensuse.org"
+msgstr ""
+
+msgid "download.windows.com"
+msgstr ""
+
+msgid "A random torrent from a forum signature"
+msgstr ""
+
+msgid "You have to order DVDs by mail"
+msgstr ""
+
+msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
+msgstr ""
+
+msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
+msgstr ""
+
+msgid "GNOME was dropped, Leap now ships only KDE"
+msgstr ""
+
+msgid "The new GNOME didn't fit on the DVD"
+msgstr ""
+
+msgid "The newest GNOME is available only as a Flatpak"
+msgstr ""
+
+msgid "Liked Leap Micro? What do you use with 16.1?"
+msgstr ""
+
+msgid "Leap 16.1 Immutable images in Alternative Downloads"
+msgstr ""
+
+msgid "Leap Micro 16.1 from its own website"
+msgstr ""
+
+msgid "Leap Nano, its renamed successor"
+msgstr ""
+
+msgid "Nothing, Micro fans must switch distro"
+msgstr ""
+
+msgid "How do you install Leap 16.1 as immutable?"
+msgstr ""
+
+msgid "Pick Immutable mode in the Agama installer"
+msgstr ""
+
+msgid "Install standard Leap, then run chattr +i /"
+msgstr ""
+
+msgid "Only by recompiling the kernel"
+msgstr ""
+
+msgid "You can't, Leap is standard only"
+msgstr ""
+
+msgid "What's special about the 16.1 parties?"
+msgstr ""
+
+msgid "Most release parties ever"
+msgstr ""
+
+msgid "There are none"
+msgstr ""
+
+msgid "They happen only on IRC"
+msgstr ""
+
+msgid "Entry requires a fresh zypper dup"
+msgstr ""
+
+msgid "How could you join a party on Sat, Nov 7th from home?"
+msgstr ""
+
+msgid "At the virtual release party, online"
+msgstr ""
+
+msgid "By sending a fax to the openSUSE Board"
+msgstr ""
+
+msgid "By filing a 'party' bug"
+msgstr ""
+
+msgid "You couldn't, parties are only in person"
+msgstr ""
+
+msgid "When do the Wed, Nov 11th SUSE office parties start?"
+msgstr ""
+
+msgid "Prague at 18:30, Nuremberg at 16:00"
+msgstr ""
+
+msgid "Prague at 16:00, Nuremberg at 18:30"
+msgstr ""
+
+msgid "Both at 16:01, after the build"
+msgstr ""
+
+msgid "Both at midnight UTC"
+msgstr ""
+
+msgid "Which Czech sites advertised the parties?"
+msgstr ""
+
+msgid "root.cz, abclinuxu.cz, linuxexpres.cz"
+msgstr ""
+
+msgid "idnes.cz, lide.cz, emimino.cz"
+msgstr ""
+
+msgid "Only emimino.cz, in the baby forum"
+msgstr ""
+
+msgid "Only lide.cz, in the dating chat"
+msgstr ""
+
+msgid "Besides Czechia and Germany, where are parties Nov 7th–14th?"
+msgstr ""
+
+msgid "Where can you find all parties and public events?"
+msgstr ""
+
+msgid "calendar.opensuse.org"
+msgstr ""
+
+msgid "On a flyer in the SUSE office kitchen"
+msgstr ""
+
+msgid "Nowhere, ask on IRC and hope"
+msgstr ""
+
+msgid "In the zypper changelog"
+msgstr ""
+
+msgid "Indonesia and India, thanks to active communities"
+msgstr ""
+
+msgid "Antarctica and Atlantis, thanks to penguin users"
+msgstr ""
+
+msgid "Vatican City and Monaco, by royal decree"
+msgstr ""
+
+msgid "Nowhere else, no other communities exist"
 msgstr ""
