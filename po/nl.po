@@ -1,18 +1,7 @@
 # Freek de Kruijf <freek@opensuse.org>, 2025, 2026.
 # Gertjan Lettink <knurpht@glosscomputer.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 03:22+0100\n"
-"PO-Revision-Date: 2026-11-08 19:23+0000\n"
-"Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
-"Language-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.11.1\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-11-07 03:22+0100\nPO-Revision-Date: 2026-11-10 05:13+0000\nLast-Translator: Freek de Kruijf <freek@opensuse.org>\nLanguage-Team: Dutch <https://l10n.opensuse.org/projects/quiz/quiz/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.11.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -1848,37 +1837,37 @@ msgid "Stable Leap releases and fast-moving Tumbleweed updates"
 msgstr "Stabiele Leap-uitgaven en snel opeenvolgend bijgewerkte Tumbleweed"
 
 msgid "Modern tools like Agama, Myrlyn, zypper, OBS, and openQA"
-msgstr ""
+msgstr "Moderne hulpmiddelen zoals Agama, Myrlyn, zypper, OBS en openQA"
 
 msgid "A friendly worldwide community that welcomes everyone"
-msgstr ""
+msgstr "Een vriendelijke, wereldwijde gemeenschap die iedereen verwelkomt"
 
 msgid "All of these together"
-msgstr ""
+msgstr "Dit alles bij elkaar"
 
 msgid "Where can you help translate openSUSE (and even this quiz)?"
-msgstr ""
+msgstr "Waar kun je helpen bij het vertalen van openSUSE (en zelfs deze quiz)?"
 
 msgid "Weblate at l10n.opensuse.org"
-msgstr ""
+msgstr "Weblate op l10n.opensuse.org"
 
 msgid "By whispering translations into the chameleon’s ear"
-msgstr ""
+msgstr "Door vertalingen in het oor van de kameleon te fluisteren"
 
 msgid "At Google Translate headquarters in a secret bunker"
-msgstr ""
+msgstr "Op het hoofdkantoor van Google Translate, in een geheime bunker"
 
 msgid "By posting translations on random Reddit threads"
-msgstr ""
+msgstr "Door vertalingen te plaatsen in willekeurige Reddit-discussies"
 
 msgid "Where can you get help with openSUSE?"
-msgstr ""
+msgstr "Waar kun je hulp krijgen bij openSUSE?"
 
 msgid "Ask your friend who uses Linux"
-msgstr ""
+msgstr "Vraag het aan uw vriend die Linux gebruikt"
 
 msgid "On many local Linux portals and websites"
-msgstr ""
+msgstr "Op veel lokale Linux-portalen en -websites"
 
 msgid "Asia Summit Dragon"
 msgstr "Asia Summit Dragon"
@@ -2424,193 +2413,193 @@ msgid "A white helmet with IBM on it"
 msgstr "Een witte helm met IBM erop"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "SLES 16 in getallen"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "Voor alle nerds die van getallen houden. Alle cijfers zijn genoteerd op de FCS-datum: 4 november 2025, 11:38 uur."
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "In hoeveel talen is de documentatie voor SLES 16 beschikbaar (exclusief vertalingen van de gebruikersinterface)?"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "42"
 msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "Slechts één: Duits!"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "Hoeveel functies zijn er gerapporteerd voor SLES + SAP 16.0? "
 
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 – functies niet gevonden"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 – we zijn de tel kwijtgeraakt"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "Hoeveel van die functies zijn in 16.0 opgelost?"
 
 msgid "798"
-msgstr ""
+msgstr "798"
 
 msgid "789"
-msgstr ""
+msgstr "789"
 
 msgid "123"
-msgstr ""
+msgstr "123"
 
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "Wanneer eindigt de LTS-ondersteuning voor SLES 16.0?"
 
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "Nooit – het is eeuwig, net als systemd"
 
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "Hoeveel geldige bugs zijn er in SLES 16.0 opgelost?"
 
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0, want het is perfect"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "Te veel om in Bugzilla te passen"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "Hoeveel open P1-bugs worden er momenteel bijgehouden voor SLES + SAP 16.0?"
 
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1 – we zijn er bijna!"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0, geen enkele P1 mag RC passeren!"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "Wanneer kunnen we de uitgave van SLES 16.1 verwachten?"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "3 november 2026"
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "16 juni 2026"
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "4 juli 2026"
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "30 februari 2026"
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "Welke slfo-git-branch komt overeen met onderhoudsupdates voor SLES 16.0?"
 
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "devel-branch in src.opensuse.org/pool"
 
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "Hoeveel pakketten in SLES 16.0 hebben geen toegewezen beheerder?"
 
 msgid "0"
 msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "Duizenden pakketten in een koude opslagruimte"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "Allemaal. Beheerders worden overschat."
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "Wat is de huidige systeem-Python-versie in SLES 16.0 (die naar verwachting tot 16.3 behouden blijft)?"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "Ruby vormde een flinke uitdaging in SLES 15.0. Wat is de Ruby-versie in SLES 16.0?"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "Hoeveel tests bevinden zich momenteel in openQA voor SLES 16.0 (GA)?"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "Geen. We vertrouwen uitsluitend op testen in productie."
 
 msgid "1999"
 msgstr "1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
-msgstr ""
+msgstr "Wie is de Release Manager Lead voor SLES 16.1?"
 
 msgid "Radoslav Tsvetkov"
-msgstr ""
+msgstr "Radoslav Tsvetkov"
 
 msgid "Libor Miksik"
-msgstr ""
+msgstr "Libor Miksik"
 
 msgid "Daniela Giri"
-msgstr ""
+msgstr "Daniela Giri"
 
 msgid "Prokop Vlasin"
-msgstr ""
+msgstr "Prokop Vlasin"
 
 msgid "What component managed to survive its own death in SLES 16?"
-msgstr ""
+msgstr "Welk onderdeel wist zijn eigen dood in SLES 16 te overleven?"
 
 msgid "Desktop"
 msgstr ""
