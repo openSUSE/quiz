@@ -1,17 +1,6 @@
 # David Medina <medipas@gmail.com>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 03:22+0100\n"
-"PO-Revision-Date: 2026-11-08 19:23+0000\n"
-"Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\n"
-"Language: ca\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.11.1\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-11-07 03:22+0100\nPO-Revision-Date: 2026-11-10 05:13+0000\nLast-Translator: David Medina <medipas@gmail.com>\nLanguage-Team: Catalan <https://l10n.opensuse.org/projects/quiz/quiz/ca/>\nLanguage: ca\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.11.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -3363,175 +3352,175 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Useu un sobrenom reconeixible, com ara ZypperJedi, o preferiblement el nom real (NomCognom)."
 
 msgid "openSUSE Leap 16.1 Release Party"
-msgstr ""
+msgstr "Festa de llançament d'openSUSE Leap 16.1"
 
 msgid "Leap 16.1 is out! Test what you know about the release and come celebrate with us."
-msgstr ""
+msgstr "Ja ha sortit Leap 16.1! Poseu a prova els coneixements sobre aquesta versió i veniu a celebrar-ho amb nosaltres."
 
 msgid "When was openSUSE Leap 16.1 released?"
-msgstr ""
+msgstr "Quan es va publicar l'openSUSE Leap 16.1?"
 
 msgid "Tuesday, November 3rd 2026"
-msgstr ""
+msgstr "Dimarts, 3 de novembre de 2026"
 
 msgid "Friday, November 13th 2026"
-msgstr ""
+msgstr "Divendres, 13 de novembre de 2026"
 
 msgid "April 1st 2026"
-msgstr ""
+msgstr "1 d'abril de 2026"
 
 msgid "Not yet, still in Factory"
-msgstr ""
+msgstr "Encara no, encara és a Fàbrica"
 
 msgid "Where can I download Leap 16.1 images?"
-msgstr ""
+msgstr "On es poden descarregar les imatges del Leap 16.1?"
 
 msgid "get.opensuse.org"
-msgstr ""
+msgstr "get.opensuse.org"
 
 msgid "download.windows.com"
-msgstr ""
+msgstr "download.windows.com"
 
 msgid "A random torrent from a forum signature"
-msgstr ""
+msgstr "Un torrent aleatori d'una signatura en un fòrum"
 
 msgid "You have to order DVDs by mail"
-msgstr ""
+msgstr "Heu de demanar els DVD per correu"
 
 msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
-msgstr ""
+msgstr "Per què el Leap 16.1 no inclou la versió més recent del GNOME?"
 
 msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
-msgstr ""
+msgstr "El Leap segueix l'SLES: una versió de GNOME nova cada dues versions; la propera, a la 16.2"
 
 msgid "GNOME was dropped, Leap now ships only KDE"
-msgstr ""
+msgstr "S'ha deixat de banda el GNOME; ara el Leap només inclou el KDE"
 
 msgid "The new GNOME didn't fit on the DVD"
-msgstr ""
+msgstr "El GNOME nou no cabia al DVD"
 
 msgid "The newest GNOME is available only as a Flatpak"
-msgstr ""
+msgstr "La versió més recent del GNOME només està disponible com a Flatpak"
 
 msgid "Liked Leap Micro? What do you use with 16.1?"
-msgstr ""
+msgstr "Ha agradat el Leap Micro? Què feu servir amb la versió 16.1?"
 
 msgid "Leap 16.1 Immutable images in Alternative Downloads"
-msgstr ""
+msgstr "Imatges immutables del Leap 16.1 a les baixades alternatives"
 
 msgid "Leap Micro 16.1 from its own website"
-msgstr ""
+msgstr "Leap Micro 16.1 des del seu propi lloc web"
 
 msgid "Leap Nano, its renamed successor"
-msgstr ""
+msgstr "Leap Nano, el seu successor rebatejat"
 
 msgid "Nothing, Micro fans must switch distro"
-msgstr ""
+msgstr "Res, els fans del Micro han de canviar de distribució"
 
 msgid "How do you install Leap 16.1 as immutable?"
-msgstr ""
+msgstr "Com s'instal·la el Leap 16.1 de manera immutable?"
 
 msgid "Pick Immutable mode in the Agama installer"
-msgstr ""
+msgstr "Seleccioneu el mode Immutable a l'instal·lador de l'Agama"
 
 msgid "Install standard Leap, then run chattr +i /"
-msgstr ""
+msgstr "Instal·leu el Leap estàndard i, a continuació, executeu chattr +i /"
 
 msgid "Only by recompiling the kernel"
-msgstr ""
+msgstr "Només recompilant-ne el nucli"
 
 msgid "You can't, Leap is standard only"
-msgstr ""
+msgstr "No es pot. El Leap només està disponible en l'edició estàndard."
 
 msgid "What's special about the 16.1 parties?"
-msgstr ""
+msgstr "Què tenen d'especial les festes del 16.1?"
 
 msgid "Most release parties ever"
-msgstr ""
+msgstr "Les millors festes de llançament de la història"
 
 msgid "There are none"
-msgstr ""
+msgstr "No n'hi ha cap"
 
 msgid "They happen only on IRC"
-msgstr ""
+msgstr "Només passen a l'IRC"
 
 msgid "Entry requires a fresh zypper dup"
-msgstr ""
+msgstr "L'entrada requereix un zipper dup nou"
 
 msgid "How could you join a party on Sat, Nov 7th from home?"
-msgstr ""
+msgstr "Com podríeu unir-vos a una festa el dissabte 7 de novembre des de casa?"
 
 msgid "At the virtual release party, online"
-msgstr ""
+msgstr "A la festa de llançament virtual, en línia"
 
 msgid "By sending a fax to the openSUSE Board"
-msgstr ""
+msgstr "Enviant un fax a la Junta d'openSUSE"
 
 msgid "By filing a 'party' bug"
-msgstr ""
+msgstr "Presentant un error de \"party\""
 
 msgid "You couldn't, parties are only in person"
-msgstr ""
+msgstr "No podríeu. Les festes només són presencials."
 
 msgid "When do the Wed, Nov 11th SUSE office parties start?"
-msgstr ""
+msgstr "Quan comencen les festes a l'oficina de SUSE de dimecres, 11 de novembre?"
 
 msgid "Prague at 18:30, Nuremberg at 16:00"
-msgstr ""
+msgstr "Praga a les 18.30 h, Nuremberg a les 16 h"
 
 msgid "Prague at 16:00, Nuremberg at 18:30"
-msgstr ""
+msgstr "Praga a les 16 h, Nuremberg a les 18.30 h"
 
 msgid "Both at 16:01, after the build"
-msgstr ""
+msgstr "Totes dues a les 16.01 h, després de la compilació"
 
 msgid "Both at midnight UTC"
-msgstr ""
+msgstr "Totes dues a mitjanit, UTC"
 
 msgid "Which Czech sites advertised the parties?"
-msgstr ""
+msgstr "Quins llocs web txecs van anunciar les festes?"
 
 msgid "root.cz, abclinuxu.cz, linuxexpres.cz"
-msgstr ""
+msgstr "root.cz, abclinuxu.cz, linuxexpres.cz"
 
 msgid "idnes.cz, lide.cz, emimino.cz"
-msgstr ""
+msgstr "idnes.cz, lide.cz, emimino.cz"
 
 msgid "Only emimino.cz, in the baby forum"
-msgstr ""
+msgstr "Només emimino.cz, al fòrum de nadons"
 
 msgid "Only lide.cz, in the dating chat"
-msgstr ""
+msgstr "Només lide.cz, al xat de cites"
 
 msgid "Besides Czechia and Germany, where are parties Nov 7th–14th?"
-msgstr ""
+msgstr "A part de Txèquia i Alemanya, on hi ha festes del 7 al 14 de novembre?"
 
 msgid "Where can you find all parties and public events?"
-msgstr ""
+msgstr "On es poden trobar totes les festes i els esdeveniments públics?"
 
 msgid "calendar.opensuse.org"
-msgstr ""
+msgstr "calendar.opensuse.org"
 
 msgid "On a flyer in the SUSE office kitchen"
-msgstr ""
+msgstr "En un fullet a la cuina de l'oficina de SUSE"
 
 msgid "Nowhere, ask on IRC and hope"
-msgstr ""
+msgstr "Enlloc, cal preguntar-ho a l'IRC i esperar"
 
 msgid "In the zypper changelog"
-msgstr ""
+msgstr "Al registre de canvis del zypper"
 
 msgid "Indonesia and India, thanks to active communities"
-msgstr ""
+msgstr "Indonèsia i l'Índia, gràcies a comunitats actives"
 
 msgid "Antarctica and Atlantis, thanks to penguin users"
-msgstr ""
+msgstr "L'Antàrtida i l'Atlàntida, gràcies als usuaris pingüí"
 
 msgid "Vatican City and Monaco, by royal decree"
-msgstr ""
+msgstr "La Ciutat del Vaticà i Mònaco, per decret reial"
 
 msgid "Nowhere else, no other communities exist"
-msgstr ""
+msgstr "Enlloc més, no existeix cap altra comunitat"
 
 #~ msgid "Bsides English, which languages does it support?"
 #~ msgstr "A més de l'anglès, quines llengües admet?"
