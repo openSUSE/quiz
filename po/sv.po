@@ -3,19 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Luna  Jernberg <bittin@opensuse.org>, 2025, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 03:22+0100\n"
-"PO-Revision-Date: 2026-11-08 19:23+0000\n"
-"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
-"Language-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.11.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-11-07 03:22+0100\nPO-Revision-Date: 2026-11-11 14:13+0000\nLast-Translator: Luna  Jernberg <bittin@opensuse.org>\nLanguage-Team: Swedish <https://l10n.opensuse.org/projects/quiz/quiz/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.11.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -3367,175 +3355,175 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Använd ett igenkännbart smeknamn, som ZypperJedi, eller helst ditt riktiga namn (NamnEfternamn)."
 
 msgid "openSUSE Leap 16.1 Release Party"
-msgstr ""
+msgstr "openSUSE Leap 16.1 Release Party"
 
 msgid "Leap 16.1 is out! Test what you know about the release and come celebrate with us."
-msgstr ""
+msgstr "Leap 16.1 har släppts! Testa dina kunskaper om lanseringen och kom och fira med oss."
 
 msgid "When was openSUSE Leap 16.1 released?"
-msgstr ""
+msgstr "När släpptes openSUSE Leap 16.1?"
 
 msgid "Tuesday, November 3rd 2026"
-msgstr ""
+msgstr "Tisdag 3:e November 2026"
 
 msgid "Friday, November 13th 2026"
-msgstr ""
+msgstr "Fredag 13:e November 2026"
 
 msgid "April 1st 2026"
-msgstr ""
+msgstr "1:a April 2026"
 
 msgid "Not yet, still in Factory"
-msgstr ""
+msgstr "Inte än, fortfarande i fabriken"
 
 msgid "Where can I download Leap 16.1 images?"
-msgstr ""
+msgstr "Var kan jag ladda ner Leap 16.1 avbildningar?"
 
 msgid "get.opensuse.org"
-msgstr ""
+msgstr "get.opensuse.org"
 
 msgid "download.windows.com"
-msgstr ""
+msgstr "download.windows.com"
 
 msgid "A random torrent from a forum signature"
-msgstr ""
+msgstr "En slumpmässig torrent från en forumsignatur"
 
 msgid "You have to order DVDs by mail"
-msgstr ""
+msgstr "Du måste beställa DVD skivor via post"
 
 msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
-msgstr ""
+msgstr "Varför levereras inte Leap 16.1 med den senaste versionen av GNOME?"
 
 msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
-msgstr ""
+msgstr "Leap följer SLES: ny GNOME varannan utgåva, nästa gång i 16.2"
 
 msgid "GNOME was dropped, Leap now ships only KDE"
-msgstr ""
+msgstr "GNOME togs bort, Leap levererar nu endast KDE"
 
 msgid "The new GNOME didn't fit on the DVD"
-msgstr ""
+msgstr "Den nya GNOME versionen fick inte plats på DVD:n"
 
 msgid "The newest GNOME is available only as a Flatpak"
-msgstr ""
+msgstr "Den senaste versionen av GNOME finns endast tillgänglig som Flatpak"
 
 msgid "Liked Leap Micro? What do you use with 16.1?"
-msgstr ""
+msgstr "Gillade du Leap Micro? Vad använder du tillsammans med 16.1?"
 
 msgid "Leap 16.1 Immutable images in Alternative Downloads"
-msgstr ""
+msgstr "Leap 16.1 oföränderliga avbildningar under alternativa nedladdningar"
 
 msgid "Leap Micro 16.1 from its own website"
-msgstr ""
+msgstr "Leap Micro 16.1 från dess egen webbplats"
 
 msgid "Leap Nano, its renamed successor"
-msgstr ""
+msgstr "Leap Nano, dess efterföljare som bytt namn"
 
 msgid "Nothing, Micro fans must switch distro"
-msgstr ""
+msgstr "Ingenting, Micro fans måste byta distribution"
 
 msgid "How do you install Leap 16.1 as immutable?"
-msgstr ""
+msgstr "Hur installerar man Leap 16.1 som oföränderlig?"
 
 msgid "Pick Immutable mode in the Agama installer"
-msgstr ""
+msgstr "Välj oföränderligt läge i Agama installationsprogrammet"
 
 msgid "Install standard Leap, then run chattr +i /"
-msgstr ""
+msgstr "Installera standard Leap och kör sedan chattr +i /"
 
 msgid "Only by recompiling the kernel"
-msgstr ""
+msgstr "Endast genom att kompilera om kärnan"
 
 msgid "You can't, Leap is standard only"
-msgstr ""
+msgstr "Det kan du inte, Leap är standard endast"
 
 msgid "What's special about the 16.1 parties?"
-msgstr ""
+msgstr "Vad är det som är speciellt med 16.1 festerna?"
 
 msgid "Most release parties ever"
-msgstr ""
+msgstr "De flesta releasefesterna någonsin"
 
 msgid "There are none"
-msgstr ""
+msgstr "Det finns inga"
 
 msgid "They happen only on IRC"
-msgstr ""
+msgstr "De händer bara på IRC"
 
 msgid "Entry requires a fresh zypper dup"
-msgstr ""
+msgstr "Inträde kräver en färsk zypper dup"
 
 msgid "How could you join a party on Sat, Nov 7th from home?"
-msgstr ""
+msgstr "Hur kan man gå med i en fest hemifrån lördagen den 7 november?"
 
 msgid "At the virtual release party, online"
-msgstr ""
+msgstr "På den virtuella releasefesten, online"
 
 msgid "By sending a fax to the openSUSE Board"
-msgstr ""
+msgstr "Genom att skicka ett fax till openSUSE styrelsen"
 
 msgid "By filing a 'party' bug"
-msgstr ""
+msgstr "Genom att anmäla en \"party\" bugg"
 
 msgid "You couldn't, parties are only in person"
-msgstr ""
+msgstr "Det går inte, fester äger bara rum fysiskt"
 
 msgid "When do the Wed, Nov 11th SUSE office parties start?"
-msgstr ""
+msgstr "När börjar SUSE kontorsfesterna onsdagen den 11 november?"
 
 msgid "Prague at 18:30, Nuremberg at 16:00"
-msgstr ""
+msgstr "Prag klockan 18:00, Nürnberg kl. 16.00"
 
 msgid "Prague at 16:00, Nuremberg at 18:30"
-msgstr ""
+msgstr "Prag kl. 16.00, Nürnberg kl. 18.30"
 
 msgid "Both at 16:01, after the build"
-msgstr ""
+msgstr "Båda kl. 16:01, efter bygget"
 
 msgid "Both at midnight UTC"
-msgstr ""
+msgstr "Båda vid midnatt UTC"
 
 msgid "Which Czech sites advertised the parties?"
-msgstr ""
+msgstr "Vilka tjeckiska sajter marknadsförde festerna?"
 
 msgid "root.cz, abclinuxu.cz, linuxexpres.cz"
-msgstr ""
+msgstr "root.cz, abclinuxu.cz, linuxexpres.cz"
 
 msgid "idnes.cz, lide.cz, emimino.cz"
-msgstr ""
+msgstr "idnes.cz, lide.cz, emimino.cz"
 
 msgid "Only emimino.cz, in the baby forum"
-msgstr ""
+msgstr "Endast emimino.cz, i babyforumet"
 
 msgid "Only lide.cz, in the dating chat"
-msgstr ""
+msgstr "Endast lide.cz, i dejtingchatten"
 
 msgid "Besides Czechia and Germany, where are parties Nov 7th–14th?"
-msgstr ""
+msgstr "Var, förutom i Tjeckien och Tyskland, är festerna 7–14 november?"
 
 msgid "Where can you find all parties and public events?"
-msgstr ""
+msgstr "Var hittar man alla fester och offentliga evenemang?"
 
 msgid "calendar.opensuse.org"
-msgstr ""
+msgstr "calendar.opensuse.org"
 
 msgid "On a flyer in the SUSE office kitchen"
-msgstr ""
+msgstr "På ett flygblad i SUSE kontorets kök"
 
 msgid "Nowhere, ask on IRC and hope"
-msgstr ""
+msgstr "Ingenstans, fråga på IRC och hoppas"
 
 msgid "In the zypper changelog"
-msgstr ""
+msgstr "I zyppers ändringslogg"
 
 msgid "Indonesia and India, thanks to active communities"
-msgstr ""
+msgstr "Indonesien och Indien, tack vare aktiva gemenskaper"
 
 msgid "Antarctica and Atlantis, thanks to penguin users"
-msgstr ""
+msgstr "Antarktis och Atlantis, tack vare pingvinanvändare"
 
 msgid "Vatican City and Monaco, by royal decree"
-msgstr ""
+msgstr "Vatikanstaten och Monaco, genom kungligt dekret"
 
 msgid "Nowhere else, no other communities exist"
-msgstr ""
+msgstr "Ingen annanstans, inga andra gemenskaper existerar"
 
 #~ msgid "Bsides English, which languages does it support?"
 #~ msgstr "Förutom engelska, vilka språk stöds?"
