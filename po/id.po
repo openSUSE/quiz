@@ -7,19 +7,7 @@
 # Saputro Aryulianto <saputroyulianto@gmail.com>, 2025.
 # Ferdinan Rizky Budiarto <ferdinan.rizky@yahoo.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 03:22+0100\n"
-"PO-Revision-Date: 2026-08-09 01:13+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.8.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-11-07 03:22+0100\nPO-Revision-Date: 2026-11-11 14:13+0000\nLast-Translator: Arif Budiman <arifpedia@gmail.com>\nLanguage-Team: Indonesian <https://l10n.opensuse.org/projects/quiz/quiz/id/>\nLanguage: id\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 2026.11.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -388,19 +376,19 @@ msgid "The combination of C, Python and JavaScript makes it so lightweight"
 msgstr "Kombinasi C, Python, dan JavaScript membuatnya sangat ringan"
 
 msgid "Besides English, which languages does it support?"
-msgstr ""
+msgstr "Selain bahasa Inggris, bahasa apa saja yang didukung?"
 
 msgid "Español, Deutsch, Svenska"
 msgstr "Español, Deutsch, Svenska"
 
 msgid "中文（中国）, Türkçe, Česky"
-msgstr ""
+msgstr "Bahasa Mandarin (Tiongkok), Bahasa Turki, Bahasa Ceko"
 
 msgid "All of them, and many more"
 msgstr "Semua bahasa tersebut, dan banyak lagi"
 
 msgid "日本語, Português, Français"
-msgstr ""
+msgstr "Bahasa Jepang, Bahasa Portugis, Bahasa Prancis"
 
 msgid "Immutability"
 msgstr "Imutabilitas"
@@ -3371,175 +3359,175 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Gunakan nama panggilan yang mudah dikenali, seperti ZypperJedi, atau lebih baik lagi nama asli Anda (NamaBelakang)."
 
 msgid "openSUSE Leap 16.1 Release Party"
-msgstr ""
+msgstr "Pesta Rilis openSUSE Leap 16.1"
 
 msgid "Leap 16.1 is out! Test what you know about the release and come celebrate with us."
-msgstr ""
+msgstr "Leap 16.1 telah hadir! Uji pengetahuan Anda tentang rilis ini dan rayakan bersama kami."
 
 msgid "When was openSUSE Leap 16.1 released?"
-msgstr ""
+msgstr "Kapan openSUSE Leap 16.1 dirilis?"
 
 msgid "Tuesday, November 3rd 2026"
-msgstr ""
+msgstr "Selasa, 3 November 2026"
 
 msgid "Friday, November 13th 2026"
-msgstr ""
+msgstr "Jumat, 13 November 2026"
 
 msgid "April 1st 2026"
-msgstr ""
+msgstr "1 April 2026"
 
 msgid "Not yet, still in Factory"
-msgstr ""
+msgstr "Belum dirilis, masih di Factory"
 
 msgid "Where can I download Leap 16.1 images?"
-msgstr ""
+msgstr "Di mana saya dapat mengunduh image Leap 16.1?"
 
 msgid "get.opensuse.org"
-msgstr ""
+msgstr "get.opensuse.org"
 
 msgid "download.windows.com"
-msgstr ""
+msgstr "download.windows.com"
 
 msgid "A random torrent from a forum signature"
-msgstr ""
+msgstr "Torrent acak dari tanda tangan pengguna di forum"
 
 msgid "You have to order DVDs by mail"
-msgstr ""
+msgstr "Anda harus memesan DVD melalui pos"
 
 msgid "Why doesn't Leap 16.1 ship the newest GNOME?"
-msgstr ""
+msgstr "Mengapa Leap 16.1 tidak menyertakan GNOME terbaru?"
 
 msgid "Leap follows SLES: new GNOME every 2nd release, next in 16.2"
-msgstr ""
+msgstr "Leap mengikuti SLES: GNOME baru setiap dua rilis, berikutnya pada versi 16.2"
 
 msgid "GNOME was dropped, Leap now ships only KDE"
-msgstr ""
+msgstr "GNOME tidak lagi disertakan, Leap kini hanya menyediakan KDE"
 
 msgid "The new GNOME didn't fit on the DVD"
-msgstr ""
+msgstr "GNOME baru tidak muat di DVD"
 
 msgid "The newest GNOME is available only as a Flatpak"
-msgstr ""
+msgstr "GNOME terbaru hanya tersedia sebagai Flatpak"
 
 msgid "Liked Leap Micro? What do you use with 16.1?"
-msgstr ""
+msgstr "Menyukai Leap Micro? Apa yang Anda gunakan pada versi 16.1?"
 
 msgid "Leap 16.1 Immutable images in Alternative Downloads"
-msgstr ""
+msgstr "Image Leap 16.1 Immutable di Unduhan Alternatif"
 
 msgid "Leap Micro 16.1 from its own website"
-msgstr ""
+msgstr "Leap Micro 16.1 dari situs webnya sendiri"
 
 msgid "Leap Nano, its renamed successor"
-msgstr ""
+msgstr "Leap Nano, penerusnya dengan nama baru"
 
 msgid "Nothing, Micro fans must switch distro"
-msgstr ""
+msgstr "Tidak ada, penggemar Micro harus beralih distro"
 
 msgid "How do you install Leap 16.1 as immutable?"
-msgstr ""
+msgstr "Bagaimana cara menginstal Leap 16.1 sebagai sistem immutable?"
 
 msgid "Pick Immutable mode in the Agama installer"
-msgstr ""
+msgstr "Pilih mode Immutable di penginstal Agama"
 
 msgid "Install standard Leap, then run chattr +i /"
-msgstr ""
+msgstr "Instal Leap standar, lalu jalankan chattr +i /"
 
 msgid "Only by recompiling the kernel"
-msgstr ""
+msgstr "Hanya dengan mengompilasi ulang kernel"
 
 msgid "You can't, Leap is standard only"
-msgstr ""
+msgstr "Tidak bisa, Leap hanya tersedia dalam versi standar"
 
 msgid "What's special about the 16.1 parties?"
-msgstr ""
+msgstr "Apa yang istimewa dari pesta rilis 16.1?"
 
 msgid "Most release parties ever"
-msgstr ""
+msgstr "Jumlah pesta rilis terbanyak sepanjang sejarah"
 
 msgid "There are none"
-msgstr ""
+msgstr "Tidak ada pesta rilis"
 
 msgid "They happen only on IRC"
-msgstr ""
+msgstr "Pesta hanya diadakan di IRC"
 
 msgid "Entry requires a fresh zypper dup"
-msgstr ""
+msgstr "Untuk bergabung, Anda harus baru saja menjalankan zypper dup"
 
 msgid "How could you join a party on Sat, Nov 7th from home?"
-msgstr ""
+msgstr "Bagaimana Anda dapat mengikuti pesta pada Sabtu, 7 November dari rumah?"
 
 msgid "At the virtual release party, online"
-msgstr ""
+msgstr "Dengan mengikuti pesta rilis virtual secara daring"
 
 msgid "By sending a fax to the openSUSE Board"
-msgstr ""
+msgstr "Dengan mengirim faks ke Dewan openSUSE"
 
 msgid "By filing a 'party' bug"
-msgstr ""
+msgstr "Dengan mengajukan laporan bug 'party'"
 
 msgid "You couldn't, parties are only in person"
-msgstr ""
+msgstr "Tidak bisa, pesta hanya diadakan secara tatap muka"
 
 msgid "When do the Wed, Nov 11th SUSE office parties start?"
-msgstr ""
+msgstr "Pukul berapa pesta di kantor SUSE pada Rabu, 11 November dimulai?"
 
 msgid "Prague at 18:30, Nuremberg at 16:00"
-msgstr ""
+msgstr "Praha pukul 18:30, Nürnberg pukul 16:00"
 
 msgid "Prague at 16:00, Nuremberg at 18:30"
-msgstr ""
+msgstr "Praha pukul 16:00, Nürnberg pukul 18:30"
 
 msgid "Both at 16:01, after the build"
-msgstr ""
+msgstr "Keduanya pukul 16:01, setelah proses build"
 
 msgid "Both at midnight UTC"
-msgstr ""
+msgstr "Keduanya pada tengah malam UTC"
 
 msgid "Which Czech sites advertised the parties?"
-msgstr ""
+msgstr "Situs Ceko mana saja yang mempromosikan pesta tersebut?"
 
 msgid "root.cz, abclinuxu.cz, linuxexpres.cz"
-msgstr ""
+msgstr "root.cz, abclinuxu.cz, linuxexpres.cz"
 
 msgid "idnes.cz, lide.cz, emimino.cz"
-msgstr ""
+msgstr "idnes.cz, lide.cz, emimino.cz"
 
 msgid "Only emimino.cz, in the baby forum"
-msgstr ""
+msgstr "Hanya emimino.cz, di forum bayi"
 
 msgid "Only lide.cz, in the dating chat"
-msgstr ""
+msgstr "Hanya lide.cz, di obrolan kencan"
 
 msgid "Besides Czechia and Germany, where are parties Nov 7th–14th?"
-msgstr ""
+msgstr "Selain Ceko dan Jerman, di mana pesta diadakan pada 7–14 November?"
 
 msgid "Where can you find all parties and public events?"
-msgstr ""
+msgstr "Di mana Anda dapat menemukan semua pesta dan acara publik?"
 
 msgid "calendar.opensuse.org"
-msgstr ""
+msgstr "calendar.opensuse.org"
 
 msgid "On a flyer in the SUSE office kitchen"
-msgstr ""
+msgstr "Pada selebaran di dapur kantor SUSE"
 
 msgid "Nowhere, ask on IRC and hope"
-msgstr ""
+msgstr "Tidak ada, tanyakan di IRC dan berharap mendapat jawaban"
 
 msgid "In the zypper changelog"
-msgstr ""
+msgstr "Di catatan perubahan zypper"
 
 msgid "Indonesia and India, thanks to active communities"
-msgstr ""
+msgstr "Indonesia dan India, berkat komunitas yang aktif"
 
 msgid "Antarctica and Atlantis, thanks to penguin users"
-msgstr ""
+msgstr "Antarktika dan Atlantis, berkat pengguna penguin"
 
 msgid "Vatican City and Monaco, by royal decree"
-msgstr ""
+msgstr "Kota Vatikan dan Monako, berdasarkan dekret kerajaan"
 
 msgid "Nowhere else, no other communities exist"
-msgstr ""
+msgstr "Tidak ada tempat lain, tidak ada komunitas lain"
 
 #~ msgid "Bsides English, which languages does it support?"
 #~ msgstr "Selain bahasa Inggris, bahasa apa yang didukung?"
