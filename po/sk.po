@@ -2,18 +2,7 @@
 # Stanislav Mitra <mitrastanislav@gmail.com>, 2025.
 # Lubos Kocman <lubos.kocman@suse.com>, 2025.
 msgid ""
-msgstr ""
-"Project-Id-Version: openSUSE Quiz\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-07 03:22+0100\n"
-"PO-Revision-Date: 2026-11-08 19:23+0000\n"
-"Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\n"
-"Language: sk\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.11.1\n"
+msgstr "Project-Id-Version: openSUSE Quiz\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-11-07 03:22+0100\nPO-Revision-Date: 2026-11-13 18:13+0000\nLast-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\nLanguage-Team: Slovak <https://l10n.opensuse.org/projects/quiz/quiz/sk/>\nLanguage: sk\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 2026.11.2\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -3365,25 +3354,25 @@ msgid "Use a recognizable nickname, like ZypperJedi, or preferably your real nam
 msgstr "Použite rozpoznateľnú prezývku, ako napríklad ZypperJedi, alebo najlepšie svoje skutočné meno (MenoPriezvisko)."
 
 msgid "openSUSE Leap 16.1 Release Party"
-msgstr ""
+msgstr "Oslava vydania openSUSE Leap 16.1"
 
 msgid "Leap 16.1 is out! Test what you know about the release and come celebrate with us."
-msgstr ""
+msgstr "Leap 16.1 je tu! Otestujte si svoje vedomosti o tejto verzii a oslávte to s nami."
 
 msgid "When was openSUSE Leap 16.1 released?"
-msgstr ""
+msgstr "Kedy bolo vydané openSUSE Leap 16.1?"
 
 msgid "Tuesday, November 3rd 2026"
-msgstr ""
+msgstr "Utorok, 3. novembra 2026"
 
 msgid "Friday, November 13th 2026"
-msgstr ""
+msgstr "Piatok, 13. novembra 2026"
 
 msgid "April 1st 2026"
-msgstr ""
+msgstr "1. apríla 2026"
 
 msgid "Not yet, still in Factory"
-msgstr ""
+msgstr "Zatiaľ nie, stále vo Factory"
 
 msgid "Where can I download Leap 16.1 images?"
 msgstr ""
