@@ -114,7 +114,7 @@
   <div id="status"></div>
 
   <script>
-    const results = <%- JSON.stringify(results) %>;
+    const results = <%- resultsJson %>;
     const names = Object.keys(results);
     let picked = [];
 
@@ -167,7 +167,11 @@
         return;
       }
       spinner.textContent = `🎊 Congratulations to all winners: 👏👏👏`;
-      status.innerHTML = picked.map((w, i) => `${i + 1}. ${w}`).join("<br>");
+      status.textContent = "";
+      picked.forEach((w, i) => {
+        if (i > 0) status.appendChild(document.createElement("br"));
+        status.appendChild(document.createTextNode(`${i + 1}. ${w}`));
+      });
       status.classList.add("winners-list");
     }
 

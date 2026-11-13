@@ -1,6 +1,14 @@
 // Execute by PORT=4000 node server.js
 
 const app = require("./app");
+const { RESET_TOKEN } = require("./consts");
+
+if (!RESET_TOKEN || RESET_TOKEN.length < 16) {
+  console.error(
+    "FATAL: RESET_TOKEN environment variable must be set (>=16 chars). Refusing to start."
+  );
+  process.exit(1);
+}
 
 const PORT = process.env.PORT || 4000;
 
