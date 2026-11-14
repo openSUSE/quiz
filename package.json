@@ -5,6 +5,7 @@
   "scripts": {
     "start": "nodemon src/server.js",
     "production": "node src/server.js",
+    "test": "node --test ./test/attemptRoutes.test.js ./test/attemptStore.test.js",
     "build:css": "lessc public/less/styles.less public/styles.css",
     "format": "prettier --write \"**/*.{js,json}\"",
     "format:check": "prettier --check \"**/*.{js,json}\"",
