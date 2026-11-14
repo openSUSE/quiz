@@ -7,6 +7,7 @@ require("ejs"); // Only for side effects, no variable assignment
 
 const consts = require("./consts");
 const routes = require("./route");
+const { createAttemptStore } = require("./attemptStore");
 
 const app = express();
 const gt = new Gettext();
@@ -24,6 +25,7 @@ if (
 
 // Initialize results
 let results = {};
+let attempts = {};
 let winnerCallTime = null;
 
 // Function to load results from file
@@ -38,25 +40,36 @@ function loadResultsFromFile() {
       !Array.isArray(parsed.results)
         ? parsed.results
         : {};
+    attempts =
+      parsed &&
+      parsed.attempts &&
+      typeof parsed.attempts === "object" &&
+      !Array.isArray(parsed.attempts)
+        ? parsed.attempts
+        : {};
     winnerCallTime =
       typeof parsed?.winnerCallTime === "string" ? parsed.winnerCallTime : null;
   } else {
     results = {};
+    attempts = {};
     winnerCallTime = null;
   }
 }
 
 function saveResultsToFile() {
+  const temporaryPath = `${consts.STATS_FILE_PATH}.tmp`;
   fs.writeFileSync(
-    consts.STATS_FILE_PATH,
-    JSON.stringify({ results, winnerCallTime }, null, 2),
+    temporaryPath,
+    JSON.stringify({ results, attempts, winnerCallTime }, null, 2),
     "utf-8"
   );
+  fs.renameSync(temporaryPath, consts.STATS_FILE_PATH);
 }
 
 // Function to clear results
 function clearResults() {
   for (const key in results) delete results[key];
+  for (const key in attempts) delete attempts[key];
   if (consts.STATS_MODE === "STATS_FILE") {
     saveResultsToFile();
   }
@@ -72,7 +85,26 @@ app.set("view engine", "ejs");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "..", "public")));
-app.use("/data", express.static(consts.DATA_DIR_PATH));
+app.use(
+  "/data",
+  (req, res, next) => {
+    let requestedPath;
+    try {
+      requestedPath = path.resolve(
+        consts.DATA_DIR_PATH,
+        `.${decodeURIComponent(req.path)}`
+      );
+    } catch (error) {
+      return res.sendStatus(404);
+    }
+    const statsPath = path.resolve(consts.STATS_FILE_PATH);
+    if (requestedPath === statsPath || requestedPath === `${statsPath}.tmp`) {
+      return res.sendStatus(404);
+    }
+    return next();
+  },
+  express.static(consts.DATA_DIR_PATH)
+);
 
 const quizFileDir = fs
   .readdirSync(consts.DATA_DIR_PATH)
@@ -117,6 +149,7 @@ const router = routes({
   quizzes,
   gt,
   results,
+  attemptStore: createAttemptStore(attempts),
   RESET_TOKEN: consts.RESET_TOKEN,
   clearResults,
   saveResultsToFile:
