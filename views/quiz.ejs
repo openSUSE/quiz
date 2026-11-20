@@ -18,6 +18,7 @@
           <input id="correct-top-hidden" name="correct" type="hidden"/>
           <input id="total-top-hidden" name="total" type="hidden"/>
           <input id="points-top-hidden" name="points" type="hidden"/>
+          <input id="attempt-id-hidden" name="attemptId" type="hidden"/>
           <button class="quit-btn hide" type="button"><%= uiStrings.quit %></button>
           <button class="submit-anytime-btn hide" type="button"><%= uiStrings.quitAndSubmit %></button>
           <input type="hidden" name="lang" value="<%= lang %>" /> <!-- preserve lang -->
@@ -61,6 +62,7 @@
     <script>
       const lang = "<%= lang %>";
       const nickname = "<%= nickname %>";
+      const quizSlug = "<%= quizSlug %>";
       const quizData = <%- quizData %>;
       const questions = <%- questions %>;
       const existingLogins = <%- existingLogins %>;
