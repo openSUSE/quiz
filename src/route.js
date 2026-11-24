@@ -4,6 +4,7 @@ const fs = require("fs");
 const crypto = require("crypto");
 const QRCode = require("qrcode");
 const consts = require("./consts");
+const { publicAttempt } = require("./attemptStore");
 const PO_DIR = path.join(consts.DATA_DIR_BASEPATH, "..", "po");
 const {
   localizeQuizData,
@@ -67,6 +68,7 @@ module.exports = (dependencies) => {
     quizzes,
     gt,
     results,
+    attemptStore,
     RESET_TOKEN,
     clearResults,
     saveResultsToFile,
@@ -192,61 +194,262 @@ module.exports = (dependencies) => {
   const Filter = require("bad-words");
   const filter = new Filter();
 
+  function getQuiz(quizSlug) {
+    if (!isValidQuizSlug(quizSlug)) return null;
+    return require(path.join(consts.DATA_DIR_PATH, `${quizSlug}.js`));
+  }
+
+  function validParticipant(username) {
+    return (
+      typeof username === "string" &&
+      username.trim().length >= 4 &&
+      username.trim().length <= 50 &&
+      !filter.isProfane(username.trim())
+    );
+  }
+
+  function persistAttempt(res, attempt) {
+    try {
+      saveResultsToFile();
+      return res.json({ attempt: publicAttempt(attempt) });
+    } catch (error) {
+      return res.status(503).json({ error: "Unable to save quiz progress." });
+    }
+  }
+
+  router.post("/api/attempt/start", (req, res) => {
+    const username = String(req.body.username || "").trim();
+    const quizSlug = req.body.quizSlug;
+    const quiz = getQuiz(quizSlug);
+    if (!validParticipant(username)) {
+      return res.status(400).json({ error: "Invalid participant name." });
+    }
+    if (!quiz) return res.status(400).json({ error: "Invalid quiz." });
+
+    const existing = attemptStore.get(username, quizSlug);
+    if (existing && existing.id !== req.body.attemptId) {
+      return res
+        .status(409)
+        .json({ error: "This quiz already has an active attempt." });
+    }
+
+    const attempt = attemptStore.start({
+      username,
+      quizSlug,
+      questionCount: quiz.questions.length,
+    });
+    return persistAttempt(res, attempt);
+  });
+
+  router.post("/api/attempt/question", (req, res) => {
+    const username = String(req.body.username || "").trim();
+    const quizSlug = req.body.quizSlug;
+    const attempt = attemptStore.get(username, quizSlug);
+    if (
+      !attempt ||
+      attempt.username !== username ||
+      attempt.id !== req.body.attemptId
+    ) {
+      return res.status(404).json({ error: "Quiz attempt not found." });
+    }
+    const result = attemptStore.startQuestion({
+      username,
+      quizSlug,
+      questionIndex: Number(req.body.questionIndex),
+    });
+    if (result.error) {
+      return res.status(409).json({ error: "Question is out of sequence." });
+    }
+    return persistAttempt(res, result.attempt);
+  });
+
+  router.post("/api/attempt/answer", (req, res) => {
+    const username = String(req.body.username || "").trim();
+    const quizSlug = req.body.quizSlug;
+    const quiz = getQuiz(quizSlug);
+    const attempt = attemptStore.get(username, quizSlug);
+    if (
+      !quiz ||
+      !attempt ||
+      attempt.username !== username ||
+      attempt.id !== req.body.attemptId
+    ) {
+      return res.status(404).json({ error: "Quiz attempt not found." });
+    }
+
+    const questionIndex = Number(req.body.questionIndex);
+    const answerIndex =
+      req.body.answerIndex === null ? null : Number(req.body.answerIndex);
+    if (
+      !Number.isInteger(questionIndex) ||
+      (answerIndex !== null &&
+        (!Number.isInteger(answerIndex) ||
+          answerIndex < 0 ||
+          answerIndex >= quiz.questions[questionIndex]?.answers.length))
+    ) {
+      return res.status(400).json({ error: "Invalid answer." });
+    }
+
+    const question = quiz.questions[questionIndex];
+    if (!question)
+      return res.status(409).json({ error: "Quiz is already complete." });
+    if (
+      questionIndex === attempt.currentQuestion - 1 &&
+      attempt.answers[questionIndex]?.answerIndex === answerIndex
+    ) {
+      return persistAttempt(res, attempt);
+    }
+    if (attempt.questionStartedAt === null) {
+      return res.status(409).json({ error: "Question has not started." });
+    }
+    const elapsedMs = Math.max(0, Date.now() - attempt.questionStartedAt);
+    const timeoutSeconds = Number(quiz.quizData.timeout);
+    const timedOut =
+      Number.isFinite(timeoutSeconds) &&
+      timeoutSeconds > 0 &&
+      elapsedMs >= timeoutSeconds * 1000;
+    if (answerIndex === null && !timedOut) {
+      return res.status(409).json({ error: "Question has not timed out." });
+    }
+
+    const isCorrect =
+      !timedOut &&
+      answerIndex !== null &&
+      question.answers[answerIndex].correct === true;
+    const textLength = String(question.text || "").replace(
+      /<[^>]*>/g,
+      ""
+    ).length;
+    const graceMs = Math.min(6000, 2000 + textLength * 35);
+    const factor = Math.max(
+      0.5,
+      Math.min(1, 1 - (Math.max(0, elapsedMs - graceMs) / 15000) * 0.5)
+    );
+    const gained = isCorrect
+      ? Math.round(consts.QUESTION_MAX_POINTS * factor)
+      : 0;
+    const result = attemptStore.answer({
+      username,
+      quizSlug,
+      questionIndex,
+      answerIndex,
+      correct: isCorrect,
+      points: gained,
+    });
+    if (result.error === "not_found") {
+      return res.status(404).json({ error: "Quiz attempt not found." });
+    }
+    if (result.error)
+      return res.status(409).json({ error: "Question is out of sequence." });
+    return persistAttempt(res, result.attempt);
+  });
+
+  router.post("/api/attempt/agility/start", (req, res) => {
+    const username = String(req.body.username || "").trim();
+    const quizSlug = req.body.quizSlug;
+    const quiz = getQuiz(quizSlug);
+    const attempt = attemptStore.get(username, quizSlug);
+    const checkpoint = Number(req.body.checkpoint);
+    const validCheckpoint =
+      quiz &&
+      quiz.quizData.agility !== false &&
+      consts.agilityCheckpoints(quiz.questions.length).includes(checkpoint) &&
+      checkpoint === attempt?.currentQuestion;
+    if (
+      !attempt ||
+      attempt.username !== username ||
+      attempt.id !== req.body.attemptId ||
+      !validCheckpoint
+    ) {
+      return res.status(409).json({ error: "Invalid agility round." });
+    }
+    const result = attemptStore.startAgilityRound({
+      username,
+      quizSlug,
+      checkpoint,
+    });
+    return persistAttempt(res, result.attempt);
+  });
+
+  router.post("/api/attempt/agility", (req, res) => {
+    const username = String(req.body.username || "").trim();
+    const quizSlug = req.body.quizSlug;
+    const quiz = getQuiz(quizSlug);
+    const attempt = attemptStore.get(username, quizSlug);
+    const checkpoint = Number(req.body.checkpoint);
+    const pending = attempt?.agility[checkpoint];
+    const validCheckpoint =
+      quiz &&
+      quiz.quizData.agility !== false &&
+      consts.agilityCheckpoints(quiz.questions.length).includes(checkpoint) &&
+      checkpoint === attempt?.currentQuestion &&
+      pending?.startedAt &&
+      !pending.finished;
+    if (
+      !attempt ||
+      attempt.username !== username ||
+      attempt.id !== req.body.attemptId ||
+      !validCheckpoint
+    ) {
+      return res.status(409).json({ error: "Invalid agility result." });
+    }
+    const result = attemptStore.addAgilityPoints({
+      username,
+      quizSlug,
+      checkpoint,
+      points: req.body.points,
+      maxPoints: consts.AGILITY_MAX_POINTS,
+    });
+    return persistAttempt(res, result.attempt);
+  });
+
   router.post("/submit", (req, res) => {
     const lang = req.body.lang || "en";
-    const username = req.body.username;
+    const username = String(req.body.username || "").trim();
     const quizTitle = req.body.quizTitle;
     const quizSlug = req.body.quizSlug;
-    let correct = Number(req.body.correct) || 0;
-    let total = Number(req.body.total) || 0;
-    let points = Math.round(Number(req.body.points) || 0);
+    const attemptId = req.body.attemptId;
 
     if (!username || !quizTitle) {
       return res.status(400).send("Missing username or quiz title.");
     }
-
-    // Profanity check
-    if (filter.isProfane(username)) {
+    if (!validParticipant(username)) {
       return res.status(400).send("Inappropriate username detected.");
     }
 
-    // Validate quizSlug against allowed list
-    if (!isValidQuizSlug(quizSlug)) {
+    const quiz = getQuiz(quizSlug);
+    const attempt = attemptStore.get(username, quizSlug);
+    if (!quiz) {
       return res.status(400).send("Invalid quiz slug.");
     }
+    if (!attempt || attempt.username !== username || attempt.id !== attemptId) {
+      const previous = results[username]?.quizzes?.[quizSlug];
+      if (previous?.lastAttemptId === attemptId && attemptId) {
+        return res.redirect(`/stats?lang=${encodeURIComponent(lang)}`);
+      }
+      return res.status(409).send("Quiz attempt is no longer active.");
+    }
+    const completed = results[username]?.quizzes?.[quizSlug];
+    if (completed?.lastAttemptId === attemptId) {
+      return res.redirect(`/stats?lang=${encodeURIComponent(lang)}`);
+    }
+    const total = attempt.currentQuestion;
+    if (
+      total === 0 ||
+      (total < quiz.questions.length && !quiz.quizData.submitAnytime)
+    ) {
+      return res.status(409).send("Quiz attempt cannot be submitted yet.");
+    }
+    const { correct, points } = attempt;
 
-    const quizPath = path.join(consts.DATA_DIR_PATH, `${quizSlug}.js`);
-    const { questions, quizData } = require(quizPath);
-    const actualTotal = questions.length;
-
-    // Clamp totals
-    total = Math.min(total, actualTotal);
-    correct = Math.min(correct, total);
-
-    // Clamp points to what was achievable for the answered questions
-    const agilityRounds =
-      quizData && quizData.agility === false
-        ? 0
-        : consts
-            .agilityCheckpoints(actualTotal)
-            .filter((checkpoint) => checkpoint <= total).length;
-    const maxPoints =
-      correct * consts.QUESTION_MAX_POINTS +
-      agilityRounds * consts.AGILITY_MAX_POINTS;
-    points = Math.min(Math.max(points, 0), maxPoints);
-
+    const previousUserResult = results[username]
+      ? JSON.parse(JSON.stringify(results[username]))
+      : null;
     // Initialize user results if needed
     if (!results[username]) {
       results[username] = {
         quizzes: {},
         aggregate: { correct: 0, wrong: 0, score: 0 },
-      };
-    }
-
-    // Initialize user results if needed
-    if (!results[username]) {
-      results[username] = {
-        quizzes: {},
       };
     }
 
@@ -256,16 +459,26 @@ module.exports = (dependencies) => {
         total,
         points,
         retakes: 0,
+        lastAttemptId: attempt.id,
       };
     } else {
       results[username].quizzes[quizSlug].retakes += 1;
       results[username].quizzes[quizSlug].correct = correct;
       results[username].quizzes[quizSlug].total = total;
       results[username].quizzes[quizSlug].points = points;
+      results[username].quizzes[quizSlug].lastAttemptId = attempt.id;
     }
 
-    saveResultsToFile();
-    res.redirect(`/stats?lang=${lang}`);
+    attemptStore.finish(username, quizSlug);
+    try {
+      saveResultsToFile();
+      res.redirect(`/stats?lang=${encodeURIComponent(lang)}`);
+    } catch (error) {
+      if (previousUserResult) results[username] = previousUserResult;
+      else delete results[username];
+      attemptStore.restore(attempt);
+      return res.status(503).send("Unable to save quiz result. Please retry.");
+    }
   });
 
   // API endpoint to get winner call time

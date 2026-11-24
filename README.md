@@ -37,7 +37,7 @@ A goal of this project is to provide openSUSE booth staff with a local instance 
 
 ✅ **Getting familiar with openSUSE** mode: Keep track of attendees and provide a mini interactive (press enter) lottery at the end. So everybody can win some prizes. 🎁
 
-✅ **GDPR compliant**: No worries about GDPR! The database is in-memory only, holds only nicknames, and data is erased after the process is stopped or restarted. You can also reset stats by simply visiting `/reset`. 🛡️
+Quiz results store participant nicknames and scores. Active attempts also store selected answers and scoring progress so a refresh can resume fairly; these are removed when submitted or when results are reset. With `STATS_MODE=STATS_FILE`, active attempts are saved in the configured stats file. With `STATS_MODE=IN_MEMORY`, attempts are lost when the process restarts. `/reset` clears both results and active attempts.
 
 ## 📜 License
 

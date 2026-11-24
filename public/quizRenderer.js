@@ -20,11 +20,6 @@ let correct = 0;
 let questionTimeout = null;
 let timerInterval = null;
 
-// Points: answers are worth more the faster they come, agility rounds
-// (at half-time and at the end) add up to Agility.MAX_POINTS each.
-const QUESTION_MAX_POINTS = 1000;
-const QUESTION_MIN_FACTOR = 0.5; // slow but correct still earns half
-const QUESTION_DECAY_MS = 15000; // time after the reading grace to hit the floor
 // Quizzes shorter than this only get the final agility round.
 const AGILITY_HALFTIME_MIN_QUESTIONS = 10;
 const agilityEnabled =
@@ -44,32 +39,35 @@ function shuffledAgilityRounds() {
 let agilityPlan = shuffledAgilityRounds();
 let agilityRoundsPlayed = 0;
 let lastAgilityAt = 0;
-let questionShownAt = 0;
-let answerClickedAt = 0;
 let agilityRunning = false;
+let attemptId = null;
 
-// Longer questions get a longer reading grace before points start dropping.
-function readingGraceMs(question) {
-  // Measure visible text only; DOMParser builds an inert document (no
-  // scripts run, no resources load), unlike regex-based tag stripping.
-  const doc = new DOMParser().parseFromString(
-    String(question.text || ""),
-    "text/html"
-  );
-  const len = (doc.body.textContent || "").length;
-  return Math.min(6000, 2000 + len * 35);
+function attemptStorageKeyFor(username) {
+  return `quizAttempt:${quizSlug}:${username.trim().toLowerCase()}`;
 }
 
-function questionPoints(elapsedMs, question) {
-  return Math.round(
-    QUESTION_MAX_POINTS *
-      Agility.speedFactor(
-        elapsedMs,
-        readingGraceMs(question),
-        readingGraceMs(question) + QUESTION_DECAY_MS,
-        QUESTION_MIN_FACTOR
-      )
-  );
+async function attemptRequest(path, payload) {
+  const response = await fetch(path, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  const body = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(body.error || uiStrings.progressSaveError);
+  return body.attempt;
+}
+
+function applyAttempt(attempt) {
+  attemptId = attempt.id;
+  // This ID is only a resume capability; attempt data and scores remain on the server.
+  const username =
+    attempt.username || document.getElementById("username").value;
+  localStorage.setItem(attemptStorageKeyFor(username), attempt.id);
+  if (attempt.username) updateUsernameValues(attempt.username);
+  document.getElementById("attempt-id-hidden").value = attempt.id;
+  currentQuestion = attempt.currentQuestion;
+  correct = attempt.correct;
+  points = attempt.points;
 }
 
 // Keep in sync with agilityCheckpoints() in src/consts.js
@@ -95,9 +93,38 @@ async function runAgilityRound() {
     .filter(Boolean)
     .forEach((node) => node.classList.add("hide"));
 
-  const type = agilityPlan[agilityRoundsPlayed++ % agilityPlan.length];
-  const result = await Agility.runRound(type, stage, uiStrings);
-  points += result.points;
+  let attempt;
+  try {
+    attempt = await attemptRequest("/api/attempt/agility/start", {
+      username: document.getElementById("username").value,
+      quizSlug,
+      attemptId,
+      checkpoint: currentQuestion,
+    });
+  } catch (error) {
+    alert(error.message);
+    window.location.reload();
+    return;
+  }
+  const interrupted = Boolean(attempt.agility[currentQuestion]?.finished);
+  if (!interrupted) {
+    const type = agilityPlan[agilityRoundsPlayed++ % agilityPlan.length];
+    const result = await Agility.runRound(type, stage, uiStrings);
+    try {
+      attempt = await attemptRequest("/api/attempt/agility", {
+        username: document.getElementById("username").value,
+        quizSlug,
+        attemptId,
+        checkpoint: currentQuestion,
+        points: result.points,
+      });
+    } catch (error) {
+      alert(error.message);
+      window.location.reload();
+      return;
+    }
+  }
+  applyAttempt(attempt);
   updateScoreDisplay(document.getElementById("username").value);
 
   // quit / submit-anytime are restored by loadQuestion(), Next is not
@@ -143,7 +170,6 @@ window.addEventListener("load", () => {
   const savedNickname = localStorage.getItem("quizNickname");
   if (savedNickname) {
     updateUsernameValues(savedNickname);
-    // auto-skip start screen and go straight to quiz
     handleStartAction();
   }
 
@@ -225,7 +251,7 @@ window.addEventListener("load", () => {
   }
 });
 
-function handleStartAction() {
+async function handleStartAction() {
   const usernameInput = document.getElementById("username");
   const topForm = document.querySelector(".submit-form-top");
 
@@ -284,7 +310,23 @@ function handleStartAction() {
   }
 
   // passed validation — save nickname now
+  startBtn.disabled = true;
+  attemptId = localStorage.getItem(attemptStorageKeyFor(username));
+  let attempt;
+  try {
+    attempt = await attemptRequest("/api/attempt/start", {
+      username,
+      quizSlug,
+      attemptId,
+    });
+  } catch (error) {
+    startBtn.disabled = false;
+    usernameInput.classList.add("input-error");
+    alert(error.message);
+    return;
+  }
   localStorage.setItem("quizNickname", username);
+  applyAttempt(attempt);
 
   usernameInput.disabled = true;
   document.getElementById("username-top-hidden").value = username;
@@ -328,7 +370,11 @@ function startQuiz() {
   const usernameBox = document.getElementById("username");
   updateScoreDisplay(usernameBox.value);
 
-  loadQuestion(currentQuestion);
+  if (agilityDue()) {
+    runAgilityRound().then(() => loadQuestion(currentQuestion));
+  } else {
+    loadQuestion(currentQuestion);
+  }
 }
 
 function endQuiz(isQuitAndSubmit = false) {
@@ -342,7 +388,7 @@ function endQuiz(isQuitAndSubmit = false) {
   }
 
   correctBoxTop.value = correct;
-  totalBoxTop.value = currentQuestion > 0 ? currentQuestion : questions.length;
+  totalBoxTop.value = currentQuestion;
   document.getElementById("points-top-hidden").value = points;
   document.getElementById("username-top-hidden").value = usernameBox.value;
 
@@ -405,7 +451,7 @@ function isFinalQuestion() {
   return currentQuestion === questions.length;
 }
 
-function loadQuestion(questionNum) {
+async function loadQuestion(questionNum) {
   // End early if we’ve run out of questions
   if (currentQuestion === questions.length) {
     endQuiz();
@@ -419,6 +465,21 @@ function loadQuestion(questionNum) {
   clearTimeout(questionTimeout);
   clearInterval(timerInterval);
 
+  let attempt;
+  try {
+    attempt = await attemptRequest("/api/attempt/question", {
+      username: usernameBox.value,
+      quizSlug,
+      attemptId,
+      questionIndex: questionNum,
+    });
+  } catch (error) {
+    alert(error.message);
+    window.location.reload();
+    return;
+  }
+  applyAttempt(attempt);
+
   let timerDisplay = document.getElementById("timer");
   if (!timerDisplay) {
     timerDisplay = document.createElement("div");
@@ -429,11 +490,18 @@ function loadQuestion(questionNum) {
 
   if (quizData.timeout && !isNaN(quizData.timeout)) {
     timerDisplay.classList.remove("hide");
-    let timeLeft = quizData.timeout;
+    const timeoutMs = quizData.timeout * 1000;
+    let timeLeft = Math.max(
+      0,
+      Math.ceil((timeoutMs - (Date.now() - attempt.questionStartedAt)) / 1000)
+    );
     updateTimerDisplay(timerDisplay, timeLeft);
 
     timerInterval = setInterval(() => {
-      timeLeft--;
+      timeLeft = Math.max(
+        0,
+        Math.ceil((timeoutMs - (Date.now() - attempt.questionStartedAt)) / 1000)
+      );
       updateTimerDisplay(timerDisplay, timeLeft);
       if (timeLeft <= 5) timerDisplay.className = "critical";
       else if (timeLeft <= 10) timerDisplay.className = "warning";
@@ -444,10 +512,13 @@ function loadQuestion(questionNum) {
       }
     }, 1000);
 
-    questionTimeout = setTimeout(() => {
-      clearInterval(timerInterval);
-      checkAnswer(true);
-    }, quizData.timeout * 1000);
+    questionTimeout = setTimeout(
+      () => {
+        clearInterval(timerInterval);
+        checkAnswer();
+      },
+      Math.max(0, timeoutMs - (Date.now() - attempt.questionStartedAt))
+    );
   } else {
     timerDisplay.classList.add("hide");
   }
@@ -473,49 +544,51 @@ function loadQuestion(questionNum) {
   btnGrid.classList.add("btn-grid");
   answersContainer.appendChild(btnGrid);
 
-  questions[questionNum].answers.forEach((answer) => {
+  questions[questionNum].answers.forEach((answer, answerIndex) => {
     const answerElement = document.createElement("button");
     answerElement.innerHTML = answer.text;
     answerElement.dataset.correct = answer.correct;
+    answerElement.dataset.index = String(answerIndex);
     answerElement.addEventListener("click", (e) => {
       Array.from(btnGrid.children).forEach(
         (element) => (element.disabled = true)
       );
-      answerClickedAt = performance.now();
       answerElement.dataset.clicked = "true";
-      checkAnswer();
+      checkAnswer(Number(answerElement.dataset.index));
     });
     btnGrid.appendChild(answerElement);
   });
-  questionShownAt = performance.now();
 }
 
-function checkAnswer(isTimeout = false) {
+async function checkAnswer(answerIndex = null) {
   clearTimeout(questionTimeout);
   clearInterval(timerInterval);
-  let gained = 0;
-
-  Array.from(answersContainer.children[0].children).forEach((button) => {
-    if (button.dataset.correct === "true") {
-      button.classList.add("correct");
-      if (button.dataset.clicked === "true" && !isTimeout) {
-        correct++;
-        gained = questionPoints(
-          answerClickedAt - questionShownAt,
-          questions[currentQuestion]
-        );
+  const previousPoints = points;
+  try {
+    const attempt = await attemptRequest("/api/attempt/answer", {
+      username: document.getElementById("username").value,
+      quizSlug,
+      attemptId,
+      questionIndex: currentQuestion,
+      answerIndex,
+    });
+    applyAttempt(attempt);
+    const recorded = attempt.answers[currentQuestion - 1];
+    Array.from(answersContainer.children[0].children).forEach((button) => {
+      if (button.dataset.index === String(recorded.answerIndex)) {
+        button.classList.add(recorded.correct ? "correct" : "wrong");
       }
-    } else {
-      button.classList.add("wrong");
-    }
-    button.disabled = true;
-  });
-
-  currentQuestion++;
-  points += gained;
+      if (button.dataset.correct === "true") button.classList.add("correct");
+      button.disabled = true;
+    });
+  } catch (error) {
+    alert(error.message);
+    window.location.reload();
+    return;
+  }
   const usernameBox = document.getElementById("username");
   updateScoreDisplay(usernameBox.value);
-  showPointsGain(gained);
+  showPointsGain(points - previousPoints);
 }
 
 function updateTimerDisplay(timerElement, timeLeft) {
